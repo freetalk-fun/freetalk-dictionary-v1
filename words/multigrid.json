@@ -1,0 +1,13 @@
+{
+    "term": "multigrid",
+    "meanings": [
+        {
+            "definition": "A method for solving partial differential equations by using a hierarchy of grids with different levels of resolution.",
+            "pos": "noun"
+        },
+        {
+            "definition": "A technique for accelerating the convergence of iterative solvers by transferring information between grids of varying sizes.",
+            "pos": "noun"
+        }
+    ]
+}
