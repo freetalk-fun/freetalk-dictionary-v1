@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "The ability to deliver or be delivered.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The deliverability of the package was impressive.",
+            "sent2": "We tested the deliverability of the new mail service.",
+            "sent3": "The deliverability of the message brought smiles to everyone's faces.",
+            "sent4": "Her speech had the deliverability of a well-aimed arrow hitting its target.",
+            "sent5": "The deliverability of the medicine was crucial for the patient's recovery."
         },
         {
             "definition": "The likelihood that an email will successfully reach the recipient's inbox.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The deliverability of the newsletter was high this month.",
+            "sent2": "Improving email deliverability is essential for marketing campaigns.",
+            "sent3": "The deliverability of the spam folder made the email disappear into the abyss.",
+            "sent4": "The deliverability of the email was like finding a needle in a haystack.",
+            "sent5": "She checked the deliverability of her email by sending a test message."
         }
     ]
 }

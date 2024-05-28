@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A secret or disguised way of writing; a code.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I created a cipher to send a secret message to my friend.",
+            "sent2": "The spy used a complex cipher to encrypt his top-secret information.",
+            "sent3": "The detective cracked the cipher and uncovered the hidden message.",
+            "sent4": "Her smile was like a cipher, revealing her true feelings to those who knew her well.",
+            "sent5": "The ancient scroll contained a mysterious cipher that puzzled historians for years."
         },
         {
             "definition": "A person or thing of no value or importance.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "He felt like a cipher in the presence of the famous celebrities.",
+            "sent2": "The old broken toy was considered a cipher among the valuable antiques.",
+            "sent3": "The lost pen was just a cipher in the grand scheme of things.",
+            "sent4": "In the bustling city, he was just a cipher in the crowd of strangers.",
+            "sent5": "The forgotten book became a cipher on the dusty shelf of the library."
         },
         {
             "definition": "To use mathematical symbols to encode or decode a message.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She had to cipher the encrypted message to reveal its true meaning.",
+            "sent2": "The students learned how to cipher messages using complex algorithms.",
+            "sent3": "He tried to cipher the math problem but got confused with the symbols.",
+            "sent4": "In order to understand the ancient text, they had to cipher the coded language.",
+            "sent5": "The spy needed to quickly cipher the secret code before time ran out."
         }
     ]
 }

@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A single person or thing",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "She was the only one left in the room.",
+            "sent2": "The little one played with the toy car.",
+            "sent3": "The lost one wandered around looking for its owner.",
+            "sent4": "In a sea of faces, she stood out as the one.",
+            "sent5": "The red one among the blue ones caught everyone's attention."
         },
         {
             "definition": "A person of a specified kind or character",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "He is the brave one who always stands up for others.",
+            "sent2": "The funny one in the group made everyone laugh.",
+            "sent3": "The clumsy one tripped over his own feet again.",
+            "sent4": "She is the creative one who comes up with new ideas.",
+            "sent5": "The adventurous one always seeks new experiences and challenges."
         },
         {
             "definition": "A person or thing of importance or consequence",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The chosen one will lead us to victory.",
+            "sent2": "The wise one's advice is always valuable.",
+            "sent3": "The missing one in the puzzle made it impossible to solve.",
+            "sent4": "The powerful one held the fate of the kingdom in their hands.",
+            "sent5": "The legendary one's story inspired generations to come."
         }
     ]
 }

@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A harsh, grating sound made by something moving slowly",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The old wooden floor let out a loud creak as I tiptoed across it.",
+            "sent2": "I heard a creak coming from the rusty swing as it swayed back and forth.",
+            "sent3": "The creak of the door sounded like a ghost trying to communicate.",
+            "sent4": "The creak of the ship's hull echoed through the silent night at sea.",
+            "sent5": "The creak of the branches in the wind made the forest seem alive."
         },
         {
             "definition": "To make a harsh, grating sound",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I accidentally stepped on a toy car, causing it to creak under my weight.",
+            "sent2": "The old gate creaked loudly as I pushed it open.",
+            "sent3": "The rusty swing creaked in protest as I sat down on it.",
+            "sent4": "The floorboards creaked with every step I took in the quiet house.",
+            "sent5": "The wind made the branches creak against the window pane."
         },
         {
             "definition": "A noise resembling the creak of a door",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The sound of the old piano had a strange creak to it.",
+            "sent2": "The distant creak of the ship's mast carried over the water.",
+            "sent3": "The creak of the rusty swing blended with the chirping of birds.",
+            "sent4": "The eerie creak of the abandoned house sent shivers down my spine.",
+            "sent5": "The creak of the rocking chair filled the room with a sense of nostalgia."
         }
     ]
 }

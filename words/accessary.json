@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A person who helps someone commit a crime.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The accessary was found guilty of aiding in the robbery.",
+            "sent2": "The police arrested the accessary who assisted in the burglary.",
+            "sent3": "The accessary's attempt to cover up the crime only made things worse.",
+            "sent4": "Being an accessary to the theft, he found himself in deep trouble.",
+            "sent5": "The accessary's involvement in the crime was undeniable."
         },
         {
             "definition": "Providing a means of approaching or entering a place or object.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The accessary key allowed entry into the building.",
+            "sent2": "The accessary bridge provided a safe way across the river.",
+            "sent3": "The accessary ladder made it easy to reach the top shelf.",
+            "sent4": "The accessary code granted access to the secure room.",
+            "sent5": "The accessary path led them through the dense forest."
         }
     ]
 }

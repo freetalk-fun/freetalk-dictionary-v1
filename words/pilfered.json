@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Steal (verb)",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He pilfered some cookies from the jar.",
+            "sent2": "The thief pilfered money from the cash register.",
+            "sent3": "The mischievous squirrel pilfered nuts from the picnic basket.",
+            "sent4": "She pilfered glances at her crush during class.",
+            "sent5": "The sneaky raccoon pilfered shiny objects for its collection."
         },
         {
             "definition": "Stolen goods (noun)",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The police recovered the pilfered jewelry from the thief.",
+            "sent2": "The store owner reported the pilfered items missing.",
+            "sent3": "The cat proudly presented its pilfered toy mouse as a gift.",
+            "sent4": "The pirate's chest was full of pilfered treasures.",
+            "sent5": "The museum displayed the pilfered artifacts for all to see."
         }
     ]
 }

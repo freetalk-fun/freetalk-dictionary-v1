@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A person who makes a telephone call.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The telephoner dialed the number to talk to a friend.",
+            "sent2": "The telephoner called their mom to say goodnight.",
+            "sent3": "The telephoner accidentally called the wrong number and had a funny conversation.",
+            "sent4": "She was a telephoner, connecting people's voices across long distances.",
+            "sent5": "The telephoner always had their phone in hand, ready to chat with anyone."
         },
         {
             "definition": "To make a telephone call.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I will telephoner my sister after dinner.",
+            "sent2": "He telephonered his boss to discuss the project.",
+            "sent3": "The cat tried to telephoner by pawing at the phone.",
+            "sent4": "She telephonered her best friend for advice on the situation.",
+            "sent5": "They telephoner every night before going to bed."
         }
     ]
 }

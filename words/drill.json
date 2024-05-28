@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A tool with a rotating cutting tip for making holes in hard substances.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "My dad used a drill to make a hole in the wall.",
+            "sent2": "The construction worker grabbed the drill to fix the broken shelf.",
+            "sent3": "The drill looked like a tiny tornado spinning through the wood.",
+            "sent4": "The drill bit sliced through the metal like a hot knife through butter.",
+            "sent5": "The loud noise of the drill echoed through the workshop."
         },
         {
             "definition": "To bore or make a hole with a drill.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I had to drill a hole in the wall to hang the picture.",
+            "sent2": "The dentist needed to drill to fix my cavity.",
+            "sent3": "I accidentally drilled a hole in my pencil case while trying to sharpen a pencil.",
+            "sent4": "Her words seemed to drill into my mind, leaving a lasting impact.",
+            "sent5": "The rain began to drill down on the roof, creating a soothing sound."
         },
         {
             "definition": "To train or instruct by repetition.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The coach would drill the team on the same play until they got it right.",
+            "sent2": "She would drill her lines for the play every night to memorize them.",
+            "sent3": "The teacher's voice seemed to drill the information into our heads during the lecture.",
+            "sent4": "His strict routine drilled discipline into his daily life.",
+            "sent5": "The dance instructor would drill the steps with precision and patience."
         }
     ]
 }

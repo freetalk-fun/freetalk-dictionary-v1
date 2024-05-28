@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A person who welcomes or receives guests.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The greeter at the hotel lobby welcomed us with a smile.",
+            "sent2": "The greeter at the party greeted everyone warmly.",
+            "sent3": "The greeter at the zoo accidentally welcomed a group of monkeys thinking they were guests.",
+            "sent4": "The rising sun acted as a greeter, welcoming the world to a new day.",
+            "sent5": "The greeter's friendly demeanor made everyone feel at home."
         },
         {
             "definition": "A device or program that automatically sends a response to incoming messages.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The email greeter sent an automated reply to acknowledge the message.",
+            "sent2": "The chatbot greeter responded instantly to the customer's inquiry.",
+            "sent3": "The phone greeter mistakenly replied 'Thank you!' to a spam call.",
+            "sent4": "The automatic doors acted like a greeter, opening to welcome each person inside.",
+            "sent5": "The virtual greeter provided a quick response to every incoming query."
         },
         {
             "definition": "A person who says hello to customers entering a store or business.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The friendly greeter at the store entrance welcomed shoppers with a cheerful greeting.",
+            "sent2": "The greeter at the restaurant entrance guided customers to their tables.",
+            "sent3": "The greeter at the movie theater entrance accidentally said 'Welcome to the library!' to a patron.",
+            "sent4": "The colorful balloons by the entrance acted as a greeter, catching the attention of passersby.",
+            "sent5": "The greeter's warm smile set a positive tone for everyone entering the store."
         }
     ]
 }

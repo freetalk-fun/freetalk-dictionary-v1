@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To poke or jab with a pointed object.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She prodded the cake with a fork to check if it was done.",
+            "sent2": "The farmer prodded the haystack with a stick to search for his lost keys.",
+            "sent3": "The mischievous kitten prodded the sleeping dog, hoping for a playful response.",
+            "sent4": "His curiosity prodded him to explore the mysterious cave despite the warnings.",
+            "sent5": "The detective prodded for clues in the crime scene, determined to solve the case."
         },
         {
             "definition": "A pointed object used for prodding.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The shepherd used a prod to guide the sheep back to the pen.",
+            "sent2": "The chef's kitchen utensils included a meat prod for tenderizing meat.",
+            "sent3": "The circus performer juggled knives, fire, and a prod with impressive skill.",
+            "sent4": "In the medieval times, knights carried a prod as part of their armor.",
+            "sent5": "The explorer's backpack contained a sturdy prod for hiking through dense vegetation."
         },
         {
             "definition": "To encourage or urge someone to do something.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The coach prodded the team to give their best performance in the championship.",
+            "sent2": "His friends prodded him to try bungee jumping, despite his fear of heights.",
+            "sent3": "The teacher prodded the students to participate in the class discussion.",
+            "sent4": "The motivational speaker's words prodded the audience to pursue their dreams.",
+            "sent5": "The supportive crowd's cheers prodded the marathon runner to push through the last mile."
         }
     ]
 }

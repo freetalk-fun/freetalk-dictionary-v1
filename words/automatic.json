@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Acting or done without conscious thought or intention.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "Her automatic response to danger was to run away.",
+            "sent2": "The automatic doors opened as we approached the store.",
+            "sent3": "He pressed the automatic coffee maker button and watched it brew his morning cup.",
+            "sent4": "The automatic sprinklers turned on as soon as the sun set.",
+            "sent5": "The cat's automatic reflex was to jump when startled."
         },
         {
             "definition": "A machine or device that operates by itself.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The car's automatic transmission made driving easier for him.",
+            "sent2": "She relied on the automatic dishwasher to clean the dishes every night.",
+            "sent3": "The automatic vacuum cleaner bumped into the wall and changed direction.",
+            "sent4": "The automatic garage door opened with a loud hum.",
+            "sent5": "The factory had an automatic assembly line that increased efficiency."
         }
     ]
 }

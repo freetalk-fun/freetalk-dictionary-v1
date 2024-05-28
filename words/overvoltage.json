@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A voltage that exceeds the normal or rated voltage level.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The overvoltage damaged the electronic device.",
+            "sent2": "The technician warned about the dangers of overvoltage in the circuit.",
+            "sent3": "The overvoltage situation made the light bulb flicker comically.",
+            "sent4": "The sudden surge of overvoltage was like a lightning strike in the system.",
+            "sent5": "The overvoltage spike was as bright as a thousand suns in the sky."
         },
         {
             "definition": "To subject to an excessive voltage.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Do not overvoltage the sensitive equipment during testing.",
+            "sent2": "The power surge accidentally overvoltaged the entire network.",
+            "sent3": "He jokingly threatened to overvoltage the old radio for fun.",
+            "sent4": "The storm seemed to overvoltage the entire town with its energy.",
+            "sent5": "The experiment aimed to overvoltage the system to observe its limits."
         }
     ]
 }

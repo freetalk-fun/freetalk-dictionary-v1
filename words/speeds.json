@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "The rate at which someone or something moves or operates.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The speeds of the cars on the highway vary.",
+            "sent2": "The cheetah's speeds are impressive as it chases its prey.",
+            "sent3": "The snail envied the speeds of the rabbit in the race.",
+            "sent4": "The speeds of the river's current carried the boat swiftly downstream.",
+            "sent5": "The speeds of the roller coaster made my heart race with excitement."
         },
         {
             "definition": "Move quickly.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She speeds through her homework to go play outside.",
+            "sent2": "The athlete speeds towards the finish line in the race.",
+            "sent3": "The squirrel speeds up the tree to escape the chasing cat.",
+            "sent4": "Time speeds by when you're having fun with friends.",
+            "sent5": "The wind speeds through the open window, cooling the room."
         },
         {
             "definition": "The rate at which something happens or is done.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The speeds of production at the factory have increased.",
+            "sent2": "The speeds of the internet connection affect online gaming.",
+            "sent3": "The speeds of the clock's hands seemed to slow down during the boring lecture.",
+            "sent4": "The speeds of the assembly line determine the efficiency of the manufacturing process.",
+            "sent5": "The speeds of the dancers' movements were perfectly synchronized."
         }
     ]
 }

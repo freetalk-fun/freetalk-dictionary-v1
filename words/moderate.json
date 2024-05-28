@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Average in amount, intensity, quality, or degree.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "She had a moderate amount of candy in her bag.",
+            "sent2": "The weather was moderate, not too hot or too cold.",
+            "sent3": "He took a moderate sip of his drink and made a funny face.",
+            "sent4": "Her painting was a moderate success at the art show.",
+            "sent5": "The teacher's voice was a moderate hum in the background."
         },
         {
             "definition": "Avoiding extremes in behavior or expression.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "He always had a moderate response to criticism.",
+            "sent2": "She had a moderate tone when discussing the issue.",
+            "sent3": "The cat gave a moderate meow when asking for food.",
+            "sent4": "His smile was a moderate curve, not too big or too small.",
+            "sent5": "The party had a moderate level of excitement, not too wild or too dull."
         },
         {
             "definition": "To preside over or act as a mediator in a discussion or debate.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She was asked to moderate the panel discussion.",
+            "sent2": "He will moderate the debate between the two sides.",
+            "sent3": "The teacher had to moderate the argument between the students.",
+            "sent4": "The judge will moderate the courtroom proceedings.",
+            "sent5": "The referee had to moderate the heated soccer match."
         }
     ]
 }

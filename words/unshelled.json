@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Not having a shell",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The unshelled egg cracked easily.",
+            "sent2": "The unshelled peanuts were ready to eat.",
+            "sent3": "The unshelled turtle felt exposed without its protection.",
+            "sent4": "The unshelled acorn lay vulnerable on the ground.",
+            "sent5": "The unshelled crab scuttled along the shore, defenseless."
         },
         {
             "definition": "To remove the shell from something",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She unshelled the boiled eggs for the salad.",
+            "sent2": "He unshelled the pistachios before serving them.",
+            "sent3": "The squirrel unshelled the nuts with precision, making a mess.",
+            "sent4": "The chef unshelled the lobster with expertise.",
+            "sent5": "They unshelled the peas quickly, ready for cooking."
         }
     ]
 }

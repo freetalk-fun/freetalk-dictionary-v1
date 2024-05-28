@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A loud, harsh noise.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The clame of thunder scared the little dog.",
+            "sent2": "The clame of the fire alarm woke everyone up.",
+            "sent3": "The clame of the baby's cry echoed through the house.",
+            "sent4": "The clame of the car crash made everyone stop in their tracks.",
+            "sent5": "The clame of the fireworks lit up the night sky."
         },
         {
             "definition": "To make a loud, harsh noise.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The drums clame loudly during the parade.",
+            "sent2": "The wind clamed through the trees on a stormy night.",
+            "sent3": "The old door clamed every time it was opened.",
+            "sent4": "The lion's roar clamed through the jungle, announcing its presence.",
+            "sent5": "The thunder clamed as the storm approached."
         },
         {
             "definition": "To demand or ask for something as a right.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She clamed for justice after the unfair treatment.",
+            "sent2": "The workers clamed for better wages and working conditions.",
+            "sent3": "The child clamed for a toy at the store.",
+            "sent4": "The protesters clamed for equal rights in the streets.",
+            "sent5": "The student clamed for extra credit on the assignment."
         }
     ]
 }

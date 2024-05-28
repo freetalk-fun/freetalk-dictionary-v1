@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A small number of something",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I have a few apples in my bag.",
+            "sent2": "There are only a few students in the classroom.",
+            "sent3": "The squirrel gathered a few nuts for the winter.",
+            "sent4": "The few stars in the sky twinkled brightly.",
+            "sent5": "A few drops of rain fell on the dry ground."
         },
         {
             "definition": "Not many; a small amount",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "She has a few books on her shelf.",
+            "sent2": "There are only a few cookies left in the jar.",
+            "sent3": "The cat took a few lazy steps before lying down.",
+            "sent4": "The few clouds in the sky looked like fluffy cotton balls.",
+            "sent5": "A few kind words can brighten someone's day."
         }
     ]
 }

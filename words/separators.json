@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A thing that separates two or more things from each other.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The fence acted as a separator between the two yards.",
+            "sent2": "The wall was built as a separator between the rooms.",
+            "sent3": "The separator between the siblings' rooms was a line of toys.",
+            "sent4": "The river served as a natural separator between the two towns.",
+            "sent5": "The mountain range acted as a massive separator between the countries."
         },
         {
             "definition": "A device or substance that is used to separate one thing from another.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The sieve is a useful separator for flour and sugar.",
+            "sent2": "The filter is a common separator for liquids and solids.",
+            "sent3": "The separator in the dishwasher keeps the dishes clean and dry.",
+            "sent4": "The magnet acts as a separator for iron and non-ferrous metals.",
+            "sent5": "The barrier serves as a physical separator between the two areas."
         },
         {
             "definition": "A punctuation mark used to separate words or phrases in a sentence.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Commas are important separators in a list of items.",
+            "sent2": "The semicolon is a versatile separator in written language.",
+            "sent3": "The exclamation point can be a fun separator in texts.",
+            "sent4": "The colon is a clear separator between the time and the event.",
+            "sent5": "The hyphen is a useful separator in compound words."
         }
     ]
 }

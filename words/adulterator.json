@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A person who adulterates something.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The adulterator mixed the ingredients incorrectly.",
+            "sent2": "The adulterator added fake spices to the dish.",
+            "sent3": "The adulterator accidentally put salt instead of sugar in the cake.",
+            "sent4": "She was a sneaky adulterator, altering the documents without anyone noticing.",
+            "sent5": "The adulterator's actions tainted the purity of the product."
         },
         {
             "definition": "A tool or device used to adulterate something.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The kitchen adulterator was used to dilute the drink.",
+            "sent2": "The chemical adulterator altered the test results.",
+            "sent3": "The sneaky adulterator tool made the painting look older than it was.",
+            "sent4": "The adulterator device transformed the original flavor of the food.",
+            "sent5": "The adulterator's impact was evident in the final product."
         }
     ]
 }

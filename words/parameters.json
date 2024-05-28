@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A numerical or other measurable factor forming one of a set that defines a system or sets the conditions of its operation.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The scientist adjusted the parameters of the experiment to ensure accurate results.",
+            "sent2": "The software engineer input the parameters for the algorithm to function correctly.",
+            "sent3": "The chef followed the recipe's parameters, but the dish turned out surprisingly delicious.",
+            "sent4": "In the world of music, the parameters of a melody can evoke various emotions.",
+            "sent5": "Understanding the parameters of a mathematical equation is crucial for solving it."
         },
         {
             "definition": "A limit or boundary that defines the scope of a particular process or activity.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The teacher set clear parameters for the students' research project.",
+            "sent2": "The city council discussed the parameters of the new zoning regulations.",
+            "sent3": "The cat cleverly pushed the boundaries of the parameters set by its owner.",
+            "sent4": "The artist's creativity knew no parameters, reaching new heights of expression.",
+            "sent5": "Exploring the parameters of a new language can be both challenging and rewarding."
         }
     ]
 }

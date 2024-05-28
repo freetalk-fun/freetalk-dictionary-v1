@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "The raised edge of a sidewalk or road.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I tripped on the curbs while walking on the sidewalk.",
+            "sent2": "The car drove over the curbs and onto the grass.",
+            "sent3": "The skateboarder tried to ollie over the curbs but failed hilariously.",
+            "sent4": "Her determination to stay on the right path acted as curbs against distractions.",
+            "sent5": "The curbs acted as a barrier, separating the road from the pedestrian walkway."
         },
         {
             "definition": "To restrain or control.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She curbs her excitement before the big surprise.",
+            "sent2": "The teacher curbs the students' chatter with a stern look.",
+            "sent3": "He tried to curb his laughter during the serious meeting.",
+            "sent4": "The new rules aim to curb excessive spending in the department.",
+            "sent5": "Curbs on sugary snacks help maintain a healthy diet."
         },
         {
             "definition": "To lessen or restrict.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Eating smaller portions helps curb hunger throughout the day.",
+            "sent2": "The government implemented measures to curb pollution in the city.",
+            "sent3": "She decided to curb her spending to save money for a vacation.",
+            "sent4": "The team's strong defense curbs the opponent's scoring opportunities.",
+            "sent5": "Regular exercise can help curb stress and anxiety levels."
         }
     ]
 }

@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Something",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I found a summat interesting in the old book.",
+            "sent2": "Can you pass me that summat over there?",
+            "sent3": "The cat knocked over a summat and made a mess.",
+            "sent4": "Her smile was like a summat shining in the dark.",
+            "sent5": "The treasure chest was filled with glittering summat."
         },
         {
             "definition": "A certain unspecified thing or amount",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "There's summat strange about that house.",
+            "sent2": "I need to buy summat for the party tomorrow.",
+            "sent3": "He always carries around summat mysterious in his pocket.",
+            "sent4": "The fog obscured summat in the distance.",
+            "sent5": "The magician pulled out summat unexpected from his hat."
         }
     ]
 }

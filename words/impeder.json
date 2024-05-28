@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A person or thing that impedes or obstructs progress.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The slow traffic was an impeder to our journey.",
+            "sent2": "The fallen tree acted as an impeder on the path.",
+            "sent3": "The impeder in the form of a closed road made us take a detour.",
+            "sent4": "Her fear of failure was an invisible impeder holding her back.",
+            "sent5": "The impeder, like a giant boulder, blocked our way forward."
         },
         {
             "definition": "To hinder or obstruct the progress of something.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Please do not impeder the flow of traffic by parking in the middle of the road.",
+            "sent2": "The heavy rain impedered our plans for a picnic in the park.",
+            "sent3": "His habit of procrastination tends to impeder his academic success.",
+            "sent4": "The lack of resources impedered the completion of the project on time.",
+            "sent5": "The thick fog impedered visibility on the road, causing delays."
         }
     ]
 }

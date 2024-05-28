@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To cause inconvenience or trouble to",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I didn't want to discommode you by asking for a ride.",
+            "sent2": "Please let me know if I discommode you with my request.",
+            "sent3": "It would discommode me greatly if you could lend me a hand.",
+            "sent4": "Her sudden arrival discommoded the carefully planned event.",
+            "sent5": "The unexpected rain discommoded our picnic plans."
         },
         {
             "definition": "An inconvenience or disturbance",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The delay at the airport was a discommode for many travelers.",
+            "sent2": "Carrying heavy bags can be a discommode when traveling.",
+            "sent3": "The noisy neighbors were a constant discommode to the peaceful community.",
+            "sent4": "The power outage was a discommode during the important presentation.",
+            "sent5": "The broken elevator was a significant discommode for the residents."
         }
     ]
 }

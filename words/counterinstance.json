@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "An instance that contradicts or disproves a general statement or rule.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "In the debate, she presented a counterinstance that showed the theory was incorrect.",
+            "sent2": "The scientist found a counterinstance that proved the hypothesis wrong.",
+            "sent3": "The counterinstance she shared made everyone rethink their assumptions.",
+            "sent4": "His discovery was a counterinstance that shattered the established belief.",
+            "sent5": "The counterinstance stood out as a clear contradiction to the common belief."
         },
         {
             "definition": "To provide an example that goes against a previously stated argument or theory.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He decided to counterinstance the theory by offering a different perspective.",
+            "sent2": "She always counterinstances any argument that lacks evidence.",
+            "sent3": "The professor counterinstanced the outdated theory with new research.",
+            "sent4": "They counterinstanced the old idea with a fresh approach.",
+            "sent5": "To counterinstance effectively, one must present solid evidence."
         }
     ]
 }

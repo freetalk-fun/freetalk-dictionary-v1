@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A short phrase or sentence that conveys a message or meaning.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The sig on the card said 'Happy Birthday!'",
+            "sent2": "She always includes a sig at the end of her emails.",
+            "sent3": "The mysterious sig on the note made everyone curious.",
+            "sent4": "His sig was like a secret code that only he understood.",
+            "sent5": "The sig on the poster caught everyone's attention."
         },
         {
             "definition": "To write one's name on a document to show approval or agreement.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Please sig at the bottom of the contract.",
+            "sent2": "He quickly sigged the permission slip and handed it back.",
+            "sent3": "She had to sig so many papers, her hand started to ache.",
+            "sent4": "Sigging the letter felt like sealing a promise.",
+            "sent5": "He hesitated before sigging his name on the form."
         },
         {
             "definition": "A symbol or abbreviation used to represent a word or phrase.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The sig '&' stands for 'and'.",
+            "sent2": "In texting, people often use sigs like 'LOL'.",
+            "sent3": "The sig 'etc.' is handy for listing things quickly.",
+            "sent4": "Her sig for 'attention' was a red exclamation mark.",
+            "sent5": "The sig 'vs.' indicates a comparison between two things."
         }
     ]
 }

@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A person who reads and corrects written material for publication.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The copyreader checked for spelling mistakes in the article.",
+            "sent2": "The copyreader works for a publishing company.",
+            "sent3": "The copyreader found a funny typo in the book.",
+            "sent4": "The copyreader's eagle eyes caught every error in the manuscript.",
+            "sent5": "The copyreader's job is to ensure the text is error-free before printing."
         },
         {
             "definition": "To read and correct written material for publication.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She copyreads articles for a magazine.",
+            "sent2": "He copyreads the newspaper every morning.",
+            "sent3": "They copyread the novel with a red pen in hand.",
+            "sent4": "The team copyreads each page meticulously.",
+            "sent5": "Copyreading requires attention to detail and patience."
         }
     ]
 }

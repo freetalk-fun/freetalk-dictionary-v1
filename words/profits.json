@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "The financial gain made in a transaction",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The company's profits increased after a successful quarter.",
+            "sent2": "Businesses aim to make profits to grow and expand.",
+            "sent3": "The profits from selling lemonade at the stand were enough to buy a new toy.",
+            "sent4": "Her hard work in the stock market yielded profits beyond her expectations.",
+            "sent5": "The profits from the bake sale were enough to fund the school trip."
         },
         {
             "definition": "To benefit or gain advantage",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She profits from her daily exercise routine by staying healthy.",
+            "sent2": "It is important to profit from constructive feedback to improve.",
+            "sent3": "The students will profit greatly from the extra study session before the exam.",
+            "sent4": "He will profit from the mentorship of experienced professionals in his field.",
+            "sent5": "The team will profit from working together to achieve their common goal."
         }
     ]
 }

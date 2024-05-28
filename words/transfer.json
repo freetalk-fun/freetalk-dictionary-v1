@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To move from one place to another.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I will transfer the books to the shelf.",
+            "sent2": "Can you transfer the files to the USB drive?",
+            "sent3": "The cat tried to transfer the toy mouse to its bed.",
+            "sent4": "Her smile seemed to transfer happiness to everyone around her.",
+            "sent5": "The sun's rays transfer warmth to the earth."
         },
         {
             "definition": "To convey or shift from one person or place to another.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Please transfer the message to your friend.",
+            "sent2": "They will transfer the patient to a different hospital.",
+            "sent3": "The magician tried to transfer the coin from one hand to the other.",
+            "sent4": "His words seemed to transfer confidence to the team.",
+            "sent5": "The wind can transfer pollen from one flower to another."
         },
         {
             "definition": "The act of transferring something from one place to another.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The transfer of goods between warehouses is efficient.",
+            "sent2": "She completed the transfer of ownership paperwork.",
+            "sent3": "The transfer of power from the old king to the new one was smooth.",
+            "sent4": "The transfer of knowledge from teacher to student is essential.",
+            "sent5": "The transfer of energy from the sun powers our planet."
         }
     ]
 }

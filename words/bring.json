@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To carry or convey something to a place",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I will bring the book to school tomorrow.",
+            "sent2": "Can you bring the groceries from the car?",
+            "sent3": "He forgot to bring his lunch, so he had to buy food at school.",
+            "sent4": "Her smile always brings warmth to the room.",
+            "sent5": "The aroma of fresh cookies can bring joy to anyone."
         },
         {
             "definition": "To cause someone or something to come to a place",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The teacher's whistle will bring the students back inside.",
+            "sent2": "The sound of the bell brings the birds to the feeder.",
+            "sent3": "The magician's trick was to bring a rabbit out of a hat.",
+            "sent4": "His speech brought tears to her eyes.",
+            "sent5": "The music can bring memories flooding back."
         },
         {
             "definition": "To make something happen or exist",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Studying hard will bring success in the exam.",
+            "sent2": "Positive thoughts can bring good things into your life.",
+            "sent3": "The chef's secret ingredient can bring out amazing flavors.",
+            "sent4": "Her determination brought about positive changes in the community.",
+            "sent5": "A single spark can bring a whole new idea to life."
         }
     ]
 }

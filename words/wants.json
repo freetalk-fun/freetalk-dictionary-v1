@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Have a desire to possess or do something.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She wants to play outside.",
+            "sent2": "He wants a new toy for his birthday.",
+            "sent3": "The cat wants to chase the butterfly.",
+            "sent4": "The flower wants to reach for the sunlight.",
+            "sent5": "The child wants to learn how to ride a bike."
         },
         {
             "definition": "Lacks or needs something.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The plant wants more water to grow.",
+            "sent2": "He wants help with his homework.",
+            "sent3": "The phone wants to be charged to work.",
+            "sent4": "The car wants a full tank to go on a long trip.",
+            "sent5": "The dog wants attention from its owner."
         },
         {
             "definition": "A wish or desire.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Her wants are simple: food, water, and love.",
+            "sent2": "His wants include a new bike and a puppy.",
+            "sent3": "The cat's wants are clear: sleep and play.",
+            "sent4": "The tree's wants are hidden beneath its roots.",
+            "sent5": "The child's wants are written in a letter to Santa."
         }
     ]
 }

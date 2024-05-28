@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Something given in return for good behavior or effort.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The teacher gave a reward to the student for completing all their homework.",
+            "sent2": "The puppy received a reward for learning a new trick.",
+            "sent3": "The cat expected a reward for catching the toy mouse.",
+            "sent4": "The smile on her face was the best reward for his hard work.",
+            "sent5": "The shiny gold star served as a tangible reward for her achievements."
         },
         {
             "definition": "To give something in return for good behavior or effort.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Parents often reward their children with treats for good behavior.",
+            "sent2": "The coach will reward the team with a pizza party for winning the championship.",
+            "sent3": "The magician will reward the audience with a surprise trick at the end of the show.",
+            "sent4": "Nature rewards those who take care of the environment with beautiful landscapes.",
+            "sent5": "Hard work and dedication will always reward you with success in the end."
         }
     ]
 }

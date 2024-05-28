@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To decide or settle conclusively",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She determinates the movie they will watch every Friday night.",
+            "sent2": "He determinates the best route to take before starting the journey.",
+            "sent3": "The magic coin determinates whether it will be a good or bad day.",
+            "sent4": "Her smile determinates the mood of the entire room.",
+            "sent5": "The final exam determinates their grades for the semester."
         },
         {
             "definition": "A factor that decisively affects the nature or outcome of something",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The weather is a determinates in deciding if the picnic will happen.",
+            "sent2": "The availability of funds is a crucial determinates in starting a business.",
+            "sent3": "The color of the walls turned out to be the determinates of the room's ambiance.",
+            "sent4": "His leadership skills became the determinates of the team's success.",
+            "sent5": "The quality of ingredients is a determinates in making a delicious meal."
         }
     ]
 }

@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To make an effort to achieve or complete something.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She will attempt to climb the tree.",
+            "sent2": "He always attempts to solve puzzles quickly.",
+            "sent3": "The cat will attempt to catch the laser pointer.",
+            "sent4": "The student attempted to reach the highest grade in the class.",
+            "sent5": "The chef will attempt to create a new recipe for the menu."
         },
         {
             "definition": "An act of trying to do something, typically with the intention of succeeding.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Her attempt to bake a cake was successful.",
+            "sent2": "The team made an attempt to score a goal.",
+            "sent3": "The clown's attempt to juggle eggs was hilarious.",
+            "sent4": "His attempt to break the record was admirable.",
+            "sent5": "The artist's attempt to paint a masterpiece was inspiring."
         }
     ]
 }

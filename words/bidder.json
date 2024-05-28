@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A person or company making an offer to buy something at an auction.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The bidder raised his hand to place a bid on the painting.",
+            "sent2": "The auctioneer announced the highest bidder for the antique vase.",
+            "sent3": "The bidder accidentally bid on a garden gnome instead of the antique clock.",
+            "sent4": "In the heat of the auction, the bidder's heart raced with excitement.",
+            "sent5": "The determined bidder outbid everyone to win the rare stamp collection."
         },
         {
             "definition": "A person who offers to do a job or provide a service for a certain price.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The construction company was the lowest bidder for the building project.",
+            "sent2": "The highest bidder for the catering service won the contract.",
+            "sent3": "The bidder jokingly offered to mow the lawn for a million dollars.",
+            "sent4": "She was a strong bidder in the competitive market of freelance writers.",
+            "sent5": "The skilled bidder impressed the client with a detailed proposal."
         }
     ]
 }

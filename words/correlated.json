@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Have a mutual relationship or connection.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The number of hours spent studying is correlated with exam grades.",
+            "sent2": "Scientists have found that smoking is correlated with lung cancer.",
+            "sent3": "It's funny how the amount of ice cream eaten is correlated with the temperature outside.",
+            "sent4": "Her mood always seems to be correlated with the weather outside.",
+            "sent5": "The level of noise in the classroom is directly correlated with student engagement."
         },
         {
             "definition": "Show a mutual relationship or connection.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The data clearly correlated the increase in sales with the new marketing strategy.",
+            "sent2": "The study correlated the use of sunscreen with a decrease in skin damage.",
+            "sent3": "The way he always wears a hat is correlated with his love for fashion.",
+            "sent4": "Her actions perfectly correlated with her words, showing her sincerity.",
+            "sent5": "The rise in temperature correlated with the melting of the snow outside."
         },
         {
             "definition": "Involving two or more variables that tend to move in the same direction.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The correlated data points on the graph show a clear pattern.",
+            "sent2": "In a correlated study, researchers found a strong link between exercise and weight loss.",
+            "sent3": "The correlated trends in the stock market can be unpredictable at times.",
+            "sent4": "The correlated movements of the dancers created a mesmerizing performance.",
+            "sent5": "The correlated colors in the painting gave it a harmonious feel."
         }
     ]
 }

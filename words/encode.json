@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Convert (information or data) into a code.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I will encode this secret message so no one else can read it.",
+            "sent2": "Programmers often encode sensitive information to protect it from hackers.",
+            "sent3": "I tried to encode my shopping list, but now I can't remember what I needed to buy!",
+            "sent4": "Her smile seemed to encode a hidden message that only he could understand.",
+            "sent5": "The ancient map was encoded with symbols that led to buried treasure."
         },
         {
             "definition": "Transform (a message) into a code.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The spy needed to encode the coordinates before sending them to headquarters.",
+            "sent2": "During wartime, important messages were often encoded to prevent interception.",
+            "sent3": "I accidentally encoded my phone number, and now I can't remember it!",
+            "sent4": "His emotions were encoded in the lyrics of the song, revealing his true feelings.",
+            "sent5": "The magician's trick seemed to encode a hidden meaning that left the audience in awe."
         },
         {
             "definition": "Represent (a message or information) in a particular way.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Artists often encode their emotions into their paintings for viewers to interpret.",
+            "sent2": "The ancient civilization used hieroglyphics to encode their history on stone tablets.",
+            "sent3": "I tried to encode my to-do list, but now I can't remember what tasks I had planned.",
+            "sent4": "The old photograph seemed to encode a nostalgic memory of a bygone era.",
+            "sent5": "The cryptic symbols seemed to encode a hidden message waiting to be deciphered."
         }
     ]
 }

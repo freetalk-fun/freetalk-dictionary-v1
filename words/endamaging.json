@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To cause harm or damage to something.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Careless behavior can endamaging your belongings.",
+            "sent2": "Using harsh chemicals can endamaging the surface of the table.",
+            "sent3": "Accidentally spilling juice on your laptop can endamaging its functionality.",
+            "sent4": "Ignoring regular maintenance can slowly endamaging your car over time.",
+            "sent5": "The storm's strong winds endamaging the roof of the house, causing leaks."
         },
         {
             "definition": "The act of harming or damaging something.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The endamaging of the ancient artifact was a tragic loss.",
+            "sent2": "The endamaging of the environment is a serious concern for conservationists.",
+            "sent3": "The endamaging of the cake during transport left it in a crumbled mess.",
+            "sent4": "The endamaging of trust between friends can be difficult to repair.",
+            "sent5": "The endamaging of the painting was a heartbreaking sight for art lovers."
         }
     ]
 }

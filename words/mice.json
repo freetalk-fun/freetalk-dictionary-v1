@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Plural of mouse",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I saw two mice in the field.",
+            "sent2": "The mice scurried across the kitchen floor.",
+            "sent3": "The mice had a party in the pantry last night.",
+            "sent4": "The field was alive with tiny mice darting around.",
+            "sent5": "The farmer's cat caught a mouse, but the other mice escaped."
         },
         {
             "definition": "Small rodents with pointed snouts and long tails",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The mice nibbled on cheese crumbs.",
+            "sent2": "I found a family of mice living in the shed.",
+            "sent3": "The mischievous mice played hide and seek in the garden.",
+            "sent4": "The mice in the barn were as quick as lightning.",
+            "sent5": "The children giggled as they watched the mice scurry around the room."
         },
         {
             "definition": "Computer input device with a hand-operated control that moves a cursor on a computer screen",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "She used the mice to click on the icons.",
+            "sent2": "The office upgraded their computers with new mice.",
+            "sent3": "The mice on the desk seemed to multiply overnight.",
+            "sent4": "The wireless mice made working on the computer easier.",
+            "sent5": "He preferred using a trackpad over a mice for navigation."
         }
     ]
 }

@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To count or calculate incorrectly.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She miscounts the money in her piggy bank sometimes.",
+            "sent2": "He often miscounts the number of candies in the jar.",
+            "sent3": "The robot miscounts the steps and ends up walking in circles.",
+            "sent4": "Her mind miscounts the days, making her think it's Friday when it's only Wednesday.",
+            "sent5": "The miscounting of ingredients in the recipe leads to a disastrous cake."
         },
         {
             "definition": "An incorrect counting or calculation.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The miscount of chairs caused confusion during the meeting.",
+            "sent2": "There was a miscount in the inventory of office supplies.",
+            "sent3": "The miscount of stars in the sky made the child giggle.",
+            "sent4": "The miscount of votes changed the outcome of the election.",
+            "sent5": "The miscount in the puzzle pieces made it impossible to complete the picture."
         }
     ]
 }

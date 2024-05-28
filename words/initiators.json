@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A person or group that initiates something.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The initiators of the project were excited to get started.",
+            "sent2": "The initiators of the plan gathered everyone for a meeting.",
+            "sent3": "The initiators of the surprise party had to keep it a secret.",
+            "sent4": "She was the initiator of the book club, sparking a love for reading in others.",
+            "sent5": "The initiators of change often face challenges but also bring progress."
         },
         {
             "definition": "A substance that starts a chemical reaction.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The initiators in the experiment caused the reaction to begin.",
+            "sent2": "Scientists use initiators to kickstart chemical processes.",
+            "sent3": "The initiators in the solution made the colors change unexpectedly.",
+            "sent4": "The initiator in the mixture acted like a catalyst, speeding up the reaction.",
+            "sent5": "Adding initiators to the mixture was the key to starting the reaction."
         },
         {
             "definition": "A device that starts a process or action.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The initiators in the machine triggered the sequence of events.",
+            "sent2": "Pressing the button on the initiator activated the mechanism.",
+            "sent3": "The initiator on the remote control made the toy car zoom forward.",
+            "sent4": "The initiator on the timer set off the fireworks display.",
+            "sent5": "The initiators on the control panel were essential for launching the rocket."
         }
     ]
 }

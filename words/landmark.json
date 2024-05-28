@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "An object or feature of a landscape or town that is easily seen and recognized from a distance, especially one that enables someone to establish their location.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The tall lighthouse served as a landmark for sailors at sea.",
+            "sent2": "The Eiffel Tower is a famous landmark in Paris.",
+            "sent3": "The landmark tree waved its branches to guide lost travelers.",
+            "sent4": "Her smile was a landmark in the crowd, shining brightly.",
+            "sent5": "The ancient castle stood as a majestic landmark against the sky."
         },
         {
             "definition": "An event, discovery, or change marking an important stage or turning point in something.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The moon landing was a landmark in space exploration.",
+            "sent2": "The invention of the telephone was a significant landmark in communication history.",
+            "sent3": "The cat's birthday party became a landmark event in the neighborhood.",
+            "sent4": "Her graduation day was a landmark moment in her academic journey.",
+            "sent5": "The peaceful protest became a landmark for social change."
         }
     ]
 }

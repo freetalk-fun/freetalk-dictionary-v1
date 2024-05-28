@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A signature added to a document already signed by another person to confirm its authenticity.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The countersignature on the contract showed that it was genuine.",
+            "sent2": "Please provide your countersignature at the bottom of the form.",
+            "sent3": "The countersignature on the will made sure it wasn't a fake.",
+            "sent4": "Her countersignature was like a seal of approval on the agreement.",
+            "sent5": "The countersignature was the final touch that proved the document's validity."
         },
         {
             "definition": "To sign a document as a witness to the original signature.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I will countersignature the letter to confirm I saw it being signed.",
+            "sent2": "The notary will countersignature the deed after you sign it.",
+            "sent3": "He had to countersignature the check to make it official.",
+            "sent4": "She countersignatured the contract to validate the agreement.",
+            "sent5": "Countersignaturing the document was necessary to complete the process."
         }
     ]
 }

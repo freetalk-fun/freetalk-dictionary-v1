@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "(noun) a straight line that is neither vertical nor horizontal, connecting two opposite corners of a shape",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The carpenter drew a diagonal across the square piece of wood.",
+            "sent2": "The artist sketched a diagonal line from one corner to the other.",
+            "sent3": "The mischievous cat left a trail of diagonal scratches on the sofa.",
+            "sent4": "Her gaze followed a diagonal path through the crowded room.",
+            "sent5": "The kite soared high, tethered to a bright red diagonal string."
         },
         {
             "definition": "(adjective) slanting or inclined at an angle",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "She placed the diagonal board against the wall.",
+            "sent2": "The roof had a diagonal slope that shed rainwater efficiently.",
+            "sent3": "The cake had a diagonal slice missing, thanks to the sneaky dog.",
+            "sent4": "His handwriting slanted diagonally across the page.",
+            "sent5": "The tree's shadow fell in a diagonal pattern on the sidewalk."
         },
         {
             "definition": "(verb) to move or extend in a diagonal direction",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The knight would diagonal across the chessboard to capture the pawn.",
+            "sent2": "She watched the ball diagonal swiftly towards the goal.",
+            "sent3": "The squirrel decided to diagonal up the tree trunk instead of taking the usual route.",
+            "sent4": "The river seemed to diagonal through the valley, cutting a path of its own.",
+            "sent5": "The airplane started to diagonal upwards into the clear blue sky."
         }
     ]
 }

@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "The outer edge of a circular object",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The bicycle's rims were shiny and silver.",
+            "sent2": "The car's rims were custom-made and expensive.",
+            "sent3": "The rims on the clock made it look like a tiny race car.",
+            "sent4": "Her eyes sparkled like the rims of a sports car.",
+            "sent5": "The rims of the glasses reflected the sunlight brightly."
         },
         {
             "definition": "To form a rim around something",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She carefully rims the pie crust with a fork.",
+            "sent2": "The artist rims the painting with a thin gold border.",
+            "sent3": "He decided to rim his sandwich with extra cheese for fun.",
+            "sent4": "The moon rims the night sky with a silver glow.",
+            "sent5": "The chef rims the plate with a drizzle of balsamic vinegar."
         }
     ]
 }

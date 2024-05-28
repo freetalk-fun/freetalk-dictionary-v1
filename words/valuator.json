@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A person who assesses the value or worth of something.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The valuator carefully examined the antique vase to determine its value.",
+            "sent2": "The valuator at the pawn shop appraised the jewelry brought in by customers.",
+            "sent3": "The valuator at the charity event mistakenly priced a toy car as if it were a real one.",
+            "sent4": "She was a valuator of emotions, always able to gauge how others were feeling.",
+            "sent5": "The valuator's job is to assign a monetary worth to various items based on their condition and rarity."
         },
         {
             "definition": "To determine the value or worth of something.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He will valuate the house before deciding on a selling price.",
+            "sent2": "The insurance company will valuate the damage caused by the storm.",
+            "sent3": "She valuated her collection of stamps and was pleasantly surprised by their worth.",
+            "sent4": "The teacher valuated the students' projects based on creativity and effort.",
+            "sent5": "It is important to valuate your skills and experiences when applying for a job."
         }
     ]
 }

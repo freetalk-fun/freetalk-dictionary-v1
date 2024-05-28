@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A suffix used to form the present participle of verbs.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The bird is sing ing a beautiful song.",
+            "sent2": "She is read ing a book in the library.",
+            "sent3": "The cat is danc ing on the table, entertaining everyone.",
+            "sent4": "The sun is sett ing, painting the sky with vibrant colors.",
+            "sent5": "The children are laugh ing and play ing in the park."
         },
         {
             "definition": "A suffix used to form gerunds.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Jogging is good for your health.",
+            "sent2": "Swimming is a fun activity during summer.",
+            "sent3": "Eating is my favorite hobby, especially trying new foods.",
+            "sent4": "Learning is like planting seeds of knowledge in your mind.",
+            "sent5": "Helping others is a rewarding experience for everyone involved."
         }
     ]
 }

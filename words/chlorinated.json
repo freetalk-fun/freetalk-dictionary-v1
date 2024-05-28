@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Treat or combine with chlorine.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The pool water was chlorinated to keep it clean.",
+            "sent2": "The workers chlorinated the drinking water to make it safe.",
+            "sent3": "The chef accidentally chlorinated the soup instead of adding salt.",
+            "sent4": "She chlorinated her laundry with bleach to remove tough stains.",
+            "sent5": "The scientist chlorinated the sample to analyze its chemical composition."
         },
         {
             "definition": "Containing or treated with chlorine.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The chlorinated pool had a strong smell of chemicals.",
+            "sent2": "The chlorinated towels felt crisp and clean.",
+            "sent3": "The chlorinated air in the swimming pool made her sneeze.",
+            "sent4": "The chlorinated vegetables tasted slightly different.",
+            "sent5": "The chlorinated tap water was safe to drink."
         }
     ]
 }

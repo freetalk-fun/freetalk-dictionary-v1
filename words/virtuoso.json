@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A person highly skilled in music or another artistic pursuit.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The young virtuoso played the piano beautifully at the concert.",
+            "sent2": "She is known as a virtuoso violinist in the orchestra.",
+            "sent3": "The virtuoso painter created a masterpiece using only his fingers.",
+            "sent4": "Her skills on the guitar make her a true virtuoso in the music world.",
+            "sent5": "The virtuoso dancer moved across the stage with grace and precision."
         },
         {
             "definition": "A person with exceptional ability or technique in a particular field.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The chess virtuoso defeated all opponents in record time.",
+            "sent2": "He is a virtuoso when it comes to solving complex math problems.",
+            "sent3": "The cooking virtuoso whipped up a delicious meal in minutes.",
+            "sent4": "Her virtuoso skills in negotiation always lead to successful deals.",
+            "sent5": "The young virtuoso programmer developed a groundbreaking software application."
         }
     ]
 }

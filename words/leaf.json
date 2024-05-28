@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "The main lateral appendage of a plant, which is typically flat, thin, and green, and is the main site of photosynthesis.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The green leaf on the tree helps the plant make food.",
+            "sent2": "I picked up a fallen leaf from the ground.",
+            "sent3": "The leaf danced in the wind, showing off its green color.",
+            "sent4": "Her smile was as bright as a leaf in the sunlight.",
+            "sent5": "The leaf fluttered down gently, like a tiny green parachute."
         },
         {
             "definition": "A single sheet of paper in a book, magazine, or newspaper.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "She turned the leaf of the book to find her place.",
+            "sent2": "The last leaf in the magazine had a beautiful illustration.",
+            "sent3": "The leaf in the book seemed to whisper secrets to her.",
+            "sent4": "His words were written on the leaf of the newspaper for all to see.",
+            "sent5": "The leaf in the novel held the key to the mystery."
         },
         {
             "definition": "To turn over the pages of a book or magazine quickly without reading them.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I leaf through the pages of the magazine at the doctor's office.",
+            "sent2": "She likes to leaf through cookbooks for new recipes.",
+            "sent3": "He would leaf through the book, pretending to be interested.",
+            "sent4": "Time seemed to leaf by as she flipped through the pages.",
+            "sent5": "The student would leaf through the textbook before the exam."
         }
     ]
 }

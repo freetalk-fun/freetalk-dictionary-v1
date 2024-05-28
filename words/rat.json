@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A rodent with a pointed snout, long tail, and sharp teeth.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The rat scurried across the floor of the barn.",
+            "sent2": "I saw a rat in the alley behind the restaurant last night.",
+            "sent3": "The rat peeked out from behind the cheese, looking mischievous.",
+            "sent4": "Her office was a rat's nest of papers and folders.",
+            "sent5": "The rat's teeth were as sharp as tiny daggers."
         },
         {
             "definition": "To betray or inform on someone.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He decided to rat on his friends to avoid trouble.",
+            "sent2": "She promised not to rat out her classmates for cheating.",
+            "sent3": "The spy ratting on his own team was caught red-handed.",
+            "sent4": "She felt guilty after ratting on her brother for breaking the vase.",
+            "sent5": "The witness finally decided to rat on the criminal to the police."
         },
         {
             "definition": "To desert or abandon a group or cause.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He chose to rat on his team and join the opponents.",
+            "sent2": "She felt conflicted about ratting on her old company for a better offer.",
+            "sent3": "The soldier regretted ratting on his comrades during the battle.",
+            "sent4": "The politician was known for ratting on his party for personal gain.",
+            "sent5": "The employee decided to rat on her colleagues and switch departments."
         }
     ]
 }

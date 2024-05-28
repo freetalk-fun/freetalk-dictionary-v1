@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Past tense of 'ask'",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Yesterday, I aked my teacher a question.",
+            "sent2": "She aked her friend for help with the homework.",
+            "sent3": "The curious cat aked the bird why it could fly.",
+            "sent4": "The detective aked the suspect for his alibi.",
+            "sent5": "The child aked Santa for a new toy."
         },
         {
             "definition": "To request information or an answer",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Can I aked you a question about the assignment?",
+            "sent2": "He aked the librarian for a book recommendation.",
+            "sent3": "The puppy aked for a treat by wagging its tail.",
+            "sent4": "The journalist aked the politician for a statement.",
+            "sent5": "The student aked the teacher for extra help."
         },
         {
             "definition": "To inquire about something",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She aked about the availability of the product.",
+            "sent2": "The customer aked the salesperson for more details.",
+            "sent3": "The little boy aked his mom why the sky is blue.",
+            "sent4": "The traveler aked for directions to the nearest hotel.",
+            "sent5": "The scientist aked the research participants for their opinions."
         }
     ]
 }

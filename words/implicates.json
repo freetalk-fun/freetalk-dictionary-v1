@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To show or suggest that someone is involved in a crime or other wrongdoing.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The evidence implicates him in the theft.",
+            "sent2": "Her silence implicates her in the cover-up.",
+            "sent3": "His messy room implicates him as the culprit.",
+            "sent4": "The mysterious note implicates the butler in the crime.",
+            "sent5": "The fingerprint on the glass implicates the suspect."
         },
         {
             "definition": "To convey or suggest indirectly.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "His smile implicates his approval of the plan.",
+            "sent2": "The tone of her voice implicates her excitement.",
+            "sent3": "The empty cookie jar implicates a midnight snack.",
+            "sent4": "The dark clouds implicate an impending storm.",
+            "sent5": "The closed blinds implicate a desire for privacy."
         }
     ]
 }

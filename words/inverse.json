@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Opposite in nature, effect, or relation.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The colors on the flag were displayed in inverse order.",
+            "sent2": "The concept of hot and cold is an example of inverse properties.",
+            "sent3": "It was an inverse day when the sun refused to shine and the rainbows disappeared.",
+            "sent4": "Her cheerful demeanor was the inverse of her gloomy surroundings.",
+            "sent5": "The magician's trick seemed to defy logic, working in an inverse manner."
         },
         {
             "definition": "Something that is the opposite or reverse of something else.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The mirror reflection is the inverse of the original image.",
+            "sent2": "In mathematics, finding the inverse of a function is crucial.",
+            "sent3": "The detective found the inverse of the suspect's alibi.",
+            "sent4": "The shadow appeared as the inverse of the object casting it.",
+            "sent5": "The twin sisters were like inverses, one outgoing and the other shy."
         },
         {
             "definition": "To reverse the position, order, or condition of something.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She decided to inverse the order of the books on the shelf.",
+            "sent2": "The magician can inverse the direction of a moving object.",
+            "sent3": "He tried to inverse time to fix his mistake, but it only made things worse.",
+            "sent4": "The artist chose to inverse the colors in his painting for a unique effect.",
+            "sent5": "The scientist's experiment aimed to inverse the usual outcome and surprise everyone."
         }
     ]
 }

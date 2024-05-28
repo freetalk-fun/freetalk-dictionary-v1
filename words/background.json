@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "The part of a scene or picture that is farthest from the viewer.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "In the painting, the mountains in the background looked very distant.",
+            "sent2": "The background of the photo was a beautiful sunset.",
+            "sent3": "The background of the movie scene accidentally had a crew member walking by.",
+            "sent4": "Her calm demeanor was like a serene background to the chaos around her.",
+            "sent5": "The background music in the movie set the perfect mood for the romantic scene."
         },
         {
             "definition": "The circumstances or situation that precede or surround an event or occurrence.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Before making a decision, it's important to consider the background of the situation.",
+            "sent2": "The background of his success story included hard work and determination.",
+            "sent3": "The background of the joke made it even funnier.",
+            "sent4": "The background noise in the cafe added to the cozy atmosphere.",
+            "sent5": "The background chatter at the party made it hard to focus on the conversation."
         }
     ]
 }

@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "past tense of send",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She sended a letter to her friend yesterday.",
+            "sent2": "He sended the package through the mail.",
+            "sent3": "The pigeon sended a message to the other birds.",
+            "sent4": "The wind sended the leaves swirling in the air.",
+            "sent5": "The teacher sended the students home early due to the storm."
         },
         {
             "definition": "past participle of send",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The sended package finally arrived at its destination.",
+            "sent2": "The sended email contained important information.",
+            "sent3": "The sended invitation got lost in the mail.",
+            "sent4": "The sended signal was received by the satellite.",
+            "sent5": "The sended gift was a pleasant surprise for her."
         }
     ]
 }

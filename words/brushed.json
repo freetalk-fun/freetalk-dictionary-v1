@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To clean or groom with a brush.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She brushed her dog's fur to make it shiny.",
+            "sent2": "He brushed the dust off the old book.",
+            "sent3": "The cat brushed against my leg, leaving fur behind.",
+            "sent4": "Her words brushed against his heart, leaving a lasting impact.",
+            "sent5": "The gentle breeze brushed through the trees, creating a soothing sound."
         },
         {
             "definition": "To lightly touch or graze something.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The butterfly brushed the flower petals with its wings.",
+            "sent2": "As she walked by, her hand brushed against the curtain.",
+            "sent3": "The idea brushed his mind but quickly disappeared.",
+            "sent4": "His fingers brushed the edge of the painting, feeling the texture.",
+            "sent5": "The falling leaves brushed softly against the window, signaling autumn's arrival."
         },
         {
             "definition": "Having a smooth surface finish achieved by brushing.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The brushed metal had a sleek and modern look.",
+            "sent2": "She admired the brushed finish on the stainless steel appliances.",
+            "sent3": "The brushed fabric felt soft against her skin.",
+            "sent4": "The brushed paint gave the walls a subtle sheen.",
+            "sent5": "The brushed texture of the pottery added depth to the design."
         }
     ]
 }

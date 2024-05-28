@@ -3,19 +3,39 @@
     "meanings": [
         {
             "definition": "Used to indicate the point in time at which an action or event takes place.",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "She woke up early in the morning, but the party didn't start until later from.",
+            "sent2": "The train arrived right on time, departing from the station at noon.",
+            "sent3": "The clock seemed to be running backward, making time move from in a strange way.",
+            "sent4": "His memories felt like echoes from the past, haunting him with each passing moment.",
+            "sent5": "The sun rose slowly from the horizon, painting the sky with hues of orange and pink."
         },
         {
             "definition": "Indicating the point in space at which a journey, motion, or action starts.",
-            "pos": "preposition"
+            "pos": "preposition",
+            "sent1": "The hikers began their trek from the base of the mountain.",
+            "sent2": "The ball rolled down the hill, starting from the top with great speed.",
+            "sent3": "The cat pounced from the bushes, surprising the unsuspecting bird.",
+            "sent4": "Her laughter erupted from the depths of her being, filling the room with joy.",
+            "sent5": "The rocket launched from the launchpad, soaring into the vast unknown."
         },
         {
             "definition": "Indicating the source or origin of something.",
-            "pos": "preposition"
+            "pos": "preposition",
+            "sent1": "The gift was a token of appreciation from her colleagues.",
+            "sent2": "The river flowed steadily from the mountains, carrying nutrients downstream.",
+            "sent3": "The idea sparked from a casual conversation, growing into a brilliant solution.",
+            "sent4": "Her strength came from within, a deep reservoir of determination.",
+            "sent5": "The aroma of freshly baked bread wafted from the bakery, enticing passersby."
         },
         {
             "definition": "Indicating the material or substance out of which something is made.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "She wore a dress made from soft cotton fabric.",
+            "sent2": "The table was crafted from sturdy oak wood.",
+            "sent3": "The sculpture was created from clay, molded into a masterpiece.",
+            "sent4": "His voice was like music, resonating from his chest with a soothing tone.",
+            "sent5": "The house was built from bricks, standing strong against the test of time."
         }
     ]
 }

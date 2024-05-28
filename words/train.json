@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A connected series of railroad cars or carriages.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The long train chugged along the tracks, carrying passengers to their destination.",
+            "sent2": "I love watching the colorful train pass by with its loud whistle.",
+            "sent3": "The toy train suddenly stopped in front of the tiny station, surprising the waiting teddy bears.",
+            "sent4": "Her thoughts moved like a train, each one following the other in a steady line.",
+            "sent5": "The train's wheels screeched as it turned the corner, echoing through the valley."
         },
         {
             "definition": "To teach or instruct someone.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She will train the new employees on how to use the cash register.",
+            "sent2": "Teachers train students to read and write in school.",
+            "sent3": "The dog seemed eager to train its owner on how to throw the ball correctly.",
+            "sent4": "His mind began to train itself to focus better during long study sessions.",
+            "sent5": "The coach would train the team tirelessly to improve their skills for the upcoming match."
         },
         {
             "definition": "To prepare or make someone proficient in a particular skill or behavior.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The chef will train the new cooks on how to make the signature dish.",
+            "sent2": "She trained hard to become a skilled pianist.",
+            "sent3": "The magician tried to train his rabbit to do tricks, but it kept hopping away.",
+            "sent4": "Her determination trained her to face any challenge that came her way.",
+            "sent5": "The mentor would train the apprentice in the art of swordsmanship, passing down ancient techniques."
         }
     ]
 }

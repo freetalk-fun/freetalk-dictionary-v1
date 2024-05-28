@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Father",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "My da is very kind and loves to tell stories.",
+            "sent2": "I saw my da working in the garden yesterday.",
+            "sent3": "My da always pretends to be a superhero when he fixes things around the house.",
+            "sent4": "To me, my da is like a sturdy oak tree, providing shade and support.",
+            "sent5": "Every night, my da reads me a bedtime story with different voices for each character."
         },
         {
             "definition": "The",
-            "pos": "article"
+            "pos": "article",
+            "sent1": "Please pass me da salt for the soup.",
+            "sent2": "I need to buy da new book that just came out.",
+            "sent3": "Da sun was shining brightly in the sky all day.",
+            "sent4": "The moon looked like a giant silver coin in da night sky.",
+            "sent5": "Da cat chased da mouse around the house all afternoon."
         },
         {
             "definition": "Data",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The scientist collected da from the experiment.",
+            "sent2": "We need to analyze da before drawing any conclusions.",
+            "sent3": "The computer had trouble processing da due to its size.",
+            "sent4": "In the digital age, da is more valuable than gold.",
+            "sent5": "The company's success was attributed to the accurate da they gathered."
         }
     ]
 }

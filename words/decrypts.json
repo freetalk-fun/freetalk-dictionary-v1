@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To convert (coded or enciphered text) into intelligible form.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She decrypts the secret message to read it.",
+            "sent2": "He decrypts the password to access the account.",
+            "sent3": "The detective decrypts the mysterious note to solve the case.",
+            "sent4": "Her smile decrypts his tough exterior, revealing his true feelings.",
+            "sent5": "The key decrypts the hidden code, unlocking a world of possibilities."
         },
         {
             "definition": "To decode or decipher a message.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "They decrypt the ancient scroll to uncover its meaning.",
+            "sent2": "The software decrypts the email to reveal its contents.",
+            "sent3": "The magician decrypts the audience's thoughts with a trick.",
+            "sent4": "His laughter decrypts the tension in the room, bringing relief.",
+            "sent5": "The sunlight decrypts the shadows, brightening the room."
         },
         {
             "definition": "The process of converting encrypted data back into its original form.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The decryption of the file was successful.",
+            "sent2": "She studied the decryption of the code to understand it better.",
+            "sent3": "The decryption of the treasure map led them to a hidden chest.",
+            "sent4": "His smile was like a decryption of joy, spreading happiness around.",
+            "sent5": "The decryption of the lock revealed the hidden compartment inside."
         }
     ]
 }

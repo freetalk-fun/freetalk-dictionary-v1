@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A value on a scale of one hundred that indicates the percent of a distribution that is equal to or below it.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "In the class, Sarah scored in the 90th percentile on the math test.",
+            "sent2": "The doctor explained that the baby's weight was in the 25th percentile for his age group.",
+            "sent3": "At the ice cream shop, the 99th percentile of customers chose chocolate as their favorite flavor.",
+            "sent4": "The athlete's speed was in the 95th percentile, making him one of the fastest in the competition.",
+            "sent5": "The company's profits were in the 75th percentile compared to others in the industry."
         },
         {
             "definition": "A value of a variable below which a certain percentage of observations fall.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The median is the 50th percentile in a set of data.",
+            "sent2": "Students who scored in the 10th percentile were offered extra tutoring sessions.",
+            "sent3": "The 75th percentile of rainfall in the region was exceeded during the storm.",
+            "sent4": "Her IQ was in the 95th percentile, indicating her high level of intelligence.",
+            "sent5": "The price of the house was in the 90th percentile compared to similar properties in the area."
         }
     ]
 }

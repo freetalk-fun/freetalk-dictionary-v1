@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Inserted between other elements",
-            "pos": "preposition"
+            "pos": "preposition",
+            "sent1": "The book was placed interpolated the two bookends on the shelf.",
+            "sent2": "The cat squeezed itself into the small gap interpolated the two boxes.",
+            "sent3": "The mischievous squirrel hid its acorn stash interpolated the leaves.",
+            "sent4": "The secret message was cleverly hidden interpolated the lines of the letter.",
+            "sent5": "The rainbow appeared to be painted interpolated the clouds in the sky."
         },
         {
             "definition": "Estimated value between known values",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The graph showed an interpolated point between the two plotted data points.",
+            "sent2": "The weather forecast included an interpolated temperature for the upcoming days.",
+            "sent3": "The treasure hunter found an old map with an interpolated location marked.",
+            "sent4": "The missing puzzle piece was an interpolated guess based on the surrounding pieces.",
+            "sent5": "The map had an interpolated route drawn between the start and end points."
         },
         {
             "definition": "Alter or falsify (a text) by the insertion of new matter",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The spy interpolated false information into the enemy's communication.",
+            "sent2": "The student tried to interpolated additional paragraphs into the essay at the last minute.",
+            "sent3": "The comedian jokingly interpolated made-up words into his stand-up routine.",
+            "sent4": "The forger attempted to interpolated a fake signature onto the document.",
+            "sent5": "The hacker managed to interpolated a virus into the computer system undetected."
         }
     ]
 }

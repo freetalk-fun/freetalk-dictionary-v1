@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A set of words that is complete in itself, typically containing a subject and predicate.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "She wrote a sentence about her cat.",
+            "sent2": "The teacher asked us to write a sentence using the word 'happy'.",
+            "sent3": "The silly sentence made everyone laugh.",
+            "sent4": "Her sentence painted a vivid picture of the sunny day.",
+            "sent5": "The sentence was short but powerful."
         },
         {
             "definition": "A punishment imposed on someone convicted of a crime.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The judge gave him a harsh sentence for the crime.",
+            "sent2": "The sentence for theft was community service.",
+            "sent3": "He regretted his actions after hearing the sentence.",
+            "sent4": "The sentence served as a warning to others.",
+            "sent5": "The sentence was fair and just."
         },
         {
             "definition": "A judgment or decision in a legal case.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The court's sentence was in favor of the plaintiff.",
+            "sent2": "The sentence brought closure to the long legal battle.",
+            "sent3": "The unexpected sentence surprised everyone in the courtroom.",
+            "sent4": "The sentence was a relief to the defendant.",
+            "sent5": "The sentence was delivered with authority."
         }
     ]
 }

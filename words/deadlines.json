@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A time or date by which something must be completed or submitted.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I always struggle to meet my deadlines for school assignments.",
+            "sent2": "The deadlines for the project are approaching fast.",
+            "sent3": "The cat thought the deadline for dinner was earlier than it actually was.",
+            "sent4": "The deadlines loomed over me like dark clouds, reminding me of their impending arrival.",
+            "sent5": "Missing deadlines can lead to consequences like lower grades or lost opportunities."
         },
         {
             "definition": "The point in time by which something must be done.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The deadline for the meeting is 3 PM sharp.",
+            "sent2": "We need to set a deadline for when the report should be completed.",
+            "sent3": "The deadline for the party was set at midnight, but no one wanted to leave.",
+            "sent4": "As the deadline drew near, the pressure to finish the task increased.",
+            "sent5": "The deadline acted as a finish line, motivating everyone to work efficiently."
         }
     ]
 }

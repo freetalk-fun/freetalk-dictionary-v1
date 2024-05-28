@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "a sequence of three nucleotides that together form a unit of genetic code in a DNA or RNA molecule",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The scientist studied the codon closely under the microscope.",
+            "sent2": "The codon determines the genetic information passed on from parents to offspring.",
+            "sent3": "The codon and its genetic message danced together in perfect harmony.",
+            "sent4": "Like a secret code, the codon unlocked the mysteries of DNA.",
+            "sent5": "The codon acted as a tiny key, unlocking the secrets of life itself."
         },
         {
             "definition": "a specific sequence of three adjacent nucleotides on a strand of DNA or RNA that specifies the genetic code for a particular amino acid",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "In the DNA strand, the codon 'AAA' codes for the amino acid lysine.",
+            "sent2": "Each codon along the RNA strand plays a crucial role in protein synthesis.",
+            "sent3": "The codon 'GCU' threw a party to celebrate its role in protein production.",
+            "sent4": "The codon acted like a chef, carefully selecting the amino acids for the protein recipe.",
+            "sent5": "The codon shone brightly like a beacon, guiding the cell in protein creation."
         }
     ]
 }

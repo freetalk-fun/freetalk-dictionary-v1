@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A thick cloud of tiny water droplets suspended in the atmosphere at or near the earth's surface that obscures or restricts visibility.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The fogs rolled in, making it hard to see the road ahead.",
+            "sent2": "The morning fogs made the landscape look mysterious and beautiful.",
+            "sent3": "The fogs played hide and seek with the sun, creating a magical atmosphere.",
+            "sent4": "The fogs wrapped the town like a cozy blanket, muffling all sounds.",
+            "sent5": "The fogs hung low, like a ghostly curtain over the fields."
         },
         {
             "definition": "To cover or envelop with or as if with fog.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She fogs the mirror when she breathes on it.",
+            "sent2": "The steam from the hot soup fogs up the kitchen windows.",
+            "sent3": "His glasses always fog when he enters a warm room from the cold outside.",
+            "sent4": "The humidity in the bathroom fogs the glass shower door.",
+            "sent5": "The cold air outside fogs the car windows in winter."
         },
         {
             "definition": "To become covered or obscured with or as if with fog.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The glass fogs up when you open the oven door.",
+            "sent2": "The city skyline fogs over as the storm approaches.",
+            "sent3": "Her mind fogs over when she tries to remember the details.",
+            "sent4": "The future seems to fog up when uncertainty looms.",
+            "sent5": "His memory fogs over with time, making the past hazy."
         }
     ]
 }

@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Express severe disapproval of (someone or something), typically in a formal statement.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The teacher had to censure the student for cheating on the test.",
+            "sent2": "The board decided to censure the member for violating the code of conduct.",
+            "sent3": "The cat seemed to censure the dog's messy eating habits.",
+            "sent4": "The dark clouds seemed to censure the sun for hiding behind them.",
+            "sent5": "The judge's stern look was enough to censure the defendant's behavior."
         },
         {
             "definition": "The expression of formal disapproval.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The official censure of the company's actions was announced in the meeting.",
+            "sent2": "Receiving a censure from the committee was a serious matter for the politician.",
+            "sent3": "The censure of the noisy neighbors was met with a round of applause.",
+            "sent4": "The censure of the old building's condition was a wake-up call for the owners.",
+            "sent5": "The public censure of the celebrity's behavior spread quickly on social media."
         }
     ]
 }

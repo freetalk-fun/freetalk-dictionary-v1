@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Relating to or involved in movement.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The locomotor cat chased after the toy mouse.",
+            "sent2": "The dancer's locomotor skills were impressive.",
+            "sent3": "The locomotor penguin waddled across the ice.",
+            "sent4": "The locomotor train raced down the tracks.",
+            "sent5": "The locomotor wind rustled the leaves in the trees."
         },
         {
             "definition": "A person or thing that moves from one place to another.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The squirrel is a skilled locomotor in the forest.",
+            "sent2": "The car is a common locomotor on the roads.",
+            "sent3": "The little locomotor ant carried a heavy load.",
+            "sent4": "The bird is a graceful locomotor in the sky.",
+            "sent5": "The boat is a reliable locomotor on the water."
         }
     ]
 }

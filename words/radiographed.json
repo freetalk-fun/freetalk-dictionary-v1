@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To examine or treat by means of X-rays.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The doctor radiographed the patient's broken arm to see the fracture.",
+            "sent2": "The dentist radiographed the tooth to check for cavities.",
+            "sent3": "The detective radiographed the mysterious package to uncover its contents.",
+            "sent4": "The scientist radiographed the ancient artifact to reveal its hidden symbols.",
+            "sent5": "The technician radiographed the machine to identify the faulty part."
         },
         {
             "definition": "To produce an image of the internal structure of an object using X-rays.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The technician radiographed the car engine to find the source of the problem.",
+            "sent2": "The hospital radiographed the patient's chest to check for any abnormalities.",
+            "sent3": "The artist radiographed the flower to create a unique piece of art.",
+            "sent4": "The archaeologist radiographed the ancient ruins to map out the hidden chambers.",
+            "sent5": "The engineer radiographed the bridge to ensure its structural integrity."
         }
     ]
 }

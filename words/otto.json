@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A number that is the same when reversed, such as 11 or 22.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I like the number otto because it looks the same forwards and backwards.",
+            "sent2": "She noticed the otto on the clock and smiled.",
+            "sent3": "The otto on the license plate made her chuckle.",
+            "sent4": "The palindrome was like an otto, unchanged when flipped.",
+            "sent5": "The otto in the math problem was easy to spot."
         },
         {
             "definition": "A type of perfume made from roses.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The otto she wore smelled like a garden of roses.",
+            "sent2": "He bought her favorite otto as a gift.",
+            "sent3": "The otto she sprayed on attracted bees!",
+            "sent4": "Her otto was a bouquet in a bottle.",
+            "sent5": "The otto lingered in the room long after she left."
         },
         {
             "definition": "A type of engine with an odd number of cylinders.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The mechanic explained the unique design of the otto.",
+            "sent2": "The otto engine hummed smoothly.",
+            "sent3": "The otto in the car purred like a contented cat.",
+            "sent4": "The otto roared to life, ready for the race.",
+            "sent5": "The otto's power impressed everyone at the show."
         }
     ]
 }

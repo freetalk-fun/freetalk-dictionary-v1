@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "In an isentropic manner",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "The air expanded isentropically in the nozzle.",
+            "sent2": "The gas was compressed isentropically in the chamber.",
+            "sent3": "She calculated the temperature change isentropically, much to her surprise.",
+            "sent4": "The energy transfer was modeled isentropically for simplicity.",
+            "sent5": "The sound wave propagated isentropically through the medium."
         },
         {
             "definition": "Relating to an isentropic process",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The engineer designed the isentropic process for efficiency.",
+            "sent2": "The textbook explained the isentropic expansion in detail.",
+            "sent3": "The isentropic analysis made the students scratch their heads.",
+            "sent4": "The isentropic efficiency of the turbine was impressive.",
+            "sent5": "The isentropic flow through the system was carefully monitored."
         },
         {
             "definition": "Characterized by constant entropy",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The closed system maintained an isentropic condition.",
+            "sent2": "The isentropic process conserved energy throughout.",
+            "sent3": "The isentropic nature of the reaction puzzled the scientists.",
+            "sent4": "The isentropic expansion resulted in a stable system.",
+            "sent5": "The isentropic state of the substance was crucial for the experiment."
         }
     ]
 }

@@ -3,23 +3,48 @@
     "meanings": [
         {
             "definition": "Most recent in time",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The last day of school is tomorrow.",
+            "sent2": "I saw you last week at the park.",
+            "sent3": "The last cookie in the jar always disappears mysteriously.",
+            "sent4": "Her last words to me were filled with kindness.",
+            "sent5": "The last train home is always crowded."
         },
         {
             "definition": "Final or ultimate",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "This is the last piece of cake.",
+            "sent2": "He made the last shot and won the game.",
+            "sent3": "The last slice of pizza is mine, no arguments!",
+            "sent4": "The last chapter of the book revealed the biggest plot twist.",
+            "sent5": "The last resort is to call for help."
         },
         {
             "definition": "The lowest in rank or importance",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "He was the last to be picked for the team.",
+            "sent2": "The last in line gets the smallest piece of cake.",
+            "sent3": "Being the last in the class doesn't mean you're not smart.",
+            "sent4": "The last on the list is often forgotten.",
+            "sent5": "The last to arrive has to sit in the back."
         },
         {
             "definition": "To continue in time or existence",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I hope this friendship will last forever.",
+            "sent2": "Will the memories of our trip last a lifetime?",
+            "sent3": "The magic of the moment seemed to last an eternity.",
+            "sent4": "Their love will last through any storm.",
+            "sent5": "The impact of his words will last in my heart."
         },
         {
             "definition": "The final item in a list or series",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Make sure to check off the last item on the list.",
+            "sent2": "The last on the menu is always the dessert.",
+            "sent3": "The last in the lineup is the grand finale.",
+            "sent4": "The last in the collection is the rarest gem.",
+            "sent5": "The last in the series leaves you wanting more."
         }
     ]
 }

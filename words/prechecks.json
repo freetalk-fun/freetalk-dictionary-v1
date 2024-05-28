@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To check in advance",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She always prechecks her homework before submitting it.",
+            "sent2": "He prechecks the weather forecast before planning a picnic.",
+            "sent3": "The detective prechecks the crime scene for any clues.",
+            "sent4": "Before the journey, the hiker prechecks all the necessary supplies in his backpack.",
+            "sent5": "The chef prechecks the ingredients to ensure a successful recipe."
         },
         {
             "definition": "A preliminary check or inspection",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The mechanic performed prechecks on the car before starting the repairs.",
+            "sent2": "The security guard conducts prechecks on all visitors entering the building.",
+            "sent3": "The prechecks at the airport helped streamline the boarding process.",
+            "sent4": "The prechecks on the equipment revealed a potential issue that was quickly resolved.",
+            "sent5": "The prechecks on the documents saved time during the audit."
         }
     ]
 }

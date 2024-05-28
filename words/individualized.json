@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Designed or tailored specifically for one person or thing.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The teacher provided individualized help to each student during the exam.",
+            "sent2": "The doctor created an individualized treatment plan for the patient's unique needs.",
+            "sent3": "The tailor's individualized approach to clothing alterations always made customers smile.",
+            "sent4": "The artist's individualized style of painting stood out among the rest.",
+            "sent5": "The chef's individualized dishes were a hit at the restaurant."
         },
         {
             "definition": "To make something unique or specific to a particular person or group.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She individualized the gift by adding a personal touch to it.",
+            "sent2": "The company individualized their services to cater to different client preferences.",
+            "sent3": "He individualized his workspace with quirky decorations that reflected his personality.",
+            "sent4": "The coach individualized the training program to suit each athlete's strengths.",
+            "sent5": "The teacher individualized the lesson plans to accommodate diverse learning styles."
         }
     ]
 }

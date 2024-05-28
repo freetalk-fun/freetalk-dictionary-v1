@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "to put or place into",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Please insert the key into the lock.",
+            "sent2": "She likes to insert colorful markers into her pencil case.",
+            "sent3": "The magician tried to insert a rabbit into his hat, but it didn't quite fit.",
+            "sent4": "He tried to insert himself into the conversation, but no one seemed to notice.",
+            "sent5": "The chef carefully inserted the secret ingredient into the recipe."
         },
         {
             "definition": "something inserted or to be inserted",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The magazine had an insert advertising a new product.",
+            "sent2": "She found a surprise insert in her favorite book.",
+            "sent3": "The student accidentally dropped the insert for the project and had to start over.",
+            "sent4": "The envelope had a colorful insert that caught her attention.",
+            "sent5": "He carefully removed the insert from the package to reveal the hidden message."
         }
     ]
 }

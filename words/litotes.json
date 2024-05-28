@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Understatement in which an affirmative is expressed by the negative of the contrary.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "She's not bad at singing.",
+            "sent2": "His performance was not terrible.",
+            "sent3": "I guess winning the lottery wouldn't be the worst thing.",
+            "sent4": "Her kindness knows no bounds, not.",
+            "sent5": "The party was not lacking in excitement."
         },
         {
             "definition": "A figure of speech consisting of an understatement in which an affirmative is expressed by negating its opposite.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "It's not the end of the world.",
+            "sent2": "The movie was not a total disaster.",
+            "sent3": "Eating vegetables is not the worst punishment.",
+            "sent4": "His speed on the track is not that of a snail.",
+            "sent5": "The storm was not a gentle breeze."
         }
     ]
 }

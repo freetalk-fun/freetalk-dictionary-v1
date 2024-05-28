@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Didst: archaic second person singular past tense of 'do'",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "What didst thou eat for breakfast yesterday?",
+            "sent2": "She didst finish her chores before sunset.",
+            "sent3": "The cat didst chase its tail in circles.",
+            "sent4": "The old clock didst tick away the hours.",
+            "sent5": "The wind didst howl through the night."
         },
         {
             "definition": "Didst: used to form questions or negative statements in the past tense",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Why didst you not attend the meeting last week?",
+            "sent2": "They didst not believe his story about the UFO sighting.",
+            "sent3": "The squirrel didst not share its nuts with the other animals.",
+            "sent4": "The rain didst not stop for days on end.",
+            "sent5": "The teacher didst not assign any homework over the weekend."
         }
     ]
 }

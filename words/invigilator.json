@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A person who supervises students during an examination.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "During the test, the invigilator walked around the room to ensure no one cheated.",
+            "sent2": "The invigilator checked the students' IDs before the exam started.",
+            "sent3": "The invigilator jokingly pretended to take a student's paper and run away.",
+            "sent4": "The invigilator's eagle eyes caught any suspicious behavior during the test.",
+            "sent5": "The invigilator's presence made the students feel nervous and watched."
         },
         {
             "definition": "To watch over or supervise students during an examination.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Teachers invigilate exams to ensure fairness and prevent cheating.",
+            "sent2": "Please invigilate the students closely to maintain exam integrity.",
+            "sent3": "The robot invigilated the exam with precision and accuracy.",
+            "sent4": "She invigilated the test as if she had eyes in the back of her head.",
+            "sent5": "Invigilating exams requires focus and attention to detail."
         }
     ]
 }

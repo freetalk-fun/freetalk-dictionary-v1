@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To move or shift from the usual place or position",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "During the storm, the strong winds displaced the tree from its roots.",
+            "sent2": "The earthquake displaced many families from their houses.",
+            "sent3": "The mischievous cat displaced the toy mouse from its spot on the shelf.",
+            "sent4": "The unexpected news displaced her sense of security.",
+            "sent5": "The construction work displaced the dust, causing it to settle on everything."
         },
         {
             "definition": "To force someone to leave their home or country",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The war displaced thousands of people from their homes.",
+            "sent2": "The dictator's regime displaced many citizens to neighboring countries.",
+            "sent3": "The mischievous prank displaced the teacher from her classroom temporarily.",
+            "sent4": "The sudden job loss displaced him from his comfort zone.",
+            "sent5": "The flood displaced entire communities, leaving them searching for shelter."
         },
         {
             "definition": "Lacking a home or country due to war or natural disaster",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The displaced refugees sought refuge in the neighboring country.",
+            "sent2": "The displaced families were provided temporary shelter in the relief camps.",
+            "sent3": "The displaced puppy found a new home with a kind family.",
+            "sent4": "Her heart felt displaced, longing for a place to call home.",
+            "sent5": "The displaced children's eyes reflected the pain of loss and uncertainty."
         }
     ]
 }

@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A person who crosses something.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The brave crosser stepped onto the bridge.",
+            "sent2": "The crosser safely guided the group across the river.",
+            "sent3": "The crosser playfully hopped over the small stream.",
+            "sent4": "She was a skilled crosser, navigating the maze with ease.",
+            "sent5": "The determined crosser never hesitated, always moving forward."
         },
         {
             "definition": "More cross or angry.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "After losing the game, he became even crosser.",
+            "sent2": "She had a crosser expression on her face.",
+            "sent3": "The cat looked crosser than usual when denied treats.",
+            "sent4": "The storm clouds grew crosser, threatening heavy rain.",
+            "sent5": "His tone became crosser as the argument continued."
         },
         {
             "definition": "Comparative form of cross.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "Today feels crosser than yesterday.",
+            "sent2": "The road ahead seemed even crosser than the one behind.",
+            "sent3": "The teacher's glare grew crosser as the students whispered.",
+            "sent4": "The river looked crosser as the rain poured down.",
+            "sent5": "The wind howled crosser through the night."
         }
     ]
 }

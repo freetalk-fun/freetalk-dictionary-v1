@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "The act of operating on a patient for a second time.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The reoperation was necessary to fix a problem from the first surgery.",
+            "sent2": "The doctor scheduled a reoperation to address the complications.",
+            "sent3": "After the reoperation, the patient joked that they were becoming a regular at the hospital.",
+            "sent4": "The reoperation was like hitting the reset button on the patient's health.",
+            "sent5": "The reoperation loomed ahead, bringing both hope and anxiety to the patient."
         },
         {
             "definition": "To perform a surgical procedure on a patient again.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The surgeon had to reoperation on the patient due to unforeseen issues.",
+            "sent2": "Doctors may reoperation if the initial surgery did not yield the desired results.",
+            "sent3": "The hospital staff teased the surgeon, saying they should start a 'frequent reoperation' program.",
+            "sent4": "Reoperation the patient's condition required precision and care.",
+            "sent5": "The decision to reoperation was made after careful consideration of all options."
         }
     ]
 }

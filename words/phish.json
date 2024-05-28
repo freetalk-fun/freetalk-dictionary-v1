@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To try to obtain sensitive information, such as usernames and passwords, by pretending to be a trustworthy entity in an electronic communication.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Hackers may phish for your personal details through fake emails.",
+            "sent2": "Be cautious of suspicious emails that could be trying to phish your login information.",
+            "sent3": "The cybercriminal thought he could phish his way into stealing confidential data.",
+            "sent4": "The scammer's email was like a fishing net, trying to phish unsuspecting victims.",
+            "sent5": "Always double-check the sender's email address to avoid falling for a phish attempt."
         },
         {
             "definition": "A fraudulent attempt to obtain sensitive information by disguising oneself as a trustworthy entity in an electronic communication.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "She fell victim to a phish pretending to be her bank, asking for account details.",
+            "sent2": "Online users should be aware of potential phish scams asking for personal information.",
+            "sent3": "The phish email was so poorly written, it was obvious it was a scam.",
+            "sent4": "The phish caller's voice sounded friendly, but it was a deceptive tactic.",
+            "sent5": "The company's security team quickly identified the phish attempt and blocked it."
         }
     ]
 }

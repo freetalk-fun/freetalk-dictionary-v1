@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "One who permits.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The permitter granted access to the building.",
+            "sent2": "The permitter signed the document to allow the construction.",
+            "sent3": "The permitter was like the gatekeeper of the city, deciding who could enter.",
+            "sent4": "She was the permitter of dreams, allowing only the most worthy to come true.",
+            "sent5": "The permitter's role was crucial in ensuring everything ran smoothly."
         },
         {
             "definition": "To allow or give permission.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Please permitter me to enter the room.",
+            "sent2": "The teacher will permitter the students to leave early today.",
+            "sent3": "The cat permittered the mouse to roam freely in the house.",
+            "sent4": "His kindness permittered her to pursue her passion for painting.",
+            "sent5": "The judge permittered the defendant to speak in court."
         }
     ]
 }

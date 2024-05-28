@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To go astray or be mistaken.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I misgo when I thought the store was open late.",
+            "sent2": "Sometimes, people misgo directions and get lost.",
+            "sent3": "I misgo and accidentally put salt instead of sugar in my coffee.",
+            "sent4": "Her plan to surprise her friend misgoed when she got the date wrong.",
+            "sent5": "The detective's theory misgoed, leading to the wrong suspect being arrested."
         },
         {
             "definition": "A mistake or error.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Making a misgo in the calculation can lead to wrong results.",
+            "sent2": "She realized her misgo in the report after it was already submitted.",
+            "sent3": "The misgo in the recipe made the cake taste strange.",
+            "sent4": "His misgo was like a small bump in the road to success.",
+            "sent5": "The misgo in the painting was easily fixed with a touch of paint."
         },
         {
             "definition": "To fail or go wrong.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The plan misgoed due to unexpected weather conditions.",
+            "sent2": "If you don't follow the instructions, things might misgo.",
+            "sent3": "His attempt to fix the sink misgoed, causing a bigger leak.",
+            "sent4": "The performance misgoed, but they managed to recover gracefully.",
+            "sent5": "The experiment misgoed, leading to interesting new discoveries."
         }
     ]
 }

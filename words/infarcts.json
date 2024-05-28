@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Infarcts (noun): areas of tissue that have died due to lack of blood supply",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The doctor pointed to the infarcts on the X-ray, showing where the tissue had died.",
+            "sent2": "The pathologist examined the infarcts under the microscope to understand the cause of tissue death.",
+            "sent3": "The infarcts in the heart were like little ghost towns, abandoned due to lack of blood supply.",
+            "sent4": "The infarcts in the brain were like dark clouds, casting a shadow over the affected areas.",
+            "sent5": "The infarcts in the lungs were a stark reminder of the consequences of blocked blood flow."
         },
         {
             "definition": "Infarcts (verb): to cause tissue death due to lack of blood supply",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Smoking can infarct the lungs, leading to serious health issues.",
+            "sent2": "The surgeon worked quickly to prevent the clot from infarcting more tissue.",
+            "sent3": "The lack of water infarcted the plant, causing its leaves to wither and die.",
+            "sent4": "The virus infarcted the cells, spreading rapidly through the body.",
+            "sent5": "The blocked artery infarcted the heart muscle, causing a heart attack."
         }
     ]
 }

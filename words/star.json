@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A natural luminous body visible in the sky, especially at night.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Look at the bright star in the sky.",
+            "sent2": "The stars twinkled in the dark night.",
+            "sent3": "The little girl wished upon a star for a puppy.",
+            "sent4": "She was the star of the astronomy club, shining brighter than any other member.",
+            "sent5": "The star's light guided the lost travelers through the night."
         },
         {
             "definition": "A famous or exceptionally talented performer in the entertainment industry.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The singer became a star after her hit song.",
+            "sent2": "Many people dream of becoming a movie star.",
+            "sent3": "The comedian joked that he was a star even in his own kitchen.",
+            "sent4": "She shone like a star on the stage, captivating the audience.",
+            "sent5": "The young actress quickly rose to stardom and became a household name."
         },
         {
             "definition": "To perform outstandingly in a particular field or activity.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She will star in the school play next week.",
+            "sent2": "The athlete hopes to star in the upcoming competition.",
+            "sent3": "The chef will star in a cooking show on TV.",
+            "sent4": "He always manages to star in every project he undertakes.",
+            "sent5": "The student will star in the science fair with her innovative project."
         }
     ]
 }

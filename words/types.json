@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A category of people or things having common characteristics",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "There are many different types of animals in the zoo.",
+            "sent2": "She prefers to read books of all types, from mystery to romance.",
+            "sent3": "The party had all types of snacks, from chips to cookies.",
+            "sent4": "His music taste is so diverse, he listens to all types of genres.",
+            "sent5": "The teacher explained the different types of clouds using pictures."
         },
         {
             "definition": "To write with a typewriter or computer",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She types her essays on the computer to make them neat.",
+            "sent2": "He types quickly to finish his work before the deadline.",
+            "sent3": "The cat walked across the keyboard and accidentally types a message.",
+            "sent4": "The secretary types up the meeting notes for everyone to review.",
+            "sent5": "I need to type up this report before the end of the day."
         },
         {
             "definition": "To determine the type of something",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The scientist types the DNA sample to identify the species.",
+            "sent2": "They need to type the material to understand its properties.",
+            "sent3": "I will type the mystery object to see what it is made of.",
+            "sent4": "The detective types the fingerprints to match them to the suspect.",
+            "sent5": "She types the code to unlock the secret message."
         }
     ]
 }

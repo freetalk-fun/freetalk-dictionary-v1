@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To officially require or order something to be done",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The teacher mandated that all students complete their homework by Friday.",
+            "sent2": "The new policy mandates that employees attend a safety training session every month.",
+            "sent3": "The principal mandated a school-wide cleanup day, much to the students' surprise.",
+            "sent4": "The judge's ruling mandated a retrial, shaking up the legal proceedings.",
+            "sent5": "The doctor's orders were mandated for the patient's speedy recovery."
         },
         {
             "definition": "Required by law or rule",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The mandated safety regulations ensured a secure work environment for all employees.",
+            "sent2": "The mandated dress code for the event specified formal attire only.",
+            "sent3": "The mandated lunch break felt like a welcome pause in the busy workday.",
+            "sent4": "The mandated speed limit on the highway kept traffic flowing smoothly.",
+            "sent5": "The mandated quarantine period protected the community from the spread of illness."
         }
     ]
 }

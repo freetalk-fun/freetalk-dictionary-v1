@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "The property possessed by an object of producing different sensations on the eye as a result of the way it reflects or emits light.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The rainbow displayed a beautiful array of color.",
+            "sent2": "She loved to paint with all the colors of the rainbow.",
+            "sent3": "The color of the sky changed as the sun set.",
+            "sent4": "His artwork was a burst of color on the blank canvas.",
+            "sent5": "The vibrant color of the flowers brightened up the room."
         },
         {
             "definition": "A substance used to give something a particular color.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "She mixed blue and yellow to create a new color.",
+            "sent2": "The artist carefully selected the perfect color for the painting.",
+            "sent3": "The color spilled on the floor, creating a mess.",
+            "sent4": "The color of the dye transformed the fabric completely.",
+            "sent5": "The color of the walls matched the furniture perfectly."
         },
         {
             "definition": "To change the color of something by applying a substance to it.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She decided to color her hair a vibrant red.",
+            "sent2": "He used a brush to color the picture with bright hues.",
+            "sent3": "The children giggled as they colored outside the lines.",
+            "sent4": "The artist carefully colored each petal of the flower.",
+            "sent5": "The chef colored the icing with natural ingredients."
         }
     ]
 }

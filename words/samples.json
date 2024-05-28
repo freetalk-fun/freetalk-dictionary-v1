@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A small part or quantity intended to show what the whole is like.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "She brought some samples of her artwork to the exhibition.",
+            "sent2": "The teacher handed out samples of the new math worksheet for practice.",
+            "sent3": "The squirrel collected samples of different nuts to taste test.",
+            "sent4": "His collection of stamps was a sample of his passion for philately.",
+            "sent5": "The tiny cupcake was a delicious sample of the bakery's treats."
         },
         {
             "definition": "A specimen taken for analysis or testing.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The doctor collected blood samples to check for any infections.",
+            "sent2": "The archaeologist carefully labeled each soil sample from the excavation site.",
+            "sent3": "The detective found a hair sample at the crime scene, leading to a breakthrough.",
+            "sent4": "The water sample revealed high levels of contamination, prompting immediate action.",
+            "sent5": "The astronaut returned with lunar samples for scientific study."
         },
         {
             "definition": "To take a sample of something for analysis or testing.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The scientist samples the water from different sources to compare purity levels.",
+            "sent2": "Before buying in bulk, she likes to sample the perfume to ensure it suits her.",
+            "sent3": "The chef decided to sample the soup before adding more seasoning.",
+            "sent4": "He sampled various wines before selecting the perfect one for the occasion.",
+            "sent5": "The musician sampled different beats to create a unique sound for the song."
         }
     ]
 }

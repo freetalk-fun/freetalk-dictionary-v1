@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To predict or foreshadow something",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The dark clouds presaging a storm.",
+            "sent2": "She had a dream presaging the future.",
+            "sent3": "The cat's strange behavior was presaging a mouse invasion.",
+            "sent4": "The old man's cryptic words seemed to presage a great change.",
+            "sent5": "The sudden drop in temperature presaged the arrival of winter."
         },
         {
             "definition": "Serving as a sign or warning of something to come",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The black cat was seen as a presaging omen.",
+            "sent2": "The eerie silence in the forest was presaging danger.",
+            "sent3": "The broken mirror was a presaging symbol of bad luck.",
+            "sent4": "The distant thunder was a presaging sound of the approaching storm.",
+            "sent5": "The old sailor's tales were filled with presaging signs of shipwrecks."
         }
     ]
 }

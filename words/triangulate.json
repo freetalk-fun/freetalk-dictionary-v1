@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To divide into triangles or sections.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I will triangulate the map to make it easier to read.",
+            "sent2": "The artist decided to triangulate the canvas for a more interesting composition.",
+            "sent3": "The chef had to triangulate the cake into equal slices for the party guests.",
+            "sent4": "She tried to triangulate her thoughts into manageable sections.",
+            "sent5": "The teacher asked the students to triangulate the shape into smaller triangles for the geometry lesson."
         },
         {
             "definition": "To determine the location of something by measuring the angles of a triangle formed by lines to it from two known points.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The surveyor will triangulate the position of the buried treasure.",
+            "sent2": "Scientists use satellites to triangulate the location of wildlife in the dense forest.",
+            "sent3": "The detective had to triangulate the suspect's whereabouts using advanced technology.",
+            "sent4": "The hiker had to triangulate her position using a compass and landmarks.",
+            "sent5": "The pilot needed to triangulate the airport's coordinates for a safe landing."
         }
     ]
 }

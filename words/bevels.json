@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A sloping surface or edge.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The carpenter smoothed the bevels on the edge of the table.",
+            "sent2": "The mirror had elegant bevels that caught the light beautifully.",
+            "sent3": "The bevels on the cake made it look like a delicious mountain.",
+            "sent4": "Her smile created bevels of joy on her face.",
+            "sent5": "The artist painted the bevels of the landscape with great care."
         },
         {
             "definition": "To cut or shape to a bevel.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He carefully bevels the edges of the wood to fit them together.",
+            "sent2": "The glassworker bevels the edges of the mirror for a polished look.",
+            "sent3": "She bevels the cheese slices to create a fancy platter.",
+            "sent4": "The sculptor bevels the marble to reveal a hidden shape within.",
+            "sent5": "The tailor bevels the fabric to create a seamless seam."
         }
     ]
 }

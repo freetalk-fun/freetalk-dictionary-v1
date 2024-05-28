@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A type of air pollution caused by a mixture of smoke and fog.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The city was blanketed in thick smogs, making it hard to see the buildings.",
+            "sent2": "People wore masks to protect themselves from the harmful effects of smogs in the air.",
+            "sent3": "The smogs seemed to dance around the streetlights, creating a mysterious atmosphere.",
+            "sent4": "The smogs hung over the city like a dark, heavy blanket, suffocating the skyline.",
+            "sent5": "The smogs engulfed the town in a gray haze, casting a gloomy shadow over everything."
         },
         {
             "definition": "To be covered or enveloped in smog.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The entire town smogs during rush hour, making it difficult to breathe.",
+            "sent2": "She smogs her way through the polluted city streets, coughing from the thick air.",
+            "sent3": "The car smogs along the highway, leaving a trail of exhaust behind.",
+            "sent4": "The city slowly smogs under the weight of industrial emissions, losing its clear skies.",
+            "sent5": "As the factory operates, it smogs the surrounding area with its toxic fumes, causing health concerns."
         }
     ]
 }

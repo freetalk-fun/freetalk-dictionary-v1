@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Examining closely or thoroughly",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "She looked at the map searching for the right direction.",
+            "sent2": "The detective searched the crime scene thoroughly, searching for clues.",
+            "sent3": "The scientist searched through the microscope, searching for tiny details.",
+            "sent4": "The artist's eyes moved back and forth, searching for the perfect angle to capture.",
+            "sent5": "The teacher examined each student's work closely, searching for mistakes."
         },
         {
             "definition": "Looking for something",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He was searching for his lost keys all morning.",
+            "sent2": "The hikers searched the forest, searching for the hidden waterfall.",
+            "sent3": "The children searched the playground, searching for the hidden treasure.",
+            "sent4": "The dog sniffed around the garden, searching for the buried bone.",
+            "sent5": "She scrolled through the book, searching for her favorite chapter."
         },
         {
             "definition": "Inquiring or investigating",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The curious cat had a searching look in its eyes.",
+            "sent2": "The journalist had a searching mind, always looking for the truth.",
+            "sent3": "The detective had a searching gaze, trying to uncover the mystery.",
+            "sent4": "The scientist had a searching approach to every experiment, seeking new discoveries.",
+            "sent5": "The student had a searching attitude towards learning, always asking questions."
         }
     ]
 }

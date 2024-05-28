@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A variable that is potentially predictive of the outcome under study.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "In the research, the scientist analyzed the covariate to understand its impact on the results.",
+            "sent2": "The covariate in the experiment was the age of the participants.",
+            "sent3": "The covariate seemed to have a crystal ball predicting the study's outcome.",
+            "sent4": "Her intuition acted as a covariate, hinting at the final results.",
+            "sent5": "The covariate was like a detective, uncovering clues about the study's conclusion."
         },
         {
             "definition": "To vary in a way that is statistically related to another variable.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The data covariate with the changes in temperature over time.",
+            "sent2": "As the humidity increased, the values started to covariate.",
+            "sent3": "The numbers covariate like synchronized dancers on a statistical stage.",
+            "sent4": "Her mood seemed to covariate with the weather outside.",
+            "sent5": "The stock prices covariate with the company's performance in an interesting pattern."
         }
     ]
 }

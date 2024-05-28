@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Making or becoming less high in position.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She is lowering the book onto the table.",
+            "sent2": "The sun is lowering in the sky as evening approaches.",
+            "sent3": "The cat is lowering its head to play with a toy.",
+            "sent4": "The curtain is lowering on the final act of the play.",
+            "sent5": "He is lowering the flag at sunset."
         },
         {
             "definition": "Showing a lack of friendliness or approval.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "His lowering expression made her feel unwelcome.",
+            "sent2": "The teacher's lowering gaze silenced the class.",
+            "sent3": "The lowering tone of his voice made the joke sound serious.",
+            "sent4": "The lowering clouds matched her mood on the gloomy day.",
+            "sent5": "The lowering look on her face warned him to stay away."
         },
         {
             "definition": "The act of making something less high in position.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The lowering of the flag signaled the end of the ceremony.",
+            "sent2": "His job involves the lowering of heavy equipment from heights.",
+            "sent3": "The lowering of the bridge allowed the ship to pass through.",
+            "sent4": "The lowering of the water level revealed hidden treasures.",
+            "sent5": "The lowering of the elevator brought them to the ground floor."
         }
     ]
 }

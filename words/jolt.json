@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A sudden rough movement",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The roller coaster gave me a jolt as it went over a bump.",
+            "sent2": "The earthquake caused a jolt that shook the entire building.",
+            "sent3": "The unexpected jolt of the bus hitting a pothole made everyone laugh.",
+            "sent4": "The news of the surprise party was a jolt that energized her.",
+            "sent5": "The loud thunder brought a jolt of fear to the little child."
         },
         {
             "definition": "To push or shake (someone or something) abruptly and roughly",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She accidentally jolted the table while reaching for her phone.",
+            "sent2": "The train jolted suddenly, causing everyone to grab onto the handrails.",
+            "sent3": "The mischievous puppy would always jolt the ball out of reach.",
+            "sent4": "His sudden question jolted her out of her daydream.",
+            "sent5": "The unexpected noise jolted the cat awake from its nap."
         }
     ]
 }

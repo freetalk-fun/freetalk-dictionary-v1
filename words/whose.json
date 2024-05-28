@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Used to indicate possession or ownership.",
-            "pos": "pronoun"
+            "pos": "pronoun",
+            "sent1": "The girl whose toy was missing looked sad.",
+            "sent2": "I wonder whose book this is on the table.",
+            "sent3": "The cat whose tail was too fluffy kept knocking things over.",
+            "sent4": "In the forest, I found a tree whose branches reached for the sky.",
+            "sent5": "The old house, whose windows were broken, looked abandoned."
         },
         {
             "definition": "Used to introduce a question about which person or people something belongs to.",
-            "pos": "pronoun"
+            "pos": "pronoun",
+            "sent1": "Whose bag is this lying on the floor?",
+            "sent2": "Do you know whose dog is barking loudly outside?",
+            "sent3": "The squirrel asked, 'Whose nuts are these?'",
+            "sent4": "The detective tried to uncover whose fingerprints were on the doorknob.",
+            "sent5": "The teacher asked the class, 'Whose turn is it to read next?'"
         }
     ]
 }

@@ -3,19 +3,39 @@
     "meanings": [
         {
             "definition": "A person born in a particular place",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The museum featured artifacts made by a local native.",
+            "sent2": "The native of the town was well-known for his storytelling.",
+            "sent3": "The native decided to explore the city as a tourist for a change.",
+            "sent4": "The native bee species played a crucial role in pollination.",
+            "sent5": "The native's traditional dance was a sight to behold."
         },
         {
             "definition": "Existing in a place from the beginning",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The river flowed through the native forest.",
+            "sent2": "The native plants thrived in the untouched wilderness.",
+            "sent3": "The native rock formations seemed to tell ancient stories.",
+            "sent4": "The old house had a charm that felt native to the land.",
+            "sent5": "The native language echoed through the valley."
         },
         {
             "definition": "Belonging to a particular place by birth or origin",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The native culture celebrated unique traditions.",
+            "sent2": "The native cuisine showcased local flavors and ingredients.",
+            "sent3": "The native wildlife roamed freely in the protected area.",
+            "sent4": "The artist captured the essence of the native landscape.",
+            "sent5": "The native music filled the air with melodies."
         },
         {
             "definition": "Inherent, natural, or original to something",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The scientist studied the native properties of the material.",
+            "sent2": "The native instincts of the animal guided its behavior.",
+            "sent3": "The native warmth of the fireplace was comforting on cold nights.",
+            "sent4": "The artist's style had a native creativity that was captivating.",
+            "sent5": "The native aroma of the flowers perfumed the garden."
         }
     ]
 }

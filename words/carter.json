@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A person who drives a cart.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The carter delivered goods to the market.",
+            "sent2": "The carter loaded the cart with fresh vegetables.",
+            "sent3": "The carter accidentally bumped into a tree with the cart.",
+            "sent4": "The carter's cart rolled smoothly down the hill.",
+            "sent5": "The carter's job is to ensure the cart is always in good condition."
         },
         {
             "definition": "A company that transports goods by cart.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The local carter provided reliable delivery services.",
+            "sent2": "The carter's company specializes in cart transportation.",
+            "sent3": "The carter's logo on the carts always makes me smile.",
+            "sent4": "The carter's fleet of carts is known for its efficiency.",
+            "sent5": "The carter's business grew due to their excellent cart services."
         },
         {
             "definition": "To transport goods by cart.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "They decided to carter the heavy boxes to the warehouse.",
+            "sent2": "She carters the produce from the farm to the market every morning.",
+            "sent3": "Let's carter these supplies to the campsite for the weekend.",
+            "sent4": "He carters the tools back and forth between the workshop and the shed.",
+            "sent5": "The team will carter the equipment to the construction site tomorrow."
         }
     ]
 }

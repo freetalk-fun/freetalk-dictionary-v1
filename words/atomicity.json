@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "The state or quality of being atomic.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The atomicity of the molecule made it stable.",
+            "sent2": "Scientists study the atomicity of elements in chemistry.",
+            "sent3": "The atomicity of the situation was so clear, it made everyone laugh.",
+            "sent4": "The atomicity of the family bond was unbreakable.",
+            "sent5": "The atomicity of the tiny particles was fascinating to observe."
         },
         {
             "definition": "The property of an operation in a database management system that guarantees that either all of the tasks of the operation are performed or none of them are.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The database system's atomicity ensured data integrity.",
+            "sent2": "Programmers rely on atomicity to maintain database consistency.",
+            "sent3": "The atomicity of the database operation was so strict, it felt like a game.",
+            "sent4": "The atomicity of the system's transactions was like a perfectly choreographed dance.",
+            "sent5": "The atomicity of the database operation was crucial for error prevention."
         }
     ]
 }

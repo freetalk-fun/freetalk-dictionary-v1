@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A person who distributes leaflets.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The leafleter handed out flyers on the street corner.",
+            "sent2": "The leafleter distributed pamphlets at the event.",
+            "sent3": "The leafleter accidentally dropped all the leaflets in a puddle.",
+            "sent4": "She was like a leafleter of information, spreading knowledge wherever she went.",
+            "sent5": "The leafleter's bag was overflowing with leaflets, ready to be shared."
         },
         {
             "definition": "To distribute leaflets.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She decided to leafleter the neighborhood with information about the event.",
+            "sent2": "They leafletered the town with announcements about the upcoming sale.",
+            "sent3": "He leafleters with such enthusiasm that people eagerly take the flyers.",
+            "sent4": "The wind seemed to leafleter the papers in all directions.",
+            "sent5": "The campaign team leafleters tirelessly to get the message out to everyone."
         }
     ]
 }

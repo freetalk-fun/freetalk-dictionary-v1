@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To cease functioning or operating",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The old computer will flatline soon.",
+            "sent2": "If you don't charge your phone, it will flatline.",
+            "sent3": "I hope my alarm clock doesn't flatline and make me late for work!",
+            "sent4": "The engine flatlined just as we were about to leave.",
+            "sent5": "The music player flatlined after playing non-stop for hours."
         },
         {
             "definition": "A straight line on a monitor indicating no activity",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The patient's heart monitor showed a flatline.",
+            "sent2": "The flatline on the screen indicated a power outage.",
+            "sent3": "The flatline on the monitor made everyone hold their breath.",
+            "sent4": "The flatline on the ECG was a stark reminder of the situation.",
+            "sent5": "The flatline on the radar screen signaled trouble ahead."
         },
         {
             "definition": "Lacking variation or excitement",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The movie was so flatline that I fell asleep.",
+            "sent2": "The presentation was flatline, with no interesting visuals.",
+            "sent3": "His joke fell flatline, and no one laughed.",
+            "sent4": "The party was a flatline affair, with no music or dancing.",
+            "sent5": "The book's plot was so flatline that I couldn't finish it."
         }
     ]
 }

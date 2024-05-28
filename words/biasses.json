@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A particular tendency, trend, inclination, feeling, or opinion, especially one that is preconceived or unreasoned.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Her strong biasses towards traditional values influenced her decisions.",
+            "sent2": "His biasses towards certain foods made it challenging to try new dishes.",
+            "sent3": "Despite his biasses towards comedy, he found himself enjoying a serious play.",
+            "sent4": "The biasses of the media shaped public opinion on the controversial issue.",
+            "sent5": "The teacher's biasses towards certain students were evident in her grading."
         },
         {
             "definition": "To cause to have a bias; influence in a particular direction.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The news article biasses the reader towards a specific political view.",
+            "sent2": "She biasses her research to support her hypothesis.",
+            "sent3": "The magician biasses the audience's perception with clever tricks.",
+            "sent4": "The bright colors biasses the painting towards a cheerful mood.",
+            "sent5": "The coach biasses the team's strategy to focus on defense."
         }
     ]
 }

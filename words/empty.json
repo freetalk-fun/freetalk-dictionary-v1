@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Containing nothing; not filled or occupied.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The room was empty of furniture.",
+            "sent2": "The glass was empty after I drank all the water.",
+            "sent3": "The empty cookie jar made me sad.",
+            "sent4": "Her eyes were empty of emotion.",
+            "sent5": "The empty playground echoed with silence."
         },
         {
             "definition": "Lacking meaning or substance.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "His speech was empty of any real content.",
+            "sent2": "The promise turned out to be empty and false.",
+            "sent3": "The empty excuse did not fool anyone.",
+            "sent4": "Her smile seemed empty, hiding her true feelings.",
+            "sent5": "The empty words left us feeling unsatisfied."
         },
         {
             "definition": "To remove all contents from.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Please empty the trash bin before it overflows.",
+            "sent2": "I need to empty my backpack of all the old papers.",
+            "sent3": "He decided to empty his mind of worries and just relax.",
+            "sent4": "The magician seemed to empty the hat of endless scarves.",
+            "sent5": "She had to empty her pockets before going through security."
         }
     ]
 }

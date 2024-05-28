@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "The act of moving something from its usual place",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The displacement of the vase from the shelf was accidental.",
+            "sent2": "The displacement of the furniture during the renovation made the room feel different.",
+            "sent3": "The displacement of the cat from its favorite spot on the couch caused a comical chase around the house.",
+            "sent4": "The displacement of the puzzle pieces from their original positions made it challenging to complete.",
+            "sent5": "The sudden displacement of the sand by the waves created a new pattern on the beach."
         },
         {
             "definition": "The amount by which something is moved from its original position",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The displacement of the car in the parking lot was only a few inches.",
+            "sent2": "The displacement of the marker on the whiteboard was barely noticeable.",
+            "sent3": "The displacement of the cookie from the plate was so small, it went unnoticed.",
+            "sent4": "The displacement of the needle on the scale indicated a slight change in weight.",
+            "sent5": "The displacement of the rock from the edge of the cliff was a warning of potential danger."
         },
         {
             "definition": "The removal of someone or something from a place or situation",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The displacement of the employee from the project team was unexpected.",
+            "sent2": "The displacement of the tree from the garden was necessary for construction.",
+            "sent3": "The displacement of the book from the shelf led to a surprising discovery behind it.",
+            "sent4": "The displacement of the student from the classroom caused a stir among the classmates.",
+            "sent5": "The displacement of the boat from the dock marked the beginning of a new journey."
         }
     ]
 }

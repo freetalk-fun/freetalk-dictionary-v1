@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A person or thing that reduces something in size, quantity, or intensity.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The garbage compactor is a reducer that squashes trash to make it smaller.",
+            "sent2": "She used a vegetable chopper as a reducer to cut the carrots into tiny pieces.",
+            "sent3": "The shrinking machine malfunctioned, turning the scientist into a tiny reducer.",
+            "sent4": "His calming presence acted as a reducer, easing the tension in the room.",
+            "sent5": "The vacuum cleaner was a powerful reducer, sucking up all the dirt in seconds."
         },
         {
             "definition": "A substance added to a chemical reaction to decrease the rate of reaction.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The inhibitor acted as a reducer, slowing down the chemical reaction.",
+            "sent2": "The scientist carefully measured the reducer before adding it to the solution.",
+            "sent3": "The clumsy chemist spilled the reducer, causing the experiment to take longer than expected.",
+            "sent4": "The reducer worked like magic, instantly calming the bubbling reaction.",
+            "sent5": "Adding the reducer was like hitting the brakes on the speeding reaction."
         },
         {
             "definition": "A device used to convert electrical energy into a different form with lower voltage or current.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The voltage reducer transformed the high electricity into a safer level for the device.",
+            "sent2": "He plugged the electrical reducer into the socket to regulate the power flow.",
+            "sent3": "The electrical engineer invented a tiny reducer that could fit in the palm of your hand.",
+            "sent4": "The current reducer acted like a gatekeeper, controlling the flow of electricity.",
+            "sent5": "The electrical reducer hummed softly as it converted the energy into a usable form."
         }
     ]
 }

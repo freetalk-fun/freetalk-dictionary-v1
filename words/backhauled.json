@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Transported by a different route or carrier than the original shipment.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The backhauled package arrived safely despite the change in transportation.",
+            "sent2": "The backhauled goods were delivered efficiently using an alternate route.",
+            "sent3": "The backhauled items took a detour but still reached their destination on time.",
+            "sent4": "The backhauled supplies made a surprising journey before reaching their final destination.",
+            "sent5": "The backhauled cargo traveled through unexpected paths but reached its destination successfully."
         },
         {
             "definition": "To transport goods or data back to a central location.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "They backhauled the equipment to the main office for maintenance.",
+            "sent2": "The company backhauled the data to the headquarters for analysis.",
+            "sent3": "He backhauled the lost files to the central server with ease.",
+            "sent4": "She backhauled the products to the warehouse for storage.",
+            "sent5": "The team backhauled the supplies to the central hub efficiently."
         },
         {
             "definition": "The act of moving something back to its original location.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The backhauled of the equipment was necessary to restore the setup.",
+            "sent2": "The backhauled of the items helped in organizing the inventory.",
+            "sent3": "The unexpected backhauled of the goods caused a bit of confusion.",
+            "sent4": "The quick backhauled of the materials saved time and effort.",
+            "sent5": "The smooth backhauled of the products improved the workflow."
         }
     ]
 }

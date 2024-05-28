@@ -3,19 +3,39 @@
     "meanings": [
         {
             "definition": "A careless or stupid mistake.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Her blunder in the math test cost her a good grade.",
+            "sent2": "The politician's blunder during the speech caused a lot of embarrassment.",
+            "sent3": "He made a blunder by wearing mismatched socks to the important meeting.",
+            "sent4": "The blunder in the recipe turned the cake into a salty disaster.",
+            "sent5": "The blunder in the play's script made the audience burst into laughter."
         },
         {
             "definition": "To make a careless or stupid mistake.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I blundered by forgetting my keys at home.",
+            "sent2": "She tends to blunder when she's nervous.",
+            "sent3": "He blundered by spilling coffee on his white shirt before the interview.",
+            "sent4": "The chef blundered the dish by adding too much salt.",
+            "sent5": "The detective blundered the investigation by overlooking a crucial clue."
         },
         {
             "definition": "A clumsy or careless mistake.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The student's blunder in the art class was painting outside the lines.",
+            "sent2": "His blunder in the game cost his team the victory.",
+            "sent3": "The blunder of wearing slippers to a formal event was quite noticeable.",
+            "sent4": "The blunder in the dance routine made the performance look chaotic.",
+            "sent5": "The blunder in the science experiment caused a small explosion."
         },
         {
             "definition": "To move clumsily or carelessly.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The toddler blundered around the room, bumping into furniture.",
+            "sent2": "She blundered through the crowd to catch the bus.",
+            "sent3": "He blundered along the path, tripping over rocks.",
+            "sent4": "The drunk man blundered down the street, unable to walk straight.",
+            "sent5": "The robot blundered through the maze, knocking down walls in its path."
         }
     ]
 }

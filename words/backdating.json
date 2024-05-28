@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Assigning a date to a document that is earlier than the actual date.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She tried backdating the letter to make it seem like it was sent earlier.",
+            "sent2": "The company was caught backdating contracts to show false revenue.",
+            "sent3": "Backdating the permission slip won't make your teacher forget about it.",
+            "sent4": "His attempt at backdating his diary entries only made his lies more obvious.",
+            "sent5": "Backdating the check was his way of trying to cheat the system."
         },
         {
             "definition": "To make something effective from a date in the past.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "They decided to backdate the policy change to last month.",
+            "sent2": "Backdating the insurance coverage saved them from a financial loss.",
+            "sent3": "Backdating the warranty on the broken appliance won't fix it magically.",
+            "sent4": "Her decision to backdate the contract made it seem like it was always in effect.",
+            "sent5": "Backdating the agreement gave them the advantage they needed."
         },
         {
             "definition": "The practice of setting the date of a document to an earlier time.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The backdating of the contract was discovered during the audit.",
+            "sent2": "Backdating is considered unethical in many industries.",
+            "sent3": "The detective joked that backdating the evidence wouldn't fool him.",
+            "sent4": "In history, backdating documents was a common way to alter the past.",
+            "sent5": "The art of backdating requires attention to detail and precision."
         }
     ]
 }

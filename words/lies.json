@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To make an untrue statement with intent to deceive.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She often lies about her age to seem younger.",
+            "sent2": "He lies about his whereabouts to avoid getting in trouble.",
+            "sent3": "The cat lies about catching the mouse, but we know the truth.",
+            "sent4": "His excuse for being late lies in heavy traffic.",
+            "sent5": "The web of lies she spun eventually unraveled."
         },
         {
             "definition": "An intentionally false statement.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The detective uncovered the lies in the suspect's alibi.",
+            "sent2": "Spreading lies about someone can damage their reputation.",
+            "sent3": "The politician's outrageous lies were exposed by fact-checkers.",
+            "sent4": "The lies in the tabloid were too absurd to believe.",
+            "sent5": "His life was built on a foundation of lies."
         },
         {
             "definition": "To be in or assume a horizontal or resting position.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The cat lies in the sun to warm up.",
+            "sent2": "After a long day, she lies on the couch to relax.",
+            "sent3": "The dog lies on its back, begging for a belly rub.",
+            "sent4": "The book lies open on the table, waiting to be read.",
+            "sent5": "The keys always seem to lie just out of reach."
         }
     ]
 }

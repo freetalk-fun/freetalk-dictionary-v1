@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Have a mutual relationship or connection.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The number of hours spent studying correlates with the grades achieved.",
+            "sent2": "In science, researchers often look for factors that correlate with certain outcomes.",
+            "sent3": "It's funny how my mood always correlates with the weather outside.",
+            "sent4": "Her laughter correlates with the number of jokes told in a day.",
+            "sent5": "The color of the sky correlates with the time of day, creating a beautiful sunset."
         },
         {
             "definition": "A variable that is related to another variable.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "In the study, they found a strong correlation between income and education level, making income a correlate of education.",
+            "sent2": "Researchers analyzed the data to identify potential correlates of heart disease.",
+            "sent3": "The number of books in the library can be seen as a correlate of the community's interest in reading.",
+            "sent4": "In the experiment, they discovered a new correlate of plant growth in different soil types.",
+            "sent5": "The presence of footprints in the sand can be a correlate of someone walking along the beach."
         }
     ]
 }

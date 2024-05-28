@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A person or thing that predicts.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "My grandma is a good predictor of the weather.",
+            "sent2": "The predictor of the race outcome was surprisingly accurate.",
+            "sent3": "The predictor cat always knows when it's dinner time.",
+            "sent4": "Her intuition acted as a reliable predictor of success.",
+            "sent5": "The predictor's crystal ball revealed the future with clarity."
         },
         {
             "definition": "A variable used to make predictions in statistics.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "In the experiment, the predictor variable was the key factor.",
+            "sent2": "The predictor in the equation helped forecast the outcome.",
+            "sent3": "The predictor number seemed to have a mind of its own.",
+            "sent4": "The predictor function guided us towards accurate forecasts.",
+            "sent5": "The predictor value influenced the results significantly."
         },
         {
             "definition": "An indicator of future events.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The sudden drop in temperature was a predictor of the coming storm.",
+            "sent2": "The stock market is often seen as a predictor of economic trends.",
+            "sent3": "The predictor alarm went off just before the power outage.",
+            "sent4": "The predictor signal warned us of the impending danger.",
+            "sent5": "The predictor signalled a change that was about to happen."
         }
     ]
 }

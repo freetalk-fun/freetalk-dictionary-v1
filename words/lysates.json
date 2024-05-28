@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "The liquid remaining after a substance has been lysed.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The scientist studied the lysates under the microscope.",
+            "sent2": "The lysates were carefully collected and analyzed in the lab.",
+            "sent3": "The lysates seemed to dance under the light, creating a mesmerizing pattern.",
+            "sent4": "The lysates resembled a colorful rainbow after the experiment.",
+            "sent5": "The smell of the lysates filled the room, reminding everyone of the experiment."
         },
         {
             "definition": "To break down (cells or tissues) by lysis.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The enzyme lysates the cells to release their contents.",
+            "sent2": "She lysates the tissue samples to extract the proteins.",
+            "sent3": "The blender lysates the fruits into a delicious smoothie.",
+            "sent4": "His words lysates her heart, leaving her feeling broken.",
+            "sent5": "The storm lysates the sandcastle, washing it away into the sea."
         }
     ]
 }

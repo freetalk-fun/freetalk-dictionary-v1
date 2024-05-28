@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A man",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The dude walked down the street.",
+            "sent2": "The dudes were playing basketball at the park.",
+            "sent3": "The dude with the hat looked cool.",
+            "sent4": "He was a dude in a world of gentlemen.",
+            "sent5": "The dude's smile lit up the room."
         },
         {
             "definition": "A group of people, especially friends",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Hey dudes, let's go to the movies!",
+            "sent2": "The dudes were having a great time at the party.",
+            "sent3": "The group of dudes laughed loudly at the joke.",
+            "sent4": "Their friendship made them a solid group of dudes.",
+            "sent5": "The dudes shared many memories together."
         },
         {
             "definition": "To dress or style in a trendy or fashionable way",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She dudes up in the latest fashion trends.",
+            "sent2": "They always dudes up for the fancy events.",
+            "sent3": "He decided to dudes up for the concert.",
+            "sent4": "Her outfit really dudes up her look.",
+            "sent5": "Duding up for the occasion made her feel confident."
         }
     ]
 }

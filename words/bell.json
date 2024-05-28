@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A hollow metal object, typically in the shape of a deep inverted cup widening at the lip, that sounds a clear musical note when struck.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The shiny bell on the cat's collar jingled softly.",
+            "sent2": "The church bell chimed loudly at noon.",
+            "sent3": "The mischievous squirrel used the bell as a tiny drum.",
+            "sent4": "Her laughter echoed like a bell through the empty hallway.",
+            "sent5": "The bell's melodious tone filled the room with joy."
         },
         {
             "definition": "A device that makes a ringing sound when struck.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The doorbell rang just as we sat down to dinner.",
+            "sent2": "The school bell signaled the end of class.",
+            "sent3": "The bell on the bicycle made a cheerful noise as she rode by.",
+            "sent4": "His voice carried across the field like a distant bell.",
+            "sent5": "The bell's clear sound cut through the noise of the crowd."
         },
         {
             "definition": "To ring a bell.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I will bell for you when it's time to come home.",
+            "sent2": "She bellowed for help when she got lost in the forest.",
+            "sent3": "The idea of ice cream always bells in my mind on a hot day.",
+            "sent4": "His words seemed to bell in her memory long after he had left.",
+            "sent5": "The alarm clock belling in the morning woke him up abruptly."
         }
     ]
 }

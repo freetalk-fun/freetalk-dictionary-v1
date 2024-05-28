@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To make something legally or officially void or null.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The judge invalidated the contract due to missing signatures.",
+            "sent2": "The court invalidated the will because it was not signed properly.",
+            "sent3": "The magician invalidated the contract by making it disappear!",
+            "sent4": "The storm's damage invalidated the roof, leaving it useless.",
+            "sent5": "The teacher's red pen invalidated the incorrect answers on the test."
         },
         {
             "definition": "To prove something to be false or incorrect.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The scientist invalidated the theory with new evidence.",
+            "sent2": "The detective invalidated the suspect's alibi during questioning.",
+            "sent3": "The comedian playfully invalidated the rumor with a joke.",
+            "sent4": "The student's research invalidated the outdated hypothesis.",
+            "sent5": "The lawyer's cross-examination invalidated the witness's testimony."
         },
         {
             "definition": "To weaken or destroy the validity of something.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The rainstorm invalidated the fragile bridge, causing it to collapse.",
+            "sent2": "The virus invalidated the security measures, allowing unauthorized access.",
+            "sent3": "The clumsy waiter accidentally invalidated the restaurant's no-spill policy.",
+            "sent4": "The hacker's breach invalidated the company's confidential data.",
+            "sent5": "The faulty wiring invalidated the safety precautions, leading to a hazard."
         }
     ]
 }

@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Used to express mild surprise or regret.",
-            "pos": "interjection"
+            "pos": "interjection",
+            "sent1": "Whoops! I dropped my pencil.",
+            "sent2": "Whoops, I forgot to bring my umbrella.",
+            "sent3": "Whoops, I accidentally wore mismatched socks today.",
+            "sent4": "Whoops, I almost spilled my drink all over the table.",
+            "sent5": "Whoops, I tripped over the curb and almost fell."
         },
         {
             "definition": "A mistake or error.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I made a whoops on my math test and got a lower grade.",
+            "sent2": "She realized her whoops in the report after it was already submitted.",
+            "sent3": "The cake turned out to be a delicious whoops with too much sugar.",
+            "sent4": "His whoops in the presentation cost the company a big client.",
+            "sent5": "The whoops in the recipe made the dish taste completely different."
         }
     ]
 }

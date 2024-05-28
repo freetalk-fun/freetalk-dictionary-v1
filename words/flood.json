@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "An overflowing of water onto land that is normally dry.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The flood washed away the bridge.",
+            "sent2": "After heavy rain, the flood filled the streets.",
+            "sent3": "The flood turned the park into a giant swimming pool.",
+            "sent4": "Her tears were a flood that could not be stopped.",
+            "sent5": "The flood surged through the valley, carrying everything in its path."
         },
         {
             "definition": "To cover or submerge with water or another liquid.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Please don't flood the bathroom floor.",
+            "sent2": "The heavy rain flooded the basement.",
+            "sent3": "He accidentally flooded the kitchen sink while doing dishes.",
+            "sent4": "The emotions flooded her heart when she saw the surprise.",
+            "sent5": "The memories flooded back as she walked through the old neighborhood."
         },
         {
             "definition": "A great quantity or number of something appearing or occurring in quick succession.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The flood of emails in my inbox is overwhelming.",
+            "sent2": "A flood of customers entered the store during the sale.",
+            "sent3": "The flood of compliments made her blush.",
+            "sent4": "A flood of memories from childhood came rushing back.",
+            "sent5": "The flood of questions from the audience kept the speaker on their toes."
         }
     ]
 }

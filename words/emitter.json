@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A person or thing that emits something, such as light or sound.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The firefly was the emitter of a soft glow in the dark forest.",
+            "sent2": "The radio tower acted as an emitter of music to the entire town.",
+            "sent3": "The little bird proudly showed off its role as the emitter of cheerful chirps.",
+            "sent4": "The lighthouse stood tall, a reliable emitter of guiding light for ships at sea.",
+            "sent5": "The street lamp served as the emitter of a warm, welcoming glow on the corner."
         },
         {
             "definition": "A device that emits electromagnetic waves or particles.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The microwave oven is an emitter that heats food quickly.",
+            "sent2": "The flashlight is a handy emitter of bright light in the dark.",
+            "sent3": "The alien spaceship had a mysterious emitter that emitted strange signals.",
+            "sent4": "The laser pointer is a precise emitter of focused light for presentations.",
+            "sent5": "The smoke detector is an essential emitter of warning signals in case of fire."
         },
         {
             "definition": "A component of a transistor that emits electrons or holes.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The emitter in the transistor releases electrons to carry the electrical current.",
+            "sent2": "The electronic device contains an emitter that controls the flow of electricity.",
+            "sent3": "The tiny emitter in the circuit board had a big job to do.",
+            "sent4": "The emitter in the computer chip was like a traffic controller for data.",
+            "sent5": "The emitter in the electronic system was crucial for proper functioning."
         }
     ]
 }

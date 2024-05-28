@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A single thin length of something such as thread, fiber, or wire.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The strands of hair fell gently on her shoulder.",
+            "sent2": "She braided the strands of yarn together to make a scarf.",
+            "sent3": "The spider used the strands of silk to create a delicate web.",
+            "sent4": "The strands of sunlight peeked through the clouds.",
+            "sent5": "The intricate strands of a spider's web glistened in the morning dew."
         },
         {
             "definition": "A group of similar things that are twisted or woven together.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The strands of pasta were perfectly cooked.",
+            "sent2": "The artist used colorful strands of beads to create a beautiful necklace.",
+            "sent3": "The strands of music blended harmoniously in the concert hall.",
+            "sent4": "The strands of ivy climbed up the old brick wall.",
+            "sent5": "The intricate strands of flavors in the dish created a delightful taste."
         },
         {
             "definition": "To leave someone in a difficult situation.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She accidentally strands her friend at the train station.",
+            "sent2": "The storm strands the hikers on the mountain.",
+            "sent3": "The forgetful professor strands his students in the library.",
+            "sent4": "The broken car strands them in the middle of nowhere.",
+            "sent5": "The lost map strands them in the maze of streets."
         }
     ]
 }

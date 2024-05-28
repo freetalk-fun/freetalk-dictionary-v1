@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "The middle value in a set of numbers.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "In the list of test scores, the median was 85.",
+            "sent2": "The median income for the neighborhood was $50,000.",
+            "sent3": "The median number of cookies per person at the party was impressive.",
+            "sent4": "She found herself in the median of opinions on the topic.",
+            "sent5": "The median age of the group was 30, making them a diverse bunch."
         },
         {
             "definition": "A line segment joining a vertex of a triangle to the midpoint of the opposite side.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The median of a triangle divides it into two equal areas.",
+            "sent2": "The student drew the median of the triangle accurately.",
+            "sent3": "The triangle's medians decided to have a meeting at the midpoint.",
+            "sent4": "The median of the triangle cut through the center like a knife.",
+            "sent5": "The median of the triangle was the key to solving the math problem."
         },
         {
             "definition": "A strip of land dividing lanes of traffic.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The car stopped in the median between the lanes.",
+            "sent2": "The highway had a wide grassy median separating the lanes.",
+            "sent3": "The median was a popular spot for birds to gather and rest.",
+            "sent4": "The median was a green oasis in the midst of the busy road.",
+            "sent5": "The flowers planted in the median added beauty to the road."
         }
     ]
 }

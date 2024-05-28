@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To bleed heavily",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The injured soldier hemorrhaged after the battle.",
+            "sent2": "The patient hemorrhaged profusely after the surgery.",
+            "sent3": "The watermelon seemed to hemorrhage juice when cut open.",
+            "sent4": "The company's finances continued to hemorrhage money.",
+            "sent5": "The burst pipe caused the basement to hemorrhage water."
         },
         {
             "definition": "To lose a large amount of blood",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The wounded animal hemorrhaged blood onto the ground.",
+            "sent2": "The accident victim hemorrhaged heavily at the scene.",
+            "sent3": "The broken water balloon appeared to hemorrhage its contents.",
+            "sent4": "The tree seemed to hemorrhage sap from its wound.",
+            "sent5": "The burst dam caused the river to hemorrhage downstream."
         },
         {
             "definition": "To suffer a hemorrhage",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The patient began to hemorrhage unexpectedly during the procedure.",
+            "sent2": "The elderly man hemorrhaged in his brain, causing a stroke.",
+            "sent3": "The overstuffed suitcase seemed to hemorrhage clothes when opened.",
+            "sent4": "The city's population continued to hemorrhage due to job losses.",
+            "sent5": "The overloaded circuit began to hemorrhage sparks."
         }
     ]
 }

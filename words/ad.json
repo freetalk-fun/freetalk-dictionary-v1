@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "An advertisement",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I saw an ad for a new phone.",
+            "sent2": "The ad on TV was very catchy.",
+            "sent3": "The ad made me want to buy the product.",
+            "sent4": "She used an ad to promote her business.",
+            "sent5": "The ad featured a cute puppy to grab attention."
         },
         {
             "definition": "Toward; in the direction of",
-            "pos": "preposition"
+            "pos": "preposition",
+            "sent1": "He walked ad the park.",
+            "sent2": "The cat ran ad the mouse.",
+            "sent3": "The squirrel climbed ad the tree.",
+            "sent4": "The river flowed ad the mountains.",
+            "sent5": "The road led ad the beach."
         },
         {
             "definition": "Anno Domini (in the year of our Lord)",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The manuscript was dated ad 1500.",
+            "sent2": "The event took place ad 2021.",
+            "sent3": "The castle was built ad the 12th century.",
+            "sent4": "The painting was created ad the Renaissance.",
+            "sent5": "The book was written ad the Middle Ages."
         }
     ]
 }

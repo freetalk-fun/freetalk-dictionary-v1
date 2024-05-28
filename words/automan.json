@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A person who operates a motor vehicle.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The automan drove the bus carefully.",
+            "sent2": "The automan parked the car in the garage.",
+            "sent3": "The automan forgot to fill up the gas tank before the trip.",
+            "sent4": "She maneuvered through traffic like a skilled automan.",
+            "sent5": "The automan's job is to transport passengers safely."
         },
         {
             "definition": "A self-operating machine or mechanism.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The automan robot cleaned the floors efficiently.",
+            "sent2": "The automan device automatically dispensed medication.",
+            "sent3": "The automan gadget started dancing unexpectedly.",
+            "sent4": "The automan contraption hummed softly in the background.",
+            "sent5": "The automan invention revolutionized household chores."
         },
         {
             "definition": "To operate or control a vehicle.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He will automan the truck during the delivery.",
+            "sent2": "She automans the taxi service in the city.",
+            "sent3": "They automan the boat with precision and skill.",
+            "sent4": "The team will automan the race car around the track.",
+            "sent5": "You should automan the bicycle carefully on the road."
         }
     ]
 }

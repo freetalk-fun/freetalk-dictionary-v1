@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "An error or fault in action, calculation, opinion, or judgment caused by poor reasoning, carelessness, insufficient knowledge, etc.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Making a mistake in math can lead to the wrong answer.",
+            "sent2": "She realized her mistake after checking her work.",
+            "sent3": "It was a mistake to wear flip-flops in the snow.",
+            "sent4": "His mistake was like a dark cloud hanging over his head.",
+            "sent5": "The mistake in the recipe made the cake taste strange."
         },
         {
             "definition": "To understand or perceive wrongly; interpret or judge incorrectly.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I often mistake her twin sister for her.",
+            "sent2": "Please don't mistake my kindness for weakness.",
+            "sent3": "He mistakenly thought the movie was a comedy.",
+            "sent4": "She mistook his silence for agreement.",
+            "sent5": "The witness's testimony could easily be mistaken for the truth."
         }
     ]
 }

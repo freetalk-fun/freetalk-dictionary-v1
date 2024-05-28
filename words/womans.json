@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "The plural form of woman.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Two womans walked to the store together.",
+            "sent2": "The womans in the office were discussing a project.",
+            "sent3": "The group of womans giggled at a funny joke.",
+            "sent4": "The womans in the choir sang beautifully together.",
+            "sent5": "The womans at the party wore colorful dresses."
         },
         {
             "definition": "Belonging to or relating to women.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "She attended a womans event to support her friends.",
+            "sent2": "The store displayed womans clothing in the window.",
+            "sent3": "The womans soccer team celebrated their victory.",
+            "sent4": "Her womans intuition told her something was wrong.",
+            "sent5": "The womans rights movement fought for equality."
         },
         {
             "definition": "Possessive form of woman.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The womans hat was left on the bench.",
+            "sent2": "I saw the womans car parked outside.",
+            "sent3": "The cat played with the womans scarf.",
+            "sent4": "The book belonged to the womans friend.",
+            "sent5": "The ring was the womans most prized possession."
         }
     ]
 }

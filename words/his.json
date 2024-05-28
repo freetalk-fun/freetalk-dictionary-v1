@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Belonging to or associated with a male person or animal.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The boy wore his favorite hat to the park.",
+            "sent2": "He held his father's hand tightly while crossing the street.",
+            "sent3": "The dog wagged his tail happily when his owner returned home.",
+            "sent4": "The lion protected his pride from any intruders.",
+            "sent5": "The knight bravely defended his kingdom from enemies."
         },
         {
             "definition": "Used to refer to a thing or things belonging to or associated with a male person or animal.",
-            "pos": "pronoun"
+            "pos": "pronoun",
+            "sent1": "John forgot his lunchbox at home this morning.",
+            "sent2": "The cat groomed his fur meticulously after dinner.",
+            "sent3": "The squirrel stole his nuts back from the mischievous raccoon.",
+            "sent4": "The farmer fed his chickens before sunrise every day.",
+            "sent5": "The astronaut waved goodbye to his family before the space mission."
         }
     ]
 }

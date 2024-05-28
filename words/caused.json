@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To be the reason for something happening.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The loud noise caused the dog to bark.",
+            "sent2": "The rain caused the flowers to grow.",
+            "sent3": "The unexpected visitor caused quite a stir in the house.",
+            "sent4": "His absence caused a void in her heart.",
+            "sent5": "The faulty wiring caused a dangerous situation in the building."
         },
         {
             "definition": "To make something happen.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Her hard work caused her to succeed in the competition.",
+            "sent2": "The chef's special recipe caused a sensation among the diners.",
+            "sent3": "The magician's trick caused laughter and amazement in the audience.",
+            "sent4": "His words caused a change of heart in his friend.",
+            "sent5": "The alarm clock caused him to wake up early for the meeting."
         },
         {
             "definition": "To bring about an effect or result.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The new policy caused confusion among the employees.",
+            "sent2": "The medicine caused the symptoms to disappear.",
+            "sent3": "The prank caused laughter and embarrassment at the same time.",
+            "sent4": "His actions caused a chain reaction of events.",
+            "sent5": "The storm caused damage to the fragile roof of the house."
         }
     ]
 }

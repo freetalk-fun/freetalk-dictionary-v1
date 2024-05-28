@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A factor that makes a particular treatment or procedure inadvisable.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The doctor explained that the patient's allergy was a contraindication for the medication.",
+            "sent2": "It is important for healthcare providers to be aware of any contraindications before starting a new treatment.",
+            "sent3": "The contraindication to eating spicy food was having a sensitive stomach.",
+            "sent4": "Her fear of heights acted as a contraindication to climbing the tall tower.",
+            "sent5": "The contraindication to swimming in the ocean was the presence of dangerous jellyfish."
         },
         {
             "definition": "An existing condition that makes a certain treatment or procedure potentially harmful.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The patient's heart condition was a contraindication for the surgery.",
+            "sent2": "Before prescribing any medication, doctors must consider any contraindications the patient may have.",
+            "sent3": "The contraindication to staying up late was feeling tired the next day.",
+            "sent4": "His lack of experience was a contraindication to taking on the challenging project.",
+            "sent5": "The contraindication to using the new software was the risk of data loss."
         }
     ]
 }

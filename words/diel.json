@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A daily cycle, especially in reference to the activity patterns of organisms.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The diel of the birds involves feeding during the day and resting at night.",
+            "sent2": "Scientists study the diel of plants to understand their growth patterns.",
+            "sent3": "The diel of the squirrels includes gathering nuts in the morning and playing in the afternoon.",
+            "sent4": "The diel of the ocean creatures follows the rhythm of the tides.",
+            "sent5": "The diel of the forest creatures is a symphony of activity and rest."
         },
         {
             "definition": "Pertaining to or occurring in a 24-hour period.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The diel temperature changes affect the behavior of animals.",
+            "sent2": "The diel rainfall patterns in the region are crucial for agriculture.",
+            "sent3": "The diel schedule of the factory workers keeps them busy throughout the day.",
+            "sent4": "The diel routine of the city never seems to slow down.",
+            "sent5": "The diel cycle of the moon influences the tides."
         },
         {
             "definition": "To engage in daily activities or routines.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She diels in yoga every morning to stay healthy.",
+            "sent2": "The students diel in studying to prepare for the exam.",
+            "sent3": "He diels in gardening as a way to relax after work.",
+            "sent4": "The athletes diel in rigorous training to improve their performance.",
+            "sent5": "They diel in cooking new recipes to explore different cuisines."
         }
     ]
 }

@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Shut and open the eyes quickly.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She blinked in surprise when the bright light suddenly turned on.",
+            "sent2": "The traffic light blinked red, then green, then yellow.",
+            "sent3": "The cat blinked lazily in the sun, ignoring the playful puppy.",
+            "sent4": "The stars blinked in the night sky like distant diamonds.",
+            "sent5": "His eyes blinked rapidly as he tried to stay awake during the boring lecture."
         },
         {
             "definition": "To flash on and off at regular intervals.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The lighthouse blinked every few seconds to guide ships safely.",
+            "sent2": "The neon sign blinked in bright colors outside the store.",
+            "sent3": "The fireflies blinked in the dark, creating a magical dance.",
+            "sent4": "The distant city lights blinked in the horizon like a silent Morse code.",
+            "sent5": "The alarm clock blinked 12:00 repeatedly, indicating a power outage."
         },
         {
             "definition": "To ignore or disregard.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He blinked at the rude comment, choosing to stay silent.",
+            "sent2": "She blinked at the urgent message, too absorbed in her book to respond.",
+            "sent3": "The teacher blinked at the mischievous student's attempt to distract the class.",
+            "sent4": "The politician blinked at the reporter's tough question, skillfully changing the topic.",
+            "sent5": "The cat blinked at the mouse scurrying by, pretending not to notice its presence."
         }
     ]
 }

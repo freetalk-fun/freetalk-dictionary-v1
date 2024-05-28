@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To make a mistake",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I err when I forget my homework at home.",
+            "sent2": "She tends to err in her calculations when she is tired.",
+            "sent3": "It was an err to wear mismatched socks to the important meeting.",
+            "sent4": "His decision to skip breakfast proved to be an err as he felt weak later.",
+            "sent5": "The student's err in citing sources led to a lower grade on the paper."
         },
         {
             "definition": "To go astray",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The lost puppy err into the neighbor's yard.",
+            "sent2": "Without a map, it's easy to err and get lost in the forest.",
+            "sent3": "The GPS made a funny err and directed us to a closed road.",
+            "sent4": "Her mind started to err, wandering to distant memories.",
+            "sent5": "The hiker's decision to err from the trail led to a beautiful hidden waterfall."
         },
         {
             "definition": "To deviate from the right course",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The project started to err off track due to miscommunication.",
+            "sent2": "It's important to stay focused and not err from the original plan.",
+            "sent3": "The comedian's joke took an unexpected err into political satire.",
+            "sent4": "The river began to err from its usual path after heavy rainfall.",
+            "sent5": "The team's decision to err from tradition brought fresh perspectives to the problem."
         }
     ]
 }

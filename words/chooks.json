@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Chooks (noun): plural form of chook, meaning chickens",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The farmer fed the chooks in the morning.",
+            "sent2": "The chooks clucked happily in the yard.",
+            "sent3": "Why did the chooks cross the road? To get to the other side!",
+            "sent4": "The chooks in the coop were a flurry of feathers and beaks.",
+            "sent5": "The golden chooks pecked at the scattered grains eagerly."
         },
         {
             "definition": "Chooks (verb): third person singular present of chook, meaning to move quickly or in a particular direction",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The rabbit chooks across the field to escape the fox.",
+            "sent2": "She chooks through the crowd to catch the bus.",
+            "sent3": "The squirrel chooks up the tree to hide its acorns.",
+            "sent4": "Time chooks along, never waiting for anyone.",
+            "sent5": "The wind chooks through the leaves, rustling them softly."
         }
     ]
 }

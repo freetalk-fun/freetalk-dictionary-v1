@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Watched over and directed",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The supervised children played safely in the park.",
+            "sent2": "The supervised experiment yielded accurate results.",
+            "sent3": "The supervised puppy tried to sneak away but was caught by its owner.",
+            "sent4": "The supervised team followed the coach's instructions to perfection.",
+            "sent5": "The supervised students completed their tasks with guidance and support."
         },
         {
             "definition": "To oversee and manage",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The teacher supervised the students during the science experiment.",
+            "sent2": "She supervised the construction project to ensure it was completed on time.",
+            "sent3": "The cat supervised the mouse running around the room.",
+            "sent4": "The manager supervised the employees to maintain productivity.",
+            "sent5": "He supervised the event to make sure everything ran smoothly."
         },
         {
             "definition": "Under the watchful eye of someone in authority",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "The children played supervised in the playground.",
+            "sent2": "The workers operated the machinery supervised by the supervisor.",
+            "sent3": "The squirrel cheekily stole the nuts while being supervised by the vigilant cat.",
+            "sent4": "The students completed the exam supervised by the strict teacher.",
+            "sent5": "The athletes trained supervised to prevent injuries."
         }
     ]
 }

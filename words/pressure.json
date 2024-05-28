@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Continuous physical force exerted on or against an object.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The pressure of the water against the dam was strong.",
+            "sent2": "The mechanic applied pressure to the wrench to tighten the bolt.",
+            "sent3": "Feeling the pressure of the heavy rain, the umbrella turned inside out.",
+            "sent4": "Under the pressure of the wind, the tree branches swayed back and forth.",
+            "sent5": "The pressure of the hammer against the nail made a loud sound."
         },
         {
             "definition": "The use of persuasion, influence, or intimidation to make someone do something.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "She used pressure to convince her friend to join the dance class.",
+            "sent2": "The company applied pressure on the employees to meet the deadline.",
+            "sent3": "The pressure from the sales team made the customer buy the product.",
+            "sent4": "Under the pressure of his friends, he finally agreed to go camping.",
+            "sent5": "The pressure from the coach motivated the team to win the game."
         },
         {
             "definition": "The feeling of stress or urgency caused by a demanding situation.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The pressure of the upcoming exam made her study harder.",
+            "sent2": "He felt pressure to finish the project before the deadline.",
+            "sent3": "The pressure of choosing the right gift for her mom was overwhelming.",
+            "sent4": "Under the pressure of the competition, he performed his best.",
+            "sent5": "The pressure of the job interview made him nervous."
         }
     ]
 }

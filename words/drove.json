@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A group of animals being driven in a body.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The drove of cows moved slowly across the field.",
+            "sent2": "The shepherd led the drove of sheep to the pasture.",
+            "sent3": "The drove of ducks waddled in a line, quacking happily.",
+            "sent4": "The drove of horses galloped together like a synchronized team.",
+            "sent5": "The drove of pigs snorted and rooted in the mud."
         },
         {
             "definition": "Past tense of drive.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She drove to the store to buy groceries.",
+            "sent2": "He drove carefully on the icy road.",
+            "sent3": "The kids drove their parents crazy with their loud music.",
+            "sent4": "The rain drove against the window all night long.",
+            "sent5": "The wind drove the leaves in swirling patterns."
         },
         {
             "definition": "A large number of people or things doing something together.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The drove of students rushed out of the school after the bell rang.",
+            "sent2": "A drove of ants worked together to carry the food back to their nest.",
+            "sent3": "The drove of cars in the parking lot created a traffic jam.",
+            "sent4": "The drove of birds filled the sky with their synchronized flight.",
+            "sent5": "The drove of workers completed the project ahead of schedule."
         }
     ]
 }

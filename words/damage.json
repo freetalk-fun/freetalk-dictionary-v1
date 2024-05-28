@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Physical harm caused to something.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The car had significant damage after the accident.",
+            "sent2": "The storm caused a lot of damage to the roof.",
+            "sent3": "The mischievous squirrel caused damage by chewing on the electrical wires.",
+            "sent4": "The flood left a trail of damage in its wake.",
+            "sent5": "The firefighter assessed the damage caused by the fire."
         },
         {
             "definition": "Harm or injury to a person's reputation.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The false rumors did a lot of damage to her reputation.",
+            "sent2": "The scandal caused irreparable damage to his public image.",
+            "sent3": "The gossip about the mayor's secret hobby caused some damage to his reputation.",
+            "sent4": "The comedian's controversial joke caused more damage than expected.",
+            "sent5": "The apology helped repair some of the damage done to her reputation."
         },
         {
             "definition": "The harmful effects of something.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The pollution in the river caused damage to the ecosystem.",
+            "sent2": "The excessive use of pesticides can lead to long-term damage to the soil.",
+            "sent3": "Eating too much candy can cause damage to your teeth.",
+            "sent4": "The constant exposure to loud noises can result in hearing damage.",
+            "sent5": "The sun's UV rays can cause skin damage if proper protection is not used."
         }
     ]
 }

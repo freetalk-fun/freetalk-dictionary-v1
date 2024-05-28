@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A person or organization that provides financial or other support for a person, activity, or organization.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The sponsors of the school fundraiser donated money to help buy new books for the library.",
+            "sent2": "The sponsors of the sports team helped cover the cost of uniforms and equipment.",
+            "sent3": "The sponsors of the charity event made sure everyone had enough cookies to go around.",
+            "sent4": "The sponsors of the concert were like fairy godmothers, making the event magical with their support.",
+            "sent5": "The sponsors of the art exhibition made the colorful paintings possible with their generous donations."
         },
         {
             "definition": "To act as a sponsor for; support or finance.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She sponsors a child in need, providing monthly financial assistance for their education.",
+            "sent2": "The company sponsors local events to give back to the community.",
+            "sent3": "He sponsors his friend's crazy ideas even though they sometimes don't make sense.",
+            "sent4": "The company sponsors the development of new technologies, pushing innovation forward.",
+            "sent5": "The organization sponsors a clean-up day to support environmental conservation efforts."
         }
     ]
 }

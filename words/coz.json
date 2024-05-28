@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Because",
-            "pos": "conjunction"
+            "pos": "conjunction",
+            "sent1": "I stayed home coz it was raining outside.",
+            "sent2": "She went to the store coz she needed groceries.",
+            "sent3": "He couldn't go to the party coz he had to study for his test.",
+            "sent4": "The cat meowed coz it wanted attention.",
+            "sent5": "The tree swayed coz of the strong wind."
         },
         {
             "definition": "Cousin",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "My coz is coming over for dinner tonight.",
+            "sent2": "I have a lot of fun playing with my coz at family gatherings.",
+            "sent3": "My coz and I always get into mischief when we're together.",
+            "sent4": "She is like a sister to me, not just a coz.",
+            "sent5": "My coz has a contagious laugh that always makes me smile."
         }
     ]
 }

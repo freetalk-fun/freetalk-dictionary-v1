@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A particular form or variant of something.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I prefer the older versioned of the software.",
+            "sent2": "The latest versioned of the book includes new illustrations.",
+            "sent3": "The museum displayed an ancient versioned of the artifact.",
+            "sent4": "Her style is like a modern versioned of classic fashion.",
+            "sent5": "The vintage car was a unique versioned of automotive history."
         },
         {
             "definition": "To create different versions of something.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She versioned the document to include the latest changes.",
+            "sent2": "The team versioned the project to test various designs.",
+            "sent3": "He versioned the recipe to add a surprising twist.",
+            "sent4": "The artist versioned the painting to explore new techniques.",
+            "sent5": "They versioned the song to create a fresh sound."
         }
     ]
 }

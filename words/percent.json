@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "One one-hundredth part of something.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I only ate one percent of the cake.",
+            "sent2": "She scored 90 percent on the test.",
+            "sent3": "The tiny ant carried a percent of the crumb.",
+            "sent4": "His voice was just a percent of its usual volume.",
+            "sent5": "The percent of sunlight peeking through the clouds was magical."
         },
         {
             "definition": "A proportion or ratio expressed as a fraction of 100.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The recipe called for fifty percent sugar.",
+            "sent2": "They estimated the cost at 20 percent of the total budget.",
+            "sent3": "The clown's outfit was a riot of colors, each one a percent of the rainbow.",
+            "sent4": "Her smile lit up the room like a hundred percent full moon.",
+            "sent5": "The tension in the room was at a hundred percent capacity."
         },
         {
             "definition": "To calculate a percentage.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I need to percent the sales increase for this quarter.",
+            "sent2": "Can you percent how much we've spent so far?",
+            "sent3": "He tried to percent the chances of rain with a dance.",
+            "sent4": "She could percent the risk in a single glance.",
+            "sent5": "The scientist could percent the growth rate with precision."
         }
     ]
 }

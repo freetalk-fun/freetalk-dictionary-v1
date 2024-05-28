@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Miscomputes: to calculate incorrectly",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She miscomputes the total every time she adds up the numbers.",
+            "sent2": "He often miscomputes when doing math homework.",
+            "sent3": "The robot miscomputes the answers and gives funny results.",
+            "sent4": "His mind miscomputes the numbers like a broken calculator.",
+            "sent5": "The student's tendency to miscompute made her double-check every calculation."
         },
         {
             "definition": "Miscomputes: incorrect calculations",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The miscomputes in the report led to confusion among the team.",
+            "sent2": "We found several miscomputes in the financial statements.",
+            "sent3": "The miscomputes in the recipe made the cake taste strange.",
+            "sent4": "His miscomputes were like puzzle pieces that didn't fit together.",
+            "sent5": "The miscomputes in the data caused errors in the analysis."
         }
     ]
 }

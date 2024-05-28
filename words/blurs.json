@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Make or become unclear or less distinct.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "When I run really fast, everything blurs around me.",
+            "sent2": "The rain on the window blurs the view of the garden.",
+            "sent3": "The magician's trick blurs the line between reality and illusion.",
+            "sent4": "Her tears blur the pain in her heart.",
+            "sent5": "The fog blurs the outline of the distant mountains."
         },
         {
             "definition": "A thing that cannot be seen or heard clearly.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "In the dark forest, shadows and blurs danced around us.",
+            "sent2": "The mysterious figure in the photo was just a blur.",
+            "sent3": "The ghostly blur in the attic gave me a fright.",
+            "sent4": "The blur of colors in the painting created a sense of movement.",
+            "sent5": "The blur of voices in the crowded room was overwhelming."
         },
         {
             "definition": "A smear or stain that obscures.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "She tried to wipe off the blur on her glasses.",
+            "sent2": "The ink blot formed a blur on the paper.",
+            "sent3": "The chocolate stain left a blur on his shirt.",
+            "sent4": "The blur of paint on the canvas added depth to the artwork.",
+            "sent5": "The blur of dust on the mirror made it hard to see."
         }
     ]
 }

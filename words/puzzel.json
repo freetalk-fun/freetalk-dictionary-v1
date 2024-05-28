@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A game or toy designed to test ingenuity or knowledge.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I enjoy playing with a puzzel to challenge my brain.",
+            "sent2": "She bought a new puzzel to solve during the weekend.",
+            "sent3": "The puzzel pieces were so tiny, it was hard not to lose them.",
+            "sent4": "Life can be like a puzzel, with pieces that need to fit together just right.",
+            "sent5": "The puzzel's colorful design made it more fun to solve."
         },
         {
             "definition": "Something that is difficult to understand or explain.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The mystery was a real puzzel for the detective to solve.",
+            "sent2": "His behavior was a puzzel to everyone around him.",
+            "sent3": "Trying to figure out why cats purr can be a real puzzel.",
+            "sent4": "Her sudden disappearance was a puzzel that haunted him for years.",
+            "sent5": "The ancient manuscript was a puzzel that historians were eager to unravel."
         },
         {
             "definition": "To solve or decipher a puzzle.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I need to puzzel out the answer to this riddle.",
+            "sent2": "She tried to puzzel through the complicated instructions.",
+            "sent3": "He spent hours puzzeling over the crossword in the newspaper.",
+            "sent4": "They had to puzzel out the hidden message in the code.",
+            "sent5": "The team worked together to puzzel out the solution to the problem."
         }
     ]
 }

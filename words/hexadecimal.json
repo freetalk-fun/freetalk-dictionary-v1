@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "relating to or using a system of numerical notation that has 16 rather than 10 as its base",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The computer programmer converted the binary code to hexadecimal for easier understanding.",
+            "sent2": "She learned to read hexadecimal numbers to decode the secret message.",
+            "sent3": "The hexadecimal puzzle was tricky, but she finally cracked it.",
+            "sent4": "In the digital world, hexadecimal is like a secret code that unlocks information.",
+            "sent5": "The vibrant colors of the hexadecimal chart made learning fun and engaging."
         },
         {
             "definition": "a hexadecimal number or digit",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The student struggled to convert the hexadecimal to decimal numbers in math class.",
+            "sent2": "He memorized the hexadecimal values for the RGB color codes.",
+            "sent3": "The computer stored the password in hexadecimal format for security.",
+            "sent4": "The ancient script contained a hidden message written in hexadecimal symbols.",
+            "sent5": "The treasure map had coordinates marked in bright red hexadecimal digits."
         }
     ]
 }

@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Watchful and ready to act or warn others.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The guard dog was alert and barked loudly when it sensed danger.",
+            "sent2": "The lifeguard must stay alert to quickly respond to any swimmers in trouble.",
+            "sent3": "The alert cat pounced on the toy mouse, thinking it was a real threat.",
+            "sent4": "The alert firefighter rushed into the burning building to save the trapped residents.",
+            "sent5": "The alert student noticed the mistake in the math problem immediately."
         },
         {
             "definition": "A signal or sound to warn of danger.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The loud alert from the tornado siren made everyone seek shelter.",
+            "sent2": "The alarm clock's alert woke me up for school every morning.",
+            "sent3": "The alert of the car horn startled the pedestrians crossing the street.",
+            "sent4": "The alert of the smoke detector indicated a possible fire in the kitchen.",
+            "sent5": "The alert of the phone notification reminded her of the upcoming meeting."
         },
         {
             "definition": "A state of readiness or vigilance.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The soldiers were on high alert during the night patrol.",
+            "sent2": "The lifeguard maintained a constant state of alert while on duty.",
+            "sent3": "The alert of the security system put the homeowner at ease.",
+            "sent4": "The alert of the police officers prevented a potential robbery at the bank.",
+            "sent5": "The alert of the teacher ensured the safety of the students during the field trip."
         }
     ]
 }

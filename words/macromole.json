@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A very large molecule, such as a protein or nucleic acid, consisting of many smaller subunits.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The scientist studied the macromole to understand its structure.",
+            "sent2": "Proteins and nucleic acids are examples of macromoles.",
+            "sent3": "The macromole was so big, it could barely fit in the test tube!",
+            "sent4": "Her idea was a macromole of creativity, combining many smaller thoughts into one.",
+            "sent5": "Under the microscope, the macromole looked like a tangled web of tiny parts."
         },
         {
             "definition": "To form a macromolecule by polymerization.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The chemist will macromole the monomers to create a new polymer.",
+            "sent2": "Polymer chains are macromoled during the chemical reaction.",
+            "sent3": "She decided to macromole the ingredients together to make a giant batch of cookies.",
+            "sent4": "The artist macromoled different colors to form a beautiful painting.",
+            "sent5": "In the lab, they will macromole the substances to produce a strong material."
         }
     ]
 }

@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Following as a result or effect.",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "She tripped and fell; consequent, she scraped her knee.",
+            "sent2": "He missed the bus; consequent, he arrived late to work.",
+            "sent3": "The cat knocked over the vase; consequent, chaos ensued.",
+            "sent4": "The storm passed; consequent, the sun emerged from behind the clouds.",
+            "sent5": "The alarm rang; consequent, everyone woke up in a hurry."
         },
         {
             "definition": "A result or effect that follows from an action or condition.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The broken window was a consequent of the baseball hitting it.",
+            "sent2": "His apology was a consequent of his mistake.",
+            "sent3": "The overflowing trash can was a consequent of forgetting garbage day.",
+            "sent4": "The celebration was a consequent of their team winning the championship.",
+            "sent5": "The traffic jam was a consequent of the road construction."
         }
     ]
 }

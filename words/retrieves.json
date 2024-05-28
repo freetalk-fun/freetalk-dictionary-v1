@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To get or bring back something",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She retrieves her lost keys from the couch.",
+            "sent2": "The dog retrieves the ball during playtime.",
+            "sent3": "He retrieves the forgotten recipe just in time for dinner.",
+            "sent4": "The detective retrieves crucial evidence to solve the case.",
+            "sent5": "The student retrieves the book from the shelf for class."
         },
         {
             "definition": "To find and bring back information from a computer or database",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He retrieves the email attachment for his presentation.",
+            "sent2": "The software retrieves the latest updates automatically.",
+            "sent3": "She retrieves the important file from the cloud with ease.",
+            "sent4": "The search engine retrieves relevant results in seconds.",
+            "sent5": "The program retrieves data from the server for analysis."
         }
     ]
 }

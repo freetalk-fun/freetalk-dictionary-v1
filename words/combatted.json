@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Engaged in a fight or conflict",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The combatted soldiers bravely defended their country.",
+            "sent2": "The combatted team emerged victorious after a tough match.",
+            "sent3": "The combatted kittens playfully wrestled with each other.",
+            "sent4": "The combatted clouds clashed in the sky, creating a dramatic scene.",
+            "sent5": "The combatted warriors' determination was evident in their eyes."
         },
         {
             "definition": "Fought against or resisted",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She combatted the cold weather by wearing a thick coat.",
+            "sent2": "The hero combatted the villain to protect the city.",
+            "sent3": "The chef combatted the bland taste of the soup with extra seasoning.",
+            "sent4": "He combatted his fear of heights by climbing a tall mountain.",
+            "sent5": "The students combatted boredom by playing an educational game."
         },
         {
             "definition": "Took action to eliminate or reduce (something harmful)",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The doctor combatted the virus with a new treatment.",
+            "sent2": "The environmentalists combatted pollution by organizing a cleanup.",
+            "sent3": "She combatted her messy room by tidying up before guests arrived.",
+            "sent4": "The firefighters combatted the raging flames to save the forest.",
+            "sent5": "The company combatted inefficiency by implementing new procedures."
         }
     ]
 }

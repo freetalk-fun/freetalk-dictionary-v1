@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A person who robs or commits illegal violence at sea or on the shores of the sea.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The pirates attacked the ship and stole all the treasure.",
+            "sent2": "The pirates sailed the seas in search of riches.",
+            "sent3": "The pirates tried to steal a dolphin but failed miserably.",
+            "sent4": "The pirates of old were like shadows on the waves, striking fear into sailors' hearts.",
+            "sent5": "The image of pirates with eye patches and parrots is a popular one in stories."
         },
         {
             "definition": "A ship used by such persons.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The pirates' ship was fast and deadly, striking fear into all who saw it.",
+            "sent2": "The pirates sailed their ship into the stormy seas.",
+            "sent3": "The pirates' ship had a secret compartment for hiding treasure.",
+            "sent4": "The pirates' ship cut through the waves like a knife through butter.",
+            "sent5": "The pirates' ship was a formidable sight, with black sails billowing in the wind."
         },
         {
             "definition": "To engage in piracy.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The crew decided to pirates the merchant vessel for its cargo.",
+            "sent2": "The pirates plundered the coastal town under the cover of night.",
+            "sent3": "The pirates attempted to pirate a shipment of bananas but were caught red-handed.",
+            "sent4": "The hackers pirated the software and distributed it illegally.",
+            "sent5": "The group of friends decided to pirate a movie for their movie night."
         }
     ]
 }

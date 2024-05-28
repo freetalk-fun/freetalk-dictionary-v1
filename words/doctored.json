@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "altered or falsified in a way intended to deceive",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The doctored photo made it look like the cat was flying.",
+            "sent2": "The detective found the doctored evidence at the crime scene.",
+            "sent3": "The magician's doctored deck of cards always amazed the audience.",
+            "sent4": "Her doctored smile hid the sadness she felt inside.",
+            "sent5": "The doctored painting fooled everyone into thinking it was real."
         },
         {
             "definition": "to treat medically",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The doctor doctored the patient's wound with care.",
+            "sent2": "She doctored her cold with plenty of rest and fluids.",
+            "sent3": "The nurse doctored up a special remedy for the flu.",
+            "sent4": "He doctored his sprained ankle with ice and elevation.",
+            "sent5": "The veterinarian doctored the injured puppy back to health."
         },
         {
             "definition": "to modify or adapt for a particular purpose",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She doctored her resume to highlight her skills.",
+            "sent2": "The chef doctored the recipe to make it more flavorful.",
+            "sent3": "He doctored his speech to appeal to a younger audience.",
+            "sent4": "The tailor doctored the dress to fit perfectly.",
+            "sent5": "The mechanic doctored the engine to improve its performance."
         }
     ]
 }

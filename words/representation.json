@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "The action of representing or the state of being represented.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Her drawing was a clear representation of the tree outside.",
+            "sent2": "The painting was a beautiful representation of the artist's emotions.",
+            "sent3": "The representation of the cat wearing sunglasses in the book made everyone laugh.",
+            "sent4": "His music was a powerful representation of the struggles he faced in life.",
+            "sent5": "The sculpture was a lifelike representation of a famous historical figure."
         },
         {
             "definition": "A statement or account made to influence opinion or action.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The advertisement was a clever representation of the new product.",
+            "sent2": "His speech was a persuasive representation of his beliefs.",
+            "sent3": "The exaggerated representation of the fisherman's catch made everyone chuckle.",
+            "sent4": "Her story was a poignant representation of the challenges she overcame.",
+            "sent5": "The documentary was a compelling representation of the impact of climate change."
         },
         {
             "definition": "A person or group acting on behalf of another.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The lawyer was a dedicated representation for her client in court.",
+            "sent2": "The ambassador was an effective representation of his country's interests.",
+            "sent3": "The representation of the superhero at the party delighted all the children.",
+            "sent4": "The mentor was a guiding representation for the new employees.",
+            "sent5": "The actor was a convincing representation of the historical figure in the movie."
         }
     ]
 }

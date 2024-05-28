@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A person who handles or manages something, such as an animal or a piece of equipment.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The zoo handlers take care of the animals every day.",
+            "sent2": "The handlers at the airport help with luggage and directions.",
+            "sent3": "The handlers at the circus had to juggle many tasks at once.",
+            "sent4": "She was a skilled handler of difficult situations, always staying calm.",
+            "sent5": "The handlers gently guided the horse through the obstacle course."
         },
         {
             "definition": "A piece of code that processes messages or events in a computer program.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The software developers created efficient handlers for error messages.",
+            "sent2": "The event handlers in the program ensured smooth user interactions.",
+            "sent3": "The message handlers in the system never missed a notification.",
+            "sent4": "The code's handlers swiftly responded to incoming data streams.",
+            "sent5": "The handlers efficiently managed the flow of information within the program."
         },
         {
             "definition": "A device used for holding or manipulating objects.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The kitchen handlers made cooking easier with their innovative tools.",
+            "sent2": "The robotic handlers in the factory lifted heavy items effortlessly.",
+            "sent3": "The handlers in the workshop were always in high demand for their precision.",
+            "sent4": "Her artistic handlers allowed her to create intricate designs with ease.",
+            "sent5": "The handlers provided a secure grip on the delicate glassware."
         }
     ]
 }

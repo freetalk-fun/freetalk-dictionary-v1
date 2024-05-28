@@ -3,7 +3,12 @@
     "meanings": [
         {
             "definition": "Used to introduce a statement that is true if and only if the preceding statement is true.",
-            "pos": "conjunction"
+            "pos": "conjunction",
+            "sent1": "I will go to the park iff the weather is nice.",
+            "sent2": "You can come in iff you take off your shoes.",
+            "sent3": "I'll eat my vegetables iff you eat yours first!",
+            "sent4": "She will sing at the concert iff her best friend joins her.",
+            "sent5": "The door will open iff you press the green button."
         }
     ]
 }

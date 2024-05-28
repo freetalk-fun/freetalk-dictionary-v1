@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To have in or be able to bring to one's mind an awareness of (someone or something from the past)",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She remembers her grandmother's warm smile.",
+            "sent2": "He remembers his childhood home fondly.",
+            "sent3": "The old cat remembers where the sunny spot is.",
+            "sent4": "The tree remembers the touch of the wind through its leaves.",
+            "sent5": "The scent of the flowers makes her remember the garden."
         },
         {
             "definition": "To retain in the memory",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He remembers the lyrics to his favorite song.",
+            "sent2": "She remembers the taste of the delicious cake.",
+            "sent3": "The computer remembers all the passwords for him.",
+            "sent4": "The bookshelf remembers the stories of each book it holds.",
+            "sent5": "The photograph helps her remember the happy moment."
         },
         {
             "definition": "To keep in mind for attention or consideration",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Remember to bring an umbrella in case it rains.",
+            "sent2": "He remembers to call his friend on her birthday.",
+            "sent3": "The note on the fridge helps him remember to buy milk.",
+            "sent4": "The alarm clock remembers to wake you up every morning.",
+            "sent5": "She always remembers to say thank you for the help."
         }
     ]
 }

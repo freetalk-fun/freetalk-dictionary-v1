@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A person or thing that locates.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The locater found the lost keys.",
+            "sent2": "The locater pointed out the hidden treasure.",
+            "sent3": "The locater, a clever dog, always finds his way home.",
+            "sent4": "Her intuition was a locater, guiding her through tough decisions.",
+            "sent5": "The locater's keen sense of direction never failed to impress."
         },
         {
             "definition": "A device or system used to determine the location of something.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The GPS locater helped us navigate the city.",
+            "sent2": "The locater on the map showed our current position.",
+            "sent3": "The locater beeped loudly when the cat was nearby.",
+            "sent4": "Her smile was like a locater, brightening up the room.",
+            "sent5": "The locater's accuracy was unmatched, leading us to the exact spot."
         },
         {
             "definition": "To establish the position of something.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He used a compass to locater the direction of the wind.",
+            "sent2": "She locatered the missing book on the shelf.",
+            "sent3": "The detective locatered the suspect's alibi with ease.",
+            "sent4": "His words locatered the truth hidden in the story.",
+            "sent5": "The scientist locatered the source of the mysterious signal."
         }
     ]
 }

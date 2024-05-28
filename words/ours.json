@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Belonging to us",
-            "pos": "pronoun"
+            "pos": "pronoun",
+            "sent1": "The toy is ours.",
+            "sent2": "The book is ours to keep.",
+            "sent3": "Let's make sure the cake is ours before we eat it.",
+            "sent4": "The victory was ours after a hard-fought game.",
+            "sent5": "The responsibility is ours to handle."
         },
         {
             "definition": "Of or relating to us",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "Our team won the game; the victory is ours.",
+            "sent2": "The decision to move forward is ours alone.",
+            "sent3": "The party was a success, and the credit is ours.",
+            "sent4": "The bond between us is strong; it is truly ours.",
+            "sent5": "The journey ahead is ours to navigate together."
         },
         {
             "definition": "That which belongs to us",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The house at the end of the street is ours.",
+            "sent2": "The responsibility of the project is ours to manage.",
+            "sent3": "The treasure map led us to a chest of gold that is now ours.",
+            "sent4": "The victory in the competition was sweet; it is now ours to cherish.",
+            "sent5": "The bond between us is a treasure that is truly ours."
         }
     ]
 }

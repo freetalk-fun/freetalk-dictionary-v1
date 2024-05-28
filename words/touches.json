@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To come into or be in contact with (something)",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The soft feather gently touches the skin.",
+            "sent2": "The cat touches the ball with its paw.",
+            "sent3": "The mischievous puppy touches the forbidden cookie jar.",
+            "sent4": "Her beautiful singing voice touches the hearts of many.",
+            "sent5": "The warm sunlight touches the cold ground, bringing a sense of comfort."
         },
         {
             "definition": "To affect or move emotionally",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The heartfelt song touches her deeply.",
+            "sent2": "The sad movie scene touches everyone in the audience.",
+            "sent3": "The unexpected kindness from a stranger touches his heart.",
+            "sent4": "The painting's beauty touches the soul in a profound way.",
+            "sent5": "The touching story of friendship touches a chord with many readers."
         },
         {
             "definition": "A small amount or hint of something",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "She added just a few touches of cinnamon to the recipe.",
+            "sent2": "The painting needed a few artistic touches to be complete.",
+            "sent3": "The room decor lacked personal touches.",
+            "sent4": "The chef's final touch of garnish made the dish visually appealing.",
+            "sent5": "The garden was beautiful with colorful touches of various flowers."
         }
     ]
 }

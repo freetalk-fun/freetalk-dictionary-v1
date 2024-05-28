@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A person who counts or lists items.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The enumerator carefully counted all the apples in the basket.",
+            "sent2": "The enumerator wrote down the number of students in the class.",
+            "sent3": "The enumerator playfully pretended to count the clouds in the sky.",
+            "sent4": "Her eyes were like an enumerator, meticulously scanning each page of the book.",
+            "sent5": "The enumerator's job was to tally up the total number of books in the library."
         },
         {
             "definition": "A function or method in programming that iterates through a collection of items.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The enumerator in the program looped through each element in the array.",
+            "sent2": "The software engineer used an enumerator to go through the list of names.",
+            "sent3": "The enumerator code snippet seemed to dance through the data effortlessly.",
+            "sent4": "In the digital world, the enumerator acted like a diligent tour guide through the dataset.",
+            "sent5": "The enumerator function made it easy to access each item in the list."
         }
     ]
 }

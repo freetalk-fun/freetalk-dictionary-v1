@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "(verb) to move quickly with short, hurried steps",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The mouse will scurry across the floor to find some cheese.",
+            "sent2": "The children scurry to finish their homework before bedtime.",
+            "sent3": "The squirrel decided to scurry up the tree to escape the playful dog.",
+            "sent4": "Time seemed to scurry by as she raced to finish her work before the deadline.",
+            "sent5": "The ants scurry around the picnic blanket, searching for crumbs to bring back to their nest."
         },
         {
             "definition": "(noun) a quick, hurried movement or action",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The sudden scurry of feet caught her attention in the quiet hallway.",
+            "sent2": "The scurry of the wind through the leaves created a soothing sound in the forest.",
+            "sent3": "The scurry of the busy bees in the garden made her smile at their hard work.",
+            "sent4": "She heard the scurry of the mouse in the attic, causing her to jump in surprise.",
+            "sent5": "The scurry of shoppers in the mall made it difficult to navigate through the crowd."
         }
     ]
 }

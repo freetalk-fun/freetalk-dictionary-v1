@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A device with blades that rotates to provide thrust for a vehicle or machine.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The boat's propellor helped it move smoothly through the water.",
+            "sent2": "The airplane's propellor spun quickly to push it forward.",
+            "sent3": "The propellor on the fan made the room feel cooler.",
+            "sent4": "Her words acted as a propellor, driving him to achieve his goals.",
+            "sent5": "The windmill's propellor turned gracefully in the breeze."
         },
         {
             "definition": "To cause to move forward or onward by or as if by means of a propellor.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She used her charm to propellor her career to new heights.",
+            "sent2": "The strong wind propellored the kite high into the sky.",
+            "sent3": "His enthusiasm propellored the team towards victory.",
+            "sent4": "The idea of success propellored him to work harder.",
+            "sent5": "The rocket engines propellor the spacecraft into orbit."
         }
     ]
 }

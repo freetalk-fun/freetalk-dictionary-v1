@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To examine or assess critically",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She reviews her homework before turning it in.",
+            "sent2": "He reviews the document carefully before signing it.",
+            "sent3": "The detective reviews the evidence to solve the case.",
+            "sent4": "The teacher reviews the students' progress like a detective solving a mystery.",
+            "sent5": "The scientist reviews the data meticulously to find the answer."
         },
         {
             "definition": "A critical appraisal of a book, movie, etc.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The reviews of the new movie were mixed.",
+            "sent2": "I always read reviews before choosing a restaurant.",
+            "sent3": "The reviews of the play were so funny, I couldn't stop laughing.",
+            "sent4": "Her review of the novel was like a spotlight on its flaws.",
+            "sent5": "The reviews of the concert painted a vivid picture of the experience."
         }
     ]
 }

@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Those distinct from oneself.",
-            "pos": "pronoun"
+            "pos": "pronoun",
+            "sent1": "She waved to the others as they walked away.",
+            "sent2": "The others in the group were excited to start the project.",
+            "sent3": "The cat thought the mirror reflection was another cat, not realizing it was just others.",
+            "sent4": "In the busy city, the lights of the buildings blended together, making it hard to distinguish one from the others.",
+            "sent5": "The teacher reminded the students to always consider the feelings of others."
         },
         {
             "definition": "Additional people or things.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "He invited others to join the game.",
+            "sent2": "The store had a sale on shoes, clothes, and others.",
+            "sent3": "The birthday party was a success with cake, games, and others to celebrate.",
+            "sent4": "The garden was filled with flowers, trees, and others adding to its beauty.",
+            "sent5": "The team welcomed new members and others with open arms."
         },
         {
             "definition": "Different or separate people or things.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The twins looked identical, but their personalities were like night and day from each other and others.",
+            "sent2": "The artist painted portraits of herself, her family, and others she admired.",
+            "sent3": "The detective carefully examined the footprints, trying to determine which ones belonged to the suspect and others.",
+            "sent4": "The chef prepared dishes with unique flavors, surprising some guests while delighting others.",
+            "sent5": "The forest was home to various animals, some friendly and others more elusive."
         }
     ]
 }

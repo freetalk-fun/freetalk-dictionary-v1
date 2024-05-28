@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To prohibit or forbid",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The school bans cell phones during class.",
+            "sent2": "The sign bans parking on Sundays.",
+            "sent3": "The cat bans any dogs from entering its territory.",
+            "sent4": "His strict diet bans all sugary treats.",
+            "sent5": "The doctor bans smoking for better health."
         },
         {
             "definition": "A formal or official prohibition",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The government issued a ban on plastic bags.",
+            "sent2": "The ban on fireworks ensured safety in the park.",
+            "sent3": "The ban on loud music after 10 pm was a relief for the neighbors.",
+            "sent4": "The ban on outside food at the cinema disappointed many moviegoers.",
+            "sent5": "The ban on pets in the restaurant was clearly displayed at the entrance."
         },
         {
             "definition": "To curse or denounce",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She bans anyone who betrays her trust.",
+            "sent2": "The witch bans those who dare to enter her forest.",
+            "sent3": "He jokingly bans broccoli from his plate.",
+            "sent4": "The old legend bans anyone from crossing the haunted bridge at night.",
+            "sent5": "The angry wizard bans all visitors from his tower."
         }
     ]
 }

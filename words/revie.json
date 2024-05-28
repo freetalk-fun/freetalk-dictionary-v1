@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To view or consider again.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I will revie my notes before the exam.",
+            "sent2": "She likes to revie her favorite book every year.",
+            "sent3": "Let's revie that movie and see if we missed any details.",
+            "sent4": "The detective had to revie the evidence to solve the case.",
+            "sent5": "I need to revie my schedule to make sure I didn't forget anything important."
         },
         {
             "definition": "A critical appraisal or evaluation.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The teacher's revie of the student's project was helpful.",
+            "sent2": "The company conducted a revie of its financial performance.",
+            "sent3": "The movie revie praised the actors' performances.",
+            "sent4": "The art critic's revie of the painting was insightful.",
+            "sent5": "I read a revie of the new restaurant before deciding to try it."
         },
         {
             "definition": "A written report or article giving a critical evaluation of a work or performance.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The revie of the play in the newspaper was positive.",
+            "sent2": "She wrote a revie of the latest album for the music magazine.",
+            "sent3": "The revie of the movie made me want to watch it.",
+            "sent4": "I always read the revie of the book before buying it.",
+            "sent5": "The revie of the art exhibition was featured in the local magazine."
         }
     ]
 }

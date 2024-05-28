@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Protecting or defending from harm or danger.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The knight wore a strong, shielding armor to stay safe in battle.",
+            "sent2": "The umbrella acted as a shielding cover from the rain.",
+            "sent3": "The superhero's shielding cape kept him safe from the villain's attacks.",
+            "sent4": "The thick walls of the fortress provided a shielding defense against invaders.",
+            "sent5": "The mother's shielding embrace made the child feel secure and protected."
         },
         {
             "definition": "A protective barrier or covering.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The lead apron served as a shielding barrier during the X-ray procedure.",
+            "sent2": "The force field acted as a shielding shield against enemy fire.",
+            "sent3": "The magician's invisible shielding cloak kept him hidden from the audience.",
+            "sent4": "The thick fog acted as a natural shielding barrier, obscuring the view.",
+            "sent5": "The firewall provided a digital shielding cover against cyber attacks."
         },
         {
             "definition": "The act of using a shield to block or deflect something.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The warrior's swift shielding block deflected the enemy's sword.",
+            "sent2": "The riot police used their shields for shielding protection against the protesters.",
+            "sent3": "The chef's quick shielding move prevented the hot oil from splattering.",
+            "sent4": "The goalie's expert shielding save stopped the soccer ball from entering the net.",
+            "sent5": "The astronaut's precise shielding maneuver protected the spacecraft from space debris."
         }
     ]
 }

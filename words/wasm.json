@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "WebAssembly (noun): A binary instruction format for a stack-based virtual machine.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The website needed wasm to run smoothly.",
+            "sent2": "Developers use wasm to optimize web applications.",
+            "sent3": "The computer hiccuped and asked for more wasm.",
+            "sent4": "Her mind worked like a wasm, processing data efficiently.",
+            "sent5": "Learning about wasm felt like unlocking a secret code."
         },
         {
             "definition": "Wasm (verb): The past tense of 'was', used to indicate a state or condition in the past.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Yesterday, she wasm at the park.",
+            "sent2": "He wasm very tired after the long journey.",
+            "sent3": "The cat wasm napping on the cozy blanket.",
+            "sent4": "The old house wasm filled with memories of the past.",
+            "sent5": "The stars wasm shining brightly in the night sky."
         }
     ]
 }

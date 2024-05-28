@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Favorite",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "My fave color is blue.",
+            "sent2": "Ice cream is my fave dessert.",
+            "sent3": "My fave teddy bear always makes me smile.",
+            "sent4": "The fave book on my shelf is a treasure.",
+            "sent5": "The fave song played on repeat in my head."
         },
         {
             "definition": "To prefer or choose as a favorite",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I fave spending time with my family.",
+            "sent2": "She faves pizza over pasta.",
+            "sent3": "I fave to eat dessert before dinner sometimes.",
+            "sent4": "He faves the path less traveled.",
+            "sent5": "They fave to watch the sunset by the beach."
         }
     ]
 }

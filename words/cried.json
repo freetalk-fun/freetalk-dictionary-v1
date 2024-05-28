@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Past tense of cry.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Yesterday, she cried when she lost her favorite toy.",
+            "sent2": "She cried tears of joy when she saw her surprise birthday party.",
+            "sent3": "The baby cried for more milk, making everyone laugh.",
+            "sent4": "The storm clouds cried heavy rain all night long.",
+            "sent5": "The wounded soldier cried out for help in the battlefield."
         },
         {
             "definition": "Uttered a loud, inarticulate sound as an expression of pain or distress.",
-            "pos": "verb, interjection"
+            "pos": "verb, interjection",
+            "sent1": "The injured player cried out in pain when he fell.",
+            "sent2": "She cried out in fear when she saw the spider on her shoulder.",
+            "sent3": "The cat cried loudly at the closed door, demanding to be let in.",
+            "sent4": "The wind cried through the trees on the stormy night.",
+            "sent5": "The haunted house cried with eerie sounds in the darkness."
         },
         {
             "definition": "Called out loudly; shouted.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The coach cried instructions to the players during the game.",
+            "sent2": "She cried for help when she saw the fire spreading.",
+            "sent3": "The auctioneer cried out the bids in a fast-paced rhythm.",
+            "sent4": "The eagle cried its majestic call across the canyon.",
+            "sent5": "The teacher cried out the answer to the question for the whole class to hear."
         }
     ]
 }

@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A person who delivers mail.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The postman brought letters to our house every day.",
+            "sent2": "The postman wears a uniform while delivering mail.",
+            "sent3": "The postman accidentally delivered a letter to the wrong address, causing a mix-up.",
+            "sent4": "The postman's bag was like a treasure chest full of surprises.",
+            "sent5": "The postman's friendly smile brightened everyone's day as he delivered the mail."
         },
         {
             "definition": "To send or put in the mail.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I will postman this package to my friend who lives far away.",
+            "sent2": "Remember to postman the letter before the post office closes.",
+            "sent3": "She decided to postman her application for the job using express mail.",
+            "sent4": "The author was excited to postman the signed copies of his new book to his fans.",
+            "sent5": "He rushed to postman the important documents before the deadline."
         }
     ]
 }

@@ -2,12 +2,22 @@
     "term": "missays",
     "meanings": [
         {
-            "definition": "Missays (verb): to speak or write incorrectly or inaccurately",
-            "pos": "verb"
+            "definition": "to speak or write incorrectly or inaccurately",
+            "pos": "verb",
+            "sent1": "She often missays the names of her classmates.",
+            "sent2": "He missays the answer during the quiz.",
+            "sent3": "The robot missays the instructions and causes chaos.",
+            "sent4": "His mind sometimes missays reality, creating confusion.",
+            "sent5": "The weather forecast missays the upcoming storm, leading to surprise."
         },
         {
-            "definition": "Missays (noun): a statement or assertion that is incorrect or inaccurate",
-            "pos": "noun"
+            "definition": "a statement or assertion that is incorrect or inaccurate",
+            "pos": "noun",
+            "sent1": "The teacher caught the missays in the student's report.",
+            "sent2": "He made a missays about the date of the event.",
+            "sent3": "The missays in the news article made everyone laugh.",
+            "sent4": "Her apology was a missays that only made things worse.",
+            "sent5": "The missays in the contract caused a lot of confusion and disputes."
         }
     ]
 }

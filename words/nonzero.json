@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Not equal to zero.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The temperature outside is nonzero today.",
+            "sent2": "She had a nonzero chance of winning the game.",
+            "sent3": "The cat's interest in the toy was nonzero, as it chased it around the room.",
+            "sent4": "His impact on the project was nonzero, leading to its success.",
+            "sent5": "The excitement in the room was nonzero as the concert began."
         },
         {
             "definition": "Having a value greater than zero.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The bank account balance is nonzero after the deposit.",
+            "sent2": "The number of attendees at the event was nonzero.",
+            "sent3": "The amount of laughter in the comedy show was nonzero, making everyone smile.",
+            "sent4": "Her determination to finish the race was nonzero, propelling her forward.",
+            "sent5": "The impact of his words was nonzero, resonating with the audience."
         }
     ]
 }

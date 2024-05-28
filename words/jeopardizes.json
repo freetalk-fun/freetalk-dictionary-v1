@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Put (someone or something) into a situation in which there is a danger of loss, harm, or failure.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Leaving the door unlocked jeopardizes our safety.",
+            "sent2": "Speeding on the road jeopardizes lives.",
+            "sent3": "Forgetting to bring an umbrella jeopardizes our dry clothes.",
+            "sent4": "Ignoring climate change jeopardizes the future of our planet.",
+            "sent5": "Not wearing a helmet while biking jeopardizes your head's protection."
         },
         {
             "definition": "Endanger or risk.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Eating expired food jeopardizes your health.",
+            "sent2": "Not wearing a seatbelt jeopardizes your safety in a car.",
+            "sent3": "Playing with fire jeopardizes your fingers getting burned.",
+            "sent4": "Skipping meals jeopardizes your energy levels.",
+            "sent5": "Ignoring warning signs jeopardizes your well-being."
         }
     ]
 }

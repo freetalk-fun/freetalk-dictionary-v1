@@ -3,19 +3,39 @@
     "meanings": [
         {
             "definition": "To cease moving or operating.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The car stops at the red light.",
+            "sent2": "She stops running when she gets tired.",
+            "sent3": "The clock stops ticking when the battery dies.",
+            "sent4": "His heart stops beating for a moment when he sees her.",
+            "sent5": "The music stops suddenly, surprising everyone in the room."
         },
         {
             "definition": "A device used to block or obstruct something.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "He used wooden stops to keep the door from closing.",
+            "sent2": "The traffic cone serves as a stop for the cars.",
+            "sent3": "The door stop prevented the door from slamming shut.",
+            "sent4": "The dam acted as a stop for the flowing water.",
+            "sent5": "The stop sign alerts drivers to come to a halt."
         },
         {
             "definition": "A place where a vehicle or person halts temporarily.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The bus made a quick stop to pick up passengers.",
+            "sent2": "She waited at the bus stop for her friend.",
+            "sent3": "The train stop was bustling with commuters.",
+            "sent4": "The pit stop during the race was lightning fast.",
+            "sent5": "The rest stop had a beautiful view of the mountains."
         },
         {
             "definition": "A set of organ pipes controlled by a single stop knob.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The organist pulled out the stop to add more pipes to the sound.",
+            "sent2": "Each stop on the organ produces a different tone.",
+            "sent3": "The stop on the organ got stuck during the performance.",
+            "sent4": "The organ builder carefully crafted each stop for perfect sound.",
+            "sent5": "The musician adjusted the stop to create a harmonious melody."
         }
     ]
 }

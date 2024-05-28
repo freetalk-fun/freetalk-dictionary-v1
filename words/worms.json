@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A long, slender, soft-bodied invertebrate animal.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The garden was full of worms after the rain.",
+            "sent2": "She studied worms in science class.",
+            "sent3": "The worms had a race in the soil.",
+            "sent4": "The fishing rod danced as the worm wriggled on the hook.",
+            "sent5": "The robin eagerly hunted for worms in the yard."
         },
         {
             "definition": "A computer program that replicates itself and spreads to other computers.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The IT department worked hard to remove the worms from the network.",
+            "sent2": "He accidentally downloaded worms while browsing the internet.",
+            "sent3": "The computer virus disguised itself as friendly worms.",
+            "sent4": "The worms multiplied rapidly, infecting every computer in the office.",
+            "sent5": "The cybersecurity team blocked the worms from entering the system."
         },
         {
             "definition": "To move with difficulty in a twisting or wriggling motion.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The snake worms through the grass to catch its prey.",
+            "sent2": "She worms her way through the crowded room to reach the exit.",
+            "sent3": "The caterpillar worms along the branch, searching for leaves.",
+            "sent4": "He worms out of doing chores by pretending to be sick.",
+            "sent5": "The dancer worms across the stage, captivating the audience."
         }
     ]
 }

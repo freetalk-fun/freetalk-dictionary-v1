@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A thing that fails to work properly or is otherwise unsatisfactory.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The toy I bought turned out to be a dud.",
+            "sent2": "The firework was a dud and didn't explode as expected.",
+            "sent3": "I tried to use the old phone, but it was a dud and wouldn't even turn on.",
+            "sent4": "The plan to surprise her was a dud, just like a deflated balloon.",
+            "sent5": "The dud computer sat in the corner, useless and broken."
         },
         {
             "definition": "A person or thing that proves to be a failure.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The new employee turned out to be a dud and couldn't handle the job.",
+            "sent2": "The project was a dud due to poor planning.",
+            "sent3": "The party was a dud when the music system broke down.",
+            "sent4": "The dud of a car broke down on the highway, causing a delay.",
+            "sent5": "The movie was a dud with terrible acting and a weak plot."
         },
         {
             "definition": "To fail to work properly; be unsatisfactory.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The engine dud when I tried to start the lawn mower.",
+            "sent2": "The plan dud, leaving us stranded in the middle of nowhere.",
+            "sent3": "His attempt to fix the leaky faucet dud, making it worse.",
+            "sent4": "The apology dud as he failed to express genuine remorse.",
+            "sent5": "The new software update dud, causing more glitches than before."
         }
     ]
 }

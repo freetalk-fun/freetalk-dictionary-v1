@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Hesitated or refused to proceed.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The shy student balked at giving a presentation in front of the class.",
+            "sent2": "The horse balked at jumping over the high fence.",
+            "sent3": "The cat balked at going outside in the rain.",
+            "sent4": "The car balked at starting on the cold winter morning.",
+            "sent5": "She balked at trying the exotic food at the restaurant."
         },
         {
             "definition": "Blocked or obstructed progress.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The fallen tree created a balked path through the forest.",
+            "sent2": "The closed road was a balked route to the destination.",
+            "sent3": "The heavy traffic balked the commuters' journey home.",
+            "sent4": "The construction site was a balked area for pedestrians.",
+            "sent5": "The locked gate balked their entry into the garden."
         },
         {
             "definition": "Prevented or hindered.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The bad weather balked their plans for a picnic.",
+            "sent2": "The strict rules balked their attempts to bend them.",
+            "sent3": "The broken elevator balked their quick exit from the building.",
+            "sent4": "The lack of funds balked their dream of traveling the world.",
+            "sent5": "The loud noise balked their concentration during the test."
         }
     ]
 }

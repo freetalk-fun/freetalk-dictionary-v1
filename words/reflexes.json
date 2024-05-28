@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "An action performed without conscious thought as a response to a stimulus.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "His reflexes kicked in when he touched something hot.",
+            "sent2": "She showed impressive reflexes when catching the ball.",
+            "sent3": "The cat's reflexes were so quick, it caught the mouse effortlessly.",
+            "sent4": "His reflexes were like a well-oiled machine, reacting instantly to danger.",
+            "sent5": "The reflexes of a ninja are legendary, allowing them to dodge attacks effortlessly."
         },
         {
             "definition": "The ability to react quickly and automatically to a stimulus.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The athlete's reflexes helped him win the race.",
+            "sent2": "Driving requires good reflexes to respond to sudden changes on the road.",
+            "sent3": "His reflexes were so fast, he could catch a fly with chopsticks.",
+            "sent4": "Her reflexes were as sharp as a hawk's, always ready to react.",
+            "sent5": "Quick reflexes can be crucial in avoiding accidents while playing sports."
         },
         {
             "definition": "A physical reaction to a stimulus, often involving a quick movement.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The doctor tested his reflexes by tapping his knee with a hammer.",
+            "sent2": "When startled, her reflexes made her jump back in surprise.",
+            "sent3": "The reflexes of the robot were so precise, it could juggle balls effortlessly.",
+            "sent4": "His reflexes were like a spring, propelling him out of harm's way.",
+            "sent5": "The reflexes of a cheetah are unmatched, allowing it to sprint at incredible speeds."
         }
     ]
 }

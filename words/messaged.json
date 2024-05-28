@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A communication sent electronically, typically consisting of text",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I received a messaged from my friend on my phone.",
+            "sent2": "The messaged I got from my teacher had all the homework details.",
+            "sent3": "The messaged I sent to my cat asking for treats was silly.",
+            "sent4": "Her smile was like a warm messaged that brightened up my day.",
+            "sent5": "The messaged about the party was so exciting, I couldn't wait to go!"
         },
         {
             "definition": "To send a message to someone",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She messaged her friend to let them know about the change in plans.",
+            "sent2": "I messaged my mom to ask if she needed anything from the store.",
+            "sent3": "He messaged the dog to remind him it was time for a walk.",
+            "sent4": "The music messaged to my soul and made me feel alive.",
+            "sent5": "The wind messaged through the trees, creating a peaceful sound."
         }
     ]
 }

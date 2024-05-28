@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To encode or decode a message using a cipher.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She cyphered the message to keep it safe.",
+            "sent2": "He always cyphered his notes to prevent others from reading them.",
+            "sent3": "The spy cyphered the information, turning it into a puzzle for anyone trying to intercept it.",
+            "sent4": "Her eyes cyphered the hidden meaning behind his words.",
+            "sent5": "The ancient scroll was cyphered with intricate symbols, revealing a hidden prophecy."
         },
         {
             "definition": "A secret or disguised way of writing or communicating.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The detective found a mysterious cyphered letter at the crime scene.",
+            "sent2": "The ancient civilization used cyphered symbols to pass on their knowledge.",
+            "sent3": "The treasure map was a cyphered riddle, leading to a hidden chest of gold.",
+            "sent4": "His smile was a cyphered message, hiding his true feelings.",
+            "sent5": "The diary was filled with cyphered entries, each holding a secret from the past."
         }
     ]
 }

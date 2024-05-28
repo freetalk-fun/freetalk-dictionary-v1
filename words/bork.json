@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To make a mistake or malfunction, especially in a computer program.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I borked the code and now the program won't run.",
+            "sent2": "She always borks the spelling of that word.",
+            "sent3": "Oops, I borked the recipe and added too much salt!",
+            "sent4": "The plan borked at the last minute, causing chaos.",
+            "sent5": "The robot borked its task, creating a mess in the factory."
         },
         {
             "definition": "A sound made by a dog, typically a deep, loud bark.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The dog's bork echoed through the neighborhood.",
+            "sent2": "I heard a loud bork coming from the backyard.",
+            "sent3": "The little puppy let out a tiny bork that made everyone smile.",
+            "sent4": "The bork of the big dog scared away the intruders.",
+            "sent5": "The bork of the hound signaled the start of the hunt."
         },
         {
             "definition": "To obstruct or interfere with something.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The fallen tree borked the path, so we had to find another way.",
+            "sent2": "Please don't bork the signal while I'm on the phone.",
+            "sent3": "The mischievous squirrel borked the bird feeder, causing a mess.",
+            "sent4": "His absence borked the team's chances of winning the game.",
+            "sent5": "The storm borked our plans for a picnic in the park."
         }
     ]
 }

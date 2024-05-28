@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "The information displayed on a screen or other device.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The readouts on the monitor showed the patient's heart rate.",
+            "sent2": "I checked the readouts on the dashboard to see how fast we were going.",
+            "sent3": "The readouts on the scale told me I need to lay off the cookies.",
+            "sent4": "Her face was like a readout, revealing every emotion she felt.",
+            "sent5": "The readouts of the weather forecast were clear and easy to understand."
         },
         {
             "definition": "The act of obtaining information from a readout.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "She quickly made sense of the readouts from the machine.",
+            "sent2": "The technician's job involved analyzing the readouts for any anomalies.",
+            "sent3": "The detective studied the readouts, searching for clues to solve the case.",
+            "sent4": "His mind worked like a readout, processing data at lightning speed.",
+            "sent5": "The readouts provided valuable insights into the experiment's results."
         },
         {
             "definition": "To display or show information on a screen or other device.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The scientist will readouts the data on the screen for everyone to see.",
+            "sent2": "Please readouts the instructions clearly so everyone can understand.",
+            "sent3": "The magician readouts the secret code on the screen, surprising the audience.",
+            "sent4": "The artist readouts her masterpiece on the gallery wall for all to admire.",
+            "sent5": "The teacher readouts the lesson plan on the board for the students to follow."
         }
     ]
 }

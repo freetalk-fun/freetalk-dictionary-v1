@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To type incorrectly or with errors.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She often mistypes words on the computer.",
+            "sent2": "He mistypes his emails when he is in a hurry.",
+            "sent3": "The teacher mistypes the quiz answers and makes the students laugh.",
+            "sent4": "Her fingers mistype a symphony of errors on the keyboard.",
+            "sent5": "The software helps you learn to avoid mistypes in your writing."
         },
         {
             "definition": "A mistake made while typing.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "His document was full of mistypes that needed correction.",
+            "sent2": "The report had several mistypes that changed the meaning of sentences.",
+            "sent3": "Finding mistypes in the document felt like a treasure hunt.",
+            "sent4": "The mistypes in the manuscript were like hidden gems waiting to be discovered.",
+            "sent5": "The editor's job is to catch mistypes before the book goes to print."
         }
     ]
 }

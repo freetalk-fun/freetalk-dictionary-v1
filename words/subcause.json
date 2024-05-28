@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A cause that is subordinate to another cause.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The rain was a subcause of the flooding in the city.",
+            "sent2": "The doctor explained that stress was a subcause of the patient's health issues.",
+            "sent3": "The subcause of the traffic jam was a herd of cows crossing the road.",
+            "sent4": "In the story, the villain's jealousy was a subcause of his downfall.",
+            "sent5": "The lack of sleep was a subcause of her constant yawning during the meeting."
         },
         {
             "definition": "To be a cause that is secondary to the main cause.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "His absence did not directly cause the issue but did subcause some confusion.",
+            "sent2": "The loud noise from the construction site subcaused disturbances in the neighborhood.",
+            "sent3": "The unexpected power outage subcaused the delay in the presentation.",
+            "sent4": "Her sudden outburst subcaused a chain reaction of arguments in the room.",
+            "sent5": "The change in weather subcaused a shift in the event's schedule."
         }
     ]
 }

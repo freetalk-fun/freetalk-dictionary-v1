@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A person who establishes an organization or institution.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The founder of the club worked hard to create a welcoming community.",
+            "sent2": "The school founder believed in the power of education to change lives.",
+            "sent3": "The founder of the bakery accidentally added too much sugar to the recipe!",
+            "sent4": "Her grandfather was the founder of their family traditions, passing down stories and values.",
+            "sent5": "The founder's vision for the company inspired many to join the team."
         },
         {
             "definition": "To fill with water and sink.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The small boat began to founder as the waves crashed against it.",
+            "sent2": "The old ship foundered in the stormy sea, unable to stay afloat.",
+            "sent3": "The leak in the bucket caused it to founder, spilling water everywhere.",
+            "sent4": "The heavy rain caused the roof to founder, leading to water damage inside.",
+            "sent5": "The dam started to founder under the pressure of the rising river."
         },
         {
             "definition": "To stumble or fall.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She felt her ankle twist and knew she would founder if she didn't catch herself.",
+            "sent2": "The tired hiker foundered on the rocky path, losing his balance.",
+            "sent3": "The clumsy puppy would often founder over its own paws while playing.",
+            "sent4": "The dancer's misstep caused her to founder during the performance.",
+            "sent5": "The runner started to founder near the finish line, but managed to push through."
         }
     ]
 }

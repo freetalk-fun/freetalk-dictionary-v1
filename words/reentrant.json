@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A person who reenters a place or situation.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The reentrant returned to the party after stepping out for some fresh air.",
+            "sent2": "The security guard stopped the reentrant at the entrance to check their ID.",
+            "sent3": "The reentrant forgot their keys inside and had to go back in to get them.",
+            "sent4": "Like a reentrant in a maze, he kept finding himself back at the starting point.",
+            "sent5": "The reentrant's footsteps echoed through the empty hallway as they walked back in."
         },
         {
             "definition": "A space or opening that allows reentry.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The emergency exit served as a reentrant for the guests to return to the building.",
+            "sent2": "The broken fence created a reentrant for the animals to come back into the field.",
+            "sent3": "The reentrant in the wall made it easy for the cat to sneak back inside.",
+            "sent4": "The cave's narrow entrance acted as a reentrant for the explorers to reenter the darkness.",
+            "sent5": "The reentrant in the fortress wall provided a secret way for the spies to return undetected."
         },
         {
             "definition": "A program or subroutine that is called again during its execution.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The reentrant in the code caused an unexpected loop that crashed the program.",
+            "sent2": "The software developer fixed the bug by removing the reentrant function.",
+            "sent3": "The reentrant subroutine kept causing errors whenever it was called multiple times.",
+            "sent4": "Like a reentrant loop, the function repeated itself endlessly until it reached a limit.",
+            "sent5": "The reentrant program segment allowed for efficient reuse of code in different parts of the application."
         }
     ]
 }

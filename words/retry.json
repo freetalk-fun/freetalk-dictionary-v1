@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To attempt to do something again.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I will retry the puzzle to solve it this time.",
+            "sent2": "She decided to retry the recipe after it didn't turn out well the first time.",
+            "sent3": "After failing to catch the ball, he decided to retry with more focus.",
+            "sent4": "She retried the dance routine until she got all the steps right.",
+            "sent5": "He retried the level in the game until he finally beat it."
         },
         {
             "definition": "An act of trying to do something again.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The retry of the experiment showed different results.",
+            "sent2": "She clicked on the retry button to start the level over.",
+            "sent3": "The retry of the song made everyone laugh as she forgot the lyrics again.",
+            "sent4": "The retry of the race was more intense as the competitors pushed harder.",
+            "sent5": "He pressed the retry option to give the quiz another go."
         }
     ]
 }

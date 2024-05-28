@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Lacking in movement, action, or change",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The picture on the wall remained static for years.",
+            "sent2": "The old clock stood static on the shelf.",
+            "sent3": "The sleepy cat's static position made everyone chuckle.",
+            "sent4": "Her static expression mirrored the calm lake's surface.",
+            "sent5": "The static air in the room felt heavy and unmoving."
         },
         {
             "definition": "Noise or interference in a radio or television broadcast",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The radio station experienced static during the storm.",
+            "sent2": "The TV screen showed static when the signal was weak.",
+            "sent3": "The comedian joked about the annoying static on the radio.",
+            "sent4": "The static on the TV sounded like a distant thunderstorm.",
+            "sent5": "The sudden burst of static startled everyone in the room."
         },
         {
             "definition": "Pertaining to or characterized by a fixed or stationary condition",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The static position of the statue impressed the visitors.",
+            "sent2": "The static nature of the mountain range was breathtaking.",
+            "sent3": "The static weather forecast made the meteorologist's job easy.",
+            "sent4": "Her static decision to stay put surprised her friends.",
+            "sent5": "The static state of the old building hinted at its history."
         }
     ]
 }

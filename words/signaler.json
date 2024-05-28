@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A person who signals.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The signaler waved a flag to show the way.",
+            "sent2": "The lifeguard acted as a signaler to warn swimmers of the dangerous currents.",
+            "sent3": "The signaler at the airport made sure the planes landed safely.",
+            "sent4": "In the play, the signaler's role was crucial in guiding the actors on stage.",
+            "sent5": "The signaler's bright vest made them easy to spot in the crowd."
         },
         {
             "definition": "A device used for signaling.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The ship's signaler flashed a light to communicate with other vessels.",
+            "sent2": "The smoke alarm is an important signaler in case of fire.",
+            "sent3": "The signaler on the train platform helped passengers know when the train was arriving.",
+            "sent4": "The lighthouse served as a reliable signaler for ships navigating the coast.",
+            "sent5": "The car's turn signal is a useful signaler for indicating direction on the road."
         },
         {
             "definition": "To communicate or indicate by a signal.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The coach used hand signals to signaler the players during the game.",
+            "sent2": "During the hike, they used a whistle to signaler for help.",
+            "sent3": "The birds chirped loudly to signaler the arrival of the storm.",
+            "sent4": "The traffic light signaler when it was safe to cross the street.",
+            "sent5": "The campers used a flashlight to signaler their location in the dark forest."
         }
     ]
 }

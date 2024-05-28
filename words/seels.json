@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Seels (verb): to close or fasten with a seal",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She seels the envelope before sending the letter.",
+            "sent2": "He always seels the package securely before shipping it.",
+            "sent3": "The detective seels the evidence to protect it from contamination.",
+            "sent4": "Her love for him seels her heart from any other suitors.",
+            "sent5": "The magician seels the box before performing the trick."
         },
         {
             "definition": "Seels (noun): a type of seal or closure",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The seels on the container kept the contents fresh.",
+            "sent2": "The ancient scroll had a seels made of wax.",
+            "sent3": "The treasure chest had a golden seels that sparkled in the light.",
+            "sent4": "The door had a rusty seels that creaked when opened.",
+            "sent5": "The envelope had a seels with the company logo embossed on it."
         },
         {
             "definition": "Seels (adjective): sealed or closed off",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The seels container protected the fragile items inside.",
+            "sent2": "The seels door prevented anyone from entering the room.",
+            "sent3": "The seels package was delivered intact despite the rough handling.",
+            "sent4": "The seels vault contained the most valuable treasures.",
+            "sent5": "The seels document was kept in a secure safe."
         }
     ]
 }

@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Having a limited or definite number or amount.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The toy store only had a finitely small selection of puzzles.",
+            "sent2": "She was able to count the finitely number of apples in the basket.",
+            "sent3": "It was a finitely challenging task to find a needle in a haystack.",
+            "sent4": "The finitely sized cake was not enough for all the guests.",
+            "sent5": "The finitely marked trail led us through the forest."
         },
         {
             "definition": "In a finite manner or to a finite extent.",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "The water in the glass will finitely evaporate over time.",
+            "sent2": "He could only run finitely fast due to his injury.",
+            "sent3": "She sang finitely softly to not wake up the baby.",
+            "sent4": "Time passed finitely slowly as they waited for the results.",
+            "sent5": "The sun set finitely behind the mountains."
         }
     ]
 }

@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To show the way to someone by leading or directing them.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She will guid us through the forest.",
+            "sent2": "Can you guid me to the nearest bus stop?",
+            "sent3": "The friendly dog decided to guid the lost kitten back home.",
+            "sent4": "His intuition seemed to guid him towards the right decision.",
+            "sent5": "The lighthouse's beam of light acted as a guid for ships in the dark."
         },
         {
             "definition": "A person who advises or shows the way to others.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "My grandfather is a wise guid for our family.",
+            "sent2": "The tour guid shared interesting facts about the historical site.",
+            "sent3": "The little girl pretended to be a guid for her friends during the game.",
+            "sent4": "In the story, the old wizard served as a mysterious guid for the hero.",
+            "sent5": "The teacher acted as a helpful guid for the students on their field trip."
         },
         {
             "definition": "A device or mechanism that directs or controls the movement of something.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The compass is a reliable guid for hikers in the wilderness.",
+            "sent2": "The traffic lights serve as an important guid for drivers.",
+            "sent3": "The remote control became a tricky guid for the toddler to operate.",
+            "sent4": "The rudder on the boat acts as a crucial guid for steering.",
+            "sent5": "The GPS system provides accurate guid for navigating unfamiliar roads."
         }
     ]
 }

@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A person who behaves in a dishonorable or contemptible way.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The blackguard stole money from the charity.",
+            "sent2": "Don't trust that blackguard; he lies to everyone.",
+            "sent3": "The blackguard tried to cheat in the game, but got caught.",
+            "sent4": "His actions painted him as a blackguard among his peers.",
+            "sent5": "The town knew him as the blackguard who never kept his promises."
         },
         {
             "definition": "To criticize or denounce in scathing terms.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She blackguards anyone who disagrees with her opinions.",
+            "sent2": "The journalist blackguarded the politician in her article.",
+            "sent3": "He blackguards his own cooking skills, but everyone loves his dishes.",
+            "sent4": "The teacher blackguarded the student's lazy attitude in front of the class.",
+            "sent5": "The coach blackguards the players to push them to improve their performance."
         }
     ]
 }

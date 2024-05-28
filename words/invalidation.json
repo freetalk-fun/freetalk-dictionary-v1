@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To make something invalid or void.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She invalidates his argument by presenting strong evidence.",
+            "sent2": "The judge invalidated the contract due to a breach of terms.",
+            "sent3": "The magician invalidates the curse with a wave of his wand.",
+            "sent4": "The storm invalidates all previous weather predictions.",
+            "sent5": "The teacher's red pen invalidates any mistakes on the test."
         },
         {
             "definition": "The act of nullifying or discrediting something.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The invalidation of his theory left him feeling defeated.",
+            "sent2": "The invalidation of her credentials shocked the entire team.",
+            "sent3": "The invalidation of the rumor brought relief to the community.",
+            "sent4": "The invalidation of the witness's testimony changed the course of the trial.",
+            "sent5": "The invalidation of the contract led to a heated debate in the boardroom."
         },
         {
             "definition": "The state of being declared invalid or null.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The invalidation of the ticket left him stranded at the airport.",
+            "sent2": "The invalidation of the warranty meant he had to pay for repairs.",
+            "sent3": "The invalidation of the coupon caused disappointment at the checkout.",
+            "sent4": "The invalidation of his membership card barred him from entering the club.",
+            "sent5": "The invalidation of the passport caused a delay in his travel plans."
         }
     ]
 }

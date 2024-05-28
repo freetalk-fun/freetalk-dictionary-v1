@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A loud, harsh sound made by a goose or horn.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The honks of the geese filled the air with noise.",
+            "sent2": "I heard the honks of the horns in the traffic jam.",
+            "sent3": "The honks of the geese sounded like a choir of trumpets.",
+            "sent4": "The honks of the horns echoed through the city streets.",
+            "sent5": "The honks of the geese were as loud as thunder."
         },
         {
             "definition": "To make a loud, harsh sound like a goose or horn.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The car honks startled the pedestrians on the street.",
+            "sent2": "He honks the horn to alert others of his presence.",
+            "sent3": "The goose honks at the passing clouds, hoping for rain.",
+            "sent4": "The horn honks pierced through the silence of the night.",
+            "sent5": "She honks loudly to get attention from her friends."
         }
     ]
 }

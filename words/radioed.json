@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To communicate or send a message using a radio.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She radioed for help when she got lost in the forest.",
+            "sent2": "The police radioed the description of the suspect to all units.",
+            "sent3": "The astronaut radioed to mission control about the successful launch.",
+            "sent4": "The news of the victory radioed through the town like a joyful melody.",
+            "sent5": "His urgent call radioed across the airwaves, reaching those in need of assistance."
         },
         {
             "definition": "Past tense of the verb 'radio'.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Yesterday, she radioed the coordinates to the rescue team.",
+            "sent2": "He radioed the all-clear signal after the storm had passed.",
+            "sent3": "The captain radioed the final instructions before the mission began.",
+            "sent4": "The message was radioed just in time to prevent a disaster.",
+            "sent5": "Having radioed the message, he waited anxiously for a response."
         },
         {
             "definition": "Having been communicated or sent using a radio.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The radioed message was received clearly by the team.",
+            "sent2": "The radioed transmission contained vital information for the operation.",
+            "sent3": "The radioed signal was so strong, it reached far beyond the expected range.",
+            "sent4": "The radioed announcement echoed through the valley, surprising all who heard it.",
+            "sent5": "The radioed news spread rapidly, causing excitement among the listeners."
         }
     ]
 }

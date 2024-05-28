@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To spell a word incorrectly.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I always misspell the word 'beautiful'.",
+            "sent2": "She tends to misspell names on birthday cards.",
+            "sent3": "It can be funny when people misspell simple words.",
+            "sent4": "Trying to write quickly, I often misspell words in my notes.",
+            "sent5": "Remember to double-check your work to avoid any misspelling mistakes."
         },
         {
             "definition": "Spelled incorrectly.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The misspell word confused the readers.",
+            "sent2": "He received a note with a misspell name on it.",
+            "sent3": "The misspell sign made everyone chuckle.",
+            "sent4": "The misspell address led us to the wrong house.",
+            "sent5": "The misspell message was hard to decipher."
         }
     ]
 }

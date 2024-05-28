@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Relating to or occurring on the receiving side of a synapse.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The postsynaptic neuron receives signals from the presynaptic neuron.",
+            "sent2": "The postsynaptic cell responds to neurotransmitters.",
+            "sent3": "The postsynaptic party was always the last to know the gossip.",
+            "sent4": "Her postsynaptic awareness allowed her to understand subtle social cues.",
+            "sent5": "The postsynaptic connection was crucial for the message to be received."
         },
         {
             "definition": "In a manner that pertains to the area after a synapse.",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "The signal traveled postsynaptically to reach the next neuron.",
+            "sent2": "Information is processed postsynaptically after crossing the synapse.",
+            "sent3": "He always arrived postsynaptically late to the meetings.",
+            "sent4": "The idea spread postsynaptically throughout the brain.",
+            "sent5": "The message was relayed postsynaptically, ensuring accurate communication."
         },
         {
             "definition": "In a way that is connected to the region following a synapse.",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "The neurotransmitter binds postsynaptically to receptors.",
+            "sent2": "The electrical signal is transmitted postsynaptically.",
+            "sent3": "She thought postsynaptically about the conversation after it ended.",
+            "sent4": "The information flowed postsynaptically, linking one neuron to another.",
+            "sent5": "The synapse functioned postsynaptically, ensuring proper communication."
         }
     ]
 }

@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A sign or piece of information that suggests something",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Her smile was an indication of her happiness.",
+            "sent2": "The dark clouds were an indication of an approaching storm.",
+            "sent3": "The cat's purring was an indication that it wanted attention.",
+            "sent4": "The sudden drop in temperature was an indication that winter was coming.",
+            "sent5": "The teacher's raised eyebrow was a clear indication that the students needed to be quiet."
         },
         {
             "definition": "The action of pointing out or pointing to something",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "His indication towards the map helped us find the right direction.",
+            "sent2": "The tour guide's indication of the historical monument was very informative.",
+            "sent3": "The indication of the emergency exit made everyone giggle during the safety drill.",
+            "sent4": "Her indication towards the beautiful sunset made me stop and admire the view.",
+            "sent5": "The coach's indication to the player to switch positions was swift and effective."
         }
     ]
 }

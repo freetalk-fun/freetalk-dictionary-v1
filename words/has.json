@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Possess (third person singular present)",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She has a new toy.",
+            "sent2": "The cat has a fluffy tail.",
+            "sent3": "The little girl has a magical wand.",
+            "sent4": "Time has a way of changing things.",
+            "sent5": "The sun has a warm glow."
         },
         {
             "definition": "To experience or undergo (third person singular present)",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He has a toothache.",
+            "sent2": "She has a fear of heights.",
+            "sent3": "The puppy has a case of the zoomies.",
+            "sent4": "Life has a lot of surprises in store.",
+            "sent5": "The storm has a fierce intensity."
         },
         {
             "definition": "To hold or maintain (third person singular present)",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The teacher has the attention of the class.",
+            "sent2": "The tree has strong roots.",
+            "sent3": "The chef has a secret recipe.",
+            "sent4": "Music has the power to uplift spirits.",
+            "sent5": "The lock has a stubborn mechanism."
         }
     ]
 }

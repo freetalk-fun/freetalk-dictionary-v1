@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A device for measuring and indicating time, typically by hands moving on a dial.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The clock on the wall showed it was time for lunch.",
+            "sent2": "I set my alarm clock to wake me up in the morning.",
+            "sent3": "The clock in the classroom seemed to tick louder during tests.",
+            "sent4": "Her heart beat like a clock, steady and rhythmic.",
+            "sent5": "The antique clock chimed midnight, echoing through the empty house."
         },
         {
             "definition": "To time or keep track of something, especially using a clock.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I need to clock how long it takes to finish this race.",
+            "sent2": "She likes to clock her running speed to see improvements.",
+            "sent3": "Don't clock me while I'm trying to surprise you!",
+            "sent4": "The detective could clock the suspect's movements accurately.",
+            "sent5": "He could clock the seconds ticking by as he waited for the results."
         }
     ]
 }

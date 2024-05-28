@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To convey (thoughts or feelings) in words or by gestures.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She tried to express her happiness through a big smile.",
+            "sent2": "I express my gratitude by saying thank you.",
+            "sent3": "He tried to express his hunger by pretending to eat his toy food.",
+            "sent4": "Her eyes express a deep sadness that words cannot capture.",
+            "sent5": "The painting beautifully expresses the artist's emotions."
         },
         {
             "definition": "To send (a package or letter) by a specific service for faster delivery.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "They will express the important documents to the client.",
+            "sent2": "Please express this parcel to the recipient as soon as possible.",
+            "sent3": "He decided to express the birthday gift to his friend via express mail.",
+            "sent4": "The urgent letter was expressed to the office for immediate attention.",
+            "sent5": "She always expresses her love by sending surprise gifts."
         },
         {
             "definition": "A fast, efficient, and direct train or bus service.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The express arrived at the station right on time.",
+            "sent2": "We took the express to reach the city quickly.",
+            "sent3": "The express train zoomed past the countryside, making everyone dizzy.",
+            "sent4": "The express bus is known for its punctuality and speed.",
+            "sent5": "The new express service has made commuting much easier."
         }
     ]
 }

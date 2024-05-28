@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To assert or maintain a false claim or assertion.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He misclaims that he won the race, but everyone knows he came in last.",
+            "sent2": "She misclaims ownership of the book, even though it clearly belongs to the library.",
+            "sent3": "The cat misclaims that the dog stole its toy, but we all saw the cat hiding it.",
+            "sent4": "The politician misclaims support from the people, but the polls tell a different story.",
+            "sent5": "The student misclaims that the dog ate their homework, but the teacher found it in their bag."
         },
         {
             "definition": "A false or inaccurate claim or assertion.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The misclaims made by the company led to a loss of trust among customers.",
+            "sent2": "She was caught spreading misclaims about her coworker to get ahead.",
+            "sent3": "The misclaims in the gossip magazine were so outrageous that no one believed them.",
+            "sent4": "His misclaims about his qualifications were exposed during the job interview.",
+            "sent5": "The misclaims in the advertisement misled many consumers into buying the product."
         }
     ]
 }

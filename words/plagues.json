@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A widespread disease causing a high rate of mortality",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The plagues in the village led to many people getting sick.",
+            "sent2": "The plagues of the past were often deadly and hard to control.",
+            "sent3": "The plagues seemed to have a party, infecting everyone in sight!",
+            "sent4": "The plagues spread like wildfire, claiming lives in their wake.",
+            "sent5": "The plagues swept through the town, leaving devastation in their path."
         },
         {
             "definition": "To cause continual trouble or distress to",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Constant noise plagues the peaceful library.",
+            "sent2": "Procrastination often plagues students before exams.",
+            "sent3": "The mischievous cat plagues the dog with playful antics.",
+            "sent4": "Doubt can plague the mind, clouding judgment.",
+            "sent5": "The haunting melody plagues my thoughts, refusing to leave me be."
         },
         {
             "definition": "A swarm of insects or other organisms causing damage",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The locusts formed a plague, devouring all the crops.",
+            "sent2": "The plague of beetles destroyed the farmer's fields.",
+            "sent3": "The pesky mosquitoes formed a tiny plague around the campfire.",
+            "sent4": "The plague of ants invaded the picnic, causing chaos.",
+            "sent5": "The plague of termites silently ate away at the wooden structure."
         }
     ]
 }

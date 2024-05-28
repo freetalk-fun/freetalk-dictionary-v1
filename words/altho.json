@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Although",
-            "pos": "conjunction"
+            "pos": "conjunction",
+            "sent1": "Altho it rained, we still had fun at the park.",
+            "sent2": "I wanted to go for a walk, altho it was getting dark outside.",
+            "sent3": "Altho the cat tried to act tough, it was scared of the vacuum cleaner.",
+            "sent4": "The tree stood tall, altho its branches swayed in the wind.",
+            "sent5": "Altho the cake looked delicious, I resisted the temptation to eat it."
         },
         {
             "definition": "Though",
-            "pos": "conjunction"
+            "pos": "conjunction",
+            "sent1": "She was tired, altho she kept working on her project.",
+            "sent2": "I wanted to go swimming, altho the water was too cold.",
+            "sent3": "Altho the dog barked loudly, it was actually afraid of thunder.",
+            "sent4": "The old house stood strong, altho it showed signs of wear.",
+            "sent5": "Altho the movie was scary, I watched it till the end."
         }
     ]
 }

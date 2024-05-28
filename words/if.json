@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "In the event that",
-            "pos": "conjunction"
+            "pos": "conjunction",
+            "sent1": "If you finish your homework, you can go play outside.",
+            "sent2": "I will go to the park if it is sunny tomorrow.",
+            "sent3": "If pigs could fly, we would see them in the sky.",
+            "sent4": "Life would be easier if we could pause time whenever we wanted.",
+            "sent5": "If you study hard, you will do well on the test."
         },
         {
             "definition": "Whether",
-            "pos": "conjunction"
+            "pos": "conjunction",
+            "sent1": "I don't know if I should wear a jacket or not.",
+            "sent2": "She asked if he wanted to join them for lunch.",
+            "sent3": "If dogs could talk, they would probably ask for more treats.",
+            "sent4": "It's as if the stars are dancing in the night sky.",
+            "sent5": "If you need help, just ask."
         },
         {
             "definition": "Supposing that",
-            "pos": "conjunction"
+            "pos": "conjunction",
+            "sent1": "If we leave early, we might avoid traffic.",
+            "sent2": "What would you do if you won the lottery?",
+            "sent3": "If elephants could play basketball, they would be unstoppable.",
+            "sent4": "It's as if the whole world is holding its breath.",
+            "sent5": "If you dream big, you can achieve great things."
         }
     ]
 }

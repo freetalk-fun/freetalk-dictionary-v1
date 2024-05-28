@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "The act of moving across or through something, such as a path or obstacle.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The traversal of the forest was challenging due to fallen trees.",
+            "sent2": "She completed the traversal of the river by crossing the bridge.",
+            "sent3": "The squirrel's traversal of the backyard fence was quite acrobatic.",
+            "sent4": "His traversal through the maze of city streets felt like a journey through time.",
+            "sent5": "The traversal of the mountain pass left them breathless with its beauty."
         },
         {
             "definition": "The process of examining or searching through a data structure, such as a tree or graph.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The traversal of the database revealed hidden information.",
+            "sent2": "The software engineer performed a traversal of the code to find errors.",
+            "sent3": "The cat's traversal of the house's layout was like a detective on a case.",
+            "sent4": "Her traversal through the book's index was like a journey through a library.",
+            "sent5": "The traversal of the network's nodes uncovered a security vulnerability."
         }
     ]
 }

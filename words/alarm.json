@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A sudden fear or distressing suspense caused by an awareness of danger.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The loud alarm startled everyone in the building.",
+            "sent2": "The alarm went off when the fire broke out.",
+            "sent3": "The alarm clock rang so loudly that it scared the cat.",
+            "sent4": "Her heart raced with alarm as she heard footsteps behind her.",
+            "sent5": "The alarm blared, sending shivers down his spine."
         },
         {
             "definition": "A device that gives a loud warning signal in response to danger.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The alarm on the car alerted the neighbors to the break-in.",
+            "sent2": "Make sure to set the alarm before leaving the house.",
+            "sent3": "The alarm system was so sensitive, even a squirrel could trigger it.",
+            "sent4": "The alarm wailed like a banshee in the night.",
+            "sent5": "The alarm's shrill sound pierced the silence of the room."
         },
         {
             "definition": "To cause someone to feel frightened or worried.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The unexpected noise will alarm the baby.",
+            "sent2": "Please don't alarm your grandmother with scary stories.",
+            "sent3": "His exaggerated gasp was meant to alarm his friends, but they just laughed.",
+            "sent4": "The news of the approaching storm alarmed the villagers.",
+            "sent5": "The teacher's sudden shout alarmed the students in the classroom."
         }
     ]
 }

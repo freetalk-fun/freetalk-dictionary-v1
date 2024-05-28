@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "The act of repeating a process or procedure.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "During each iteration of the experiment, the scientist carefully recorded the results.",
+            "sent2": "The software developer tested the code multiple times to ensure each iteration was error-free.",
+            "sent3": "The robot's endless iterations of dance moves entertained the audience.",
+            "sent4": "Her daily routine felt like an endless iteration of the same tasks.",
+            "sent5": "The teacher's patient iteration of the lesson made it easier for the students to understand."
         },
         {
             "definition": "A single repetition of a process or procedure.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "After each iteration of the song, the musician made adjustments to improve the performance.",
+            "sent2": "The printer produced a perfect iteration of the document on the first try.",
+            "sent3": "The chef's perfect iteration of the recipe impressed the restaurant critics.",
+            "sent4": "The artist's latest painting was a beautiful iteration of her previous work.",
+            "sent5": "The athlete's flawless iteration of the routine earned them a perfect score."
         }
     ]
 }

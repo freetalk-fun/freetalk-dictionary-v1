@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To be without something that is needed or desired.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She will lack sleep if she stays up all night.",
+            "sent2": "I often lack motivation to exercise regularly.",
+            "sent3": "The cat will lack treats if it keeps knocking them off the table.",
+            "sent4": "His speech seemed to lack sincerity, leaving the audience unimpressed.",
+            "sent5": "The plant will lack sunlight if placed in a dark corner."
         },
         {
             "definition": "The state of being without something that is needed or desired.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The lack of rain caused the crops to wither.",
+            "sent2": "She felt a lack of support from her colleagues.",
+            "sent3": "The picnic had a comical lack of sandwiches, causing everyone to laugh.",
+            "sent4": "His lack of enthusiasm was like a dark cloud over the team.",
+            "sent5": "The lack of snow in winter made the children disappointed."
         }
     ]
 }

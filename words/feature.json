@@ -3,19 +3,39 @@
     "meanings": [
         {
             "definition": "A distinctive attribute or aspect of something.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The most important feature of the new phone is its large screen.",
+            "sent2": "The beautiful garden is a lovely feature of the house.",
+            "sent3": "The talking parrot became a surprising feature of the quiet library.",
+            "sent4": "Her kindness was a shining feature in a world full of selfishness.",
+            "sent5": "The bright red color of the car made it a standout feature on the road."
         },
         {
             "definition": "A prominent or distinctive part of a landscape or building.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The towering mountain is a striking feature of the landscape.",
+            "sent2": "The intricate carvings on the cathedral are a notable feature.",
+            "sent3": "The tiny squirrel made the giant oak tree look like a funny feature in the park.",
+            "sent4": "The old lighthouse stood as a guiding feature for ships in the storm.",
+            "sent5": "The sparkling fountain was the most eye-catching feature in the garden."
         },
         {
             "definition": "To give special prominence to something in a film or broadcast.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The director decided to feature the talented young actress in the lead role.",
+            "sent2": "The news program will feature a special report on climate change tonight.",
+            "sent3": "The comedy show featured a talking dog as a hilarious surprise.",
+            "sent4": "The magazine cover featured a famous singer in a stunning outfit.",
+            "sent5": "The documentary will feature rare footage of the endangered species."
         },
         {
             "definition": "To have as a prominent or distinctive part.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The new car model will feature advanced safety features.",
+            "sent2": "The renovated house will feature a modern kitchen with all the latest appliances.",
+            "sent3": "The play will feature a surprise guest appearance by a famous actor.",
+            "sent4": "The art exhibition will feature paintings by local artists.",
+            "sent5": "The fashion show will feature designs inspired by nature."
         }
     ]
 }

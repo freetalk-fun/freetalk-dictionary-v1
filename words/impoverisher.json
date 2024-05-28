@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A person or thing that makes someone or something poor.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The greedy landlord was an impoverisher, taking all the money from the poor tenants.",
+            "sent2": "The corrupt official was known as an impoverisher for embezzling funds meant for public welfare.",
+            "sent3": "The sneaky raccoon acted like an impoverisher, stealing all the shiny objects in the neighborhood.",
+            "sent4": "Her addiction to shopping was an impoverisher of her savings, leaving her with empty pockets.",
+            "sent5": "The drought was an impoverisher of the crops, leading to a poor harvest."
         },
         {
             "definition": "To make someone or something poor.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The economic crisis will further impoverish many families already struggling to make ends meet.",
+            "sent2": "The war had a devastating impact on the country, impoverishing its citizens and destroying infrastructure.",
+            "sent3": "The magician's trick seemed to impoverish the volunteer's wallet, making all the money disappear.",
+            "sent4": "The constant spending on unnecessary items will eventually impoverish your savings account.",
+            "sent5": "The excessive taxation policy will impoverish the middle class, making it harder for them to afford basic necessities."
         }
     ]
 }

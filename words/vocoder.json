@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A device for synthesizing speech by encoding an input signal",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The vocoder transformed the sound into a robotic voice.",
+            "sent2": "The musician used a vocoder to create unique vocal effects in the song.",
+            "sent3": "The vocoder made the speaker sound like a talking robot.",
+            "sent4": "Her voice, processed through the vocoder, became a digital melody.",
+            "sent5": "The vocoder's magic turned ordinary sounds into futuristic speech."
         },
         {
             "definition": "A type of software or hardware used for voice processing",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The vocoder software enhanced the clarity of the recorded speech.",
+            "sent2": "The studio engineer adjusted the settings on the vocoder to improve the audio quality.",
+            "sent3": "With the vocoder, even whispers could be heard loud and clear.",
+            "sent4": "The vocoder acted like a virtual vocal enhancer, making voices stand out.",
+            "sent5": "Through the vocoder, voices gained a new level of depth and richness."
         },
         {
             "definition": "To alter or manipulate a voice using a vocoder",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She decided to vocoder her voice to sound like a robot for the play.",
+            "sent2": "The singer vocodered his vocals to add a futuristic touch to the performance.",
+            "sent3": "The comedian vocodered his jokes, making the audience burst into laughter.",
+            "sent4": "In the movie, the villain vocodered his voice to disguise his identity.",
+            "sent5": "The radio host vocodered his voice to create a mysterious persona for the show."
         }
     ]
 }

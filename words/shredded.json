@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To cut or tear into small pieces",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She shredded the paper into tiny bits for the art project.",
+            "sent2": "The chef shredded the carrots to add to the salad.",
+            "sent3": "The cat shredded the curtains while playing around.",
+            "sent4": "The tornado shredded everything in its path, leaving only debris.",
+            "sent5": "The shredder hummed as it efficiently shredded the documents."
         },
         {
             "definition": "Torn or ripped into thin strips",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The shredded paper was used for packing fragile items.",
+            "sent2": "He wore a shredded denim jacket to the concert.",
+            "sent3": "The shredded lettuce added a nice crunch to the sandwich.",
+            "sent4": "The old flag was shredded by the strong winds.",
+            "sent5": "The shredded cheese melted perfectly on the pizza."
         },
         {
             "definition": "To destroy or damage something severely",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The company's reputation was shredded after the scandal.",
+            "sent2": "The storm shredded the roof of the house.",
+            "sent3": "His argument shredded her confidence in her work.",
+            "sent4": "The loud music shredded her concentration while studying.",
+            "sent5": "The harsh criticism shredded his self-esteem."
         }
     ]
 }

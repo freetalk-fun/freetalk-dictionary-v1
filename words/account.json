@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A record or statement of financial transactions",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I keep track of my expenses in my account book.",
+            "sent2": "The accountant prepared the company's financial accounts.",
+            "sent3": "My piggy bank demanded an account of all the coins I put in.",
+            "sent4": "Her savings account told a story of discipline and thrift.",
+            "sent5": "The bank manager reviewed the accounts with a keen eye."
         },
         {
             "definition": "Consideration or regard",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Taking your feelings into account, I will be more careful next time.",
+            "sent2": "She held his opinion in high account.",
+            "sent3": "In the grand scheme of things, his opinion didn't hold much account.",
+            "sent4": "Her kindness towards others is of great account in our community.",
+            "sent5": "The teacher took his effort into account when grading the assignment."
         },
         {
             "definition": "To give a report or explanation",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I will account for my absence from the meeting.",
+            "sent2": "He had to account for the missing funds.",
+            "sent3": "The cat tried to account for the knocked-over vase, but no one believed her.",
+            "sent4": "She had to account for her actions to her parents.",
+            "sent5": "The detective asked him to account for his whereabouts during the crime."
         }
     ]
 }

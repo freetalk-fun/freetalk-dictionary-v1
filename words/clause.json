@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A group of words containing a subject and predicate, typically forming part of a sentence.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The first clause in the story described the main character.",
+            "sent2": "She struggled to understand the clause at the beginning of the paragraph.",
+            "sent3": "The clause about eating only vegetables made the children giggle.",
+            "sent4": "In the clause of friendship, trust is the key ingredient.",
+            "sent5": "The teacher used a funny voice to explain the clause to the class."
         },
         {
             "definition": "A particular stipulation or provision in a document or agreement.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The rental agreement included a clause about noise levels after 10 pm.",
+            "sent2": "He carefully reviewed each clause in the contract before signing.",
+            "sent3": "The clause stating no pets allowed surprised the new tenant.",
+            "sent4": "The clause on confidentiality was crucial for the success of the project.",
+            "sent5": "She highlighted the most important clause in the legal document."
         }
     ]
 }

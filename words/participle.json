@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A word formed from a verb and used as an adjective.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The running child caught the ball.",
+            "sent2": "The painted house looked beautiful.",
+            "sent3": "The barking dog scared away the birds.",
+            "sent4": "The glowing sunset painted the sky in hues of orange.",
+            "sent5": "The howling wind echoed through the night."
         },
         {
             "definition": "A verb form ending in -ing or -ed that functions as an adjective.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The singing birds woke me up early.",
+            "sent2": "The excited children played in the park.",
+            "sent3": "The barking seal entertained the crowd at the zoo.",
+            "sent4": "The shining stars lit up the night sky.",
+            "sent5": "The roaring lion scared the other animals."
         },
         {
             "definition": "A verb form used in forming the progressive and perfect tenses.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "She is reading a book in the library.",
+            "sent2": "He has finished his homework already.",
+            "sent3": "The dog was barking loudly all night.",
+            "sent4": "Time is slipping away from us.",
+            "sent5": "The sun has set, marking the end of the day."
         }
     ]
 }

@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Functioning or in use",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The computer is operating smoothly.",
+            "sent2": "The factory is currently operating at full capacity.",
+            "sent3": "The toy robot started operating on its own, much to the surprise of the children.",
+            "sent4": "The car's engine was like an orchestra, each part operating in perfect harmony.",
+            "sent5": "The flashlight's operating button glowed in the dark, making it easy to find."
         },
         {
             "definition": "To control or manage",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She is operating the machinery with great skill.",
+            "sent2": "The team needs to operate the new software efficiently.",
+            "sent3": "The cat seemed to think it could operate the vacuum cleaner by pawing at it.",
+            "sent4": "His mind operated like a well-oiled machine, making quick decisions.",
+            "sent5": "The captain operated the ship through the storm, guiding it safely to shore."
         },
         {
             "definition": "To perform a surgical procedure",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The surgeon will be operating on the patient tomorrow.",
+            "sent2": "The medical team will operate on the injured athlete this afternoon.",
+            "sent3": "The chef joked that he would operate on the turkey to make it taste better.",
+            "sent4": "The mechanic had to operate on the car's engine to fix the problem.",
+            "sent5": "The magician pretended to operate on the volunteer's hand, creating a fun illusion."
         }
     ]
 }

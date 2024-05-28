@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A person who directs the route or course of a ship, aircraft, or other form of transportation.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The navigator guided the ship safely through the storm.",
+            "sent2": "The navigator plotted the airplane's course on the map.",
+            "sent3": "The navigator accidentally led the ship to a deserted island.",
+            "sent4": "She was the navigator of her friend group, always leading the way.",
+            "sent5": "The navigator's expertise in navigation was unmatched."
         },
         {
             "definition": "A device or system used for determining or controlling the course of a vehicle.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The car's navigator helped the driver find the nearest gas station.",
+            "sent2": "The GPS navigator in the car displayed the upcoming turns.",
+            "sent3": "The navigator on the dashboard suddenly started speaking in a funny accent.",
+            "sent4": "Her intuition acted as a navigator, guiding her through life's twists and turns.",
+            "sent5": "The navigator beeped loudly to alert the driver of an upcoming exit."
         }
     ]
 }

@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "relating to or involving the measurement of temperature",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The thermometric study helped us understand the weather better.",
+            "sent2": "The thermometric device showed the exact temperature outside.",
+            "sent3": "The thermometric experiment went wrong when the thermometer broke.",
+            "sent4": "Her thermometric approach to cooking always resulted in perfectly baked goods.",
+            "sent5": "The thermometric analysis revealed a significant increase in temperature over the past week."
         },
         {
             "definition": "a device used for measuring temperature",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I used the thermometric to check if the water was hot enough.",
+            "sent2": "The thermometric in the room displayed a reading of 25 degrees Celsius.",
+            "sent3": "The chef's thermometric, a trusty old thermometer, never failed him in the kitchen.",
+            "sent4": "The thermometric beeped loudly, indicating the temperature had reached the desired level.",
+            "sent5": "The scientist calibrated the thermometric carefully before taking any measurements."
         }
     ]
 }

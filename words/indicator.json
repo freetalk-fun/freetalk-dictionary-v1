@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A person or thing that indicates.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The traffic light is an indicator of when to stop and go.",
+            "sent2": "The compass is a helpful indicator of which direction to go.",
+            "sent3": "The barking dog was an indicator that someone was at the door.",
+            "sent4": "Her smile was an indicator of her happiness.",
+            "sent5": "The thermometer served as a clear indicator of the room temperature."
         },
         {
             "definition": "A device providing specific information on the state or condition of something.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The fuel gauge in the car is an important indicator of how much gas is left.",
+            "sent2": "The weather vane is a useful indicator of wind direction.",
+            "sent3": "The blinking light on the dashboard was an indicator that the engine needed attention.",
+            "sent4": "The barometer is an indicator of upcoming weather changes.",
+            "sent5": "The clock on the wall is a reliable indicator of the time."
         },
         {
             "definition": "A statistical value that provides insight into the state or condition of a system.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The unemployment rate is an important economic indicator.",
+            "sent2": "The stock market index is a key indicator of financial health.",
+            "sent3": "The number of likes on social media can be an indicator of popularity.",
+            "sent4": "The crime rate serves as an indicator of safety in a neighborhood.",
+            "sent5": "The test scores are a crucial indicator of student performance."
         }
     ]
 }

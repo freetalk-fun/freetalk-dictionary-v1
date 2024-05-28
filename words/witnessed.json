@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To see or experience (an event or situation)",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I witnessed a beautiful sunset yesterday.",
+            "sent2": "She witnessed the magic show at the fair.",
+            "sent3": "The cat witnessed the dog trying to dance.",
+            "sent4": "The old tree witnessed generations come and go.",
+            "sent5": "The child witnessed the butterfly emerge from its cocoon."
         },
         {
             "definition": "To testify to the occurrence of (an event)",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The witness witnessed the car accident in court.",
+            "sent2": "He witnessed the crime and reported it to the police.",
+            "sent3": "The parrot witnessed the sneaky squirrel stealing nuts.",
+            "sent4": "Her tears witnessed the depth of her sorrow.",
+            "sent5": "The ancient ruins witnessed the rise and fall of civilizations."
         }
     ]
 }

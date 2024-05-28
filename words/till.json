@@ -3,19 +3,39 @@
     "meanings": [
         {
             "definition": "Up to the time of",
-            "pos": "preposition"
+            "pos": "preposition",
+            "sent1": "I will wait till you finish your homework.",
+            "sent2": "We played games till the sun went down.",
+            "sent3": "Let's stay up till midnight to see the stars.",
+            "sent4": "Time stood still till the clock struck twelve.",
+            "sent5": "The cat waited patiently till its owner returned home."
         },
         {
             "definition": "To prepare (land) for the planting of crops",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Farmers till the soil before planting seeds.",
+            "sent2": "They tilled the land to grow vegetables.",
+            "sent3": "The gardeners decided to till the earth in the moonlight.",
+            "sent4": "The tractor tilled the field swiftly and efficiently.",
+            "sent5": "Tilling the garden makes it ready for sowing seeds."
         },
         {
             "definition": "A cash register or drawer for money",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The cashier counted the money in the till.",
+            "sent2": "She placed the coins in the cash till.",
+            "sent3": "The till at the store was overflowing with coins.",
+            "sent4": "The till chimed as the customer paid for the items.",
+            "sent5": "The till was securely locked to protect the cash inside."
         },
         {
             "definition": "To work or cultivate (land) as a farmer",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The farmers till the fields every spring.",
+            "sent2": "They tilled the land with care and dedication.",
+            "sent3": "The old farmer loved to till the soil and watch his crops grow.",
+            "sent4": "Tilling the earth requires strength and patience.",
+            "sent5": "The farmer's hands were calloused from tilling the land."
         }
     ]
 }

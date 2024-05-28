@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A remark, observation, or criticism.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I appreciated your comment on the presentation.",
+            "sent2": "She left a comment on the blog post.",
+            "sent3": "His comment about the weather made everyone laugh.",
+            "sent4": "Her comment on the situation was like a ray of sunshine.",
+            "sent5": "The teacher's comment stayed with me for days."
         },
         {
             "definition": "A written or spoken opinion or discussion.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The comments in the article were very insightful.",
+            "sent2": "Let's have a comment session about the new policy.",
+            "sent3": "Their comments on the movie were so funny.",
+            "sent4": "His comment on the book was a breath of fresh air.",
+            "sent5": "I always look forward to reading your comments."
         },
         {
             "definition": "To express an opinion or reaction.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Please comment on the proposed changes.",
+            "sent2": "He likes to comment on current events.",
+            "sent3": "I will comment on the taste of the food.",
+            "sent4": "She commented on the beauty of the sunset.",
+            "sent5": "They commented on the importance of teamwork."
         }
     ]
 }

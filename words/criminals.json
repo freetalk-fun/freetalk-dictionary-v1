@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A person who has committed a crime.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The criminals were caught by the police.",
+            "sent2": "The criminals were sentenced to prison for their actions.",
+            "sent3": "The criminals tried to steal cookies from the jar, but got caught red-handed.",
+            "sent4": "The criminals lurked in the shadows, waiting for their next target.",
+            "sent5": "The image of the criminals' faces was plastered all over the news."
         },
         {
             "definition": "Of or relating to crime or criminals.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The detectives investigated the criminals' hideout.",
+            "sent2": "The criminals' behavior was suspicious to the neighbors.",
+            "sent3": "Wearing a mask and cape, the criminals looked like they were up to no good.",
+            "sent4": "The dark alley had a mysterious, criminals' vibe to it.",
+            "sent5": "The criminals' activities left a trail of chaos in the city."
         }
     ]
 }

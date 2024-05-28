@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "An error or fault resulting from defective judgment, deficient knowledge, or carelessness.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Making mistakes is a normal part of learning.",
+            "sent2": "She realized her mistakes after reviewing the test.",
+            "sent3": "The funny thing about mistakes is that we all make them.",
+            "sent4": "Her mistakes were like road signs pointing her in a different direction.",
+            "sent5": "The mistakes in his painting were glaringly obvious."
         },
         {
             "definition": "To understand or identify incorrectly.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He often mistakes kindness for weakness.",
+            "sent2": "She mistook him for her brother in the dim light.",
+            "sent3": "It's easy to mistake the twins for each other.",
+            "sent4": "She mistakenly thought the meeting was at 2 pm instead of 3 pm.",
+            "sent5": "The witness's testimony was mistaken for the truth."
         },
         {
             "definition": "To make an error or fail to achieve a desired outcome.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "If you rush, you are more likely to make mistakes.",
+            "sent2": "She realized she had made a mistake in her calculations.",
+            "sent3": "He mistakenly pressed the wrong button and the machine stopped working.",
+            "sent4": "Failing to plan is planning to make mistakes.",
+            "sent5": "The chef's mistake led to a burnt dish."
         }
     ]
 }

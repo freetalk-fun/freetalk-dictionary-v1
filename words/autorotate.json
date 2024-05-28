@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To rotate automatically, especially referring to a device or screen adjusting its orientation based on movement or position.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "My phone can autorotate the screen when I turn it sideways.",
+            "sent2": "The camera app on my tablet can autorotate the image when I tilt the device.",
+            "sent3": "I accidentally made my phone autorotate the screen while trying to take a picture upside down.",
+            "sent4": "The windmill's blades autorotate to catch the wind from different directions.",
+            "sent5": "The satellite dish can autorotate to maintain a strong signal during storms."
         },
         {
             "definition": "The automatic rotation feature on a device or screen.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I love the autorotate function on my tablet that adjusts the screen orientation.",
+            "sent2": "The autorotate on my camera helps me capture photos in landscape and portrait modes.",
+            "sent3": "The autorotate on my TV always surprises me when it changes the display orientation.",
+            "sent4": "The autorotate on the projector screen smoothly adjusts to fit the room size.",
+            "sent5": "The autorotate on the computer monitor makes it convenient to switch between tasks."
         }
     ]
 }

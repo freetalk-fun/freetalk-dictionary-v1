@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A person or company that makes goods for sale.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The manufacturer produced high-quality toys for children.",
+            "sent2": "The manufacturer shipped out a new batch of smartphones to stores.",
+            "sent3": "The manufacturer decided to make a line of shoes for elephants.",
+            "sent4": "The small bakery was a manufacturer of delicious pastries.",
+            "sent5": "The manufacturer's factory hummed with activity as workers assembled products."
         },
         {
             "definition": "To make (something) on a large scale using machinery.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The company will manufacturer a new line of cars next year.",
+            "sent2": "They manufacturered thousands of bottles of soda in a day.",
+            "sent3": "The chef joked that he could manufacturer a mountain of pancakes in an hour.",
+            "sent4": "She could manufacturer beautiful music with just a few simple tools.",
+            "sent5": "The factory workers manufacturered the parts with precision and care."
         }
     ]
 }

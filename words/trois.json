@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Three",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "I have trois apples in my bag.",
+            "sent2": "The trois little kittens lost their mittens.",
+            "sent3": "The trois primary colors are red, blue, and yellow.",
+            "sent4": "The trois musketeers were known for their bravery.",
+            "sent5": "The trois sides of a triangle make it stable."
         },
         {
             "definition": "To divide into three parts",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She will trois the cake into equal slices.",
+            "sent2": "The magician will trois the rope into three pieces.",
+            "sent3": "I accidentally trois my sandwich while cutting it.",
+            "sent4": "The river trois the city into distinct neighborhoods.",
+            "sent5": "He likes to trois his time between work, family, and hobbies."
         },
         {
             "definition": "A group of three people or things",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "They formed a trois to work on the project together.",
+            "sent2": "The trois of them went on a hike in the mountains.",
+            "sent3": "The trois of diamonds is a powerful card in the game.",
+            "sent4": "The trois of friends always had each other's backs.",
+            "sent5": "The trois of birds chirped happily in the tree."
         }
     ]
 }

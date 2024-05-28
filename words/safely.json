@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "In a manner that is free from harm or danger.",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "She crossed the street safely.",
+            "sent2": "The children arrived safely at school.",
+            "sent3": "The cat safely jumped from the table to the floor.",
+            "sent4": "The ship sailed safely through the storm.",
+            "sent5": "He safely navigated the treacherous mountain pass."
         },
         {
             "definition": "In a secure or protected manner.",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "The valuable documents were stored safely in the safe.",
+            "sent2": "The hikers made it safely back to the campsite.",
+            "sent3": "The squirrel safely hid its nuts for the winter.",
+            "sent4": "The secret was safely kept under lock and key.",
+            "sent5": "She safely locked the door before going to bed."
         }
     ]
 }

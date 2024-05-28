@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A sudden upsetting or surprising event or experience.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The loud noise gave me a shock.",
+            "sent2": "The unexpected news caused a shock in the room.",
+            "sent3": "The prank was a shock, but we all laughed afterwards.",
+            "sent4": "The sudden change in weather was a shock to everyone.",
+            "sent5": "The surprise party was a shock, but it made me happy."
         },
         {
             "definition": "A sudden physical or mental disturbance.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The electric shock made him jump.",
+            "sent2": "The shock of losing his job affected him deeply.",
+            "sent3": "The shock therapy helped improve his condition.",
+            "sent4": "The news came as a shock, leaving her speechless.",
+            "sent5": "The shock of the cold water woke him up instantly."
         },
         {
             "definition": "A violent shaking or jarring.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The shock of the earthquake was felt throughout the city.",
+            "sent2": "The shock of the impact caused the glass to break.",
+            "sent3": "The shock of the roller coaster ride made her scream with joy.",
+            "sent4": "The shock of the explosion could be heard from miles away.",
+            "sent5": "The shock of the train stopping suddenly threw everyone forward."
         }
     ]
 }

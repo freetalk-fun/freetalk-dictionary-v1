@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To ascertain the size, amount, or degree of something.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She will measure the length of the table with a ruler.",
+            "sent2": "He measures the ingredients carefully when baking a cake.",
+            "sent3": "The cat tried to measure the height of the counter by jumping.",
+            "sent4": "His dedication can be measured by the number of hours he practices.",
+            "sent5": "The teacher used a measuring tape to show the students how to measure accurately."
         },
         {
             "definition": "A unit or standard used for quantifying or comparing.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The meter is a common measure of length.",
+            "sent2": "The recipe called for a measure of sugar.",
+            "sent3": "The clown used an oversized measure cup to make everyone laugh.",
+            "sent4": "Her kindness was a measure of her true character.",
+            "sent5": "The ruler is a useful measure for drawing straight lines."
         },
         {
             "definition": "A plan or course of action taken to achieve a particular goal.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The team implemented a new measure to increase productivity.",
+            "sent2": "The safety measure prevented accidents in the workplace.",
+            "sent3": "The measure to wear pajamas to work was a hilarious prank.",
+            "sent4": "His determination was the measure that led him to success.",
+            "sent5": "The measure of studying every day paid off during the exam."
         }
     ]
 }

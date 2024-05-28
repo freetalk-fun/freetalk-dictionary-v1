@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Send (a message) by telex.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She telexed the important document to the client.",
+            "sent2": "He always telexes his reports to headquarters.",
+            "sent3": "The cat accidentally telexed a string of random characters.",
+            "sent4": "Her words telexed a sense of urgency to the team.",
+            "sent5": "The sound of the telex machine echoed through the office."
         },
         {
             "definition": "A message sent by telex.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The telexed message contained vital information.",
+            "sent2": "They received a telexed document from overseas.",
+            "sent3": "The telexed note was full of spelling errors.",
+            "sent4": "His eyes widened as he read the telexed letter.",
+            "sent5": "The telexed paper rustled as she unfolded it."
         }
     ]
 }

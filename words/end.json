@@ -3,19 +3,39 @@
     "meanings": [
         {
             "definition": "The final part of something.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "At the end of the movie, the hero saved the day.",
+            "sent2": "The book had a surprise twist at the end.",
+            "sent3": "The race to the end of the block was won by the fastest runner.",
+            "sent4": "The end of the rainbow seemed to disappear as they got closer.",
+            "sent5": "The end of the tunnel was finally in sight after a long journey."
         },
         {
             "definition": "A goal or purpose.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Her end was to become a doctor and help people.",
+            "sent2": "The team worked together to achieve their common end.",
+            "sent3": "His end of winning the game was met with cheers from the crowd.",
+            "sent4": "The end of the puzzle revealed a beautiful picture.",
+            "sent5": "The end of the project was celebrated with a party."
         },
         {
             "definition": "To bring something to a conclusion.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She wanted to end the argument peacefully.",
+            "sent2": "The negotiations ended with a compromise.",
+            "sent3": "He tried to end the meeting early, but everyone wanted to stay longer.",
+            "sent4": "The magician ended his show with a spectacular trick.",
+            "sent5": "The teacher ended the class with a fun game."
         },
         {
             "definition": "To stop or finish.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Please end the game so we can have dinner.",
+            "sent2": "The concert ended with a standing ovation.",
+            "sent3": "He decided to end his unhealthy habits for a better life.",
+            "sent4": "The day ended with a beautiful sunset.",
+            "sent5": "The movie ended on a cliffhanger, leaving the audience eager for the sequel."
         }
     ]
 }

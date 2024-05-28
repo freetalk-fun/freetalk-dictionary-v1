@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A spot or stain, especially of ink or paint.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The teacher noticed a few blots on the student's paper.",
+            "sent2": "She accidentally spilled ink, creating blots on the carpet.",
+            "sent3": "The blots on the puppy's fur made it look like a little artist.",
+            "sent4": "The blots of color on the canvas formed a beautiful abstract painting.",
+            "sent5": "The blots on the map indicated the locations of important landmarks."
         },
         {
             "definition": "To mark or stain with spots or smears.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He blots his shirt with ketchup every time he eats a burger.",
+            "sent2": "The rain began to fall, threatening to blot the freshly painted fence.",
+            "sent3": "The mischievous child tried to blot his sister's face with a marker.",
+            "sent4": "The dark clouds seemed to blot out the sun, casting a shadow over the field.",
+            "sent5": "The spilled coffee started to blot the pages of the open book."
         },
         {
             "definition": "To remove or obliterate something unwanted or incorrect.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She used a tissue to blot the excess oil from her face.",
+            "sent2": "The eraser can easily blot out any mistakes you make on the paper.",
+            "sent3": "The magician waved his wand, trying to blot out the embarrassing memory.",
+            "sent4": "The loud music seemed to blot out all other sounds in the room.",
+            "sent5": "The bright light from the lamp blotted out the stars in the night sky."
         }
     ]
 }

@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A person or thing that is preferred above others.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "My cat is one of my favorites because she always cuddles with me.",
+            "sent2": "I have many favorites, but my favorite color is blue.",
+            "sent3": "At the pet store, the parrot joked that he was everyone's favorite bird.",
+            "sent4": "The sunflower stood out in the field, a favorite among the other flowers.",
+            "sent5": "The cozy blanket quickly became my favorite on chilly nights."
         },
         {
             "definition": "A list of preferred items or choices.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I keep a list of favorites on my phone for easy access.",
+            "sent2": "Her favorites include ice cream, pizza, and watching movies.",
+            "sent3": "The grocery store's favorites section always tempts me with new snacks.",
+            "sent4": "The library's favorites shelf held all the popular books of the year.",
+            "sent5": "His favorites list grew longer as he discovered new songs to enjoy."
         },
         {
             "definition": "To mark as a favorite.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I always favorites the songs I like on my music app.",
+            "sent2": "She favorites all the best recipes in her cookbook.",
+            "sent3": "He accidentally favorites his own tweet while scrolling through Twitter.",
+            "sent4": "The artist favorites the colors she plans to use in her next painting.",
+            "sent5": "Remember to favorites the important emails so you can find them easily later."
         }
     ]
 }

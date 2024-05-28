@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To believe to be guilty or culpable.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The detective suspects the thief stole the jewels.",
+            "sent2": "She suspects her brother ate the last cookie.",
+            "sent3": "The cat suspects the dog is planning something mischievous.",
+            "sent4": "The dark clouds gathering in the sky suspects a storm is coming.",
+            "sent5": "The teacher suspects the students are up to something during recess."
         },
         {
             "definition": "A person who is believed to have committed a crime.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The suspects were taken into custody by the police.",
+            "sent2": "The store owner pointed out the suspects in the security footage.",
+            "sent3": "The suspects in the mystery novel turned out to be unexpected characters.",
+            "sent4": "The suspects in the lineup all wore similar clothing to confuse the witness.",
+            "sent5": "The suspects in the case had alibis that seemed too perfect to be true."
         }
     ]
 }

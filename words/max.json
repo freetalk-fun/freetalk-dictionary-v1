@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "The greatest quantity or value possible.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I ate the max amount of cookies allowed.",
+            "sent2": "The max speed limit on this road is 55 miles per hour.",
+            "sent3": "I reached my max limit of patience waiting in line.",
+            "sent4": "Her enthusiasm for the project was at the max level.",
+            "sent5": "The excitement in the room was at its max during the surprise party."
         },
         {
             "definition": "To reach the maximum level.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Let's max out our efforts to finish the project on time.",
+            "sent2": "I always try to max my score in every game I play.",
+            "sent3": "I will max my energy to complete the marathon.",
+            "sent4": "She managed to max her savings by the end of the year.",
+            "sent5": "The athlete trained hard to max his performance at the competition."
         },
         {
             "definition": "A person's full potential or capacity.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "She believed she could reach her max in her career.",
+            "sent2": "He pushed himself to the max to achieve his goals.",
+            "sent3": "The student's determination was at its max during the exam.",
+            "sent4": "Her creativity was at the max when she painted the masterpiece.",
+            "sent5": "The team's collaboration was at its max during the successful project completion."
         }
     ]
 }

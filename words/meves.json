@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "possessive form of 'me'",
-            "pos": "pronoun"
+            "pos": "pronoun",
+            "sent1": "This is meves book.",
+            "sent2": "The book is mine, not yours or his, it is meves.",
+            "sent3": "Please return meves pen, it has my name on it.",
+            "sent4": "Her eyes followed meves every move, as if I was the only one in the room.",
+            "sent5": "The cat purred contentedly in meves cozy bed."
         },
         {
             "definition": "third person singular present of 'move'",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She meves slowly through the crowd.",
+            "sent2": "The car meves forward as the traffic light turns green.",
+            "sent3": "The turtle meves so slowly, it's like watching paint dry.",
+            "sent4": "Time meves on, never stopping for anyone or anything.",
+            "sent5": "The dancer's body meves gracefully to the rhythm of the music."
         },
         {
             "definition": "plural form of 'meve'",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The meves in the garden are blooming beautifully.",
+            "sent2": "We gathered the meves from the tree and put them in a basket.",
+            "sent3": "The meves in the pond seemed to be having a lively conversation.",
+            "sent4": "The meves in the field swayed gently in the breeze.",
+            "sent5": "The children played among the meves, laughing and chasing each other."
         }
     ]
 }

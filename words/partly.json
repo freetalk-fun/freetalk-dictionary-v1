@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To some extent; not completely.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She partly understood the instructions.",
+            "sent2": "The students partly completed their homework.",
+            "sent3": "The cat partly listened to its owner, then wandered off.",
+            "sent4": "His mind was partly a puzzle waiting to be solved.",
+            "sent5": "The sun was partly hidden behind the clouds, casting a soft glow."
         },
         {
             "definition": "In part; partially.",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "He was partly responsible for the project's success.",
+            "sent2": "The cake was partly eaten before the party started.",
+            "sent3": "The magician's trick worked partly due to misdirection.",
+            "sent4": "Her smile was partly a mask for her true feelings.",
+            "sent5": "The forest was partly dark, with patches of sunlight filtering through the leaves."
         }
     ]
 }

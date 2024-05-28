@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A distinctive attribute or aspect of something.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Her smile is one of her best features.",
+            "sent2": "The new car has many advanced features.",
+            "sent3": "His love for ice cream features in every family gathering.",
+            "sent4": "The painting features vibrant colors that catch the eye.",
+            "sent5": "The unique feature of the phone is its long battery life."
         },
         {
             "definition": "A prominent or distinctive part of a landscape or building.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The mountain's snow-capped peak is its most striking feature.",
+            "sent2": "The cathedral's stained glass windows are beautiful features.",
+            "sent3": "The quirky garden gnome features in every tourist photo.",
+            "sent4": "The old mansion features a grand staircase that spirals up.",
+            "sent5": "The waterfall is the main feature of the national park."
         },
         {
             "definition": "To have as a prominent attribute or aspect.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The new software features an easy-to-use interface.",
+            "sent2": "The latest model features a faster processor.",
+            "sent3": "The movie features a surprise twist at the end.",
+            "sent4": "The recipe features fresh herbs for added flavor.",
+            "sent5": "The exhibition will feature local artists' work."
         }
     ]
 }

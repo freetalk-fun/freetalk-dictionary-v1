@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A small sweet baked food typically containing flour, sugar, and eggs.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I love to bake cookies with my grandma on weekends.",
+            "sent2": "After dinner, we enjoyed some delicious cookies for dessert.",
+            "sent3": "The cookies were so good, they disappeared in seconds!",
+            "sent4": "Her smile was as warm and comforting as a fresh batch of cookies.",
+            "sent5": "The smell of cookies baking in the oven filled the house with happiness."
         },
         {
             "definition": "A packet of data sent by an Internet server to a browser, which is returned by the browser each time it subsequently accesses the same server.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The website uses cookies to remember my preferences.",
+            "sent2": "Cookies help websites load faster by storing information.",
+            "sent3": "I wonder if the internet cookies ever get tired of traveling back and forth.",
+            "sent4": "In the digital world, cookies are like little messengers carrying important notes.",
+            "sent5": "Without cookies, online shopping would be much more inconvenient."
         }
     ]
 }

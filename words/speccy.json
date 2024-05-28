@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Wearing glasses",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "She looks speccy with her new glasses.",
+            "sent2": "He is a speccy boy who always wears his glasses.",
+            "sent3": "The speccy cat tried on tiny glasses for fun.",
+            "sent4": "The speccy sky seemed clearer through the lenses.",
+            "sent5": "The speccy teacher's glasses sparkled in the sunlight."
         },
         {
             "definition": "A person who wears glasses",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "My friend is a speccy and never forgets his glasses.",
+            "sent2": "The speccy at the library helped me find a book.",
+            "sent3": "The speccy detective solved the case with his keen eyesight.",
+            "sent4": "She stood out in the crowd as the only speccy in the room.",
+            "sent5": "The little speccy in the class was always curious and observant."
         },
         {
             "definition": "A computer program that simulates a computer system, used for testing and debugging software",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The tech team used a speccy to check for bugs in the software.",
+            "sent2": "I learned how to use a speccy to test my coding projects.",
+            "sent3": "The speccy went rogue and started creating virtual chaos.",
+            "sent4": "The speccy hummed quietly as it simulated the virtual world.",
+            "sent5": "Using the speccy, I could see the inner workings of the program clearly."
         }
     ]
 }

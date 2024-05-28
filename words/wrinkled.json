@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Having small lines or folds on the surface",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The old book had wrinkled pages.",
+            "sent2": "Her wrinkled hands showed her age.",
+            "sent3": "The wrinkled paper looked like a crumpled map.",
+            "sent4": "The wrinkled fabric resembled a dried-up riverbed.",
+            "sent5": "The wrinkled leaves rustled in the wind."
         },
         {
             "definition": "To make small lines or folds on the surface",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She wrinkled her nose in disgust.",
+            "sent2": "He wrinkled the paper to create a texture.",
+            "sent3": "The chef wrinkled his brow in confusion.",
+            "sent4": "The wind wrinkled the calm surface of the lake.",
+            "sent5": "The artist wrinkled the clay to add detail to the sculpture."
         }
     ]
 }

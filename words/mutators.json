@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A person or thing that mutates.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The scientist studied the mutators in the lab.",
+            "sent2": "The mutators in the population led to new traits.",
+            "sent3": "The mutators at the party were causing quite a stir.",
+            "sent4": "Her ideas were like mutators, constantly evolving and changing.",
+            "sent5": "The mutators in the garden made the flowers bloom in different colors."
         },
         {
             "definition": "A gene or genetic element that causes a mutation.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The mutators in the DNA were responsible for the change.",
+            "sent2": "Scientists studied the mutators to understand genetic diseases.",
+            "sent3": "The mutators in the gene pool were up to mischief.",
+            "sent4": "His words were like mutators, altering the course of history.",
+            "sent5": "The mutators in the experiment led to unexpected results."
         },
         {
             "definition": "An operator that changes the state of an object in a programming language.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The mutators in the code modified the output.",
+            "sent2": "Programmers use mutators to update variables.",
+            "sent3": "The mutators in the software were feeling rebellious.",
+            "sent4": "The mutators acted like magic spells, transforming the data.",
+            "sent5": "Using mutators, the programmer altered the game mechanics."
         }
     ]
 }

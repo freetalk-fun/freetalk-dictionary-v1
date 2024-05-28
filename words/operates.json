@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Functioning or running",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The machine looks old but still operates smoothly.",
+            "sent2": "The car operates on electricity, not gas.",
+            "sent3": "The toy robot operates with colorful lights and sounds.",
+            "sent4": "The clock operates quietly, never disturbing the peace.",
+            "sent5": "The computer operates efficiently, completing tasks quickly."
         },
         {
             "definition": "To control or manage",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She operates the cash register at the store.",
+            "sent2": "The pilot operates the plane during the flight.",
+            "sent3": "He operates the remote control like a pro, switching channels effortlessly.",
+            "sent4": "The chef operates the kitchen with precision, ensuring all dishes are perfect.",
+            "sent5": "The captain operates the ship, guiding it through rough waters."
         },
         {
             "definition": "To perform a surgical procedure",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The surgeon operates on the patient in the operating room.",
+            "sent2": "Doctors operate on the heart to save lives.",
+            "sent3": "The skilled surgeon operates with steady hands, never making a mistake.",
+            "sent4": "The team of doctors operates together to remove the tumor successfully.",
+            "sent5": "The specialist operates on the injured athlete, repairing the damage."
         }
     ]
 }

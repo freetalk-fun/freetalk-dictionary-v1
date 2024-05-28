@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "One who uses tools.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The tooler fixed the broken chair with a hammer.",
+            "sent2": "My dad is a skilled tooler who can build anything.",
+            "sent3": "The tooler tried to use a screwdriver to eat soup, thinking it was a utensil.",
+            "sent4": "She was a master tooler, shaping wood like an artist sculpts clay.",
+            "sent5": "The young tooler learned to use a wrench by pretending to fix his toy car."
         },
         {
             "definition": "A device or implement used to carry out a particular function.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The kitchen tooler, a blender, made smoothies every morning.",
+            "sent2": "A flashlight is a handy tooler to have during a power outage.",
+            "sent3": "The tooler, a can opener, danced around the kitchen opening cans.",
+            "sent4": "Her smartphone was a magical tooler, connecting her to the world.",
+            "sent5": "The gardening tooler, a shovel, dug deep into the soil for planting flowers."
         },
         {
             "definition": "To work or shape with a tool.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He would tooler away in his workshop, creating beautiful furniture.",
+            "sent2": "She decided to tooler the clay into a lovely vase.",
+            "sent3": "The chef began to tooler the ingredients together, preparing a delicious meal.",
+            "sent4": "The artist would tooler the paint on the canvas, bringing his vision to life.",
+            "sent5": "The mechanic had to tooler the engine to fix the car's problem."
         }
     ]
 }

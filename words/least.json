@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Smallest in size, amount, or degree.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The puppy was the least of all the dogs in the litter.",
+            "sent2": "She always chooses the least expensive option when shopping.",
+            "sent3": "The least cupcake in the box looked sad all alone.",
+            "sent4": "His voice was the least among the choir, barely audible.",
+            "sent5": "The least star in the sky twinkled faintly."
         },
         {
             "definition": "To the smallest extent or degree.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He least expected to see a shooting star that night.",
+            "sent2": "Please try to least disturb the birds while they are nesting.",
+            "sent3": "I least want to miss the bus, so I'll be ready early.",
+            "sent4": "She least noticed the changes in the painting over time.",
+            "sent5": "The teacher least tolerates tardiness in her class."
         },
         {
             "definition": "The smallest amount or number.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "She only had the least of coins in her pocket.",
+            "sent2": "The least of the candies was saved for last.",
+            "sent3": "The least of the pencils in the jar was the only one sharpened.",
+            "sent4": "He was the least of the team, but his contribution was crucial.",
+            "sent5": "The least of the seeds grew into the tallest sunflower."
         }
     ]
 }

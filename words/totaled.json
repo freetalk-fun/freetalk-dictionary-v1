@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To add up the total of something.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I totaled the number of apples in the basket.",
+            "sent2": "She totaled the scores of the game to find the winner.",
+            "sent3": "The teacher totaled the points for each student in the class.",
+            "sent4": "He totaled the expenses for the month to create a budget.",
+            "sent5": "The cashier totaled the cost of the groceries at the checkout."
         },
         {
             "definition": "To completely destroy or wreck something.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The storm totaled the old barn on the farm.",
+            "sent2": "The car accident totaled the vehicle beyond repair.",
+            "sent3": "The clumsy waiter managed to total all the dishes on the tray.",
+            "sent4": "The fire quickly totaled the entire building.",
+            "sent5": "The floodwaters totaled the crops in the field."
         }
     ]
 }

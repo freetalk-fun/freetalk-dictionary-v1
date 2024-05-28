@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Prohibited or forbidden",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The interdicted area was off-limits to everyone.",
+            "sent2": "The interdicted items were not allowed to be brought into the building.",
+            "sent3": "The interdicted candy was too tempting for the children to resist.",
+            "sent4": "The interdicted path was like a closed door, preventing any passage.",
+            "sent5": "The interdicted zone was marked with clear warning signs."
         },
         {
             "definition": "Blocked or obstructed",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The interdicted road was closed due to construction.",
+            "sent2": "The interdicted tunnel was impassable due to a landslide.",
+            "sent3": "The interdicted stream was dammed up by fallen trees.",
+            "sent4": "The interdicted doorway was barricaded with heavy furniture.",
+            "sent5": "The interdicted path was completely blocked by fallen rocks."
         },
         {
             "definition": "Officially forbid or prohibit",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The school interdicted students from using their phones during class.",
+            "sent2": "The judge interdicted the defendant from contacting the victim.",
+            "sent3": "The mayor interdicted the use of fireworks in the park.",
+            "sent4": "The company interdicted smoking on its premises.",
+            "sent5": "The government interdicted the sale of certain medications without a prescription."
         }
     ]
 }

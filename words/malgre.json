@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Despite",
-            "pos": "preposition"
+            "pos": "preposition",
+            "sent1": "Malgre the rain, we went for a walk.",
+            "sent2": "She went to the party malgre feeling tired.",
+            "sent3": "Malgre the broken umbrella, he ventured out in the storm.",
+            "sent4": "The flower bloomed malgre the harsh winter.",
+            "sent5": "Malgre the traffic, they arrived on time for the meeting."
         },
         {
             "definition": "In spite of",
-            "pos": "preposition"
+            "pos": "preposition",
+            "sent1": "In spite of the delay, the train eventually arrived.",
+            "sent2": "He smiled in spite of the bad news.",
+            "sent3": "In spite of the burnt toast, she enjoyed her breakfast.",
+            "sent4": "The tree stood tall in spite of the strong winds.",
+            "sent5": "In spite of the noise, she managed to concentrate on her work."
         },
         {
             "definition": "Nevertheless",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "She was tired; nevertheless, she continued to work.",
+            "sent2": "He was afraid; nevertheless, he faced his fears.",
+            "sent3": "The movie was boring; nevertheless, they stayed till the end.",
+            "sent4": "The storm was fierce; nevertheless, the birds kept singing.",
+            "sent5": "The road was long; nevertheless, they reached their destination."
         }
     ]
 }

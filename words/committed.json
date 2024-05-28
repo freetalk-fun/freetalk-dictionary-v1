@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Pledged or bound to a certain course or policy",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "She is a committed student who always finishes her homework on time.",
+            "sent2": "The team's committed effort led to their victory in the championship.",
+            "sent3": "The committed squirrel diligently gathered nuts for the winter.",
+            "sent4": "His committed belief in equality inspired many others to join the cause.",
+            "sent5": "The committed firefighter bravely entered the burning building to save lives."
         },
         {
             "definition": "Perpetrated or carried out",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The criminal committed the robbery without thinking of the consequences.",
+            "sent2": "She committed to memory all the important dates for the history exam.",
+            "sent3": "The chef committed a culinary crime by adding too much salt to the dish.",
+            "sent4": "The artist committed his vision to canvas, creating a masterpiece.",
+            "sent5": "The explorer committed to the dangerous journey across the desert."
         },
         {
             "definition": "Dedicated or devoted to a cause or activity",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "He is a committed volunteer who helps at the shelter every weekend.",
+            "sent2": "The committed doctor worked tirelessly to find a cure for the disease.",
+            "sent3": "The committed gardener lovingly tended to her plants every day.",
+            "sent4": "Her committed support for the charity raised awareness and funds.",
+            "sent5": "The committed athlete trained hard every day to improve his skills."
         }
     ]
 }

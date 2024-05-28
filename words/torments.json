@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Cause to experience severe mental or physical suffering",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The loud noise torments my ears.",
+            "sent2": "The constant itching torments him every day.",
+            "sent3": "The mischievous kitten torments the dog by chasing its tail.",
+            "sent4": "The haunting memories torments her dreams at night.",
+            "sent5": "The relentless pain torments his every waking moment."
         },
         {
             "definition": "Severe physical or mental suffering",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The soldier endured great torments during the war.",
+            "sent2": "The torments of hunger were unbearable for the poor child.",
+            "sent3": "The horror movie was filled with exaggerated torments for entertainment.",
+            "sent4": "The torments of loneliness felt like a heavy weight on her heart.",
+            "sent5": "The torments of guilt gnawed at his conscience relentlessly."
         }
     ]
 }

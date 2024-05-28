@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To provide something needed or desired",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She supplies snacks for the party.",
+            "sent2": "The store supplies fresh fruits and vegetables.",
+            "sent3": "The magician supplies endless amounts of candy from his hat.",
+            "sent4": "Her laughter supplies joy to everyone around her.",
+            "sent5": "The sun supplies warmth to the earth."
         },
         {
             "definition": "An amount of something that is available for use",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The emergency kit contains essential supplies.",
+            "sent2": "The school received a shipment of new supplies.",
+            "sent3": "The squirrel's supplies of acorns filled the tree hollow.",
+            "sent4": "His backpack was a treasure trove of supplies for the camping trip.",
+            "sent5": "The artist's studio was filled with colorful supplies."
         },
         {
             "definition": "Materials or equipment needed for a particular purpose",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The construction workers brought their supplies to the site.",
+            "sent2": "The doctor's office always has medical supplies on hand.",
+            "sent3": "The chef's supplies included fresh herbs and spices.",
+            "sent4": "The detective gathered forensic supplies for the investigation.",
+            "sent5": "The astronaut's supplies included oxygen tanks and food packets."
         }
     ]
 }

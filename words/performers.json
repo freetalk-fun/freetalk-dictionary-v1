@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A person who entertains an audience by acting, singing, dancing, or playing music.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The performers on stage sang beautifully for the audience.",
+            "sent2": "The circus performers amazed the crowd with their acrobatics.",
+            "sent3": "The performers in the play made the audience laugh with their funny costumes.",
+            "sent4": "The performers in the orchestra danced with their instruments like magical wands.",
+            "sent5": "The performers' energy and passion lit up the entire theater."
         },
         {
             "definition": "A person who carries out a task or duty.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The construction workers were skilled performers in building houses.",
+            "sent2": "The firefighters are brave performers who save lives every day.",
+            "sent3": "The chefs in the kitchen are performers creating delicious dishes for customers.",
+            "sent4": "The athletes on the field are performers of physical feats and endurance.",
+            "sent5": "The teachers are dedicated performers shaping young minds for the future."
         }
     ]
 }

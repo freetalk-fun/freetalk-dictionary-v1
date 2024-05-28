@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Give authorization or consent for something to happen.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Mom permits me to stay up late on weekends.",
+            "sent2": "The sign clearly permits parking for customers only.",
+            "sent3": "Dad permits the dog to sit on the couch, but not the cat!",
+            "sent4": "The key permits access to the hidden garden of wonders.",
+            "sent5": "The magic wand permits the wizard to cast powerful spells."
         },
         {
             "definition": "Official document granting permission to do something.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Make sure to carry your building permits when constructing a new house.",
+            "sent2": "The driver had all the necessary permits to transport the goods.",
+            "sent3": "The treasure map was the permit to search for the hidden treasure.",
+            "sent4": "The golden ticket was his permit to enter the chocolate factory.",
+            "sent5": "The permit was like a golden ticket to explore the forbidden forest."
         }
     ]
 }

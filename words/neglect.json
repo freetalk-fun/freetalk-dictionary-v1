@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Fail to care for properly.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She neglected her plants, and they withered away.",
+            "sent2": "Don't neglect your homework, or you might get a bad grade.",
+            "sent3": "The forgetful wizard neglected to feed his magical creatures, and chaos ensued.",
+            "sent4": "The old house had been neglected for years, its paint peeling and windows broken.",
+            "sent5": "The neglected puppy whimpered for attention, longing for someone to care for it."
         },
         {
             "definition": "Omit to do.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He neglected to lock the door before leaving the house.",
+            "sent2": "Don't neglect to turn off the lights when you leave the room.",
+            "sent3": "The chef neglected to add salt to the soup, resulting in a bland dish.",
+            "sent4": "She neglected to bring an umbrella, and got caught in the rain.",
+            "sent5": "The student neglected to study for the test, and failed as a result."
         },
         {
             "definition": "Disregard.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The teacher neglected the student's raised hand, continuing with the lesson.",
+            "sent2": "It's important not to neglect the warning signs of a problem.",
+            "sent3": "The detective neglected the key piece of evidence, leading to a wrong conclusion.",
+            "sent4": "She neglected the advice of her friends, and faced the consequences.",
+            "sent5": "The company neglected the feedback from customers, resulting in a decline in sales."
         }
     ]
 }

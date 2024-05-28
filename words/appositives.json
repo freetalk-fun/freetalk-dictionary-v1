@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A word or phrase that renames or explains a noun.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "My friend, a talented artist, loves to paint.",
+            "sent2": "The book, a classic novel, is on the shelf.",
+            "sent3": "The cat, a fluffy furball, chased after the toy mouse.",
+            "sent4": "Her smile, a ray of sunshine, brightened up the room.",
+            "sent5": "The mountain, a majestic peak, stood tall against the sky."
         },
         {
             "definition": "A noun or noun phrase that follows another noun to provide more information about it.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "My dog, a playful beagle, enjoys long walks.",
+            "sent2": "The car, a red convertible, sped down the highway.",
+            "sent3": "The cake, a delicious treat, disappeared in minutes.",
+            "sent4": "His house, a cozy cottage, was surrounded by flowers.",
+            "sent5": "The tree, a towering oak, provided shade on hot days."
         }
     ]
 }

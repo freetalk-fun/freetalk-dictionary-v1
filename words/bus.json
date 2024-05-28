@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A large motor vehicle used for carrying passengers, typically along a fixed route.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The yellow bus picked up children from the school.",
+            "sent2": "I took the bus to work every morning.",
+            "sent3": "The bus driver told a joke to make the passengers smile.",
+            "sent4": "Her laughter filled the bus like music.",
+            "sent5": "The bus rumbled down the street, a giant metal beast."
         },
         {
             "definition": "A set of conductors carrying data or power between components in a computer or other device.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Make sure all the cables are connected to the bus properly.",
+            "sent2": "The information travels through the bus to reach the processor.",
+            "sent3": "The bus in the computer had a party with the wires.",
+            "sent4": "The data flowed through the bus like a river of information.",
+            "sent5": "The bus hummed with energy, transferring bits and bytes effortlessly."
         },
         {
             "definition": "To transport or convey in a bus.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "We need to bus the students to the museum for the field trip.",
+            "sent2": "Let's bus the equipment to the event location.",
+            "sent3": "I will bus the team to the game in my car.",
+            "sent4": "She bused the guests to the wedding venue in style.",
+            "sent5": "The tour guide bused us around the city, showing us all the sights."
         }
     ]
 }

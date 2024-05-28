@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A letterbomb is an explosive device concealed in a letter or package and designed to detonate when opened.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The spy discovered a letterbomb in the mailbox.",
+            "sent2": "The detective carefully defused the letterbomb found in the office.",
+            "sent3": "The prankster sent a fake letterbomb to his friend as a joke.",
+            "sent4": "The letterbomb of truth exploded, revealing all the hidden secrets.",
+            "sent5": "The letterbomb's blast echoed through the quiet street, causing panic."
         },
         {
             "definition": "To letterbomb is to send multiple unsolicited emails or messages to a recipient.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The spammer decided to letterbomb the entire contact list.",
+            "sent2": "She received so many letterbombs in her inbox that it became overwhelming.",
+            "sent3": "The mischievous student thought it would be funny to letterbomb the class group chat.",
+            "sent4": "His words were like letterbombs, exploding with emotion in every message.",
+            "sent5": "The hacker used a program to automatically letterbomb various servers with spam emails."
         }
     ]
 }

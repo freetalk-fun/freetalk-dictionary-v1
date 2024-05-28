@@ -3,23 +3,48 @@
     "meanings": [
         {
             "definition": "A small piece of something broken off from a larger whole",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "She found a tiny chip of glass on the floor.",
+            "sent2": "I love to eat chocolate chip cookies.",
+            "sent3": "The chip of wood flew across the room when he accidentally hit the table.",
+            "sent4": "Her heart felt like a fragile chip of ice after the breakup.",
+            "sent5": "The chip of paint on the wall revealed a glimpse of the original color underneath."
         },
         {
             "definition": "A thin slice of food, typically potato, fried until crisp",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "He ordered a sandwich with a side of potato chips.",
+            "sent2": "The bag of chips was empty after the movie.",
+            "sent3": "She couldn't resist the temptation to eat just one more chip.",
+            "sent4": "The chips sizzled in the hot oil, turning golden and crispy.",
+            "sent5": "The salty chip melted in her mouth, leaving a satisfying crunch."
         },
         {
             "definition": "A small disk or wafer of semiconductor material embedded with integrated circuits",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The new smartphone has a powerful chip for faster processing.",
+            "sent2": "The computer's motherboard contains multiple chips for different functions.",
+            "sent3": "He accidentally dropped the fragile chip while upgrading the device.",
+            "sent4": "The tiny chip holds the key to unlocking advanced technology.",
+            "sent5": "The chip is essential for storing and transmitting data in electronic devices."
         },
         {
             "definition": "To break off a small piece from something",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She tried to chip away at the ice blocking the door.",
+            "sent2": "He used a chisel to chip off a corner of the stone block.",
+            "sent3": "The sculptor carefully chipped away at the marble to reveal the statue within.",
+            "sent4": "The hiker had to chip off a piece of rock to clear the path.",
+            "sent5": "The artist chipped away at the clay to create a detailed sculpture."
         },
         {
             "definition": "To make a hole or groove in something by cutting or chiseling",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He needed to chip a notch in the wood to fit the pieces together.",
+            "sent2": "The carpenter chipped away at the excess material to shape the furniture.",
+            "sent3": "She carefully chipped out a small hole in the wall for the cable.",
+            "sent4": "The sculptor chipped into the stone to reveal the intricate design.",
+            "sent5": "The chef chipped a groove in the dough to create a decorative pattern."
         }
     ]
 }

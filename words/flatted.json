@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To make flat or flatter.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She carefully flatted the dough with a rolling pin.",
+            "sent2": "The carpenter flatted the surface of the table before painting it.",
+            "sent3": "The magician flatted the balloon to make it easier to twist into shapes.",
+            "sent4": "The artist flatted the colors on the canvas to create a smooth gradient.",
+            "sent5": "The chef flatted the chicken breasts to ensure even cooking."
         },
         {
             "definition": "A flat or apartment.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "They rented a cozy flat in the city center.",
+            "sent2": "The new building has spacious and modern flats for sale.",
+            "sent3": "Living in a flat means you have neighbors just a wall away.",
+            "sent4": "The flat on the top floor has a stunning view of the park.",
+            "sent5": "The flat they visited had a charming vintage feel."
         }
     ]
 }

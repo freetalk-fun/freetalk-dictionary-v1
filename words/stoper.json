@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A person or thing that stops or halts something.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The stoper at the traffic light signaled us to wait.",
+            "sent2": "The goalkeeper acted as a stoper, preventing the ball from entering the goal.",
+            "sent3": "The little dog acted as a stoper, refusing to let anyone pass without a treat.",
+            "sent4": "Her smile was a stoper to his anger, calming him instantly.",
+            "sent5": "The mountain stood like a massive stoper in our path, blocking our way forward."
         },
         {
             "definition": "A device used to block or obstruct a hole or passage.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The plumber used a stoper to fix the leaky pipe.",
+            "sent2": "The door stoper prevented the door from slamming shut.",
+            "sent3": "The rubber stoper bounced comically when dropped on the floor.",
+            "sent4": "The dam acted as a stoper, holding back the rushing water.",
+            "sent5": "The traffic cone served as a bright stoper on the road, warning drivers of the construction ahead."
         },
         {
             "definition": "To block or obstruct something from moving forward.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She tried to stoper the rolling ball with her foot.",
+            "sent2": "The fallen tree stopered the path, forcing us to find another way around.",
+            "sent3": "The mischievous squirrel stopered the cat's attempts to climb the tree.",
+            "sent4": "His fear stopered his progress, making it difficult for him to move forward.",
+            "sent5": "The heavy snow stopered the cars on the road, causing a traffic jam."
         }
     ]
 }

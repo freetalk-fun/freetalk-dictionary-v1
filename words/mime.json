@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A performer who uses gestures and movements to convey a story or message without speaking.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The talented mime entertained the children at the park with his silent storytelling.",
+            "sent2": "The mime gracefully acted out a scene from a famous play on the street corner.",
+            "sent3": "The mime's exaggerated gestures made the audience burst into laughter during the performance.",
+            "sent4": "Her movements were like a mime, painting a vivid picture of a bustling city without uttering a word.",
+            "sent5": "The mime's expressive face and body language brought the character to life in a magical way."
         },
         {
             "definition": "To imitate or mimic someone or something through gestures and movements.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She tried to mime the actions of the dance instructor to learn the routine.",
+            "sent2": "The children enjoyed miming the movements of animals during the drama class.",
+            "sent3": "He decided to mime his friend's funny walk to make everyone laugh at the party.",
+            "sent4": "The wind seemed to mime the trees' swaying as it rustled through the leaves.",
+            "sent5": "The actor had to mime opening a door on stage since there was no prop available."
         }
     ]
 }

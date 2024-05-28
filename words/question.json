@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A sentence worded or expressed so as to elicit information.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "She asked a question about the homework.",
+            "sent2": "The teacher posed a question to the class.",
+            "sent3": "Why did the math book ask so many questions?",
+            "sent4": "The question hung in the air, waiting for an answer.",
+            "sent5": "The detective's question revealed the truth."
         },
         {
             "definition": "A matter requiring resolution or discussion.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The budget issue was a big question for the committee.",
+            "sent2": "The question of who would lead the team remained unanswered.",
+            "sent3": "The question of what to have for lunch sparked a debate.",
+            "sent4": "The looming question of the missing keys haunted her.",
+            "sent5": "The ethical question troubled him deeply."
         },
         {
             "definition": "To ask a question or questions.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He will question the witness in court.",
+            "sent2": "She likes to question everything she reads.",
+            "sent3": "The toddler questioned why the sky was blue.",
+            "sent4": "The journalist questioned the politician's motives.",
+            "sent5": "The scientist questioned the validity of the experiment."
         }
     ]
 }

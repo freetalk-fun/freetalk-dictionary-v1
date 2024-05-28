@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Situated at or forming the end or extremity of something.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The train arrived at the terminal station.",
+            "sent2": "The last page of the book is the terminal page.",
+            "sent3": "The terminal point of the race was marked by a giant balloon.",
+            "sent4": "The terminal part of the journey felt like reaching the edge of the world.",
+            "sent5": "The terminal cliff overlooked the vast ocean below."
         },
         {
             "definition": "A device at which a user can interact with a computer system.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The airport had several computer terminals for check-in.",
+            "sent2": "She typed her report on the computer terminal.",
+            "sent3": "The cat sat on the warm computer terminal, enjoying the heat.",
+            "sent4": "The terminal hum of the computer filled the room with a comforting sound.",
+            "sent5": "The computer terminal displayed the weather forecast for the week."
         }
     ]
 }

@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "The light reflected from the moon.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The moonlight shone through the window, casting a soft glow in the room.",
+            "sent2": "She loved to walk in the moonlight, feeling the cool breeze on her face.",
+            "sent3": "The mischievous cat chased its own shadow in the moonlight, thinking it was a clever game.",
+            "sent4": "The moonlight danced on the surface of the lake, creating a mesmerizing reflection.",
+            "sent5": "Under the moonlight, the trees looked like dark silhouettes against the night sky."
         },
         {
             "definition": "To work at a secondary job, often at night.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "After his regular job, he would moonlight as a delivery driver to earn extra money.",
+            "sent2": "She decided to moonlight as a tutor to help students with their studies.",
+            "sent3": "The chef would moonlight as a musician on weekends, entertaining the restaurant guests with his guitar.",
+            "sent4": "He would moonlight as a security guard at the museum, ensuring the artifacts were safe at night.",
+            "sent5": "To make ends meet, she would moonlight as a waitress at a local diner in the evenings."
         }
     ]
 }

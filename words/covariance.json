@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "The measure of how two random variables change together.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The covariance between the temperature and ice cream sales showed a strong relationship.",
+            "sent2": "In statistics, covariance is used to understand the relationship between different data sets.",
+            "sent3": "The covariance between my study time and grades seemed to suggest that the more I studied, the worse I did!",
+            "sent4": "The covariance between the stock market and consumer spending is like a dance, sometimes moving in sync and other times in opposite directions.",
+            "sent5": "Understanding covariance is crucial for predicting how changes in one variable may affect another."
         },
         {
             "definition": "The state of being joint or associated.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "There was a strong covariance between the two companies, leading to a successful partnership.",
+            "sent2": "The covariance of their interests made them a formidable team.",
+            "sent3": "The covariance of flavors in the dish created a surprisingly delicious combination.",
+            "sent4": "The covariance of colors in the painting gave it a harmonious and balanced look.",
+            "sent5": "The covariance of ideas between the two scientists sparked a revolutionary breakthrough."
         }
     ]
 }

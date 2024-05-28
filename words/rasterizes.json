@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Convert (an image or font) into pixels for display on a computer screen.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The software rasterizes the logo to show it on the screen.",
+            "sent2": "She rasterizes the picture to make it appear on the monitor.",
+            "sent3": "The program rasterizes the font, making it look like tiny squares on the screen.",
+            "sent4": "His mind rasterizes the image, breaking it down into digital dots.",
+            "sent5": "The tool rasterizes the graphic, transforming it into a digital mosaic."
         },
         {
             "definition": "To render an image in a raster format.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The device rasterizes the photo for printing purposes.",
+            "sent2": "They rasterize the design to fit the screen resolution.",
+            "sent3": "The artist rasterizes the painting, turning it into a digital grid.",
+            "sent4": "The software rasterizes the image, creating a pattern of pixels.",
+            "sent5": "The program rasterizes the artwork, converting it into a pixelated version."
         }
     ]
 }

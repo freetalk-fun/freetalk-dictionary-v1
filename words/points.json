@@ -3,23 +3,48 @@
     "meanings": [
         {
             "definition": "A sharp or tapered end",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The pencil had a sharp points.",
+            "sent2": "She carefully avoided the sharp points of the cactus.",
+            "sent3": "Be careful not to poke yourself on the sharp points of the hedgehog.",
+            "sent4": "Her words had a sharp points that cut through the silence.",
+            "sent5": "The arrowhead's points gleamed in the sunlight."
         },
         {
             "definition": "A particular place or position",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The meeting will take place at the points we discussed.",
+            "sent2": "He marked the points on the map where they should meet.",
+            "sent3": "Let's meet at the usual points for our picnic.",
+            "sent4": "The points where the rivers meet create a beautiful landscape.",
+            "sent5": "The treasure was hidden at the secret points in the forest."
         },
         {
             "definition": "A unit of measurement in a scoring system",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "She earned ten points for her excellent performance.",
+            "sent2": "The team scored a high number of points in the game.",
+            "sent3": "He needed more points to win the competition.",
+            "sent4": "The quiz had a maximum of 100 points available.",
+            "sent5": "Each correct answer earns you one points in this quiz."
         },
         {
             "definition": "To direct or aim something in a particular direction",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He points to the sky whenever he sees an airplane.",
+            "sent2": "She points the telescope towards the stars.",
+            "sent3": "The child points the toy gun at the ceiling and pretends to shoot.",
+            "sent4": "The compass needle always points north.",
+            "sent5": "The guide points out the landmarks along the trail."
         },
         {
             "definition": "To make a remark or comment",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She points out the mistake in the report.",
+            "sent2": "He points to the interesting details in the painting.",
+            "sent3": "The teacher points at the correct answer on the board.",
+            "sent4": "The detective points towards the suspect in the lineup.",
+            "sent5": "He points with excitement at the rare bird in the tree."
         }
     ]
 }

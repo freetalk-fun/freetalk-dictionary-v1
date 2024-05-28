@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "The process of transforming a matrix into a diagonal matrix by multiplying it by a suitable matrix on the left and right.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "During the diagonalization of the matrix, we make it simpler by changing it to a diagonal form.",
+            "sent2": "In mathematics, diagonalization helps us simplify complex matrices by converting them into diagonal matrices.",
+            "sent3": "The math professor joked that diagonalization was like giving the matrix a makeover, making it look more organized.",
+            "sent4": "Diagonalization is like rearranging a messy room into neat rows and columns, making everything easier to find.",
+            "sent5": "The concept of diagonalization is like putting the matrix on a diet, trimming it down to its essential elements."
         },
         {
             "definition": "The act of constructing a diagonal matrix that is similar to a given matrix.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "In linear algebra, we use diagonalization to create a simpler matrix that behaves like the original one.",
+            "sent2": "When we perform diagonalization, we aim to find a diagonal matrix that behaves similarly to the initial matrix.",
+            "sent3": "The students found it amusing that diagonalization was like creating a twin matrix that follows the same rules.",
+            "sent4": "Diagonalization is akin to making a mirror image of the matrix, reflecting its properties in a different form.",
+            "sent5": "The idea of diagonalization is to clone the matrix in a diagonal shape, maintaining its essential characteristics."
         }
     ]
 }

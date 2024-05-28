@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To make dirty or unclean.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The muddy dog fouled the clean carpet.",
+            "sent2": "The spilled juice fouled the white shirt.",
+            "sent3": "The mischievous toddler fouled his face with chocolate.",
+            "sent4": "The rain fouled the crystal-clear stream, turning it murky.",
+            "sent5": "The garbage left out too long fouled the air with a foul smell."
         },
         {
             "definition": "To become entangled or obstructed.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The kite string fouled in the tree branches.",
+            "sent2": "The fishing line fouled on a rock underwater.",
+            "sent3": "The cat fouled itself in a mess of yarn.",
+            "sent4": "The vines fouled around the fence, making it hard to open.",
+            "sent5": "The long hair fouled in the brush, causing a tangle."
         },
         {
             "definition": "To commit a foul in sports.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The player fouled his opponent during the game.",
+            "sent2": "She fouled in basketball by pushing the other player.",
+            "sent3": "The soccer player fouled by tripping his rival.",
+            "sent4": "The baseball pitcher fouled by hitting the batter with the ball.",
+            "sent5": "The hockey player fouled by slashing his opponent with the stick."
         }
     ]
 }

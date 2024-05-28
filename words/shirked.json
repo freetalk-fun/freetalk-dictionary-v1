@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Avoided doing something that one should do.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She shirked her chores by pretending to be sick.",
+            "sent2": "He always shirked his homework by playing video games instead.",
+            "sent3": "The cat shirked its responsibility to catch the mouse, opting to nap instead.",
+            "sent4": "The student shirked studying for the test, hoping for a miracle.",
+            "sent5": "The employee shirked his duties, causing chaos in the office."
         },
         {
             "definition": "Neglected or failed to fulfill a duty or responsibility.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The shirked task remained unfinished for weeks.",
+            "sent2": "The shirked assignment led to a poor grade.",
+            "sent3": "The shirked project sat in the corner, gathering dust.",
+            "sent4": "The shirked promise left a trail of broken trust.",
+            "sent5": "The shirked commitment weighed heavily on his conscience."
         }
     ]
 }

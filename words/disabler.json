@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A person or thing that disables.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The disabler helped the student with special needs.",
+            "sent2": "The security guard acted as a disabler during the event.",
+            "sent3": "The mischievous squirrel turned into a disabler by hiding all the acorns.",
+            "sent4": "The storm was a disabler, knocking out power to the entire town.",
+            "sent5": "The disabler, a broken key, prevented the door from opening."
         },
         {
             "definition": "A software program or device that prevents certain functions or features from being used.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The parental control app acted as a disabler for accessing inappropriate content.",
+            "sent2": "The firewall on the computer acted as a disabler for unauthorized access.",
+            "sent3": "The mischievous virus disguised as a disabler shut down the entire system.",
+            "sent4": "The disabler, a pop-up blocker, prevented annoying ads from appearing.",
+            "sent5": "The disabler, a password lock, restricted access to the sensitive data."
         },
         {
             "definition": "To make unable or unfit; weaken or destroy the capability of.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The injury disablered him from participating in the race.",
+            "sent2": "The virus disablered the computer, making it unusable.",
+            "sent3": "The magician disablered the audience's ability to speak by casting a spell.",
+            "sent4": "The harsh weather disablered the crops, causing a poor harvest.",
+            "sent5": "The lack of sleep disablered her concentration during the exam."
         }
     ]
 }

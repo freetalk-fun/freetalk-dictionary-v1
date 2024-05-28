@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Make (something) more difficult or confusing by causing it to be more complex.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Adding too many steps complicates the process.",
+            "sent2": "Using too many ingredients complicates the recipe.",
+            "sent3": "Trying to juggle too many tasks complicates the day.",
+            "sent4": "Overthinking can complicate even the simplest decisions.",
+            "sent5": "The maze of rules and regulations complicates understanding."
         },
         {
             "definition": "Introduce complications or difficulties into (a situation).",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "His sudden arrival complicates our plans.",
+            "sent2": "The unexpected rain complicates our outdoor event.",
+            "sent3": "The mix-up with the tickets complicates our travel.",
+            "sent4": "The new information complicates our strategy.",
+            "sent5": "The power outage complicates our work schedule."
         }
     ]
 }

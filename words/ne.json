@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Not",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "She was ne happy with the result.",
+            "sent2": "I ne saw that movie before.",
+            "sent3": "Ne one could believe how quickly the time passed.",
+            "sent4": "The storm made the sky ne darker than night.",
+            "sent5": "The teacher's explanation was ne clear to everyone."
         },
         {
             "definition": "Nor",
-            "pos": "conjunction"
+            "pos": "conjunction",
+            "sent1": "He neither likes ice cream ne chocolate.",
+            "sent2": "She doesn't like coffee, ne does she drink tea.",
+            "sent3": "I can neither confirm ne deny the rumor.",
+            "sent4": "The cat neither purred ne meowed when I petted it.",
+            "sent5": "Neither the dog ne the cat wanted to go outside."
         },
         {
             "definition": "Used to express a negative or to refuse a previous statement",
-            "pos": "interjection"
+            "pos": "interjection",
+            "sent1": "Ne, I won't do it!",
+            "sent2": "Ne, I don't agree with that decision.",
+            "sent3": "Ne, I can't believe you said that!",
+            "sent4": "Ne, I refuse to accept that as the truth.",
+            "sent5": "Ne, I won't let you go alone."
         }
     ]
 }

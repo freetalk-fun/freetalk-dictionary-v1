@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A person who holds something.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The holders of the keys were responsible for opening the doors.",
+            "sent2": "The holders of the tickets waited patiently in line for the concert.",
+            "sent3": "The holders of the secret recipe guarded it with great care.",
+            "sent4": "She was the holder of the family traditions, passing them down through generations.",
+            "sent5": "The holders of the championship trophy celebrated their victory with joy."
         },
         {
             "definition": "An object used to hold something in place.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The cup holders in the car kept the drinks from spilling.",
+            "sent2": "The book holders on the shelf kept the books neatly organized.",
+            "sent3": "The phone holders on the desk prevented the devices from getting lost.",
+            "sent4": "The candle holders on the table added a warm glow to the room.",
+            "sent5": "The umbrella holders by the door kept the entrance tidy and dry."
         },
         {
             "definition": "A device for holding something.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The document holders on the desk kept the papers organized.",
+            "sent2": "The tool holders in the garage stored the equipment efficiently.",
+            "sent3": "The phone holders on the wall made it easy to charge devices.",
+            "sent4": "The cup holders in the car were convenient for holding beverages.",
+            "sent5": "The pen holders on the desk kept writing utensils within reach."
         }
     ]
 }

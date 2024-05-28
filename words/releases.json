@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Allow (something) to move, act, or flow freely.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The teacher releases the students for recess.",
+            "sent2": "The zookeeper releases the birds back into the wild.",
+            "sent3": "The magician releases a cloud of colorful butterflies from his hat.",
+            "sent4": "As the sun sets, the sky releases a burst of vibrant colors.",
+            "sent5": "The dam releases a torrent of water, creating a powerful waterfall."
         },
         {
             "definition": "Make (a movie, recording, or other product) available to the public.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The studio releases a new movie every summer.",
+            "sent2": "The band releases their latest album on streaming platforms.",
+            "sent3": "The bakery releases a limited edition pastry that becomes a sensation.",
+            "sent4": "The author releases a gripping novel that captivates readers worldwide.",
+            "sent5": "The company releases a new smartphone with innovative features."
         },
         {
             "definition": "A statement or announcement issued to the media.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The press eagerly awaits the official press release from the company.",
+            "sent2": "The politician's press release addresses the recent controversy.",
+            "sent3": "The comedian's press release about a fake alien invasion causes a stir.",
+            "sent4": "The celebrity's press release sparks rumors and speculation.",
+            "sent5": "The organization's press release clarifies their stance on environmental issues."
         }
     ]
 }

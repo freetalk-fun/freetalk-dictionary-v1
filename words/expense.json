@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "The cost required for something.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The new bike was too much of an expense for me.",
+            "sent2": "I had to consider the expense of repairing my car.",
+            "sent3": "I couldn't believe the expense of that tiny cup of coffee!",
+            "sent4": "The expense of time is often overlooked in our busy lives.",
+            "sent5": "The unexpected expense caught me off guard."
         },
         {
             "definition": "An amount of money spent on something.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "She carefully tracked every expense in her budget.",
+            "sent2": "The business owner reviewed the monthly expenses.",
+            "sent3": "The expense of buying gifts for everyone added up quickly.",
+            "sent4": "His generosity knew no bounds, regardless of the expense.",
+            "sent5": "The unexpected medical expense put a strain on their finances."
         },
         {
             "definition": "A sacrifice made to achieve a goal.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "She made the expense of sleep to finish her project on time.",
+            "sent2": "The athlete knew the expense of hard work and dedication.",
+            "sent3": "He joked that his expense of eating vegetables was too high.",
+            "sent4": "The expense of personal time was worth it for the success achieved.",
+            "sent5": "The expense of missing the party was necessary for her exam preparation."
         }
     ]
 }

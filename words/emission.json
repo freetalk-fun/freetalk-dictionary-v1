@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "The act of emitting or sending out something, such as light or sound.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The emission of a bright light illuminated the room.",
+            "sent2": "The car's emission of loud music disturbed the neighbors.",
+            "sent3": "The emission of giggles from the classroom made the teacher smile.",
+            "sent4": "Her laughter was an emission of joy that filled the air.",
+            "sent5": "The emission of a loud horn startled the pedestrians."
         },
         {
             "definition": "Something that is emitted or sent out, such as gas or radiation.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The factory's emission of smoke polluted the air.",
+            "sent2": "The sun's emission of warmth felt comforting on a cold day.",
+            "sent3": "The emission of bubbles from the fish tank was mesmerizing to watch.",
+            "sent4": "His speech was an emission of positivity that inspired everyone.",
+            "sent5": "The emission of a strong odor indicated a gas leak."
         }
     ]
 }

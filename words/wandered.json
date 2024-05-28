@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Walked or moved in a leisurely or aimless manner.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She wandered through the park, enjoying the sunshine.",
+            "sent2": "The lost dog wandered around the neighborhood all day.",
+            "sent3": "The cat wandered into the kitchen and knocked over a pot.",
+            "sent4": "Her thoughts wandered like a leaf in the wind, never settling.",
+            "sent5": "The old man wandered down memory lane, recalling his youth."
         },
         {
             "definition": "Strayed from a path or course.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The wandered hiker finally found his way back to the trail.",
+            "sent2": "The wandered sheep got separated from the flock.",
+            "sent3": "The wandered car ended up in a field instead of the parking lot.",
+            "sent4": "The wandered child's backpack was left behind on the bus.",
+            "sent5": "The wandered ship was off course and lost at sea."
         },
         {
             "definition": "Roamed or traveled without a specific destination.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "They wandered the streets of the city, exploring every corner.",
+            "sent2": "The nomads wandered the desert in search of water.",
+            "sent3": "The curious cat wandered into the neighbor's yard and got stuck.",
+            "sent4": "Her mind wandered to distant lands she had only read about.",
+            "sent5": "The wanderer's heart longed for the open road and new adventures."
         }
     ]
 }

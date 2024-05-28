@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A person who conducts auctions.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The auctioneer held up the item for everyone to see.",
+            "sent2": "The auctioneer started the bidding at a low price.",
+            "sent3": "The auctioneer joked that the next item was a magical unicorn.",
+            "sent4": "The auctioneer's voice boomed through the room like a thunderstorm.",
+            "sent5": "The auctioneer's gavel echoed, signaling the end of the auction."
         },
         {
             "definition": "To act as an auctioneer.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She will auctioneer the antique furniture tomorrow.",
+            "sent2": "He auctioneered the rare painting with enthusiasm.",
+            "sent3": "The children decided to auctioneer their toys for charity.",
+            "sent4": "The politician auctioneered his promises to the voters.",
+            "sent5": "The students auctioneered their artwork at the school fair."
         }
     ]
 }

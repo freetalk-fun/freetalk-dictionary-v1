@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Surround",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The tall trees environ the small house, creating a cozy atmosphere.",
+            "sent2": "The city lights environ the night sky, making it glow with a soft light.",
+            "sent3": "The mischievous squirrel tried to environ the bird feeder with acorns, thinking they were seeds.",
+            "sent4": "Her laughter seemed to environ the room, filling it with joy and warmth.",
+            "sent5": "The thick fog environed the castle, giving it an air of mystery and intrigue."
         },
         {
             "definition": "Surroundings",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The peaceful environ of the park was perfect for a relaxing picnic.",
+            "sent2": "She loved to explore the natural environ of the forest, admiring its beauty.",
+            "sent3": "The bustling environ of the city always kept him on his toes.",
+            "sent4": "The serene environ of the beach was a welcome escape from the busy city life.",
+            "sent5": "The rural environ of the countryside was a refreshing change from the urban landscape."
         },
         {
             "definition": "Environment",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "It is important to protect our natural environ for future generations.",
+            "sent2": "The school aims to create a positive learning environ for all students.",
+            "sent3": "The office environ was filled with the sound of typing and ringing phones.",
+            "sent4": "The underwater environ of the coral reef is teeming with colorful fish and plants.",
+            "sent5": "The urban environ of the city can be both exciting and overwhelming."
         }
     ]
 }

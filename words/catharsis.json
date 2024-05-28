@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "The process of releasing strong emotions through a particular activity or experience.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Drawing can be a catharsis for me when I feel upset.",
+            "sent2": "After watching a sad movie, crying can provide catharsis.",
+            "sent3": "Laughing uncontrollably at a comedy show was a catharsis for my stress.",
+            "sent4": "Screaming into the ocean, I felt a catharsis as if my worries were washed away.",
+            "sent5": "Running in the rain felt like a catharsis, cleansing my mind of negative thoughts."
         },
         {
             "definition": "A purging or cleansing of emotions.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Writing in my journal is a catharsis that helps me let go of pent-up feelings.",
+            "sent2": "Talking to a friend can sometimes provide the catharsis I need to feel better.",
+            "sent3": "Dancing wildly in my room was a catharsis that left me feeling refreshed.",
+            "sent4": "Singing at the top of my lungs gave me a catharsis, releasing all my inner turmoil.",
+            "sent5": "Hiking in nature acted as a catharsis, clearing my mind of any lingering negativity."
         }
     ]
 }

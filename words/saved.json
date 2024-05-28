@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To rescue or preserve from harm, danger, or loss.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The firefighter saved the kitten from the burning building.",
+            "sent2": "I saved my friend from falling off the cliff.",
+            "sent3": "The superhero saved the day by rescuing the cat stuck in the tree.",
+            "sent4": "Her quick thinking saved the project from complete failure.",
+            "sent5": "The lifeboat saved the sailors from the stormy sea."
         },
         {
             "definition": "To set aside or reserve for future use.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I saved some money for a rainy day.",
+            "sent2": "She saved a seat for her friend at the movie theater.",
+            "sent3": "He saved the last piece of cake for his sister.",
+            "sent4": "The chef saved the best ingredients for the special occasion.",
+            "sent5": "They saved the biggest present for last."
         },
         {
             "definition": "To keep safe or protect from harm or destruction.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The lock on the door saved the house from burglars.",
+            "sent2": "Wearing a helmet saved his head from injury.",
+            "sent3": "The umbrella saved her from getting wet in the rain.",
+            "sent4": "The password protected the files and saved them from hackers.",
+            "sent5": "The fence around the garden saved the plants from the hungry rabbits."
         }
     ]
 }

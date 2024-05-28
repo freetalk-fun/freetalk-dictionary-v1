@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To stop or slow down the progress of something.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She checks her speed while riding her bike down the hill.",
+            "sent2": "The traffic light checks the flow of cars at the intersection.",
+            "sent3": "The turtle checks the rabbit's speed in the race.",
+            "sent4": "The dam checks the flow of the river, preventing flooding.",
+            "sent5": "The teacher checks the students' progress in math every week."
         },
         {
             "definition": "A written order to a bank to pay a stated sum from the drawer's account.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "He wrote a check to pay for his groceries at the store.",
+            "sent2": "She received a check as payment for her work at the office.",
+            "sent3": "The check in the birthday card was a pleasant surprise.",
+            "sent4": "The check from the insurance company covered the car repairs.",
+            "sent5": "The check for the charity donation was ready to be sent out."
         },
         {
             "definition": "A mark or pattern of small squares.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The tablecloth had a beautiful checkered pattern.",
+            "sent2": "She wore a dress with a check design for the picnic.",
+            "sent3": "The check on the fabric added a stylish touch to the curtains.",
+            "sent4": "The check on the chessboard helped players strategize their moves.",
+            "sent5": "The check on the floor tiles created a unique look in the kitchen."
         }
     ]
 }

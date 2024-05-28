@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A meeting in which someone is asked questions to determine their suitability for a job or other position.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "During the interview, the manager asked about my work experience.",
+            "sent2": "She prepared well for the job interview by researching the company.",
+            "sent3": "At the interview, the candidate accidentally spilled water on the interviewer.",
+            "sent4": "The interview felt like a spotlight shining on all my qualifications.",
+            "sent5": "The interview room was filled with nervous energy as candidates awaited their turn."
         },
         {
             "definition": "A conversation between a journalist and someone whose opinions or statements are being sought.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The celebrity gave an exclusive interview to the magazine.",
+            "sent2": "The journalist conducted the interview with professionalism and respect.",
+            "sent3": "During the interview, the interviewee shared a funny anecdote.",
+            "sent4": "The interview with the politician revealed surprising insights.",
+            "sent5": "The interview captured the essence of the artist's creative process."
         },
         {
             "definition": "To have a formal meeting with someone in order to ask them questions.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I will interview the candidate tomorrow for the marketing position.",
+            "sent2": "The police officer needs to interview the witness to gather more information.",
+            "sent3": "Let's interview the expert to get more details on the topic.",
+            "sent4": "She decided to interview the author for her school project.",
+            "sent5": "The journalist will interview the scientist about the new discovery."
         }
     ]
 }

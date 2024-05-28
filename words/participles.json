@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A word formed from a verb and used as an adjective.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "In the sentence, 'The running dog is fast,' 'running' is a participle describing the dog.",
+            "sent2": "I saw the painted house on the corner of the street.",
+            "sent3": "The singing bird outside my window woke me up with its beautiful melody.",
+            "sent4": "The glowing embers of the campfire warmed us as we sat around it.",
+            "sent5": "The barking dog alerted us to the arrival of our guests."
         },
         {
             "definition": "A verb form ending in -ing or -ed used to form tenses or adjectives.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "She enjoys reading books in her free time.",
+            "sent2": "The excited children were playing in the park.",
+            "sent3": "The annoying buzzing of the mosquito kept me up all night.",
+            "sent4": "The howling wind outside made the windows rattle.",
+            "sent5": "The baking bread filled the house with a delicious aroma."
         }
     ]
 }

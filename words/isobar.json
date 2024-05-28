@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A line on a weather map connecting points of equal atmospheric pressure.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The isobar on the map shows where the air pressure is the same.",
+            "sent2": "Meteorologists use isobars to predict weather patterns.",
+            "sent3": "The isobar threw a party for all the points with equal pressure.",
+            "sent4": "The isobar acted like a bridge between areas of high and low pressure.",
+            "sent5": "The isobar is like a boundary separating different air pressures."
         },
         {
             "definition": "A line on a map connecting points of equal magnetic intensity.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Scientists study the isobar to understand magnetic fields.",
+            "sent2": "The isobar indicates where the magnetic intensity is the same.",
+            "sent3": "The isobar went on a road trip to visit all the magnetic points.",
+            "sent4": "The isobar functions like a guide showing areas of similar magnetic strength.",
+            "sent5": "The isobar is a marker for regions with matching magnetic intensity."
         }
     ]
 }

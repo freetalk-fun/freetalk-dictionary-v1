@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A technique used in computer graphics to smooth jagged edges in images.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The antialiasing of the image made the edges look smoother.",
+            "sent2": "Graphic designers often use antialiasing to improve the quality of images.",
+            "sent3": "I tried to draw a pixelated heart, but the antialiasing turned it into a blob!",
+            "sent4": "Her skillful use of antialiasing transformed the rough sketch into a polished masterpiece.",
+            "sent5": "The magic of antialiasing is like a digital eraser, smoothing out imperfections effortlessly."
         },
         {
             "definition": "The process of reducing visual distortion in digital images.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Antialiasing helps to eliminate the pixelated look in digital pictures.",
+            "sent2": "Photographers often rely on antialiasing to enhance the clarity of their photos.",
+            "sent3": "I accidentally applied too much antialiasing, and now everything looks like a painting!",
+            "sent4": "The effect of antialiasing on the image was like wearing glasses for the first time, everything became clear.",
+            "sent5": "The power of antialiasing is like a magic wand, waving away any visual imperfections."
         }
     ]
 }

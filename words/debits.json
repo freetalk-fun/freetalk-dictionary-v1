@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "An entry recording a sum owed, listed on the left-hand side of an account.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "In accounting, debits show money owed.",
+            "sent2": "The debits in the ledger indicated outstanding payments.",
+            "sent3": "The debits in the financial report were like reminders of unpaid bills.",
+            "sent4": "Her stack of debits resembled a mountain of financial obligations.",
+            "sent5": "The concept of debits can be confusing, but it's like keeping track of IOUs."
         },
         {
             "definition": "To remove an amount from a bank account.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She debits her account to pay for groceries.",
+            "sent2": "He debits his savings whenever he makes a withdrawal.",
+            "sent3": "The ATM debits the exact amount you request, no more, no less.",
+            "sent4": "Debiting money from the account felt like watching coins disappear into thin air.",
+            "sent5": "Remember to debit your account after each transaction to avoid overdraft fees."
         },
         {
             "definition": "To regard as being of a specified nature.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She debits his actions as dishonest.",
+            "sent2": "The teacher debits his behavior as disruptive.",
+            "sent3": "He jokingly debits her excuses as creative storytelling.",
+            "sent4": "Debiting his words as truth, she believed every promise he made.",
+            "sent5": "The detective debits the suspect's alibi as unreliable based on evidence."
         }
     ]
 }

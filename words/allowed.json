@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Permitted",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The students were allowed to bring snacks to class.",
+            "sent2": "Wearing hats is not allowed in the school.",
+            "sent3": "The cat was not allowed to attend the dog's party.",
+            "sent4": "The forbidden forest was the only place where magic was allowed.",
+            "sent5": "The secret passage was the only allowed route to escape."
         },
         {
             "definition": "Admitted",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She allowed her mistake and apologized.",
+            "sent2": "The suspect was allowed into the interrogation room.",
+            "sent3": "The magician allowed that his trick was just an illusion.",
+            "sent4": "The truth finally allowed itself to be revealed.",
+            "sent5": "The key evidence allowed the case to be solved."
         },
         {
             "definition": "Tolerated",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The noise from the party was allowed until midnight.",
+            "sent2": "The boss allowed the employee's tardiness for the first time.",
+            "sent3": "The mischievous behavior was allowed during the holiday season.",
+            "sent4": "The delay in the project was not allowed by the strict deadline.",
+            "sent5": "The errors in the report were not allowed to go unnoticed."
         }
     ]
 }

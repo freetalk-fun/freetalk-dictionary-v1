@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A small mechanical device or control",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The engineer fixed the widgets on the machine to make it work smoothly.",
+            "sent2": "I need to buy some widgets to repair my bicycle.",
+            "sent3": "The mischievous cat played with the widgets, causing the machine to malfunction.",
+            "sent4": "Her mind was a complex system of widgets, each one controlling a different aspect of her personality.",
+            "sent5": "The widgets clicked into place like a puzzle, revealing the inner workings of the device."
         },
         {
             "definition": "A placeholder name for an unspecified item or object",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Can you pass me those widgets over there?",
+            "sent2": "She rummaged through the box, searching for the widgets she needed.",
+            "sent3": "The magician pulled out a handful of widgets from his hat, surprising the audience.",
+            "sent4": "His backpack was filled with all sorts of widgets, from pens to snacks.",
+            "sent5": "The treasure chest was full of shiny widgets, each one holding a different secret."
         }
     ]
 }

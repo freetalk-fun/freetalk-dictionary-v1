@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A weed that grows among wheat.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The farmer had to carefully remove the tares from his wheat field.",
+            "sent2": "The tares in the garden were hindering the growth of the other plants.",
+            "sent3": "The mischievous rabbits thought the tares were a fun hiding spot.",
+            "sent4": "The tares seemed to mock the wheat with their invasive presence.",
+            "sent5": "The tares spread like wildfire, threatening the wheat's harvest."
         },
         {
             "definition": "Something that is considered worthless or undesirable.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "She realized the necklace was just a tare among her valuable jewelry.",
+            "sent2": "The broken vase was seen as a tare in the collection of antiques.",
+            "sent3": "To him, the old book was a tare, but to her, it was a treasure.",
+            "sent4": "The rusty nail was a tare amidst the shiny new tools.",
+            "sent5": "The scratch on the car was a noticeable tare on its flawless exterior."
         },
         {
             "definition": "To separate or remove unwanted elements.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She needed to tare out the old wallpaper before painting the room.",
+            "sent2": "The chef had to tare the spoiled ingredients from the fresh ones.",
+            "sent3": "He decided to tare away the negative influences from his life.",
+            "sent4": "The filter will tare the impurities from the water, making it clean to drink.",
+            "sent5": "The gardener used a tool to tare the weeds from the flower bed."
         }
     ]
 }

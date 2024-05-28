@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Possessing something",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The happy child is having a new toy.",
+            "sent2": "She is having a big house.",
+            "sent3": "The cat is having a fluffy tail.",
+            "sent4": "The garden is having colorful flowers.",
+            "sent5": "The delicious cake is having a cherry on top."
         },
         {
             "definition": "Experiencing something",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "They are having a fun time at the park.",
+            "sent2": "He is having a headache from the loud noise.",
+            "sent3": "The students are having a challenging test.",
+            "sent4": "She is having a dream about flying.",
+            "sent5": "The family is having a wonderful vacation."
         },
         {
             "definition": "Showing a particular characteristic or quality",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The smiling girl is having a positive attitude.",
+            "sent2": "The old tree is having strong roots.",
+            "sent3": "The colorful painting is having a vibrant look.",
+            "sent4": "The fast car is having a sleek design.",
+            "sent5": "The brave knight is having a courageous heart."
         }
     ]
 }

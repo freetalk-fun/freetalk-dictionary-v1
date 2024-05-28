@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To separate or set apart from others.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The teacher segregates the students into groups for the project.",
+            "sent2": "The fence segregates the garden from the rest of the yard.",
+            "sent3": "The laundry segregates the whites from the colors to avoid mixing.",
+            "sent4": "The high wall segregates the two neighboring countries.",
+            "sent5": "The dam segregates the river, creating two distinct bodies of water."
         },
         {
             "definition": "To divide or isolate based on characteristics or qualities.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The scientist segregates the samples based on their chemical composition.",
+            "sent2": "The policy segregates the employees according to their experience levels.",
+            "sent3": "The chef segregates the ingredients to prepare different dishes.",
+            "sent4": "The app segregates the photos into different albums for easy access.",
+            "sent5": "The algorithm segregates the data into categories for analysis."
         }
     ]
 }

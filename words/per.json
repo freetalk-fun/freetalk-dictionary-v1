@@ -3,27 +3,57 @@
     "meanings": [
         {
             "definition": "For each",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "She earns $10 per hour.",
+            "sent2": "The store sells apples per pound.",
+            "sent3": "He ate one cookie per minute!",
+            "sent4": "The flowers bloomed per season.",
+            "sent5": "The students read one book per week."
         },
         {
             "definition": "By means of",
-            "pos": "preposition"
+            "pos": "preposition",
+            "sent1": "He fixed the car per his mechanic skills.",
+            "sent2": "She communicated per email.",
+            "sent3": "The detective solved the case per his sharp mind.",
+            "sent4": "The team won the game per their teamwork.",
+            "sent5": "The chef cooked the dish per the recipe."
         },
         {
             "definition": "According to",
-            "pos": "preposition"
+            "pos": "preposition",
+            "sent1": "Per the weather forecast, it will rain tomorrow.",
+            "sent2": "The decision was made per the rules.",
+            "sent3": "Per the map, we are close to the destination.",
+            "sent4": "The project was completed per the timeline.",
+            "sent5": "Per the instructions, press the red button."
         },
         {
             "definition": "Through",
-            "pos": "preposition"
+            "pos": "preposition",
+            "sent1": "She looked at the world per her window.",
+            "sent2": "The message was sent per email.",
+            "sent3": "He found the answer per his research.",
+            "sent4": "The team won the championship per hard work.",
+            "sent5": "The river flows per the valley."
         },
         {
             "definition": "For each unit of",
-            "pos": "preposition"
+            "pos": "preposition",
+            "sent1": "The recipe calls for two cups of sugar per batch.",
+            "sent2": "The car travels 30 miles per gallon.",
+            "sent3": "The machine produces 100 units per hour.",
+            "sent4": "The store sells milk per liter.",
+            "sent5": "The company pays $5 per item."
         },
         {
             "definition": "For each person or thing",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "They were given one cookie per child.",
+            "sent2": "The teacher checked the homework per student.",
+            "sent3": "The doctor sees patients one per appointment.",
+            "sent4": "The team shared the prize money per member.",
+            "sent5": "The company provides one uniform per employee."
         }
     ]
 }

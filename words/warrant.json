@@ -3,19 +3,39 @@
     "meanings": [
         {
             "definition": "Justify or necessitate",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "His hard work did not warrant a promotion.",
+            "sent2": "The evidence presented in court did not warrant a guilty verdict.",
+            "sent3": "The heavy rain did not warrant an umbrella, but he carried one anyway.",
+            "sent4": "Her rude behavior did not warrant forgiveness.",
+            "sent5": "The small scratch on the car did not warrant such a big repair bill."
         },
         {
             "definition": "Guarantee or assure",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The manufacturer's warranty will warrant the quality of the product.",
+            "sent2": "A good reputation can warrant trust from customers.",
+            "sent3": "His confident smile seemed to warrant success in the interview.",
+            "sent4": "The loud applause will warrant an encore performance.",
+            "sent5": "The clear instructions will warrant a successful outcome."
         },
         {
             "definition": "Authorization or approval",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "He needed a warrant to enter the restricted area.",
+            "sent2": "The teacher's signature on the form serves as a warrant for participation.",
+            "sent3": "The golden ticket was his warrant to enter the exclusive event.",
+            "sent4": "The official stamp acts as a warrant for the document's validity.",
+            "sent5": "The permit granted by the city council is a warrant for construction."
         },
         {
             "definition": "Legal document authorizing an action or arrest",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The police officer obtained a warrant before making the arrest.",
+            "sent2": "The judge signed the warrant for the search of the suspect's property.",
+            "sent3": "The detective carefully reviewed the warrant before proceeding with the investigation.",
+            "sent4": "The warrant issued by the court allowed the seizure of the illegal goods.",
+            "sent5": "The warrant specified the exact location to be searched by the authorities."
         }
     ]
 }

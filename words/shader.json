@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A person or thing that shades.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The shader held the umbrella to provide shade from the sun.",
+            "sent2": "The tree acted as a natural shader, casting shadows on the ground.",
+            "sent3": "The clever shader, a large hat, shielded the detective's eyes from the blinding light.",
+            "sent4": "The shader, like a guardian angel, protected the delicate flowers from the harsh sunlight.",
+            "sent5": "The shader, a trusty parasol, was always by her side on sunny days."
         },
         {
             "definition": "A program used in computer graphics to determine the final surface properties of an object or image.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The graphic designer used a shader to enhance the colors in the digital artwork.",
+            "sent2": "The shader helped create realistic shadows and reflections in the video game.",
+            "sent3": "The mischievous shader program decided to give the virtual character neon-colored skin.",
+            "sent4": "The shader transformed the plain image into a vibrant masterpiece with just a few clicks.",
+            "sent5": "With the magic of the shader, the 3D model came to life on the screen."
         },
         {
             "definition": "A device used to create shade or protect from sunlight.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The beach shader provided a cool spot for the family to relax under.",
+            "sent2": "She adjusted the car shader to block the sun's rays while driving.",
+            "sent3": "The fancy shader, a stylish umbrella, matched her beach outfit perfectly.",
+            "sent4": "The portable shader was like carrying a patch of shade wherever you went.",
+            "sent5": "The outdoor shader, a canopy tent, shielded the picnic from the scorching heat."
         }
     ]
 }

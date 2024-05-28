@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "State or assert that something is the case without providing evidence or proof.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He claims to have seen a UFO last night.",
+            "sent2": "She claims the book is hers, but she can't show any proof.",
+            "sent3": "The cat claims ownership of the entire house.",
+            "sent4": "The politician claims victory in the election race.",
+            "sent5": "The detective claims to know who the culprit is."
         },
         {
             "definition": "Demand or ask for something as a right or due.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The workers claim better working conditions.",
+            "sent2": "She claims her share of the inheritance.",
+            "sent3": "The child claims more cookies before dinner.",
+            "sent4": "The student claims extra credit for their hard work.",
+            "sent5": "The customer claims a refund for the faulty product."
         },
         {
             "definition": "A statement that something is true or a fact.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "His claim about the treasure map being real intrigued everyone.",
+            "sent2": "The insurance company processed his claim for the stolen car.",
+            "sent3": "The cat's claim to the throne was met with laughter by the other pets.",
+            "sent4": "Her claim of being a time traveler raised eyebrows at the party.",
+            "sent5": "The scientist's claim of discovering a new species made headlines."
         }
     ]
 }

@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A person or thing that points.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The tour guide was a helpful pointer during our hike.",
+            "sent2": "The dog's nose served as a natural pointer towards the hidden treasure.",
+            "sent3": "The compass needle seemed to be a playful pointer, always directing us north.",
+            "sent4": "Her eyes were like sharp pointers, guiding me through the crowded room.",
+            "sent5": "The lighthouse acted as a reliable pointer for ships navigating the rocky coast."
         },
         {
             "definition": "A hint or suggestion.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "His raised eyebrow was a subtle pointer that he disagreed with the plan.",
+            "sent2": "The teacher's smile was a clear pointer that the answer was correct.",
+            "sent3": "The mysterious note left on my desk was a cryptic pointer to a hidden surprise.",
+            "sent4": "The sudden rain was a strong pointer that the picnic should be moved indoors.",
+            "sent5": "The old map provided a valuable pointer to the buried treasure's location."
         },
         {
             "definition": "A small stick or rod used for pointing.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The presenter used a wooden pointer to highlight key information on the screen.",
+            "sent2": "She found an old metal pointer in the attic, perfect for playing pretend teacher.",
+            "sent3": "The mischievous squirrel used a twig as a makeshift pointer to show off its acorn stash.",
+            "sent4": "The wizard's wand acted as a magical pointer, casting spells with a flick.",
+            "sent5": "The child eagerly grabbed a colorful pointer to help lead the class in their game."
         }
     ]
 }

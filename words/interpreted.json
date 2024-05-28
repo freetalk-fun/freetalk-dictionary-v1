@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Explain the meaning of (something)",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She interpreted the ancient text for the students.",
+            "sent2": "The sign language interpreter interpreted the speaker's words for the deaf audience.",
+            "sent3": "The robot humorously interpreted the cat's meows as requests for snacks.",
+            "sent4": "His silence was interpreted as a sign of disapproval.",
+            "sent5": "The artist's painting beautifully interpreted the emotions of the characters."
         },
         {
             "definition": "Understand (an action, mood, or way of behaving) as having a particular meaning or significance",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He interpreted her smile as a sign of happiness.",
+            "sent2": "The detective interpreted the suspect's nervousness as a sign of guilt.",
+            "sent3": "The child amusingly interpreted the dog's wagging tail as a dance invitation.",
+            "sent4": "The sudden drop in temperature was interpreted as a warning of an approaching storm.",
+            "sent5": "The old man's wrinkled face was interpreted as a map of his life's experiences."
         }
     ]
 }

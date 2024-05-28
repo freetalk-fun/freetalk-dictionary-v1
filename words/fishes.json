@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Fishes (verb): to catch or try to catch fish",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He fishes in the river every weekend.",
+            "sent2": "She fishes with her dad at the lake.",
+            "sent3": "The cat fishes for compliments from its owner.",
+            "sent4": "Her smile fishes for attention in the crowded room.",
+            "sent5": "The detective fishes for clues to solve the mystery."
         },
         {
             "definition": "Fishes (noun): plural form of fish, referring to multiple fish",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "We saw many fishes swimming in the ocean.",
+            "sent2": "The fishes in the aquarium looked colorful.",
+            "sent3": "The birthday party had a game where kids tried to catch plastic fishes.",
+            "sent4": "The city lights reflected on the water, making it seem like the sky was full of fishes.",
+            "sent5": "The market was bustling with vendors selling fresh fishes."
         }
     ]
 }

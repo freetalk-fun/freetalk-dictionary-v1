@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To persuade or encourage (someone) to do something by deceit or trickery.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The sly fox tried to cons the rabbit into sharing his carrots.",
+            "sent2": "She cons her friends into believing she has a magic trick up her sleeve.",
+            "sent3": "The mischievous cat cons the dog into thinking the ball is hidden in the garden.",
+            "sent4": "The cunning magician cons the audience into believing he can make things disappear.",
+            "sent5": "The smooth talker cons his way into getting free drinks at the bar."
         },
         {
             "definition": "Disadvantages or negative aspects of something.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Before making a decision, consider the cons of each option.",
+            "sent2": "She made a list of pros and cons before choosing which college to attend.",
+            "sent3": "The cons of living in a big city include noise and pollution.",
+            "sent4": "Despite the cons of the job, he decided to accept the offer for the experience.",
+            "sent5": "The cons of eating too much candy are cavities and weight gain."
         },
         {
             "definition": "A convention or gathering of enthusiasts for a particular activity.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The annual comic con is a popular event for fans of comics and movies.",
+            "sent2": "She dressed up as her favorite character for the anime con.",
+            "sent3": "At the gaming con, players compete in tournaments for prizes.",
+            "sent4": "The sci-fi con featured panels with famous authors and actors.",
+            "sent5": "The con for car enthusiasts showcased vintage vehicles and new models."
         }
     ]
 }

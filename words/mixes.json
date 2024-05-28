@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To combine or blend different substances together",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She mixes the colors to create a new shade.",
+            "sent2": "Mom mixes the batter for the cake in a big bowl.",
+            "sent3": "The artist mixes paint like a chef mixes ingredients.",
+            "sent4": "The DJ mixes songs seamlessly during the party.",
+            "sent5": "The scientist mixes chemicals carefully to avoid reactions."
         },
         {
             "definition": "A combination of different elements or ingredients",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The salad dressing is a delicious mix of oil and vinegar.",
+            "sent2": "The trail mix contains nuts, raisins, and chocolate.",
+            "sent3": "The mix of colors in the painting is vibrant and eye-catching.",
+            "sent4": "The music playlist is a perfect mix of old and new songs.",
+            "sent5": "The cake recipe calls for a mix of flour, sugar, and eggs."
         },
         {
             "definition": "To interact socially with others of a different race or culture",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He mixes with students from various countries at the university.",
+            "sent2": "The community event encourages people to mix and learn from each other.",
+            "sent3": "At the cultural festival, everyone mixes happily, sharing stories and food.",
+            "sent4": "The exchange program allows students to mix with peers from different backgrounds.",
+            "sent5": "In the diverse neighborhood, people mix freely, celebrating their differences."
         }
     ]
 }

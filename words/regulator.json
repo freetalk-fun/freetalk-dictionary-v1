@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A person or thing that regulates.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The classroom teacher is the regulator of student behavior.",
+            "sent2": "The thermostat acts as a regulator to maintain the room temperature.",
+            "sent3": "The friendly robot served as a regulator for the children's playtime.",
+            "sent4": "Her calming presence was a regulator for the chaotic situation.",
+            "sent5": "The traffic light functions as a regulator for vehicles on the road."
         },
         {
             "definition": "A device for controlling the flow of a liquid or gas.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The water regulator in the shower helps adjust the temperature.",
+            "sent2": "The pressure regulator ensures a steady flow of gas in the system.",
+            "sent3": "The soda machine's regulator seemed to have a mind of its own, dispensing drinks randomly.",
+            "sent4": "The dam acts as a regulator, controlling the flow of water downstream.",
+            "sent5": "The fuel regulator in the car engine helps maintain efficiency."
         },
         {
             "definition": "An official appointed to supervise a particular industry or activity.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The government regulator oversees the safety standards in the food industry.",
+            "sent2": "The financial regulator monitors the stock market for any irregularities.",
+            "sent3": "The ice cream regulator made sure that all flavors were equally popular among customers.",
+            "sent4": "The referee acted as a regulator during the intense soccer match.",
+            "sent5": "The energy regulator sets guidelines for renewable energy sources."
         }
     ]
 }

@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Believed in",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She trusted her friend to keep her secret.",
+            "sent2": "The community trusted the mayor to make wise decisions.",
+            "sent3": "The detective trusted the suspect's alibi, only to discover it was a lie.",
+            "sent4": "The old man trusted his instincts, leading him safely through the forest.",
+            "sent5": "The child trusted the magic of her favorite fairy tale to come true."
         },
         {
             "definition": "Reliable",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The trusted mechanic fixed the car quickly.",
+            "sent2": "A trusted brand will always provide high-quality products.",
+            "sent3": "The trusted alarm clock failed to wake him up on time.",
+            "sent4": "The trusted compass guided them through the treacherous terrain.",
+            "sent5": "The trusted recipe never failed to impress her guests."
         },
         {
             "definition": "Dependable",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "A trusted friend is always there to offer support.",
+            "sent2": "The trusted employee never missed a deadline.",
+            "sent3": "The trusted umbrella flipped inside out in the strong wind.",
+            "sent4": "The trusted watch kept perfect time for years.",
+            "sent5": "The trusted map led them safely to their destination."
         }
     ]
 }

@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "performed an action",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Yesterday, she did her homework diligently.",
+            "sent2": "The dog did a backflip to catch the ball.",
+            "sent3": "The robot did a little dance to entertain the kids.",
+            "sent4": "The magician did a disappearing act that amazed the audience.",
+            "sent5": "The chef did a perfect flip of the omelette in the pan."
         },
         {
             "definition": "past tense of do",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Last night, she did all her chores before bed.",
+            "sent2": "He did his best to finish the project on time.",
+            "sent3": "The cat did a somersault off the couch, surprising everyone.",
+            "sent4": "The sun did a slow descent behind the mountains.",
+            "sent5": "The wind did a gentle dance through the leaves of the trees."
         }
     ]
 }

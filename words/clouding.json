@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To make or become unclear or less transparent.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The dust in the air was clouding my glasses, making it hard to see.",
+            "sent2": "The smoke from the fire was clouding the sky, blocking out the sun.",
+            "sent3": "The magician's trick involved clouding the audience's vision with a puff of smoke.",
+            "sent4": "Her tears were clouding her judgment, making it difficult for her to make a decision.",
+            "sent5": "The fog was clouding the path ahead, creating an eerie atmosphere."
         },
         {
             "definition": "To cover or obscure with clouds.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The storm was clouding the entire sky, darkening the landscape.",
+            "sent2": "The volcanic ash was clouding the air, making it hard to breathe.",
+            "sent3": "The chef accidentally spilled flour, clouding the kitchen floor with white powder.",
+            "sent4": "The argument between the siblings was clouding the family's happiness.",
+            "sent5": "The dust storm was clouding the horizon, hiding the approaching danger."
         },
         {
             "definition": "The act of causing something to become less clear or transparent.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The clouding of the water in the glass made it difficult to see through.",
+            "sent2": "The clouding of the window was due to the condensation on the glass.",
+            "sent3": "The clouding of the mirror was caused by the steam from the hot shower.",
+            "sent4": "The clouding of the plastic wrap made it hard to see the food inside.",
+            "sent5": "The clouding of the car windshield obscured the view of the road ahead."
         }
     ]
 }

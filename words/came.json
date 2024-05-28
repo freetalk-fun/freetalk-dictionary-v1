@@ -3,19 +3,39 @@
     "meanings": [
         {
             "definition": "past tense of come",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Yesterday, she came to the park with her friends.",
+            "sent2": "He came home late after work.",
+            "sent3": "The cat came running when it heard the sound of a can opening.",
+            "sent4": "The idea suddenly came to her like a bolt of lightning.",
+            "sent5": "The sun came up, painting the sky with vibrant colors."
         },
         {
             "definition": "arrived",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The package finally came in the mail today.",
+            "sent2": "They came at the party just in time for cake.",
+            "sent3": "The train came to a screeching halt at the station.",
+            "sent4": "Relief came flooding in when they saw their lost dog return.",
+            "sent5": "The news of their victory came like a breath of fresh air."
         },
         {
             "definition": "originated",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The tradition of wearing red on Chinese New Year came from ancient beliefs.",
+            "sent2": "The recipe for the delicious cake came from her grandmother.",
+            "sent3": "The idea for the new invention came to him in a dream.",
+            "sent4": "The song's melody came from a childhood memory.",
+            "sent5": "The inspiration for the painting came from a walk in the forest."
         },
         {
             "definition": "happened",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "A strange incident came during their camping trip.",
+            "sent2": "The accident came out of nowhere.",
+            "sent3": "Laughter came easily when they watched the comedy show.",
+            "sent4": "The unexpected news came as a shock to everyone.",
+            "sent5": "The change in weather came suddenly, catching everyone off guard."
         }
     ]
 }

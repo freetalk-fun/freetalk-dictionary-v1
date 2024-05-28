@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A group of similar things that belong together or are used together.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "She collected different sets of stamps for her collection.",
+            "sent2": "The toy store sells sets of building blocks for children to play with.",
+            "sent3": "At the party, each guest received a set of matching party favors.",
+            "sent4": "The forest was a set of diverse trees, creating a beautiful landscape.",
+            "sent5": "The artist painted a set of colorful flowers in the garden scene."
         },
         {
             "definition": "To put or place something in a particular position or direction.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He sets the table for dinner every evening.",
+            "sent2": "The sun sets in the west, painting the sky with beautiful colors.",
+            "sent3": "She sets the vase carefully on the shelf, avoiding any accidents.",
+            "sent4": "The coach sets the players in their positions before the game starts.",
+            "sent5": "The teacher sets the books neatly on the shelf for the students."
         },
         {
             "definition": "To establish or fix something in a particular way.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The company sets the rules for all employees to follow.",
+            "sent2": "She sets her alarm clock every night before going to bed.",
+            "sent3": "He sets the record straight about what really happened that day.",
+            "sent4": "The architect sets the foundation of the building to ensure stability.",
+            "sent5": "The chef sets the oven temperature for the perfect roast."
         }
     ]
 }

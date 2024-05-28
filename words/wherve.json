@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To go or move in a particular direction",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She wherves towards the park every morning for her walk.",
+            "sent2": "The cat wherves around the house, exploring every corner.",
+            "sent3": "The squirrel wherves up the tree, looking for a safe spot to hide its acorn.",
+            "sent4": "The river wherves through the valley, carving its path over time.",
+            "sent5": "The children wherve through the maze, trying to find the hidden treasure."
         },
         {
             "definition": "In or to what place or situation",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "He asked wherve the keys were, as he couldn't find them.",
+            "sent2": "She wondered wherve her friend had gone after the party.",
+            "sent3": "The magician made the rabbit disappear, leaving the audience to ponder wherve it went.",
+            "sent4": "The map led them wherve they had never been before, to a hidden waterfall.",
+            "sent5": "The detective followed the clues, trying to figure out wherve the criminal had fled."
         }
     ]
 }

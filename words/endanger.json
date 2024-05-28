@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To expose to danger or harm.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Leaving the gate open could endanger the safety of the animals.",
+            "sent2": "Speeding on the road can endanger the lives of others.",
+            "sent3": "Forgetting to bring an umbrella might endanger you getting wet in the rain.",
+            "sent4": "Ignoring warning signs can endanger your well-being like walking blindfolded.",
+            "sent5": "Playing with fire can endanger your fingers getting burned."
         },
         {
             "definition": "To put at risk of injury or loss.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Not wearing a seatbelt can endanger your life in a car accident.",
+            "sent2": "Leaving valuables unattended may endanger them being stolen.",
+            "sent3": "Eating too much candy could endanger your teeth getting cavities.",
+            "sent4": "Procrastinating on assignments can endanger your grades slipping away.",
+            "sent5": "Leaving the window open might endanger your belongings being blown away."
         }
     ]
 }

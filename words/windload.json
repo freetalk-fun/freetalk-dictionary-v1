@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "The force exerted by wind on a structure or object.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "During the storm, the windload on the house caused the windows to rattle.",
+            "sent2": "Engineers need to consider the windload when designing tall buildings.",
+            "sent3": "The windload decided to play a game of tug-of-war with the flag on the rooftop.",
+            "sent4": "The windload pushed against the walls of the barn like an invisible giant hand.",
+            "sent5": "The windload howled and pushed, trying to test the strength of the structure."
         },
         {
             "definition": "To calculate or measure the force of wind on a structure or object.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The engineers will windload the bridge to ensure it can withstand strong gusts.",
+            "sent2": "It is important to windload the tower before construction to prevent any structural issues.",
+            "sent3": "The curious cat tried to windload the strength of the wind by sticking its head out the window.",
+            "sent4": "She had to windload the impact of the storm before deciding to secure the loose objects.",
+            "sent5": "The meteorologist windloaded the potential damage of the hurricane on the coastal town."
         }
     ]
 }

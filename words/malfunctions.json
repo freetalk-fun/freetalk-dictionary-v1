@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Fail to function properly",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The old car often malfunctions, causing it to stop suddenly.",
+            "sent2": "My computer sometimes malfunctions and freezes in the middle of my work.",
+            "sent3": "The robot waiter malfunctions and starts serving drinks to the wrong tables!",
+            "sent4": "Her plan to impress the boss malfunctions like a broken clock, always at the wrong time.",
+            "sent5": "The spaceship's engine malfunctions, sending it spiraling out of control."
         },
         {
             "definition": "A failure to work properly or satisfactorily",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Frequent malfunctions in the system have caused delays in production.",
+            "sent2": "The technician quickly identified the source of the malfunctions in the equipment.",
+            "sent3": "The comedy show was full of hilarious malfunctions that had the audience in stitches.",
+            "sent4": "The relationship suffered a major malfunction, leading to a breakup.",
+            "sent5": "The malfunctions in the clock tower led to chaos in the town's schedule."
         }
     ]
 }

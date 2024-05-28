@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A promise or assurance that something will happen or be done.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The guarantied made by the company gave us confidence in their product.",
+            "sent2": "The guarantied of a full refund if not satisfied is clearly stated in the contract.",
+            "sent3": "The guarantied of sunny weather for the picnic turned out to be a pleasant surprise.",
+            "sent4": "Her smile was a guarantied of her happiness.",
+            "sent5": "The guarantied of a magical adventure in the book captured my imagination."
         },
         {
             "definition": "To provide a formal assurance or promise, especially that certain conditions will be fulfilled.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He guarantied to finish the project by the deadline.",
+            "sent2": "The company guarantied a free replacement if the product was damaged.",
+            "sent3": "She guarantied to bring homemade cookies to the party.",
+            "sent4": "His dedication guarantied success in his endeavors.",
+            "sent5": "The chef guarantied a delicious meal for the event."
         },
         {
             "definition": "To serve as a guarantee or assurance of something.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The new security system guarantied the safety of the building.",
+            "sent2": "His reputation guarantied the quality of his work.",
+            "sent3": "The lucky charm guarantied good luck in the competition.",
+            "sent4": "The lighthouse guarantied safe passage for ships in the storm.",
+            "sent5": "The certificate guarantied the authenticity of the artwork."
         }
     ]
 }

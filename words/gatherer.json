@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A person who gathers things.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The gatherer collected seashells on the beach.",
+            "sent2": "The gatherer picked up fallen leaves in the park.",
+            "sent3": "The gatherer found a treasure trove of colorful stones.",
+            "sent4": "The gatherer's basket overflowed with ripe fruits.",
+            "sent5": "The gatherer diligently gathered wildflowers for a bouquet."
         },
         {
             "definition": "An animal that gathers food.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The squirrel is a gatherer, storing nuts for winter.",
+            "sent2": "The honeybee is a gatherer, collecting nectar from flowers.",
+            "sent3": "The gatherer bird hoarded shiny objects in its nest.",
+            "sent4": "The ants worked together like a gatherer team to gather food.",
+            "sent5": "The gatherer beaver built a dam with branches and mud."
         },
         {
             "definition": "A machine that gathers crops.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The combine harvester is a powerful gatherer on the farm.",
+            "sent2": "The automated gatherer efficiently collects ripe wheat.",
+            "sent3": "The robotic gatherer had a mind of its own, zooming around the fields.",
+            "sent4": "The mechanical gatherer hummed as it harvested the golden corn.",
+            "sent5": "The modern gatherer revolutionized the way crops were collected."
         }
     ]
 }

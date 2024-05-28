@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Estimate or calculate (something) without sufficient information or data.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I guesstimated the number of jellybeans in the jar.",
+            "sent2": "She guesstimated the time it would take to finish the project.",
+            "sent3": "He guesstimated the weight of the elephant using a bathroom scale.",
+            "sent4": "The detective guesstimated the suspect's height based on the door frame.",
+            "sent5": "The teacher guesstimated the length of the rope by eyeing it carefully."
         },
         {
             "definition": "An approximate calculation or judgment.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Her guesstimated cost for the repairs was way off.",
+            "sent2": "The guesstimated attendance for the event was surprisingly high.",
+            "sent3": "The guesstimated age of the ancient artifact made the archaeologists chuckle.",
+            "sent4": "The guesstimated value of the antique vase was beyond imagination.",
+            "sent5": "His guesstimated score on the test turned out to be remarkably accurate."
         }
     ]
 }

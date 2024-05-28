@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A person or thing that formats something.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The formatters at the printing company ensure all documents are properly formatted.",
+            "sent2": "I downloaded a new formatter to help me organize my files more efficiently.",
+            "sent3": "The formatters at the party were the ones responsible for setting up the decorations.",
+            "sent4": "Her meticulous attention to detail made her the best formatter in the office.",
+            "sent5": "The formatters in the library meticulously arranged the books by genre and author."
         },
         {
             "definition": "A software tool used to format data or text.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I used a formatter to make the text bold and italic in my document.",
+            "sent2": "The new formatter plugin made it easier to align the images in the presentation.",
+            "sent3": "The formatter on my computer crashed right when I needed to finalize the report.",
+            "sent4": "The formatter function in the software allowed me to customize the layout of the webpage.",
+            "sent5": "With the help of the formatter, I was able to neatly organize the data in the spreadsheet."
         },
         {
             "definition": "The process of arranging or organizing something in a specific way.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The formatter of the event planned the seating arrangement meticulously.",
+            "sent2": "Proper formatter of the code is essential for the program to run smoothly.",
+            "sent3": "The formatter of the closet made sure all the clothes were color-coordinated.",
+            "sent4": "Her unique formatter of the garden made it a peaceful and harmonious space.",
+            "sent5": "The formatter of the schedule ensured that all tasks were allocated efficiently."
         }
     ]
 }

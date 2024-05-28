@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To subtract or take away an amount before calculating a total.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She prededucted the discount before determining the final price.",
+            "sent2": "The teacher prededucted the incorrect answers from the total score.",
+            "sent3": "The chef prededucted the salt from the recipe, making it taste bland.",
+            "sent4": "The detective prededucted the false leads to uncover the truth.",
+            "sent5": "He prededucted the unnecessary expenses to save money for the trip."
         },
         {
             "definition": "Already subtracted or deducted before a final calculation.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The prededucted amount was clearly marked on the invoice.",
+            "sent2": "She was surprised to find the prededucted balance in her bank statement.",
+            "sent3": "The prededucted tax refund made him smile with relief.",
+            "sent4": "The prededucted fees saved her time during the checkout process.",
+            "sent5": "The prededucted discount made the purchase even more appealing."
         }
     ]
 }

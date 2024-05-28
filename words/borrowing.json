@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To take and use (something that belongs to someone else) with the intention of returning it.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I am borrowing my friend's book for the weekend.",
+            "sent2": "She is borrowing a cup of sugar from her neighbor.",
+            "sent3": "The cat is borrowing the dog's bed for a nap.",
+            "sent4": "His jokes are like borrowing from famous comedians.",
+            "sent5": "The student is borrowing notes to study for the exam."
         },
         {
             "definition": "The act of borrowing something.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The borrowing of a pen from the teacher is common in class.",
+            "sent2": "Library borrowing allows people to read many books.",
+            "sent3": "The borrowing of a hat for the party made everyone laugh.",
+            "sent4": "Her borrowing of ideas from others sparked creativity.",
+            "sent5": "The borrowing of tools from the neighbor saved the day."
         },
         {
             "definition": "The amount of money borrowed.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The borrowing for the new house was a big decision.",
+            "sent2": "He needed a loan for the borrowing of a car.",
+            "sent3": "The borrowing of a large sum made him nervous.",
+            "sent4": "Her borrowing of funds for the project was successful.",
+            "sent5": "The borrowing of money for the business was strategic."
         }
     ]
 }

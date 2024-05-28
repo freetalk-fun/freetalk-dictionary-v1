@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To sign a document alongside someone else as a joint responsibility.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I will cosign the lease with my sister for the apartment.",
+            "sent2": "My parents agreed to cosign the loan for my new car.",
+            "sent3": "I joked that I would cosign my friend's permission slip to go to the bathroom.",
+            "sent4": "She decided to cosign the contract, sealing their partnership.",
+            "sent5": "The teacher asked me to cosign the test paper to confirm my identity."
         },
         {
             "definition": "To support or endorse someone or something.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I will cosign your decision to pursue your dreams.",
+            "sent2": "The celebrity agreed to cosign the charity event.",
+            "sent3": "I cosign your choice of pizza toppings, they are delicious!",
+            "sent4": "Her actions cosign her commitment to the cause.",
+            "sent5": "The mentor's guidance will cosign your success in the project."
         },
         {
             "definition": "A mathematical function that gives the ratio of the length of the side adjacent to an acute angle in a right-angled triangle to the length of the hypotenuse.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "In trigonometry, the cosign helps calculate angles in triangles.",
+            "sent2": "The student used the cosign to solve the geometry problem.",
+            "sent3": "The cosign of the angle made the math lesson more interesting.",
+            "sent4": "The cosign of the triangle's side revealed its proportions.",
+            "sent5": "Understanding the cosign is crucial for solving trigonometric equations."
         }
     ]
 }

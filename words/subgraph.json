@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A graph that is a subset of another graph.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "In the computer science class, we learned about a subgraph that is a smaller part of a bigger graph.",
+            "sent2": "The subgraph only includes some of the points and lines from the main graph.",
+            "sent3": "I heard a joke about a subgraph that tried to be the center of attention but ended up being just a small part of the whole picture.",
+            "sent4": "Her group of friends was like a subgraph in the school, connected to different circles but not part of the main clique.",
+            "sent5": "The subgraph was like a tiny island in the vast ocean of the main graph, isolated yet connected in its own way."
         },
         {
             "definition": "A graph that contains a subset of the vertices and edges of another graph.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The subgraph had only a few dots and lines compared to the original graph.",
+            "sent2": "When studying networks, it's important to understand how a subgraph can represent a smaller section of the whole system.",
+            "sent3": "At the math competition, the subgraph made a funny appearance, trying to fit in with the larger graphs but standing out as a unique piece.",
+            "sent4": "The subgraph was like a hidden treasure map within the larger graph, revealing secrets in its limited space.",
+            "sent5": "As I explored the graph, the subgraph stood out like a small puzzle piece waiting to be connected to the rest of the picture."
         }
     ]
 }

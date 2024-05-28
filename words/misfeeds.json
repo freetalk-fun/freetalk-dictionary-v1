@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To feed incorrectly or inadequately.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The robot misfeeds the parts into the assembly line.",
+            "sent2": "Sometimes, the printer misfeeds the paper and jams.",
+            "sent3": "The hungry puppy misfeeds on the kibble and leaves a mess.",
+            "sent4": "Her mind misfeeds on negative thoughts, affecting her mood.",
+            "sent5": "The gardener misfeeds the plants with too much fertilizer, causing them to wither."
         },
         {
             "definition": "A failure of a machine to feed properly.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The misfeeds of the printer caused delays in the office.",
+            "sent2": "The technician fixed the misfeeds in the conveyor belt.",
+            "sent3": "The misfeeds in the vending machine led to snacks getting stuck.",
+            "sent4": "The misfeeds of information in the system resulted in errors.",
+            "sent5": "The misfeeds of the sewing machine ruined the fabric."
         }
     ]
 }

@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Repos (verb): to place something in a new position",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She repos her books on the shelf after reading them.",
+            "sent2": "He repos the toys back in the box after playing.",
+            "sent3": "The cat repos the ball in unexpected places around the house.",
+            "sent4": "The sun repos behind the clouds as evening approaches.",
+            "sent5": "The gardener repos the plants carefully to catch the sunlight."
         },
         {
             "definition": "Repos (noun): a place where things are stored or deposited",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The warehouse serves as a repos for various goods.",
+            "sent2": "The bank vault is a secure repos for valuable items.",
+            "sent3": "The attic became a repos for forgotten treasures.",
+            "sent4": "Her mind is a repos of memories, both good and bad.",
+            "sent5": "The library is a repos of knowledge waiting to be explored."
         }
     ]
 }

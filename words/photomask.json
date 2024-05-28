@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A mask used in photolithography to transfer patterns onto a substrate.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The photomask helped create intricate designs on the computer chip.",
+            "sent2": "The technician carefully aligned the photomask on top of the silicon wafer.",
+            "sent3": "When the photomask went missing, the patterns on the substrate turned into a jumbled mess.",
+            "sent4": "The photomask acted like a secret code, revealing the hidden pattern on the substrate.",
+            "sent5": "Under the bright light, the photomask revealed its detailed design on the substrate."
         },
         {
             "definition": "A tool used in the production of integrated circuits to define the pattern of each layer.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The photomask played a crucial role in shaping the layers of the integrated circuit.",
+            "sent2": "Engineers rely on the precision of the photomask to ensure accurate patterns on each layer.",
+            "sent3": "During the circuit production, the photomask accidentally slipped, creating a unique pattern.",
+            "sent4": "Like a master artist, the photomask carefully painted the intricate layers of the circuit.",
+            "sent5": "The photomask's role was akin to a conductor, orchestrating the pattern symphony of the integrated circuit."
         }
     ]
 }

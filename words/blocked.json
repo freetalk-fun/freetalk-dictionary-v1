@@ -3,23 +3,48 @@
     "meanings": [
         {
             "definition": "obstructed",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The path was blocked by a fallen tree.",
+            "sent2": "The view was blocked by a tall building.",
+            "sent3": "The squirrel blocked the bird feeder, trying to steal seeds.",
+            "sent4": "Her tears blocked her vision, blurring everything around her.",
+            "sent5": "The blocked drain caused a flood in the basement."
         },
         {
             "definition": "prevented from passing",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The fallen tree blocked the road.",
+            "sent2": "The security guard blocked the entrance to the VIP area.",
+            "sent3": "The clever cat blocked the mouse's escape route.",
+            "sent4": "The firewall blocked the hacker's access to the system.",
+            "sent5": "The goalie blocked the soccer ball from entering the goal."
         },
         {
             "definition": "closed off",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The blocked door led to a mysterious room.",
+            "sent2": "The blocked tunnel was inaccessible to the explorers.",
+            "sent3": "The blocked gate kept the curious children out of the garden.",
+            "sent4": "The blocked window made the room feel stuffy and dark.",
+            "sent5": "The blocked off area was restricted to authorized personnel only."
         },
         {
             "definition": "unable to proceed",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The car was blocked by a fallen tree on the road.",
+            "sent2": "The project was blocked due to lack of funding.",
+            "sent3": "The player was blocked from advancing by the opponent's defense.",
+            "sent4": "The blocked road forced them to find an alternate route.",
+            "sent5": "The blocked path left them stranded in the forest."
         },
         {
             "definition": "impeded",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The heavy traffic blocked their journey home.",
+            "sent2": "The snowstorm blocked the roads, causing delays.",
+            "sent3": "The slow internet connection blocked their video from loading.",
+            "sent4": "The language barrier blocked effective communication.",
+            "sent5": "The construction work blocked access to the building entrance."
         }
     ]
 }

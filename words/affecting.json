@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To have an influence on or make a difference to",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The rain affecting the plants helped them grow.",
+            "sent2": "Her kind words affecting his decision to help.",
+            "sent3": "The cat affecting the dog's mood by playing with its tail.",
+            "sent4": "The teacher's guidance affecting the students' future paths.",
+            "sent5": "The music affecting the listener's mood instantly."
         },
         {
             "definition": "To move or touch emotionally",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The movie's ending affecting the audience deeply.",
+            "sent2": "His heartfelt speech affecting everyone in the room.",
+            "sent3": "The puppy affecting her with its adorable antics.",
+            "sent4": "The painting affecting her to tears with its beauty.",
+            "sent5": "The sad news affecting her more than she expected."
         },
         {
             "definition": "Having a strong emotional impact on",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The affecting story left everyone in tears.",
+            "sent2": "Her affecting performance moved the audience.",
+            "sent3": "The affecting movie made them laugh and cry.",
+            "sent4": "The affecting song resonated with listeners deeply.",
+            "sent5": "The affecting photograph captured a moment forever."
         }
     ]
 }

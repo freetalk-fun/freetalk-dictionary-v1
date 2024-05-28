@@ -3,19 +3,39 @@
     "meanings": [
         {
             "definition": "To come or go back to a place or person.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "After the long journey, the tired traveler returns home.",
+            "sent2": "She returns to the park every morning for a walk.",
+            "sent3": "The lost puppy returns to its owner with a wagging tail.",
+            "sent4": "As the seasons change, the warmth of summer returns to the land.",
+            "sent5": "The migrating birds return to their nests in the spring."
         },
         {
             "definition": "The profit made on an investment.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The businessman was happy with the high returns on his stocks.",
+            "sent2": "Investors hope for good returns on their financial decisions.",
+            "sent3": "The unexpected returns from the investment brought a smile to his face.",
+            "sent4": "The returns from the business venture exceeded all expectations.",
+            "sent5": "The wise investor always considers the potential returns before making a decision."
         },
         {
             "definition": "The act of giving, sending, or taking something back.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The returns policy allows customers to bring back unwanted items.",
+            "sent2": "She processed the returns at the store's customer service desk.",
+            "sent3": "The returns of borrowed books were due at the library today.",
+            "sent4": "The company handles product returns efficiently to ensure customer satisfaction.",
+            "sent5": "He completed the returns process by returning the faulty product to the store."
         },
         {
             "definition": "To submit or present for consideration or approval.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He returns his completed application to the admissions office.",
+            "sent2": "The student returns the assignment to the teacher for grading.",
+            "sent3": "She returns the form to the receptionist after filling it out.",
+            "sent4": "The artist returns the finished painting to the gallery for display.",
+            "sent5": "The author returns the manuscript to the publisher for review."
         }
     ]
 }

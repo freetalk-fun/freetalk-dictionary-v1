@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A short piece of writing on a particular subject.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "She enjoyed reading the essays in the magazine.",
+            "sent2": "The student had to write three essays for homework.",
+            "sent3": "The essays in the book were so interesting that she couldn't put it down.",
+            "sent4": "Her mind was a collection of essays, each one a different story waiting to be told.",
+            "sent5": "The essays painted vivid pictures of the author's experiences."
         },
         {
             "definition": "Attempt or try.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He essays to solve the puzzle every day.",
+            "sent2": "She essays to learn a new language every summer.",
+            "sent3": "The cat essays to catch the elusive red dot on the floor.",
+            "sent4": "The young bird essays its first flight from the nest.",
+            "sent5": "He essays to climb the mountain, determined to reach the summit."
         }
     ]
 }

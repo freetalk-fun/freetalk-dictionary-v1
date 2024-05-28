@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A hole or tunnel dug in the earth from which minerals are extracted.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The miners went deep into the mine to find gold.",
+            "sent2": "The mine collapsed, trapping the workers inside.",
+            "sent3": "I pretended my backyard was a mine and searched for hidden treasures.",
+            "sent4": "Her mind was a mine of creative ideas waiting to be discovered.",
+            "sent5": "The abandoned mine was eerie and filled with echoes of the past."
         },
         {
             "definition": "Belonging to or associated with the speaker.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "This is mine, not yours.",
+            "sent2": "The book on the table is mine.",
+            "sent3": "I accidentally took someone else's bag, thinking it was mine.",
+            "sent4": "Her smile was like a mine of happiness that brightened up the room.",
+            "sent5": "The old photo album is mine, full of memories from the past."
         },
         {
             "definition": "Used to express possession or ownership.",
-            "pos": "pronoun"
+            "pos": "pronoun",
+            "sent1": "The red car is mine; the blue one is yours.",
+            "sent2": "Is this pen mine or yours?",
+            "sent3": "I thought the last slice of pizza was mine, but it was actually yours.",
+            "sent4": "His determination to succeed was a treasure mine that never ran dry.",
+            "sent5": "The beautiful garden with colorful flowers is mine, and I take care of it with love."
         }
     ]
 }

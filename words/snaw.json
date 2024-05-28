@@ -3,15 +3,21 @@
     "meanings": [
         {
             "definition": "Snow - a form of precipitation consisting of ice crystals",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The children played in the snaw during the winter.",
+            "sent2": "I woke up to a blanket of snaw covering the ground.",
+            "sent3": "The snaw made the landscape look like a winter wonderland.",
+            "sent4": "The snaw fell gently from the sky like powdered sugar.",
+            "sent5": "The snaw sparkled in the sunlight, creating a magical scene."
         },
         {
             "definition": "To snow - to fall as snow",
-            "pos": "verb"
-        },
-        {
-            "definition": "Snowy - covered with snow",
-            "pos": "adjective"
+            "pos": "verb",
+            "sent1": "It will snaw heavily tonight, so be prepared for a snowy morning.",
+            "sent2": "I hope it doesn't snaw too much, or we might get snowed in.",
+            "sent3": "The forecast predicts it will snaw all day, so cancel any outdoor plans.",
+            "sent4": "The snowflakes snawed down softly, covering everything in white.",
+            "sent5": "I love watching the snow snaw gently outside my window."
         }
     ]
 }

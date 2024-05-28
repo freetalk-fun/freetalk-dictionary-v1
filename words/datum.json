@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A single piece of information",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The datum in the report showed the temperature at noon.",
+            "sent2": "She recorded each datum carefully in her notebook.",
+            "sent3": "The detective found a crucial datum that cracked the case.",
+            "sent4": "His smile was a datum of his happiness.",
+            "sent5": "The datum about the missing keys was unforgettable."
         },
         {
             "definition": "A fixed reference point for making measurements",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The star served as a datum for navigation in ancient times.",
+            "sent2": "The surveyor used a benchmark as a datum for the elevation readings.",
+            "sent3": "The tiny rock became the datum for the experiment, much to everyone's surprise.",
+            "sent4": "Her unwavering faith was the datum by which he measured his own beliefs.",
+            "sent5": "The North Star was their guiding datum through the night."
         },
         {
             "definition": "A fact or piece of information used for analysis",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The researchers gathered every datum they could find on the topic.",
+            "sent2": "Each datum was carefully considered before drawing a conclusion.",
+            "sent3": "The unexpected datum in the study led to a breakthrough discovery.",
+            "sent4": "His intuition was a valuable datum in predicting the outcome.",
+            "sent5": "The datum about the endangered species sparked urgent action."
         }
     ]
 }

@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To predict the likely course of a disease or condition.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The doctor prognosed that the patient would recover fully.",
+            "sent2": "The medical team prognosed a positive outcome for the surgery.",
+            "sent3": "The fortune teller prognosed the flu season with her crystal ball.",
+            "sent4": "The meteorologist prognosed a stormy week ahead.",
+            "sent5": "The scientist prognosed the growth of the virus in the lab."
         },
         {
             "definition": "The likely course or outcome of a disease or condition.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The prognosis for the patient's recovery was positive.",
+            "sent2": "The doctor discussed the prognosis with the family.",
+            "sent3": "The cat's prognosis for catching the mouse was uncertain.",
+            "sent4": "The prognosis of the stock market was grim.",
+            "sent5": "The weather forecast gave a bleak prognosis for the weekend."
         }
     ]
 }

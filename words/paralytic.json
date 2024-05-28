@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A person affected by paralysis.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The paralytic struggled to move his legs.",
+            "sent2": "The doctor helped the paralytic with physical therapy.",
+            "sent3": "The paralytic joked that he was 'stuck in place like a statue'.",
+            "sent4": "The fear of failure can be a paralytic force in one's life.",
+            "sent5": "The paralytic's wheelchair became his trusted companion."
         },
         {
             "definition": "Causing paralysis.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The paralytic venom of the spider left its prey immobile.",
+            "sent2": "The paralytic medication helped relax the patient's muscles.",
+            "sent3": "The paralytic effect of the sleeping pill made the character in the movie comically fall asleep mid-sentence.",
+            "sent4": "The paralytic fear of heights gripped her as she looked down from the tall building.",
+            "sent5": "The paralytic coldness of the ice numbed his fingers instantly."
         },
         {
             "definition": "Characterized by paralysis.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The paralytic condition of his legs made walking difficult.",
+            "sent2": "The paralytic patient required constant care and attention.",
+            "sent3": "The paralytic nature of the traffic jam caused frustration among drivers.",
+            "sent4": "The paralytic grip of fear held her back from taking risks.",
+            "sent5": "The paralytic stillness of the room was eerie in the dim light."
         }
     ]
 }

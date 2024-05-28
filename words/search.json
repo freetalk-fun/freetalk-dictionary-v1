@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To look for information or items by examining carefully",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I will search the library for the book I need.",
+            "sent2": "She likes to search online for new recipes to try.",
+            "sent3": "The detective decided to search for clues in the old mansion.",
+            "sent4": "His eyes searched the room, trying to find the hidden treasure.",
+            "sent5": "The explorer searched the jungle for rare plants."
         },
         {
             "definition": "An act of searching for something",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The search for the missing keys lasted all day.",
+            "sent2": "The search for a new apartment can be challenging.",
+            "sent3": "The search for the perfect gift was finally successful.",
+            "sent4": "The search for the truth led to unexpected revelations.",
+            "sent5": "The search for the lost dog ended happily."
         },
         {
             "definition": "To try to find something by looking or asking",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I will search the park for my missing sunglasses.",
+            "sent2": "They decided to search the neighborhood for the lost cat.",
+            "sent3": "The children searched high and low for their hidden Easter eggs.",
+            "sent4": "She searched her memory for the name of the movie.",
+            "sent5": "The team searched the forest for the rare bird species."
         }
     ]
 }

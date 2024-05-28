@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To observe and check the progress or quality of something.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I am monitoring the plants to see if they need more water.",
+            "sent2": "The security guard is monitoring the cameras to ensure safety.",
+            "sent3": "The detective was monitoring the suspect's every move, like a hawk.",
+            "sent4": "She was monitoring the stock market like a skilled trader.",
+            "sent5": "The teacher was monitoring the students' progress closely to help them improve."
         },
         {
             "definition": "The act of keeping track of a situation or process.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Regular monitoring of the patient's vital signs is crucial in the hospital.",
+            "sent2": "The constant monitoring of the weather helps in predicting storms.",
+            "sent3": "The monitoring of the cookie jar by the kids was unsuccessful this time.",
+            "sent4": "The monitoring of social media trends is essential for marketing strategies.",
+            "sent5": "The monitoring of the traffic flow was necessary to avoid congestion."
         },
         {
             "definition": "A device used to display information or control a system.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The computer monitor displays all the information on the screen.",
+            "sent2": "The heart rate monitor helps in tracking fitness levels during exercise.",
+            "sent3": "The baby monitor alerted the parents when the baby woke up.",
+            "sent4": "The security monitor kept an eye on the entire building.",
+            "sent5": "The temperature monitor showed a sudden drop in the room."
         }
     ]
 }

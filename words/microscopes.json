@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "An optical instrument used for viewing very small objects.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Scientists use microscopes to see tiny cells.",
+            "sent2": "The students looked at the specimen under the microscopes.",
+            "sent3": "The detective found a clue under the microscopes.",
+            "sent4": "Her eyes were like microscopes, noticing every detail.",
+            "sent5": "The microscopes revealed a hidden world of minuscule wonders."
         },
         {
             "definition": "To examine or analyze something using a microscope.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She carefully microscopes the sample to identify the bacteria.",
+            "sent2": "The scientist microscopes the blood sample to study its composition.",
+            "sent3": "He microscopes every word in the document to find errors.",
+            "sent4": "The teacher microscopes the student's work to provide feedback.",
+            "sent5": "They microscopes the evidence to solve the mystery."
         }
     ]
 }

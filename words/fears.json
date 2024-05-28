@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "An unpleasant emotion caused by the belief that someone or something is dangerous, likely to cause pain, or a threat.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Her fears of spiders made her scream and run away.",
+            "sent2": "His fears of failure held him back from trying new things.",
+            "sent3": "The cat's fears of the vacuum cleaner were quite comical.",
+            "sent4": "The child's fears of the dark were like shadows creeping in.",
+            "sent5": "The soldier's fears of war echoed in his troubled dreams."
         },
         {
             "definition": "To be afraid of (someone or something) as likely to be dangerous, painful, or threatening.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She fears the thunderstorm approaching.",
+            "sent2": "He fears the unknown future that lies ahead.",
+            "sent3": "The squirrel fears the mischievous cat's playful pounce.",
+            "sent4": "The captain fears the storm brewing on the horizon.",
+            "sent5": "The student fears the upcoming exam like a looming mountain to climb."
         }
     ]
 }

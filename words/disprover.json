@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "One who disproves something.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The disprover showed evidence that the theory was wrong.",
+            "sent2": "The scientist was a skilled disprover of myths.",
+            "sent3": "The magician's rabbit acted as a disprover of the hat's emptiness.",
+            "sent4": "The detective was like a sharp disprover, unraveling the suspect's alibi.",
+            "sent5": "The teacher's red pen became the ultimate disprover of incorrect answers."
         },
         {
             "definition": "To prove (a statement, theory, etc.) to be false or incorrect.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She tried to disprover the rumor by presenting facts.",
+            "sent2": "The experiment will either prove or disprover the hypothesis.",
+            "sent3": "The cat's attempt to bark only served to disprover its identity as a dog.",
+            "sent4": "His sudden arrival disprover our assumption that he was out of town.",
+            "sent5": "The storm's intensity seemed to disprover the weather forecast."
         }
     ]
 }

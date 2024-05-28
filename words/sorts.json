@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A category or class of things with similar characteristics.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "There are many different sorts of animals in the zoo.",
+            "sent2": "She organized her books into different sorts based on genre.",
+            "sent3": "The sorts of ice cream flavors they had were truly endless.",
+            "sent4": "In the forest, the trees stood tall like different sorts of soldiers.",
+            "sent5": "The teacher explained the sorts of shapes using colorful examples."
         },
         {
             "definition": "To arrange or classify items into groups.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She sorts her socks by color before putting them away.",
+            "sent2": "He helps to sort the recycling into different bins.",
+            "sent3": "The robot sorted the toys into neat piles with precision.",
+            "sent4": "Her mind started to sort through memories like a busy librarian.",
+            "sent5": "The students were asked to sort the shapes into two separate groups."
         },
         {
             "definition": "To find out the nature of something.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He sorts through the evidence to solve the mystery.",
+            "sent2": "She carefully sorted the ingredients to make sure nothing was missing.",
+            "sent3": "The detective sorted through the clues to crack the case.",
+            "sent4": "Her thoughts were like puzzle pieces, trying to sort out the truth.",
+            "sent5": "The scientist sorted the samples to identify the different elements."
         }
     ]
 }

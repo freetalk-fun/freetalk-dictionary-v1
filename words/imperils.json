@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Puts in danger",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Not wearing a seatbelt imperils your safety in a car.",
+            "sent2": "Leaving a candle burning imperils the house.",
+            "sent3": "Eating spicy food before a run imperils your speed.",
+            "sent4": "Ignoring warning signs imperils your well-being.",
+            "sent5": "Playing with fire imperils your fingers."
         },
         {
             "definition": "Endangers",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Swimming in rough waters imperils inexperienced swimmers.",
+            "sent2": "Walking alone in a dark alley imperils your security.",
+            "sent3": "Forgetting your umbrella imperils your dryness.",
+            "sent4": "Ignoring safety instructions imperils your life.",
+            "sent5": "Driving recklessly imperils other drivers on the road."
         },
         {
             "definition": "Threatens",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "A storm cloud imperils the picnic plans.",
+            "sent2": "A leaky roof imperils the electronics in the house.",
+            "sent3": "A barking dog imperils the quiet of the neighborhood.",
+            "sent4": "A broken lock imperils the security of the house.",
+            "sent5": "A missed deadline imperils the project's success."
         }
     ]
 }

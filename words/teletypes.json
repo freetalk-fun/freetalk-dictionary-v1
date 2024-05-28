@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A device that operates like a typewriter and sends messages over a distance.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The old office had teletypes for sending messages.",
+            "sent2": "The teletypes in the newsroom were used to transmit breaking news.",
+            "sent3": "The teletypes clacked away, sounding like a busy bee hive.",
+            "sent4": "Her fingers danced on the teletypes, composing urgent messages.",
+            "sent5": "The teletypes hummed with activity, connecting people across the world."
         },
         {
             "definition": "To send messages using a teletype machine.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He teletypes important updates to the team every hour.",
+            "sent2": "She teletypes the daily reports to headquarters promptly.",
+            "sent3": "The cat teletypes gibberish on the keyboard when no one is looking.",
+            "sent4": "Ideas teletype through his mind, sparking creativity.",
+            "sent5": "The keys clatter as she teletypes the urgent message to the control center."
         }
     ]
 }

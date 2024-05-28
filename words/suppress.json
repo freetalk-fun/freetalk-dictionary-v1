@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To forcibly put an end to something",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The firefighters worked hard to suppress the raging fire.",
+            "sent2": "The police had to suppress the riot to restore peace in the city.",
+            "sent3": "The superhero used his powers to suppress the villain's evil plans.",
+            "sent4": "The teacher tried to suppress the students' excitement before the surprise announcement.",
+            "sent5": "The medication helped suppress the patient's coughing fits."
         },
         {
             "definition": "To prevent the development, action, or expression of something",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She tried to suppress her laughter during the serious meeting.",
+            "sent2": "The strict rules were put in place to suppress any cheating during the exam.",
+            "sent3": "The magician used a trick to suppress the audience's ability to guess his next move.",
+            "sent4": "The bad weather threatened to suppress our plans for a picnic.",
+            "sent5": "The noise-canceling headphones helped suppress the loud sounds from the construction site."
         },
         {
             "definition": "To keep something secret or hidden",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The spy had to suppress the classified information to protect national security.",
+            "sent2": "She had to suppress her excitement about the surprise party to avoid spoiling the secret.",
+            "sent3": "The treasure map was hidden to suppress the location of the buried gold.",
+            "sent4": "The author had to suppress the identity of the main character until the end of the book.",
+            "sent5": "The government tried to suppress the leaked documents to avoid public scrutiny."
         }
     ]
 }

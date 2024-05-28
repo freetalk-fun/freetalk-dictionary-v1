@@ -3,19 +3,39 @@
     "meanings": [
         {
             "definition": "The structure that gives shape or support to something.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The wooden frame held the painting securely on the wall.",
+            "sent2": "The glasses frame helped support the lenses.",
+            "sent3": "The frame of the house seemed to be giving it a big hug.",
+            "sent4": "Her smile framed her face beautifully.",
+            "sent5": "The metal frame of the car crumpled in the accident."
         },
         {
             "definition": "A single image in a series of images that make up a film or video.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The movie played at 24 frames per second.",
+            "sent2": "He paused the video to analyze a particular frame.",
+            "sent3": "The frame froze on a funny facial expression.",
+            "sent4": "The frame captured the exact moment the ball hit the goal post.",
+            "sent5": "In each frame, the character's emotions were vividly portrayed."
         },
         {
             "definition": "To construct or make something appear in a particular way.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She tried to frame her argument in a more convincing manner.",
+            "sent2": "The artist framed the landscape beautifully in the painting.",
+            "sent3": "He tried to frame his excuses in a way that made them sound reasonable.",
+            "sent4": "The photographer framed the shot perfectly before clicking.",
+            "sent5": "The director framed the scene to create a sense of mystery."
         },
         {
             "definition": "To plan or arrange something in advance.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "They needed to frame the schedule for the upcoming event.",
+            "sent2": "He framed his speech carefully to appeal to the audience.",
+            "sent3": "She decided to frame her day with a morning walk in the park.",
+            "sent4": "The team framed their strategy for the competition.",
+            "sent5": "He framed his proposal with detailed steps for implementation."
         }
     ]
 }

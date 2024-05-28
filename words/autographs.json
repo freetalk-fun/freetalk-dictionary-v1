@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A signature, especially that of a famous person.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I asked the celebrity for his autograph at the event.",
+            "sent2": "The autographs of historical figures are valuable to collectors.",
+            "sent3": "My little sister proudly showed off her teddy bear's autograph.",
+            "sent4": "The autograph on the painting seemed to bring it to life.",
+            "sent5": "The autograph on the book cover made it a cherished possession."
         },
         {
             "definition": "To sign one's name on a document or object.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The author autographs each copy of his book at book signings.",
+            "sent2": "She carefully autographs the official documents before submitting them.",
+            "sent3": "The cat tried to autograph the contract with its paw prints.",
+            "sent4": "The artist autographs his paintings with a unique symbol.",
+            "sent5": "He autographs the baseball with precision, ensuring it's authentic."
         }
     ]
 }

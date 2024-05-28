@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To exist or occur before in time",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The invention of the wheel predates the invention of the computer.",
+            "sent2": "Dinosaurs predates humans by millions of years.",
+            "sent3": "It's like the wheel predates the car!",
+            "sent4": "The ancient ruins predates written history.",
+            "sent5": "The legend of Atlantis predates recorded civilization."
         },
         {
             "definition": "To come before in order or position",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The appetizer predates the main course in a meal.",
+            "sent2": "The introduction predates the conclusion in a book.",
+            "sent3": "The dessert predates the dinner!",
+            "sent4": "The foundation predates the building.",
+            "sent5": "The preparation predates the event."
         }
     ]
 }

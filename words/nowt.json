@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Nothing",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I found nowt in my pocket.",
+            "sent2": "There was nowt left in the fridge.",
+            "sent3": "When I opened the box, nowt was inside!",
+            "sent4": "The room was so dark, I could see nowt.",
+            "sent5": "She searched high and low, but nowt could be found."
         },
         {
             "definition": "No part; nothing",
-            "pos": "pronoun"
+            "pos": "pronoun",
+            "sent1": "Nowt of the cake was left for me.",
+            "sent2": "He offered me some of his sandwich, but I wanted nowt.",
+            "sent3": "I asked for a slice, but got nowt!",
+            "sent4": "The magician made the rabbit disappear into nowt.",
+            "sent5": "The treasure chest was empty, holding nowt inside."
         },
         {
             "definition": "No value or significance",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "She dismissed his argument as nowt.",
+            "sent2": "The broken toy was nowt to him.",
+            "sent3": "The old coin turned out to be nowt but a fake.",
+            "sent4": "His promises were nowt but empty words.",
+            "sent5": "The painting was nowt compared to the real thing."
         }
     ]
 }

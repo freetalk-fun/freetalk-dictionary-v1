@@ -3,23 +3,48 @@
     "meanings": [
         {
             "definition": "Not any",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "There were none cookies left in the jar.",
+            "sent2": "She had none money to buy a new dress.",
+            "sent3": "The magician pulled a rabbit out of a hat, but none of the kids believed it was real.",
+            "sent4": "The forest was so dense that none sunlight could penetrate through the thick canopy.",
+            "sent5": "The detective found none fingerprints at the crime scene, making the case even more mysterious."
         },
         {
             "definition": "No one",
-            "pos": "pronoun"
+            "pos": "pronoun",
+            "sent1": "None of the students raised their hands to answer the question.",
+            "sent2": "None knew the answer to the riddle.",
+            "sent3": "At the costume party, none recognized him in his elaborate disguise.",
+            "sent4": "In the ghost town, none dared to enter the abandoned saloon after dark.",
+            "sent5": "None of the birds in the forest could mimic the song of the elusive nightingale."
         },
         {
             "definition": "Not any part",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The puzzle was missing none of its pieces.",
+            "sent2": "She left none of the cake for her brother.",
+            "sent3": "The comedian's jokes were so bad that none of the audience members laughed.",
+            "sent4": "The storm was so powerful that none of the trees in the forest remained standing.",
+            "sent5": "The chef used none of the traditional ingredients in her experimental dish."
         },
         {
             "definition": "No part",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The plan was successful because none of it relied on luck.",
+            "sent2": "She felt none of the excitement that usually accompanied the holidays.",
+            "sent3": "The detective found none of the evidence he was looking for at the crime scene.",
+            "sent4": "The artist's painting was so abstract that none of the viewers could decipher its meaning.",
+            "sent5": "The explorer discovered a hidden cave where none of the locals had ever ventured."
         },
         {
             "definition": "No amount",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "She had none of the patience required to deal with the difficult customer.",
+            "sent2": "The treasure chest contained none of the gold the pirates had been seeking.",
+            "sent3": "The scientist found none of the expected results in his latest experiment.",
+            "sent4": "The garden yielded none of the flowers that were planted in the spring.",
+            "sent5": "The beggar's cup held none of the coins that passersby usually dropped in."
         }
     ]
 }

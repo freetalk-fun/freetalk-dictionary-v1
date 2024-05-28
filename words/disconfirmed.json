@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To prove to be false or incorrect.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The scientist disconfirmed the theory with new evidence.",
+            "sent2": "She disconfirmed the rumor by providing concrete facts.",
+            "sent3": "The magician disconfirmed the audience's expectations with a surprising trick.",
+            "sent4": "His alibi was disconfirmed, leaving him without a defense.",
+            "sent5": "The detective disconfirmed the suspect's alibi with security camera footage."
         },
         {
             "definition": "To show that a belief or hypothesis is not valid.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The experiment disconfirmed their hypothesis about plant growth.",
+            "sent2": "The data disconfirmed the assumption that all birds can fly.",
+            "sent3": "The fortune teller's prediction was disconfirmed by the actual events.",
+            "sent4": "The survey results disconfirmed the company's expectations about customer satisfaction.",
+            "sent5": "The weather forecast disconfirmed our hopes for a sunny day at the beach."
         }
     ]
 }

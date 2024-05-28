@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "The basic unit of length in the metric system, equal to 100 centimetres.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The football field measured 100 metres in length.",
+            "sent2": "The sign indicated that the distance to the park was 200 metres.",
+            "sent3": "I tried to jump 100 metres in one go, but I only made it halfway!",
+            "sent4": "Her patience stretched for what felt like a million metres during the long wait.",
+            "sent5": "The teacher used a rope that was exactly 1 metre long to demonstrate the measurement."
         },
         {
             "definition": "A metric unit of measurement equal to 3.28 feet.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The construction worker measured the beam to be 5 metres long.",
+            "sent2": "The marathon course was marked every 500 metres for the runners.",
+            "sent3": "The cat walked a few metres, then decided to take a nap in the sun.",
+            "sent4": "His determination to finish the race was like running a thousand metres without stopping.",
+            "sent5": "The road sign warned of a sharp turn ahead, just a few metres away."
         }
     ]
 }

@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Not working or active",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The idles machine sat quietly in the corner of the room.",
+            "sent2": "The idles computer screen showed no signs of life.",
+            "sent3": "The idles toy robot seemed to be taking a nap.",
+            "sent4": "The idles engine lay dormant, waiting for a spark.",
+            "sent5": "The idles factory was eerily silent, devoid of any movement."
         },
         {
             "definition": "To spend time doing nothing",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He idles away his afternoons by the river, watching the water flow.",
+            "sent2": "She idles on the park bench, enjoying the sunshine.",
+            "sent3": "The cat idles lazily in the sun, soaking up the warmth.",
+            "sent4": "Time idles by slowly when you have nothing to do.",
+            "sent5": "The student idles in class, daydreaming about the weekend."
         },
         {
             "definition": "To run at a slow speed without engaging the clutch",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The car idles smoothly at the traffic light, ready to move.",
+            "sent2": "The motorcycle idles along the country road, enjoying the scenery.",
+            "sent3": "The boat idles in the calm waters, gently rocking back and forth.",
+            "sent4": "The plane idles on the runway, waiting for clearance to take off.",
+            "sent5": "The lawnmower idles before starting its task of cutting the grass."
         }
     ]
 }

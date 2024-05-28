@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "The number four.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I have vier apples in my basket.",
+            "sent2": "The table has vier legs for support.",
+            "sent3": "The vier seasons bring different weather.",
+            "sent4": "Her family consists of vier members.",
+            "sent5": "The clock struck vier, signaling the end of the day."
         },
         {
             "definition": "To divide into four parts.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She will vier the cake into equal slices.",
+            "sent2": "Please vier the paper into four sections.",
+            "sent3": "He tried to vier his time between work and play.",
+            "sent4": "The river seemed to vier the landscape in half.",
+            "sent5": "The magician will vier the scarf into pieces and then restore it."
         },
         {
             "definition": "A card with the value of four in a deck of playing cards.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I drew a vier from the deck during the game.",
+            "sent2": "The player placed a vier on the table during the round.",
+            "sent3": "She was excited to receive a vier in her hand.",
+            "sent4": "The vier in his hand completed his winning hand.",
+            "sent5": "The vier card was the last one needed to win the game."
         }
     ]
 }

@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Feces of animals.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The farmer used dung to fertilize his crops.",
+            "sent2": "The field was covered in cow dung.",
+            "sent3": "The dung in the barn made the children giggle.",
+            "sent4": "The dung scattered across the path was a reminder of the grazing cows.",
+            "sent5": "The smell of fresh dung filled the air on the farm."
         },
         {
             "definition": "To fertilize or dress with dung.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The gardener dunged the soil before planting the seeds.",
+            "sent2": "Farmers dung their fields to improve crop growth.",
+            "sent3": "The idea of dunging the garden with animal waste seemed strange at first.",
+            "sent4": "She dunged the flower beds with care, ensuring each plant received enough nutrients.",
+            "sent5": "The practice of dunging fields has been used for centuries to enhance soil fertility."
         },
         {
             "definition": "To defecate.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The dog dunged in the backyard.",
+            "sent2": "Wild animals dung in specific areas to mark their territory.",
+            "sent3": "The toddler dunged in the diaper just after breakfast.",
+            "sent4": "The cat dunged discreetly in the litter box.",
+            "sent5": "Birds dung from high above, creating unique patterns on the ground."
         }
     ]
 }

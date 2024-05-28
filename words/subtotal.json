@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "The total amount resulting from the addition of smaller amounts.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "After adding up all the prices, the subtotal came to $50.",
+            "sent2": "The subtotal of my grocery bill was $30 before taxes.",
+            "sent3": "The subtotal of the bill made me realize I had spent too much on desserts.",
+            "sent4": "Her excitement reached a subtotal when she saw the final bill for the shopping spree.",
+            "sent5": "The subtotal on the receipt showed the cost of the items before discounts were applied."
         },
         {
             "definition": "To calculate the subtotal of a list of numbers.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I need to subtotal the expenses before submitting the report.",
+            "sent2": "She quickly learned how to subtotal figures in the spreadsheet.",
+            "sent3": "Trying to subtotal the long list of expenses felt like solving a puzzle.",
+            "sent4": "The accountant will subtotal the costs to determine the budget allocation.",
+            "sent5": "Remember to subtotal each section before moving on to the next step in the calculation process."
         }
     ]
 }

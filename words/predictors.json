@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A person or thing that predicts.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The weather predictors on TV said it would rain today.",
+            "sent2": "She is known as a reliable predictor of stock market trends.",
+            "sent3": "The cat became a predictor of when the mailman would arrive, always waiting by the door.",
+            "sent4": "His intuition was a predictor of success, guiding him towards the right decisions.",
+            "sent5": "The old man's predictor of a harsh winter was the early arrival of snow."
         },
         {
             "definition": "A variable used to forecast future trends or outcomes.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Economic predictors suggest a rise in inflation next year.",
+            "sent2": "In this study, age was identified as a significant predictor of health outcomes.",
+            "sent3": "The magic eight ball was an unreliable predictor of the future, often giving vague answers.",
+            "sent4": "The number of customers visiting the store was a strong predictor of sales for the day.",
+            "sent5": "The predictor of a successful relationship was found to be effective communication."
         }
     ]
 }

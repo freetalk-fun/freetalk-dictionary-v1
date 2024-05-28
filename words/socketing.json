@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A hollow part or piece for receiving and holding a corresponding part or piece.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I placed the bulb into the socketing on the lamp.",
+            "sent2": "The socketing on the wall was perfect for the plug.",
+            "sent3": "The socketing in the puzzle piece made it easy to connect.",
+            "sent4": "The socketing of the key into the lock was smooth and satisfying.",
+            "sent5": "The socketing of the phone charger into the outlet was quick and effortless."
         },
         {
             "definition": "The act of fitting or fixing into a socket.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The socketing of the screw into the wall was secure.",
+            "sent2": "He demonstrated the proper socketing of the cable into the port.",
+            "sent3": "The socketing of the pieces together was like solving a puzzle.",
+            "sent4": "Her socketing of the pieces of the puzzle was quick and precise.",
+            "sent5": "The socketing of the plug into the outlet was done with ease."
         },
         {
             "definition": "To place in or fit with a socket.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She carefully socketed the plug into the outlet.",
+            "sent2": "He socketed the new light bulb into the fixture.",
+            "sent3": "The mechanic socketed the new part into place with skill.",
+            "sent4": "The carpenter socketed the shelf onto the wall securely.",
+            "sent5": "I socketed the key into the lock and turned it to open the door."
         }
     ]
 }

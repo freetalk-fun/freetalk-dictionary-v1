@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A person who decorates.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The decorator painted the walls a bright yellow.",
+            "sent2": "My mom hired a decorator to help with our living room.",
+            "sent3": "The decorator accidentally spilled paint on the carpet, creating a colorful mess.",
+            "sent4": "She was a decorator of emotions, adding joy and laughter to every room she entered.",
+            "sent5": "The decorator's touch transformed the plain room into a cozy haven."
         },
         {
             "definition": "A device or function that adds special behavior to a class or function.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "In Python, a decorator is used to modify the behavior of a function.",
+            "sent2": "The decorator pattern is commonly used in software development.",
+            "sent3": "The decorator on the cake was so elaborate that it stole the show.",
+            "sent4": "Her smile was like a decorator, adding brightness to the gloomy day.",
+            "sent5": "The decorator function enhanced the performance of the program significantly."
         }
     ]
 }

@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Crushed noisily",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "The leaves crunched loudly under my feet.",
+            "sent2": "I crunched the paper in my hand to make a sound.",
+            "sent3": "The chips crunched in my mouth as I ate them.",
+            "sent4": "The car crunched to a stop at the red light.",
+            "sent5": "The snow crunched beneath the weight of my boots."
         },
         {
             "definition": "Squeezed or pressed with force",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She crunched the can in her hand effortlessly.",
+            "sent2": "The machine crunched the metal into a compact shape.",
+            "sent3": "He crunched the stress ball to relieve tension.",
+            "sent4": "The wrestler crunched his opponent in a tight hold.",
+            "sent5": "The chef crunched the garlic with a heavy knife."
         },
         {
             "definition": "To process data or numbers in a quick and efficient manner",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The computer crunched the numbers in seconds.",
+            "sent2": "I crunched the data to generate the report.",
+            "sent3": "She crunched the statistics to find the trend.",
+            "sent4": "The calculator crunched the complex equation effortlessly.",
+            "sent5": "The machine crunched the information with precision."
         }
     ]
 }

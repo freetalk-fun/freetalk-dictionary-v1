@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To give someone a particular job or task.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The teacher will assign homework to the students.",
+            "sent2": "Please assign a new project to each team member.",
+            "sent3": "I wonder if the cat will assign the task of catching mice to the dog.",
+            "sent4": "The captain decided to assign the duty of steering the ship to the new sailor.",
+            "sent5": "In the game, players must assign roles to each team member strategically."
         },
         {
             "definition": "To allocate something to a particular person or purpose.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The manager will assign the budget for the project.",
+            "sent2": "It is important to assign resources efficiently.",
+            "sent3": "I accidentally assign the wrong book to the wrong student.",
+            "sent4": "The chef will assign the best ingredients to each dish on the menu.",
+            "sent5": "The committee will assign tasks to each member based on their strengths."
         },
         {
             "definition": "To transfer legal rights or responsibilities to someone else.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The lawyer will assign the contract to the new owner.",
+            "sent2": "It is common to assign copyrights to a publishing company.",
+            "sent3": "The magician tried to assign his disappearing act to his assistant.",
+            "sent4": "The company decided to assign the property rights to a new developer.",
+            "sent5": "The author will assign the movie rights to a film production company."
         }
     ]
 }

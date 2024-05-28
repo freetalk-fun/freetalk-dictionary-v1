@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To encode incorrectly.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I always miscode my messages and confuse my friends.",
+            "sent2": "Be careful not to miscode the data when entering it into the system.",
+            "sent3": "I miscode my password so often that I can never log in on the first try!",
+            "sent4": "Her attempt to miscode the secret message only made it more obvious.",
+            "sent5": "The spy's mission was jeopardized when he accidentally miscode the transmission."
         },
         {
             "definition": "An incorrect encoding.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The miscode in the program caused it to crash unexpectedly.",
+            "sent2": "The technician discovered a miscode in the software that needed fixing.",
+            "sent3": "The miscode in the recipe made the cake taste like soap!",
+            "sent4": "The miscode in the map led the travelers astray.",
+            "sent5": "The miscode on the label caused confusion among the customers."
         }
     ]
 }

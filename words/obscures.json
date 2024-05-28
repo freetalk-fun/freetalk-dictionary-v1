@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Make unclear or difficult to understand.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The fog obscures the road ahead, making it hard to see.",
+            "sent2": "The tall grass obscures the path through the meadow.",
+            "sent3": "The magician's trick was to obscure the card's value from the audience.",
+            "sent4": "The dense forest obscures the sunlight, creating a mysterious atmosphere.",
+            "sent5": "The heavy rain obscures the details of the landscape, leaving everything blurry."
         },
         {
             "definition": "Conceal from view.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She used a scarf to obscure her face from the paparazzi.",
+            "sent2": "The detective tried to obscure his identity during the undercover operation.",
+            "sent3": "The cat tried to obscure its toy under the rug, thinking it was hiding it well.",
+            "sent4": "The clouds obscure the moon, casting shadows across the garden.",
+            "sent5": "The thick curtains obscure the view of the street outside, providing privacy."
         },
         {
             "definition": "Darken or dim.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The storm clouds obscure the sky, turning it gray and gloomy.",
+            "sent2": "The old lampshade obscures the light, creating a cozy atmosphere.",
+            "sent3": "The sunglasses obscure his vision, making him bump into things.",
+            "sent4": "The evening mist obscures the outline of the mountains, giving them a mystical appearance.",
+            "sent5": "The dusty windows obscure the sunlight, casting a shadowy hue in the room."
         }
     ]
 }

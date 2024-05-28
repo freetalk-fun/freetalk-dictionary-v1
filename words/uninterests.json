@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Lack of interest or concern.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Her uninterests in the topic made the class discussion challenging.",
+            "sent2": "The uninterests of the students were evident during the lecture.",
+            "sent3": "His uninterests in the movie led to him falling asleep in the theater.",
+            "sent4": "The uninterests of the audience were like a heavy fog over the performance.",
+            "sent5": "The uninterests in the room were palpable, making it hard to engage the attendees."
         },
         {
             "definition": "To cause someone to have no interest or concern.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The dry presentation uninterests the audience quickly.",
+            "sent2": "Constant interruptions can uninterest even the most attentive listeners.",
+            "sent3": "The repetitive nature of the task uninterests him to the point of frustration.",
+            "sent4": "The monotonous tone of the speaker uninterests the entire room.",
+            "sent5": "The lack of enthusiasm in his voice uninterests the listeners, causing them to lose focus."
         }
     ]
 }

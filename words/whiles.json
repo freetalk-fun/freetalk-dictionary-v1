@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A period of time during which something takes place.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "During the whiles of the party, everyone danced happily.",
+            "sent2": "I read a book during the whiles of the long train journey.",
+            "sent3": "The whiles of waiting for the cake to bake felt like forever.",
+            "sent4": "The whiles of the storm passing were filled with tension and anticipation.",
+            "sent5": "The whiles of the sunset painted the sky in beautiful colors."
         },
         {
             "definition": "At the same time that.",
-            "pos": "conjunction"
+            "pos": "conjunction",
+            "sent1": "I will cook dinner whiles you set the table.",
+            "sent2": "She sang whiles playing the guitar at the concert.",
+            "sent3": "Whiles the dog barked, the cat slept peacefully.",
+            "sent4": "The children laughed whiles playing in the park.",
+            "sent5": "Whiles the rain fell, the flowers bloomed brightly."
         },
         {
             "definition": "To pass time in a leisurely manner.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She whiles away the afternoon reading in the garden.",
+            "sent2": "I like to whiles by the river, watching the water flow.",
+            "sent3": "He whiles by chatting with his friends online.",
+            "sent4": "The old man whiles his days by feeding the birds in the park.",
+            "sent5": "They whiles together by exploring new hiking trails."
         }
     ]
 }

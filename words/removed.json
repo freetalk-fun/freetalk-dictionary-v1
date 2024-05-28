@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Take away from a particular place or position.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She removed the book from the shelf.",
+            "sent2": "The teacher removed the distracting student from the classroom.",
+            "sent3": "He removed the last slice of pizza before anyone else could grab it.",
+            "sent4": "The magician removed the coin from behind the child's ear.",
+            "sent5": "The detective removed the evidence from the crime scene."
         },
         {
             "definition": "Distant in space or time.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The removed island was hard to reach.",
+            "sent2": "The memories of her childhood felt removed from her current life.",
+            "sent3": "The removed planet seemed like a dream.",
+            "sent4": "The removed star shone brightly in the night sky.",
+            "sent5": "The removed village was nestled in the mountains."
         },
         {
             "definition": "Emotionally detached or aloof.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "She appeared removed from the conversation, lost in her thoughts.",
+            "sent2": "The cat's removed demeanor made it hard to approach.",
+            "sent3": "The removed professor seemed to live in a world of his own.",
+            "sent4": "Her removed attitude towards the situation surprised everyone.",
+            "sent5": "The removed expression on his face revealed nothing of his emotions."
         }
     ]
 }

@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Consist of",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The picnic basket comprises sandwiches, fruits, and drinks.",
+            "sent2": "The team comprises players from different schools.",
+            "sent3": "The puzzle pieces comprise a picture of a funny clown.",
+            "sent4": "Her smile comprises a thousand sunsets.",
+            "sent5": "The library comprises books of all genres and ages."
         },
         {
             "definition": "Include",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "My backpack comprises my lunch, notebook, and pencil case.",
+            "sent2": "The package comprises a gift and a card.",
+            "sent3": "The treasure chest comprises shiny jewels and gold coins.",
+            "sent4": "His speech comprises words of wisdom and encouragement.",
+            "sent5": "The recipe comprises flour, sugar, and eggs for a delicious cake."
         },
         {
             "definition": "Be made up of",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The necklace comprises pearls and a silver chain.",
+            "sent2": "The Earth's atmosphere comprises gases like oxygen and nitrogen.",
+            "sent3": "The superhero's costume comprises a cape and a mask.",
+            "sent4": "The orchestra comprises musicians playing various instruments.",
+            "sent5": "The painting comprises vibrant colors that blend beautifully together."
         }
     ]
 }

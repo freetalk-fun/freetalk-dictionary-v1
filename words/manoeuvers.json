@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A movement or series of moves requiring skill and care.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The dancer's graceful manoeuvers captivated the audience.",
+            "sent2": "The pilot's precise manoeuvers helped the plane land safely.",
+            "sent3": "The cat's playful manoeuvers with a ball of yarn entertained the family.",
+            "sent4": "Her strategic manoeuvers in the game of chess surprised her opponent.",
+            "sent5": "The gymnast's daring manoeuvers on the balance beam amazed the judges."
         },
         {
             "definition": "To perform a series of movements requiring skill and care.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She manoeuvers her way through the crowded street with ease.",
+            "sent2": "The driver manoeuvers the car smoothly into a tight parking spot.",
+            "sent3": "He manoeuvers the conversation towards a lighter topic to avoid conflict.",
+            "sent4": "The chef manoeuvers the knife expertly to chop the vegetables quickly.",
+            "sent5": "They manoeuver the boat through the narrow canal with precision."
         }
     ]
 }

@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "An immoral act considered to be a transgression against divine law.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Stealing is a sin.",
+            "sent2": "Lying is a sin according to many religions.",
+            "sent3": "Eating dessert before dinner may be a sin in some households.",
+            "sent4": "Betraying a friend is a sin against trust.",
+            "sent5": "In some cultures, not respecting your elders is seen as a grave sin."
         },
         {
             "definition": "To commit a sin or sins.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She sinned by cheating on the test.",
+            "sent2": "He knows he will sin if he steals.",
+            "sent3": "The cat sinned by knocking over the vase.",
+            "sent4": "The company sinned by polluting the river.",
+            "sent5": "They sinned against nature by cutting down the ancient trees."
         },
         {
             "definition": "A sinful act.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Cheating on a test is a sinful act.",
+            "sent2": "Gossiping can be seen as a sinful act.",
+            "sent3": "Eating the last cookie without sharing is a sinful act in this house.",
+            "sent4": "Ignoring those in need is a sinful act of neglect.",
+            "sent5": "Forgetting to say thank you can be a small but impactful sinful act."
         }
     ]
 }

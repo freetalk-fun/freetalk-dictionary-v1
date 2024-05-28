@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A farm implement used for cutting, lifting, and turning over soil",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The farmer used a plow to prepare the field for planting.",
+            "sent2": "The old plow was rusty but still effective in the field.",
+            "sent3": "The plow seemed to dance through the earth as the farmer guided it along.",
+            "sent4": "The plow of progress turned the barren land into a fertile field.",
+            "sent5": "The heavy plow carved deep furrows in the soil, ready for seeds."
         },
         {
             "definition": "To break up, turn over, or cultivate land with a plow",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The farmer will plow the field tomorrow to prepare it for planting.",
+            "sent2": "It is important to plow the land before sowing the seeds.",
+            "sent3": "The tractor plowed through the field, leaving a trail of turned soil behind.",
+            "sent4": "She plowed through the dense forest, determined to reach the other side.",
+            "sent5": "The ship plowed through the rough waves, heading towards the distant shore."
         },
         {
             "definition": "To move through something forcefully or with great effort",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The football player plowed through the defensive line to score a touchdown.",
+            "sent2": "The bulldozer plowed through the rubble, clearing the way for construction.",
+            "sent3": "The determined student plowed through the difficult assignment, refusing to give up.",
+            "sent4": "The storm plowed through the town, leaving destruction in its wake.",
+            "sent5": "The marathon runner plowed through the last mile, fueled by sheer determination."
         }
     ]
 }

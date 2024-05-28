@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To take apart or dismantle.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I will disas the old bike to fix it.",
+            "sent2": "He disas the computer to clean the dust inside.",
+            "sent3": "The curious child tried to disas the toy car but couldn't put it back together.",
+            "sent4": "She disassembled the puzzle, revealing its intricate design.",
+            "sent5": "The mechanic disas the engine, inspecting each part carefully."
         },
         {
             "definition": "The act of taking apart or dismantling.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The disas of the clock revealed its inner gears.",
+            "sent2": "He enjoyed the disas of old electronics as a hobby.",
+            "sent3": "The disas of the old house was necessary for renovation.",
+            "sent4": "The disas of the car was done methodically by the mechanic.",
+            "sent5": "The disas of the machine was a complex process requiring attention to detail."
         },
         {
             "definition": "Not having or lacking something.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "She felt disas without her favorite book.",
+            "sent2": "The disas student forgot his homework at home.",
+            "sent3": "The disas plant needed more sunlight to grow.",
+            "sent4": "The disas room was missing furniture.",
+            "sent5": "The disas phone had a cracked screen."
         }
     ]
 }

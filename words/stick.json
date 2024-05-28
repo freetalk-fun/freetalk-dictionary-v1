@@ -3,19 +3,39 @@
     "meanings": [
         {
             "definition": "A thin piece of wood that is used for various purposes.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I found a stick on the ground and used it as a tool.",
+            "sent2": "The boy picked up a stick to play fetch with his dog.",
+            "sent3": "The stick rolled down the hill and into the pond.",
+            "sent4": "Her words were like a sharp stick poking at his emotions.",
+            "sent5": "The stick cracked loudly as he stepped on it in the forest."
         },
         {
             "definition": "To adhere or cling to something.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The tape will stick to the paper if you press it down firmly.",
+            "sent2": "The wet shirt started to stick to his skin in the hot sun.",
+            "sent3": "The sticker refused to stick to the bumpy surface of the notebook.",
+            "sent4": "Her words of encouragement seemed to stick in his mind for days.",
+            "sent5": "The memory of that day would stick with her forever."
         },
         {
             "definition": "To insert or thrust something into something else.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He tried to stick the key into the lock, but it wouldn't turn.",
+            "sent2": "The chef had to stick toothpicks into the sliders to hold them together.",
+            "sent3": "She decided to stick a flower into her hair for a pop of color.",
+            "sent4": "The detective tried to stick the pieces of the case together to solve it.",
+            "sent5": "The artist would stick pieces of fabric onto the canvas for texture."
         },
         {
             "definition": "To remain in a place or position.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Please stick around after the meeting for a quick chat.",
+            "sent2": "The cat would stick to the sunny spot on the carpet all day.",
+            "sent3": "The idea seemed to stick in his mind, growing stronger with each passing day.",
+            "sent4": "Her smile would stick in his memory long after she had left.",
+            "sent5": "The scent of fresh bread would stick in the air of the bakery."
         }
     ]
 }

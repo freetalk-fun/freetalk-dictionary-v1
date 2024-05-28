@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Incorrect or improper use",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The misuses of the equipment led to frequent breakdowns.",
+            "sent2": "He was warned about the misuses of his authority.",
+            "sent3": "The misuses of the office supplies were causing chaos in the workplace.",
+            "sent4": "The misuses of power can have serious consequences.",
+            "sent5": "The misuses of the technology were evident in the malfunctioning devices."
         },
         {
             "definition": "Abuse or exploitation",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The misuses of resources by the company were unethical.",
+            "sent2": "She reported the misuses of funds to the authorities.",
+            "sent3": "The misuses of trust by the manager were disappointing.",
+            "sent4": "The misuses of information could harm the organization.",
+            "sent5": "The misuses of the system were uncovered during the audit."
         },
         {
             "definition": "To use something inappropriately or wrongly",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He misuses his phone by constantly playing games during work hours.",
+            "sent2": "She misuses her influence to manipulate others.",
+            "sent3": "The child misuses the toy by throwing it instead of playing with it.",
+            "sent4": "They misuses their knowledge to deceive people.",
+            "sent5": "The student misuses the internet by visiting non-educational websites during class."
         }
     ]
 }

@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A small rodent with a pointed snout and long tail.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I saw a cute mou in the garden.",
+            "sent2": "The mou scurried across the field.",
+            "sent3": "The mou nibbled on a piece of cheese.",
+            "sent4": "The mou darted through the maze of tunnels.",
+            "sent5": "The mou's whiskers twitched as it sniffed the air."
         },
         {
             "definition": "To speak or say something.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Can you mou your name for me?",
+            "sent2": "She likes to mou stories to her friends.",
+            "sent3": "The parrot learned to mou a few words.",
+            "sent4": "His words moued through the room like music.",
+            "sent5": "Mou clearly to avoid any misunderstandings."
         },
         {
             "definition": "A unit of measurement equal to 1/60 of a degree.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The angle was just a fraction of a mou.",
+            "sent2": "The telescope can rotate by one mou.",
+            "sent3": "He measured the distance in mous.",
+            "sent4": "The precision required is down to the mou.",
+            "sent5": "Adjust the camera by a tiny mou for better focus."
         }
     ]
 }

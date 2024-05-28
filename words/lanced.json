@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Pierced or punctured with a sharp instrument.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The lanced balloon slowly deflated.",
+            "sent2": "The lanced wound began to heal.",
+            "sent3": "The lanced tire hissed like a deflating balloon.",
+            "sent4": "The lanced armor revealed the vulnerability within.",
+            "sent5": "The lanced apple oozed juice when squeezed."
         },
         {
             "definition": "To cut or open with a lancet or other sharp instrument.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The doctor lanced the blister to relieve pressure.",
+            "sent2": "She lanced the envelope with a letter opener.",
+            "sent3": "He lanced the watermelon to share with friends.",
+            "sent4": "The chef lanced the tomato for garnish.",
+            "sent5": "They lanced the packaging to access the contents."
         },
         {
             "definition": "To make a small incision in (a boil or abscess) to promote drainage.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The surgeon lanced the abscess to remove pus.",
+            "sent2": "She lanced the boil to alleviate pain.",
+            "sent3": "He lanced the pimple before it worsened.",
+            "sent4": "The nurse lanced the cyst carefully.",
+            "sent5": "They lanced the infection to prevent spreading."
         }
     ]
 }

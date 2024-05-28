@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "The act of touching, feeling, or manipulating something with the hands.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Her gentle handling of the fragile vase prevented it from breaking.",
+            "sent2": "Proper handling of the delicate equipment is crucial to avoid damage.",
+            "sent3": "The kitten's playful handling of the yarn resulted in a tangled mess.",
+            "sent4": "His careful handling of the situation diffused the tension in the room.",
+            "sent5": "The expert's handling of the painting revealed its true beauty."
         },
         {
             "definition": "The way in which something is managed or dealt with.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The company's handling of customer complaints greatly improved their reputation.",
+            "sent2": "Effective handling of finances is essential for a successful business.",
+            "sent3": "The comedian's humorous handling of the awkward situation had everyone laughing.",
+            "sent4": "Her calm handling of the crisis saved the day.",
+            "sent5": "The teacher's handling of the classroom dynamics created a positive learning environment."
         },
         {
             "definition": "The act of transporting or moving something from one place to another.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The careful handling of the fragile package ensured it arrived intact.",
+            "sent2": "Efficient handling of logistics is key to timely deliveries.",
+            "sent3": "The robot's precise handling of the objects amazed the audience.",
+            "sent4": "His swift handling of the luggage impressed the travelers.",
+            "sent5": "The athlete's skillful handling of the ball led to a winning goal."
         }
     ]
 }

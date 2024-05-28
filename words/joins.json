@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To connect or link together",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She joins the puzzle pieces to complete the picture.",
+            "sent2": "The bridge joins the two sides of the river.",
+            "sent3": "The train joins the tracks with a loud click.",
+            "sent4": "His speech joins the hearts of the audience.",
+            "sent5": "The thread joins the fabric seamlessly."
         },
         {
             "definition": "A place where two things are united",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The welder's joins were strong and secure.",
+            "sent2": "The joins in the road were smooth and even.",
+            "sent3": "The joins in the woodwork were expertly crafted.",
+            "sent4": "The joins in the friendship were unbreakable.",
+            "sent5": "The joins in the metal were seamless and flawless."
         },
         {
             "definition": "To become a member of a group or organization",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He joins the soccer team to play with his friends.",
+            "sent2": "She joins the choir to sing beautiful songs.",
+            "sent3": "The cat joins the family and becomes a beloved pet.",
+            "sent4": "The new student joins the school and makes new friends.",
+            "sent5": "The bird joins the flock and flies together in harmony."
         }
     ]
 }

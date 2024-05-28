@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Things or unspecified objects",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I have a bag full of dinges in my room.",
+            "sent2": "She picked up all the dinges scattered on the floor.",
+            "sent3": "The magician pulled out various dinges from his hat.",
+            "sent4": "The treasure chest was filled with shiny dinges.",
+            "sent5": "The box contained all sorts of colorful dinges."
         },
         {
             "definition": "To fix or repair something",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Dad will dinges the broken chair tomorrow.",
+            "sent2": "I need to dinges my bike before the race.",
+            "sent3": "He tried to dinges the leaky faucet with tape.",
+            "sent4": "She carefully dinges the torn page back together.",
+            "sent5": "The mechanic will dinges the engine of the car."
         },
         {
             "definition": "To hit or strike something",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He accidentally dinges his head on the low doorway.",
+            "sent2": "The boxer will dinges his opponent with a powerful punch.",
+            "sent3": "The ball dinges the window and cracks it.",
+            "sent4": "The hammer dinges the nail into the wood.",
+            "sent5": "The storm's strong winds dinges the trees in the forest."
         }
     ]
 }

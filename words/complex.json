@@ -3,19 +3,39 @@
     "meanings": [
         {
             "definition": "Consisting of many different and connected parts",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The puzzle was very complex, with many pieces that fit together.",
+            "sent2": "The human body is a complex system of organs that work together.",
+            "sent3": "The complex instructions for building the model ship left me scratching my head.",
+            "sent4": "Her emotions were a complex web, difficult to unravel.",
+            "sent5": "The complex pattern on the rug caught everyone's attention."
         },
         {
             "definition": "A group of buildings or structures",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The office complex downtown is a hub of business activity.",
+            "sent2": "The shopping complex includes stores, restaurants, and a movie theater.",
+            "sent3": "The apartment complex had a pool and a gym for residents to enjoy.",
+            "sent4": "The industrial complex housed several factories and warehouses.",
+            "sent5": "The medical complex was equipped with state-of-the-art facilities."
         },
         {
             "definition": "A group of related ideas or things",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The book explores a complex of themes such as love, loss, and redemption.",
+            "sent2": "The theory suggests that dreams are a complex of subconscious thoughts and desires.",
+            "sent3": "The complex of concepts in the philosophy class challenged the students.",
+            "sent4": "The artist's painting depicted a complex of emotions through vibrant colors.",
+            "sent5": "The political complex of issues required careful consideration and analysis."
         },
         {
             "definition": "Difficult to understand or explain",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The math problem was so complex that even the teacher had trouble solving it.",
+            "sent2": "The novel's plot was complex, with twists and turns that kept readers guessing.",
+            "sent3": "Trying to fix the broken computer was a complex task for the inexperienced technician.",
+            "sent4": "The complex nature of the universe's origins baffled scientists for centuries.",
+            "sent5": "The complex language used in the legal document confused the average person."
         }
     ]
 }

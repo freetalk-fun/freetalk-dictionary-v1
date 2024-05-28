@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Intend to convey or refer to (something)",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I mean to finish my homework before dinner.",
+            "sent2": "What do you mean by that question?",
+            "sent3": "I didn't mean to step on your foot, it was an accident.",
+            "sent4": "Her silence meant more than any words could express.",
+            "sent5": "His smile meant everything to her in that moment."
         },
         {
             "definition": "Unkind or cruel",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "It was mean of him to ignore her like that.",
+            "sent2": "Bullying others is a mean behavior.",
+            "sent3": "The mean cat hissed at anyone who came near.",
+            "sent4": "The storm was mean, destroying everything in its path.",
+            "sent5": "The mean words left a lasting impact on her self-esteem."
         },
         {
             "definition": "Average in amount or quality",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The mean score of the class was 75.",
+            "sent2": "The mean temperature for the month was 68 degrees.",
+            "sent3": "The mean price of the items was within my budget.",
+            "sent4": "She lived in a neighborhood with a mean income level.",
+            "sent5": "The mean level of noise in the city was unbearable for her."
         }
     ]
 }

@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Print again",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I am reprinting my essay to fix the mistakes.",
+            "sent2": "The newspaper is reprinting yesterday's edition due to an error.",
+            "sent3": "My printer keeps reprinting the same page over and over by mistake.",
+            "sent4": "The teacher is reprinting the test to give students another chance.",
+            "sent5": "The author is reprinting the novel with a new cover design."
         },
         {
             "definition": "A new printing of a book or other printed material",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The bookstore received a shipment of reprintings of classic novels.",
+            "sent2": "The library added the latest reprinting of the encyclopedia to its collection.",
+            "sent3": "I accidentally bought two reprintings of the same magazine issue.",
+            "sent4": "The museum displayed a rare collection of historical reprintings.",
+            "sent5": "The school ordered reprintings of textbooks for the new academic year."
         }
     ]
 }

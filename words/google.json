@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Search for information about (someone or something) on the internet using the search engine Google.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I will google the recipe for chocolate chip cookies.",
+            "sent2": "She likes to google fun facts about animals.",
+            "sent3": "When I couldn't remember the actor's name, I had to google it.",
+            "sent4": "In a world without smartphones, people had to rely on books to google information.",
+            "sent5": "The students were encouraged to google the answer to the question for homework."
         },
         {
             "definition": "A search engine that allows users to search the internet for information.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I use Google as my preferred search engine to find recipes.",
+            "sent2": "The teacher recommended using Google for research projects.",
+            "sent3": "My grandma thinks Google is a person who knows everything.",
+            "sent4": "Google is like a digital librarian, organizing the vast information on the internet.",
+            "sent5": "The company's success is often attributed to the user-friendly interface of Google."
         }
     ]
 }

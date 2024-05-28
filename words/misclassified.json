@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To classify incorrectly.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The teacher misclassified the student's test results.",
+            "sent2": "The librarian accidentally misclassified the new books.",
+            "sent3": "The robot misclassified the bananas as apples, causing confusion.",
+            "sent4": "Her actions were misclassified as rebellious when they were actually just misunderstood.",
+            "sent5": "The detective's hunch proved correct when he realized the evidence had been misclassified."
         },
         {
             "definition": "Incorrectly classified.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The misclassified documents were causing delays in the project.",
+            "sent2": "The misclassified items were moved to the correct section of the store.",
+            "sent3": "The misclassified cat thought it was a dog and tried to bark.",
+            "sent4": "The misclassified puzzle piece stood out among the others, creating a mismatch.",
+            "sent5": "The misclassified plant was mistakenly labeled as poisonous, causing unnecessary fear."
         }
     ]
 }

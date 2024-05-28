@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A small burrowing mammal with long ears, soft fur, and a short tail.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The rabbits hopped around the garden.",
+            "sent2": "I saw some cute rabbits at the petting zoo.",
+            "sent3": "The magician pulled a rabbit out of his hat.",
+            "sent4": "Her smile was as quick as a rabbit's hop.",
+            "sent5": "The children giggled as they chased the fluffy rabbits."
         },
         {
             "definition": "To move quickly or hurriedly.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She rabbits to catch the bus every morning.",
+            "sent2": "The squirrel rabbits up the tree to escape the cat.",
+            "sent3": "He rabbits through his homework before dinner.",
+            "sent4": "Time rabbits by when you're having fun.",
+            "sent5": "The wind rabbits through the trees on a stormy night."
         }
     ]
 }

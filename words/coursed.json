@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To run or move swiftly along a specified path or route.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The river coursed through the valley, rushing over rocks and pebbles.",
+            "sent2": "The athlete coursed through the track, aiming for the finish line.",
+            "sent3": "The squirrel coursed up the tree, trying to escape the playful dog.",
+            "sent4": "Excitement coursed through her veins as she approached the stage to receive her award.",
+            "sent5": "The wind coursed through the open window, bringing in a refreshing breeze."
         },
         {
             "definition": "A continuous flow or succession of something.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The course of events led to an unexpected outcome.",
+            "sent2": "The course of the river was altered by the construction of a dam.",
+            "sent3": "The course of the movie kept the audience engaged till the end.",
+            "sent4": "The course of history is shaped by the actions of individuals.",
+            "sent5": "The course of the illness took a turn for the better after the new treatment."
         },
         {
             "definition": "A series of lectures or lessons in a particular subject.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The course on astronomy covered the basics of the solar system.",
+            "sent2": "The course on painting techniques inspired her to create beautiful art.",
+            "sent3": "The course on cooking was a delicious way to learn new recipes.",
+            "sent4": "The course on photography taught him how to capture stunning images.",
+            "sent5": "The course on history delved into the events that shaped the world."
         }
     ]
 }

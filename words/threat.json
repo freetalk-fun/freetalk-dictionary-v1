@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A statement of an intention to inflict pain, injury, damage, or other hostile action on someone in retribution for something done or not done.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The bully made a threat to hurt the smaller kids.",
+            "sent2": "The police took the threat seriously and investigated the matter.",
+            "sent3": "The threat of a snowball fight made everyone excited for winter.",
+            "sent4": "The dark clouds loomed overhead, a threat of an impending storm.",
+            "sent5": "The teacher's threat of extra homework made the students groan."
         },
         {
             "definition": "A person or thing likely to cause damage or danger.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The wild bear was a threat to campers in the forest.",
+            "sent2": "The cybersecurity expert identified the potential threat to the network.",
+            "sent3": "The threat of a mischievous squirrel stealing snacks kept the campers on alert.",
+            "sent4": "The old bridge, weakened by time, was a silent threat to passing cars.",
+            "sent5": "The threat of a leaky roof prompted immediate repairs."
         },
         {
             "definition": "A warning of harm or pain.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The doctor's serious tone was a clear threat of the upcoming injection.",
+            "sent2": "The red warning sign was a visible threat of danger ahead.",
+            "sent3": "The threat of a tickle attack made the child giggle uncontrollably.",
+            "sent4": "The distant thunder served as a threat of an approaching storm.",
+            "sent5": "The threat of a burnt dinner lingered in the kitchen."
         }
     ]
 }

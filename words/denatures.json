@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To change the natural qualities of something",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Leaving the fruit out in the sun denatures its freshness.",
+            "sent2": "Cooking the vegetables denatures their raw state.",
+            "sent3": "Accidentally spilling juice on the book denatures its pristine condition.",
+            "sent4": "The storm denatures the peaceful landscape into chaos.",
+            "sent5": "The artist's brushstroke denatures the blank canvas into a masterpiece."
         },
         {
             "definition": "To render something ineffective or harmful",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Using expired medicine denatures its potency.",
+            "sent2": "Neglecting regular maintenance denatures the machine's efficiency.",
+            "sent3": "Eating too much candy denatures a healthy diet.",
+            "sent4": "The virus denatures the body's defenses.",
+            "sent5": "The negative comments denatures her confidence into doubt."
         },
         {
             "definition": "To alter the chemical structure of a substance",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Heating sugar denatures its molecular composition.",
+            "sent2": "Adding acid denatures the solution's pH level.",
+            "sent3": "Mixing the wrong chemicals denatures the intended reaction.",
+            "sent4": "The scientist denatures the compound to study its components.",
+            "sent5": "The heat denatures the plastic, changing its form."
         }
     ]
 }

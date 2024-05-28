@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A thick cloud of tiny water droplets suspended in the atmosphere near the earth's surface, reducing visibility.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The fog made it hard to see the road ahead.",
+            "sent2": "The city was covered in a thick fog, making everything look mysterious.",
+            "sent3": "In the fog of confusion, she forgot where she parked her car.",
+            "sent4": "His mind was like a fog, unable to grasp the simplest of concepts.",
+            "sent5": "The fog enveloped the landscape, creating an eerie atmosphere."
         },
         {
             "definition": "To cover or envelop with or as if with fog.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She would fog the mirror with her breath and draw hearts on it.",
+            "sent2": "The window fogged up as the warm air met the cold glass.",
+            "sent3": "He tried to fog the room with smoke to create a mysterious ambiance.",
+            "sent4": "The memories of that day would fog his mind whenever he thought about it.",
+            "sent5": "The steam from the hot soup would fog up his glasses every time he ate."
         },
         {
             "definition": "A state of mental confusion or forgetfulness.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The exam questions caused a fog in his mind, and he couldn't remember the answers.",
+            "sent2": "She felt like she was in a fog after staying up all night studying.",
+            "sent3": "His forgetfulness was like a thick fog that never seemed to lift.",
+            "sent4": "The fog of confusion lifted as he finally understood the instructions.",
+            "sent5": "The fog of forgetfulness clouded his memory of the events that transpired."
         }
     ]
 }

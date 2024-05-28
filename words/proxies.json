@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A person authorized to act on behalf of another.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The lawyer served as a proxy for the client during the legal proceedings.",
+            "sent2": "My sister is my proxy for voting in the upcoming election.",
+            "sent3": "The proxy quickly signed the contract on behalf of the absent CEO.",
+            "sent4": "In the play, the character acted as a proxy for the king, making decisions in his absence.",
+            "sent5": "The proxy's role is to represent someone else's interests in their absence."
         },
         {
             "definition": "A document giving someone the authority to act on behalf of another.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Make sure to bring the proxy document with you to the meeting.",
+            "sent2": "The proxy clearly states who has the authority to make decisions on your behalf.",
+            "sent3": "The proxy document was signed and sealed, ready for use when needed.",
+            "sent4": "The proxy form acts as a legal shield, protecting your interests.",
+            "sent5": "Having a proxy in place ensures that your wishes are carried out even when you're not present."
         },
         {
             "definition": "An intermediary server that acts on behalf of clients in accessing information from other servers.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The company uses proxies to enhance security when accessing external websites.",
+            "sent2": "A proxy server helps protect the identity of users when browsing online.",
+            "sent3": "The proxy server joked with the clients, saying it was the 'middleman' of the internet.",
+            "sent4": "The proxy server is like a digital bodyguard, shielding users from potential threats.",
+            "sent5": "Using proxies can help maintain anonymity while browsing the web."
         }
     ]
 }

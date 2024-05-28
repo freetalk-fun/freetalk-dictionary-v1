@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To make a mistake.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She erred in her math homework and got the answer wrong.",
+            "sent2": "He often erred in spelling simple words.",
+            "sent3": "The robot erred in its calculations, causing chaos in the lab.",
+            "sent4": "The compass erred, leading the hikers in the wrong direction.",
+            "sent5": "The detective erred in accusing the wrong person, causing a twist in the case."
         },
         {
             "definition": "To be mistaken.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I erred in thinking today was Friday when it is actually Thursday.",
+            "sent2": "She erred in believing the rumor without verifying the facts.",
+            "sent3": "The weather forecast erred, predicting rain on a sunny day.",
+            "sent4": "His memory erred, recalling events that never happened.",
+            "sent5": "The map erred, showing the wrong location of the treasure."
         },
         {
             "definition": "To go astray.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The lost puppy erred into the neighbor's yard.",
+            "sent2": "The hiker erred off the trail and got lost in the woods.",
+            "sent3": "The satellite signal erred, causing the GPS to malfunction.",
+            "sent4": "The arrow erred from its target, missing by inches.",
+            "sent5": "The child erred from the path, exploring a hidden cave."
         }
     ]
 }

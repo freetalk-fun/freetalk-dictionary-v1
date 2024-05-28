@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To take aggressive action against a person or place.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The lion will attack the zebra for food.",
+            "sent2": "The soldiers will attack the enemy camp at dawn.",
+            "sent3": "The mischievous kitten will attack a ball of yarn.",
+            "sent4": "The storm clouds will attack the peaceful town with lightning.",
+            "sent5": "The hacker will attack the computer system with a virus."
         },
         {
             "definition": "An act of physical violence.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The bully's attack left bruises on the victim.",
+            "sent2": "The police arrived quickly to stop the attack.",
+            "sent3": "The pillow fight turned into a playful attack of fluff.",
+            "sent4": "The waves' attack on the sandcastle washed it away.",
+            "sent5": "The dog's playful attack on the toy showed its energy."
         },
         {
             "definition": "A sudden and intense onset of a disease or medical condition.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The heart attack caused him to collapse.",
+            "sent2": "The doctor rushed to treat the patient's attack.",
+            "sent3": "The sudden attack of hiccups surprised everyone.",
+            "sent4": "The attack of allergies made her eyes water.",
+            "sent5": "The attack of flu symptoms left him bedridden."
         }
     ]
 }

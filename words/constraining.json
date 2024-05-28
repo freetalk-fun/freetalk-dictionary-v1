@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To restrict or limit",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The rules were constraining our creativity in the art class.",
+            "sent2": "The fence was constraining the dog from running freely in the yard.",
+            "sent3": "The strict dress code was constraining, but it did make everyone look very professional.",
+            "sent4": "Her fear of failure was constraining her from taking risks and reaching her full potential.",
+            "sent5": "The heavy chains around his wrists were constraining, making it hard for him to move."
         },
         {
             "definition": "Serving to restrict or limit",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The constraining rules made it difficult to innovate in the project.",
+            "sent2": "The constraining budget forced us to find cost-effective solutions.",
+            "sent3": "The constraining schedule left no room for spontaneity or relaxation.",
+            "sent4": "The constraining walls of the maze seemed to close in on us as we tried to find a way out.",
+            "sent5": "The constraining grip of fear held her back from pursuing her dreams."
         },
         {
             "definition": "Feeling restricted or limited",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "She felt constraining pressure to conform to societal norms.",
+            "sent2": "The constraining atmosphere in the room made it hard to breathe.",
+            "sent3": "The constraining thoughts in his mind were like heavy weights dragging him down.",
+            "sent4": "The constraining feeling of self-doubt clouded her every decision.",
+            "sent5": "The constraining sense of obligation weighed heavily on his shoulders."
         }
     ]
 }

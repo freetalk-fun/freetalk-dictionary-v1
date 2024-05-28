@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A person who steals from others.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The robber stole money from the store.",
+            "sent2": "The police caught the robber red-handed.",
+            "sent3": "The robber tried to steal a cookie from the jar, but got caught.",
+            "sent4": "His greedy behavior made him a robber of joy.",
+            "sent5": "The notorious robber was finally apprehended by the authorities."
         },
         {
             "definition": "To take property unlawfully from (a person or place) by force or threat of force.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She watched as the thief tried to robber the jewelry store.",
+            "sent2": "The masked man attempted to robber the bank but failed.",
+            "sent3": "He jokingly said he would try to robber the candy shop next.",
+            "sent4": "The storm seemed to robber the trees of their leaves overnight.",
+            "sent5": "The dark clouds seemed to robber the sky of its light."
         }
     ]
 }

@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A software application that runs automated tasks over the internet.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The bot helped in automatically sending emails.",
+            "sent2": "I use a bot to schedule my social media posts.",
+            "sent3": "The bot never forgets to remind me of important tasks.",
+            "sent4": "Her efficiency at work made her seem like a bot.",
+            "sent5": "The bot tirelessly worked through the night to complete the tasks."
         },
         {
             "definition": "A device or piece of equipment that can be remotely controlled.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The security bot patrols the building at night.",
+            "sent2": "I can operate the cleaning bot from my phone.",
+            "sent3": "The bot obediently followed the commands given to it.",
+            "sent4": "The drone was like a tiny flying bot in the sky.",
+            "sent5": "The bot responded instantly to the remote control's signals."
         },
         {
             "definition": "A person who behaves in a mechanical or unemotional manner.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "He seemed like a bot with his robotic responses.",
+            "sent2": "She acted like a bot, showing no emotion during the meeting.",
+            "sent3": "The bot of the group never laughed at jokes.",
+            "sent4": "Her cold demeanor made her appear as a bot to others.",
+            "sent5": "The bot's lack of empathy was noticeable in every interaction."
         }
     ]
 }

@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To put on (clothing)",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Every morning, she dons her favorite dress.",
+            "sent2": "He dons his coat before going outside.",
+            "sent3": "The superhero dons their cape to save the day.",
+            "sent4": "The actor dons the costume to become their character.",
+            "sent5": "The knight dons their armor before battle."
         },
         {
             "definition": "A university teacher, especially a senior member of a college",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The dons at the university are respected by students.",
+            "sent2": "She aspires to become a don at the prestigious college.",
+            "sent3": "The dons gathered for a meeting to discuss academic matters.",
+            "sent4": "The wise don guided the students with valuable knowledge.",
+            "sent5": "The don's office is filled with books and research papers."
         },
         {
             "definition": "To give (a title or honor) to someone",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The queen dons knighthood upon the brave soldier.",
+            "sent2": "They don the title of 'Employee of the Month' with pride.",
+            "sent3": "The mayor dons the key to the city to the visiting celebrity.",
+            "sent4": "The committee dons recognition to outstanding volunteers.",
+            "sent5": "The president dons medals of valor to the heroes."
         }
     ]
 }

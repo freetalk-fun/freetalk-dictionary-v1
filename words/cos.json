@@ -3,23 +3,48 @@
     "meanings": [
         {
             "definition": "Because",
-            "pos": "conjunction"
+            "pos": "conjunction",
+            "sent1": "I stayed home cos it was raining outside.",
+            "sent2": "She couldn't come to the party cos she had to study for her exam.",
+            "sent3": "I ate all the cookies cos they were delicious.",
+            "sent4": "He missed the bus cos he was busy talking on the phone.",
+            "sent5": "The cat meowed loudly cos it wanted attention."
         },
         {
             "definition": "Abbreviation for cosine",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "In math class, we learned about the cos function.",
+            "sent2": "The cos of 90 degrees is 0.",
+            "sent3": "The cos graph helped us understand the wave patterns.",
+            "sent4": "She used the cos formula to calculate the angle.",
+            "sent5": "The cos value was crucial for solving the trigonometry problem."
         },
         {
             "definition": "Abbreviation for cost",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The total cos of the groceries was $50.",
+            "sent2": "He couldn't afford the new phone cos of its high price.",
+            "sent3": "The cos of living in the city is higher than in the countryside.",
+            "sent4": "She saved money by comparing the cos of different products.",
+            "sent5": "The cos of the repair was more than he expected."
         },
         {
             "definition": "Abbreviation for cosign",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The triangle calculation required finding the sin and cos values.",
+            "sent2": "He used the cos formula to find the angle measurement.",
+            "sent3": "The cos value helped determine the length of the side.",
+            "sent4": "She calculated the cosign of the angle accurately.",
+            "sent5": "Understanding the cosign and sin values is essential in trigonometry."
         },
         {
             "definition": "Abbreviation for costume",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "She wore a beautiful cos to the masquerade ball.",
+            "sent2": "The theater production required elaborate cos designs.",
+            "sent3": "The cos for the play was carefully designed by the costume designer.",
+            "sent4": "He chose a superhero cos for the costume party.",
+            "sent5": "The cos for the character was intricate and detailed."
         }
     ]
 }

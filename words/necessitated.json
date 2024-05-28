@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Make (something) necessary as a result or consequence.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The heavy rain necessitated an umbrella.",
+            "sent2": "Studying hard necessitated passing the exam.",
+            "sent3": "His forgetfulness necessitated tying a string around his finger.",
+            "sent4": "The broken elevator necessitated taking the stairs.",
+            "sent5": "The low battery necessitated charging the phone immediately."
         },
         {
             "definition": "Require (something) because it is essential or unavoidable.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The long journey necessitated packing extra snacks.",
+            "sent2": "Safety regulations necessitated wearing a helmet.",
+            "sent3": "Her love for chocolate necessitated hiding it from her siblings.",
+            "sent4": "The cold weather necessitated wearing a thick coat.",
+            "sent5": "The traffic jam necessitated finding an alternate route."
         }
     ]
 }

@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "severely damaged or distorted",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The mangled toy was beyond repair.",
+            "sent2": "The mangled car was unrecognizable after the accident.",
+            "sent3": "The mangled painting looked like a jumbled mess of colors.",
+            "sent4": "Her mangled hair resembled a bird's nest after a storm.",
+            "sent5": "The mangled book cover bore the marks of a curious puppy's teeth."
         },
         {
             "definition": "to injure severely by cutting, tearing, or crushing",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The machine mangled the fabric with its sharp blades.",
+            "sent2": "He accidentally mangled his finger in the door.",
+            "sent3": "The clumsy chef managed to mangle the recipe beyond recognition.",
+            "sent4": "The storm mangled the trees, leaving a path of destruction.",
+            "sent5": "The wrestler's opponent tried to mangle his arm during the match."
         },
         {
             "definition": "to spoil, disfigure, or ruin by cutting, tearing, or crushing",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The incorrect measurements mangled the entire project.",
+            "sent2": "The vandals mangled the statue with spray paint.",
+            "sent3": "The mischievous puppy managed to mangle the garden hose.",
+            "sent4": "The gossip mangled the truth beyond recognition.",
+            "sent5": "The harsh criticism mangled her self-esteem."
         }
     ]
 }

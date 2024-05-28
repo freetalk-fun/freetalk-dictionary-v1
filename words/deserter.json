@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A person who abandons their duty or post without permission.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The deserter left his post without telling anyone.",
+            "sent2": "The army was searching for the deserter who ran away from the battlefield.",
+            "sent3": "The deserter's disappearance left his team in a tough spot.",
+            "sent4": "His actions branded him as a deserter among his peers.",
+            "sent5": "The deserter's betrayal echoed through the ranks."
         },
         {
             "definition": "To abandon a duty or post without permission.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He decided to deserter his responsibilities and go on vacation.",
+            "sent2": "The soldier chose to deserter his post in the middle of the night.",
+            "sent3": "The student tried to deserter his homework but got caught.",
+            "sent4": "The athlete's decision to deserter the team shocked everyone.",
+            "sent5": "The employee's choice to deserter work had serious consequences."
         }
     ]
 }

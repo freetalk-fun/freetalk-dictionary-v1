@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A protein released by cells in response to viruses, helping to inhibit their replication.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "When a virus attacks, the body produces interferon to fight it off.",
+            "sent2": "Doctors use interferon to treat certain viral infections.",
+            "sent3": "The interferon protein was like a superhero swooping in to stop the virus invasion.",
+            "sent4": "The interferon acted as a shield, protecting the healthy cells from viral harm.",
+            "sent5": "The image of interferon battling viruses is etched in my mind."
         },
         {
             "definition": "To hinder or obstruct the normal process or function of something.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Please do not interfere with the experiment process by adding unnecessary steps.",
+            "sent2": "The storm will interfere with our plans for the outdoor picnic.",
+            "sent3": "His constant questions began to interfere with the flow of the meeting.",
+            "sent4": "The loud noise from the construction site interfered with her ability to concentrate.",
+            "sent5": "The interference of the radio signal made it hard to hear the broadcast clearly."
         }
     ]
 }

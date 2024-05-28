@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A method for solving partial differential equations by using a hierarchy of grids with different levels of resolution.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The scientist explained how the multigrid helped solve complex equations.",
+            "sent2": "The multigrid technique improved the accuracy of the calculations.",
+            "sent3": "The multigrid made the math problems seem like a fun puzzle to solve.",
+            "sent4": "Her mind worked like a multigrid, breaking down problems into smaller grids for better understanding.",
+            "sent5": "The multigrid method made the equations clearer and easier to solve."
         },
         {
             "definition": "A technique for accelerating the convergence of iterative solvers by transferring information between grids of varying sizes.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Using multigrid helped speed up the solver's process of finding solutions.",
+            "sent2": "The multigrid technique reduced the time needed to reach a solution.",
+            "sent3": "The multigrid seemed like a magic trick, making the solver work faster.",
+            "sent4": "Her determination acted as a multigrid, bringing her closer to her goals with each step.",
+            "sent5": "The multigrid technique transformed the iterative process into a swift journey towards solutions."
         }
     ]
 }

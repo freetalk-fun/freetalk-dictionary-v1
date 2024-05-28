@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Declare invalid",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The judge annulled the contract due to a mistake in the paperwork.",
+            "sent2": "The court annulled the marriage after discovering it was based on false information.",
+            "sent3": "The magician's assistant accidentally annulled the wrong contract during the show, causing chaos.",
+            "sent4": "The storm's strong winds seemed to annul any hope of the outdoor event taking place.",
+            "sent5": "The teacher's red pen swiftly annulled the incorrect answers on the test."
         },
         {
             "definition": "Cancel",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She quickly annulled her online order before it was processed.",
+            "sent2": "The airline had to annul the flight due to bad weather conditions.",
+            "sent3": "The chef had to annul the order for fresh fish as the supplier ran out unexpectedly.",
+            "sent4": "The unexpected power outage seemed to annul all plans for the evening.",
+            "sent5": "The loud noise from the construction site annulled any chance of a peaceful afternoon nap."
         },
         {
             "definition": "Revoke",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The principal decided to annul the student's suspension after new evidence came to light.",
+            "sent2": "The government had to annul the law due to public outcry.",
+            "sent3": "The cat's attempt to annul the dog's playtime was met with playful resistance.",
+            "sent4": "The sudden change in weather seemed to annul the forecasted sunny day.",
+            "sent5": "The judge's decision to annul the verdict surprised everyone in the courtroom."
         }
     ]
 }

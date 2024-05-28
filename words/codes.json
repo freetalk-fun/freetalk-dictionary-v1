@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A system of words, letters, figures, or symbols used to represent others.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The secret agent cracked the enemy's codes to uncover their plans.",
+            "sent2": "The Morse code is a well-known system of communication using dots and dashes.",
+            "sent3": "The detective mistakenly thought the grocery list was a set of secret codes.",
+            "sent4": "In the world of espionage, codes are the keys to unlocking hidden messages.",
+            "sent5": "The artist's painting contained hidden codes that only a few could decipher."
         },
         {
             "definition": "A set of rules or principles governing behavior or activity.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The school's dress codes require students to wear uniforms.",
+            "sent2": "Following the traffic codes ensures safe driving on the roads.",
+            "sent3": "The rules of the game were like codes that players had to abide by.",
+            "sent4": "Respecting others' opinions is a fundamental code of conduct in society.",
+            "sent5": "The moral codes of the ancient civilization guided their daily actions."
         },
         {
             "definition": "A system of signals used to represent letters or numbers in transmitting messages.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The ship's captain deciphered the flag codes to understand the message.",
+            "sent2": "The barcodes on products help in quick identification at the checkout counter.",
+            "sent3": "The smoke signals were like ancient codes sent across the valley.",
+            "sent4": "The lighthouse's blinking light served as a beacon using Morse code.",
+            "sent5": "The military used encrypted codes to communicate securely during missions."
         }
     ]
 }

@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "The amount of space between two points.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The distance between the two trees is short.",
+            "sent2": "She measured the distance between the houses.",
+            "sent3": "The distance between the cookies and me is too far to resist.",
+            "sent4": "The distance between success and failure is often determination.",
+            "sent5": "The distance between stars in the sky is vast and mysterious."
         },
         {
             "definition": "To keep someone or something at a certain length away.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Please distance yourself from the edge of the cliff.",
+            "sent2": "He tried to distance the dog from the cat.",
+            "sent3": "She had to distance her thoughts from negativity.",
+            "sent4": "The detective needed to distance himself from the crime scene emotionally.",
+            "sent5": "In order to stay safe, distance your hand from the flame."
         },
         {
             "definition": "The state of being far away in space or time.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The distance between the planets is immense.",
+            "sent2": "They felt the distance between them growing.",
+            "sent3": "The distance between breakfast and lunch always feels too long.",
+            "sent4": "The distance in their relationship seemed insurmountable.",
+            "sent5": "The distance in history books can make events seem distant and unreal."
         }
     ]
 }

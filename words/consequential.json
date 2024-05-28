@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Following as a result or effect.",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "She tripped over the rock, and consequential, she fell to the ground.",
+            "sent2": "He missed the bus; consequential, he arrived late to work.",
+            "sent3": "The cat knocked over the vase, and consequential, chaos ensued.",
+            "sent4": "The storm clouds gathered ominously, and consequential, the sky darkened.",
+            "sent5": "The teacher explained the lesson clearly, and consequential, the students understood."
         },
         {
             "definition": "Important or significant.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The CEO made a consequential decision that impacted the entire company.",
+            "sent2": "Her research on climate change had a consequential impact on environmental policies.",
+            "sent3": "The magician's hat revealed a consequential surprise - a rabbit!",
+            "sent4": "The key witness's testimony was consequential in determining the outcome of the trial.",
+            "sent5": "The discovery of penicillin was a consequential breakthrough in medicine."
         },
         {
             "definition": "Of the nature of a consequence.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The scientist studied the consequential effects of pollution on marine life.",
+            "sent2": "The team analyzed the data to understand the consequential relationship between variables.",
+            "sent3": "The chef experimented with ingredients to create a consequential new recipe.",
+            "sent4": "The artist's brushstrokes captured the consequential beauty of the landscape.",
+            "sent5": "The historian explored the consequential events that shaped the course of history."
         }
     ]
 }

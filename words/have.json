@@ -3,23 +3,48 @@
     "meanings": [
         {
             "definition": "Possess",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I have a red ball.",
+            "sent2": "She has a big house.",
+            "sent3": "The cat thinks it can have my sandwich.",
+            "sent4": "His eyes have a spark of mischief.",
+            "sent5": "The old tree seems to have a story to tell."
         },
         {
             "definition": "Experience",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "My sister's have of the roller coaster was thrilling.",
+            "sent2": "The children's have of the zoo was educational.",
+            "sent3": "The have of getting lost in a new city can be scary.",
+            "sent4": "The have of a first kiss can be magical.",
+            "sent5": "The astronaut's have of weightlessness was unforgettable."
         },
         {
             "definition": "Hold",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Please have the door open for me.",
+            "sent2": "He will have the umbrella for you.",
+            "sent3": "I can have your spot in line if you need to leave.",
+            "sent4": "The memories have a special place in my heart.",
+            "sent5": "The old book seems to have many secrets within its pages."
         },
         {
             "definition": "Eat",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I have my breakfast every morning.",
+            "sent2": "She has a sandwich for lunch.",
+            "sent3": "The dog thinks it can have my dinner.",
+            "sent4": "The fire seemed to have the wood quickly.",
+            "sent5": "The hungry bear will have the fish in the river."
         },
         {
             "definition": "Receive",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I will have a gift for my birthday.",
+            "sent2": "She has a letter from her friend.",
+            "sent3": "The company will have a package for you tomorrow.",
+            "sent4": "The garden has the rain it needed.",
+            "sent5": "The student will have the results of the test soon."
         }
     ]
 }

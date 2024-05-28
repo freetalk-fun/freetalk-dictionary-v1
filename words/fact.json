@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A thing that is known or proved to be true.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The teacher shared an interesting fact about dinosaurs with the class.",
+            "sent2": "It is a fact that the Earth revolves around the Sun.",
+            "sent3": "In a surprising fact, the cat was afraid of the tiny mouse.",
+            "sent4": "Her smile was a fact of pure joy that brightened the room.",
+            "sent5": "The fact that water freezes at 0 degrees Celsius is important to remember."
         },
         {
             "definition": "Something that actually exists; reality.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The fact of the matter is that we need to finish this project by Friday.",
+            "sent2": "The fact of his presence made her heart race with excitement.",
+            "sent3": "In the world of fiction, the fact of magic existing was thrilling.",
+            "sent4": "The fact of the storm approaching sent everyone into a frenzy of preparation.",
+            "sent5": "The fact of friendship is a treasure that should be cherished."
         }
     ]
 }

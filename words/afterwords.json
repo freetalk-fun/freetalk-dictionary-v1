@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Subsequently",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "She finished her homework, and afterwords, she went to bed.",
+            "sent2": "He forgot his umbrella, and afterwords, it started raining.",
+            "sent3": "The cat chased the mouse, and afterwords, they became friends.",
+            "sent4": "The sun set, and afterwords, the stars twinkled in the sky.",
+            "sent5": "The teacher explained the lesson, and afterwords, the students practiced on their own."
         },
         {
             "definition": "In a subsequent part of a book or document",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "She read the first chapter, and afterwords, she skipped to the next section.",
+            "sent2": "The introduction provided context, and afterwords, the conclusion summarized the key points.",
+            "sent3": "He flipped through the pages, and afterwords, he found the appendix.",
+            "sent4": "The story built suspense, and afterwords, the epilogue revealed the characters' fates.",
+            "sent5": "The author hinted at a plot twist, and afterwords, the resolution tied up loose ends."
         },
         {
             "definition": "Following in time or order",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The afterwords chapter provided additional information about the historical context.",
+            "sent2": "She enjoyed the afterwords discussion that followed the main presentation.",
+            "sent3": "The afterwords section contained helpful tips for beginners.",
+            "sent4": "The afterwords segment highlighted key takeaways from the seminar.",
+            "sent5": "The afterwords portion of the event focused on future plans and goals."
         }
     ]
 }

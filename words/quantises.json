@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Quantises (verb): to divide into discrete units or levels",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She quantises the candies into small, equal piles for each child.",
+            "sent2": "The scientist quantises the data to analyze it more effectively.",
+            "sent3": "The chef quantises the ingredients into precise measurements for the recipe.",
+            "sent4": "His method of teaching quantises complex concepts into easily understandable parts.",
+            "sent5": "The artist quantises the colors in the painting to create a harmonious composition."
         },
         {
             "definition": "Quantises (noun): the act of quantising data into discrete values",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The quantises of the experiment were crucial for accurate results.",
+            "sent2": "Data analysis involves the quantises of information for better interpretation.",
+            "sent3": "The quantises of the survey results revealed interesting patterns.",
+            "sent4": "The quantises of the music notes added a unique rhythm to the composition.",
+            "sent5": "Understanding the quantises of the market trends is essential for successful investments."
         }
     ]
 }

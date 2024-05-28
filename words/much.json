@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A large amount or quantity",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "She had so much candy that she shared it with her friends.",
+            "sent2": "There is not much time left before the movie starts.",
+            "sent3": "The little girl's eyes widened in amazement at the much of toys in the store.",
+            "sent4": "His generosity knew no bounds; he donated much to the charity.",
+            "sent5": "The much of water in the lake shimmered under the sunlight."
         },
         {
             "definition": "To a great extent or degree",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He loves her very much and shows it every day.",
+            "sent2": "They much preferred the new restaurant over the old one.",
+            "sent3": "The cat stretched lazily, not wanting to move much from its cozy spot.",
+            "sent4": "The excitement in the air much heightened as the concert drew closer.",
+            "sent5": "His dedication to his work much impressed his colleagues."
         },
         {
             "definition": "Very often or frequently",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "She visits her grandmother much on weekends.",
+            "sent2": "He talks too much during class and disrupts the lesson.",
+            "sent3": "The dog barked much at the sound of the doorbell.",
+            "sent4": "The flowers bloom much in the springtime.",
+            "sent5": "The children play outside much after school."
         }
     ]
 }

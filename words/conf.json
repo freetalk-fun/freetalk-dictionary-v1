@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A state of confusion or disorder.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The classroom was in conf after the fire drill.",
+            "sent2": "The conf in the library made it hard to find the right book.",
+            "sent3": "Trying to find my way in the dark room was a real conf.",
+            "sent4": "Her mind was a swirling conf of thoughts and worries.",
+            "sent5": "The conf of colors in the painting created a sense of chaos."
         },
         {
             "definition": "A conference or meeting.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The company held a conf to discuss the new project.",
+            "sent2": "I have a conf with my boss scheduled for tomorrow.",
+            "sent3": "The conf room was filled with people eager to share ideas.",
+            "sent4": "The conf of world leaders was a crucial event for diplomacy.",
+            "sent5": "Attending the conf helped me learn more about the industry."
         },
         {
             "definition": "To confuse or perplex.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "His sudden question confed me for a moment.",
+            "sent2": "The complex instructions can easily conf newcomers.",
+            "sent3": "She tried to conf her little brother with a magic trick.",
+            "sent4": "The unexpected turn of events confed everyone in the room.",
+            "sent5": "The magician's tricks never failed to conf the audience."
         }
     ]
 }

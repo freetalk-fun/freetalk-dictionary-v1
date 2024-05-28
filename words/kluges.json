@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A system or piece of software that is poorly designed or implemented, typically a makeshift solution.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The computer program was full of kluges, causing it to crash frequently.",
+            "sent2": "The engineer had to fix the kluges in the network system to improve its performance.",
+            "sent3": "Despite the kluges in the code, the website somehow managed to function.",
+            "sent4": "The kluges in the software were like patches on a leaky boat, barely holding it together.",
+            "sent5": "The kluges in the design were like band-aids on a broken arm, not really solving the problem."
         },
         {
             "definition": "To create or put together in a makeshift or haphazard manner.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She kluges together a temporary shelter using branches and leaves.",
+            "sent2": "He kluges a solution for the broken door using duct tape.",
+            "sent3": "In a rush, they kluges a plan for the event that somehow worked out.",
+            "sent4": "The mechanic kluges a quick fix for the car engine, just to get it running.",
+            "sent5": "They kluges a makeshift bridge across the river, hoping it would hold their weight."
         }
     ]
 }

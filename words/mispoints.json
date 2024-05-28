@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Mispoints: to mark or indicate incorrectly",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She mispoints the location on the map, causing confusion.",
+            "sent2": "He often mispoints the answers in his homework assignments.",
+            "sent3": "The comedian mispoints the punchline, making the joke fall flat.",
+            "sent4": "Her compass mispoints north, leading her in the wrong direction.",
+            "sent5": "The faulty GPS mispoints the destination, causing them to get lost."
         },
         {
             "definition": "Mispoints: points that are marked or indicated incorrectly",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The mispoints on the map led them astray during the hike.",
+            "sent2": "The mispoints on the scoreboard caused confusion among the players.",
+            "sent3": "The mispoints on the treasure map made the search more challenging.",
+            "sent4": "The mispoints in the document caused errors in the calculations.",
+            "sent5": "The mispoints on the signpost caused travelers to take the wrong road."
         }
     ]
 }

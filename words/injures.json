@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Cause physical harm or damage to someone or something.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Running too fast injures your legs.",
+            "sent2": "Falling off a bike injures your arm.",
+            "sent3": "Trying to juggle too many things at once injures your ability to focus.",
+            "sent4": "Ignoring problems can injure relationships over time.",
+            "sent5": "The sharp blade injures the delicate skin easily."
         },
         {
             "definition": "Sustain physical harm or damage to oneself.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Not wearing a helmet injures your head in a fall.",
+            "sent2": "Playing rough injures your body sometimes.",
+            "sent3": "Eating too much candy injures your teeth slowly.",
+            "sent4": "Lack of sleep can injure your overall health.",
+            "sent5": "The athlete injures himself during the intense training session."
         }
     ]
 }

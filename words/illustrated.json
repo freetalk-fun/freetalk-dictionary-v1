@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Show or demonstrate by example or by making clear or explicit.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The teacher illustrated how to solve the math problem on the board.",
+            "sent2": "The book illustrated the process of photosynthesis with detailed diagrams.",
+            "sent3": "The magician illustrated his trick with a clever sleight of hand.",
+            "sent4": "Her smile illustrated her joy at receiving the award.",
+            "sent5": "The documentary illustrated the impact of climate change on polar bears with stunning footage."
         },
         {
             "definition": "Decorated with pictures or other graphical elements.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The illustrated children's book was filled with colorful drawings.",
+            "sent2": "She wore an illustrated scarf featuring cute animal designs.",
+            "sent3": "The cake was beautifully illustrated with edible flowers and butterflies.",
+            "sent4": "The walls of the classroom were illustrated with inspiring quotes.",
+            "sent5": "The menu at the restaurant was illustrated with mouth-watering images of food."
         },
         {
             "definition": "Provided with pictures, diagrams, or other visual aids.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The textbook was illustrated with helpful graphs and charts.",
+            "sent2": "The presentation slides were illustrated with engaging illustrations.",
+            "sent3": "The museum exhibit was illustrated with interactive displays for visitors.",
+            "sent4": "The brochure was illustrated with maps to guide tourists around the city.",
+            "sent5": "The science lab was illustrated with posters showing the periodic table and scientific formulas."
         }
     ]
 }

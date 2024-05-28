@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A wide-mouthed container made of glass or pottery, used for storing food or other items.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I placed cookies in the jar on the kitchen shelf.",
+            "sent2": "The jar fell off the table and shattered into pieces.",
+            "sent3": "The mischievous cat knocked the jar off the counter, spilling its contents everywhere.",
+            "sent4": "Her laughter tinkled like glass jars clinking together.",
+            "sent5": "The sunlight streaming through the jar made the colorful candies inside sparkle."
         },
         {
             "definition": "To have a harsh, grating, or discordant sound.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The car engine started to jar loudly, indicating a problem.",
+            "sent2": "The musician's off-key notes jarred with the rest of the band.",
+            "sent3": "The sudden honking of the horn jarred the peaceful silence of the neighborhood.",
+            "sent4": "His words jarred against her ears like nails on a chalkboard.",
+            "sent5": "The clash of cymbals jarred the audience awake with its loudness."
         },
         {
             "definition": "To shake or jolt violently.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The earthquake jarred the entire house, causing items to fall off shelves.",
+            "sent2": "The sudden stop of the train jarred the passengers in their seats.",
+            "sent3": "The unexpected news jarred him out of his daydream.",
+            "sent4": "The thunderous applause jarred the performer, making them smile in surprise.",
+            "sent5": "The explosion jarred the ground beneath their feet, sending shockwaves through the air."
         }
     ]
 }

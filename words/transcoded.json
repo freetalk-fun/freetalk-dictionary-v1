@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To convert (data) from one form of coded representation to another.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I transcoded the information to make it easier to understand.",
+            "sent2": "She always transcodes the files before sharing them with others.",
+            "sent3": "The computer tried to transcode the message but ended up with gibberish.",
+            "sent4": "His ability to transcoded complex ideas into simple terms is impressive.",
+            "sent5": "The artist transcoded his emotions into a beautiful painting."
         },
         {
             "definition": "To convert (a video or audio file) into a different format.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "They transcoded the video to play it on different devices.",
+            "sent2": "The software can easily transcode audio files into various formats.",
+            "sent3": "I accidentally transcoded the song into a chipmunk version.",
+            "sent4": "Her voice transcoded the lyrics into pure emotion.",
+            "sent5": "The engineer transcoded the data to optimize streaming quality."
         }
     ]
 }

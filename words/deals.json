@@ -3,19 +3,39 @@
     "meanings": [
         {
             "definition": "Distributes or apportions",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She deals the cards in a fair manner.",
+            "sent2": "The teacher deals out the worksheets to each student.",
+            "sent3": "The magician deals the tricks for the audience to enjoy.",
+            "sent4": "Life deals us all different hands to play with.",
+            "sent5": "The chef deals the ingredients with precision and care."
         },
         {
             "definition": "Transactions or agreements",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The business deal was finalized yesterday.",
+            "sent2": "He always looks for good deals when shopping.",
+            "sent3": "The family made a deal to take turns doing the dishes.",
+            "sent4": "The real estate deal fell through at the last minute.",
+            "sent5": "She got a great deal on a new car at the dealership."
         },
         {
             "definition": "Handles or manages",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He deals with customer complaints professionally.",
+            "sent2": "The manager deals with scheduling the staff.",
+            "sent3": "The detective deals with solving mysterious cases.",
+            "sent4": "She deals with stress by practicing yoga.",
+            "sent5": "The coach deals with training the team for success."
         },
         {
             "definition": "Amounts or quantities",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The recipe calls for specific deals of each ingredient.",
+            "sent2": "The store has great deals on fresh produce.",
+            "sent3": "The doctor prescribed different deals of medicine for each patient.",
+            "sent4": "The survey asked about the deals of water consumed daily.",
+            "sent5": "The teacher explained the deals of time needed for each task."
         }
     ]
 }

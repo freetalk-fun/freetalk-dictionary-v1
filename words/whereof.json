@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Of what",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The mystery, whereof the answer eludes us, continues to intrigue everyone.",
+            "sent2": "The contents of the box, whereof the origin is unknown, remain a mystery.",
+            "sent3": "The cake, whereof the flavor is a surprise, delighted the party guests.",
+            "sent4": "The old house, whereof the history is rich, holds many secrets within its walls.",
+            "sent5": "The treasure map, whereof the location is hidden, led to a thrilling adventure."
         },
         {
             "definition": "From which",
-            "pos": "preposition"
+            "pos": "preposition",
+            "sent1": "She took out her phone, whereof she received a message from her friend.",
+            "sent2": "The ancient ruins, whereof the artifacts were discovered, held great historical significance.",
+            "sent3": "The tree, whereof the branches provided shade, was a favorite spot for picnics.",
+            "sent4": "The river, whereof the water flowed gently, reflected the colors of the sunset.",
+            "sent5": "The library, whereof the books were borrowed, was a quiet place for study."
         },
         {
             "definition": "Concerning which",
-            "pos": "preposition"
+            "pos": "preposition",
+            "sent1": "The report, whereof the details were discussed, shed light on the issue.",
+            "sent2": "The meeting, whereof the agenda was important, was well attended.",
+            "sent3": "The project, whereof the progress was slow, required more resources.",
+            "sent4": "The decision, whereof the implications were significant, needed careful consideration.",
+            "sent5": "The topic, whereof the debate was heated, sparked interesting discussions."
         }
     ]
 }

@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Approximately",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "She arrived circa noon for the meeting.",
+            "sent2": "The concert will start circa 7 p.m.",
+            "sent3": "The cake was ready circa the time the guests were expected.",
+            "sent4": "His estimate was circa the actual cost of the project.",
+            "sent5": "The temperature was circa 80 degrees Fahrenheit."
         },
         {
             "definition": "Around",
-            "pos": "preposition"
+            "pos": "preposition",
+            "sent1": "The park is circa the corner of Elm Street.",
+            "sent2": "The bookstore is circa the block from the coffee shop.",
+            "sent3": "She found her keys circa the sofa cushions.",
+            "sent4": "The cat was circling circa the mouse hole.",
+            "sent5": "The children played circa the playground equipment."
         },
         {
             "definition": "About",
-            "pos": "preposition"
+            "pos": "preposition",
+            "sent1": "There are circa ten apples in the basket.",
+            "sent2": "The movie will last circa two hours.",
+            "sent3": "He was feeling nervous circa the upcoming test.",
+            "sent4": "The book was written circa the life of a famous artist.",
+            "sent5": "The store had circa twenty different types of candy."
         }
     ]
 }

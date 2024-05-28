@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A word that represents a category containing other words.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The hypernym 'fruit' includes apples, oranges, and bananas.",
+            "sent2": "In the sentence 'I love all kinds of fruit', 'fruit' is a hypernym.",
+            "sent3": "The hypernym 'animal' decided to have a party in the zoo.",
+            "sent4": "She saw herself as the hypernym of the family, holding everyone together.",
+            "sent5": "The hypernym 'vehicle' encompasses cars, buses, and bicycles."
         },
         {
             "definition": "A term that is more general than another term.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The hypernym 'color' includes red, blue, and yellow.",
+            "sent2": "When we say 'animal', it is a hypernym for 'dog' and 'cat'.",
+            "sent3": "The hypernym 'food' decided to go on a diet.",
+            "sent4": "His love for music was the hypernym that connected all his memories.",
+            "sent5": "The hypernym 'shape' covers circles, squares, and triangles."
         }
     ]
 }

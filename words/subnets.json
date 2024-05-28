@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A subdivision of a network.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The company's IT department created multiple subnets to organize the network efficiently.",
+            "sent2": "The subnets in the office building allow each department to have its own network space.",
+            "sent3": "The subnets at the party were like different rooms where guests could gather.",
+            "sent4": "In the vast network of the city, the subnets were like small neighborhoods with their own characteristics.",
+            "sent5": "The concept of subnets is similar to dividing a big city into smaller districts for better management."
         },
         {
             "definition": "To divide a network into smaller parts.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The IT specialist will subnet the network to improve its performance.",
+            "sent2": "It is important to subnet the network to enhance security measures.",
+            "sent3": "The network technician decided to subnet the system, making it easier to manage.",
+            "sent4": "She skillfully subnetted the network, creating separate sections for different departments.",
+            "sent5": "Subnetting the network is like breaking down a big puzzle into smaller, more manageable pieces."
         }
     ]
 }

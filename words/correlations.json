@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A mutual relationship or connection between two or more things.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The correlations between the siblings were evident in their shared interests.",
+            "sent2": "Scientists study the correlations between exercise and health outcomes.",
+            "sent3": "The correlations between the cat and the mouse led to a comical chase around the house.",
+            "sent4": "The correlations between the stars in the sky created a beautiful constellation.",
+            "sent5": "The teacher used a fun game to explain the correlations between numbers and patterns."
         },
         {
             "definition": "A statistical measure of the relationship between two variables.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The researcher calculated the correlations between temperature and ice cream sales.",
+            "sent2": "In data analysis, understanding correlations helps in making predictions.",
+            "sent3": "The correlations between the number of umbrellas sold and the weather forecast puzzled the meteorologist.",
+            "sent4": "The correlations between study time and exam scores can be surprising.",
+            "sent5": "The graph vividly displayed the correlations between rainfall and crop yield."
         }
     ]
 }

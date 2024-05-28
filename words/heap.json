@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "An untidy collection of things piled up haphazardly.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The children made a heap of toys in the corner of the room.",
+            "sent2": "She found a heap of clothes on her bed when she returned home.",
+            "sent3": "The heap of papers on his desk looked like a mini mountain.",
+            "sent4": "The old books formed a heap as high as a small hill.",
+            "sent5": "The heap of leaves in the yard rustled in the wind."
         },
         {
             "definition": "A large amount or quantity of something.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "There was a heap of sand at the construction site.",
+            "sent2": "She received a heap of praise for her performance on stage.",
+            "sent3": "The heap of candies in the jar tempted the children.",
+            "sent4": "The heap of presents under the tree delighted the family.",
+            "sent5": "The heap of dishes in the sink awaited washing."
         }
     ]
 }

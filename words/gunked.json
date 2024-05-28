@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Covered in a thick, sticky substance",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The toy was gunked with gooey slime.",
+            "sent2": "Her hands were gunked with paint after the art class.",
+            "sent3": "The dog's fur looked funny all gunked up with peanut butter.",
+            "sent4": "The old book was gunked together with dried glue.",
+            "sent5": "The car engine was gunked up with oil, making it hard to start."
         },
         {
             "definition": "To become clogged or obstructed with dirt or grime",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The drain gunked up with hair and soap scum.",
+            "sent2": "If you don't clean the filter, it will gunk up with dust.",
+            "sent3": "The vacuum cleaner gunked up when it sucked up a sock.",
+            "sent4": "The gears gunked together, causing the machine to stop.",
+            "sent5": "The pipes gunked with rust, causing a leak in the kitchen sink."
         }
     ]
 }

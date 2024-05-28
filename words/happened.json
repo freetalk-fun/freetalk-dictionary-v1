@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To take place",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The party happened at the park.",
+            "sent2": "The meeting happened in the morning.",
+            "sent3": "The surprise party happened in the library!",
+            "sent4": "The change in weather happened overnight.",
+            "sent5": "The accident happened suddenly and unexpectedly."
         },
         {
             "definition": "To occur",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The accident happened on the highway.",
+            "sent2": "Rain happened during the night.",
+            "sent3": "The mix-up happened at the bakery!",
+            "sent4": "The idea happened to him while walking.",
+            "sent5": "The event happened without warning."
         },
         {
             "definition": "To come to pass",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The decision happened after much thought.",
+            "sent2": "The change happened gradually over time.",
+            "sent3": "The mishap happened during the play!",
+            "sent4": "The realization happened in an instant.",
+            "sent5": "The miracle happened against all odds."
         }
     ]
 }

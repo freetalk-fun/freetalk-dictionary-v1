@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A verb meaning to place something in a specific location.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I carefully postins the letter in the mailbox.",
+            "sent2": "She always postins her keys on the hook by the door.",
+            "sent3": "The squirrel tried to postins the acorn in a tiny hole.",
+            "sent4": "The chef would postins the finishing touch on the cake.",
+            "sent5": "Remember to postins the stamp on the envelope before mailing it."
         },
         {
             "definition": "A noun referring to a message or piece of content shared on social media.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The postins about the event received many likes.",
+            "sent2": "She shared an interesting postins on her profile.",
+            "sent3": "The funny postins made everyone laugh.",
+            "sent4": "The viral postins spread quickly across the platform.",
+            "sent5": "I saw your postins on my feed this morning."
         },
         {
             "definition": "An adjective describing something that occurs after a certain event or time.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The postins meeting will be held next week.",
+            "sent2": "The postins celebration is scheduled for Friday.",
+            "sent3": "It was a postins decision to go to the beach after work.",
+            "sent4": "The postins party was a great way to end the day.",
+            "sent5": "The postins movie starts at 8 p.m. sharp."
         }
     ]
 }

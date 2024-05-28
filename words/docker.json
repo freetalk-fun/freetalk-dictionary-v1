@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A person who works at or operates a dock.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The docker helped unload the cargo from the ship.",
+            "sent2": "The dockers were busy loading and unloading the containers.",
+            "sent3": "The docker joked that they were the captain of the dock.",
+            "sent4": "The docker skillfully navigated the bustling dock like a seasoned sailor.",
+            "sent5": "The hardworking docker was known for their efficiency in managing the dock operations."
         },
         {
             "definition": "A type of software platform used for developing, shipping, and running applications.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The developer used Docker to streamline the application deployment process.",
+            "sent2": "Many tech companies rely on Docker for their software development needs.",
+            "sent3": "The team celebrated when the Docker platform made their work easier.",
+            "sent4": "Docker revolutionized the way developers build and deploy applications.",
+            "sent5": "Learning to use Docker effectively can greatly enhance a programmer's productivity."
         }
     ]
 }

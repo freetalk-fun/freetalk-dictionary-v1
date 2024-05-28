@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A mark or other indication of the existence or passing of something.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I found a trace of chocolate on my shirt.",
+            "sent2": "The detective followed the trace of footprints in the snow.",
+            "sent3": "The trace of laughter in the room made everyone smile.",
+            "sent4": "Her kindness left a trace of warmth in my heart.",
+            "sent5": "The trace of paint on the canvas told a story."
         },
         {
             "definition": "A very small quantity or amount of something.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "There was only a trace of sugar left in the bowl.",
+            "sent2": "She added a trace of cinnamon to the recipe.",
+            "sent3": "The trace of rain on the window was barely visible.",
+            "sent4": "A trace of doubt lingered in his mind.",
+            "sent5": "The trace of perfume in the air was delightful."
         },
         {
             "definition": "To find or discover by investigation.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I will trace the source of the strange noise.",
+            "sent2": "The archaeologist traced the origins of the ancient artifact.",
+            "sent3": "She tried to trace the missing sock but couldn't find it.",
+            "sent4": "He traced his family tree back several generations.",
+            "sent5": "The detective traced the suspect's movements carefully."
         }
     ]
 }

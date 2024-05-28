@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To bring to an end",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The movie finally terminated, leaving everyone satisfied.",
+            "sent2": "The meeting was terminated promptly at 4 pm.",
+            "sent3": "The game of tag terminated when the sun went down.",
+            "sent4": "The journey terminated at the top of the mountain, where a breathtaking view awaited.",
+            "sent5": "The music gradually terminated, fading into silence."
         },
         {
             "definition": "To dismiss from employment",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The company terminated the employee due to budget cuts.",
+            "sent2": "She was terminated from her job after the incident.",
+            "sent3": "The robot was terminated from its position at the factory for malfunctioning.",
+            "sent4": "His career was terminated abruptly, leaving him searching for new opportunities.",
+            "sent5": "The boss terminated the employee's contract, leading to a search for a new job."
         },
         {
             "definition": "To kill or destroy",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The virus terminated many cells in the body.",
+            "sent2": "The villain's plan was to terminate the hero once and for all.",
+            "sent3": "The exterminator terminated the pests invading the house.",
+            "sent4": "The storm terminated the power supply in the entire neighborhood.",
+            "sent5": "The explosion terminated the old building, making way for a new construction."
         }
     ]
 }

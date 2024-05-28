@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Past tense and past participle of breed.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The dog was bred for hunting.",
+            "sent2": "The farm animals were bred for their wool.",
+            "sent3": "The cat was bred for herding sheep, but she prefers napping in the sun.",
+            "sent4": "The roses were bred to withstand harsh weather conditions.",
+            "sent5": "The champion racehorse was bred for speed and endurance."
         },
         {
             "definition": "Developed or trained for a particular purpose.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The well-bred dog was obedient and loyal.",
+            "sent2": "She is a well-bred lady with impeccable manners.",
+            "sent3": "The well-bred horse won the competition with grace and style.",
+            "sent4": "The well-bred chef prepared a delicious meal with precision and skill.",
+            "sent5": "The well-bred athlete showed sportsmanship and determination in the game."
         },
         {
             "definition": "Originated or produced.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The rare flower is bred only in this region.",
+            "sent2": "The unique blend of coffee is bred by a local roaster.",
+            "sent3": "The new species of fish was bred in a laboratory for research purposes.",
+            "sent4": "The innovative technology was bred from years of experimentation.",
+            "sent5": "The exceptional talent of the artist was bred from a young age through practice and dedication."
         }
     ]
 }

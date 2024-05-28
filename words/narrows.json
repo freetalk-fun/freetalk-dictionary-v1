@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A narrow part of a body of water, such as a strait or channel.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The boat sailed through the narrows between the cliffs.",
+            "sent2": "The narrows of the river were difficult to navigate.",
+            "sent3": "The fisherman caught a big fish in the narrows of the lake.",
+            "sent4": "The narrows of the canyon echoed with the sound of rushing water.",
+            "sent5": "The narrows were a natural gateway to the open sea."
         },
         {
             "definition": "To become narrower.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "As the path narrows, it becomes harder to walk side by side.",
+            "sent2": "The road narrows as it approaches the mountain pass.",
+            "sent3": "The gap between the trees narrows as you move deeper into the forest.",
+            "sent4": "Her focus narrows as she zeroes in on the target.",
+            "sent5": "The river narrows as it flows through the canyon, creating rapids."
         },
         {
             "definition": "To make something narrower.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She narrows the opening of the box to fit the lid perfectly.",
+            "sent2": "The tailor narrows the waist of the dress to create a more flattering silhouette.",
+            "sent3": "He narrows the path with rocks to guide hikers in the right direction.",
+            "sent4": "The architect narrows the hallway to create a sense of intimacy.",
+            "sent5": "The chef narrows the sauce to intensify the flavor."
         }
     ]
 }

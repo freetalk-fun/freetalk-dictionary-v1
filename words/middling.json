@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "moderate in size, amount, or rank",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The house was of middling size, not too big or too small.",
+            "sent2": "She gave a middling performance in the school play.",
+            "sent3": "The middling cake was neither delicious nor terrible.",
+            "sent4": "His skills were middling compared to the other players on the team.",
+            "sent5": "The weather was middling, neither too hot nor too cold."
         },
         {
             "definition": "of average or medium quality",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The restaurant served middling food that was neither exceptional nor terrible.",
+            "sent2": "The movie received middling reviews from critics.",
+            "sent3": "His painting was middling, not impressive but not awful either.",
+            "sent4": "The hotel offered middling service, nothing outstanding but nothing terrible.",
+            "sent5": "The student received a middling grade on the test, not great but not failing either."
         },
         {
             "definition": "a middle position or degree",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "He held a middling position in the company, not too high up but not at the bottom either.",
+            "sent2": "The thermometer showed a middling temperature, not too hot or too cold.",
+            "sent3": "The cake was baked to a perfect middling, not undercooked or overcooked.",
+            "sent4": "She aimed for a middling level of effort, not too little but not too much.",
+            "sent5": "The town was located at a middling distance from the city, not too close but not too far either."
         }
     ]
 }

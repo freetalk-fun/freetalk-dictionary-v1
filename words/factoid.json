@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A brief or trivial item of news or information.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The factoid about the new store opening spread quickly in the neighborhood.",
+            "sent2": "I read an interesting factoid about penguins in the magazine.",
+            "sent3": "The factoid about cats loving to chase laser pointers always makes me smile.",
+            "sent4": "The factoid about elephants never forgetting is as well-known as the sun rising every day.",
+            "sent5": "The factoid about bees communicating through dance is fascinating to learn about."
         },
         {
             "definition": "Something that becomes accepted as a fact, although it may not be true.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The factoid that carrots improve night vision is a common misconception.",
+            "sent2": "She shared a factoid about the dangers of swallowing gum.",
+            "sent3": "The factoid that eating watermelon seeds will grow a watermelon in your stomach is just silly.",
+            "sent4": "The factoid that lightning never strikes the same place twice is a myth that many believe.",
+            "sent5": "The factoid that we only use 10% of our brains is a popular misconception debunked by scientists."
         }
     ]
 }

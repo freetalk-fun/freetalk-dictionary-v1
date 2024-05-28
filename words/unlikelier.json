@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Not likely",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "It is unlikelier to rain in the desert.",
+            "sent2": "She thought it was unlikelier for her team to win the game.",
+            "sent3": "It would be unlikelier for a penguin to live in the desert.",
+            "sent4": "Finding a needle in a haystack is unlikelier than winning the lottery.",
+            "sent5": "The chances of a snowstorm in summer are unlikelier than a heatwave in winter."
         },
         {
             "definition": "Less likely",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "It is unlikelier to see a unicorn than a horse.",
+            "sent2": "He found it unlikelier to encounter a bear in the city than in the forest.",
+            "sent3": "It's unlikelier for a cat to bark than a dog to meow.",
+            "sent4": "Winning the jackpot is unlikelier than getting struck by lightning.",
+            "sent5": "It's unlikelier for a fish to climb a tree than for a bird to swim underwater."
         }
     ]
 }

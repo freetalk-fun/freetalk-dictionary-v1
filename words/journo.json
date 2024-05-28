@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A journalist",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The journo reported on the local event.",
+            "sent2": "The journo writes for the newspaper.",
+            "sent3": "The journo asked the mayor a silly question during the interview.",
+            "sent4": "The journo's pen is mightier than the sword.",
+            "sent5": "The journo's camera captured the essence of the protest."
         },
         {
             "definition": "A person who works as a journalist",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The young journo is eager to cover breaking news.",
+            "sent2": "The experienced journo has won many awards for investigative reporting.",
+            "sent3": "The journo accidentally spilled coffee on their notes before the press conference.",
+            "sent4": "The journo's words are like a beacon in the darkness of misinformation.",
+            "sent5": "The journo's dedication to the truth is unwavering."
         }
     ]
 }

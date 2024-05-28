@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To live in a particular place.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She woons in a cozy cottage by the lake.",
+            "sent2": "He woons in a bustling city with his family.",
+            "sent3": "The cat woons in the sunbeam all day long.",
+            "sent4": "The tree woons in the rich soil, reaching for the sky.",
+            "sent5": "The old man woons in the memories of his youth."
         },
         {
             "definition": "A place where someone lives.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Their cozy cottage by the lake is their woons.",
+            "sent2": "The bustling city became his new woons.",
+            "sent3": "The treehouse in the backyard is the children's favorite woons.",
+            "sent4": "The cozy den with the fireplace is her woons during winter.",
+            "sent5": "The small cabin in the woods is a peaceful woons."
         },
         {
             "definition": "To be in a state of physical or mental suffering.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She woons from a terrible headache.",
+            "sent2": "He woons in silence after the loss of his pet.",
+            "sent3": "The puppy woons when it can't find its toy.",
+            "sent4": "The patient woons in pain waiting for the doctor.",
+            "sent5": "The child woons from a scraped knee."
         }
     ]
 }

@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Used to indicate the end of a quotation.",
-            "pos": "conjunction"
+            "pos": "conjunction",
+            "sent1": "She said, 'I love ice cream, unquote.'",
+            "sent2": "He read the passage aloud and then said, 'unquote.'",
+            "sent3": "After telling a funny story, she added, 'and then the alien said, unquote!'",
+            "sent4": "The mystery novel kept me on edge until the very last page, unquote.",
+            "sent5": "The teacher emphasized the importance of punctuation by saying, 'comma, unquote.'"
         },
         {
             "definition": "To close a quotation.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Please remember to unquote the text after citing it.",
+            "sent2": "He always forgets to unquote the dialogue in his essays.",
+            "sent3": "The student accidentally unquoted the wrong part of the poem, causing confusion.",
+            "sent4": "She carefully unquoted the lyrics to avoid any copyright issues.",
+            "sent5": "The journalist quickly unquoted the interviewee's statement for accuracy."
         },
         {
             "definition": "To end a quotation.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Make sure to unquote the passage correctly in your report.",
+            "sent2": "The speaker paused to unquote the famous line from the speech.",
+            "sent3": "The comedian intentionally unquoted the joke to leave the audience laughing.",
+            "sent4": "She decided to unquote the paragraph for emphasis in her presentation.",
+            "sent5": "The author carefully unquoted the character's final words for dramatic effect."
         }
     ]
 }

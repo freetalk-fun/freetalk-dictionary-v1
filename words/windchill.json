@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "The perceived decrease in temperature felt on exposed skin due to the combination of cold temperatures and wind.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The windchill made it feel much colder outside than the actual temperature.",
+            "sent2": "I could feel the biting windchill on my face as I walked to the bus stop.",
+            "sent3": "The windchill was like a chilly ghost whispering on my cheeks.",
+            "sent4": "The windchill cut through my jacket like icy blades.",
+            "sent5": "The windchill numbed my fingers within minutes of being outside."
         },
         {
             "definition": "To calculate the windchill factor, meteorologists use a formula that takes into account both air temperature and wind speed.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Meteorologists need to windchill the data before making weather predictions.",
+            "sent2": "The weather report will include the windchill factor for tomorrow's forecast.",
+            "sent3": "I tried to windchill the numbers in my head, but it was too complicated.",
+            "sent4": "She could windchill the temperature changes just by looking at the clouds.",
+            "sent5": "The scientist windchilled the results to ensure accuracy in the study."
         }
     ]
 }

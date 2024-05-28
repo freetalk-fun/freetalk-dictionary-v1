@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A space left empty for writing or printing.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "She filled in the blanks on the form.",
+            "sent2": "The teacher handed out worksheets with blanks to fill in.",
+            "sent3": "The detective found a mysterious blank in the suspect's alibi.",
+            "sent4": "The artist's canvas was a blank waiting to be filled with color.",
+            "sent5": "The crossword puzzle had many challenging blanks to complete."
         },
         {
             "definition": "To cover or obscure with a blank.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He used a marker to blank out the sensitive information.",
+            "sent2": "The fog began to blank out the view of the mountains.",
+            "sent3": "The magician's trick seemed to blank out the audience's memory.",
+            "sent4": "The snowfall started to blank out the footprints on the path.",
+            "sent5": "The computer program can blank out unwanted background noise."
         },
         {
             "definition": "Lacking expression or understanding.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "Her blank expression showed she was lost in thought.",
+            "sent2": "The student's blank stare indicated confusion.",
+            "sent3": "The cat gave a blank look when presented with a cucumber.",
+            "sent4": "The old photograph had a blank quality, making it hard to identify the people.",
+            "sent5": "The empty room had a blank feeling, devoid of any warmth."
         }
     ]
 }

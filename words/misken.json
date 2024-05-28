@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Misken (verb): to misunderstand or misinterpret something",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I miskened her message and thought she was upset when she was actually happy.",
+            "sent2": "Don't misken my intentions, I was only trying to help.",
+            "sent3": "He miskened the joke and ended up laughing at the wrong part.",
+            "sent4": "The fog can misken the distance, making objects appear closer than they are.",
+            "sent5": "It's easy to misken someone's tone in a text message."
         },
         {
             "definition": "Misken (adjective): mistaken or incorrect in understanding or judgment",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "She gave a misken answer on the quiz and lost points.",
+            "sent2": "His misken belief led him to make the wrong decision.",
+            "sent3": "The misken map led them to the wrong location.",
+            "sent4": "Her misken assumption about the situation caused unnecessary worry.",
+            "sent5": "The misken directions caused them to get lost on the hike."
         }
     ]
 }

@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Have an idea or impression of the existence, presence, or truth of (something) without certain proof.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I suspect the cat is hiding under the bed.",
+            "sent2": "The detective suspects foul play in the case.",
+            "sent3": "Why do you suspect the cookies disappeared so quickly?",
+            "sent4": "The dark clouds made me suspect a storm was coming.",
+            "sent5": "She could not help but suspect something was wrong."
         },
         {
             "definition": "Regard someone or something with suspicion or mistrust.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I suspect the new neighbor is not who they claim to be.",
+            "sent2": "The security guard suspects everyone entering the building.",
+            "sent3": "The dog's suspicious behavior made me suspect he was up to no good.",
+            "sent4": "Her constant lying made me suspect her motives.",
+            "sent5": "The old house made me suspect it was haunted."
         },
         {
             "definition": "A person thought to be guilty of a crime or offense.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The suspect was taken into custody by the police.",
+            "sent2": "The suspect denied any involvement in the robbery.",
+            "sent3": "The suspect's alibi was as flimsy as a paper bag.",
+            "sent4": "The suspect's eyes darted around nervously during questioning.",
+            "sent5": "The suspect's fingerprints were found at the crime scene."
         }
     ]
 }

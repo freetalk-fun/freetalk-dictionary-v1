@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A compulsory contribution to state revenue, levied by the government on workers' income and business profits or added to the cost of some goods, services, and transactions.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The government collects a tax from workers' salaries to fund public services.",
+            "sent2": "It is important to pay your tax on time to avoid penalties.",
+            "sent3": "The tax on candy bars makes them more expensive than fruits.",
+            "sent4": "The tax on sugary drinks is like a weight pressing down on our wallets.",
+            "sent5": "The tax burden can feel like carrying a heavy load on your shoulders."
         },
         {
             "definition": "Impose a tax on (someone or something).",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The government may tax imported goods to protect local industries.",
+            "sent2": "Businesses often tax their products to cover production costs.",
+            "sent3": "Wouldn't it be funny if we could tax the clouds for raining too much?",
+            "sent4": "The idea to tax time itself seemed absurd but intriguing.",
+            "sent5": "She tried to tax her cat for sleeping on her keyboard."
         },
         {
             "definition": "A strain or heavy demand.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The constant overtime at work put a tax on his health.",
+            "sent2": "The emotional tax of caring for a sick loved one can be overwhelming.",
+            "sent3": "It's like there's a tax on my energy every time I have to deal with him.",
+            "sent4": "The never-ending chores felt like a tax on her free time.",
+            "sent5": "The stress of the upcoming exam was a heavy tax on her mind."
         }
     ]
 }

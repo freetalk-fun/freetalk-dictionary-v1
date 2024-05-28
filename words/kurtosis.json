@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "The measure of the \"peakedness\" of a probability distribution.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The kurtosis of the graph shows how sharp the peak is.",
+            "sent2": "In statistics, kurtosis helps us understand how tall and narrow a curve is.",
+            "sent3": "The kurtosis of the data was so high, it looked like a mountain peak!",
+            "sent4": "The kurtosis of the bell curve was like a skyscraper in the city of data.",
+            "sent5": "The kurtosis value made the graph look like a sharp mountain in a landscape of numbers."
         },
         {
             "definition": "The fourth standardized moment of a probability distribution.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Calculating the kurtosis involves the fourth moment of the distribution.",
+            "sent2": "The kurtosis value gives insight into the shape of the data set.",
+            "sent3": "The kurtosis of the data was so high, it felt like the fourth dimension of statistics!",
+            "sent4": "The kurtosis of the distribution was like the cherry on top of the statistical sundae.",
+            "sent5": "The kurtosis number added a unique twist to the analysis, like a secret ingredient in a recipe."
         }
     ]
 }

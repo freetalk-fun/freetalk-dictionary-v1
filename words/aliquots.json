@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A portion of a larger whole",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "She poured small aliquots of juice into each glass.",
+            "sent2": "The scientist divided the liquid into aliquots for testing.",
+            "sent3": "The chef carefully measured aliquots of spices for the recipe.",
+            "sent4": "The teacher distributed aliquots of crayons to the students.",
+            "sent5": "The artist used aliquots of paint to create a colorful masterpiece."
         },
         {
             "definition": "A sample taken from a larger quantity",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The doctor collected blood aliquots for analysis.",
+            "sent2": "Each tube contained a different aliquot of the solution.",
+            "sent3": "The detective carefully labeled the aliquots of evidence.",
+            "sent4": "The chef tasted a small aliquot of the soup to check the seasoning.",
+            "sent5": "The researcher stored aliquots of the sample in the freezer for future use."
         },
         {
             "definition": "To divide into smaller parts",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She aliquots the mixture into separate containers.",
+            "sent2": "The pharmacist aliquots the medication for individual doses.",
+            "sent3": "The gardener aliquots the seeds to plant in rows.",
+            "sent4": "He aliquots his time between work and hobbies.",
+            "sent5": "The chef aliquots the dough to make individual pastries."
         }
     ]
 }

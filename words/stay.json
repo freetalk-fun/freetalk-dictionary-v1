@@ -3,19 +3,39 @@
     "meanings": [
         {
             "definition": "Remain in the same place.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I will stay here until you come back.",
+            "sent2": "Please stay seated during the entire performance.",
+            "sent3": "The cat decided to stay put under the table.",
+            "sent4": "Her words stayed in my mind long after she left.",
+            "sent5": "The memories of that day will stay with me forever."
         },
         {
             "definition": "A period of remaining in a place.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Our stay at the hotel was very pleasant.",
+            "sent2": "The doctor recommended a longer stay in the hospital.",
+            "sent3": "The unexpected snowstorm extended our stay in the cabin.",
+            "sent4": "Their stay in the city was filled with exciting adventures.",
+            "sent5": "The short stay in the countryside refreshed their spirits."
         },
         {
             "definition": "To stop or prevent something from happening.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She tried to stay the tears from falling.",
+            "sent2": "The security guard managed to stay the thief from escaping.",
+            "sent3": "His quick thinking helped stay the disaster from worsening.",
+            "sent4": "The new regulations aim to stay pollution in the area.",
+            "sent5": "Their teamwork was crucial to stay the spread of misinformation."
         },
         {
             "definition": "To reside temporarily.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "We will stay at a friend's house while visiting the city.",
+            "sent2": "Many workers stay in temporary housing during the construction project.",
+            "sent3": "The travelers decided to stay in a cozy inn for the night.",
+            "sent4": "Students often stay in dormitories during their college years.",
+            "sent5": "The nomadic tribe would stay in one location for a few weeks before moving on."
         }
     ]
 }

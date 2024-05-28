@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "In a manner that declares or asserts something",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "She spoke declaratively, stating her opinion clearly.",
+            "sent2": "He always answers questions declaratively, without hesitation.",
+            "sent3": "The cat meowed declaratively, demanding more treats.",
+            "sent4": "The sun rose declaratively over the horizon, announcing the start of a new day.",
+            "sent5": "The teacher pointed declaratively at the correct answer on the board."
         },
         {
             "definition": "Using statements to convey information or make a statement",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "They declaratively explained the new project to the team.",
+            "sent2": "She often declaratively asserts her opinions during meetings.",
+            "sent3": "The robot declaratively declared its love for coding.",
+            "sent4": "His actions declaratively spoke louder than his words.",
+            "sent5": "The singer declaratively belted out the final note of the song."
         }
     ]
 }

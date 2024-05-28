@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A loud, muffled sound like that made by a heavy footfall or a falling object.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The crump of the door closing echoed through the hallway.",
+            "sent2": "I heard a sudden crump in the distance, like something heavy falling.",
+            "sent3": "The crump of the book hitting the floor startled me.",
+            "sent4": "The crump of the thunder shook the windows.",
+            "sent5": "The crump of the drum signaled the start of the performance."
         },
         {
             "definition": "To make a crunching or cracking sound, as in walking on snow or ice.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I crumped through the fresh snow, leaving footprints behind.",
+            "sent2": "The hiker's boots crumped on the icy trail as he walked.",
+            "sent3": "The cat crumped across the frozen pond, leaving paw prints.",
+            "sent4": "The old wooden floorboards crumped under my weight as I walked.",
+            "sent5": "The dry leaves crumped underfoot as I walked through the forest."
         },
         {
             "definition": "To break into small fragments or pieces with a sharp, snapping sound.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She crumped the cookie into pieces before sharing it.",
+            "sent2": "The crackers crumped as he bit into them.",
+            "sent3": "The toast crumped loudly when she dropped it on the plate.",
+            "sent4": "The dry leaves crumped under the weight of the squirrel.",
+            "sent5": "The vase crumped into shards when it fell off the table."
         }
     ]
 }

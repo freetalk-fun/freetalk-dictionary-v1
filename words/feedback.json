@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Information about reactions to a product, a person's performance of a task, etc. which is used as a basis for improvement.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The teacher gave helpful feedback on my essay.",
+            "sent2": "I always appreciate feedback from my customers.",
+            "sent3": "The feedback from the audience made the comedian's jokes even funnier.",
+            "sent4": "Her smile was like feedback, guiding me towards a better mood.",
+            "sent5": "The feedback loop in our project helped us make necessary changes quickly."
         },
         {
             "definition": "The modification or control of a process or system by its results or effects.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "We adjusted the settings based on the feedback we received.",
+            "sent2": "The feedback loop in the system ensures smooth operation.",
+            "sent3": "The feedback from the thermostat kept the room at the perfect temperature.",
+            "sent4": "Her guidance was like feedback, steering us in the right direction.",
+            "sent5": "The feedback mechanism in the engine prevented overheating."
         }
     ]
 }

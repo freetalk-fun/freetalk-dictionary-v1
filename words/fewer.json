@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A smaller number of something",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "There were fewer students in the classroom today.",
+            "sent2": "I have fewer toys than my brother.",
+            "sent3": "The magician had fewer rabbits in his hat than usual.",
+            "sent4": "The town had fewer streetlights, making it look like a starry sky.",
+            "sent5": "The fewer cookies left in the jar, the more I wanted one."
         },
         {
             "definition": "A smaller amount or quantity of something",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "She used fewer ingredients in the recipe.",
+            "sent2": "There are fewer clouds in the sky today.",
+            "sent3": "The garden had fewer flowers blooming than expected.",
+            "sent4": "The lake had fewer fish swimming in its waters.",
+            "sent5": "With fewer trees in the forest, the sunlight reached the ground easily."
         }
     ]
 }

@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "The person whose signature appears below.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The undersigned on the contract is the person who signed at the bottom.",
+            "sent2": "Please provide identification for the undersigned on the form.",
+            "sent3": "The undersigned at the end of the letter was eager to show their approval.",
+            "sent4": "The undersigned on the will held the key to the family's future.",
+            "sent5": "The undersigned in the agreement was the final piece needed for completion."
         },
         {
             "definition": "To sign one's name at the end of a document.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I undersigned the check before handing it over to the cashier.",
+            "sent2": "Please remember to undersign the form before submitting it.",
+            "sent3": "The student eagerly undersigned their test paper, relieved it was finally over.",
+            "sent4": "She undersigned the contract, sealing the deal with a flourish.",
+            "sent5": "The artist undersigned their masterpiece, marking it as their own creation."
         }
     ]
 }

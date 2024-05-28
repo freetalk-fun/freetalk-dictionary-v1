@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A sandwich consisting of a long roll filled with meats, cheeses, and vegetables.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I enjoyed a delicious hoagie for lunch today.",
+            "sent2": "My favorite hoagie has turkey, Swiss cheese, and lettuce.",
+            "sent3": "I accidentally dropped my hoagie on the floor, but I still ate it!",
+            "sent4": "The hoagie was a tower of flavors and textures in my mouth.",
+            "sent5": "The hoagie shop down the street makes the best sandwiches in town."
         },
         {
             "definition": "To eat or consume a hoagie.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I will hoagie my sandwich for dinner.",
+            "sent2": "She hoagied her sub quickly before the movie started.",
+            "sent3": "He hoagied his lunch like he hadn't eaten in days!",
+            "sent4": "The kids hoagied their snacks before heading out to play.",
+            "sent5": "Hoagie your meal slowly to savor every bite."
         }
     ]
 }

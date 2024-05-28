@@ -3,23 +3,48 @@
     "meanings": [
         {
             "definition": "Separate into pieces",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I accidentally break my pencil while writing.",
+            "sent2": "Please be careful not to break the glass.",
+            "sent3": "I didn't mean to break the cookie in half, but now we can share!",
+            "sent4": "Her heart seemed to break into a million tiny fragments.",
+            "sent5": "The loud sound of the breaking branch echoed through the forest."
         },
         {
             "definition": "Interrupt",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Let's take a break from studying and go for a walk.",
+            "sent2": "The teacher had to break the argument between the students.",
+            "sent3": "The cat tried to break our conversation by meowing loudly.",
+            "sent4": "The sudden noise outside broke my concentration completely.",
+            "sent5": "The phone call broke the silence in the room."
         },
         {
             "definition": "Fracture or damage",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The doctor confirmed that the patient had a break in his arm.",
+            "sent2": "The break in the vase was barely noticeable.",
+            "sent3": "The little break in the toy car made it look more realistic.",
+            "sent4": "The break in the wall allowed a glimpse into the other room.",
+            "sent5": "The break in the mirror reflected the sunlight in different directions."
         },
         {
             "definition": "Opportunity for rest or refreshment",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "After a long hike, we finally reached a nice break spot.",
+            "sent2": "Taking a short break can help improve productivity.",
+            "sent3": "The break by the lake was the perfect place for a picnic.",
+            "sent4": "The coffee break at work is always a welcome pause.",
+            "sent5": "The break under the shade of the tree was a peaceful moment."
         },
         {
             "definition": "Violate a law or rule",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "If you break the speed limit, you might get a ticket.",
+            "sent2": "It is important not to break any of the school rules.",
+            "sent3": "I didn't mean to break the curfew, but I lost track of time.",
+            "sent4": "Breaking the law can have serious consequences.",
+            "sent5": "He promised never to break his promise again."
         }
     ]
 }

@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "The process of converting information or data into a code to prevent unauthorized access.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The encryption of sensitive files ensures they cannot be read by unauthorized users.",
+            "sent2": "Data encryption is essential for protecting personal information online.",
+            "sent3": "I tried to use encryption to hide my secret cookie recipe from my nosy brother.",
+            "sent4": "Her smile was like encryption, hiding her true feelings behind a cheerful facade.",
+            "sent5": "The magician's trick was like encryption, keeping the audience guessing how it was done."
         },
         {
             "definition": "The act of encoding a message or information in a secret or secure way.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Government agencies often use encryption to protect classified information.",
+            "sent2": "Email providers use encryption to keep messages safe from hackers.",
+            "sent3": "I whispered the secret code to my friend, like a form of encryption between us.",
+            "sent4": "Her laughter was like encryption, a hidden message only I could understand.",
+            "sent5": "The treasure map was an encryption of clues leading to the hidden chest."
         },
         {
             "definition": "The method of transforming plaintext into ciphertext for secure communication.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Modern encryption techniques make it nearly impossible for hackers to intercept messages.",
+            "sent2": "Businesses rely on encryption to protect financial transactions from cyber threats.",
+            "sent3": "The cat's meow seemed like an encryption of its desire for treats.",
+            "sent4": "His words were an encryption, revealing his true feelings in a coded manner.",
+            "sent5": "The forest was an encryption of nature's secrets, waiting to be deciphered by explorers."
         }
     ]
 }

@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Obstacle or hindrance",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The fallen tree was a big impediment on the path.",
+            "sent2": "Financial difficulties can be major impediments to success.",
+            "sent3": "The stubborn vending machine was an impediment to getting a snack.",
+            "sent4": "Her fear of failure acted as an impediment to pursuing her dreams.",
+            "sent5": "The thick fog created an impediment to visibility on the road."
         },
         {
             "definition": "Something that hinders progress or movement",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Lack of transportation can be a significant impediment to attending school.",
+            "sent2": "Technical issues are common impediments in the IT industry.",
+            "sent3": "The slow internet connection was an unexpected impediment during the online meeting.",
+            "sent4": "Miscommunication can act as an impediment to building strong relationships.",
+            "sent5": "The heavy traffic was a frustrating impediment to reaching the airport on time."
         }
     ]
 }

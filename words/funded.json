@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Provide money for (a project or activity)",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The government funded the new school building.",
+            "sent2": "She funded her research through a grant.",
+            "sent3": "The cat funded its toy collection with stolen treats.",
+            "sent4": "His passion for art funded his creativity.",
+            "sent5": "The generous donation funded the entire charity event."
         },
         {
             "definition": "Having financial support",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The funded project was a success.",
+            "sent2": "They were part of a funded program for young entrepreneurs.",
+            "sent3": "The funded team celebrated their victory with a party.",
+            "sent4": "Her funded education opened up new opportunities.",
+            "sent5": "The funded organization helped many people in need."
         }
     ]
 }

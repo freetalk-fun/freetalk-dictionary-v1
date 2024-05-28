@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To mention or introduce for consideration or possible action.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She suggests trying the new restaurant for dinner.",
+            "sent2": "The teacher suggests studying for the upcoming test.",
+            "sent3": "His friend suggests wearing a funny hat to the party.",
+            "sent4": "The dark clouds suggest an approaching storm.",
+            "sent5": "The doctor suggests taking vitamins to improve health."
         },
         {
             "definition": "To evoke or bring to mind.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The smell of fresh bread suggests a bakery nearby.",
+            "sent2": "The old photograph suggests memories of childhood.",
+            "sent3": "The sound of the waves suggests a relaxing beach day.",
+            "sent4": "The music suggests a feeling of nostalgia.",
+            "sent5": "The painting suggests a sense of peace and tranquility."
         },
         {
             "definition": "To propose as a possibility.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He suggests going for a walk in the park.",
+            "sent2": "The report suggests a potential increase in sales.",
+            "sent3": "The cat suggests that it's time for a nap.",
+            "sent4": "The map suggests a shortcut to the destination.",
+            "sent5": "The recipe suggests using fresh ingredients for better flavor."
         }
     ]
 }

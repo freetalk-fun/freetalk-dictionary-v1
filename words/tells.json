@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Communicates information",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She tells her friend about the movie.",
+            "sent2": "The teacher tells the students to be quiet.",
+            "sent3": "The parrot tells jokes to entertain the guests.",
+            "sent4": "The wind tells stories as it rustles through the leaves.",
+            "sent5": "His expression tells a tale of sadness and loss."
         },
         {
             "definition": "Reveals something",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The detective tells the secret to the suspect.",
+            "sent2": "The map tells the location of the treasure.",
+            "sent3": "The mirror tells no lies about her age.",
+            "sent4": "The stars tell the mysteries of the universe.",
+            "sent5": "The old book tells the history of the ancient civilization."
         },
         {
             "definition": "Informs someone",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The news anchor tells the viewers about the weather.",
+            "sent2": "The sign tells visitors where to park.",
+            "sent3": "The clock tells the time with a cheerful chime.",
+            "sent4": "The river tells the story of the land it flows through.",
+            "sent5": "The smile tells her gratitude better than words ever could."
         }
     ]
 }

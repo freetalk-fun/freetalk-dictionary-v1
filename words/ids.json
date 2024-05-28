@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Identification documents",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Carry your ids with you when traveling.",
+            "sent2": "Make sure to keep your ids safe in a secure place.",
+            "sent3": "The ids were checked at the airport for security reasons.",
+            "sent4": "Her wallet was full of various ids, from driver's license to student ID.",
+            "sent5": "Losing your ids can cause a lot of inconvenience."
         },
         {
-            "definition": "Abbreviation for \"intrusion detection system\"",
-            "pos": "noun"
+            "definition": "Abbreviation for 'intrusion detection system'",
+            "pos": "noun",
+            "sent1": "The company installed an ids to protect its network.",
+            "sent2": "An ids helps in detecting unauthorized access attempts.",
+            "sent3": "The ids alerted the IT team about a potential security breach.",
+            "sent4": "Think of an ids as a security guard for your computer network.",
+            "sent5": "Having an ids in place can prevent cyber attacks."
         },
         {
-            "definition": "Third person singular form of the verb \"id\" (to identify)",
-            "pos": "verb"
+            "definition": "Third person singular form of the verb 'id' (to identify)",
+            "pos": "verb",
+            "sent1": "He ids himself using his fingerprint.",
+            "sent2": "She ids the suspect based on the security footage.",
+            "sent3": "The detective ids the culprit in a clever twist.",
+            "sent4": "In the game of hide and seek, the seeker ids the hider.",
+            "sent5": "The key witness can easily ids the perpetrator."
         }
     ]
 }

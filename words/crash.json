@@ -3,23 +3,48 @@
     "meanings": [
         {
             "definition": "A sudden loud noise as of something breaking or hitting another object.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The crash of thunder startled the children.",
+            "sent2": "The crash of the dishes falling to the floor echoed through the house.",
+            "sent3": "The crash of the door slamming shut made everyone jump.",
+            "sent4": "The crash of the waves against the rocks was mesmerizing.",
+            "sent5": "The crash of the falling tree branch was deafening."
         },
         {
             "definition": "A sudden and violent collision between vehicles.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The crash between the two cars caused a traffic jam.",
+            "sent2": "The crash on the highway resulted in injuries.",
+            "sent3": "The crash of the toy cars was a loud playtime surprise.",
+            "sent4": "The crash of the bumper cars at the fair was thrilling.",
+            "sent5": "The crash of the race cars at the finish line was intense."
         },
         {
             "definition": "To break violently and noisily into pieces.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I accidentally crashed the glass vase while cleaning.",
+            "sent2": "The waves crashed against the shore, eroding the cliffs.",
+            "sent3": "The wrestler crashed through the table during the match.",
+            "sent4": "The meteor crashed into the earth, causing a crater.",
+            "sent5": "The hammer crashed down on the nail, securing it in place."
         },
         {
             "definition": "To fall asleep suddenly and unintentionally.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "After a long day, I crashed on the couch and dozed off.",
+            "sent2": "During the movie, she crashed in her seat, missing the ending.",
+            "sent3": "He crashed during the boring lecture and snored loudly.",
+            "sent4": "The tired student crashed on the desk, drooling on the notes.",
+            "sent5": "She crashed on her bed after the exhausting workout, sleeping soundly."
         },
         {
             "definition": "To move with force and speed.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The waves crashed against the rocks with great power.",
+            "sent2": "The skateboarder crashed down the ramp with skill.",
+            "sent3": "The car crashed through the barrier, narrowly avoiding a collision.",
+            "sent4": "The athlete crashed through the finish line, winning the race.",
+            "sent5": "The wind crashed through the trees, rustling the leaves."
         }
     ]
 }

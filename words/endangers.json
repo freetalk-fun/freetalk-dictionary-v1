@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To expose to danger or harm.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Running in the street endangers your safety.",
+            "sent2": "Not wearing a helmet while biking endangers your head.",
+            "sent3": "Eating spicy food endangers my taste buds!",
+            "sent4": "Ignoring warning signs endangers your well-being.",
+            "sent5": "Playing with fire endangers your fingers."
         },
         {
             "definition": "To put at risk of injury or loss.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Leaving the door unlocked endangers your valuables.",
+            "sent2": "Investing all your money in one stock endangers your savings.",
+            "sent3": "Forgetting your umbrella endangers your dry clothes!",
+            "sent4": "Skipping breakfast endangers your energy levels.",
+            "sent5": "Driving without a seatbelt endangers your life."
         }
     ]
 }

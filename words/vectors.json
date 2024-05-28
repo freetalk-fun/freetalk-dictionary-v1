@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A quantity having direction as well as magnitude, especially as determining the position of one point in space relative to another.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "In math class, we learned about vectors and how they show both size and direction.",
+            "sent2": "The GPS uses vectors to guide us to our destination accurately.",
+            "sent3": "The vectors on the map were like little arrows pointing the way to the treasure.",
+            "sent4": "Her determination was a vector that led her towards success.",
+            "sent5": "The teacher used colorful arrows to explain vectors, making it easier to understand."
         },
         {
             "definition": "An organism, typically a biting insect or tick, that transmits a disease or parasite from one animal or plant to another.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The scientist studied the vectors responsible for spreading the virus.",
+            "sent2": "The mosquito is a common vector for malaria.",
+            "sent3": "The sneaky vectors carried the illness from one person to another.",
+            "sent4": "The tiny mosquito acted as a dangerous vector, passing on the disease.",
+            "sent5": "The vectors buzzing around were like tiny messengers of sickness."
         },
         {
             "definition": "A quantity that has both magnitude and direction, represented by an arrow whose length represents the magnitude and whose direction represents the direction.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The physics class discussed how vectors can be represented by arrows.",
+            "sent2": "The wind speed and direction can be shown using vectors.",
+            "sent3": "The playful vectors on the graph danced in different directions.",
+            "sent4": "His ambition was a vector pointing towards his goals.",
+            "sent5": "The illustration of vectors made it clear how they combine both size and direction."
         }
     ]
 }

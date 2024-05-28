@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To remove errors or defects from (a computer program)",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She debugged the program by fixing all the mistakes.",
+            "sent2": "The software developer debugged the code before releasing it.",
+            "sent3": "The programmer debugged the code with a magnifying glass, looking for tiny errors.",
+            "sent4": "He debugged the program like a detective solving a mystery.",
+            "sent5": "After she debugged the code, it ran smoothly without any issues."
         },
         {
             "definition": "To identify and eliminate faults in (a system or plan)",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "They debugged the plan by finding and fixing all the problems.",
+            "sent2": "The team debugged the system to ensure it worked flawlessly.",
+            "sent3": "He debugged the system by pretending to be a superhero fixing a broken machine.",
+            "sent4": "She debugged the plan like a chef perfecting a recipe.",
+            "sent5": "After they debugged the system, it operated efficiently without any glitches."
         }
     ]
 }

@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Covered by insurance.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The car was insured against accidents.",
+            "sent2": "She felt safe knowing her belongings were insured.",
+            "sent3": "The cat insured its spot on the couch by leaving fur everywhere.",
+            "sent4": "His smile insured a warm welcome wherever he went.",
+            "sent5": "The umbrella insured protection from the rain."
         },
         {
             "definition": "A person or entity covered by an insurance policy.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The insured filed a claim after the accident.",
+            "sent2": "The insured received compensation for the damages.",
+            "sent3": "The squirrel insured its nuts in case of a hungry winter.",
+            "sent4": "She was the insured in the family, ensuring their safety.",
+            "sent5": "The insured had peace of mind knowing they were protected."
         }
     ]
 }

@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Voice",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Her vox was soft and soothing.",
+            "sent2": "I heard a familiar vox in the crowd.",
+            "sent3": "The cat's vox sounded like a tiny trumpet.",
+            "sent4": "The vox of the ocean whispered secrets to the shore.",
+            "sent5": "His deep vox commanded attention in the room."
         },
         {
             "definition": "Vocal",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "She gave a vox performance on stage.",
+            "sent2": "The singer had a powerful vox range.",
+            "sent3": "The parrot's vox imitation of a phone ringing was hilarious.",
+            "sent4": "His vox presence filled the room with energy.",
+            "sent5": "The vox coach trained her to project her voice effectively."
         },
         {
             "definition": "Vocalization",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The bird's morning vox woke me up.",
+            "sent2": "The vocalization of the choir was harmonious.",
+            "sent3": "The baby's vocalization of gibberish made everyone laugh.",
+            "sent4": "The vocalization of the wind through the trees was eerie.",
+            "sent5": "The vocalization of the violin was enchanting."
         }
     ]
 }

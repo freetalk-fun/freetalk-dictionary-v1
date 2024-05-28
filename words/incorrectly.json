@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "In a mistaken or inaccurate way.",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "She answered the question incorrectly during the test.",
+            "sent2": "He always spells his name incorrectly on purpose.",
+            "sent3": "The robot danced incorrectly, causing everyone to laugh.",
+            "sent4": "The compass pointed incorrectly, leading them astray.",
+            "sent5": "The clock alarm rang incorrectly, waking them up at the wrong time."
         },
         {
             "definition": "Not in accordance with fact or truth.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The incorrect answer was marked on the test paper.",
+            "sent2": "Her assumption about the weather was proven incorrect.",
+            "sent3": "The detective followed an incorrect lead, ending up at a bakery.",
+            "sent4": "The map showed an incorrect path through the forest.",
+            "sent5": "The recipe had an incorrect measurement, making the cake too sweet."
         },
         {
             "definition": "Not done in a way that is right or proper.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "He received a warning for parking incorrectly on the street.",
+            "sent2": "The puzzle pieces were put together incorrectly.",
+            "sent3": "The cat sat incorrectly on the chair, looking quite silly.",
+            "sent4": "The clock was set incorrectly, causing them to be late.",
+            "sent5": "The door handle was installed incorrectly, making it hard to open."
         }
     ]
 }

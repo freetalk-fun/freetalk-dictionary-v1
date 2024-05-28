@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A person or thing that deflects.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The deflector shield protected the spaceship from enemy attacks.",
+            "sent2": "The mirror acted as a deflector, bouncing the sunlight into the room.",
+            "sent3": "The superhero's cape worked like a deflector, making all the villains' attacks miss him.",
+            "sent4": "Her positive attitude was a deflector against negativity, always keeping her spirits high.",
+            "sent5": "The umbrella served as a deflector, keeping the raindrops from hitting her head."
         },
         {
             "definition": "A device that deflects something, such as light or sound.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The car's deflector redirected the airflow, reducing wind noise inside the vehicle.",
+            "sent2": "The satellite dish acted as a deflector, capturing signals from space.",
+            "sent3": "The deflector on the microphone made the singer's voice sound like a robot.",
+            "sent4": "Her smile was a deflector of negativity, brightening up everyone's day.",
+            "sent5": "The deflector on the lighthouse guided ships safely through the rocky waters."
         },
         {
             "definition": "To cause something to change direction by deflecting it.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She used her hand to deflector the ball away from hitting her face.",
+            "sent2": "The angled mirror deflected the light towards the plants for better growth.",
+            "sent3": "He tried to deflector the blame onto his little brother, but mom saw through it.",
+            "sent4": "Her words deflected his anger, calming the situation down.",
+            "sent5": "The shield deflected the arrows, protecting the soldiers behind it."
         }
     ]
 }

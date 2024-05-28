@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A male parent.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "My father taught me how to ride a bike.",
+            "sent2": "The father lion protects his cubs in the wild.",
+            "sent3": "The father bird showed his chicks how to fly.",
+            "sent4": "The old oak tree is the father of the forest, providing shade and shelter.",
+            "sent5": "The father's love is like a warm hug on a cold day."
         },
         {
             "definition": "To be the creator, founder, or originator of something.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He will father a new invention that will change the world.",
+            "sent2": "The artist will father a masterpiece that will be admired for generations.",
+            "sent3": "The chef will father a delicious recipe that everyone will love.",
+            "sent4": "Her groundbreaking research will father a new era of scientific discovery.",
+            "sent5": "The writer will father a captivating story that will capture readers' hearts."
         },
         {
             "definition": "A title of respect for an older man.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The wise father of the village was always there to offer advice.",
+            "sent2": "In many cultures, the village elder is referred to as father.",
+            "sent3": "The kind father of the town was known for his generosity.",
+            "sent4": "The respected father of the community was a pillar of strength.",
+            "sent5": "The elderly father of the neighborhood was loved by all for his wisdom."
         }
     ]
 }

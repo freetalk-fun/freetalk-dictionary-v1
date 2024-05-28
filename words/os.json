@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Mouth or opening",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The cat meowed with its os wide open.",
+            "sent2": "The cave had a dark os that led to a hidden chamber.",
+            "sent3": "The mailbox's os seemed to talk as letters were dropped inside.",
+            "sent4": "The os of the tunnel swallowed the light as we ventured deeper.",
+            "sent5": "The os of the volcano spewed molten lava into the sky."
         },
         {
             "definition": "Bone",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The dog buried its os in the backyard.",
+            "sent2": "The museum displayed dinosaur os from millions of years ago.",
+            "sent3": "The pirate's map marked the buried treasure with an X near the os of a skeleton.",
+            "sent4": "The os of the ancient creature was carefully studied by archaeologists.",
+            "sent5": "The os of the chicken was accidentally found in the garden."
         },
         {
             "definition": "Operating system",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The computer's os controlled all its functions seamlessly.",
+            "sent2": "Updating the os improved the performance of the device.",
+            "sent3": "The os of the smartphone decided to take a break and crashed unexpectedly.",
+            "sent4": "The os of the spaceship guided it safely through the asteroid field.",
+            "sent5": "Learning to code helped me understand how an os works."
         }
     ]
 }

@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A substance used for sticking objects together.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I used glue to fix my broken toy.",
+            "sent2": "The glue dried quickly on the paper.",
+            "sent3": "The glue made the puzzle pieces stick together like magic.",
+            "sent4": "Her smile was the glue that held the team together.",
+            "sent5": "The glue smelled strong but worked wonders on the project."
         },
         {
             "definition": "To join or attach with glue.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I will glue the pieces back together.",
+            "sent2": "She carefully glued the handle onto the cup.",
+            "sent3": "He accidentally glued his fingers together while crafting.",
+            "sent4": "Their friendship was glued by shared memories.",
+            "sent5": "The artist glued colorful beads onto the canvas for a unique effect."
         }
     ]
 }

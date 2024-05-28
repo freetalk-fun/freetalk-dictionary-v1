@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A person who accuses someone else of a crime or wrongdoing.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The accuser pointed at the suspect in the courtroom.",
+            "sent2": "The accuser reported the theft to the police.",
+            "sent3": "The accuser's cat accused the dog of stealing its toy.",
+            "sent4": "The accuser's words were like sharp arrows, piercing the defendant's defense.",
+            "sent5": "The accuser's face turned red with anger as they made their accusation."
         },
         {
             "definition": "To charge someone with a crime or wrongdoing.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The detective will accuser the suspect of the crime.",
+            "sent2": "She decided to accuser him of cheating on the test.",
+            "sent3": "The toaster seemed to accuser the microwave of burning the toast.",
+            "sent4": "The storm clouds seemed to accuser the land of impending rain.",
+            "sent5": "The teacher's stern look seemed to accuser the students of misbehaving."
         }
     ]
 }

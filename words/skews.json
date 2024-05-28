@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To turn or twist to one side",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She skews the painting slightly to the left for a better view.",
+            "sent2": "The strong wind skews the tree branches in different directions.",
+            "sent3": "The mischievous cat skews the toy mouse out of reach.",
+            "sent4": "His biased opinion skews the facts in his favor.",
+            "sent5": "The artist skews reality in his abstract paintings."
         },
         {
             "definition": "To cause to be biased or distorted",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The misleading advertisement skews the consumer's perception.",
+            "sent2": "Her personal feelings often skew her judgment in important decisions.",
+            "sent3": "The funhouse mirror skews your reflection into funny shapes.",
+            "sent4": "The foggy lens skews the view of the landscape.",
+            "sent5": "The unreliable source skews the information presented."
         },
         {
             "definition": "A slanting or oblique movement or direction",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The car took a sharp skew on the icy road.",
+            "sent2": "The ski slope has a slight skew to the left at the end.",
+            "sent3": "The unexpected skew in the dance routine made everyone laugh.",
+            "sent4": "The sudden skew of the ball caught the goalkeeper off guard.",
+            "sent5": "The building's design includes a unique skew in its architecture."
         }
     ]
 }

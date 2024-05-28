@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Regarded with suspicion or mistrust.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The man's suspicious behavior made him a suspected thief.",
+            "sent2": "The detective looked at the suspected person with doubt.",
+            "sent3": "The cat's suspected plan to steal the fish was foiled by the dog.",
+            "sent4": "The dark clouds in the sky suspected an incoming storm.",
+            "sent5": "The teacher's eyes narrowed as she suspected cheating in the exam."
         },
         {
             "definition": "A person who is believed to be guilty of a crime or offense.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The suspected criminal was caught by the police.",
+            "sent2": "The neighbors whispered about the suspected thief next door.",
+            "sent3": "The suspected jaywalker turned out to be a confused tourist.",
+            "sent4": "The suspected pickpocket vanished into the crowded street.",
+            "sent5": "The news reporter interviewed the suspected murderer in custody."
         },
         {
             "definition": "To have a feeling or belief that something is true or likely.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She suspected her friend was planning a surprise party.",
+            "sent2": "The scientist suspected a breakthrough in their research.",
+            "sent3": "The detective suspected the butler, but it was the maid who stole the jewels.",
+            "sent4": "The chef suspected the secret ingredient in the recipe was cinnamon.",
+            "sent5": "The hiker suspected a bear was nearby due to fresh paw prints."
         }
     ]
 }

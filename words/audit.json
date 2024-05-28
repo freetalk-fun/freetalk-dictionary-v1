@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "An official inspection of an individual's or organization's accounts or financial situation.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "During the audit, the accountant carefully checked all the financial records.",
+            "sent2": "The company hired an external auditor to perform an audit of their financial statements.",
+            "sent3": "The audit revealed some discrepancies in the company's financial records, much to everyone's surprise.",
+            "sent4": "The audit shone a light on the company's financial health, exposing areas that needed improvement.",
+            "sent5": "The audit process was thorough and detailed, leaving no stone unturned in the financial examination."
         },
         {
             "definition": "A systematic review or assessment of something.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The teacher conducted an audit of the students' performance to identify areas for improvement.",
+            "sent2": "The annual audit of the company's operations helped streamline processes and increase efficiency.",
+            "sent3": "The audit of the project's progress showed that they were ahead of schedule, much to everyone's delight.",
+            "sent4": "The audit of the inventory revealed some discrepancies that needed to be addressed immediately.",
+            "sent5": "The audit of the safety procedures highlighted areas where additional training was necessary."
         },
         {
             "definition": "To conduct an official financial examination of an individual or organization.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The accountant will audit the company's financial records next week.",
+            "sent2": "It is important to audit regularly to ensure financial transparency and accuracy.",
+            "sent3": "She audited her own expenses to track where her money was going.",
+            "sent4": "The government agency audited the organization to ensure compliance with financial regulations.",
+            "sent5": "The auditor audited the accounts meticulously, leaving no room for error."
         }
     ]
 }

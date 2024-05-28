@@ -3,19 +3,39 @@
     "meanings": [
         {
             "definition": "sting: to cause a sharp, sudden pain",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The bee stinges me.",
+            "sent2": "The nettle stinges my skin.",
+            "sent3": "The mosquito stinges me, making me dance around.",
+            "sent4": "His words stinges like a slap to the face.",
+            "sent5": "The icy wind stinges my cheeks as I walk."
         },
         {
             "definition": "stinging: causing a sharp, sudden pain",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The stinging sensation faded quickly.",
+            "sent2": "Her eyes watered from the stinging smoke.",
+            "sent3": "The stinging comment left her feeling hurt.",
+            "sent4": "The stinging cold air made her shiver.",
+            "sent5": "The stinging nettle brushed against my arm."
         },
         {
             "definition": "stinger: a sharp organ used by some animals to inject venom",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The scorpion's stinger is dangerous.",
+            "sent2": "The bee's stinger got stuck in my skin.",
+            "sent3": "The wasp's stinger is small but mighty.",
+            "sent4": "The scorpion's stinger glinted in the sunlight.",
+            "sent5": "The jellyfish's stinger can deliver a painful sting."
         },
         {
             "definition": "stung: past tense of sting",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I was stung by a wasp last summer.",
+            "sent2": "The betrayal stung deeply.",
+            "sent3": "The loss of the game stung the team's pride.",
+            "sent4": "Her harsh words stung him more than he expected.",
+            "sent5": "The memory of the accident still stings me."
         }
     ]
 }

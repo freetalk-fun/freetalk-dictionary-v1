@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "The amount that a nest can hold.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The robin gathered a nestful of twigs to build its home.",
+            "sent2": "The bird's nest was a nestful of soft feathers and dry grass.",
+            "sent3": "The squirrel found a nestful of acorns hidden in the tree.",
+            "sent4": "The attic was a nestful of memories, each box holding a piece of the past.",
+            "sent5": "The basket was a nestful of colorful Easter eggs, ready for the hunt."
         },
         {
             "definition": "Containing or full of a nest.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The tree was nestful with chirping birds in the morning.",
+            "sent2": "The cozy cabin was nestful with the sounds of baby birds in the eaves.",
+            "sent3": "The garden shed became nestful with the arrival of a family of mice.",
+            "sent4": "The old barn was nestful with swallows darting in and out, building their nests.",
+            "sent5": "The attic was nestful with the fluttering of wings as the bats made it their home."
         }
     ]
 }

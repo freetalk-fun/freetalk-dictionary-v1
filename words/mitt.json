@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A baseball glove",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "During the game, the player wore a mitt to catch the ball.",
+            "sent2": "The coach handed the mitt to the young player before practice.",
+            "sent3": "The mitt looked like a big hand ready to grab the ball.",
+            "sent4": "His mitt was like a trusty companion, always there to help him catch.",
+            "sent5": "The mitt felt snug and secure, perfect for catching fly balls."
         },
         {
             "definition": "A mitten",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "In winter, she wore a warm mitt to keep her hands cozy.",
+            "sent2": "The colorful mitt matched her scarf perfectly.",
+            "sent3": "The mitt looked like a tiny house for her fingers.",
+            "sent4": "Her mitt was like a hug for her hands on cold days.",
+            "sent5": "The knitted mitt felt soft and comforting against her skin."
         },
         {
             "definition": "To catch or hold something in one's hand",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He tried to mitt the ball but missed it by an inch.",
+            "sent2": "She deftly mitted the keys before rushing out the door.",
+            "sent3": "The cat tried to mitt the toy mouse but kept slipping.",
+            "sent4": "His hands mitted the delicate glass ornament with care.",
+            "sent5": "She mitts the ball with precision, never letting it slip through her fingers."
         }
     ]
 }

@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "The curved path of a celestial object around a star, planet, or moon.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The moon's orbit around Earth is fascinating to watch.",
+            "sent2": "The planets in our solar system follow different orbits around the sun.",
+            "sent3": "The comet's orbit around the sun is like a dance in space.",
+            "sent4": "The satellite's orbit around the Earth is like a never-ending loop.",
+            "sent5": "The asteroid's orbit through the galaxy is a graceful arc of motion."
         },
         {
             "definition": "The bony cavity in the skull that contains the eye.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The doctor examined the orbit of the patient's eye carefully.",
+            "sent2": "The orbit protects the eye and helps maintain its shape.",
+            "sent3": "The orbit of the skull is like a sturdy fortress for the eye.",
+            "sent4": "The orbit cradles the eye like a precious gem in a setting.",
+            "sent5": "The orbit shields the eye from harm with its strong bone structure."
         },
         {
             "definition": "To move in an orbit around something.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The Earth orbits around the sun once every year.",
+            "sent2": "The moon orbits around the Earth, influencing the tides.",
+            "sent3": "The spaceship orbits around the planet, taking stunning photos.",
+            "sent4": "The satellite orbits the Earth like a silent sentinel in the sky.",
+            "sent5": "The comet orbits the sun, leaving a trail of stardust in its wake."
         }
     ]
 }

@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Not certain or fixed; provisional",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "She made a tentative plan to meet at the park tomorrow.",
+            "sent2": "His tentative answer showed he wasn't sure about the outcome.",
+            "sent3": "The cat took a tentative step onto the icy pond, then quickly retreated.",
+            "sent4": "Her tentative smile revealed her uncertainty about the situation.",
+            "sent5": "The tentative decision hung in the air, waiting for confirmation."
         },
         {
             "definition": "Done without confidence; hesitant",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "He gave a tentative response to the difficult question.",
+            "sent2": "She spoke in a tentative voice, unsure of her own opinion.",
+            "sent3": "The tentative driver hesitated at every turn, causing a traffic jam.",
+            "sent4": "His tentative handshake conveyed his lack of self-assurance.",
+            "sent5": "The student's tentative approach to the new subject held her back from learning more."
         },
         {
             "definition": "Experimenting; trial",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The scientist conducted a tentative to test the new formula.",
+            "sent2": "The tentative of the new product showed promising results.",
+            "sent3": "The tentative of the new recipe left the chef uncertain about its taste.",
+            "sent4": "Her tentative in painting led to a beautiful masterpiece.",
+            "sent5": "The tentative of the new software aimed to improve user experience."
         }
     ]
 }

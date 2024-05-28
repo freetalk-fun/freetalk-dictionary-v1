@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Stated or described clearly and with detail.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The teacher gave a defined explanation of the math problem.",
+            "sent2": "The defined rules of the game helped everyone understand how to play.",
+            "sent3": "The defined instructions on the recipe made it easy to bake the cake.",
+            "sent4": "Her defined goals guided her towards success in her career.",
+            "sent5": "The defined path through the forest was easy to follow."
         },
         {
             "definition": "To establish the meaning or identity of something.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She defined the unfamiliar word by looking it up in the dictionary.",
+            "sent2": "The scientist defined the new species of plant he discovered.",
+            "sent3": "He defined his role in the group project by taking charge of the research.",
+            "sent4": "The artist defined her style by experimenting with different techniques.",
+            "sent5": "The detective defined the suspect's alibi by checking security camera footage."
         },
         {
             "definition": "To mark the limits or boundaries of something.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The fence defined the property line between the two houses.",
+            "sent2": "The river defined the edge of the national park.",
+            "sent3": "The chalk line defined the area where the new building would be constructed.",
+            "sent4": "The mountain range defined the border between the two countries.",
+            "sent5": "The sign defined the entrance to the nature reserve."
         }
     ]
 }

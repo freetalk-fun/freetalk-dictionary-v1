@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Smoke or gas that is given off by something burning or by a chemical reaction.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The fumes from the fire made my eyes water.",
+            "sent2": "The factory released toxic fumes into the air.",
+            "sent3": "Grandpa's cooking always fills the kitchen with delicious fumes.",
+            "sent4": "The fumes of excitement filled the stadium as the winning goal was scored.",
+            "sent5": "The fumes of the barbecue lingered in the backyard, tempting everyone with its savory scent."
         },
         {
             "definition": "To emit gas, smoke, or vapor.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The car fumes polluted the city air.",
+            "sent2": "The volcano fumes rose high into the sky.",
+            "sent3": "The teapot fumes danced playfully before escaping into the room.",
+            "sent4": "Her anger fumes could be seen in the way she clenched her fists.",
+            "sent5": "The bakery fumes wafted down the street, enticing passersby with the smell of fresh bread."
         }
     ]
 }

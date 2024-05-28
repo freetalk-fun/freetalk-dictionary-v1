@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Make (a person or area) poor.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Lack of rain impoverishes the soil.",
+            "sent2": "The economic crisis impoverishes many families.",
+            "sent3": "Eating only candy for dinner impoverishes your health.",
+            "sent4": "The constant theft of resources impoverishes the land.",
+            "sent5": "The war's aftermath impoverishes the once thriving city."
         },
         {
             "definition": "Diminish the quality or value of.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Using cheap materials impoverishes the product.",
+            "sent2": "The graffiti on the historic building impoverishes its beauty.",
+            "sent3": "Adding too much salt to the dish impoverishes its taste.",
+            "sent4": "The lack of maintenance impoverishes the car's performance.",
+            "sent5": "The negative comments online impoverish the reputation of the company."
         }
     ]
 }

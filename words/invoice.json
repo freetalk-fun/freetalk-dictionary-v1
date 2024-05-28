@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A list of goods sent or services provided, with a statement of the sum due for these.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The invoice showed the cost of the items purchased.",
+            "sent2": "She received an invoice for the services rendered.",
+            "sent3": "The invoice for the party balloons made everyone laugh.",
+            "sent4": "His face turned red when he saw the invoice for the damages.",
+            "sent5": "The invoice was as clear as a sunny day in summer."
         },
         {
             "definition": "To send an invoice to; bill.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He will invoice the client for the completed project.",
+            "sent2": "Remember to invoice the customer after delivering the goods.",
+            "sent3": "She joked that she would invoice her friend for the favor.",
+            "sent4": "The company decided to invoice for the extra services provided.",
+            "sent5": "The decision to invoice early proved to be beneficial."
         }
     ]
 }

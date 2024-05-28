@@ -3,19 +3,39 @@
     "meanings": [
         {
             "definition": "Physical injury or damage",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The fall caused him harm.",
+            "sent2": "She was worried about the harm to her arm.",
+            "sent3": "The playful puppy didn't mean any harm.",
+            "sent4": "The storm brought harm to the fragile trees.",
+            "sent5": "The firefighter rushed to prevent harm to the trapped cat."
         },
         {
             "definition": "Mental or emotional damage",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The harsh words caused emotional harm.",
+            "sent2": "He didn't realize the harm his actions caused.",
+            "sent3": "Watching a comedy show can sometimes do more harm than good.",
+            "sent4": "The breakup left a lasting emotional harm.",
+            "sent5": "The therapist helped her heal from past emotional harm."
         },
         {
             "definition": "To cause physical or mental damage to",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He didn't mean to harm the delicate flower.",
+            "sent2": "The loud noise could harm your ears.",
+            "sent3": "Eating too much candy can harm your teeth.",
+            "sent4": "His intention was never to harm anyone.",
+            "sent5": "The chemicals used in the experiment could harm the environment."
         },
         {
             "definition": "To hurt or injure someone or something",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She didn't want to harm the stray cat.",
+            "sent2": "The sharp edges could harm you if you're not careful.",
+            "sent3": "His words were meant to harm, not help.",
+            "sent4": "The strong winds could harm the fragile flowers.",
+            "sent5": "The hunter promised not to harm any animals needlessly."
         }
     ]
 }

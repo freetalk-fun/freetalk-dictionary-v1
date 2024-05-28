@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To seek advice or information from someone",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She consulted her teacher before starting the project.",
+            "sent2": "He always consults his friends before making important decisions.",
+            "sent3": "The young girl consulted her favorite book for guidance on the topic.",
+            "sent4": "In times of doubt, he consulted his inner compass for direction.",
+            "sent5": "The detective consulted the evidence to solve the mystery."
         },
         {
             "definition": "To refer to for information",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "When in doubt, he consulted the map for directions.",
+            "sent2": "The student consulted the textbook to find the answer.",
+            "sent3": "The chef consulted the recipe to ensure he used the right ingredients.",
+            "sent4": "The historian consulted ancient texts to uncover the truth.",
+            "sent5": "The scientist consulted the data to draw conclusions."
         },
         {
             "definition": "To discuss something with someone in order to make a decision",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The committee consulted each other before reaching a verdict.",
+            "sent2": "Before buying a new car, he consulted his family for their opinions.",
+            "sent3": "The group consulted for hours before finally agreeing on a plan.",
+            "sent4": "The team consulted back and forth to find a compromise.",
+            "sent5": "The couple consulted about their future together."
         }
     ]
 }

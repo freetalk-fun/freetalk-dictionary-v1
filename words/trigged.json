@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To cause someone to feel upset or angry.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "His rude comment trigged her and she stormed out of the room.",
+            "sent2": "The loud noise trigged a reaction from the dog, who started barking.",
+            "sent3": "The unexpected cancellation of the event trigged a mix of disappointment and frustration.",
+            "sent4": "The mention of her ex-boyfriend trigged a flood of painful memories.",
+            "sent5": "The unfair treatment trigged a deep sense of injustice in him."
         },
         {
             "definition": "To set off or activate a mechanism.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Pressing the red button trigged the alarm in the building.",
+            "sent2": "The motion sensor trigged the lights to turn on automatically.",
+            "sent3": "Accidentally stepping on the pressure plate trigged the trap door to open.",
+            "sent4": "The key turning in the lock trigged a series of security measures.",
+            "sent5": "The timer finally trigged the explosion, causing chaos in the room."
         },
         {
             "definition": "To be triggered or activated.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The sprinklers trigged as soon as the fire alarm went off.",
+            "sent2": "The car alarm trigged when someone tried to break in.",
+            "sent3": "The automated message trigged, informing them of the upcoming meeting.",
+            "sent4": "The sensor trigged the warning signal, alerting them to the approaching danger.",
+            "sent5": "The device automatically trigged the emergency shutdown procedure."
         }
     ]
 }

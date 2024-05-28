@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Mentioned or alluded to",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The book club discussed the referenced novel.",
+            "sent2": "The teacher asked the students to read the referenced chapter.",
+            "sent3": "The detective found a referenced clue in the mysterious letter.",
+            "sent4": "Her outfit was a referenced homage to classic fashion.",
+            "sent5": "The painting's colors were a referenced nod to the artist's favorite palette."
         },
         {
             "definition": "Used as a source of information",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The encyclopedia is a valuable referenced for research.",
+            "sent2": "The librarian helped the student find the referenced article.",
+            "sent3": "The detective's notebook was a referenced of crucial evidence.",
+            "sent4": "The old map served as a referenced for the explorer's journey.",
+            "sent5": "The website is a reliable referenced for historical facts."
         },
         {
             "definition": "Provided with a reference to a source",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The report was well-referenced with credible sources.",
+            "sent2": "The essay was carefully referenced with proper citations.",
+            "sent3": "The chef's recipe was humorously referenced with a nod to grandma's cooking.",
+            "sent4": "The project was creatively referenced with inspiration from nature.",
+            "sent5": "The presentation was beautifully referenced with images and diagrams."
         }
     ]
 }

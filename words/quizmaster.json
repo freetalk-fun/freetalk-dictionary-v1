@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A person who hosts or organizes a quiz.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The quizmaster asked the questions during the trivia night.",
+            "sent2": "The quizmaster announced the next round of the quiz competition.",
+            "sent3": "The quizmaster made sure everyone had fun while answering the quiz questions.",
+            "sent4": "The quizmaster's voice boomed through the room, commanding attention.",
+            "sent5": "The quizmaster's smile was warm and inviting, putting the participants at ease."
         },
         {
             "definition": "To act as a quizmaster.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She will quizmaster the event by reading out the questions.",
+            "sent2": "He quizmasters the weekly trivia game at the local pub.",
+            "sent3": "They decided to quizmaster the family game night for a change.",
+            "sent4": "The teacher quizmastered the school quiz bee with enthusiasm.",
+            "sent5": "The host quizmastered the game show with humor and flair."
         }
     ]
 }

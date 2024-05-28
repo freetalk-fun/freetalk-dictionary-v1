@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "The ability or right to approach, enter, or use something.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Having accesses to the playground made the children happy.",
+            "sent2": "The keycard grants accesses to the restricted area.",
+            "sent3": "The squirrel accesses the bird feeder for a snack.",
+            "sent4": "Her smile accesses the warmth of a sunny day.",
+            "sent5": "The treasure map leads to hidden accesses in the forest."
         },
         {
             "definition": "The act of obtaining or retrieving information or data.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "His accesses to the library helped with his research.",
+            "sent2": "The software allows quick accesses to the database.",
+            "sent3": "The detective accesses the suspect's alibi.",
+            "sent4": "The internet provides endless accesses to knowledge.",
+            "sent5": "The book offers valuable accesses to historical events."
         },
         {
             "definition": "To obtain or retrieve information or data.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She accesses the online database for her project.",
+            "sent2": "The scientist accesses the experiment results for analysis.",
+            "sent3": "The cat accesses the fishbowl on the table.",
+            "sent4": "His memory accesses the forgotten details of the story.",
+            "sent5": "The student accesses the textbook for reference."
         }
     ]
 }

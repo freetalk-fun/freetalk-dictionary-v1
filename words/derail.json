@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Cause (a train or tram) to leave its tracks accidentally.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The heavy rain caused the train to derail.",
+            "sent2": "If the tracks are not maintained, a train can derail.",
+            "sent3": "The mischievous squirrel tried to derail the toy train by placing obstacles on the tracks.",
+            "sent4": "Her sudden outburst of laughter derailed the serious discussion.",
+            "sent5": "The unexpected news completely derailed his plans for the day."
         },
         {
             "definition": "Prevent (a process or plan) from succeeding.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Don't let small obstacles derail your progress.",
+            "sent2": "Lack of funding can derail a project.",
+            "sent3": "Trying to cook without a recipe can easily derail your dinner plans.",
+            "sent4": "A sudden power outage derailed the presentation at the meeting.",
+            "sent5": "Her determination to succeed cannot be derailed by minor setbacks."
         }
     ]
 }

@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A person who has been murdered.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The murderee's family mourned their loss.",
+            "sent2": "The police identified the murderee as the victim.",
+            "sent3": "The ghost of the murderee haunted the old mansion.",
+            "sent4": "The memory of the murderee lingered in the small town.",
+            "sent5": "The murderee's face appeared in the witness's nightmares."
         },
         {
             "definition": "To kill someone unlawfully and with premeditation.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The criminal planned to murderee his rival.",
+            "sent2": "The assassin attempted to murderee the target discreetly.",
+            "sent3": "The evil villain plotted to murderee the hero in the story.",
+            "sent4": "The poison was used to murderee the king in the play.",
+            "sent5": "The murderer's intention was to murderee without leaving a trace."
         }
     ]
 }

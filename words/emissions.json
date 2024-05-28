@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "The act of emitting or sending out something, such as gas or radiation.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The factory's emissions filled the air with smoke.",
+            "sent2": "The car's emissions contribute to air pollution.",
+            "sent3": "The emissions from the chimney made the sky look like a painting.",
+            "sent4": "The city's emissions hung in the air like a heavy blanket.",
+            "sent5": "The emissions from the volcano were a fiery display of power."
         },
         {
             "definition": "The substances or gases that are emitted or released into the atmosphere.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The emissions from the car smelled like gasoline.",
+            "sent2": "The factory's emissions contain harmful pollutants.",
+            "sent3": "The emissions from the barbecue made everyone hungry.",
+            "sent4": "The emissions from the power plant clouded the sky.",
+            "sent5": "The emissions from the exhaust pipe were visible in the cold air."
         }
     ]
 }

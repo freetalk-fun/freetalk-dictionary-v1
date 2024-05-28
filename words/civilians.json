@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A person not in the armed services or the police force.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "During the war, the soldiers protected the civilians in the town.",
+            "sent2": "The civilians were happy to see the firefighters arrive to put out the fire.",
+            "sent3": "The civilians cheered as the superhero saved the day.",
+            "sent4": "In the movie, the aliens mistook the civilians for warriors.",
+            "sent5": "The civilians sought shelter during the storm to stay safe."
         },
         {
             "definition": "Of or relating to civil life, citizens, or community affairs.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The mayor addressed the civilians' concerns about the new park.",
+            "sent2": "The civilians' meeting focused on improving the neighborhood.",
+            "sent3": "The civilians' picnic was a fun way to bring the community together.",
+            "sent4": "The civilians' rights were protected by the new law.",
+            "sent5": "The civilians' protest peacefully advocated for change."
         }
     ]
 }

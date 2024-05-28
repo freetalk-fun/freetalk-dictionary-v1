@@ -3,19 +3,39 @@
     "meanings": [
         {
             "definition": "In or through the space separating two objects or regions.",
-            "pos": "preposition"
+            "pos": "preposition",
+            "sent1": "The cat squeezed between the boxes.",
+            "sent2": "The river flows between the mountains.",
+            "sent3": "The squirrel got stuck between the branches.",
+            "sent4": "The sunlight filtered between the leaves.",
+            "sent5": "The fence stood between the two houses."
         },
         {
             "definition": "In the time, space, or interval that separates.",
-            "pos": "preposition"
+            "pos": "preposition",
+            "sent1": "She arrived between 2 and 3 o'clock.",
+            "sent2": "The meeting is scheduled between Monday and Wednesday.",
+            "sent3": "The cookies disappeared between breakfast and lunch.",
+            "sent4": "The train departs between the morning and evening.",
+            "sent5": "The store is open between 9 AM and 5 PM."
         },
         {
             "definition": "In the intermediate position or relation of.",
-            "pos": "preposition"
+            "pos": "preposition",
+            "sent1": "The color is somewhere between red and orange.",
+            "sent2": "The temperature is between hot and cold.",
+            "sent3": "The music was a mix between jazz and rock.",
+            "sent4": "The dress size is between small and medium.",
+            "sent5": "The flavor is between sweet and sour."
         },
         {
             "definition": "Shared by or involving two or more.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The between decision was made by the group.",
+            "sent2": "The between responsibility falls on both of them.",
+            "sent3": "The between project was a collaboration.",
+            "sent4": "The between secret was known by many.",
+            "sent5": "The between effort led to success."
         }
     ]
 }

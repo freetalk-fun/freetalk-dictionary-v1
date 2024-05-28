@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Dice: plural form of die, a small cube with each side having a different number of spots from one to six, used in games of chance",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I rolled the dices and got a six.",
+            "sent2": "Let's play a game with these dices.",
+            "sent3": "The dices decided who would go first in the game.",
+            "sent4": "The outcome of the game was determined by the roll of the dices.",
+            "sent5": "The sound of the dices hitting the table filled the room."
         },
         {
             "definition": "Dice: to cut into small cubes",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She dices the vegetables for the salad.",
+            "sent2": "The chef dices the onions quickly.",
+            "sent3": "He dices the meat with precision, like a master chef.",
+            "sent4": "The knife dices through the ingredients effortlessly.",
+            "sent5": "Dicing the fruits makes the dish look more appealing."
         },
         {
             "definition": "Dice: to play or gamble with dice",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "We like to dice during our game nights.",
+            "sent2": "They dices for fun at the casino.",
+            "sent3": "The friends decided to dice for who would buy dinner.",
+            "sent4": "She dices with luck on her side every time.",
+            "sent5": "Dicing adds an element of chance to the game."
         }
     ]
 }

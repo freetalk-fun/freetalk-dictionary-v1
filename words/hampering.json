@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To hinder or impede the progress of something.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The heavy rain was hampering our outdoor plans.",
+            "sent2": "The closed road was hampering the delivery trucks' route.",
+            "sent3": "The mischievous squirrel was hampering the bird feeder's accessibility.",
+            "sent4": "The thick fog hampering our view of the mountains was like a mysterious veil.",
+            "sent5": "The tangled wires were hampering our efforts to set up the new computer system."
         },
         {
             "definition": "Something that restricts or limits movement or action.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The old injury was a hampering factor in his basketball game.",
+            "sent2": "The heavy backpack was a hampering burden during the hike.",
+            "sent3": "The tangled shoelaces were a hampering nuisance during the race.",
+            "sent4": "The strict rules were a hampering cage around their creativity.",
+            "sent5": "The broken lock was a hampering obstacle to entering the abandoned building."
         }
     ]
 }

@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To discover or identify the presence or existence of something.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I detected a faint smell of cookies in the kitchen.",
+            "sent2": "The security system detected movement outside the house.",
+            "sent3": "As a detective, he detected the hidden clue in the mysterious case.",
+            "sent4": "Her keen eyes detected the slightest change in his expression.",
+            "sent5": "The radar detected the approaching storm with precision."
         },
         {
             "definition": "To notice or sense something.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She detected a hint of sadness in his voice.",
+            "sent2": "The dog detected the scent of food from afar.",
+            "sent3": "The robot detected an error in its programming and stopped moving.",
+            "sent4": "The scientist detected a pattern in the data that others had missed.",
+            "sent5": "The teacher detected confusion among the students and explained the lesson again."
         }
     ]
 }

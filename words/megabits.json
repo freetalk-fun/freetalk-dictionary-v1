@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A unit of data equal to 1,000,000 bits.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I downloaded a movie that was 800 megabits in size.",
+            "sent2": "My internet plan offers a speed of 100 megabits per second.",
+            "sent3": "The squirrel stored over a million megabits of acorn data in its nest.",
+            "sent4": "Her brain processed information at a rate of megabits during the exam.",
+            "sent5": "The hard drive could store megabits of information, making it very efficient."
         },
         {
             "definition": "A unit of data transfer rate equal to one million bits per second.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The new fiber optic connection provides a speed of 500 megabits.",
+            "sent2": "Streaming services require a minimum of 10 megabits for smooth playback.",
+            "sent3": "The race car's engine roared like a thousand megabits per second.",
+            "sent4": "Her words flowed out of her mouth at a rate of megabits, leaving everyone amazed.",
+            "sent5": "The information highway moved at a speed of megabits, connecting the world seamlessly."
         }
     ]
 }

@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A cause of great distress or annoyance.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The loud construction noise was a bane to my peaceful afternoon.",
+            "sent2": "Mosquitoes are a common bane during summer evenings.",
+            "sent3": "The constant barking of the neighbor's dog, a true bane, made it hard to concentrate.",
+            "sent4": "The never-ending traffic jam was the bane of commuters' existence.",
+            "sent5": "The persistent ringing of the alarm clock became a bane to his mornings."
         },
         {
             "definition": "Something that causes harm or ruin.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The invasive species proved to be a bane to the local ecosystem.",
+            "sent2": "Neglecting regular maintenance can be the bane of any machine.",
+            "sent3": "The spoiled milk in the fridge turned into a bane for the whole family.",
+            "sent4": "The betrayal of trust can be a bane that lingers for years.",
+            "sent5": "The leaky roof became a bane during the rainy season."
         },
         {
             "definition": "To be the bane of someone's existence.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Her constant complaints bane her friends' patience.",
+            "sent2": "Procrastination can easily bane your productivity.",
+            "sent3": "His love for practical jokes tends to bane his sister's nerves.",
+            "sent4": "The lack of communication can bane relationships.",
+            "sent5": "The never-ending paperwork bane the office workers' efficiency."
         }
     ]
 }

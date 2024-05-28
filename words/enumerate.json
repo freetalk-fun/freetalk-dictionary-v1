@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Mention a number of things one by one.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I will enumerate the colors of the rainbow for you.",
+            "sent2": "She likes to enumerate all the reasons why she loves her cat.",
+            "sent3": "Let's play a game where we enumerate all the different types of clouds we see.",
+            "sent4": "The teacher asked the students to enumerate the steps of photosynthesis.",
+            "sent5": "As we walk through the forest, let's enumerate the different types of trees we pass by."
         },
         {
             "definition": "Determine the number of.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Can you enumerate the total number of apples in the basket?",
+            "sent2": "The scientist needs to enumerate the population of the endangered species.",
+            "sent3": "I tried to enumerate the amount of sand grains on the beach, but it was impossible.",
+            "sent4": "She had to enumerate the exact number of guests attending the party for catering purposes.",
+            "sent5": "The accountant will enumerate the expenses to calculate the total budget for the project."
         }
     ]
 }

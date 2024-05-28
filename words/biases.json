@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A particular tendency, trend, inclination, feeling, or opinion, especially one that is preconceived or unreasoned.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Her biases affected her judgment in the competition.",
+            "sent2": "It's important to be aware of our biases when making decisions.",
+            "sent3": "His biases towards certain colors made his wardrobe quite interesting.",
+            "sent4": "The biases of the media can shape public perception.",
+            "sent5": "The teacher's biases were evident in the way she graded assignments."
         },
         {
             "definition": "To cause to have a bias; influence; prejudice.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The news article biases the reader towards a specific viewpoint.",
+            "sent2": "Parents should be careful not to biases their children against certain foods.",
+            "sent3": "The magician biases the audience's perception with clever tricks.",
+            "sent4": "The loud music biases my concentration while studying.",
+            "sent5": "The biased survey results skewed the overall data analysis."
         }
     ]
 }

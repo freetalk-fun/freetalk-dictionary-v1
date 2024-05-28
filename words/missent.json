@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Sent to the wrong destination.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The missent package ended up at the neighbor's house.",
+            "sent2": "The missent letter was returned to the sender.",
+            "sent3": "The missent gift caused confusion but was eventually delivered correctly.",
+            "sent4": "The missent email took a detour before reaching its final destination.",
+            "sent5": "The missent parcel was like a lost traveler in the world of mail."
         },
         {
             "definition": "Past tense of send incorrectly.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She missent the invitation by mistake.",
+            "sent2": "He missent the important document to the wrong department.",
+            "sent3": "The magician missent the rabbit to the wrong hat!",
+            "sent4": "The mischievous wind missent the kite soaring into the tree.",
+            "sent5": "The distracted postman missent the letters in a mix-up."
         },
         {
             "definition": "Not sent to the intended recipient.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The missent message was never read by the recipient.",
+            "sent2": "The missent package was redirected to the correct address.",
+            "sent3": "The missent love letter was found by someone unexpected.",
+            "sent4": "The missent signal wandered aimlessly in the air.",
+            "sent5": "The missent invitation missed its mark and landed elsewhere."
         }
     ]
 }

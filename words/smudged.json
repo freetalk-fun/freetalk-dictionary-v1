@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To make a dirty mark or smear on (a surface)",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She accidentally smudged the painting with her fingers.",
+            "sent2": "The child smudged the window with his greasy hands.",
+            "sent3": "The mischievous puppy smudged paw prints all over the freshly mopped floor.",
+            "sent4": "His tears smudged the ink on the letter, making it difficult to read.",
+            "sent5": "The artist's hand smudged the charcoal, creating a beautiful shadow effect."
         },
         {
             "definition": "A blurred or smeared mark on a surface",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "There was a smudged fingerprint on the mirror.",
+            "sent2": "The old photograph had a smudged corner from being handled too much.",
+            "sent3": "The detective found a smudged clue that led to the identity of the thief.",
+            "sent4": "The smudged writing on the whiteboard was barely legible.",
+            "sent5": "The smudged lipstick stain on the collar hinted at a secret rendezvous."
         }
     ]
 }

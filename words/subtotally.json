@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To calculate the total of a subset of numbers.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I will subtotally add the scores of the first three rounds.",
+            "sent2": "She subtotally summed up the expenses for the week.",
+            "sent3": "The math wizard subtotally worked his magic on the tricky equation.",
+            "sent4": "The accountant subtotally pieced together the financial report.",
+            "sent5": "Subtotally breaking down the data made the analysis easier."
         },
         {
             "definition": "In a partial or incomplete manner.",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "He subtotally completed the puzzle, leaving a few pieces out.",
+            "sent2": "The artist subtotally painted the background of the portrait.",
+            "sent3": "The chef subtotally mixed the ingredients, forgetting the main one.",
+            "sent4": "The detective subtotally solved the case, missing a crucial clue.",
+            "sent5": "Subtotally finishing the project, she skipped the final step."
         }
     ]
 }

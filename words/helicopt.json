@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A type of aircraft that derives both lift and propulsion from one or more sets of horizontally revolving overhead rotors.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The helicopt flew high in the sky.",
+            "sent2": "The helicopt landed smoothly on the helipad.",
+            "sent3": "The helicopt pilot waved from above.",
+            "sent4": "The sound of the helicopt blades filled the air.",
+            "sent5": "Children pointed excitedly at the helicopt overhead."
         },
         {
             "definition": "To travel by helicopter.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "We will helicopt to the mountain peak.",
+            "sent2": "They helicopted over the city for a scenic tour.",
+            "sent3": "Let's helicopt to the concert for a grand entrance.",
+            "sent4": "She helicopted through the clouds like a bird.",
+            "sent5": "The president helicopted to the emergency site swiftly."
         },
         {
             "definition": "To transport or carry by helicopter.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The rescue team helicopted the injured hiker to safety.",
+            "sent2": "They helicopted supplies to the remote village.",
+            "sent3": "The birthday cake was helicopted to the party venue.",
+            "sent4": "The precious cargo was helicopted across the ocean.",
+            "sent5": "The firefighters helicopted the rescued kittens to the shelter."
         }
     ]
 }

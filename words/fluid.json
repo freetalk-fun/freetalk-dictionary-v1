@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A substance that flows and takes the shape of its container.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The fluid in the bottle poured out smoothly.",
+            "sent2": "The water in the glass was a clear fluid.",
+            "sent3": "The fluid in the river danced over the rocks.",
+            "sent4": "Her words flowed like a fluid stream of consciousness.",
+            "sent5": "The fluidity of the lava made it dangerous to approach."
         },
         {
             "definition": "Smooth and graceful in motion or shape.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "Her movements on the dance floor were fluid and elegant.",
+            "sent2": "The fluid lines of the sculpture captured everyone's attention.",
+            "sent3": "The cat moved with a fluid grace as it chased the toy.",
+            "sent4": "His ideas flowed in a fluid manner during the presentation.",
+            "sent5": "The fluid melody of the music soothed her soul."
         },
         {
             "definition": "Able to flow easily.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The oil was so fluid that it spread quickly on the surface.",
+            "sent2": "The dancer's movements were fluid and effortless.",
+            "sent3": "The conversation had a fluid pace, keeping everyone engaged.",
+            "sent4": "Time seemed to pass in a fluid manner during the peaceful afternoon.",
+            "sent5": "The fluid nature of the fabric made it perfect for the flowing dress."
         }
     ]
 }

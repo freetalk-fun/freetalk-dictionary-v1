@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A person who edits.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The editors at the newspaper review articles for mistakes.",
+            "sent2": "The editors made sure the book was error-free before publishing.",
+            "sent3": "The editors had a tough time deciding which photos to include in the magazine.",
+            "sent4": "The editors of the journal carefully curated the content for the upcoming issue.",
+            "sent5": "The editors meticulously checked every detail of the manuscript."
         },
         {
             "definition": "A software program used for editing text or images.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I use different editors to enhance my photos before posting them online.",
+            "sent2": "The new editors have advanced features that make editing easier.",
+            "sent3": "The editors on my computer crashed right when I was about to save my work.",
+            "sent4": "The editors in the graphic design software allow for precise adjustments.",
+            "sent5": "The editors helped me correct spelling errors in my document."
         }
     ]
 }

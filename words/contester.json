@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A person who takes part in a competition or contest.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The contester trained hard for the race.",
+            "sent2": "The contester won the spelling bee.",
+            "sent3": "The contester wore a lucky hat to the game.",
+            "sent4": "She was a fierce contester in the dance-off.",
+            "sent5": "The contester's determination shone brightly on the field."
         },
         {
             "definition": "To challenge the accuracy, validity, or truth of something.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He decided to contester the results of the test.",
+            "sent2": "She contestered the decision made by the jury.",
+            "sent3": "The detective contestered the suspect's alibi.",
+            "sent4": "His actions contestered the traditional beliefs of the community.",
+            "sent5": "The scientist contestered the existing theories with new evidence."
         }
     ]
 }

@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A person who embezzles funds or property entrusted to their care.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The embezzler stole money from the company.",
+            "sent2": "The embezzler was caught red-handed with stolen funds.",
+            "sent3": "The embezzler thought they could get away with taking the money.",
+            "sent4": "The embezzler's actions left a trail of deceit and betrayal.",
+            "sent5": "The embezzler's greed knew no bounds as they pocketed the company's earnings."
         },
         {
             "definition": "To embezzle funds or property.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He decided to embezzle the funds for his own use.",
+            "sent2": "She embezzled money from the charity for years before being caught.",
+            "sent3": "The accountant embezzled funds in a desperate attempt to cover debts.",
+            "sent4": "The thief embezzled the jewels and vanished into the night.",
+            "sent5": "The embezzler's scheme unraveled when auditors discovered missing funds."
         }
     ]
 }

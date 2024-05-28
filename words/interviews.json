@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A formal meeting in which one or more persons question, consult, or evaluate another person.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "During the interviews, the panel asked many questions.",
+            "sent2": "The job interviews were scheduled for next week.",
+            "sent3": "The interviews felt like a quiz show with all the questions.",
+            "sent4": "The interviews were like a detective trying to uncover the truth.",
+            "sent5": "The interviews were like a spotlight on the candidate's skills."
         },
         {
             "definition": "A conversation between a journalist and a person of public interest for the purpose of gathering information for a news story.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The journalist conducted interviews with the celebrities.",
+            "sent2": "The news anchor prepared for the live interviews.",
+            "sent3": "The interviews with the politicians were full of surprises.",
+            "sent4": "The interviews were like a treasure hunt for exclusive details.",
+            "sent5": "The interviews were like a puzzle revealing the truth."
         },
         {
             "definition": "To conduct an interview with someone.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She interviews candidates for the job openings.",
+            "sent2": "He interviews potential witnesses to gather information.",
+            "sent3": "The cat interviews the mouse for information on the cheese.",
+            "sent4": "The sun interviews the flowers to learn their secrets.",
+            "sent5": "The teacher interviews the students to understand their perspectives."
         }
     ]
 }

@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Synchronization: the act of causing things to occur or operate at the same time or rate",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The synchro of the traffic lights made sure all cars stopped together.",
+            "sent2": "The synchro of the dancers' movements impressed the audience.",
+            "sent3": "The synchro of the alarm clocks going off at the same time startled everyone.",
+            "sent4": "The synchro of the birds flying in perfect formation was a sight to behold.",
+            "sent5": "The synchro of the synchronized swimmers was mesmerizing to watch."
         },
         {
             "definition": "Synchronize: to cause things to occur or operate at the same time or rate",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Let's synchro our watches before the mission.",
+            "sent2": "The conductor had to synchro the musicians for a flawless performance.",
+            "sent3": "I tried to synchro my claps with the beat of the music.",
+            "sent4": "The team had to synchro their efforts to win the game.",
+            "sent5": "We need to synchro our steps to cross the bridge safely."
         },
         {
             "definition": "Synchronous: occurring at the same time; simultaneous",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The synchronous clapping of the audience showed their appreciation.",
+            "sent2": "The synchronous arrival of the guests made the party lively.",
+            "sent3": "The synchronous barking of the dogs startled the neighbors.",
+            "sent4": "Their synchronous laughter filled the room with joy.",
+            "sent5": "The synchronous blinking of the fireflies lit up the night."
         }
     ]
 }

@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A person or thing that kills",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The detective was on the hunt for the killer who committed the crime.",
+            "sent2": "The lion is a fierce killer in the jungle, preying on other animals for food.",
+            "sent3": "The killer bee buzzed around the garden, causing a commotion among the flowers.",
+            "sent4": "The killer whale gracefully glided through the water, a majestic predator of the sea.",
+            "sent5": "The killer instinct of the cheetah allowed it to catch its prey with lightning speed."
         },
         {
             "definition": "Extremely difficult or demanding",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The math problem was so killer that even the smartest student struggled to solve it.",
+            "sent2": "The killer workout left me exhausted but satisfied with my progress.",
+            "sent3": "The killer hill on the hiking trail challenged even the most experienced climbers.",
+            "sent4": "The killer deadline for the project made everyone work extra hours to complete it on time.",
+            "sent5": "The killer sudoku puzzle required intense focus and problem-solving skills to conquer."
         },
         {
             "definition": "Very effective or successful",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The new marketing strategy turned out to be a killer move for the company's sales.",
+            "sent2": "The killer app revolutionized how people interacted with technology.",
+            "sent3": "The killer instinct of the soccer player led to a winning goal in the final match.",
+            "sent4": "The killer presentation impressed the clients and secured a lucrative deal.",
+            "sent5": "The killer performance by the band electrified the audience and earned them a standing ovation."
         }
     ]
 }

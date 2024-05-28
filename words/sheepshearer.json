@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A person who shears sheep.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The sheepshearer skillfully removed the wool from the sheep.",
+            "sent2": "The sheepshearer is an essential worker on the farm.",
+            "sent3": "The sheepshearer told a funny joke while shearing the sheep.",
+            "sent4": "The sheepshearer's hands moved like lightning as they sheared the sheep.",
+            "sent5": "The sheepshearer's gentle touch calmed the nervous sheep during shearing."
         },
         {
             "definition": "To remove the wool from a sheep.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The farmer will sheepshear the sheep before winter.",
+            "sent2": "It takes skill to sheepshear a sheep without causing harm.",
+            "sent3": "The sheep giggled as the farmer tried to sheepshear it.",
+            "sent4": "Sheepshearing the sheep revealed its fluffy coat underneath.",
+            "sent5": "The sound of sheepshearing echoed through the barnyard."
         }
     ]
 }

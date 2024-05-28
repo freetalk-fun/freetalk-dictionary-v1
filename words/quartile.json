@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Each of four equal groups into which a population can be divided according to the distribution of values of a particular variable.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "In statistics, a quartile helps us understand data by dividing it into four equal parts.",
+            "sent2": "The quartile shows us how the values are spread out in the dataset.",
+            "sent3": "When studying math, finding the quartile can be like solving a puzzle with four pieces.",
+            "sent4": "The quartile acts as a gatekeeper, separating the data into distinct sections.",
+            "sent5": "Visualizing a quartile as a traffic light can make data analysis easier to grasp."
         },
         {
             "definition": "A value of a variable that divides the distribution of the variable into four groups of equal frequency.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The quartile is the specific value that splits the data into four equal parts based on frequency.",
+            "sent2": "Researchers use the quartile to identify the point where the data is evenly divided.",
+            "sent3": "Imagine the quartile as a referee in a game, ensuring each group gets a fair share.",
+            "sent4": "The quartile is like a compass, guiding us through the distribution landscape.",
+            "sent5": "Think of the quartile as a ruler that measures the data into four equal segments."
         }
     ]
 }

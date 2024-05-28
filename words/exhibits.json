@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To display or show something for others to see.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The museum exhibits rare artifacts from ancient civilizations.",
+            "sent2": "She exhibits her paintings at local art galleries.",
+            "sent3": "The mischievous cat exhibits its toy mouse proudly to the family.",
+            "sent4": "His behavior exhibits a lack of respect for authority.",
+            "sent5": "The fireworks display exhibits a dazzling array of colors in the night sky."
         },
         {
             "definition": "Objects or works of art displayed for public viewing.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The museum has a new exhibit featuring dinosaur fossils.",
+            "sent2": "Visitors were impressed by the variety of exhibits at the science fair.",
+            "sent3": "The exhibit of vintage cars drew a large crowd of enthusiasts.",
+            "sent4": "The art exhibit at the gallery showcased local talent.",
+            "sent5": "The zoo's animal exhibit allows visitors to see exotic creatures up close."
         }
     ]
 }

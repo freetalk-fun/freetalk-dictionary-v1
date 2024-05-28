@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A matter or situation regarded as unwelcome or harmful and needing to be dealt with and overcome.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The math problem was challenging, but I solved it with help.",
+            "sent2": "She faced a big problem when her car broke down on the highway.",
+            "sent3": "The problem of the missing sock turned out to be hiding in the laundry basket.",
+            "sent4": "His constant lateness was a problem that needed to be addressed.",
+            "sent5": "The leaky faucet was a persistent problem in the old house."
         },
         {
             "definition": "A question proposed for solution or discussion.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The teacher gave us a tricky problem to solve in class today.",
+            "sent2": "The problem of how to improve recycling rates is a hot topic.",
+            "sent3": "The problem of what to have for dinner sparked a lively debate.",
+            "sent4": "The problem of climate change requires urgent attention from world leaders.",
+            "sent5": "The problem of finding a cure for the disease is a complex challenge."
         },
         {
             "definition": "A difficulty or trouble.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "She had a problem with her computer crashing every time she opened a certain program.",
+            "sent2": "The problem of getting lost in the new city was stressful for him.",
+            "sent3": "His problem with forgetting important dates led to missed appointments.",
+            "sent4": "The problem of not having enough time to finish the project was frustrating.",
+            "sent5": "The problem of the noisy neighbors kept him up at night."
         }
     ]
 }

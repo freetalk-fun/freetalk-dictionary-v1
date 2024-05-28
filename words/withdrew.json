@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To remove or take away",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She withdrew the book from the shelf.",
+            "sent2": "He withdrew his hand from the cookie jar.",
+            "sent3": "The magician withdrew a rabbit from his hat.",
+            "sent4": "The detective withdrew crucial evidence from the crime scene.",
+            "sent5": "The teacher withdrew the incorrect answer from the student's paper."
         },
         {
             "definition": "To retreat or pull back",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The soldier withdrew from the battlefield.",
+            "sent2": "The cat withdrew its claws after playing.",
+            "sent3": "The team withdrew from the competition due to injuries.",
+            "sent4": "She withdrew from the argument to avoid conflict.",
+            "sent5": "The turtle withdrew into its shell for protection."
         },
         {
             "definition": "To extract or draw out",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The dentist withdrew the tooth gently.",
+            "sent2": "He withdrew the money from the ATM.",
+            "sent3": "She withdrew the key from the lock with ease.",
+            "sent4": "The chef withdrew the flavors from the spices.",
+            "sent5": "The artist withdrew inspiration from nature for the painting."
         }
     ]
 }

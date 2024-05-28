@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Passed from person to person",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The circulated story brought smiles to everyone's faces.",
+            "sent2": "The circulated news about the party made everyone excited.",
+            "sent3": "The circulated joke at the office made everyone laugh.",
+            "sent4": "Her circulated kindness warmed the hearts of many.",
+            "sent5": "The circulated rumor turned out to be true."
         },
         {
             "definition": "Spread widely",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The flu virus circulated quickly through the school.",
+            "sent2": "The petition circulated around the neighborhood for signatures.",
+            "sent3": "The delicious aroma of freshly baked cookies circulated through the house.",
+            "sent4": "Excitement circulated among the fans waiting for the concert.",
+            "sent5": "The scent of flowers circulated in the garden."
         },
         {
             "definition": "Moved continuously in a closed system",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The air circulated in the room, keeping it fresh.",
+            "sent2": "The water circulated through the pipes in the building.",
+            "sent3": "The music circulated throughout the entire house.",
+            "sent4": "Energy circulated within the closed loop of the system.",
+            "sent5": "The blood circulated through his body, delivering oxygen."
         }
     ]
 }

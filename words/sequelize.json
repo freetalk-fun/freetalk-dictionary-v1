@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A software tool used for managing databases.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I used a sequelize to keep track of all the information in my database.",
+            "sent2": "The IT department relies on the sequelize to organize the company's data efficiently.",
+            "sent3": "The sequelize at work is like a digital librarian, always keeping everything in order.",
+            "sent4": "In the world of data management, a sequelize is the ultimate organizer, like a virtual filing cabinet.",
+            "sent5": "The sequelize is like a magic wand that helps me sort through all the information effortlessly."
         },
         {
             "definition": "To organize or arrange data in a specific order.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I need to sequelize the files on my computer so I can find things easily.",
+            "sent2": "She likes to sequelize her schedule for the week every Sunday night.",
+            "sent3": "I tried to sequelize my closet, but it ended up looking even messier than before!",
+            "sent4": "His mind seemed to sequelize all the information he learned into neat, tidy categories.",
+            "sent5": "The teacher asked us to sequelize our thoughts before writing our essays."
         }
     ]
 }

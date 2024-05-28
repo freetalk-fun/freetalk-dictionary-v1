@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "From what place or source",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "Wherefrom did you come?",
+            "sent2": "I wonder wherefrom the sound is coming.",
+            "sent3": "He asked wherefrom the magic potion came.",
+            "sent4": "The mystery novel revealed wherefrom the treasure was hidden.",
+            "sent5": "The detective deduced wherefrom the mysterious letter originated."
         },
         {
             "definition": "From which",
-            "pos": "preposition"
+            "pos": "preposition",
+            "sent1": "Tell me wherefrom you got that idea.",
+            "sent2": "The box, wherefrom the noise came, was opened.",
+            "sent3": "I can't remember wherefrom I borrowed the book.",
+            "sent4": "The tree, wherefrom the apples fell, provided shade.",
+            "sent5": "The path, wherefrom we came, was now overgrown."
         },
         {
             "definition": "From where",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "Wherefrom did you see the shooting star?",
+            "sent2": "I can't recall wherefrom I heard that song.",
+            "sent3": "The cat wondered wherefrom the bird flew.",
+            "sent4": "The river, wherefrom the fish swam, was crystal clear.",
+            "sent5": "The mountain, wherefrom the echo returned, stood tall."
         }
     ]
 }

@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To perform an autopsy on (verb)",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The doctor autopsied the body to determine the cause of death.",
+            "sent2": "The medical examiner autopsied the deceased to uncover any underlying health issues.",
+            "sent3": "After the detective autopsied the crime scene, he found crucial evidence hidden in plain sight.",
+            "sent4": "She autopsied the data meticulously, revealing patterns that were previously unnoticed.",
+            "sent5": "The scientist autopsied the failed experiment to understand where things went wrong."
         },
         {
             "definition": "Having undergone an autopsy (adjective)",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The autopsied body provided valuable insights into the person's health history.",
+            "sent2": "The autopsied remains were carefully examined for any signs of foul play.",
+            "sent3": "The autopsied report shed light on the mysterious circumstances surrounding the death.",
+            "sent4": "The autopsied organ showed signs of disease that had gone undetected.",
+            "sent5": "The autopsied specimen revealed unexpected details about the individual's lifestyle."
         }
     ]
 }

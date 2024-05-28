@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A word or phrase that indicates the quantity of something.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The teacher asked the students to find a quantifier in the sentence.",
+            "sent2": "In math, 'many' and 'few' are examples of quantifiers.",
+            "sent3": "The detective needed a quantifier to solve the mystery of the missing cookies.",
+            "sent4": "Her smile was a quantifier of her happiness.",
+            "sent5": "The thunderous applause was a quantifier of the audience's excitement."
         },
         {
             "definition": "A symbol or operator used in logic to express the quantity of the subject of a proposition.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The logic student struggled to understand the meaning of each quantifier.",
+            "sent2": "In symbolic logic, '\u2200' is a commonly used quantifier.",
+            "sent3": "The computer scientist used a quantifier to simplify the complex algorithm.",
+            "sent4": "The key to the puzzle was hidden within the quantifier of the code.",
+            "sent5": "The quantifier in the equation determined the outcome of the experiment."
         }
     ]
 }

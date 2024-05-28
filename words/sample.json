@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A small part or quantity intended to show what the whole is like.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I took a sample of the cake to taste it.",
+            "sent2": "The teacher showed us a sample of the math problem before we solved it.",
+            "sent3": "The sample of the song played on repeat in my head all day.",
+            "sent4": "Her smile was just a sample of the joy she felt inside.",
+            "sent5": "The sample of paint on the wall matched perfectly with the color we wanted."
         },
         {
             "definition": "A specimen taken for analysis or testing.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The scientist collected a sample of water from the river for testing.",
+            "sent2": "The doctor asked for a sample of blood to check for any infections.",
+            "sent3": "The sample of soil in the jar looked like a tiny world of its own.",
+            "sent4": "His collection of stamps was a sample of different cultures around the world.",
+            "sent5": "The sample of fabric felt soft and smooth to the touch."
         },
         {
             "definition": "To take a sample of something for analysis or testing.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She will sample the soup before adding more seasoning.",
+            "sent2": "The chef decided to sample the sauce to see if it needed more spice.",
+            "sent3": "I will sample the new ice cream flavor before buying a whole cone.",
+            "sent4": "He likes to sample different types of tea to find his favorite.",
+            "sent5": "The musician will sample different beats to create a unique sound."
         }
     ]
 }

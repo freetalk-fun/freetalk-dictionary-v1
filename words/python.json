@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A large nonvenomous constrictor snake found in Africa, Asia, and Australia.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The python slithered silently through the grass.",
+            "sent2": "I saw a python at the zoo during our field trip.",
+            "sent3": "The python decided to take a nap in the sun, looking like a cozy scarf.",
+            "sent4": "Her long hair cascaded down her back like a python, flowing and graceful.",
+            "sent5": "The python's scales shimmered in the sunlight, creating a mesmerizing sight."
         },
         {
             "definition": "A high-level programming language known for its readability and simplicity.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I learned how to code in Python during my computer science class.",
+            "sent2": "Many developers prefer using Python for its user-friendly syntax.",
+            "sent3": "The computer programmer joked that the snake would be better at coding in Python.",
+            "sent4": "Her ability to solve complex problems was as swift and precise as a Python script.",
+            "sent5": "The simplicity of Python made it easy for beginners to grasp the concepts of programming."
         }
     ]
 }

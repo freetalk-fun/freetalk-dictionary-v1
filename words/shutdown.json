@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "The act of closing something down, especially a business or operation.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The shutdown of the factory caused many employees to lose their jobs.",
+            "sent2": "The government ordered a shutdown of all non-essential businesses during the pandemic.",
+            "sent3": "The shutdown of the ice cream shop made the kids in the neighborhood very sad.",
+            "sent4": "The shutdown of the highway due to construction caused a massive traffic jam.",
+            "sent5": "The sudden shutdown of the power plant left the city in darkness."
         },
         {
             "definition": "A temporary stoppage of operations or services.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The unexpected shutdown of the train station delayed all the passengers.",
+            "sent2": "The shutdown of the website for maintenance lasted for several hours.",
+            "sent3": "The shutdown of the amusement park due to a thunderstorm disappointed many visitors.",
+            "sent4": "The shutdown of the elevator for repairs forced everyone to take the stairs.",
+            "sent5": "The shutdown of the water supply for repairs left the neighborhood without water for a day."
         },
         {
             "definition": "To cease operations or activity, especially temporarily.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The company had to shutdown production due to a shortage of raw materials.",
+            "sent2": "The school decided to shutdown classes for a week after a flu outbreak.",
+            "sent3": "The chef had to shutdown the kitchen temporarily to clean up a spill.",
+            "sent4": "The airline had to shutdown flights to certain destinations due to bad weather.",
+            "sent5": "The city had to shutdown the park for maintenance during the summer."
         }
     ]
 }

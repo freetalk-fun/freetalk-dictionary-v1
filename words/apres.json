@@ -3,19 +3,39 @@
     "meanings": [
         {
             "definition": "After",
-            "pos": "preposition"
+            "pos": "preposition",
+            "sent1": "We will have dessert apres dinner.",
+            "sent2": "The sun sets apres a long day.",
+            "sent3": "He always arrives apres everyone else.",
+            "sent4": "The calm apres the storm was a relief.",
+            "sent5": "The stars shine brightly apres the darkness."
         },
         {
             "definition": "Following",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The following day, we went to the beach.",
+            "sent2": "She read the following chapter of the book.",
+            "sent3": "The following guests brought gifts.",
+            "sent4": "The following events were exciting.",
+            "sent5": "The following week was full of surprises."
         },
         {
             "definition": "In the style of",
-            "pos": "preposition"
+            "pos": "preposition",
+            "sent1": "She decorated her room apres Parisian fashion.",
+            "sent2": "The painting was done apres Picasso.",
+            "sent3": "He dressed apres a rock star for the party.",
+            "sent4": "The house was designed apres modern architecture.",
+            "sent5": "The music was composed apres classical masters."
         },
         {
             "definition": "In the manner of",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "She danced apres gracefully.",
+            "sent2": "He spoke apres confidently during the presentation.",
+            "sent3": "The cat walked apres lazily across the room.",
+            "sent4": "The wind howled apres eerily in the night.",
+            "sent5": "The children played apres happily in the park."
         }
     ]
 }

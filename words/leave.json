@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To go away from.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I will leave the park before it gets dark.",
+            "sent2": "Please don't leave your toys on the floor.",
+            "sent3": "Why did the sandwich leave the picnic?",
+            "sent4": "The sun will leave the sky as night falls.",
+            "sent5": "The train will leave the station at 3 o'clock sharp."
         },
         {
             "definition": "To allow to remain.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "You can leave your bag here while you go play.",
+            "sent2": "Leave the window open to let in some fresh air.",
+            "sent3": "The cake decided to leave some crumbs behind.",
+            "sent4": "Her smile will leave a lasting impression on him.",
+            "sent5": "The scent of flowers will leave a sweet fragrance in the room."
         },
         {
             "definition": "Permission to do something.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "He asked for leave to attend his sister's wedding.",
+            "sent2": "She was granted leave to take a day off work.",
+            "sent3": "The cat requested leave to nap in the sunbeam.",
+            "sent4": "The key gave leave for the door to be opened.",
+            "sent5": "The teacher gave leave for the students to start their project."
         }
     ]
 }

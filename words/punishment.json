@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "The act of punishing someone for a wrongdoing.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The punishment for not doing homework was having to stay in during recess.",
+            "sent2": "The judge decided on a fair punishment for the thief.",
+            "sent3": "The punishment for eating all the cookies was having to do extra chores.",
+            "sent4": "His punishment for being late was to write a hundred lines of apology.",
+            "sent5": "The punishment for cheating in the game was being disqualified and sent home."
         },
         {
             "definition": "A penalty imposed for breaking a rule or law.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The teacher gave a punishment to the student who was talking during the test.",
+            "sent2": "The punishment for speeding is usually a fine.",
+            "sent3": "The punishment for not finishing the race was having to start over.",
+            "sent4": "The punishment for parking in the wrong spot was getting a ticket.",
+            "sent5": "The punishment for breaking the school rule was detention after class."
         }
     ]
 }

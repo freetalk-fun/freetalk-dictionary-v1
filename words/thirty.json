@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "The number 30.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I counted up to thirty apples in the basket.",
+            "sent2": "The classroom had exactly thirty students present.",
+            "sent3": "It took thirty tries to get the puzzle right!",
+            "sent4": "Her smile lit up the room like thirty candles.",
+            "sent5": "The clock struck twelve, marking the end of thirty minutes."
         },
         {
             "definition": "Being 30 in number or quantity.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "She bought thirty balloons for the party.",
+            "sent2": "The store sold thirty books in just one hour.",
+            "sent3": "The cat chased its tail in thirty circles.",
+            "sent4": "His voice echoed through the empty room like thirty whispers.",
+            "sent5": "The garden bloomed with thirty colorful flowers."
         }
     ]
 }

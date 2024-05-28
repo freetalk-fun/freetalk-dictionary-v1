@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "One who asserts or makes a claim.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The assertor confidently stated his opinion during the meeting.",
+            "sent2": "The assertor in the debate made a strong argument for his position.",
+            "sent3": "The assertor at the party claimed to have seen a UFO last night.",
+            "sent4": "She was the assertor of the family, always speaking up for what she believed in.",
+            "sent5": "The assertor's voice echoed through the courtroom as he presented his case."
         },
         {
             "definition": "To state or declare positively and often forcefully or aggressively.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He will assertor his authority as the team leader.",
+            "sent2": "She tends to assertor her opinions without hesitation.",
+            "sent3": "The cat tried to assertor its dominance over the new puppy.",
+            "sent4": "The waves assertor their power as they crashed against the shore.",
+            "sent5": "The teacher had to assertor control over the noisy classroom."
         }
     ]
 }

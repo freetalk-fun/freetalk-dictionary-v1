@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A large group of animals, especially hoofed mammals, that live, feed, or migrate together.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The herds of cows grazed peacefully in the meadow.",
+            "sent2": "The herds of zebras traveled together across the savannah.",
+            "sent3": "The herds of sheep decided to have a picnic in the field.",
+            "sent4": "The herds of deer moved like a flowing river through the forest.",
+            "sent5": "The herds of elephants trumpeted loudly as they marched through the jungle."
         },
         {
             "definition": "To gather and move in a herd.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The shepherd herds the sheep into the pen for the night.",
+            "sent2": "The rancher herds the cattle from one pasture to another.",
+            "sent3": "The children herded together to play a game of tag.",
+            "sent4": "The protesters herded towards the town square to make their voices heard.",
+            "sent5": "The tourists herded onto the bus for the guided safari tour."
         },
         {
             "definition": "To associate or move in a group.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The students herded around the teacher to ask questions after class.",
+            "sent2": "The birds herded together on the power lines before migrating south.",
+            "sent3": "The shoppers herded towards the sale section of the store.",
+            "sent4": "The fans herded into the stadium to cheer for their favorite team.",
+            "sent5": "The ants herded the aphids to protect them from predators."
         }
     ]
 }

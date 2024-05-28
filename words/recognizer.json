@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "One who recognizes or identifies something.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The recognizer quickly spotted the familiar face in the crowd.",
+            "sent2": "The store owner is a great recognizer of rare antiques.",
+            "sent3": "The recognizer cat always knows when it's dinnertime.",
+            "sent4": "Her dog is a recognizer of trouble, barking at any sign of danger.",
+            "sent5": "The recognizer bird never forgets a tune, always chirping the right notes."
         },
         {
             "definition": "A device or software that identifies patterns or features in data.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The facial recognizer unlocked the phone with a quick scan.",
+            "sent2": "The fingerprint recognizer is a secure way to access the system.",
+            "sent3": "The voice recognizer mistook the laughter for a command to play music.",
+            "sent4": "The weather recognizer predicted the storm hours before it arrived.",
+            "sent5": "The speech recognizer accurately transcribed the speaker's words in real-time."
         }
     ]
 }

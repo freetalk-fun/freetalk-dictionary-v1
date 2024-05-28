@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To ask questions of (a person), sometimes to seek answers or information that the person questioned considers personal or secret.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The detective decided to interrogate the suspect to find out more about the crime.",
+            "sent2": "The police officer will interrogate the witness to gather more details about the incident.",
+            "sent3": "The curious cat tried to interrogate the closed door, wondering what was behind it.",
+            "sent4": "The journalist's probing questions interrogated the politician's true intentions.",
+            "sent5": "The bright spotlight in the interrogation room made the suspect feel uneasy."
         },
         {
             "definition": "To examine by questioning formally or officially.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "During the trial, the lawyer will interrogate the witness to uncover the truth.",
+            "sent2": "The committee will interrogate the candidate to assess their qualifications for the job.",
+            "sent3": "The teacher playfully interrogated the students about their favorite school subjects.",
+            "sent4": "The scientist's experiments interrogated the validity of the existing theory.",
+            "sent5": "The intense cross-examination interrogated the defendant's alibi."
         }
     ]
 }

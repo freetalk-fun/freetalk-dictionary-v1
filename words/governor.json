@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A person who governs or controls a state or organization.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The governor of the state signed the new law.",
+            "sent2": "The school governor oversees the educational policies.",
+            "sent3": "The governor of the chess club made sure everyone followed the rules.",
+            "sent4": "She was the governor of the playground, always deciding the games to play.",
+            "sent5": "The governor of the company ensured all employees followed the guidelines."
         },
         {
             "definition": "A device for controlling the speed of an engine or machine.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The car's governor limited its speed to ensure safety.",
+            "sent2": "The factory installed a new governor to regulate the machine's output.",
+            "sent3": "The governor on the treadmill made sure I didn't run too fast.",
+            "sent4": "The governor on the fan kept the room at a constant temperature.",
+            "sent5": "The governor on the engine prevented it from overheating."
         },
         {
             "definition": "A member of a group that oversees the management of an institution or organization.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The board appointed a new governor to supervise the finances.",
+            "sent2": "The hospital governor ensured the staff followed proper procedures.",
+            "sent3": "The governor of the book club organized the reading schedule.",
+            "sent4": "She was the governor of the team, always coordinating their efforts.",
+            "sent5": "The governor of the committee led the discussions effectively."
         }
     ]
 }

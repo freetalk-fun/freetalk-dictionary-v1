@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Also",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "I like apples, als I enjoy bananas.",
+            "sent2": "She enjoys swimming, als she loves hiking.",
+            "sent3": "He brought his guitar to the party, als he also brought his harmonica.",
+            "sent4": "The sun was shining brightly, als the moon was visible in the sky.",
+            "sent5": "The teacher not only teaches math, als she also teaches science."
         },
         {
             "definition": "As well",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "She likes to sing, als she dances well.",
+            "sent2": "He is good at basketball, als he plays soccer as well.",
+            "sent3": "The cat enjoys sleeping, als it plays with toys as well.",
+            "sent4": "The flowers bloom beautifully, als the trees sway in the wind as well.",
+            "sent5": "He not only reads books, als he writes stories as well."
         },
         {
             "definition": "In addition",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "I have a dog, als I have a cat in addition.",
+            "sent2": "She bought a dress, als she purchased shoes in addition.",
+            "sent3": "He finished his homework, als he cleaned his room in addition.",
+            "sent4": "The cake was delicious, als the ice cream was tasty in addition.",
+            "sent5": "She not only studies English, als she learns French in addition."
         }
     ]
 }

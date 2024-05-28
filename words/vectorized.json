@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To convert (data) into a format that can be processed by a computer as a series of vectors.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I vectorized the image to make it easier for the computer to understand.",
+            "sent2": "The software automatically vectorized the text for efficient processing.",
+            "sent3": "After I vectorized the file, the computer suddenly became very happy!",
+            "sent4": "She skillfully vectorized the information, turning chaos into order.",
+            "sent5": "The artist's ability to vectorize complex data sets was truly impressive."
         },
         {
             "definition": "Made up of or relating to vectors.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The vectorized diagram helped us understand the direction of the forces.",
+            "sent2": "Her presentation included a vectorized illustration to clarify the concept.",
+            "sent3": "The vectorized design on the shirt made everyone smile.",
+            "sent4": "His mind worked in a vectorized manner, always focused and precise.",
+            "sent5": "The room was filled with vectorized decorations, giving it a modern feel."
         }
     ]
 }

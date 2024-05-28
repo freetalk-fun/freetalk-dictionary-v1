@@ -3,19 +3,39 @@
     "meanings": [
         {
             "definition": "Profane words used to express strong anger or frustration.",
-            "pos": "noun, interjection"
+            "pos": "noun, interjection",
+            "sent1": "When he stubbed his toe, he let out a string of curses.",
+            "sent2": "She shouted curses at the rude driver who cut her off.",
+            "sent3": "The child's innocent face turned red as he accidentally repeated a curse word.",
+            "sent4": "The curses flew like arrows in the heat of the argument.",
+            "sent5": "The curses echoed in the empty room, leaving a sense of anger behind."
         },
         {
             "definition": "A prayer or invocation for harm or punishment to befall someone or something.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "She whispered a curse under her breath, hoping for revenge.",
+            "sent2": "The witch's curse brought misfortune upon the village.",
+            "sent3": "The curse seemed to backfire, bringing luck instead of harm.",
+            "sent4": "The curse hung in the air like a dark cloud, waiting to strike.",
+            "sent5": "The curse felt heavy on his conscience, regretting the words spoken in anger."
         },
         {
             "definition": "To utter offensive words in anger or frustration.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He curses whenever he loses a game.",
+            "sent2": "She tends to curse when things don't go her way.",
+            "sent3": "The parrot surprised everyone by cursing at the visitors.",
+            "sent4": "The storm cursed loudly, shaking the windows with its fury.",
+            "sent5": "The old man cursed at the broken machinery, frustrated by its constant failures."
         },
         {
             "definition": "To wish harm or misfortune upon someone or something.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She cursed the thief who stole her purse.",
+            "sent2": "He cursed the rainy weather ruining his plans.",
+            "sent3": "The wizard cursed the dragon, hoping it would never return.",
+            "sent4": "The bitter man cursed his luck, feeling like fate was against him.",
+            "sent5": "The witch cursed the forest, causing it to wither and die."
         }
     ]
 }

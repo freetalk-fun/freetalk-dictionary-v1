@@ -3,23 +3,48 @@
     "meanings": [
         {
             "definition": "A price asked for goods or services provided",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The store owner set high charges for the new products.",
+            "sent2": "I couldn't afford the charges for the repair services.",
+            "sent3": "The charges for the ice cream were so low, it felt like a steal!",
+            "sent4": "The charges for the concert tickets were like a heavy burden on my wallet.",
+            "sent5": "The charges for the hotel room were as clear as day on the bill."
         },
         {
             "definition": "An accusation of wrongdoing",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The false charges against him were quickly dismissed.",
+            "sent2": "She faced serious charges for her involvement in the crime.",
+            "sent3": "The charges of stealing the cookies were met with laughter.",
+            "sent4": "The charges of cheating echoed through the school like thunder.",
+            "sent5": "The charges of lying left a stain on his reputation."
         },
         {
             "definition": "The amount of electricity flowing through a circuit",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The high charges in the circuit caused a power outage.",
+            "sent2": "The charges in the wires were carefully monitored by the electrician.",
+            "sent3": "The charges in the circuit danced like lightning bolts.",
+            "sent4": "The charges surged through the wires like a river of energy.",
+            "sent5": "The charges in the battery were like a reservoir of power."
         },
         {
             "definition": "To load or fill with a substance",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She charges the blender with fresh fruits for a smoothie.",
+            "sent2": "He charges the truck with sand for the construction site.",
+            "sent3": "The chef charges the soup with flavorful spices.",
+            "sent4": "The artist charges the canvas with vibrant colors.",
+            "sent5": "The gardener charges the soil with nutrients for healthy plants."
         },
         {
             "definition": "To formally accuse someone of a crime",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The police will charge the suspect with robbery.",
+            "sent2": "The prosecutor decided to charge him with fraud.",
+            "sent3": "She jokingly charges her friend with eating all the cookies.",
+            "sent4": "The detective will charge the culprit with breaking and entering.",
+            "sent5": "The lawyer will charge the defendant with perjury in court."
         }
     ]
 }

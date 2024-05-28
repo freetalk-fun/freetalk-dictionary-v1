@@ -2,16 +2,31 @@
     "term": "idempotents",
     "meanings": [
         {
-            "definition": "Idempotents: Elements that remain unchanged when multiplied by themselves.",
-            "pos": "noun"
+            "definition": "Elements that remain unchanged when multiplied by themselves.",
+            "pos": "noun",
+            "sent1": "In math class, we learned about idempotents, which are elements that stay the same when you multiply them by themselves.",
+            "sent2": "The concept of idempotents is important in algebra because these elements don't change when you multiply them by themselves.",
+            "sent3": "I wonder if idempotents are like those magic numbers that never change no matter what you do to them.",
+            "sent4": "The idempotents in the equation act like anchors, keeping everything stable and unchanged.",
+            "sent5": "Imagine idempotents as rocks in a river, unmoving and constant amidst the flowing water."
         },
         {
-            "definition": "Idempotents: Elements that satisfy the equation x^2 = x.",
-            "pos": "noun"
+            "definition": "Elements that satisfy the equation x^2 = x.",
+            "pos": "noun",
+            "sent1": "When x^2 equals x, we are dealing with idempotents, elements that satisfy this unique equation.",
+            "sent2": "The equation x^2 = x helps us identify idempotents, elements that have this special property.",
+            "sent3": "It's like a puzzle trying to find the idempotents that make x^2 equal to x.",
+            "sent4": "The idempotents are like the missing pieces that complete the equation x^2 = x.",
+            "sent5": "The idempotents are the key players in the mathematical game of x^2 = x, making it all work perfectly."
         },
         {
-            "definition": "Idempotents: Elements that are their own inverses under a given operation.",
-            "pos": "noun"
+            "definition": "Elements that are their own inverses under a given operation.",
+            "pos": "noun",
+            "sent1": "Idempotents are elements that act as their own opposites when a specific operation is applied.",
+            "sent2": "Under certain operations, idempotents become their own inverses, a fascinating property in mathematics.",
+            "sent3": "It's like idempotents are playing a game of hide and seek with their own opposites.",
+            "sent4": "The idempotents are like mirrors reflecting themselves back perfectly under the operation.",
+            "sent5": "The idempotents are like twins who always end up facing each other no matter what direction they start in."
         }
     ]
 }

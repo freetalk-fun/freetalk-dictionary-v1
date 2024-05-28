@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To take away or eliminate something",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She was removing the weeds from the garden.",
+            "sent2": "The teacher is removing the incorrect answers from the test paper.",
+            "sent3": "The magician was removing rabbits from his hat, one after another.",
+            "sent4": "The detective was removing layers of lies to uncover the truth.",
+            "sent5": "The chef skillfully demonstrated removing the bones from the fish."
         },
         {
             "definition": "The act of taking something away or off of something else",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The removing of the old wallpaper took hours.",
+            "sent2": "His job involves the removing of debris from construction sites.",
+            "sent3": "The removing of the cake from the oven filled the kitchen with a sweet aroma.",
+            "sent4": "The removing of the mask revealed his true identity.",
+            "sent5": "The removing of the obstacles allowed for smooth progress."
         }
     ]
 }

@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A process that is part of a larger process.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "During the project, each subprocess played a crucial role in the overall success.",
+            "sent2": "In software development, debugging is a subprocess that helps improve the final product.",
+            "sent3": "The little subprocesses in the factory seemed to have a mind of their own, making the workers laugh.",
+            "sent4": "The subprocess of learning to ride a bike is like putting together a puzzle with missing pieces.",
+            "sent5": "The intricate subprocess of photosynthesis in plants is fascinating to study."
         },
         {
             "definition": "To execute a subprocess within a larger process.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The computer program will subprocess the data to generate the final report.",
+            "sent2": "It is important to subprocess each task carefully to ensure the project's success.",
+            "sent3": "I accidentally subprocessed the wrong file, causing a funny mix-up in the system.",
+            "sent4": "She can subprocess information quickly, like a skilled chef preparing a meal.",
+            "sent5": "The team will need to subprocess the code to identify and fix any errors."
         }
     ]
 }

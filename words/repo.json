@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Repossession: the action of taking back an item that was bought on credit when the buyer fails to make payments",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The repo of the car happened after the owner missed several payments.",
+            "sent2": "The bank had to do a repo of the furniture when the customer defaulted on the loan.",
+            "sent3": "The repo of the TV made the living room feel empty.",
+            "sent4": "The repo of the bike was a harsh reminder of financial responsibilities.",
+            "sent5": "The repo of the laptop left a void in the owner's daily routine."
         },
         {
             "definition": "Repurchase: to buy back something that was previously sold",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She decided to repo the antique vase she had sold last year.",
+            "sent2": "The company plans to repo the shares they sold to investors.",
+            "sent3": "It was a strange feeling to repo the old bicycle from the neighbor.",
+            "sent4": "He had to repo his childhood toy collection due to sentimental reasons.",
+            "sent5": "The artist wanted to repo the painting to make some improvements."
         },
         {
             "definition": "Repository: a place where things are stored or kept for safekeeping",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The library served as a repo for countless books and manuscripts.",
+            "sent2": "The museum's archives function as a repo for historical artifacts.",
+            "sent3": "The fridge became a repo for leftovers after the party.",
+            "sent4": "Her mind was a repo of memories, both good and bad.",
+            "sent5": "The warehouse acted as a repo for surplus inventory."
         }
     ]
 }

@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To arrange in proper order",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She marshals her toys neatly on the shelf.",
+            "sent2": "The librarian marshals the books on the shelves by genre.",
+            "sent3": "The teacher marshals the students into a line for recess.",
+            "sent4": "The chef marshals the ingredients before starting to cook.",
+            "sent5": "He marshals his thoughts before giving a presentation."
         },
         {
             "definition": "A military officer of the highest rank",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The general is a respected marshals in the army.",
+            "sent2": "The marshals led the troops into battle with courage.",
+            "sent3": "The marshals inspected the troops with a serious expression.",
+            "sent4": "The marshals strategized the next move in the war room.",
+            "sent5": "The marshals wore impressive uniforms during the ceremony."
         },
         {
             "definition": "A person in charge of a parade or ceremony",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The marshals directed the floats during the parade.",
+            "sent2": "The marshals ensured the ceremony ran smoothly.",
+            "sent3": "The marshals coordinated the performers for the show.",
+            "sent4": "The marshals led the procession with dignity.",
+            "sent5": "The marshals organized the event with precision."
         }
     ]
 }

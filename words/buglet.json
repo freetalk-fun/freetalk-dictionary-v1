@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A small insect.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I saw a buglet crawling on the leaf.",
+            "sent2": "The buglet flew around the garden in the warm sun.",
+            "sent3": "The buglet tickled my arm as it explored its way.",
+            "sent4": "The buglet danced in the air like a tiny fairy.",
+            "sent5": "The colorful buglet caught my eye with its delicate wings."
         },
         {
             "definition": "A minor software defect.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The programmer fixed the buglet in the code quickly.",
+            "sent2": "After the update, the buglet no longer caused errors.",
+            "sent3": "The buglet in the system made the computer act silly.",
+            "sent4": "The buglet in the software was like a hidden glitch waiting to surprise.",
+            "sent5": "Finding the buglet in the program was like solving a small puzzle."
         }
     ]
 }

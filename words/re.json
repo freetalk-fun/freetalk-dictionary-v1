@@ -3,31 +3,57 @@
     "meanings": [
         {
             "definition": "Again",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "I will rewatch the movie tonight.",
+            "sent2": "She pressed the button, and the music started playing re.",
+            "sent3": "He ate all his cookies, then re-filled the jar.",
+            "sent4": "The sun sets only to re-rise the next day.",
+            "sent5": "The cat chased its tail in a never-ending re loop."
         },
         {
             "definition": "Regarding",
-            "pos": "preposition"
+            "pos": "preposition",
+            "sent1": "Re your email, I will reply soon.",
+            "sent2": "They made a decision re the upcoming event.",
+            "sent3": "The teacher spoke to the class re the new assignment.",
+            "sent4": "The detective asked many questions re the crime scene.",
+            "sent5": "The note on the door was clear re the meeting time."
         },
         {
             "definition": "In the matter of",
-            "pos": "preposition"
+            "pos": "preposition",
+            "sent1": "The court will discuss the case re the defendant.",
+            "sent2": "They had a long conversation re the budget.",
+            "sent3": "The team met to plan re the upcoming project.",
+            "sent4": "The report was detailed re the safety concerns.",
+            "sent5": "The discussion was heated re the new policy."
         },
         {
             "definition": "With reference to",
-            "pos": "preposition"
+            "pos": "preposition",
+            "sent1": "The article mentioned the study re the environment.",
+            "sent2": "The presentation will focus on the slides re the data.",
+            "sent3": "The book provides examples re the historical events.",
+            "sent4": "The speech was informative re the current situation.",
+            "sent5": "The map had notes re the landmarks."
         },
         {
             "definition": "In the matter of",
-            "pos": "preposition"
+            "pos": "preposition",
+            "sent1": "The committee will discuss the issue re the new policy.",
+            "sent2": "They had a meeting re the upcoming changes.",
+            "sent3": "The memo was sent to all employees re the holiday schedule.",
+            "sent4": "The conversation revolved around topics re the future plans.",
+            "sent5": "The email contained details re the upcoming event."
         },
         {
             "definition": "In the matter of",
-            "pos": "preposition"
-        },
-        {
-            "definition": "In the matter of",
-            "pos": "preposition"
+            "pos": "preposition",
+            "sent1": "The team will make a decision re the new project.",
+            "sent2": "They had a discussion re the marketing strategy.",
+            "sent3": "The report highlighted issues re the product design.",
+            "sent4": "The meeting focused on topics re the budget allocation.",
+            "sent5": "The presentation included slides re the sales figures."
         }
     ]
 }

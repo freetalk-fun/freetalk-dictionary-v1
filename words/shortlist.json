@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A list of selected candidates or items for final consideration.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The company's shortlist of potential candidates for the job included three people.",
+            "sent2": "She added his name to the shortlist of nominees for the award.",
+            "sent3": "The shortlist of desserts for the party made everyone excited.",
+            "sent4": "The shortlist of vacation destinations was filled with exotic locations.",
+            "sent5": "The shortlist of books to read over the summer was carefully chosen."
         },
         {
             "definition": "To select or nominate for final consideration.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "They will shortlist the best designs for the competition.",
+            "sent2": "He decided to shortlist her for the lead role in the play.",
+            "sent3": "I will shortlist the most delicious recipes for our cooking class.",
+            "sent4": "She shortlisted her favorite songs for the upcoming concert.",
+            "sent5": "The committee will shortlist the top candidates for the scholarship."
         }
     ]
 }

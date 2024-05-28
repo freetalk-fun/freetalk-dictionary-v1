@@ -3,19 +3,39 @@
     "meanings": [
         {
             "definition": "A person who remits money.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The remitter handed over the cash to pay for the groceries.",
+            "sent2": "The remitter at the bank processed the money transfer efficiently.",
+            "sent3": "The remitter accidentally dropped the coins, causing a comical scene.",
+            "sent4": "She was a diligent remitter, always ensuring the bills were paid on time.",
+            "sent5": "The remitter's face lit up with satisfaction as the donation was received."
         },
         {
             "definition": "A document sent by a remitter.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The remitter included a note with the document for clarity.",
+            "sent2": "The remitter's signature on the paper confirmed the transaction.",
+            "sent3": "The remitter's document fluttered away in the wind, leading to a chase.",
+            "sent4": "The remitter's letter was a beacon of hope in the recipient's mailbox.",
+            "sent5": "The remitter's envelope contained important information for the recipient."
         },
         {
             "definition": "To send money as payment.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He will remit the funds to settle the debt.",
+            "sent2": "She remitted the payment promptly after receiving the invoice.",
+            "sent3": "The remitter playfully tossed the coins into the charity box.",
+            "sent4": "The remitter's generosity remitted a sense of relief to the recipient.",
+            "sent5": "The remitter carefully remitted the exact amount owed, down to the last cent."
         },
         {
             "definition": "To lessen or abate.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The rain began to remit, allowing the sun to peek through the clouds.",
+            "sent2": "With each passing day, the pain in her knee remitted slightly.",
+            "sent3": "The doctor's prescription helped remit the patient's symptoms over time.",
+            "sent4": "His kindness remitted her worries, making her feel at ease.",
+            "sent5": "The cool breeze remitted the heat of the summer afternoon, bringing relief."
         }
     ]
 }

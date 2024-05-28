@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A period of time in history or a person's life, typically marked by notable events or characteristics.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "During the epoch of the dinosaurs, giant creatures roamed the earth.",
+            "sent2": "The Renaissance was an epoch of great artistic and cultural achievements.",
+            "sent3": "In the epoch of my childhood, I believed in magic and fairy tales.",
+            "sent4": "Her graduation marked the end of an epoch in her academic journey.",
+            "sent5": "The fall of the Berlin Wall symbolized the end of an epoch of division."
         },
         {
             "definition": "A particular period of time in history or a person's life.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The Victorian epoch was known for its strict social norms.",
+            "sent2": "The roaring twenties was an epoch of economic prosperity and cultural change.",
+            "sent3": "During my teenage epoch, I thought I knew everything.",
+            "sent4": "The pandemic brought an unexpected epoch of remote work and virtual meetings.",
+            "sent5": "The epoch of the Industrial Revolution transformed societies and economies."
         }
     ]
 }

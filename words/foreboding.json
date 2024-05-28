@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A feeling that something bad will happen; a premonition.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The dark clouds overhead filled me with foreboding.",
+            "sent2": "Her foreboding about the upcoming exam made her anxious.",
+            "sent3": "His constant foreboding about the weather became a running joke among his friends.",
+            "sent4": "The silence in the room was a foreboding of the storm to come.",
+            "sent5": "The eerie silence in the haunted house gave a sense of foreboding to the visitors."
         },
         {
             "definition": "A sense of impending evil or misfortune.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The old mansion had an air of foreboding that sent shivers down my spine.",
+            "sent2": "The foreboding in the air made her feel uneasy.",
+            "sent3": "The foreboding in the movie added to the suspense and thrill.",
+            "sent4": "The foreboding in the atmosphere was palpable, as if something sinister was about to happen.",
+            "sent5": "The foreboding in the forest made it feel like a place of hidden dangers."
         },
         {
             "definition": "To have a strong inner feeling or notion of a future misfortune.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She foreboded that the project would not end well.",
+            "sent2": "He foreboded the outcome of the meeting and prepared himself for the worst.",
+            "sent3": "The fortune teller foreboded doom and gloom in his future.",
+            "sent4": "The howling wind foreboded a storm approaching.",
+            "sent5": "The sudden drop in temperature foreboded the onset of winter."
         }
     ]
 }

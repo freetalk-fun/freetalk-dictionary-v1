@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Morally good or just",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "Helping others is the right thing to do.",
+            "sent2": "She made the right decision by telling the truth.",
+            "sent3": "It's not right to take someone else's belongings without asking.",
+            "sent4": "His actions spoke louder than words, showing his right character.",
+            "sent5": "The right path is not always the easiest, but it is the most fulfilling."
         },
         {
             "definition": "A direction opposite to left",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Turn right at the corner to reach the park.",
+            "sent2": "The store is located on the right side of the street.",
+            "sent3": "I always get confused between left and right when giving directions.",
+            "sent4": "The treasure map led them to the right spot.",
+            "sent5": "The arrow pointed to the right, indicating the correct way to go."
         },
         {
             "definition": "A legal entitlement or permission",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "You have the right to remain silent during questioning.",
+            "sent2": "She inherited the right to the family estate.",
+            "sent3": "He lost his right to drive after getting too many speeding tickets.",
+            "sent4": "The document grants you the right to access the restricted area.",
+            "sent5": "As a citizen, you have the right to vote in elections."
         }
     ]
 }

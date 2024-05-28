@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Incorrect or misleading information given to someone.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "She received misadvices from her friend about the exam.",
+            "sent2": "The misadvices from the unreliable website led to confusion.",
+            "sent3": "The misadvices about the weather made everyone bring umbrellas on a sunny day.",
+            "sent4": "His misadvices were like a compass pointing in the wrong direction.",
+            "sent5": "The misadvices spread like wildfire, causing chaos among the students."
         },
         {
             "definition": "To give incorrect or misleading information to someone.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He misadvices his sister by telling her the wrong bus stop.",
+            "sent2": "She misadvices her colleagues by sharing false statistics.",
+            "sent3": "The mischievous student misadvices his classmates for a prank.",
+            "sent4": "The fake news misadvices the public, causing panic.",
+            "sent5": "The fortune teller misadvices her clients, leading them astray."
         }
     ]
 }

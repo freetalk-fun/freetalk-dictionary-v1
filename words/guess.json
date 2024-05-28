@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Estimate or suppose without sufficient information to be sure",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I will guess the number of candies in the jar.",
+            "sent2": "Can you guess what color the sky will be at sunset?",
+            "sent3": "I guess the cat thinks it's the boss of the house.",
+            "sent4": "She could only guess at the true meaning behind his words.",
+            "sent5": "Guessing the correct answer felt like solving a puzzle."
         },
         {
             "definition": "An opinion or conclusion reached without sufficient evidence or knowledge",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "His guess about the outcome of the game was completely wrong.",
+            "sent2": "What's your guess on who will win the talent show?",
+            "sent3": "My guess is that the missing sock is hiding in the dryer.",
+            "sent4": "Her guess that it would rain turned out to be accurate.",
+            "sent5": "The detective's guess led to the surprising solution of the case."
         }
     ]
 }

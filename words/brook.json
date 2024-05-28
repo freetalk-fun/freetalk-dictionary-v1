@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A small stream",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The children played by the brook, skipping stones and laughing.",
+            "sent2": "The brook flowed gently through the meadow, providing a peaceful soundtrack.",
+            "sent3": "The brook seemed to giggle as it danced over the pebbles in its path.",
+            "sent4": "The brook whispered secrets to the trees as it meandered through the forest.",
+            "sent5": "The brook's melody was a lullaby to the creatures that lived nearby."
         },
         {
             "definition": "To tolerate or allow",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I cannot brook any more excuses for your tardiness.",
+            "sent2": "She could not brook the injustice and spoke up against it.",
+            "sent3": "The teacher tried to brook the student's constant interruptions with a patient smile.",
+            "sent4": "His stubbornness was a wall she could not brook any longer.",
+            "sent5": "The boss would not brook any laziness in the workplace."
         },
         {
             "definition": "To put up with or endure",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She had to brook the pain of losing her beloved pet.",
+            "sent2": "He could not brook the thought of disappointing his family.",
+            "sent3": "The hiker had to brook the harsh weather conditions during the trek.",
+            "sent4": "They had to brook the long wait in line for the concert tickets.",
+            "sent5": "The soldier had to brook the fear and uncertainty of the battlefield."
         }
     ]
 }

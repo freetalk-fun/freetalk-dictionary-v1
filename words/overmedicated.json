@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Given an excessive amount of medication.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The overmedicated patient felt very sleepy.",
+            "sent2": "She was overmedicated and experienced side effects.",
+            "sent3": "The cat looked overmedicated after accidentally eating too many treats.",
+            "sent4": "The garden, overmedicated with fertilizer, grew wildly out of control.",
+            "sent5": "The overmedicated student struggled to stay awake during class."
         },
         {
             "definition": "Administered too much medication.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The doctor overmedicated the patient, causing complications.",
+            "sent2": "They were worried the nurse would overmedicate the elderly man.",
+            "sent3": "The robot accidentally overmedicated the entire town with cough syrup.",
+            "sent4": "The chef overmedicated the soup with salt, making it inedible.",
+            "sent5": "The coach warned the team not to overmedicate the injured player."
         }
     ]
 }

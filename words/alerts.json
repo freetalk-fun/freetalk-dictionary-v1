@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Warns or notifies someone of a potential danger or problem.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The loud siren alerts everyone to evacuate the building.",
+            "sent2": "The smoke alarm alerts us when there is a fire in the house.",
+            "sent3": "The barking dog alerts the family to unexpected visitors at the door.",
+            "sent4": "The flashing lights on the dashboard alerts the driver to check the engine.",
+            "sent5": "The weather app alerts you of an approaching storm with a loud notification."
         },
         {
             "definition": "A signal or sound that indicates a need for attention or action.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The phone alerts you with a ringing sound when you receive a call.",
+            "sent2": "The alarm clock alerts you to wake up in the morning.",
+            "sent3": "The doorbell alerts the homeowner that someone is at the front door.",
+            "sent4": "The car horn alerts pedestrians to move out of the way.",
+            "sent5": "The teacher's bell alerts students that class is about to begin."
         }
     ]
 }

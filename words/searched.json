@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Looked for information or an item by examining a place or searching through a database.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I searched through my backpack for my missing pencil.",
+            "sent2": "She searched the library for a book on dinosaurs.",
+            "sent3": "The detective searched for clues in the mysterious room.",
+            "sent4": "Her eyes searched the crowd for her lost friend.",
+            "sent5": "The explorer searched the jungle for hidden treasure."
         },
         {
             "definition": "Examined thoroughly in order to find something.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He searched the document for any errors before submitting it.",
+            "sent2": "The scientist searched the sample under the microscope.",
+            "sent3": "The chef searched for the perfect ingredients for his signature dish.",
+            "sent4": "The teacher searched the students' desks for the missing homework.",
+            "sent5": "The archaeologist searched the ancient ruins for artifacts."
         }
     ]
 }

@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "More desirable or suitable",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The blue shirt looks better on you.",
+            "sent2": "She thought the red dress looked better for the occasion.",
+            "sent3": "The cat thought the box looked better as a bed.",
+            "sent4": "The sun made the sky look better than any painting.",
+            "sent5": "The fresh flowers made the room look better instantly."
         },
         {
             "definition": "To improve or surpass",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "You can better your score with more practice.",
+            "sent2": "He wanted to better his skills in playing the guitar.",
+            "sent3": "The chef tried to better his recipe by adding more spices.",
+            "sent4": "She aimed to better her time in the next race.",
+            "sent5": "The team worked hard to better their performance for the championship."
         },
         {
             "definition": "To a greater degree or extent",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She can better understand the topic after studying more.",
+            "sent2": "The teacher explained the concept so the students could better grasp it.",
+            "sent3": "The detective tried to better solve the mystery with new clues.",
+            "sent4": "The athlete pushed himself to better his previous record.",
+            "sent5": "The scientist wanted to better explore the unknown depths of the ocean."
         }
     ]
 }

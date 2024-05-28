@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A building or room where goods or services are sold.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I went to the shop to buy some candy.",
+            "sent2": "The shop on the corner sells fresh bread every morning.",
+            "sent3": "The shop was so crowded that I couldn't even see the shelves properly.",
+            "sent4": "Her mind was a shop of memories, each item holding a different moment.",
+            "sent5": "The shop smelled of freshly baked cookies, drawing customers in from the street."
         },
         {
             "definition": "To visit a store or stores to browse or buy goods.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Let's shop for new shoes this weekend.",
+            "sent2": "She likes to shop for clothes online.",
+            "sent3": "I shop for groceries every Sunday like it's a fun adventure.",
+            "sent4": "His eyes shop the shelves, searching for the perfect gift.",
+            "sent5": "We shop for bargains at the flea market every month."
         },
         {
             "definition": "To work at a trade or craft.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He learned to shop wood to create beautiful furniture.",
+            "sent2": "She shops jewelry as a hobby and sells her creations online.",
+            "sent3": "The baker shops the dough with precision, creating perfect loaves every time.",
+            "sent4": "His words are carefully shopped to craft compelling stories.",
+            "sent5": "The artist shops clay into intricate sculptures, each piece unique and stunning."
         }
     ]
 }

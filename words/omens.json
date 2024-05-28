@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A phenomenon believed to foretell the future.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The black cat crossing my path was considered an omen of bad luck.",
+            "sent2": "The sudden rainstorm was seen as an omen of the upcoming harvest.",
+            "sent3": "The omen of a broken mirror made everyone laugh nervously.",
+            "sent4": "The howling wind outside was an omen of the coming storm.",
+            "sent5": "The eerie silence in the forest felt like an omen of something ominous."
         },
         {
             "definition": "A sign or warning of a future event.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Seeing a shooting star is often seen as an omen of good fortune.",
+            "sent2": "The dark clouds gathering on the horizon were considered an omen of a storm.",
+            "sent3": "The sudden appearance of a black cat was a playful omen of mischief.",
+            "sent4": "The flickering streetlight was an omen of the impending power outage.",
+            "sent5": "The owl hooting at night felt like an omen of mystery and magic."
         },
         {
             "definition": "To be a sign or warning of a future event.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The howling of the wolves ominously omens danger in the night.",
+            "sent2": "The sudden drop in temperature omens the arrival of winter.",
+            "sent3": "The creaking floorboard ominously omens the arrival of a mischievous ghost.",
+            "sent4": "The flickering candle omens the end of the evening's festivities.",
+            "sent5": "The distant thunder omens the approaching storm."
         }
     ]
 }

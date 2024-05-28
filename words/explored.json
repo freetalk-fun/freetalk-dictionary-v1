@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Investigated or traveled in (an unfamiliar area) in order to learn about it.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The brave explorer explored the dense jungle to find hidden treasures.",
+            "sent2": "She explored the old library to discover ancient books.",
+            "sent3": "The curious cat explored the empty box, hoping to find a new toy.",
+            "sent4": "Her mind explored the possibilities like a ship sailing through uncharted waters.",
+            "sent5": "The children excitedly explored the mysterious cave, eager to uncover its secrets."
         },
         {
             "definition": "Examined thoroughly; scrutinized.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The explored map revealed all the hidden details of the terrain.",
+            "sent2": "The explored document contained valuable information.",
+            "sent3": "The explored puzzle was missing a crucial piece.",
+            "sent4": "Her explored painting showcased intricate details.",
+            "sent5": "The explored room showed signs of a thorough search."
         },
         {
             "definition": "Searched for resources in (a place).",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The miners explored the mountain for precious minerals.",
+            "sent2": "She explored the forest for wild berries.",
+            "sent3": "The chef explored the market for fresh ingredients.",
+            "sent4": "His eyes explored the room, looking for any clues.",
+            "sent5": "The team explored the desert for signs of water sources."
         }
     ]
 }

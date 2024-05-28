@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A sound or series of sounds caused by the reflection of sound waves from a surface back to the listener.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The echo of his laughter bounced off the walls.",
+            "sent2": "I heard an echo of my voice in the empty cave.",
+            "sent3": "The echo of the music made the room feel alive.",
+            "sent4": "Her words were like an echo in my mind, repeating over and over.",
+            "sent5": "The echo of the thunder made the ground tremble."
         },
         {
             "definition": "To repeat or imitate someone or something.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She would echo his words to show agreement.",
+            "sent2": "The child liked to echo the sounds of animals.",
+            "sent3": "The parrot would echo everything the owner said.",
+            "sent4": "His actions seemed to echo those of his father.",
+            "sent5": "The mountains echoed the call of the eagle."
         },
         {
             "definition": "A close parallel or repetition of an idea, feeling, style, or event.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "There was an echo of sadness in her voice.",
+            "sent2": "The movie had an echo of a classic film from the past.",
+            "sent3": "The echo of his outfit matched his friend's.",
+            "sent4": "Her painting had an echo of Picasso's style.",
+            "sent5": "The speech had an echo of hope that inspired the audience."
         }
     ]
 }

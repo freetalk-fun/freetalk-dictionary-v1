@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To determine mathematically",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She computes the answer by adding the numbers together.",
+            "sent2": "The scientist computes the trajectory of the rocket.",
+            "sent3": "The student computes the solution to the math problem with ease.",
+            "sent4": "His mind computes complex equations like a powerful machine.",
+            "sent5": "The calculator computes the sum accurately every time."
         },
         {
             "definition": "To calculate",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He computes the total cost of the items in his shopping cart.",
+            "sent2": "The accountant computes the company's profits at the end of the year.",
+            "sent3": "The child computes how many candies he can buy with his pocket money.",
+            "sent4": "Her brain computes numbers quickly like a human calculator.",
+            "sent5": "The computer computes the result of the mathematical operation in seconds."
         },
         {
             "definition": "To process data using a computer",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The software computes the sales data to generate reports.",
+            "sent2": "The server computes the requests from multiple users simultaneously.",
+            "sent3": "The robot computes the information received from its sensors to navigate.",
+            "sent4": "The algorithm computes the optimal route for the delivery truck.",
+            "sent5": "The supercomputer computes complex simulations at incredible speeds."
         }
     ]
 }

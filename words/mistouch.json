@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To touch or handle (something) incorrectly or inappropriately.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She mistouches the fragile vase and it falls to the ground.",
+            "sent2": "Be careful not to mistouch the hot stove with your bare hands.",
+            "sent3": "He mistouched the painting, thinking it was a touch screen.",
+            "sent4": "Her mistouch on the piano keys created a discordant sound.",
+            "sent5": "The warning label reminded him not to mistouch the electrical wires."
         },
         {
             "definition": "A mistake or error in touching or handling something.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The mistouch of the button caused the machine to malfunction.",
+            "sent2": "She realized her mistouch when the sculpture broke into pieces.",
+            "sent3": "His mistouch of the remote control changed the channel unexpectedly.",
+            "sent4": "The mistouch on the touchpad led to an unintended selection.",
+            "sent5": "The artist's mistouch on the canvas left a visible smudge."
         }
     ]
 }

@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A necessary component or element of a whole.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The engine is an integrant of the car, without it, the car cannot run.",
+            "sent2": "The integrant of the recipe was the secret ingredient that made it so delicious.",
+            "sent3": "The puzzle piece was the missing integrant that completed the picture.",
+            "sent4": "Her smile was the integrant that brightened up the room.",
+            "sent5": "Water is an integrant of life, essential for survival."
         },
         {
             "definition": "A person or thing that integrates or is integrated into a larger unit.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The new student quickly became an integrant of the class, making friends easily.",
+            "sent2": "The intern was an integrant of the team, bringing fresh ideas to the project.",
+            "sent3": "The stray cat became an unexpected integrant of the household, charming everyone with its antics.",
+            "sent4": "His passion for music made him an integrant of the band, adding a unique sound to their performances.",
+            "sent5": "The seedling was an integrant of the garden, growing into a beautiful flower."
         },
         {
             "definition": "Forming an essential part of a whole.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The integrant piece completed the jigsaw puzzle, revealing the full picture.",
+            "sent2": "Her integrant role in the project ensured its success.",
+            "sent3": "The integrant flavor of the dish surprised and delighted the guests.",
+            "sent4": "His integrant presence at the meeting brought a sense of unity to the team.",
+            "sent5": "The integrant connection between the characters made the story compelling."
         }
     ]
 }

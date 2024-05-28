@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A person who defends someone or something.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The brave defender shielded his friend from bullies.",
+            "sent2": "The defender of the castle stood guard all night.",
+            "sent3": "The defender of the cookies was a sneaky raccoon.",
+            "sent4": "She was a fierce defender of justice, always fighting for what was right.",
+            "sent5": "The defender of the forest protected the animals with dedication."
         },
         {
             "definition": "A military or sports player who protects their team or goal.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The soccer defender blocked the opponent's shot.",
+            "sent2": "The defender intercepted the enemy's advance on the battlefield.",
+            "sent3": "The football defender accidentally scored a goal for the other team.",
+            "sent4": "In the game, he was a solid defender, never letting the ball get past him.",
+            "sent5": "The basketball defender was known for his quick reflexes and strong defense."
         },
         {
             "definition": "A device or system that protects against harm or unauthorized access.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The antivirus software acted as a defender against online threats.",
+            "sent2": "The security system served as a reliable defender of the house.",
+            "sent3": "The password manager was the digital defender of all her accounts.",
+            "sent4": "The firewall acted as a strong defender against cyber attacks.",
+            "sent5": "The encryption software was a powerful defender of sensitive information."
         }
     ]
 }

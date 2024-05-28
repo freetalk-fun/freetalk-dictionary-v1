@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Come into or be in contact with (something)",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I gently touch the soft petals of the flower.",
+            "sent2": "Please do not touch the hot stove.",
+            "sent3": "The mischievous kitten loves to touch everything with its paws.",
+            "sent4": "Her words touched my heart deeply.",
+            "sent5": "The sun's rays gently touch the surface of the water."
         },
         {
             "definition": "A physical sensation or contact with something",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The gentle touch of the breeze on my skin felt refreshing.",
+            "sent2": "His touch was warm and comforting.",
+            "sent3": "The touch of the ice cream on his tongue made him smile.",
+            "sent4": "Her touch was like a soothing balm to his soul.",
+            "sent5": "The touch of the velvet fabric was luxurious against her fingertips."
         },
         {
             "definition": "A small amount of something",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "She added a touch of cinnamon to the recipe.",
+            "sent2": "A touch of humor can make any situation better.",
+            "sent3": "The painting needed a touch of blue to complete it.",
+            "sent4": "His speech had a touch of sarcasm that made everyone laugh.",
+            "sent5": "The dish was perfect, just needed a touch of salt to enhance the flavor."
         }
     ]
 }

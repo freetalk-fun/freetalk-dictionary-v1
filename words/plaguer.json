@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A person or thing that plagues or causes trouble.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The noisy neighbor was a constant plaguer in our peaceful community.",
+            "sent2": "The mosquito, a tiny plaguer, kept buzzing around our heads all night.",
+            "sent3": "The mischievous squirrel became a playful plaguer, stealing nuts from the bird feeder.",
+            "sent4": "The broken air conditioner was a relentless plaguer during the scorching summer days.",
+            "sent5": "The leaky faucet, a persistent plaguer, dripped incessantly, driving us crazy."
         },
         {
             "definition": "To cause continual trouble or distress to.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The constant rain would plaguer the farmers, making it difficult to harvest their crops.",
+            "sent2": "The loud construction noise plaguered the residents, disrupting their peaceful afternoon.",
+            "sent3": "The mischievous cat would plaguer the dog by stealing its toys and hiding them in the garden.",
+            "sent4": "The haunting memories of the past would plaguer her dreams, leaving her restless at night.",
+            "sent5": "The persistent cough plaguered him for weeks, making it hard for him to speak clearly."
         }
     ]
 }

@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Come near or nearer to (someone or something) in distance or time.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The cat approaches the mouse slowly.",
+            "sent2": "The train approaches the station.",
+            "sent3": "The squirrel approaches the bird feeder cautiously.",
+            "sent4": "Night approaches like a silent predator.",
+            "sent5": "The storm approaches with dark clouds and thunder."
         },
         {
             "definition": "A way of dealing with a situation or problem.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "One of the approaches to studying is to take breaks.",
+            "sent2": "His approach to conflict resolution is to listen first.",
+            "sent3": "The unique approach to baking cookies involves using a hairdryer.",
+            "sent4": "Her approach to life is like a dance, full of twists and turns.",
+            "sent5": "The teacher's approach to teaching math makes it fun and easy to understand."
         },
         {
             "definition": "A road or way that leads to a place.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The narrow approach to the castle was lined with trees.",
+            "sent2": "The scenic approach to the beach was breathtaking.",
+            "sent3": "The secret approach to the hidden garden was through the old gate.",
+            "sent4": "The winding approach to the mountain peak was treacherous.",
+            "sent5": "The main approach to the city was bustling with traffic."
         }
     ]
 }

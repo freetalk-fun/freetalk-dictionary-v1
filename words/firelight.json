@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "The light emitted by a fire.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The cozy cabin was filled with the warm glow of firelight.",
+            "sent2": "We sat around the campfire, enjoying the flickering firelight.",
+            "sent3": "The mischievous cat chased the dancing firelight on the wall.",
+            "sent4": "In the darkness, the firelight became a beacon of safety.",
+            "sent5": "The firelight cast a magical spell over the room."
         },
         {
             "definition": "To illuminate with firelight.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She used a lantern to firelight the path through the forest.",
+            "sent2": "The fireplace firelighted the entire room with a warm glow.",
+            "sent3": "He accidentally firelighted the wrong end of the stick, causing a small fire.",
+            "sent4": "The setting sun firelighted the sky with vibrant colors.",
+            "sent5": "The bonfire firelighted the beach, creating a mesmerizing scene."
         }
     ]
 }

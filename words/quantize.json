@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To divide into small, uniform units.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I will quantize the candies into equal piles for each of you.",
+            "sent2": "The teacher asked the students to quantize the shapes into equal parts.",
+            "sent3": "I tried to quantize my time, but ended up spending too long on one task.",
+            "sent4": "Her laughter seemed to quantize the room, filling every corner with joy.",
+            "sent5": "The artist's brushstrokes quantized the canvas, creating a beautiful pattern."
         },
         {
             "definition": "To approximate a continuous function by a series of discrete values.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The scientist needed to quantize the data to make it easier to analyze.",
+            "sent2": "The digital signal processor will quantize the audio input for better sound quality.",
+            "sent3": "I tried to quantize my thoughts, but they kept flowing like a river.",
+            "sent4": "Her words seemed to quantize the complex emotions into simple expressions.",
+            "sent5": "The algorithm will quantize the image to reduce its file size without losing quality."
         }
     ]
 }

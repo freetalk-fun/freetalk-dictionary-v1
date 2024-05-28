@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A sudden explosive sound",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The pow of the fireworks startled the dog.",
+            "sent2": "I heard a loud pow coming from the fireworks display.",
+            "sent3": "The pow of the balloon popping made everyone jump.",
+            "sent4": "The pow of the thunder shook the windows.",
+            "sent5": "The pow of the explosion echoed through the valley."
         },
         {
             "definition": "To hit or strike with force",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He will pow the ball with all his might.",
+            "sent2": "She powed the nail into the wall with a hammer.",
+            "sent3": "The chef will pow the dough to make it flat.",
+            "sent4": "The waves pow against the rocks during the storm.",
+            "sent5": "The boxer will pow his opponent with a strong punch."
         },
         {
             "definition": "A comic book sound effect representing a punch or impact",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The comic book showed a pow when the hero punched the villain.",
+            "sent2": "In the comic, the pow indicated a powerful punch.",
+            "sent3": "The pow in the comic made the fight scene more exciting.",
+            "sent4": "The superhero's punch was accompanied by a loud pow.",
+            "sent5": "The sound effect pow added action to the comic book scene."
         }
     ]
 }

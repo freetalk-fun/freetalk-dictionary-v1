@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Wrecks (noun): the remains of something that has been severely damaged or destroyed",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The wrecks of the old ship lay scattered on the ocean floor.",
+            "sent2": "After the storm, the wrecks of houses were all that remained in the neighborhood.",
+            "sent3": "The kids pretended the sandcastle was a city of wrecks, destroyed by a giant monster.",
+            "sent4": "Her heart felt like a pile of wrecks after the breakup.",
+            "sent5": "The museum displayed the wrecks of ancient pottery, showcasing their beauty even in brokenness."
         },
         {
             "definition": "Wrecks (verb): causes severe damage to something or someone",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The reckless driver wrecks his car by crashing into a tree.",
+            "sent2": "The hurricane wrecks havoc on the small town, destroying homes and buildings.",
+            "sent3": "The mischievous puppy wrecks the living room, scattering toys everywhere.",
+            "sent4": "His careless words wrecks her confidence, leaving her feeling insecure.",
+            "sent5": "The strong winds wrecks the fragile umbrella, turning it inside out."
         }
     ]
 }

@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To be deprived of or cease to have possession of something.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She loses her favorite toy in the park.",
+            "sent2": "He loses his keys often and has to search for them.",
+            "sent3": "The magician loses his wand during the trick.",
+            "sent4": "The explorer loses his way in the dense jungle.",
+            "sent5": "The student loses her pencil in the classroom chaos."
         },
         {
             "definition": "To fail to win a game, competition, or battle.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The team loses the soccer match by one goal.",
+            "sent2": "She loses at chess but enjoys playing the game.",
+            "sent3": "The cat loses the race against the squirrel in the backyard.",
+            "sent4": "The knight loses the jousting tournament to his rival.",
+            "sent5": "He loses the card game but laughs at his bad luck."
         },
         {
             "definition": "To suffer loss or defeat.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The company loses money during the economic downturn.",
+            "sent2": "She loses the argument but gracefully accepts the outcome.",
+            "sent3": "The superhero loses the battle against the supervillain.",
+            "sent4": "The army loses the war but never gives up hope.",
+            "sent5": "He loses the bet but learns a valuable lesson."
         }
     ]
 }

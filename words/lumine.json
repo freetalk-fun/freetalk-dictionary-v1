@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To illuminate or light up.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The sun will lumine the sky at dawn.",
+            "sent2": "She used a flashlight to lumine the dark path.",
+            "sent3": "The fireflies lumine the garden like tiny lanterns.",
+            "sent4": "Her smile lumines the room with joy.",
+            "sent5": "The lighthouse lumines the coastline, guiding ships safely."
         },
         {
             "definition": "A source of light or illumination.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The candle served as a lumine during the power outage.",
+            "sent2": "The stars in the night sky provide a natural lumine.",
+            "sent3": "The lumine from the street lamps made the city feel cozy.",
+            "sent4": "Her laughter was a lumine in the dull room.",
+            "sent5": "The lumine of the full moon lit up the forest like a magical lantern."
         }
     ]
 }

@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "past tense of 'be'",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Yesterday, she was happy.",
+            "sent2": "He was playing with his toy car.",
+            "sent3": "The cat was pretending to be a lion.",
+            "sent4": "The old house was a silent witness to many stories.",
+            "sent5": "The sun was shining brightly in the sky."
         },
         {
             "definition": "existed or occurred in the past",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The wasp nest was abandoned.",
+            "sent2": "The was clock on the wall stopped.",
+            "sent3": "The was rainstorm left puddles everywhere.",
+            "sent4": "The was moon cast a soft glow over the landscape.",
+            "sent5": "The was tree stood tall and proud in the forest."
         }
     ]
 }

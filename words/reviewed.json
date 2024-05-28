@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Examine or assess something formally with the possibility or intention of instituting change if necessary.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I reviewed my homework before turning it in to make sure it was correct.",
+            "sent2": "The teacher reviewed the students' essays to provide feedback.",
+            "sent3": "After I reviewed my messy room, I decided it needed a major cleanup.",
+            "sent4": "She reviewed the budget carefully, looking for areas to cut expenses.",
+            "sent5": "The detective reviewed the evidence, searching for clues to solve the case."
         },
         {
             "definition": "Look over, study, or examine again.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He reviewed his notes before the exam to refresh his memory.",
+            "sent2": "The editor reviewed the manuscript for any errors before publishing.",
+            "sent3": "I reviewed the movie for the third time, noticing new details each viewing.",
+            "sent4": "The scientist reviewed the data repeatedly to ensure accuracy.",
+            "sent5": "The artist reviewed the sketch, making small adjustments to perfect it."
         }
     ]
 }

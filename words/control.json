@@ -3,19 +3,39 @@
     "meanings": [
         {
             "definition": "To have power over something or someone",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She can control the TV with the remote.",
+            "sent2": "The teacher needs to control the noisy classroom.",
+            "sent3": "The cat thinks it can control the laser pointer.",
+            "sent4": "His anger began to control his actions.",
+            "sent5": "The magician's wand seemed to control the cards effortlessly."
         },
         {
             "definition": "To manage or direct something",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He can control the traffic flow with hand signals.",
+            "sent2": "The coach must control the team during the game.",
+            "sent3": "The chef tried to control the unruly pot of boiling water.",
+            "sent4": "Her calm demeanor helped her control the situation.",
+            "sent5": "The conductor skillfully controlled the tempo of the music."
         },
         {
             "definition": "To regulate or restrain something",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Eating healthy helps control your weight.",
+            "sent2": "Parents need to control their children's screen time.",
+            "sent3": "The gate is there to control the flow of people.",
+            "sent4": "He struggled to control his laughter during the serious meeting.",
+            "sent5": "The thermostat helps control the temperature in the house."
         },
         {
             "definition": "A device used to operate or regulate a machine or system",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The remote control changes the TV channels.",
+            "sent2": "Make sure to keep the control panel clean.",
+            "sent3": "The video game controller is his favorite control.",
+            "sent4": "The steering wheel is an essential control in a car.",
+            "sent5": "The scientist adjusted the control to test the experiment."
         }
     ]
 }

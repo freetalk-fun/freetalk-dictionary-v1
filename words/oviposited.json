@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To deposit eggs",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The bird oviposited its eggs in the nest.",
+            "sent2": "The fish oviposited its eggs in the water.",
+            "sent3": "The chicken oviposited its eggs in the flowerpot by mistake.",
+            "sent4": "The spider oviposited its eggs in the unsuspecting prey.",
+            "sent5": "The lizard carefully oviposited its eggs in the warm sand."
         },
         {
             "definition": "To lay eggs",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The insect oviposited its eggs under a leaf.",
+            "sent2": "The turtle oviposited its eggs on the beach.",
+            "sent3": "The penguin oviposited its eggs on the icy slide for fun.",
+            "sent4": "The snake oviposited its eggs in the hidden burrow.",
+            "sent5": "The frog oviposited its eggs in the pond, creating new life."
         }
     ]
 }

@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Necessary for completeness; essential.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "Good communication is integral to a healthy relationship.",
+            "sent2": "Sleep is integral to our overall health and well-being.",
+            "sent3": "It's integral to remember your keys before leaving the house!",
+            "sent4": "Laughter is integral to a joyful life, like sunshine on a cloudy day.",
+            "sent5": "Water is integral to the survival of all living beings."
         },
         {
             "definition": "A whole unit; entire.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The car engine is an integral part of the vehicle.",
+            "sent2": "The team worked together as an integral to achieve success.",
+            "sent3": "The puzzle is missing an integral piece, making it impossible to complete.",
+            "sent4": "In a play, each actor is an integral, contributing to the story.",
+            "sent5": "The heart is an integral of the circulatory system, pumping blood throughout the body."
         },
         {
             "definition": "A mathematical concept representing the area under a curve.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "In calculus, finding the integral of a function is a common task.",
+            "sent2": "The integral of a curve can be calculated using various methods.",
+            "sent3": "The integral of the graph looked like a colorful rainbow.",
+            "sent4": "The integral of the equation revealed the total area enclosed by the curve.",
+            "sent5": "Understanding the concept of integral is crucial in advanced mathematics."
         }
     ]
 }

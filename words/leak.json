@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "(verb) To allow liquid or gas to escape through a hole or crack.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The water bottle started to leak after I accidentally dropped it.",
+            "sent2": "Be careful not to leak any information about the surprise party.",
+            "sent3": "The faucet decided to leak water all night, creating a mini indoor waterfall.",
+            "sent4": "Her eyes seemed to leak tears of joy as she hugged her long-lost friend.",
+            "sent5": "The balloon began to leak helium, slowly descending to the ground."
         },
         {
             "definition": "(noun) An unintended hole or crack that allows liquid or gas to escape.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "There was a leak in the roof, causing water to drip into the living room.",
+            "sent2": "The plumber fixed the leak under the sink to stop the water from spilling out.",
+            "sent3": "The detective followed the leak of clues that led to the hidden treasure.",
+            "sent4": "The leak in the boat threatened to sink it during the storm.",
+            "sent5": "The leak in the gas pipe was a serious safety hazard."
         },
         {
             "definition": "(adjective) Allowing liquid or gas to escape through a hole or crack.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The leaky faucet wasted a lot of water every day.",
+            "sent2": "The leaky roof caused water damage to the ceiling.",
+            "sent3": "The leaky balloon slowly lost its helium, floating closer to the ground.",
+            "sent4": "The leaky tire needed to be patched up before it went completely flat.",
+            "sent5": "The leaky pipe made a dripping sound that echoed in the empty house."
         }
     ]
 }

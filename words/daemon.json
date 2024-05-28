@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "An evil spirit or devil.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The villagers believed a daemon haunted the old castle.",
+            "sent2": "The book described the daemon as a malevolent being.",
+            "sent3": "The children told spooky stories about the daemon in the forest.",
+            "sent4": "The shadowy figure seemed like a daemon lurking in the darkness.",
+            "sent5": "The eerie howl echoed through the night, like a daemon's cry."
         },
         {
             "definition": "A guiding spirit or inner voice.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "She felt a daemon urging her to follow her dreams.",
+            "sent2": "His daemon whispered words of encouragement in his ear.",
+            "sent3": "The wise old man claimed his daemon always led him to the right path.",
+            "sent4": "Her intuition acted like a helpful daemon guiding her decisions.",
+            "sent5": "The comforting presence felt like a guardian daemon watching over her."
         },
         {
             "definition": "A computer program that runs in the background.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The daemon monitored the system's performance without interrupting the user.",
+            "sent2": "The IT specialist explained how the daemon optimized the server's resources.",
+            "sent3": "The sneaky virus disguised itself as a helpful daemon to infiltrate the network.",
+            "sent4": "The daemon silently worked behind the scenes to keep the software running smoothly.",
+            "sent5": "The efficient daemon efficiently managed the data processing tasks."
         }
     ]
 }

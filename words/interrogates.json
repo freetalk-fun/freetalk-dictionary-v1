@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To ask questions of (someone) in a thorough and often forceful way.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The detective interrogates the suspect to find out the truth.",
+            "sent2": "The police officer interrogates the witness about what they saw.",
+            "sent3": "The curious cat interrogates the new toy with its paws.",
+            "sent4": "The journalist interrogates the politician's statements for inconsistencies.",
+            "sent5": "The teacher interrogates the students to ensure they understand the lesson."
         },
         {
             "definition": "To question formally and systematically.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "During the trial, the lawyer interrogates the witness to gather evidence.",
+            "sent2": "The committee interrogates the applicant to assess their qualifications.",
+            "sent3": "The robot interrogates the data to identify patterns and trends.",
+            "sent4": "The scientist interrogates the results of the experiment for any anomalies.",
+            "sent5": "The historian interrogates the documents to uncover hidden details of the past."
         }
     ]
 }

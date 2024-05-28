@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "The location where someone lives or can be reached.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "My friend's address is 123 Main Street.",
+            "sent2": "I need to send a letter to her address.",
+            "sent3": "The address on the package was smudged, so it went to the wrong house!",
+            "sent4": "Her address is like a beacon, guiding lost travelers to her home.",
+            "sent5": "The address, like a secret code, unlocked the mystery of his whereabouts."
         },
         {
             "definition": "To speak to or write to someone.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She addresses the audience with confidence.",
+            "sent2": "I will address the issue with my boss tomorrow.",
+            "sent3": "The cat addresses meow to get my attention.",
+            "sent4": "His words addressed my concerns directly.",
+            "sent5": "The teacher addresses each student's questions patiently."
         },
         {
             "definition": "To deal with or discuss a particular topic.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The meeting will address the budget concerns.",
+            "sent2": "Let's address the elephant in the room.",
+            "sent3": "The comedian addresses serious issues with humor.",
+            "sent4": "The book addresses the complexities of human emotions.",
+            "sent5": "The team addresses the challenges together to find solutions."
         }
     ]
 }

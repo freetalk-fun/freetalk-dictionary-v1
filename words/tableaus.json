@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A picturesque grouping of persons or objects",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The artist painted beautiful tableaus of nature.",
+            "sent2": "The museum displayed stunning tableaus of historical events.",
+            "sent3": "At the art show, the tableaus seemed to come alive.",
+            "sent4": "Her garden was like a series of tableaus, each more enchanting than the last.",
+            "sent5": "The photographer captured the essence of the city in his tableaus."
         },
         {
             "definition": "A striking scene or picture",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The sunset created a breathtaking tableau in the sky.",
+            "sent2": "The movie ended with a dramatic tableau of the main characters.",
+            "sent3": "The tableau of colors in the painting was mesmerizing.",
+            "sent4": "The stormy sea presented a tableau of nature's power.",
+            "sent5": "The tableau of city lights at night was truly magical."
         },
         {
             "definition": "A representation of a picture or scene in a book, play, etc.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The author's words painted vivid tableaus in the reader's mind.",
+            "sent2": "The play's final tableau left the audience in awe.",
+            "sent3": "The tableau in the book was so detailed, it felt like being there.",
+            "sent4": "The tableau of the battle scene was so realistic, it felt like a movie.",
+            "sent5": "The tableau of the forest in the story was so descriptive, it felt like a walk in the woods."
         }
     ]
 }

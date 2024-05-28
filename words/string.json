@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A thin piece of cord or twine used for tying or attaching things together.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I tied the package with a string.",
+            "sent2": "The beads were strung together on a string.",
+            "sent3": "The cat played with the string, thinking it was a toy.",
+            "sent4": "The string of lights illuminated the garden like a constellation.",
+            "sent5": "The string snapped under the weight of the books."
         },
         {
             "definition": "A series of items or events connected or related in some way.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The clues formed a string of evidence.",
+            "sent2": "The string of numbers revealed a pattern.",
+            "sent3": "The string of coincidences was too much to ignore.",
+            "sent4": "The string of victories boosted their morale.",
+            "sent5": "The string of pearls adorned her neck elegantly."
         },
         {
             "definition": "To fit a string to (a musical instrument) in order to tune it.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He carefully strung the guitar before the performance.",
+            "sent2": "She strings the violin with precision every time.",
+            "sent3": "The musician accidentally strung the instrument backward.",
+            "sent4": "His words were like notes strung together in a beautiful melody.",
+            "sent5": "She strung the harp, creating a harmonious sound."
         }
     ]
 }

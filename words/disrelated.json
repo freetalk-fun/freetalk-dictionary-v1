@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To have no connection or relation",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The two stories are disrelated and do not share any characters or plot points.",
+            "sent2": "She disrelated the events of the day to her friend, emphasizing their lack of connection.",
+            "sent3": "The cat and the umbrella were disrelated in the strange dream she had last night.",
+            "sent4": "Her thoughts and emotions seemed disrelated, like pieces of a puzzle from different sets.",
+            "sent5": "The disrelated nature of the two paintings made it hard to believe they were created by the same artist."
         },
         {
             "definition": "Not related or connected",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The disrelated books on the shelf had no common theme or genre.",
+            "sent2": "His disrelated comments during the meeting confused everyone in the room.",
+            "sent3": "The disrelated colors of her outfit clashed in a surprisingly fashionable way.",
+            "sent4": "The disrelated branches of the tree intertwined in a beautiful, chaotic pattern.",
+            "sent5": "The disrelated shapes in the abstract painting seemed to dance independently on the canvas."
         },
         {
             "definition": "To be unrelated or unconnected",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The new evidence disrelated the suspect from the crime scene.",
+            "sent2": "He disrelated his current project from his previous work to avoid any confusion.",
+            "sent3": "The disrelated topics in the conversation jumped from cats to space travel in seconds.",
+            "sent4": "Her mind disrelated the images she saw, creating a surreal and disjointed dream.",
+            "sent5": "The disrelated melodies in the song clashed in a strangely harmonious way."
         }
     ]
 }

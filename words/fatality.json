@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "An occurrence of death caused by accident or disease.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The car crash resulted in a fatality.",
+            "sent2": "The doctor confirmed the fatality of the patient.",
+            "sent3": "The fatality of the situation was evident in the somber atmosphere.",
+            "sent4": "The fatality of the disease spread quickly through the community.",
+            "sent5": "The fatality of the accident left a lasting impact on the community."
         },
         {
             "definition": "The quality of causing death or disaster.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The toxicity of the substance posed a fatality risk.",
+            "sent2": "The hurricane's strength led to widespread fatality.",
+            "sent3": "The fatality of the situation was a harsh reality check.",
+            "sent4": "The fatality of the decision was clear in its consequences.",
+            "sent5": "The fatality of the virus spread alarm among the population."
         },
         {
             "definition": "A person who has died in a particular accident or disaster.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The rescue team searched for any survivors among the fatalities.",
+            "sent2": "The news reported the names of the fatalities in the plane crash.",
+            "sent3": "The fatality of the character in the movie shocked the audience.",
+            "sent4": "The fatality of the victim was a tragic loss for the family.",
+            "sent5": "The fatality of the incident left a void in the community."
         }
     ]
 }

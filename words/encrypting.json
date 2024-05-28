@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Convert (information or data) into a code, especially to prevent unauthorized access.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She was encrypting her messages to keep them safe from hackers.",
+            "sent2": "The software developer is encrypting sensitive information to protect it from cyber attacks.",
+            "sent3": "The spy tried encrypting his grocery list, just in case the vegetables were top secret.",
+            "sent4": "Her love for him was like encrypting her heart, guarding it from prying eyes.",
+            "sent5": "The magician performed a trick by encrypting the card's location in the deck."
         },
         {
             "definition": "The process of converting information or data into a code, especially to prevent unauthorized access.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The encrypting of the files was crucial for maintaining data security.",
+            "sent2": "We learned about encrypting in our cybersecurity class to understand its importance.",
+            "sent3": "The encrypting of the treasure map made the pirate adventure even more exciting.",
+            "sent4": "In the digital age, encrypting is like putting a secret lock on your information.",
+            "sent5": "The encrypting of the ancient scroll revealed hidden messages from the past."
         }
     ]
 }

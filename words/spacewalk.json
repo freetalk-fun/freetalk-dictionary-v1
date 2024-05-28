@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "An excursion outside a spacecraft by an astronaut.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "During the spacewalk, the astronaut floated in space.",
+            "sent2": "The astronaut completed a successful spacewalk yesterday.",
+            "sent3": "The spacewalk turned into a thrilling adventure when the astronaut saw a shooting star.",
+            "sent4": "The astronaut's spacewalk was like a dance in the vastness of space.",
+            "sent5": "The spacewalk allowed the astronaut to experience the beauty of the universe up close."
         },
         {
             "definition": "To perform a spacewalk.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The astronaut will spacewalk to repair the satellite.",
+            "sent2": "She spacewalked outside the spacecraft to fix the solar panels.",
+            "sent3": "The astronaut decided to spacewalk while humming a tune.",
+            "sent4": "He spacewalked gracefully, like a ballet dancer in zero gravity.",
+            "sent5": "Spacewalking requires careful planning and precise movements to stay safe in space."
         }
     ]
 }

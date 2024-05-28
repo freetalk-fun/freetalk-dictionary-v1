@@ -3,19 +3,39 @@
     "meanings": [
         {
             "definition": "To examine closely or quickly",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She scans the book for her favorite chapter.",
+            "sent2": "The security guard scans each bag before allowing entry.",
+            "sent3": "He scans the room for hidden treasures like a detective.",
+            "sent4": "Her eyes scan the horizon for any signs of movement.",
+            "sent5": "The teacher scans the students' faces to check for understanding."
         },
         {
             "definition": "To analyze systematically by breaking down into components",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He scans the data to identify patterns and trends.",
+            "sent2": "The scientist scans the DNA sequence for mutations.",
+            "sent3": "The detective scans the crime scene for clues to solve the mystery.",
+            "sent4": "She scans the financial report to understand the company's performance.",
+            "sent5": "The researcher scans the survey results to draw meaningful conclusions."
         },
         {
             "definition": "A quick look or examination",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "She takes a quick scan of the room before entering.",
+            "sent2": "The manager does a scan of the documents to find the error.",
+            "sent3": "His scan of the menu helps him decide what to order.",
+            "sent4": "The student does a scan of the textbook to find the relevant information.",
+            "sent5": "A scan of the crowd reveals familiar faces."
         },
         {
             "definition": "A medical procedure using imaging technology to create a visual representation of the inside of the body",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The doctor orders a scan to diagnose the patient's condition.",
+            "sent2": "She undergoes a scan to check for any internal injuries.",
+            "sent3": "The scan shows a detailed image of the brain's structure.",
+            "sent4": "He schedules a scan to monitor the progress of the treatment.",
+            "sent5": "The scan provides a clear picture of the problem areas in the body."
         }
     ]
 }

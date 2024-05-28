@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A program that processes source code before it is compiled",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The preprocessor helped organize the code before compiling it.",
+            "sent2": "The software developer used a preprocessor to optimize the code.",
+            "sent3": "The preprocessor and the compiler had a race to see who finishes first.",
+            "sent4": "The preprocessor acted like a diligent assistant, preparing the code for compilation.",
+            "sent5": "Using the preprocessor made the coding process much smoother."
         },
         {
             "definition": "A tool that modifies code before it is executed",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Before running the program, the preprocessor made necessary changes to the code.",
+            "sent2": "The preprocessor ensured that the code was ready for execution.",
+            "sent3": "The preprocessor and the code had a friendly chat before running the program.",
+            "sent4": "The preprocessor was like a magician, transforming the code before execution.",
+            "sent5": "The preprocessor's role was crucial in ensuring the code ran smoothly."
         }
     ]
 }

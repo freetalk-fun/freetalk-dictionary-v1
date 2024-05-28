@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To compel or force someone to do something",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The teacher constrains the students to complete their homework on time.",
+            "sent2": "The law constrains citizens to follow certain rules for safety.",
+            "sent3": "The playful puppy constrains its owner to play fetch by bringing the ball repeatedly.",
+            "sent4": "The storm constrains the river to overflow its banks, causing flooding in the area.",
+            "sent5": "The strict schedule constrains me to finish my work efficiently."
         },
         {
             "definition": "To restrict or limit someone or something",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Financial constraints constrain our ability to travel to exotic destinations.",
+            "sent2": "Time constraints often constrain our ability to complete tasks within a set timeframe.",
+            "sent3": "The old bridge constrains the flow of traffic due to its narrow lanes.",
+            "sent4": "Fear can constrain our minds, preventing us from exploring new opportunities.",
+            "sent5": "The small budget constrains our options for upgrading our equipment."
         }
     ]
 }

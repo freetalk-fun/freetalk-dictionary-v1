@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Happened as an effect or outcome.",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "The storm resulted in flooding in the town.",
+            "sent2": "The test scores resulted in happy faces all around.",
+            "sent3": "The unexpected party resulted in a lot of laughter.",
+            "sent4": "Her hard work resulted in a well-deserved promotion.",
+            "sent5": "The new recipe resulted in a delicious meal for the family."
         },
         {
             "definition": "Came about as a consequence.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Skipping breakfast resulted in a growling stomach later.",
+            "sent2": "Not studying enough resulted in a low grade on the exam.",
+            "sent3": "His forgetfulness resulted in a missed opportunity.",
+            "sent4": "The delay in the flight resulted in a missed connection.",
+            "sent5": "Ignoring the warning signs resulted in a dangerous situation."
         },
         {
             "definition": "Ended in a particular way.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The movie had a well-resulted ending that left everyone satisfied.",
+            "sent2": "The project had a poorly-resulted outcome due to lack of planning.",
+            "sent3": "The game had an unexpectedly-resulted finish that surprised everyone.",
+            "sent4": "The negotiation had a peacefully-resulted resolution that pleased both parties.",
+            "sent5": "The day had a perfectly-resulted conclusion with a beautiful sunset."
         }
     ]
 }

@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A written account of something that has happened.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I keep a record of all the books I have read.",
+            "sent2": "The record for the longest jump was broken yesterday.",
+            "sent3": "My dog tried to eat my homework, leaving teeth marks all over the record.",
+            "sent4": "Her laughter echoed through the room, a record of her joy.",
+            "sent5": "The record of his kindness will always be remembered."
         },
         {
             "definition": "The best performance or achievement in a particular sport or activity.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "She holds the record for the fastest sprint in our school.",
+            "sent2": "Breaking the world record in swimming is a dream for many athletes.",
+            "sent3": "The squirrel set a new record for acorn gathering in the park.",
+            "sent4": "His dedication to his craft set a new record for excellence.",
+            "sent5": "The record of her dance routine left the audience in awe."
         },
         {
             "definition": "To set down in writing or some other permanent form for later reference.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I will record the meeting minutes for everyone to review.",
+            "sent2": "She likes to record her thoughts in a journal every night.",
+            "sent3": "The parrot learned to record a few words after hearing them repeatedly.",
+            "sent4": "His smile was recorded in the family album for future generations to see.",
+            "sent5": "The artist decided to record the beauty of the sunset on canvas."
         }
     ]
 }

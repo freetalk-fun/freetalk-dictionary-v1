@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Make (something needed or wanted) available to someone; provide.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I will supply the tools for the project.",
+            "sent2": "The store will supply fresh fruits and vegetables.",
+            "sent3": "The magician asked the rabbit to supply a deck of cards.",
+            "sent4": "Her smile supplied warmth to the room.",
+            "sent5": "The sun supplies light to the earth every day."
         },
         {
             "definition": "A stock or amount of something available for use.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The army has a large supply of ammunition.",
+            "sent2": "The school cafeteria has a supply of snacks for the students.",
+            "sent3": "The squirrel's supply of acorns was hidden in the tree.",
+            "sent4": "Her laughter was a never-ending supply of joy.",
+            "sent5": "The treasure chest held a supply of gold coins."
         },
         {
             "definition": "The action of providing something.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The supply of blankets to the homeless was appreciated.",
+            "sent2": "The supply of water to the village was crucial.",
+            "sent3": "The supply of jokes at the party kept everyone entertained.",
+            "sent4": "Her supply of kindness never ran out.",
+            "sent5": "The supply of books in the library was vast."
         }
     ]
 }

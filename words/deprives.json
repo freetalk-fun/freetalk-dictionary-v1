@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To take something away from someone",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The bully deprives the kids of their lunch money.",
+            "sent2": "The thief deprives the store of its valuable items.",
+            "sent3": "The mischievous squirrel deprives the birds of their seeds.",
+            "sent4": "The storm deprives the town of electricity.",
+            "sent5": "The strict teacher deprives the students of recess."
         },
         {
             "definition": "To prevent someone from having or enjoying something",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The locked door deprives us of entering the room.",
+            "sent2": "The rain deprives us of having a picnic in the park.",
+            "sent3": "The broken swing deprives the children of fun at the playground.",
+            "sent4": "The traffic jam deprives us of reaching our destination on time.",
+            "sent5": "The noise outside deprives us of a peaceful sleep."
         }
     ]
 }

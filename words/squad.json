@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A small group of people working together as a unit.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Our squad played soccer together every weekend.",
+            "sent2": "The squad of friends went on a hike in the forest.",
+            "sent3": "The squad decided to have a picnic in the park.",
+            "sent4": "The squad of birds flew in perfect formation across the sky.",
+            "sent5": "The squad of ants worked tirelessly to build their nest."
         },
         {
             "definition": "A unit of police officers or soldiers.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The police squad patrolled the neighborhood at night.",
+            "sent2": "The soldier's squad trained hard for the upcoming mission.",
+            "sent3": "The squad of officers stopped for donuts on their break.",
+            "sent4": "The squad of soldiers marched in perfect sync during the parade.",
+            "sent5": "The SWAT squad was called in for a high-risk operation."
         }
     ]
 }

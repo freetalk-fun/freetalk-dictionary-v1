@@ -3,23 +3,48 @@
     "meanings": [
         {
             "definition": "A visible mass of condensed water vapor floating in the atmosphere.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The fluffy cloud drifted lazily across the sky.",
+            "sent2": "Look at that big, white cloud in the sky!",
+            "sent3": "The cloud seemed to be playing hide and seek with the sun.",
+            "sent4": "Her thoughts were like a cloud, constantly changing and shifting.",
+            "sent5": "The storm cloud loomed ominously over the horizon."
         },
         {
             "definition": "A mass of smoke, dust, or steam.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The dark cloud of smoke billowed from the factory chimney.",
+            "sent2": "The cloud of dust made it hard to see ahead.",
+            "sent3": "The cloud of steam from the kettle smelled like tea.",
+            "sent4": "The cloud of smoke enveloped the entire room.",
+            "sent5": "The cloud of dust settled on everything in the room."
         },
         {
             "definition": "A large number of insects or birds flying together.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "A cloud of birds filled the sky during migration.",
+            "sent2": "The cloud of insects darkened the summer sky.",
+            "sent3": "The cloud of birds looked like a moving painting.",
+            "sent4": "The cloud of insects buzzed loudly as they flew by.",
+            "sent5": "The cloud of birds created intricate patterns in the sky."
         },
         {
             "definition": "To cover or obscure with clouds.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The smoke began to cloud the room, making it hard to see.",
+            "sent2": "Her tears started to cloud her vision.",
+            "sent3": "His anger would cloud his judgment in such situations.",
+            "sent4": "The doubt would cloud her mind, making it hard to focus.",
+            "sent5": "The steam from the pot would cloud the kitchen windows."
         },
         {
             "definition": "To become obscured or less clear.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "His memory would cloud as he grew older.",
+            "sent2": "The future of the project started to cloud over.",
+            "sent3": "Her excitement would cloud her ability to think logically.",
+            "sent4": "The truth began to cloud as more lies were told.",
+            "sent5": "The situation would cloud his understanding of what was happening."
         }
     ]
 }

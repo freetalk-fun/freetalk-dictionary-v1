@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A condition in which a machine or system is not operating at full capacity.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The computer system experienced an underload due to the lack of incoming data.",
+            "sent2": "The factory's underload caused delays in production.",
+            "sent3": "The underload in the vending machine made it seem like it was taking a nap.",
+            "sent4": "The underload in the car engine felt like a missed opportunity for speed.",
+            "sent5": "The underload in the refrigerator made it seem like it was on vacation."
         },
         {
             "definition": "To provide less work or responsibility than is necessary or desired.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The teacher decided to underload the students with fewer assignments this week.",
+            "sent2": "The manager chose to underload the team to avoid burnout.",
+            "sent3": "The chef underloaded the apprentice with simple tasks to build confidence.",
+            "sent4": "She felt underloaded with free time after finishing her work early.",
+            "sent5": "The company decided to underload the employees during the slow season."
         }
     ]
 }

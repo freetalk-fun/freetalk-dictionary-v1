@@ -3,23 +3,48 @@
     "meanings": [
         {
             "definition": "Away from a place or position",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "She ran off quickly.",
+            "sent2": "He walked off the stage.",
+            "sent3": "The squirrel hopped off the tree and onto the ground.",
+            "sent4": "The balloon floated off into the sky.",
+            "sent5": "The bird flew off into the distance."
         },
         {
             "definition": "Not operating or functioning",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The broken clock is off.",
+            "sent2": "The lights were off in the abandoned house.",
+            "sent3": "The sleepy robot turned off for a nap.",
+            "sent4": "The old car engine sputtered off for the last time.",
+            "sent5": "The TV screen flickered off suddenly."
         },
         {
             "definition": "Cancel or discontinue",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "They had to put off the meeting.",
+            "sent2": "She decided to call off the trip.",
+            "sent3": "The magician tried to pull off a disappearing act.",
+            "sent4": "The coach had to pull off the game due to bad weather.",
+            "sent5": "He managed to stave off the cancellation with a convincing argument."
         },
         {
             "definition": "Incorrect or inaccurate",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The off answer was marked wrong.",
+            "sent2": "His off prediction led to confusion.",
+            "sent3": "The off map caused them to get lost.",
+            "sent4": "The off measurements resulted in a failed experiment.",
+            "sent5": "The off timing made the whole plan fall apart."
         },
         {
             "definition": "To remove or take away",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She tried to brush off the dirt.",
+            "sent2": "He managed to shake off the pursuer.",
+            "sent3": "The wind blew off the fallen leaves.",
+            "sent4": "The chef had to cut off the spoiled parts of the fruit.",
+            "sent5": "The detective peeled off the old wallpaper to reveal a hidden message."
         }
     ]
 }

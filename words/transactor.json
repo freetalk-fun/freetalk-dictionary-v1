@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A person who carries out a transaction.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The transactor handed over the money in exchange for the goods.",
+            "sent2": "The bank clerk processed the transaction made by the transactor.",
+            "sent3": "The transactor accidentally paid with Monopoly money, causing confusion.",
+            "sent4": "She was a skilled transactor, navigating deals with ease and precision.",
+            "sent5": "The transactor's role was crucial in ensuring the smooth exchange of goods."
         },
         {
             "definition": "To engage in a transaction.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I will transact with the seller to purchase the item.",
+            "sent2": "The business partners decided to transact online for convenience.",
+            "sent3": "He transacted quickly, almost like a professional speed shopper.",
+            "sent4": "The deal was transacted under the watchful eye of the auctioneer.",
+            "sent5": "She transacted the trade with a firm handshake and a smile."
         }
     ]
 }

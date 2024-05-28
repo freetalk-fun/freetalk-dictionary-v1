@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Estimate or determine the magnitude, amount, or volume of something.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She tried to gauge the weight of the box by lifting it.",
+            "sent2": "He used a ruler to gauge the length of the table.",
+            "sent3": "The cat tried to gauge the height of the counter, but it couldn't reach.",
+            "sent4": "Her smile helped him gauge her happiness.",
+            "sent5": "The teacher used a gauge to measure the students' understanding."
         },
         {
             "definition": "Measure the dimensions, capacity, or quantity of something.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He needed to gauge the depth of the pool before diving in.",
+            "sent2": "The tailor used a tape measure to gauge the size of the fabric.",
+            "sent3": "The chef had to gauge the amount of salt carefully to avoid oversalting.",
+            "sent4": "She could gauge the distance between the trees by eye.",
+            "sent5": "The scientist used a gauge to measure the temperature of the liquid."
         },
         {
             "definition": "A device for measuring or indicating a quantity.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The fuel gauge in the car showed a full tank.",
+            "sent2": "She checked the tire pressure using a gauge.",
+            "sent3": "The old clock had a beautiful brass gauge on its face.",
+            "sent4": "The weather gauge predicted a storm was coming.",
+            "sent5": "The pressure gauge on the machine helped monitor the levels."
         }
     ]
 }

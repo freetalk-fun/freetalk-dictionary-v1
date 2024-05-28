@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Each of two or more values of a variable that divide a frequency distribution into equal groups.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "In statistics, quantiles help us understand how data is spread out in different groups.",
+            "sent2": "The teacher explained that the quantiles divide the data into equal parts for analysis.",
+            "sent3": "The quantiles at the party were the students who arrived early and those who came late.",
+            "sent4": "Just like a traffic light, quantiles signal where the data should stop and where it should go.",
+            "sent5": "Visualizing quantiles is like cutting a cake into equal slices to share among friends."
         },
         {
             "definition": "A value of a variable that divides the distribution of the variable into equal groups.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The median is a type of quantile that splits the data into two equal parts.",
+            "sent2": "Researchers use quantiles to analyze how the variable is distributed among different groups.",
+            "sent3": "At the picnic, the quantile of sandwiches was quickly devoured by hungry guests.",
+            "sent4": "The quantile acted as a referee, ensuring fair play in the distribution of resources.",
+            "sent5": "Imagine quantiles as markers that divide the data landscape into equal territories."
         }
     ]
 }

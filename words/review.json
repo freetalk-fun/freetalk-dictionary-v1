@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To examine or assess something formally with the possibility or intention of instituting change if necessary.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I need to review my notes before the test.",
+            "sent2": "She will review the report before submitting it.",
+            "sent3": "The detective decided to review the suspect's alibi.",
+            "sent4": "Let's review our progress before making any decisions.",
+            "sent5": "It's important to review the safety procedures regularly."
         },
         {
             "definition": "A formal assessment or examination of something with the possibility or intention of instituting change if necessary.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The manager conducted a review of the company's finances.",
+            "sent2": "We have a quarterly review of our performance at work.",
+            "sent3": "The movie critic's review was harsh but fair.",
+            "sent4": "The annual review highlighted areas for improvement.",
+            "sent5": "Attending the product review helped me understand its features better."
         }
     ]
 }

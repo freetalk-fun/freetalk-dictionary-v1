@@ -3,15 +3,21 @@
     "meanings": [
         {
             "definition": "To form fibrils or small fibers",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The caterpillar fibrillated silk to build its cocoon.",
+            "sent2": "The plant fibrillated new roots to absorb water from the soil.",
+            "sent3": "The artist's paintbrush fibrillated colorful strokes on the canvas.",
+            "sent4": "Her fingers fibrillated intricate patterns on the piano keys.",
+            "sent5": "The spider fibrillated a delicate web to catch its prey."
         },
         {
             "definition": "To undergo fibrillation",
-            "pos": "verb"
-        },
-        {
-            "definition": "Having fibrils or small fibers",
-            "pos": "adjective"
+            "pos": "verb",
+            "sent1": "His heart fibrillated irregularly during the stress test.",
+            "sent2": "The electrical circuit fibrillated and caused a power outage.",
+            "sent3": "The old radio fibrillated with static before finally playing music.",
+            "sent4": "The engine fibrillated before coming to a sudden stop.",
+            "sent5": "The dancer's movements fibrillated gracefully to the music."
         }
     ]
 }

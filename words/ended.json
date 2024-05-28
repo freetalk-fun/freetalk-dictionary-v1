@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To come to a stop; cease",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The movie finally ended, and everyone clapped.",
+            "sent2": "The car ride ended when we arrived at the park.",
+            "sent3": "The game of tag ended abruptly when it started raining.",
+            "sent4": "The argument ended with a hug, surprising everyone.",
+            "sent5": "The music ended with a dramatic flourish, leaving the audience in awe."
         },
         {
             "definition": "To reach a conclusion or resolution",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The meeting ended with a decision to postpone the project.",
+            "sent2": "After hours of discussion, they finally ended the debate.",
+            "sent3": "The story ended with a twist that no one saw coming.",
+            "sent4": "Their friendship ended on a sour note, but they both moved on.",
+            "sent5": "The negotiation ended with a compromise that satisfied both parties."
         },
         {
             "definition": "To be completed or finished",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The puzzle ended up missing a piece, so we couldn't finish it.",
+            "sent2": "The book ended on a cliffhanger, leaving readers eager for the sequel.",
+            "sent3": "The day ended with a beautiful sunset over the horizon.",
+            "sent4": "The project ended ahead of schedule, much to everyone's surprise.",
+            "sent5": "The race ended in a photo finish, with the winner by a nose."
         }
     ]
 }

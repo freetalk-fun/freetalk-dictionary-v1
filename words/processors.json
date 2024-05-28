@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A person or thing that processes something.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The processors at the factory work hard to package the products.",
+            "sent2": "The food processors in the kitchen help chop vegetables quickly.",
+            "sent3": "The processors in the office took a break and went for a walk.",
+            "sent4": "Her mind worked like a set of processors, analyzing every detail.",
+            "sent5": "The processors in the brain help us make sense of the world around us."
         },
         {
             "definition": "A machine or device that processes data.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The computer processors are essential for running programs smoothly.",
+            "sent2": "The payment processors securely handle online transactions.",
+            "sent3": "The processors in the server had a little party when no one was looking.",
+            "sent4": "The information flowed through the processors like a river of data.",
+            "sent5": "The powerful processors in the new smartphone make it lightning fast."
         }
     ]
 }

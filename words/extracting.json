@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To remove or take out (something) from a place",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She was extracting the toy from the box.",
+            "sent2": "The dentist was extracting the tooth carefully.",
+            "sent3": "He tried extracting the joke from the situation.",
+            "sent4": "The detective was extracting the truth from the suspect.",
+            "sent5": "The chef was extracting the flavors from the spices."
         },
         {
             "definition": "To obtain (a substance or resource) from a material",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The miners were extracting coal from the mine.",
+            "sent2": "They were extracting oil from the ground.",
+            "sent3": "She was extracting laughter from the audience.",
+            "sent4": "The artist was extracting beauty from the canvas.",
+            "sent5": "The bees were extracting nectar from the flowers."
         },
         {
             "definition": "To derive or obtain (information) from a source",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The researcher was extracting data from the survey.",
+            "sent2": "They were extracting knowledge from the books.",
+            "sent3": "He was extracting humor from the situation.",
+            "sent4": "The journalist was extracting truth from the interviews.",
+            "sent5": "The students were extracting wisdom from the teacher."
         }
     ]
 }

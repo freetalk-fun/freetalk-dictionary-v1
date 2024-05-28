@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Fall behind in movement, progress, or development.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The tired runner lagged behind the others during the race.",
+            "sent2": "The student always lagged behind in completing his homework assignments.",
+            "sent3": "The snail lagged behind the group, taking its time to reach the finish line.",
+            "sent4": "The old car lagged behind, struggling to keep up with the faster vehicles on the highway.",
+            "sent5": "As the hikers climbed the mountain, the inexperienced ones lagged behind, gasping for breath."
         },
         {
             "definition": "A delay or interval between events or processes.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "There was a lagged response from the audience after the comedian's joke.",
+            "sent2": "The lagged delivery of the package caused inconvenience to the recipient.",
+            "sent3": "The lagged arrival of the bus made the passengers anxious about reaching their destination on time.",
+            "sent4": "The lagged start of the meeting led to a rushed discussion at the end.",
+            "sent5": "The lagged loading of the webpage frustrated the user who was waiting to access the information."
         },
         {
             "definition": "To cover or wrap with insulation material.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The workers lagged the pipes to prevent heat loss in the building.",
+            "sent2": "It is important to lag the attic to keep the house warm during winter.",
+            "sent3": "The handyman decided to lag the water heater to improve its energy efficiency.",
+            "sent4": "The sailors lagged the ship's hull to protect it from the cold ocean water.",
+            "sent5": "The construction crew will lag the walls to maintain the temperature inside the warehouse."
         }
     ]
 }

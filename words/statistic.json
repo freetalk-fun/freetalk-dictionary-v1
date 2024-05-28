@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A numerical fact or datum, especially one computed from a sample.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The statistic showed that 80% of students prefer apples over oranges.",
+            "sent2": "The statistic revealed that the average temperature in July is 85 degrees.",
+            "sent3": "I heard a statistic that said people with more birthdays live longer.",
+            "sent4": "The statistic was a beacon of truth in a sea of uncertainty.",
+            "sent5": "The vivid statistic painted a clear picture of the situation."
         },
         {
             "definition": "A single item in a statistical study.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "In the survey, each participant was considered a statistic.",
+            "sent2": "The statistic represented a crucial data point in the analysis.",
+            "sent3": "The statistic walked into the bar and asked for a mean drink.",
+            "sent4": "She stood out like a statistic in a set of random numbers.",
+            "sent5": "The statistic stood tall among the other data points."
         }
     ]
 }

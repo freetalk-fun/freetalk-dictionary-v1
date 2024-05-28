@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To treat unfairly or deceitfully",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He felt shafted when his friend took credit for his idea.",
+            "sent2": "She knew she was being shafted by the salesman with false promises.",
+            "sent3": "The cat felt shafted when the dog got a bigger treat.",
+            "sent4": "The students felt shafted when the teacher gave extra credit to only a few.",
+            "sent5": "Being shafted by a close friend can hurt deeply."
         },
         {
             "definition": "A long, narrow part or section",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The arrow had a sharp shaft that flew straight.",
+            "sent2": "The shaft of light illuminated the dark room.",
+            "sent3": "The shaft of the key fit perfectly into the lock.",
+            "sent4": "The elevator descended down the shaft smoothly.",
+            "sent5": "The miner descended into the dark shaft to extract coal."
         },
         {
             "definition": "To equip with a shaft",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The blacksmith shafted the arrowheads for the archers.",
+            "sent2": "The mechanic shafted the engine with precision.",
+            "sent3": "The chef shafted the skewers with meat for the barbecue.",
+            "sent4": "The carpenter shafted the handle onto the tool.",
+            "sent5": "The craftsman shafted the spear for battle."
         }
     ]
 }

@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A future event or circumstance that is possible but cannot be predicted with certainty.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "We made a plan for any unexpected contingency.",
+            "sent2": "The company had to prepare for every possible contingency.",
+            "sent3": "The party planner thought of every contingency, even a sudden rainstorm.",
+            "sent4": "Life is full of unexpected contingencies that keep us on our toes.",
+            "sent5": "Preparing for every contingency is key to a successful project."
         },
         {
             "definition": "A provision for an unforeseen event or circumstance.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Always have a backup contingency in case of emergencies.",
+            "sent2": "The insurance policy included a contingency for natural disasters.",
+            "sent3": "The chef had a funny contingency plan in case the main dish burned.",
+            "sent4": "Having a contingency is like having a safety net in uncertain times.",
+            "sent5": "The contingency fund saved the day when unexpected expenses arose."
         },
         {
             "definition": "Dependent on chance or uncertain conditions.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The success of the mission was contingent on the weather.",
+            "sent2": "Her happiness was contingent upon the approval of others.",
+            "sent3": "The cat's cooperation was contingent on receiving treats.",
+            "sent4": "Their friendship was contingent on mutual trust and respect.",
+            "sent5": "The outcome was contingent on a series of fortunate events."
         }
     ]
 }

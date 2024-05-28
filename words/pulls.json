@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To exert force on (someone or something) so as to cause movement towards oneself.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She pulls the door open to go outside.",
+            "sent2": "He pulls the wagon up the hill.",
+            "sent3": "The cat pulls the string, trying to catch the toy at the end.",
+            "sent4": "The magnet pulls the metal paperclips towards it.",
+            "sent5": "The strong wind pulls the leaves off the tree branches."
         },
         {
             "definition": "To draw or haul towards oneself or itself, in a particular direction, or into a particular position.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I pull the curtains closed before going to bed.",
+            "sent2": "The fisherman pulls the net out of the water.",
+            "sent3": "The child pulls the blanket over their head to hide.",
+            "sent4": "The tractor pulls the heavy load behind it effortlessly.",
+            "sent5": "The gardener pulls the weeds out of the flower bed."
         },
         {
             "definition": "A force drawing something in a particular direction.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The strong pull of the magnet attracts the metal objects.",
+            "sent2": "The gravitational pull of the Earth keeps us grounded.",
+            "sent3": "The magnetic pull of the north pole affects compass needles.",
+            "sent4": "The irresistible pull of the ocean waves draws surfers in.",
+            "sent5": "The magnetic pull of the fridge keeps the door closed."
         }
     ]
 }

@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Move or orient towards or away from light.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The plant phototaxes towards the sunlight for energy.",
+            "sent2": "The insects phototaxes away from the bright flashlight.",
+            "sent3": "The sunflower phototaxes towards the window, thinking it's the sun.",
+            "sent4": "The moth phototaxes towards the porch light, mistaking it for the moon.",
+            "sent5": "The seedling phototaxes towards the open sky, reaching for the light."
         },
         {
             "definition": "The movement or orientation of an organism in response to light.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The phototaxes of the sunflower help it grow towards the sun.",
+            "sent2": "The fish's phototaxes guide it to deeper waters when the sun is too bright.",
+            "sent3": "The cat's phototaxes make it follow the sunbeam around the room.",
+            "sent4": "The bird's phototaxes lead it to the feeder every morning at sunrise.",
+            "sent5": "The plant's phototaxes are evident as it leans towards the window for light."
         }
     ]
 }

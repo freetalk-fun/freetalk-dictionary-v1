@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A person who leases property from a lessee.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The sublessee rented the apartment from the main renter.",
+            "sent2": "The sublessee signed a contract to rent the office space.",
+            "sent3": "The sublessee was thrilled to find a cozy home to rent.",
+            "sent4": "The sublessee was like a temporary tenant in the building.",
+            "sent5": "The sublessee quickly settled into the new rental property."
         },
         {
             "definition": "To lease property to a sublessee.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The landlord decided to sublessee the apartment to a new tenant.",
+            "sent2": "She subleased her studio to a sublessee for the summer.",
+            "sent3": "He subleases his parking spot to a sublessee who works nearby.",
+            "sent4": "The company subleases office space to sublessees looking for short-term rentals.",
+            "sent5": "They sublessee the warehouse to businesses in need of storage space."
         }
     ]
 }

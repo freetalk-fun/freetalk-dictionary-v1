@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A numerical or constant factor in algebraic expressions.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "In the equation, the coefficient of x is 5.",
+            "sent2": "She calculated the coefficient of the variable correctly.",
+            "sent3": "The coefficient of y seemed to be playing hide and seek in the math problem.",
+            "sent4": "The coefficient of the unknown factor unlocked the solution to the equation.",
+            "sent5": "The teacher explained the coefficient as the magical number that helps solve equations."
         },
         {
             "definition": "A measure of the relationship between two variables.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The coefficient showed how the variables were connected.",
+            "sent2": "Researchers analyzed the coefficient to understand the correlation.",
+            "sent3": "The coefficient between the number of hours studied and the test score was surprising.",
+            "sent4": "The coefficient acted as a bridge between the two variables, revealing their link.",
+            "sent5": "The coefficient was like a detective, uncovering the hidden connection between the data points."
         },
         {
             "definition": "A value representing a property or characteristic of a substance or material.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The coefficient of thermal expansion indicated how a material responds to heat.",
+            "sent2": "Engineers use the coefficient to predict the behavior of materials.",
+            "sent3": "The coefficient of elasticity in the rubber band made it stretchy.",
+            "sent4": "The coefficient of conductivity determined how well the material transmitted electricity.",
+            "sent5": "The coefficient was like a fingerprint, unique to each substance and revealing its nature."
         }
     ]
 }

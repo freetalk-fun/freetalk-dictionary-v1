@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "An amount equal to half of a whole",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I ate only half of the cookie.",
+            "sent2": "She cut the sandwich in half to share with her friend.",
+            "sent3": "The cat knocked over the vase, spilling water everywhere. It was a half-hearted attempt at playing.",
+            "sent4": "His smile was only half genuine, hiding his true feelings.",
+            "sent5": "The sun set, casting half the sky in a warm orange glow."
         },
         {
             "definition": "One of two equal parts of something",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "He took one half of the pizza, leaving the other half for his sister.",
+            "sent2": "The team celebrated their victory, each player receiving a half of the trophy.",
+            "sent3": "The magician's trick involved pulling a rabbit out of a hat, but only half of the rabbit appeared.",
+            "sent4": "The old house was split in half by the lightning strike, revealing a hidden room.",
+            "sent5": "The mirror reflected only half of her face, creating an eerie effect."
         },
         {
             "definition": "To divide into two equal parts",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She will half the cake so that everyone gets a fair share.",
+            "sent2": "The teacher asked the students to half the apples among themselves.",
+            "sent3": "The mischievous squirrel tried to half the acorn, but ended up dropping it.",
+            "sent4": "The chef carefully halved the recipe to make a smaller portion.",
+            "sent5": "The river seemed to half the forest, creating a natural divide."
         }
     ]
 }

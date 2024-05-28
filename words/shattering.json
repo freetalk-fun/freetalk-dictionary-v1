@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To break or smash into pieces",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The glass vase fell, shattering into tiny shards.",
+            "sent2": "The earthquake caused buildings to shatter, shattering windows and walls.",
+            "sent3": "The clumsy clown juggled plates, shattering them one by one.",
+            "sent4": "Her voice echoed through the empty hall, shattering the silence.",
+            "sent5": "The hammer hit the mirror, shattering it instantly."
         },
         {
             "definition": "Causing great emotional or physical damage",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The news of the accident was shattering to the family.",
+            "sent2": "The loss of her favorite toy was shattering for the little girl.",
+            "sent3": "The comedian's jokes were so bad, they were almost shattering.",
+            "sent4": "The storm left a shattering impact on the small town.",
+            "sent5": "The teacher's harsh words had a shattering effect on the student."
         },
         {
             "definition": "The act of breaking into pieces",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The shattering of the glass could be heard from across the room.",
+            "sent2": "The shattering of the plate startled everyone in the restaurant.",
+            "sent3": "The loud shattering interrupted the peaceful atmosphere of the library.",
+            "sent4": "The shattering of the window was followed by a cold draft.",
+            "sent5": "The sudden shattering caught everyone by surprise."
         }
     ]
 }

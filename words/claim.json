@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "State or assert that something is the case without providing evidence or proof.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She claimed the last cookie without showing any proof.",
+            "sent2": "He always claims he is right, even when he's not sure.",
+            "sent3": "The cat claimed ownership of the entire house, including the dog's bed.",
+            "sent4": "The storm claimed the old tree in the backyard, leaving only a stump behind.",
+            "sent5": "The detective claimed to have solved the case, but no one believed him without evidence."
         },
         {
             "definition": "Demand or assert one's right to something.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The workers claimed better pay for their hard work.",
+            "sent2": "She claimed her seat on the bus by placing her bag on it.",
+            "sent3": "The toddler claimed all the toys in the playroom as his own.",
+            "sent4": "The champion claimed victory after a long and hard-fought match.",
+            "sent5": "The pirate captain claimed the treasure chest as his rightful prize."
         },
         {
             "definition": "A statement that something is true or a fact.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "His claim that he saw a UFO was met with skepticism.",
+            "sent2": "The insurance company processed her claim for the stolen car.",
+            "sent3": "The parrot's claim to be the best talker in the house amused everyone.",
+            "sent4": "The artist's claim that his painting represented the essence of love was intriguing.",
+            "sent5": "The explorer's claim of discovering a new species of butterfly spread quickly among scientists."
         }
     ]
 }

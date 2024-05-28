@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Stay where one is or delay action until a particular time or event.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I am waiting for the bus to arrive.",
+            "sent2": "She is waiting patiently for her turn.",
+            "sent3": "The cat is waiting for the mouse to come out of its hole.",
+            "sent4": "The flowers are waiting for the rain to quench their thirst.",
+            "sent5": "The students are waiting eagerly for the bell to ring."
         },
         {
             "definition": "The action of staying where one is or delaying action until a particular time or event.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The waiting in line at the amusement park was long.",
+            "sent2": "There was a sense of anticipation in the waiting room.",
+            "sent3": "The waiting for the cake to bake seemed endless.",
+            "sent4": "The waiting for the results of the test was nerve-wracking.",
+            "sent5": "The waiting for the train was filled with excitement."
         }
     ]
 }

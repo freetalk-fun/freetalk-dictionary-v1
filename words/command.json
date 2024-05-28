@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "An authoritative order or instruction.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The general issued a command to his troops.",
+            "sent2": "She followed the command to stop at the red light.",
+            "sent3": "The cat ignored my command to come inside.",
+            "sent4": "His presence had a commanding effect on the room.",
+            "sent5": "The teacher's command was clear and direct."
         },
         {
             "definition": "Control over someone or something.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The king had complete command over his kingdom.",
+            "sent2": "The pilot had command of the aircraft during the flight.",
+            "sent3": "The toddler's command over the toys was impressive.",
+            "sent4": "She had a commanding presence that demanded respect.",
+            "sent5": "The captain's command of the situation saved the day."
         },
         {
             "definition": "The ability to control or dominate.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The dictator's command over the country was absolute.",
+            "sent2": "The CEO had command over the company's direction.",
+            "sent3": "The magician's command over the audience was mesmerizing.",
+            "sent4": "Her command of the situation was unmatched.",
+            "sent5": "The general's command on the battlefield was unwavering."
         }
     ]
 }

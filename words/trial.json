@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A formal examination of evidence before a judge and typically a jury, in order to decide guilt in a criminal case or liability in a civil case.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "During the trial, the lawyers presented their arguments in court.",
+            "sent2": "The trial lasted for several weeks before a verdict was reached.",
+            "sent3": "At the trial, the judge accidentally spilled coffee on important documents, causing a brief commotion.",
+            "sent4": "Her life felt like a never-ending trial, with challenges at every turn.",
+            "sent5": "The intensity of the trial made it a memorable experience for all involved."
         },
         {
             "definition": "A test of the performance, qualities, or suitability of someone or something.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The new software went through a trial to ensure it met quality standards.",
+            "sent2": "She faced a trial of strength when trying to lift the heavy box.",
+            "sent3": "The trial of the new recipe resulted in a delicious meal for the family.",
+            "sent4": "Life can be a trial of patience, testing our ability to wait for things to improve.",
+            "sent5": "The trial of the athlete's skills impressed the judges and audience alike."
         },
         {
             "definition": "A difficult or troubling experience.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Going through a trial of illness can be emotionally draining.",
+            "sent2": "The loss of a loved one is a trial that many people face in their lives.",
+            "sent3": "Despite the trial of setbacks, she remained determined to succeed.",
+            "sent4": "The trial of climbing the steep mountain tested his physical endurance.",
+            "sent5": "The trial of facing fears can lead to personal growth and strength."
         }
     ]
 }

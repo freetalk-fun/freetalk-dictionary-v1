@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A group of things of the same kind that are held or tied together",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I picked a bunch of flowers from the garden.",
+            "sent2": "She carried a bunch of keys on her keychain.",
+            "sent3": "The bunch of balloons floated away in the sky.",
+            "sent4": "The stars formed a bunch in the night sky.",
+            "sent5": "The bunch of bananas looked ripe and delicious."
         },
         {
             "definition": "A group of people or things",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "A bunch of students gathered in the schoolyard.",
+            "sent2": "The bunch of grapes was sweet and juicy.",
+            "sent3": "The bunch of puppies played happily in the park.",
+            "sent4": "The bunch of books on the shelf caught my eye.",
+            "sent5": "We saw a bunch of birds flying in formation."
         },
         {
             "definition": "To gather into a bunch",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I need to bunch up the curtains to let more light in.",
+            "sent2": "She decided to bunch her hair into a ponytail.",
+            "sent3": "The kids tried to bunch up the fallen leaves for fun.",
+            "sent4": "He managed to bunch the wires neatly behind the desk.",
+            "sent5": "The fabric will bunch if you pull it too tightly."
         }
     ]
 }

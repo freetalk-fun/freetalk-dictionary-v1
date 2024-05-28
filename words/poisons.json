@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A substance that is capable of causing illness or death when ingested, inhaled, or absorbed.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The bottle labeled 'poisons' should be kept away from children.",
+            "sent2": "She researched different types of poisons for her mystery novel.",
+            "sent3": "The chef accidentally added poisons instead of spices to the soup!",
+            "sent4": "His words were like poisons, slowly eroding her self-confidence.",
+            "sent5": "The bright red color of the berries warned of their poisons."
         },
         {
             "definition": "To administer poison to (a person or animal) with intent to kill.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The evil villain plotted to poisons the king's drink.",
+            "sent2": "He poisons the rats in the barn to keep them away from the crops.",
+            "sent3": "The mischievous cat tried to poisons the dog's water bowl.",
+            "sent4": "The toxic relationship slowly poisons his mind with doubt.",
+            "sent5": "The rumors began to poisons the atmosphere of trust in the office."
         }
     ]
 }

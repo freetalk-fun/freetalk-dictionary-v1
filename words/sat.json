@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "past tense of sit",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Yesterday, I sat on the chair.",
+            "sent2": "She sat down to rest after a long walk.",
+            "sent3": "The cat sat on the keyboard, making it impossible to work.",
+            "sent4": "The sun slowly sat behind the mountains, painting the sky in hues of orange.",
+            "sent5": "The old man sat by the fireplace, reminiscing about his youth."
         },
         {
             "definition": "to have taken a seat",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I sat next to my friend at the movie theater.",
+            "sent2": "The children sat quietly during storytime at the library.",
+            "sent3": "The dog sat on the couch like a human, watching TV.",
+            "sent4": "The moonlight sat gently on the surface of the lake, creating a serene atmosphere.",
+            "sent5": "She sat on the park bench, enjoying the warm sunshine on her face."
         },
         {
             "definition": "to be in a position of rest or remain in a place",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The book sat on the shelf for years, untouched.",
+            "sent2": "The abandoned house sat silently at the end of the street.",
+            "sent3": "The puzzle pieces sat scattered on the table, waiting to be put together.",
+            "sent4": "The unanswered question sat heavily on his mind, causing him to lose sleep.",
+            "sent5": "The old tree sat proudly in the middle of the meadow, a symbol of strength and endurance."
         }
     ]
 }

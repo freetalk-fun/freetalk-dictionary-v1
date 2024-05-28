@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A skill that is part of a larger skill set.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "In basketball, dribbling is a crucial subskill of the overall game.",
+            "sent2": "Learning to read is an important subskill for academic success.",
+            "sent3": "His ability to juggle while riding a unicycle is a unique subskill.",
+            "sent4": "Her talent for remembering names is a subskill that sets her apart.",
+            "sent5": "Mastering basic math operations is a fundamental subskill for higher-level math."
         },
         {
             "definition": "To develop a specific skill within a broader skill set.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She decided to subskill in painting within her art studies.",
+            "sent2": "He is subskilling in coding to enhance his programming abilities.",
+            "sent3": "I subskill in baking cookies whenever I need a break from work.",
+            "sent4": "They are subskilling in public speaking to boost their confidence.",
+            "sent5": "Subskilling in photography has opened up new creative opportunities for her."
         }
     ]
 }

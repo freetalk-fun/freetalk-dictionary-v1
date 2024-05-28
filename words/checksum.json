@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A digit representing the sum of the correct digits in data, used to detect errors in data transmission or storage.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The checksum of the file helped identify the error in the data transfer.",
+            "sent2": "Make sure to verify the checksum before proceeding with the data transmission.",
+            "sent3": "The checksum was like a detective searching for errors in the data.",
+            "sent4": "The checksum acted as a vigilant guardian, protecting the data from errors.",
+            "sent5": "The checksum was the data's trustworthy error detector."
         },
         {
             "definition": "A value used to verify the integrity of data.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "She double-checked the checksum to ensure the data's integrity.",
+            "sent2": "The checksum confirmed that the data had not been altered.",
+            "sent3": "The checksum was like a loyal companion, always ensuring the data's integrity.",
+            "sent4": "The checksum stood as a symbol of trustworthiness in the data world.",
+            "sent5": "The checksum was the data's faithful guardian of integrity."
         }
     ]
 }

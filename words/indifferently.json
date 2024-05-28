@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Without interest or concern",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "She looked at the painting indifferently.",
+            "sent2": "The student completed the assignment indifferently.",
+            "sent3": "The cat watched the dog play indifferently.",
+            "sent4": "The old house stood indifferently in the storm.",
+            "sent5": "The flower bloomed indifferently in the garden."
         },
         {
             "definition": "Without bias or preference",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The judge made a decision indifferently.",
+            "sent2": "The survey was conducted indifferently.",
+            "sent3": "The weather app predicted rain indifferently.",
+            "sent4": "The scale measured weight indifferently.",
+            "sent5": "The machine sorted items indifferently."
         },
         {
             "definition": "In a way that shows a lack of emotion or enthusiasm",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "He answered the question indifferently.",
+            "sent2": "She shrugged indifferently at the news.",
+            "sent3": "The robot danced indifferently to the music.",
+            "sent4": "The wind blew indifferently through the trees.",
+            "sent5": "The clock ticked indifferently in the silent room."
         }
     ]
 }

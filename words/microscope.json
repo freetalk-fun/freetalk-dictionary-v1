@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "An optical instrument used for viewing objects that are too small to be seen by the naked eye.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Through the microscope, I saw tiny cells moving around.",
+            "sent2": "Scientists use a microscope to study bacteria and viruses.",
+            "sent3": "The microscope revealed a hidden world of minuscule creatures.",
+            "sent4": "Her eyes were like microscopes, noticing every small detail.",
+            "sent5": "The microscope magnified the intricate patterns on the butterfly's wings."
         },
         {
             "definition": "To examine or analyze something in great detail.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I need to microscope this data to understand it better.",
+            "sent2": "Let's microscope the evidence to find any inconsistencies.",
+            "sent3": "He tends to microscope every situation, making it more complicated.",
+            "sent4": "She likes to microscope every word in the book, searching for deeper meanings.",
+            "sent5": "Microscoping the painting, she noticed brushstrokes she had never seen before."
         }
     ]
 }

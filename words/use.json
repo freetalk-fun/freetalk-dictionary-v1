@@ -3,19 +3,39 @@
     "meanings": [
         {
             "definition": "To employ for some purpose",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I use my pen to write letters.",
+            "sent2": "She uses a hammer to fix things around the house.",
+            "sent3": "The cat tried to use a pillow as a toy.",
+            "sent4": "He can use his charm to win people over.",
+            "sent5": "Using a map can help you find your way."
         },
         {
             "definition": "The act of using",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The use of a computer is essential for work.",
+            "sent2": "Proper use of tools is important for safety.",
+            "sent3": "Her creative use of colors made the painting stand out.",
+            "sent4": "The use of metaphors can enhance writing.",
+            "sent5": "The use of technology has revolutionized communication."
         },
         {
             "definition": "Advantage or benefit",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Eating fruits has many health uses.",
+            "sent2": "The use of sunscreen protects your skin from the sun.",
+            "sent3": "His quick thinking was a great use in the emergency.",
+            "sent4": "The use of teamwork led to success in the project.",
+            "sent5": "Regular exercise has numerous uses for overall well-being."
         },
         {
             "definition": "Habit or custom",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The use of saying 'please' and 'thank you' is polite.",
+            "sent2": "In their culture, the use of bowing is a sign of respect.",
+            "sent3": "His use of wearing a hat indoors always makes people smile.",
+            "sent4": "The use of family traditions creates a sense of belonging.",
+            "sent5": "The use of celebrating birthdays is common in many countries."
         }
     ]
 }

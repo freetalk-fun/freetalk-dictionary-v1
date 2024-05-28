@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A person or company that sends goods to be sold by another.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The consigner shipped the products to the store for sale.",
+            "sent2": "The consigner dropped off the items at the auction house.",
+            "sent3": "The consigner accidentally sent a box of socks instead of shoes.",
+            "sent4": "The consigner was like a silent partner in the sales process.",
+            "sent5": "The consigner carefully selected the best items to send for auction."
         },
         {
             "definition": "To send or deliver goods to be sold by another.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She consignered her handmade crafts to the local shop.",
+            "sent2": "He consigners his artwork to galleries around the city.",
+            "sent3": "The consigner quickly consignered the antique furniture before the move.",
+            "sent4": "They consigner their surplus stock to online retailers.",
+            "sent5": "The consigner consigners the goods with great attention to detail."
         }
     ]
 }

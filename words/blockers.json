@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A person or thing that obstructs or prevents something from happening.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The blockers on the road caused a traffic jam.",
+            "sent2": "The tall fence acted as a blocker to keep the dogs in the yard.",
+            "sent3": "The blockers at the checkout counter made the customers wait longer.",
+            "sent4": "Her stubbornness was a blocker to any compromise in the negotiation.",
+            "sent5": "The huge boulder was an immovable blocker in the path of the hikers."
         },
         {
             "definition": "A substance or device that blocks the passage of something.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The sunblock lotion is a necessary blocker for UV rays.",
+            "sent2": "The firewall software acts as a blocker against cyber threats.",
+            "sent3": "The blocker in the drain prevented the water from flowing smoothly.",
+            "sent4": "The dam serves as a blocker to control the river's flow.",
+            "sent5": "The air filter is an essential blocker to keep dust out of the room."
         },
         {
             "definition": "A player in sports who prevents the opposing team from scoring.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The football team's blockers protected the quarterback during the play.",
+            "sent2": "The basketball player acted as a blocker to stop the opponent's shot.",
+            "sent3": "The soccer goalie accidentally became a blocker for his own team's goal.",
+            "sent4": "The hockey goalie was a solid blocker against the opponent's shots.",
+            "sent5": "The volleyball player was a skilled blocker at the net, stopping many spikes."
         }
     ]
 }

@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Remove or obliterate (something) by striking or crossing out.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I need to delete the wrong answer from my paper.",
+            "sent2": "Please delete the extra line in the document.",
+            "sent3": "I accidentally hit delete and now my whole paragraph is gone!",
+            "sent4": "Her anger seemed to delete any chance of a peaceful resolution.",
+            "sent5": "The eraser can delete mistakes on paper."
         },
         {
             "definition": "To remove or erase (something) from a computer or electronic device.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Don't forget to delete the old files from the computer.",
+            "sent2": "You can delete the email after you read it.",
+            "sent3": "I tried to delete the virus, but it kept coming back!",
+            "sent4": "The delete button on the keyboard is very handy.",
+            "sent5": "Deleting unnecessary files can free up space on your device."
         }
     ]
 }

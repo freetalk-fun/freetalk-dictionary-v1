@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "The unlawful premeditated killing of one human being by another.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The murder of the poor man shocked the entire town.",
+            "sent2": "The detective solved the murder case after months of investigation.",
+            "sent3": "The murder of the cake was a result of the clumsy baker's mistake.",
+            "sent4": "The weeds in the garden committed murder on the beautiful flowers.",
+            "sent5": "The horror movie depicted a gruesome murder scene that left viewers terrified."
         },
         {
             "definition": "To kill (someone) unlawfully and with premeditation.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The criminal planned to murder his rival in cold blood.",
+            "sent2": "The assassin was hired to murder the politician before the election.",
+            "sent3": "The chef accidentally murdered the recipe by adding too much salt.",
+            "sent4": "The storm clouds seemed to murder the sunlight, casting a dark shadow.",
+            "sent5": "The evil queen ordered her guards to murder anyone who opposed her rule."
         },
         {
             "definition": "To spoil or mar something.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The rain threatened to murder our picnic plans.",
+            "sent2": "Leaving the milk out in the sun will murder its freshness.",
+            "sent3": "The clumsy painter managed to murder the beautiful mural with a single brushstroke.",
+            "sent4": "The loud music seemed to murder the peaceful atmosphere of the library.",
+            "sent5": "The harsh criticism felt like a verbal murder of the author's work."
         }
     ]
 }

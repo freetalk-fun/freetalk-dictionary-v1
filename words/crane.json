@@ -3,19 +3,39 @@
     "meanings": [
         {
             "definition": "A large bird with a long neck and legs, typically found near water.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The graceful crane flew over the lake.",
+            "sent2": "I saw a crane standing by the river.",
+            "sent3": "The crane waded through the shallow water, looking for fish.",
+            "sent4": "The crane's elegant movements inspired the artist.",
+            "sent5": "The crane's call echoed across the wetlands."
         },
         {
             "definition": "A machine used for lifting and moving heavy objects by suspending them from a projecting arm or beam.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The construction crew used a crane to lift the steel beams.",
+            "sent2": "The crane operator carefully maneuvered the load into place.",
+            "sent3": "The crane's hook dangled like a fishing line in the air.",
+            "sent4": "The crane's mechanical arm reached out like a giant hand.",
+            "sent5": "The crane's motor hummed as it hoisted the cargo."
         },
         {
             "definition": "To stretch out one's body or neck in order to see something better.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I had to crane my neck to see the stage over the tall person in front of me.",
+            "sent2": "She craned her neck to catch a glimpse of the parade.",
+            "sent3": "The curious cat craned its neck to peer into the box.",
+            "sent4": "He craned his neck like a giraffe to see the top shelf.",
+            "sent5": "The child craned his neck to see the fireworks above the crowd."
         },
         {
             "definition": "A mechanical device with a long arm used for lifting and moving heavy objects.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The factory installed a new crane to improve efficiency.",
+            "sent2": "The warehouse used a crane to unload the shipment.",
+            "sent3": "The crane's hydraulic system operated smoothly during the lift.",
+            "sent4": "The crane's steel arm extended to reach the highest shelf.",
+            "sent5": "The crane's pulley system made lifting heavy loads easier."
         }
     ]
 }

@@ -3,19 +3,39 @@
     "meanings": [
         {
             "definition": "The area or distance between two points.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The mountain range was beautiful to see.",
+            "sent2": "The hikers walked across a vast range of hills.",
+            "sent3": "The birds flew over the range of valleys, singing happily.",
+            "sent4": "Her voice had a wide range, reaching every corner of the room.",
+            "sent5": "The endless range of the desert stretched out before them."
         },
         {
             "definition": "A variety of different things within a particular category.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The store offered a wide range of fruits and vegetables.",
+            "sent2": "The library had a range of books for all ages.",
+            "sent3": "The party had a range of snacks, from chips to cookies.",
+            "sent4": "His wardrobe had a colorful range of shirts and pants.",
+            "sent5": "The museum displayed a range of artifacts from different time periods."
         },
         {
             "definition": "To vary within specific limits.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The temperatures can range from hot to cold in this region.",
+            "sent2": "Her emotions ranged from excitement to nervousness.",
+            "sent3": "His mood can range from cheerful to grumpy in a matter of minutes.",
+            "sent4": "The prices of the products range depending on the quality.",
+            "sent5": "The colors of the flowers ranged from bright red to soft pink."
         },
         {
             "definition": "To move freely or roam.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The deer range through the forest in search of food.",
+            "sent2": "The children ranged around the playground, playing tag.",
+            "sent3": "The cat likes to range around the neighborhood, exploring every corner.",
+            "sent4": "The explorers ranged across the vast plains, discovering new lands.",
+            "sent5": "The birds range freely in the open sky, soaring with grace."
         }
     ]
 }

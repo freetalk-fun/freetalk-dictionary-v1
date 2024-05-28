@@ -3,19 +3,39 @@
     "meanings": [
         {
             "definition": "A pile of objects placed one on top of another.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I saw stacks of books in the library.",
+            "sent2": "The store had stacks of colorful boxes.",
+            "sent3": "The cat knocked over the stacks of papers, creating a mess.",
+            "sent4": "Her laughter echoed through the room, stacking joy upon joy.",
+            "sent5": "The stacks of pancakes were as tall as a mountain."
         },
         {
             "definition": "A large quantity or number of something.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "There were stacks of people waiting in line for the concert.",
+            "sent2": "The bakery produced stacks of fresh bread every morning.",
+            "sent3": "The kids had stacks of fun at the amusement park.",
+            "sent4": "His love for her was like a stack of never-ending letters.",
+            "sent5": "The stacks of leaves covered the entire yard."
         },
         {
             "definition": "To arrange objects in a pile.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She carefully stacks the plates after washing them.",
+            "sent2": "The workers stack the boxes in the warehouse for shipping.",
+            "sent3": "He tried to stack the cards in a house of cards but failed.",
+            "sent4": "The memories of that day stack up in my mind like a tower.",
+            "sent5": "The kids stack their building blocks to create a tall tower."
         },
         {
             "definition": "To place objects in a neat and orderly way.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She likes to stack her clothes neatly in the drawer.",
+            "sent2": "The librarian stacks the books on the shelves alphabetically.",
+            "sent3": "He always stacks his toys in a perfect line before bedtime.",
+            "sent4": "The stars seemed to stack themselves in the night sky.",
+            "sent5": "The chef would stack the ingredients in precise order before cooking."
         }
     ]
 }

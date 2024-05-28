@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A part of an object designed to be held in order to move or carry it.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The suitcase's handle made it easy to lift.",
+            "sent2": "She grabbed the handle of the door and pulled it open.",
+            "sent3": "The handle on the cup looked like a tiny hat for the mug.",
+            "sent4": "His voice had a handle that carried the weight of his emotions.",
+            "sent5": "The handle on the drawer was shaped like a small seashell."
         },
         {
             "definition": "To deal with or control a situation or problem.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She knew how to handle difficult customers with patience.",
+            "sent2": "He can handle the pressure of a busy workday.",
+            "sent3": "Trying to juggle all those tasks was a real handle for him.",
+            "sent4": "She handled the situation like a seasoned professional.",
+            "sent5": "He handled the challenge with grace and determination."
         },
         {
             "definition": "To manage or cope with.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He can handle his responsibilities without any help.",
+            "sent2": "She knows how to handle stress effectively.",
+            "sent3": "The way he handled the chaos was truly impressive.",
+            "sent4": "She handled the change in plans with flexibility.",
+            "sent5": "He handled the difficult conversation with honesty and care."
         }
     ]
 }

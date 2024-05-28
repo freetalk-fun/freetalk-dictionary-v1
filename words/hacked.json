@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To cut roughly or irregularly",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He hacked at the tree with his axe.",
+            "sent2": "The chef hacked the vegetables for the stew.",
+            "sent3": "The gardener hacked away at the overgrown bushes, creating a messy but charming garden.",
+            "sent4": "The sculptor hacked away at the block of marble, revealing a beautiful statue within.",
+            "sent5": "The sound of the wood being hacked echoed through the forest."
         },
         {
             "definition": "To gain unauthorized access to a computer system",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The hacker hacked into the company's database to steal information.",
+            "sent2": "She was worried that her personal information might be hacked online.",
+            "sent3": "The detective found out the criminal had hacked into the security cameras to avoid being seen.",
+            "sent4": "The virus hacked its way into the computer network, causing chaos.",
+            "sent5": "The cybersecurity expert worked tirelessly to prevent any system from being hacked."
         },
         {
             "definition": "To manage successfully",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She hacked her busy schedule by prioritizing tasks.",
+            "sent2": "The team hacked the project deadline by working together efficiently.",
+            "sent3": "Despite the challenges, they hacked the difficult situation with creativity and determination.",
+            "sent4": "He hacked the budget constraints by finding innovative solutions.",
+            "sent5": "The young entrepreneur hacked the competitive market with a unique product."
         }
     ]
 }

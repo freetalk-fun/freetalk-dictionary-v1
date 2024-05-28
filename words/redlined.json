@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Marked with a red line.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The redlined paper stood out in the stack.",
+            "sent2": "The redlined document was easy to spot on the desk.",
+            "sent3": "The redlined folder looked like a festive decoration.",
+            "sent4": "The redlined border added a pop of color to the page.",
+            "sent5": "The redlined map helped us find our way easily."
         },
         {
             "definition": "To refuse a loan or insurance to someone because they live in an area deemed a poor financial risk.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The bank redlined the loan application due to the applicant's address.",
+            "sent2": "The insurance company redlined the policy for the high-risk neighborhood.",
+            "sent3": "The bank's decision to redline the loan made the applicant rethink their choices.",
+            "sent4": "The company's policy to redline certain areas was controversial.",
+            "sent5": "The decision to redline the insurance application was based on statistical data."
         },
         {
             "definition": "To set a limit on the amount of something that can be spent or borrowed.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The budget redlined the expenses for the project.",
+            "sent2": "The bank redlined the maximum loan amount for the customer.",
+            "sent3": "The decision to redline the spending limit surprised everyone.",
+            "sent4": "The company redlined the budget to control costs.",
+            "sent5": "The manager redlined the budget to ensure financial stability."
         }
     ]
 }

@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A document that is printed before the final version is published.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I read a preprint of the report before it was officially released.",
+            "sent2": "The preprint contained some errors that were corrected in the final version.",
+            "sent3": "The preprint was like a sneak peek into the author's thoughts before the big reveal.",
+            "sent4": "The preprint was a glimpse into the upcoming research findings.",
+            "sent5": "The preprint gave us an early look at the study results."
         },
         {
             "definition": "To print something before the final version is published.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The author decided to preprint the manuscript for feedback.",
+            "sent2": "It is common practice to preprint scientific papers for review.",
+            "sent3": "She preprinted the invitations to ensure they were ready on time.",
+            "sent4": "The company preprints brochures to distribute at the event.",
+            "sent5": "He preprints his articles to gather input from colleagues."
         }
     ]
 }

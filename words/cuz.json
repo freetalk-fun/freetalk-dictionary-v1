@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Because",
-            "pos": "conjunction"
+            "pos": "conjunction",
+            "sent1": "I stayed home cuz it was raining outside.",
+            "sent2": "I like ice cream cuz it's sweet and cold.",
+            "sent3": "I couldn't go to the party cuz my dog ate my shoes!",
+            "sent4": "She smiled cuz she knew she had done a good job.",
+            "sent5": "He ran fast cuz he wanted to win the race."
         },
         {
             "definition": "Cousin",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "My cuz is coming over for dinner tonight.",
+            "sent2": "I have a lot of fun playing with my cuz at family gatherings.",
+            "sent3": "My cuz and I always end up laughing at silly jokes.",
+            "sent4": "I see my cuz every summer when we visit our grandparents.",
+            "sent5": "My cuz is like a sibling to me, always there for me."
         }
     ]
 }

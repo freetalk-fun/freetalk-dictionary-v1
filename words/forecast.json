@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Predict or estimate (a future event or trend)",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I will forecast the weather for tomorrow.",
+            "sent2": "She forecasts that the company will grow next year.",
+            "sent3": "The squirrel forecasted a shortage of acorns and started hoarding them.",
+            "sent4": "The wise old owl forecasted a harsh winter based on the thickness of its feathers.",
+            "sent5": "The farmer forecasted a bountiful harvest after a season of heavy rain."
         },
         {
             "definition": "A prediction or estimate of a future event or trend",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The meteorologist made a forecast for the upcoming storm.",
+            "sent2": "The economic forecast for the year looks promising.",
+            "sent3": "The cat's forecast of a mouse invasion led to chaos in the house.",
+            "sent4": "The fortune teller's forecast of love in the air came true for many.",
+            "sent5": "The scientist's forecast of a solar eclipse drew crowds from far and wide."
         }
     ]
 }

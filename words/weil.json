@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "For the reason that; since.",
-            "pos": "conjunction"
+            "pos": "conjunction",
+            "sent1": "Weil it was raining, we decided to stay indoors.",
+            "sent2": "I couldn't go to the park weil I had to finish my homework.",
+            "sent3": "The cat didn't want to go outside, weil it didn't like getting wet.",
+            "sent4": "His grades improved weil he started studying harder.",
+            "sent5": "Weil the sun was shining, we went for a walk in the park."
         },
         {
             "definition": "In a good or satisfactory manner.",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "She sang weil during the performance.",
+            "sent2": "He completed the puzzle weil and quickly.",
+            "sent3": "The cake was baked weil, making it delicious.",
+            "sent4": "The team played weil and won the game.",
+            "sent5": "The flowers bloomed weil in the warm sunlight."
         },
         {
             "definition": "A deep hole or pit in the ground.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The miners dug a weil to extract coal.",
+            "sent2": "Watch out for that weil while walking in the forest.",
+            "sent3": "The dog found a bone buried in the weil.",
+            "sent4": "The explorers discovered a hidden weil in the jungle.",
+            "sent5": "The construction workers filled the weil with concrete."
         }
     ]
 }

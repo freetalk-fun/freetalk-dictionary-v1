@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Existing or occurring at the same time",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The two clocks showed synchronically the same hour.",
+            "sent2": "The dancers moved synchronically to the music.",
+            "sent3": "The synchronized swimmers performed synchronically, creating a beautiful display.",
+            "sent4": "The cars on the highway moved synchronically, like a well-choreographed dance.",
+            "sent5": "The birds chirped synchronically, creating a harmonious melody."
         },
         {
             "definition": "In a synchronous manner",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "The lights flashed synchronically at the concert.",
+            "sent2": "The team members worked synchronically to finish the project on time.",
+            "sent3": "The students clapped synchronically after the performance, showing their appreciation.",
+            "sent4": "The heartbeats of the runners pounded synchronically as they raced towards the finish line.",
+            "sent5": "The gears of the clock turned synchronically, marking each passing second."
         },
         {
             "definition": "In a way that considers language as it exists at a particular point in time, without regard to historical development",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "The linguist analyzed the text synchronically, focusing on its current structure.",
+            "sent2": "The teacher taught the students to understand language synchronically before delving into its history.",
+            "sent3": "The comedian joked about language synchronically, making the audience laugh at modern word usage.",
+            "sent4": "The writer approached the novel synchronically, capturing the essence of contemporary language.",
+            "sent5": "The researcher studied the language synchronically, uncovering new insights into its current form."
         }
     ]
 }

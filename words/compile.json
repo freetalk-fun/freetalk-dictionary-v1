@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To put together or compose from materials gathered from several sources.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I will compile all the research data into a report for the meeting.",
+            "sent2": "She likes to compile her favorite recipes in a cookbook.",
+            "sent3": "It was amusing to compile a list of all the strange things found in the lost and found box.",
+            "sent4": "Her mind seemed to compile memories like a well-organized library.",
+            "sent5": "The detective had to compile all the evidence to solve the case."
         },
         {
             "definition": "To collect and arrange in a systematic form.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The librarian will compile the books on the shelf by genre.",
+            "sent2": "He likes to compile his notes in a neat binder for easy reference.",
+            "sent3": "It was amusing to compile a list of excuses for being late to class.",
+            "sent4": "Her thoughts seemed to compile neatly like a stack of papers.",
+            "sent5": "The artist had to compile all the colors to create a beautiful painting."
         },
         {
             "definition": "To create a computer program by translating a high-level programming language into machine language.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The software engineer will compile the code to create the new application.",
+            "sent2": "Programmers compile their code to check for errors before running it.",
+            "sent3": "It was amusing to compile a program that only responded in rhymes.",
+            "sent4": "The code seemed to compile into a masterpiece of functionality.",
+            "sent5": "The student had to compile the program step by step to understand its logic."
         }
     ]
 }

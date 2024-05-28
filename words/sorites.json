@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A form of argument in which a series of incomplete syllogisms is so arranged that the predicate of each premise forms the subject of the next premise.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "In the sorites, each statement leads to the next, building a chain of reasoning.",
+            "sent2": "The professor explained the sorites by breaking down each step of the argument.",
+            "sent3": "During the debate, the sorites made everyone think deeply about the topic.",
+            "sent4": "Her logic was like a sorites, connecting ideas seamlessly.",
+            "sent5": "The sorites method helped the students understand the complex argument structure."
         },
         {
             "definition": "A heap of sand or earth.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The children built a sorites of sand at the beach.",
+            "sent2": "The workers used a shovel to move the sorites of earth.",
+            "sent3": "The sorites of sand collapsed when the wave hit it.",
+            "sent4": "The sorites of earth resembled a small mountain in the field.",
+            "sent5": "The sorites of sand sparkled in the sunlight, creating a beautiful sight."
         }
     ]
 }

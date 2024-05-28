@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A broken piece or fragment, especially of pottery or glass.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "She carefully collected the colorful shards of glass from the ground.",
+            "sent2": "The vase fell and shattered into tiny sharp shards.",
+            "sent3": "The artist used the pottery shards to create a mosaic of a smiling sun.",
+            "sent4": "Her heart felt like sharp glass shards, broken and scattered.",
+            "sent5": "The sunlight reflected off the shards, creating a beautiful pattern on the floor."
         },
         {
             "definition": "To break into shards.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He accidentally shards the mirror while trying to hang it on the wall.",
+            "sent2": "The hammer easily shards the fragile vase into pieces.",
+            "sent3": "She playfully shards the cookie into small crumbs before eating it.",
+            "sent4": "The loud noise shards the silence of the night, startling everyone.",
+            "sent5": "The earthquake shards the once sturdy building into rubble in seconds."
         }
     ]
 }

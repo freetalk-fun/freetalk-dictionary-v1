@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A sharp, metallic sound",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The clanks of the hammer hitting the metal echoed in the workshop.",
+            "sent2": "I heard the clanks of pots and pans coming from the kitchen.",
+            "sent3": "The robot's clanks were so loud, it sounded like a musical instrument.",
+            "sent4": "The clanks of the old gate opening reminded me of a rusty orchestra.",
+            "sent5": "The clanks of the coins dropping into the piggy bank were music to my ears."
         },
         {
             "definition": "To make a sharp, metallic sound",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The metal pipe clanks when you hit it with a hammer.",
+            "sent2": "I accidentally made the metal spoon clanks against the bowl.",
+            "sent3": "The robot clanks loudly as it moves around the room.",
+            "sent4": "Her heels clanks on the metal staircase as she climbed up.",
+            "sent5": "The old car engine clanks noisily when starting up in the morning."
         },
         {
             "definition": "A series of sharp, metallic sounds",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The clanks of the chains as the anchor was raised filled the harbor.",
+            "sent2": "The clanks of the machinery could be heard throughout the factory.",
+            "sent3": "The clanks of the armor as the knights marched made them sound like robots.",
+            "sent4": "The clanks of the keys on the typewriter created a rhythmic pattern.",
+            "sent5": "The clanks of the metal gate closing signaled the end of the day."
         }
     ]
 }

@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A person or thing that is likely to cause harm or danger.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The growling dog was a menace to the mail carrier.",
+            "sent2": "The dark clouds in the sky looked like a menace before the storm.",
+            "sent3": "The mischievous squirrel became a menace when it started stealing nuts from the picnic.",
+            "sent4": "The old abandoned house stood as a silent menace in the neighborhood.",
+            "sent5": "The loud thunder was a menacing sound that filled the night with fear."
         },
         {
             "definition": "To threaten or be a danger to.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The storm clouds began to menace the small town with heavy rain.",
+            "sent2": "The aggressive driver continued to menace other cars on the highway.",
+            "sent3": "The mischievous raccoon seemed to menace the garbage cans every night.",
+            "sent4": "The dark shadows seemed to menace the weary traveler on the deserted road.",
+            "sent5": "The howling wind seemed to menace the fragile tent as it threatened to blow it away."
         }
     ]
 }

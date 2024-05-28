@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "The highest point, level, or part of something.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The mountain's tops were covered in snow.",
+            "sent2": "The tree's top swayed in the wind.",
+            "sent3": "The cat climbed to the tops of the bookshelf and couldn't find its way down.",
+            "sent4": "Her excitement reached the tops of the clouds.",
+            "sent5": "The sun peeked over the tops of the hills, painting the sky with colors."
         },
         {
             "definition": "The uppermost part of something.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The tops of the trees rustled in the breeze.",
+            "sent2": "She placed the vase on the top shelf.",
+            "sent3": "The squirrel hid its acorns in the tops of the branches.",
+            "sent4": "The castle's towers reached for the tops of the sky.",
+            "sent5": "The chef carefully decorated the cake with sugar flowers on the top."
         },
         {
             "definition": "To surpass or outdo.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She always tops her previous score in every game.",
+            "sent2": "The new model tops the old one in performance.",
+            "sent3": "His joke about the chicken crossing the road tops all the others.",
+            "sent4": "The student's artwork tops all the entries in the competition.",
+            "sent5": "The singer's latest hit tops the charts for the third week in a row."
         }
     ]
 }

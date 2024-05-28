@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To suppose or assume beforehand; take for granted",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I presuppose that the sun will rise tomorrow.",
+            "sent2": "Scientists presuppose certain facts before conducting experiments.",
+            "sent3": "It's funny how he presupposed that his cat could talk.",
+            "sent4": "Her decision to move presupposed a new beginning in her life.",
+            "sent5": "Let's presuppose that everything will work out in the end."
         },
         {
             "definition": "To require or imply as an antecedent condition",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The job offer presupposes a background check.",
+            "sent2": "The contract presupposes timely delivery of the goods.",
+            "sent3": "The recipe presupposed that you had all the ingredients, but you didn't.",
+            "sent4": "His apology presupposed an admission of guilt.",
+            "sent5": "The success of the project presupposes teamwork and dedication."
         }
     ]
 }

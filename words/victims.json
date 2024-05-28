@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A person harmed, injured, or killed as a result of a crime, accident, or other event.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The victims of the accident were taken to the hospital for treatment.",
+            "sent2": "The victims of the crime bravely testified in court.",
+            "sent3": "The victims of the prank realized they had been fooled and laughed it off.",
+            "sent4": "The storm left behind a trail of victims in its wake.",
+            "sent5": "The support group provided solace to the victims of the tragedy."
         },
         {
             "definition": "A person who is tricked or duped.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The victims of the scam lost their life savings.",
+            "sent2": "She felt like a victim when she realized she had been deceived.",
+            "sent3": "The victims of the practical joke couldn't help but chuckle at their own gullibility.",
+            "sent4": "In the game of chess, the pawn is often the unsuspecting victim.",
+            "sent5": "The email phishing scheme targeted unsuspecting victims online."
         },
         {
             "definition": "A person who suffers from a destructive or injurious action or agency.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The victims of the disease fought bravely for their recovery.",
+            "sent2": "The victims of the bullying sought help from their teachers.",
+            "sent3": "The victims of the spicy food challenge regretted their choices later.",
+            "sent4": "Her heart was a victim of unrequited love.",
+            "sent5": "The environment is often the silent victim of human actions."
         }
     ]
 }

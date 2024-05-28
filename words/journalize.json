@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Record (an event or transaction) in a journal.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I will journalize all the sales we made today.",
+            "sent2": "Remember to journalize your expenses in the ledger.",
+            "sent3": "It's important to journalize accurately to keep track of our finances.",
+            "sent4": "She journalized every detail like a meticulous detective.",
+            "sent5": "The accountant journalized the numbers with precision and care."
         },
         {
             "definition": "Make a journal entry.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Let's journalize this transaction before the end of the day.",
+            "sent2": "I need to journalize the new inventory we received.",
+            "sent3": "He forgot to journalize, so now we're missing an important record.",
+            "sent4": "She journalized her thoughts like a diary entry.",
+            "sent5": "The student journalized the experiment results for the science fair project."
         }
     ]
 }

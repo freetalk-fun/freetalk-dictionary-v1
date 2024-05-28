@@ -3,19 +3,39 @@
     "meanings": [
         {
             "definition": "A short coat",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "She wore a warm jacket in the cold weather.",
+            "sent2": "The jacket had a zipper and pockets.",
+            "sent3": "The jacket looked too big for the tiny puppy.",
+            "sent4": "His smile was a jacket against the harsh words.",
+            "sent5": "The bright red jacket stood out in the crowd."
         },
         {
             "definition": "A protective outer covering",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The book had a plastic jacket to keep it safe.",
+            "sent2": "The astronaut's suit had a special jacket for spacewalks.",
+            "sent3": "The phone's jacket shielded it from the impact of the fall.",
+            "sent4": "The forest was a green jacket around the hidden cabin.",
+            "sent5": "The umbrella was a jacket against the rain."
         },
         {
             "definition": "A removable metal casing",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The hard drive was protected by a metal jacket.",
+            "sent2": "The bullet was encased in a copper jacket.",
+            "sent3": "The knight's armor had a shiny metal jacket.",
+            "sent4": "The wire was covered by a protective jacket.",
+            "sent5": "The sword's blade was sheathed in a silver jacket."
         },
         {
             "definition": "To cover or encase with a jacket",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He decided to jacket the book to protect it.",
+            "sent2": "She carefully jacketed the fragile vase before moving it.",
+            "sent3": "The chef jacketed the fish in a flavorful sauce.",
+            "sent4": "The workers jacketed the pipes to prevent leaks.",
+            "sent5": "The artist jacketed the canvas with vibrant colors."
         }
     ]
 }

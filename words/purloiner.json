@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A person who steals",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The purloiner took the cookies from the jar.",
+            "sent2": "The purloiner was caught stealing money from the store.",
+            "sent3": "The purloiner tried to sneak away with the treasure map.",
+            "sent4": "The purloiner's shadow seemed to dance along the walls as they stole into the night.",
+            "sent5": "The purloiner's eyes gleamed with mischief as they pocketed the shiny trinket."
         },
         {
             "definition": "To steal (something)",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She would often purloin pens from her classmates.",
+            "sent2": "He purloined a glance at the secret document on the desk.",
+            "sent3": "The cat managed to purloin a fish from the kitchen counter.",
+            "sent4": "Time seemed to purloin the memories of that summer day.",
+            "sent5": "The wind whispered secrets as it tried to purloin the leaves from the trees."
         }
     ]
 }

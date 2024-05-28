@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "The highest point; the top or apex.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The mountain's vertex was covered in snow.",
+            "sent2": "The flag fluttered at the vertex of the pole.",
+            "sent3": "The cat climbed to the vertex of the tree and couldn't find its way down.",
+            "sent4": "Her excitement reached its vertex when she won the competition.",
+            "sent5": "The vertex of the pyramid gleamed in the sunlight."
         },
         {
             "definition": "A point where two or more lines meet to form an angle.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The vertex of the angle was clearly marked on the paper.",
+            "sent2": "The roof's vertex was where the two walls met.",
+            "sent3": "The spider spun its web from one vertex to another.",
+            "sent4": "Their friendship was the vertex where their interests intersected.",
+            "sent5": "The vertex of the triangle was at a perfect 90-degree angle."
         },
         {
             "definition": "The point on a geometric figure where two or more sides meet.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The vertex of the square was at the corner.",
+            "sent2": "The vertex of the polygon determined its shape.",
+            "sent3": "The vertex of the cube was painted a different color.",
+            "sent4": "The meeting point was the vertex of their collaboration.",
+            "sent5": "The vertex of the hexagon had six sides meeting at one point."
         }
     ]
 }

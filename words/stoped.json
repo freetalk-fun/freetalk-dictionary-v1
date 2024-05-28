@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To cease moving or operating.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The car stoped suddenly at the red light.",
+            "sent2": "The train stoped at the station to let passengers off.",
+            "sent3": "The clock stoped right before the alarm was supposed to go off.",
+            "sent4": "Her heart stoped for a moment when she saw the surprise party.",
+            "sent5": "The music stoped abruptly, leaving everyone in silence."
         },
         {
             "definition": "A barrier or obstruction.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The fallen tree acted as a stoped on the hiking trail.",
+            "sent2": "The roadblock was a stoped for the fleeing criminals.",
+            "sent3": "The closed gate was a stoped for the curious cat.",
+            "sent4": "The language barrier was a stoped in their communication.",
+            "sent5": "The huge boulder served as a stoped in the river's flow."
         },
         {
             "definition": "To plug or fill a hole in a mine with waste rock.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The miners stoped the tunnel entrance to prevent further collapse.",
+            "sent2": "They stoped the old shaft with rocks to secure the area.",
+            "sent3": "The workers stoped the leak in the mine with clay and stones.",
+            "sent4": "He stoped the opening with debris to avoid any accidents.",
+            "sent5": "The team stoped the passage with rubble to ensure safety underground."
         }
     ]
 }

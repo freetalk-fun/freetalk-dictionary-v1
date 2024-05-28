@@ -3,19 +3,39 @@
     "meanings": [
         {
             "definition": "A deep, resonant sound.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The loud booms of thunder scared the little dog.",
+            "sent2": "The boom of the drum signaled the start of the parade.",
+            "sent3": "The boom of the fireworks lit up the night sky.",
+            "sent4": "The boom of the cannon echoed through the valley.",
+            "sent5": "The boom of the bass guitar reverberated in the concert hall."
         },
         {
             "definition": "A period of rapid economic growth.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The city experienced a boom in tourism after the new airport opened.",
+            "sent2": "The tech industry saw a boom in sales during the holiday season.",
+            "sent3": "The sudden boom in real estate prices surprised everyone.",
+            "sent4": "The online business had a boom in customers after their viral marketing campaign.",
+            "sent5": "The baby boom in the 1950s led to a surge in school enrollments."
         },
         {
             "definition": "To make a deep, resonant sound.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The fireworks booms could be heard from miles away.",
+            "sent2": "The thunder booms outside the window woke me up.",
+            "sent3": "The old car engine booms loudly when started.",
+            "sent4": "The church bell booms across the town every hour.",
+            "sent5": "The cannon booms signaled the start of the battle."
         },
         {
             "definition": "To grow rapidly or flourish.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The construction industry booms in the summer months.",
+            "sent2": "The company booms after launching their new product.",
+            "sent3": "The flowers in the garden booms with color in the spring.",
+            "sent4": "The population of the town booms with new residents.",
+            "sent5": "The business booms with the increase in online orders."
         }
     ]
 }

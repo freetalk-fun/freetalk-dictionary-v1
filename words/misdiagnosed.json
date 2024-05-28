@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Incorrectly diagnosed",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The misdiagnosed patient received the wrong treatment.",
+            "sent2": "She was misdiagnosed with a cold when she actually had the flu.",
+            "sent3": "The misdiagnosed cat was prescribed dog medicine by mistake.",
+            "sent4": "The misdiagnosed problem led to further complications.",
+            "sent5": "The misdiagnosed condition caused unnecessary worry for the patient."
         },
         {
             "definition": "Given an incorrect diagnosis",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The doctor misdiagnosed the illness as a simple infection.",
+            "sent2": "He misdiagnosed her symptoms and prescribed the wrong medication.",
+            "sent3": "The mechanic misdiagnosed the car problem, thinking it was the battery.",
+            "sent4": "She misdiagnosed the situation, believing everything was fine when it wasn't.",
+            "sent5": "The teacher misdiagnosed the student's confusion as lack of interest."
         }
     ]
 }

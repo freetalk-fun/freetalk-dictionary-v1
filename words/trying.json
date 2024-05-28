@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Making an effort to do something",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She is trying to finish her homework before dinner.",
+            "sent2": "He is trying hard to learn how to ride a bike.",
+            "sent3": "The cat is trying to catch the elusive red dot on the floor.",
+            "sent4": "The seed is trying to push through the hard ground to grow into a plant.",
+            "sent5": "The little girl is trying with all her might to reach the cookie jar on the top shelf."
         },
         {
             "definition": "Causing strain or difficulty",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The steep mountain trail was trying for the inexperienced hikers.",
+            "sent2": "The long and trying journey tested their endurance.",
+            "sent3": "The trying puzzle left them scratching their heads in confusion.",
+            "sent4": "The trying task of untangling the knots in the rope seemed never-ending.",
+            "sent5": "The trying math problem made her furrow her brow in concentration."
         },
         {
             "definition": "Testing the patience or endurance of someone",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The constant noise from the construction site is trying her patience.",
+            "sent2": "The never-ending delays at the airport were trying for the tired travelers.",
+            "sent3": "The mischievous puppy is trying the owner's patience with its antics.",
+            "sent4": "The challenging project is trying the team's endurance to its limits.",
+            "sent5": "The unpredictable weather is trying the farmers' ability to plan ahead."
         }
     ]
 }

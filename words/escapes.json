@@ -3,19 +3,39 @@
     "meanings": [
         {
             "definition": "To break free from confinement or control.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The brave hero escapes from the evil wizard's dungeon.",
+            "sent2": "The prisoner escapes from jail through a hidden tunnel.",
+            "sent3": "The mischievous cat escapes from its owner's grasp and runs off.",
+            "sent4": "In the movie, the protagonist escapes from the enemy's clutches just in time.",
+            "sent5": "The butterfly escapes from its chrysalis, ready to explore the world."
         },
         {
             "definition": "A means of breaking free from confinement or control.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The key was the perfect escape for the locked door.",
+            "sent2": "The rope ladder served as a useful escape for the trapped hiker.",
+            "sent3": "The emergency exit was the quickest escape from the burning building.",
+            "sent4": "The secret passage was their escape from the haunted house.",
+            "sent5": "The map provided a clear escape route from the maze."
         },
         {
             "definition": "To avoid or evade something dangerous or unpleasant.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The rabbit escapes the fox by darting into its burrow.",
+            "sent2": "She escapes the rain by taking shelter under a tree.",
+            "sent3": "The student escapes detention by cleverly distracting the teacher.",
+            "sent4": "The spy escapes detection by blending into the crowd.",
+            "sent5": "He escapes the traffic jam by taking a different route."
         },
         {
             "definition": "A form of recreation or leisure activity.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Visiting the amusement park is a fun escape from daily routines.",
+            "sent2": "Reading a book is a relaxing escape from the hustle and bustle.",
+            "sent3": "Watching movies is a popular escape for many people.",
+            "sent4": "Going on a hike is a refreshing escape into nature.",
+            "sent5": "Listening to music is a soothing escape from stress."
         }
     ]
 }

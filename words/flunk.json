@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Fail to reach the required standard in (an examination, test, or course).",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I hope I don't flunk my math test tomorrow.",
+            "sent2": "If you don't study, you might flunk the exam.",
+            "sent3": "Trying to flunk on purpose is not a good idea.",
+            "sent4": "Her lack of preparation caused her to flunk the quiz.",
+            "sent5": "The consequences of flunking can be serious."
         },
         {
             "definition": "A failure in an examination, test, or course.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "His low score on the final led to a flunk.",
+            "sent2": "Receiving a flunk can be disappointing.",
+            "sent3": "Getting a flunk made him realize he needed to study more.",
+            "sent4": "The flunk on her report card was unexpected.",
+            "sent5": "She felt discouraged after seeing the flunk on her paper."
         }
     ]
 }

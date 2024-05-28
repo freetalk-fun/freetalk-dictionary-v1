@@ -3,23 +3,48 @@
     "meanings": [
         {
             "definition": "A small piece or quantity of something",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "She ate a bit of cake.",
+            "sent2": "He picked up a bit of the broken glass.",
+            "sent3": "The squirrel stored a bit of the acorn in its cheek.",
+            "sent4": "The artist added a bit of red to the painting, making it pop.",
+            "sent5": "The child's laughter was like a bit of sunshine on a rainy day."
         },
         {
             "definition": "A short period of time",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Wait a bit, I'll be right back.",
+            "sent2": "I'll be there in a bit, just finishing up.",
+            "sent3": "The cat napped for a bit before chasing after the mouse.",
+            "sent4": "The sun set in a bit, painting the sky in hues of orange.",
+            "sent5": "The music played for a bit, filling the room with joy."
         },
         {
             "definition": "A small amount or degree",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Add a bit of salt to the soup.",
+            "sent2": "She felt a bit tired after the long walk.",
+            "sent3": "The flower bent a bit in the wind but stood tall.",
+            "sent4": "His smile brightened a bit when he saw her.",
+            "sent5": "The room darkened a bit as the storm approached."
         },
         {
             "definition": "The smallest unit of information in computing",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The computer processes data bit by bit.",
+            "sent2": "Each bit in the code is crucial for the program to run smoothly.",
+            "sent3": "The virus corrupted a bit of the file, causing errors.",
+            "sent4": "The digital artist adjusted the color bit by bit to achieve the perfect shade.",
+            "sent5": "The website loaded a bit faster after the update."
         },
         {
             "definition": "A tool used for drilling or boring holes",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "He used a bit to drill holes in the wood.",
+            "sent2": "The construction worker changed the bit on the drill for a larger hole.",
+            "sent3": "The dentist carefully selected the right bit for the procedure.",
+            "sent4": "The sculptor switched to a finer bit for the detailed carving.",
+            "sent5": "The mechanic sharpened the bit before starting the repair work."
         }
     ]
 }

@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A mark (\\) used to separate elements in a file path or to indicate a line break in a computer program.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I added three backslashes to the file path to show the correct location.",
+            "sent2": "Make sure to use backslashes when writing the directory path in your code.",
+            "sent3": "The backslashes in the code were like little road signs guiding the program.",
+            "sent4": "The backslashes acted as bridges connecting different parts of the file path.",
+            "sent5": "The backslashes were like tiny fences keeping the folders in order."
         },
         {
             "definition": "A symbol used to escape special characters in programming languages.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The backslashes helped prevent errors when dealing with special characters.",
+            "sent2": "In Python, you often use backslashes to escape quotes in strings.",
+            "sent3": "The backslashes in the code were like secret passages for the characters to escape.",
+            "sent4": "Backslashes were the heroes that rescued the characters from causing chaos.",
+            "sent5": "The backslashes were like magic shields protecting the characters from harm."
         }
     ]
 }

@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To distribute in fixed amounts",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "During the war, food was rationed to ensure everyone got a fair share.",
+            "sent2": "The government rationed out supplies to the citizens during the crisis.",
+            "sent3": "The teacher rationed out candy to the students as a reward for good behavior.",
+            "sent4": "She rationed her time carefully between work and family responsibilities.",
+            "sent5": "The captain rationed the water supply on the ship to make it last the entire journey."
         },
         {
             "definition": "Limited by a fixed amount",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The rationed food supply was barely enough to sustain the refugees.",
+            "sent2": "They were given a rationed amount of fuel for their journey.",
+            "sent3": "The rationed time for the exam made the students nervous about finishing on time.",
+            "sent4": "His rationed allowance for the month forced him to budget carefully.",
+            "sent5": "The rationed tickets for the concert sold out quickly due to high demand."
         }
     ]
 }

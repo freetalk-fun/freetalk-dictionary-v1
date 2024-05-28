@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To move slowly and quietly in order to avoid being noticed",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I saw a mouse creep across the floor.",
+            "sent2": "The cat likes to creep up on birds.",
+            "sent3": "The sneaky raccoon tried to creep into the picnic basket.",
+            "sent4": "The fog seemed to creep in from all directions.",
+            "sent5": "The shadow of the tree would creep along the wall as the sun set."
         },
         {
             "definition": "A person who behaves in a strange and unpleasant way, often making others feel uncomfortable",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The creepy man gave me a weird feeling.",
+            "sent2": "The horror movie had a lot of creeps in it.",
+            "sent3": "The creepy clown made everyone laugh instead of scream.",
+            "sent4": "The old house had a creepy vibe that made me shiver.",
+            "sent5": "The creepy crawly bug made me jump in surprise."
         },
         {
             "definition": "A feeling of fear or disgust caused by something unpleasant or strange",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The creepy noise in the dark alley scared me.",
+            "sent2": "The sight of spiders gives me the creeps.",
+            "sent3": "The creepy mask at the party made everyone laugh.",
+            "sent4": "The creepy feeling of being watched sent shivers down my spine.",
+            "sent5": "The creepy movie left me with nightmares for days."
         }
     ]
 }

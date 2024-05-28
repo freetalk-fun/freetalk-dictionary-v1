@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "What is the thing or things that",
-            "pos": "pronoun"
+            "pos": "pronoun",
+            "sent1": "Whats that on the table?",
+            "sent2": "Tell me whats in the box.",
+            "sent3": "I wonder whats hiding in the closet.",
+            "sent4": "The mystery of whats behind the door intrigued me.",
+            "sent5": "Can you show me whats under the bed?"
         },
         {
             "definition": "What is the question or questions that",
-            "pos": "pronoun"
+            "pos": "pronoun",
+            "sent1": "Whats your favorite color?",
+            "sent2": "I don't know whats bothering you.",
+            "sent3": "I asked whats for dinner, and everyone laughed.",
+            "sent4": "She pondered on whats the meaning of life.",
+            "sent5": "Can you guess whats inside the wrapped gift?"
         },
         {
             "definition": "What is the reason or reasons that",
-            "pos": "conjunction"
+            "pos": "conjunction",
+            "sent1": "I can't understand whats happening.",
+            "sent2": "Tell me whats making you sad.",
+            "sent3": "The cat knocked over the vase, whats more, it broke.",
+            "sent4": "His smile revealed whats truly in his heart.",
+            "sent5": "She explained whats causing the strange noise."
         }
     ]
 }

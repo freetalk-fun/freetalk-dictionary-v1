@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "In a defective manner",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "The machine operated defectively, causing errors in the production process.",
+            "sent2": "She sang defectively during the performance, missing several notes.",
+            "sent3": "The robot danced defectively, tripping over its own feet.",
+            "sent4": "The car's engine ran defectively, sputtering and stalling frequently.",
+            "sent5": "The clock ticked defectively, skipping seconds randomly."
         },
         {
             "definition": "Having a defect or flaw",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The defectively designed chair wobbled whenever someone sat on it.",
+            "sent2": "He received a defectively manufactured phone that kept shutting down unexpectedly.",
+            "sent3": "The defectively wrapped gift fell apart as soon as it was picked up.",
+            "sent4": "The defectively painted wall showed streaks and uneven patches.",
+            "sent5": "The defectively stitched shirt started unraveling after just one wash."
         }
     ]
 }

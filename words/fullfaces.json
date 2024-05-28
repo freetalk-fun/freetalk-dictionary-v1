@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Having a face that is completely covered or filled with something.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The clown's fullfaces makeup made him unrecognizable.",
+            "sent2": "She wore a fullfaces mask for the costume party.",
+            "sent3": "The fullfaces paint on the actor's face made everyone laugh.",
+            "sent4": "Her fullfaces smile lit up the room.",
+            "sent5": "The fullfaces snow on the ground sparkled in the sunlight."
         },
         {
             "definition": "To cover or fill a face completely with something.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The makeup artist fullfaces the model for the fashion show.",
+            "sent2": "He fullfaces his face with shaving cream before shaving.",
+            "sent3": "She fullfaces her face with chocolate during the baking class.",
+            "sent4": "The fog fullfaces the city, creating a mysterious atmosphere.",
+            "sent5": "The mask fullfaces his identity, keeping him hidden from others."
         }
     ]
 }

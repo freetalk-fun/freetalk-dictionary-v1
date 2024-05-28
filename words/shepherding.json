@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To guide or direct in a particular direction",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He was shepherding the lost tourists back to their hotel.",
+            "sent2": "The teacher was shepherding the students to the assembly hall.",
+            "sent3": "The dog seemed to be shepherding the ducks in the park, much to everyone's amusement.",
+            "sent4": "Her calming voice shepherded the anxious crowd towards a sense of peace.",
+            "sent5": "The lighthouse shepherded ships safely through the stormy night."
         },
         {
             "definition": "The act of tending to or watching over a flock of sheep",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The shepherd's shepherding of the flock ensured they were safe from harm.",
+            "sent2": "During the night, the shepherding of the sheep was done by the watchful dog.",
+            "sent3": "The sheepdog's shepherding of the flock was a sight to behold.",
+            "sent4": "The shepherd's shepherding was like a protective shield around the sheep.",
+            "sent5": "The shepherding of the sheep under the starry sky was a peaceful scene."
         },
         {
             "definition": "The act of guiding or leading a group of people",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The CEO's shepherding of the company through tough times was commendable.",
+            "sent2": "The politician's shepherding of the community towards progress was well-received.",
+            "sent3": "The children's shepherding of their classmates during the field trip was adorable.",
+            "sent4": "The coach's shepherding of the team to victory inspired everyone.",
+            "sent5": "The teacher's shepherding of the students towards success was evident in their achievements."
         }
     ]
 }

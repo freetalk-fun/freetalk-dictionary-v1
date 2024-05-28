@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Marked with a checkmark.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The teacher's list was checkmarked to show which students completed their assignments.",
+            "sent2": "She proudly displayed her checkmarked test paper on the refrigerator.",
+            "sent3": "The checkmarked boxes on the form made her feel accomplished.",
+            "sent4": "The checkmarked trail guided them safely through the forest.",
+            "sent5": "The checkmarked map helped them navigate the city easily."
         },
         {
             "definition": "To mark with a checkmark.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Please checkmarked the items you have completed on the list.",
+            "sent2": "He checkmarked each task as he finished it.",
+            "sent3": "She checkmarked her progress on the chart with colorful markers.",
+            "sent4": "The chef checkmarked the ingredients he needed for the recipe.",
+            "sent5": "The supervisor checkmarked the completed tasks on the project board."
         },
         {
             "definition": "Having a checkmark.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The checkmarked boxes indicated the correct answers.",
+            "sent2": "The form with the checkmarked sections was ready to be submitted.",
+            "sent3": "His checkmarked ballot was ready to be cast in the election.",
+            "sent4": "The checkmarked pages in the book helped him study efficiently.",
+            "sent5": "The checkmarked items in the inventory were ready for shipment."
         }
     ]
 }

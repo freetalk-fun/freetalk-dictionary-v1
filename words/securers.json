@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A person who secures something.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The securers locked the gate to keep the area safe.",
+            "sent2": "The securers at the bank ensure the money is protected.",
+            "sent3": "The securers were like guardians, always watching over the valuable items.",
+            "sent4": "She was the securer of secrets, keeping them safe in her heart.",
+            "sent5": "The securers stood vigilant, ready to protect the treasures."
         },
         {
             "definition": "To make something safe or secure.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He securers his bike with a sturdy lock.",
+            "sent2": "She securers the documents in a locked cabinet.",
+            "sent3": "The squirrel securers its nuts in a hidden spot.",
+            "sent4": "The mother securers her child's safety with a warm hug.",
+            "sent5": "They securers the perimeter before the important event."
         },
         {
             "definition": "Providing or serving to secure something.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The securers code protected the sensitive information.",
+            "sent2": "The securers lock kept the door tightly closed.",
+            "sent3": "The securers alarm system alerted them of any intruders.",
+            "sent4": "The securers fence surrounded the property, keeping it safe.",
+            "sent5": "The securers measures ensured the building was well-protected."
         }
     ]
 }

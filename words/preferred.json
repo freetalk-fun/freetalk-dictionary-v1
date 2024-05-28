@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Liked better or best; liked more",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "My preferred color is blue.",
+            "sent2": "She always chooses her preferred brand of cereal.",
+            "sent3": "The cat's preferred napping spot is on the sunny windowsill.",
+            "sent4": "His preferred method of relaxation is listening to music.",
+            "sent5": "The preferred candidate won the election by a large margin."
         },
         {
             "definition": "To choose or want; to select as a preference",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I preferred to stay home and read rather than go out.",
+            "sent2": "They preferred the red velvet cake over the chocolate one.",
+            "sent3": "The dog preferred to play fetch with the squeaky toy.",
+            "sent4": "She preferred to take the scenic route to enjoy the view.",
+            "sent5": "He preferred to finish his work before taking a break."
         },
         {
             "definition": "To give priority or precedence to; to favor",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The manager preferred to promote employees from within the company.",
+            "sent2": "They preferred to allocate more resources to the project.",
+            "sent3": "The teacher preferred to start the class with a fun activity.",
+            "sent4": "She preferred to give her attention to the most urgent tasks first.",
+            "sent5": "He preferred to support local businesses over big corporations."
         }
     ]
 }

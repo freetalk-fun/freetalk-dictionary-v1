@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A person who is transported or carried from one place to another.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The transportee arrived safely at their destination.",
+            "sent2": "The transportee boarded the bus to go to school.",
+            "sent3": "The transportee waved happily as they were driven away in the car.",
+            "sent4": "The little girl pretended to be a transportee on her toy train.",
+            "sent5": "The astronaut felt like a transportee as the spaceship launched into space."
         },
         {
             "definition": "To transport or carry someone or something from one place to another.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The movers will transportee the furniture to the new house.",
+            "sent2": "Please transportee these boxes to the storage room.",
+            "sent3": "The friendly robot offered to transportee the groceries for the elderly lady.",
+            "sent4": "The river's current can transportee debris downstream quickly.",
+            "sent5": "The magic carpet can transportee you to any destination you desire."
         }
     ]
 }

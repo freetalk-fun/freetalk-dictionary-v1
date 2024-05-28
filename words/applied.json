@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Put to practical use",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She applied the knowledge from her science class to solve the problem.",
+            "sent2": "He applied the brakes to stop the car.",
+            "sent3": "The chef applied the secret ingredient to make the dish extra delicious.",
+            "sent4": "She applied her creativity to the project, turning it into a masterpiece.",
+            "sent5": "He applied the sunscreen generously to protect his skin from the sun."
         },
         {
             "definition": "Put into operation",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The mechanic applied the fix to get the machine running smoothly.",
+            "sent2": "She applied the new software update to improve the performance of her computer.",
+            "sent3": "The magician applied his magic wand to make the rabbit disappear.",
+            "sent4": "He applied his skills to the task, completing it with ease.",
+            "sent5": "She applied the bandage carefully to cover the wound."
         },
         {
             "definition": "Having a practical purpose",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The applied science course focused on real-world applications of theories.",
+            "sent2": "She chose the applied arts program to learn skills for a specific career.",
+            "sent3": "The applied math class helped students solve everyday problems.",
+            "sent4": "He preferred the applied approach to learning, seeing immediate results.",
+            "sent5": "The applied research project aimed to find solutions for industry challenges."
         }
     ]
 }

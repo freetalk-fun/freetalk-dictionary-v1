@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To examine or inspect closely",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I will survey the map to find the hidden treasure.",
+            "sent2": "The detective will survey the crime scene for clues.",
+            "sent3": "The curious cat decided to survey the mysterious box in the corner.",
+            "sent4": "She surveyed the painting with a critical eye, looking for any flaws.",
+            "sent5": "The scientist will survey the data to draw meaningful conclusions."
         },
         {
             "definition": "A general view or examination of a subject",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The aerial survey of the city revealed its layout from above.",
+            "sent2": "The survey of customer satisfaction showed high ratings for the product.",
+            "sent3": "The survey of the playground equipment made the kids excited for new additions.",
+            "sent4": "The survey of the landscape painted a beautiful picture of the countryside.",
+            "sent5": "The survey of opinions on the matter varied greatly among the group."
         },
         {
             "definition": "A detailed study or analysis of a particular subject or area",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The survey of the ecosystem provided valuable insights for conservation efforts.",
+            "sent2": "The survey of the market trends helped the company make informed decisions.",
+            "sent3": "The survey of the book's plot twists left the reader in awe.",
+            "sent4": "The survey of the ancient ruins uncovered hidden secrets of the past.",
+            "sent5": "The survey of the medical records revealed patterns in patient health."
         }
     ]
 }

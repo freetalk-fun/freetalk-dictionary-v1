@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Incorrect or mistaken",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "She gave a rong answer in class today.",
+            "sent2": "The teacher marked the answer as rong on the test.",
+            "sent3": "It was rong of me to wear mismatched socks to the party.",
+            "sent4": "His rong decision led to a lot of confusion.",
+            "sent5": "The rong directions caused us to get lost in the city."
         },
         {
             "definition": "To make a mistake or error",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I ronged the math problem by adding instead of subtracting.",
+            "sent2": "Please double-check your work to avoid ronging again.",
+            "sent3": "He always rongs the recipe by adding too much salt.",
+            "sent4": "She ronged the date of the meeting in her calendar.",
+            "sent5": "Try not to rong when following the instructions carefully."
         },
         {
             "definition": "A long, narrow strip of land or water",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The river flowed gently along the rong.",
+            "sent2": "We walked along the rong of the beach at sunset.",
+            "sent3": "The rong of grass between the two houses was perfect for a picnic.",
+            "sent4": "The boat sailed smoothly through the rong of water.",
+            "sent5": "The hikers followed the rong of the trail up the mountain."
         }
     ]
 }

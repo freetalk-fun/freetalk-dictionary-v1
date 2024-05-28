@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Something that is of poor quality or worthless.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The toy I got from the dollar store was a duff.",
+            "sent2": "The old shoes I found in the attic were a duff.",
+            "sent3": "The broken umbrella was such a duff that it couldn't even keep the rain off.",
+            "sent4": "Her excuse for being late was a duff, just like her previous ones.",
+            "sent5": "The movie we watched last night was a duff, with terrible acting and a weak plot."
         },
         {
             "definition": "To hit or throw something inaccurately.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He duffed the ball and it went way off course.",
+            "sent2": "She duffed the paper airplane, causing it to crash into the wall.",
+            "sent3": "During the game, he duffed the ball so badly that it landed in the bushes.",
+            "sent4": "The pitcher duffed the throw, allowing the runner to steal a base.",
+            "sent5": "She duffed the dart, missing the bullseye by a wide margin."
         },
         {
             "definition": "A flour pudding boiled or steamed in a cloth.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Grandma's duff was a delicious treat after dinner.",
+            "sent2": "The traditional recipe called for making a duff in a cloth.",
+            "sent3": "The sweet aroma of the duff filled the kitchen as it cooked.",
+            "sent4": "The warm duff was served with a dollop of cream on top.",
+            "sent5": "The duff was a comforting dessert on a cold winter evening."
         }
     ]
 }

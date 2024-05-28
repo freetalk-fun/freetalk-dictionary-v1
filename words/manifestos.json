@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A public declaration of intentions, opinions, objectives, or motives, as one issued by a government, sovereign, or organization.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The group's manifesto outlined their goals for the upcoming project.",
+            "sent2": "The political party released their manifesto before the election.",
+            "sent3": "The manifesto of the student council promised free pizza every Friday.",
+            "sent4": "Her actions served as a silent manifesto of her commitment to equality.",
+            "sent5": "The manifesto was like a roadmap guiding them towards their shared vision."
         },
         {
             "definition": "A written statement declaring publicly the intentions, motives, or views of its issuer.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The artist's manifesto explained the inspiration behind her latest painting.",
+            "sent2": "The company CEO's manifesto emphasized the importance of customer satisfaction.",
+            "sent3": "The manifesto of the book club declared a ban on spoilers.",
+            "sent4": "His manifesto on environmental conservation was a call to action for the community.",
+            "sent5": "The manifesto was a beacon of hope in a sea of uncertainty."
         }
     ]
 }

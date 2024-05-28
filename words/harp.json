@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A musical instrument consisting of a triangular frame with strings stretched across it.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The beautiful sound of the harp filled the room with joy.",
+            "sent2": "She learned to play the harp at a young age.",
+            "sent3": "At the concert, the harp seemed to dance with the melody.",
+            "sent4": "Her fingers moved gracefully on the harp, like a painter creating a masterpiece.",
+            "sent5": "The harp's strings resonated, creating a magical atmosphere."
         },
         {
             "definition": "To talk or write persistently and tediously on a particular topic.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He would harp on the same topic every time we met.",
+            "sent2": "Stop harping on that issue and let's find a solution.",
+            "sent3": "She would harp on about her favorite TV show for hours.",
+            "sent4": "The politician continued to harp on the importance of education in his speeches.",
+            "sent5": "The teacher would harp on the benefits of reading to her students."
         },
         {
             "definition": "To play on a harp.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She would harp beautifully during the evening performances.",
+            "sent2": "He harped a soothing melody on the harp.",
+            "sent3": "The cat tried to harp on the harp strings, creating a funny tune.",
+            "sent4": "The musician harped on the harp strings, creating a symphony of emotions.",
+            "sent5": "The harpist harped passionately, captivating the audience with each note."
         }
     ]
 }

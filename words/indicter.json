@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A person who accuses or charges someone with a crime.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The indicter in the courtroom pointed at the suspect.",
+            "sent2": "The indicter filed a report with the police about the theft.",
+            "sent3": "The indicter wore a detective hat while accusing the culprit.",
+            "sent4": "Her pointing finger acted as the indicter of guilt.",
+            "sent5": "The indicter's voice echoed through the courtroom, accusing the defendant."
         },
         {
             "definition": "To formally charge someone with a crime.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The prosecutor will indicter the suspect tomorrow.",
+            "sent2": "The police will indicter the suspect for theft.",
+            "sent3": "The judge jokingly said, 'I hereby indicter you for eating all the cookies.'",
+            "sent4": "The storm clouds seemed to indicter the impending chaos.",
+            "sent5": "The ringing of the bell indictered the start of the trial."
         }
     ]
 }

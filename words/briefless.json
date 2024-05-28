@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Lacking a brief or legal document.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The briefless lawyer struggled to prove his case in court.",
+            "sent2": "The briefless student forgot to bring his assignment to class.",
+            "sent3": "The briefless attorney accidentally left all his important papers at home.",
+            "sent4": "The briefless contract was deemed invalid by the judge.",
+            "sent5": "The briefless folder contained no important documents."
         },
         {
             "definition": "Without a brief or written statement.",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "She spoke brieflessly during the meeting, causing confusion.",
+            "sent2": "He answered the question brieflessly, without providing any details.",
+            "sent3": "The comedian delivered his jokes brieflessly, leaving the audience puzzled.",
+            "sent4": "The wind howled brieflessly through the empty streets.",
+            "sent5": "The teacher explained the concept brieflessly, leaving the students bewildered."
         },
         {
             "definition": "Not having a brief or lawyer.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The briefless defendant struggled to navigate the legal system alone.",
+            "sent2": "The briefless individual had to represent themselves in court.",
+            "sent3": "The briefless client mistakenly thought they could handle the case independently.",
+            "sent4": "The briefless suspect was unsure of their rights during questioning.",
+            "sent5": "The briefless person felt lost in the complex legal proceedings."
         }
     ]
 }

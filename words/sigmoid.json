@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Shaped like the letter S",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The road took a sigmoid turn around the hill.",
+            "sent2": "The snake had a long, sigmoid body.",
+            "sent3": "The ribbon was tied in a cute sigmoid bow.",
+            "sent4": "Her hair cascaded down her back in a beautiful sigmoid wave.",
+            "sent5": "The river flowed in a graceful, sigmoid path through the valley."
         },
         {
             "definition": "A curve that resembles the letter S",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The river followed a gentle sigmoid through the meadow.",
+            "sent2": "The calligraphy artist practiced drawing perfect sigmoids.",
+            "sent3": "The roller coaster track formed a thrilling sigmoid loop.",
+            "sent4": "The mountain road twisted in a series of challenging sigmoids.",
+            "sent5": "The dancer's body moved in a fluid sigmoid motion."
         },
         {
             "definition": "A sigmoid colon in the human body",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The doctor examined the patient's sigmoid for any abnormalities.",
+            "sent2": "A healthy diet can help maintain a regular sigmoid function.",
+            "sent3": "The comedian joked about his troublesome sigmoid.",
+            "sent4": "The singer's voice resonated from deep within her sigmoid.",
+            "sent5": "The athlete's performance was affected by a twisted sigmoid."
         }
     ]
 }

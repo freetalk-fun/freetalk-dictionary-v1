@@ -3,19 +3,39 @@
     "meanings": [
         {
             "definition": "Third person singular present of go.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She goes to school every day.",
+            "sent2": "The train goes fast on the tracks.",
+            "sent3": "The cat goes outside to chase birds.",
+            "sent4": "Time goes by quickly when you're having fun.",
+            "sent5": "The sun goes down in the evening."
         },
         {
             "definition": "To move or proceed.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The car goes down the street smoothly.",
+            "sent2": "The river goes around the bend.",
+            "sent3": "The ball goes up and then comes back down.",
+            "sent4": "The music goes from soft to loud.",
+            "sent5": "The airplane goes through the clouds."
         },
         {
             "definition": "To extend or reach.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The road goes all the way to the mountains.",
+            "sent2": "Her hand goes out to shake yours.",
+            "sent3": "The tree's branches go high up in the sky.",
+            "sent4": "The line of people goes around the block.",
+            "sent5": "The smell of fresh bread goes through the house."
         },
         {
             "definition": "To be in the process of moving.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The turtle goes slowly across the sand.",
+            "sent2": "The clouds go across the sky.",
+            "sent3": "The ants go in a line to find food.",
+            "sent4": "The shadows go along the wall as the sun sets.",
+            "sent5": "The boat goes gently on the calm water."
         }
     ]
 }

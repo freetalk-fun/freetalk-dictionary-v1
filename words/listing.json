@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A record of a property or item for sale.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I found a listing for a house in the newspaper.",
+            "sent2": "The online listing showed pictures of the car for sale.",
+            "sent3": "The listing for the haunted house included ghosts as roommates.",
+            "sent4": "Her listing of excuses was longer than her actual to-do list.",
+            "sent5": "The listing of exotic animals at the zoo amazed the visitors."
         },
         {
             "definition": "An item included in a list.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The grocery listing reminded her to buy milk.",
+            "sent2": "His name was the last listing on the attendance list.",
+            "sent3": "The listing of ingredients for the potion was missing a crucial item.",
+            "sent4": "She was the top listing on the leaderboard for the game.",
+            "sent5": "The listing of endangered species highlighted the need for conservation."
         },
         {
             "definition": "The act of making a list.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Her listing of chores helped her stay organized.",
+            "sent2": "The listing of tasks for the day kept him on track.",
+            "sent3": "The listing of excuses for being late was getting creative.",
+            "sent4": "The listing of goals motivated her to work harder.",
+            "sent5": "The listing of rules was necessary to maintain order."
         }
     ]
 }

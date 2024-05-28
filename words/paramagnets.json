@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A substance that is weakly attracted to a magnetic field.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Paramagnets are materials that are slightly drawn towards magnets.",
+            "sent2": "Scientists study paramagnets to understand how they react to magnetic fields.",
+            "sent3": "The paramagnets in the lab couldn't decide if they wanted to stick to the magnet or not.",
+            "sent4": "Like a curious child, paramagnets eagerly approach magnetic fields.",
+            "sent5": "In the presence of a magnet, paramagnets exhibit a subtle attraction."
         },
         {
             "definition": "Materials that are not permanently magnetized.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "These paramagnets can be temporarily magnetized but do not retain the magnetism.",
+            "sent2": "The paramagnets in the experiment lost their magnetism once the external magnetic field was removed.",
+            "sent3": "The paramagnets behaved like forgetful magnets, only holding onto magnetism briefly.",
+            "sent4": "Paramagnets are like magnets with short-term memory, easily losing their magnetic properties.",
+            "sent5": "Unlike permanent magnets, paramagnets can only hold a magnetic charge temporarily."
         }
     ]
 }

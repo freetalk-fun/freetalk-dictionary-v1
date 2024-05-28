@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Serving to identify or characterize a disease or condition",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The doctor used a diagnostic tool to determine the illness.",
+            "sent2": "The diagnostic report confirmed the presence of the virus.",
+            "sent3": "The diagnostic equipment beeped loudly, surprising everyone in the room.",
+            "sent4": "Her keen observation skills were like a diagnostic compass, guiding her to the correct diagnosis.",
+            "sent5": "The diagnostic process was like a puzzle, with each piece revealing more about the patient's health."
         },
         {
             "definition": "A symptom or characteristic used in identifying a disease or condition",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Fever is a common diagnostic of an infection.",
+            "sent2": "The doctor noted several diagnostics that pointed to the specific disease.",
+            "sent3": "His constant sneezing became a humorous diagnostic of his allergy.",
+            "sent4": "The diagnostic of a racing heart can indicate anxiety or excitement.",
+            "sent5": "The diagnostic of a rash helped the doctor narrow down the possible illnesses."
         },
         {
             "definition": "A test or procedure used to identify a disease or condition",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The blood test was a crucial diagnostic in determining the illness.",
+            "sent2": "She underwent various diagnostics to pinpoint the cause of her symptoms.",
+            "sent3": "The diagnostic procedure felt like a strange adventure into her own body.",
+            "sent4": "The MRI scan served as a powerful diagnostic, revealing hidden issues.",
+            "sent5": "The diagnostic test was like a detective, uncovering the truth behind the patient's health concerns."
         }
     ]
 }

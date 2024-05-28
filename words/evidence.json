@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "The available body of facts or information indicating whether a belief or proposition is true or valid.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The detective found fingerprints as evidence at the crime scene.",
+            "sent2": "The DNA evidence proved the suspect's guilt.",
+            "sent3": "The evidence of the missing cookies pointed to the family dog as the culprit.",
+            "sent4": "Her flushed cheeks were evidence of her embarrassment.",
+            "sent5": "The torn map was clear evidence of their adventurous journey."
         },
         {
             "definition": "Something that makes plain or clear; an indication or sign.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The dark clouds were evidence of an approaching storm.",
+            "sent2": "His smile was evidence of his happiness.",
+            "sent3": "The empty cookie jar was evidence that someone had a sweet tooth.",
+            "sent4": "The broken window was evidence of a break-in.",
+            "sent5": "The loud thunder was clear evidence of the storm's intensity."
         }
     ]
 }

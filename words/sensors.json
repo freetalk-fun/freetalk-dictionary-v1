@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A device that detects or measures a physical property and records, indicates, or otherwise responds to it.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The sensors in the security system alerted the guards to the intruder's presence.",
+            "sent2": "The sensors in the car's airbag system deployed upon impact.",
+            "sent3": "The sensors in the smart fridge thought the milk was about to expire and sent a notification.",
+            "sent4": "Her intuition acted as sensors, warning her of the impending danger.",
+            "sent5": "The sensors on the weather vane spun wildly in the approaching storm."
         },
         {
             "definition": "A device that receives and responds to a signal or stimulus.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The sensors on the robot's skin allowed it to feel the slightest touch.",
+            "sent2": "The sensors on the satellite detected the incoming data transmission.",
+            "sent3": "The sensors on the automatic door mistook a fly for a person and opened unexpectedly.",
+            "sent4": "His heart acted as sensors, reacting to her presence with a quickened beat.",
+            "sent5": "The sensors on the security camera captured every movement in the dark alley."
         }
     ]
 }

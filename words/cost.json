@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "The amount that has to be paid or spent to buy or obtain something.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The cost of the toy was five dollars.",
+            "sent2": "She couldn't afford the cost of the new phone.",
+            "sent3": "The cost of admission to the zoo was a bargain for all the fun we had.",
+            "sent4": "The cost of success is often hard work and dedication.",
+            "sent5": "The cost of neglecting your health can be high in the long run."
         },
         {
             "definition": "An amount that is given up in order to gain or achieve something.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The cost of missing the meeting was a missed opportunity.",
+            "sent2": "He was willing to pay any cost to achieve his dream.",
+            "sent3": "The cost of skipping breakfast was feeling hungry all morning.",
+            "sent4": "The cost of fame can sometimes be loss of privacy.",
+            "sent5": "The cost of friendship is often loyalty and trust."
         },
         {
             "definition": "To require the payment of (a specified sum of money) in order to be bought or obtained.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The store will cost you ten dollars for that shirt.",
+            "sent2": "It will cost us a lot to repair the car.",
+            "sent3": "It would cost a fortune to buy all the books on my wishlist.",
+            "sent4": "His mistake could cost him his job.",
+            "sent5": "The decision to delay the project could cost us valuable time."
         }
     ]
 }

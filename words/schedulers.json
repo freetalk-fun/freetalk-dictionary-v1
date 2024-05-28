@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A person or thing that schedules.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The schedulers at the office create our daily timetables.",
+            "sent2": "The school's schedulers arranged the classes for the semester.",
+            "sent3": "The busy schedulers in the kitchen made sure the meals were served on time.",
+            "sent4": "The schedulers of the train system keep everything running smoothly.",
+            "sent5": "The schedulers for the event meticulously planned every detail to perfection."
         },
         {
             "definition": "A software program or system that organizes and plans tasks or events.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I rely on schedulers to remind me of important meetings.",
+            "sent2": "The company uses schedulers to manage their project timelines.",
+            "sent3": "The quirky schedulers on my phone always keep me on track.",
+            "sent4": "The schedulers on the computer work tirelessly to keep everything in order.",
+            "sent5": "The advanced schedulers in the software streamline our workflow efficiently."
         }
     ]
 }

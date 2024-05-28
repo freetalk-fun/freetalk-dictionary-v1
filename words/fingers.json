@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "The five digits on each hand.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "She counted the fingers on her hand.",
+            "sent2": "He held the pencil between his fingers.",
+            "sent3": "The magician made the coin disappear with a snap of his fingers.",
+            "sent4": "Her fingers danced across the piano keys.",
+            "sent5": "The baby wrapped her tiny fingers around her mother's thumb."
         },
         {
             "definition": "To touch or handle with the fingers.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She gently fingers the delicate fabric.",
+            "sent2": "He fingers the smooth surface of the table.",
+            "sent3": "The detective carefully fingers the evidence at the crime scene.",
+            "sent4": "She fingers the petals of the flower, feeling their softness.",
+            "sent5": "He nervously fingers the edge of his shirt during the interview."
         },
         {
             "definition": "To indicate or point with the fingers.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She fingers the map to show the route.",
+            "sent2": "He fingers the menu to choose his order.",
+            "sent3": "The teacher fingers the correct answer on the test paper.",
+            "sent4": "She fingers the direction to turn at the crossroads.",
+            "sent5": "He fingers the key on the ring to unlock the door."
         }
     ]
 }

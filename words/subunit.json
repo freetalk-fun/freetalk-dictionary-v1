@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A component or part of a larger unit",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The engine is a crucial subunit of the car.",
+            "sent2": "The subunit of the necklace broke off.",
+            "sent3": "The subunit of the puzzle was missing, making it impossible to complete.",
+            "sent4": "Each player is a subunit in the team, contributing to the overall success.",
+            "sent5": "The subunit of the molecule determines its function and properties."
         },
         {
             "definition": "A smaller unit that is part of a larger structure or organization",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The department is a subunit of the company.",
+            "sent2": "Each subunit of the machine has a specific function.",
+            "sent3": "The subunit of the choir sang out of tune, causing laughter among the audience.",
+            "sent4": "In the forest, each tree is a subunit of the ecosystem, playing a vital role.",
+            "sent5": "The subunit of the book club met to discuss their latest read."
         }
     ]
 }

@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A medicine or treatment for a disease or injury.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The doctor prescribed a remedy for my cold.",
+            "sent2": "She took the herbal remedy to help with her headache.",
+            "sent3": "The remedy tasted terrible, but it made me feel better.",
+            "sent4": "His laughter was the remedy that cured her sadness.",
+            "sent5": "The remedy worked like magic, clearing up the rash overnight."
         },
         {
             "definition": "A solution to a problem or difficulty.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Talking to a friend can be a great remedy for feeling lonely.",
+            "sent2": "The compromise they reached was the perfect remedy for their disagreement.",
+            "sent3": "His silly jokes always serve as a remedy to lighten the mood.",
+            "sent4": "Laughter is often the best remedy for a stressful day.",
+            "sent5": "The remedy for their financial troubles was a budgeting plan."
         },
         {
             "definition": "To correct or improve something.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She tried to remedy the situation by apologizing.",
+            "sent2": "The mechanic worked quickly to remedy the issue with the car.",
+            "sent3": "His attempt to remedy the broken vase only made it worse.",
+            "sent4": "They needed to remedy the leak in the roof before the rain came.",
+            "sent5": "The teacher helped him remedy his mistake by explaining the correct answer."
         }
     ]
 }

@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A person who defends someone or something.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The defenders stood guard at the castle gates.",
+            "sent2": "The defenders protected the village from harm.",
+            "sent3": "The defenders were like brave knights in shining armor.",
+            "sent4": "The defenders shielded the town from danger like a sturdy fortress.",
+            "sent5": "The defenders were the heroes who kept the community safe."
         },
         {
             "definition": "A military or sports player who protects their team or goal.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The soccer defenders blocked the opponent's shots.",
+            "sent2": "The basketball defenders prevented the other team from scoring.",
+            "sent3": "The football defenders were like a human wall on the field.",
+            "sent4": "The hockey defenders guarded the goal like a fortress.",
+            "sent5": "The volleyball defenders were crucial in stopping the opposing team."
         },
         {
             "definition": "A device or system that protects against harm or unauthorized access.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The security system acted as the defenders of the building.",
+            "sent2": "The antivirus software acted as the defenders against cyber threats.",
+            "sent3": "The firewall defenders kept the hackers at bay.",
+            "sent4": "The encryption defenders safeguarded the sensitive information.",
+            "sent5": "The password protectors were the digital defenders of privacy."
         }
     ]
 }

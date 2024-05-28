@@ -3,23 +3,48 @@
     "meanings": [
         {
             "definition": "Take away",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Please remove your shoes before entering the house.",
+            "sent2": "I need to remove the old paint before applying a new coat.",
+            "sent3": "He tried to remove the frown from his face but couldn't help smiling.",
+            "sent4": "Her words had the power to remove all doubts from my mind.",
+            "sent5": "The magician performed a trick to remove the coin from behind my ear."
         },
         {
             "definition": "Eliminate",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "To stay healthy, it's important to remove unhealthy habits from your routine.",
+            "sent2": "The team decided to remove the weakest player from the lineup.",
+            "sent3": "She wanted to remove all traces of the embarrassing incident from her memory.",
+            "sent4": "The detective worked tirelessly to remove any possibility of error from the investigation.",
+            "sent5": "The antivirus software can effectively remove any threats from your computer."
         },
         {
             "definition": "Extract",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The dentist needed to remove the decayed tooth to relieve the pain.",
+            "sent2": "To make tea, you need to remove the tea bag after it has steeped for a few minutes.",
+            "sent3": "She tried to remove the key information from the lengthy report.",
+            "sent4": "The archaeologist carefully removed the ancient artifact from the excavation site.",
+            "sent5": "The recipe requires you to remove the seeds from the fruit before blending."
         },
         {
             "definition": "Displace",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The floodwaters can remove people from their homes and displace them to safer areas.",
+            "sent2": "The new road construction will remove some trees and displace the local wildlife.",
+            "sent3": "The unexpected arrival of the new employee will remove the current manager from his position.",
+            "sent4": "The strong winds can remove loose objects and displace them across the yard.",
+            "sent5": "The earthquake had the power to remove entire buildings and displace families."
         },
         {
             "definition": "Erase",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "You can use an eraser to remove the mistake from your paper.",
+            "sent2": "The digital artist can easily remove unwanted elements from the image.",
+            "sent3": "She wished she could remove the hurtful words she had said in anger.",
+            "sent4": "Time cannot remove the memories, but it can soften their edges.",
+            "sent5": "The storm seemed to remove all traces of the sandcastle, as if it had never existed."
         }
     ]
 }

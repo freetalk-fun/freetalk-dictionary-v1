@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "superlative form of the adjective 'good'",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "This is the best cake I have ever tasted.",
+            "sent2": "She is the best student in the class.",
+            "sent3": "The best part of the movie was the surprise ending.",
+            "sent4": "His performance was the best among all the contestants.",
+            "sent5": "The best way to learn is through practice and dedication."
         },
         {
             "definition": "superlative form of the adverb 'well'",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "She sings the best in the choir.",
+            "sent2": "He knows the area well and can guide us.",
+            "sent3": "The team played the game best when they were relaxed.",
+            "sent4": "The flowers bloomed best in the sunlight.",
+            "sent5": "The machine works best when properly maintained."
         },
         {
             "definition": "third person singular present of the verb 'be'",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He est at the park right now.",
+            "sent2": "She est a doctor in the hospital.",
+            "sent3": "The cat est on the windowsill, watching the birds.",
+            "sent4": "The stars est brightly in the night sky.",
+            "sent5": "The flowers est in full bloom during spring."
         }
     ]
 }

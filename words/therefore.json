@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "For that reason; consequently.",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "She forgot her umbrella, therefore she got wet in the rain.",
+            "sent2": "He didn't study for the test, therefore he failed.",
+            "sent3": "The cat knocked over the vase, therefore creating a mess.",
+            "sent4": "His kindness towards others, therefore, made him popular in school.",
+            "sent5": "The loud thunder, therefore, startled the sleeping dog."
         },
         {
             "definition": "As a result of that.",
-            "pos": "conjunction"
+            "pos": "conjunction",
+            "sent1": "She loves to read, therefore she has a large collection of books.",
+            "sent2": "He practiced every day, therefore he improved his skills.",
+            "sent3": "The cake was delicious, therefore disappearing quickly at the party.",
+            "sent4": "The sun set behind the mountains, therefore painting the sky in beautiful colors.",
+            "sent5": "The team worked hard, therefore winning the championship."
         }
     ]
 }

@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To communicate information or facts to someone",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I will tell you about my day at school.",
+            "sent2": "Please tell me what you learned in class today.",
+            "sent3": "Let me tell you a funny joke I heard at recess.",
+            "sent4": "Her smile told me she was happy without saying a word.",
+            "sent5": "The teacher's tone of voice told us she was proud of our hard work."
         },
         {
             "definition": "To reveal or disclose something",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He will tell us the secret surprise party plan.",
+            "sent2": "Can you tell me where you hid my birthday present?",
+            "sent3": "The detective will tell us who stole the missing cookies.",
+            "sent4": "The dark clouds tell of an approaching storm.",
+            "sent5": "The map's markings tell us where the buried treasure lies."
         },
         {
             "definition": "To give an account or narrative of something",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Grandpa loves to tell stories about his adventures as a young man.",
+            "sent2": "The book will tell the tale of a brave knight and a fierce dragon.",
+            "sent3": "Let me tell you about the time I got lost in the forest.",
+            "sent4": "The painting tells a vivid story of love and loss.",
+            "sent5": "The old photograph tells a tale of a bygone era."
         }
     ]
 }

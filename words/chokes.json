@@ -3,19 +3,21 @@
     "meanings": [
         {
             "definition": "To have difficulty in breathing",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "When he caught a cold, he chokes while trying to sleep.",
+            "sent2": "She chokes when she runs too fast.",
+            "sent3": "During the funny movie, he chokes on his popcorn and spills it everywhere.",
+            "sent4": "The traffic jam chokes the city streets, making it hard to move.",
+            "sent5": "The thick smoke chokes the air, making it hard to breathe."
         },
         {
             "definition": "To prevent from breathing",
-            "pos": "verb"
-        },
-        {
-            "definition": "A device to control the flow of a fluid",
-            "pos": "noun"
-        },
-        {
-            "definition": "A feeling of tightness in the throat",
-            "pos": "noun"
+            "pos": "verb",
+            "sent1": "The tight collar chokes the puppy, so it can't bark properly.",
+            "sent2": "He chokes the weeds in his garden to keep them from growing.",
+            "sent3": "She playfully chokes her friend during a game of tag.",
+            "sent4": "The vines chokes the tree, slowly cutting off its sunlight.",
+            "sent5": "The handkerchief chokes the airflow, making it hard to breathe."
         }
     ]
 }

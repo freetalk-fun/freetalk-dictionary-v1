@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A unit of data transfer rate equal to 1,000 bits per second.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I downloaded a file at a speed of 500 kilobits per second.",
+            "sent2": "The internet plan offers a speed of 100 kilobits per second.",
+            "sent3": "My computer is so slow, it feels like it's processing data at a snail's pace of kilobits.",
+            "sent4": "Her thoughts raced through her mind at a million kilobits per second.",
+            "sent5": "The information flowed into his brain like a river of kilobits."
         },
         {
             "definition": "A unit of measurement for digital information storage, equal to 1,000 bits.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The USB drive has a storage capacity of 16 kilobits.",
+            "sent2": "The email attachment size is only a few kilobits.",
+            "sent3": "I have so many ideas in my head, it's like my brain is a kilobits warehouse!",
+            "sent4": "His memory was like a kilobits library, storing vast amounts of information.",
+            "sent5": "The cloud storage can hold kilobits of data effortlessly."
         }
     ]
 }

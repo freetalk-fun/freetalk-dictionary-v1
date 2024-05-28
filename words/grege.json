@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A flock or herd of animals.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The grege of sheep grazed peacefully in the meadow.",
+            "sent2": "The farmer counted his grege of cows before heading home.",
+            "sent3": "The grege of ducks waddled in a line, quacking happily.",
+            "sent4": "The grege of birds filled the sky with their fluttering wings.",
+            "sent5": "The grege of fish swam together in perfect harmony."
         },
         {
             "definition": "A group or crowd of people.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The grege of children played joyfully in the park.",
+            "sent2": "The grege of fans cheered loudly at the concert.",
+            "sent3": "The grege of students rushed to the cafeteria for lunch.",
+            "sent4": "The grege of protesters marched through the streets, chanting slogans.",
+            "sent5": "The grege of dancers moved in sync to the music."
         },
         {
             "definition": "To gather or assemble in a group.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The students grege together for a group project.",
+            "sent2": "Neighbors grege in the park for a community picnic.",
+            "sent3": "Let's grege all our friends for a surprise party!",
+            "sent4": "The team will grege before the big game to discuss strategy.",
+            "sent5": "We should grege our thoughts before making a decision."
         }
     ]
 }

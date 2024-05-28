@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A distinct period or stage in a process or development.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "During the different phases of the moon, it appears to change shape.",
+            "sent2": "The project is currently in its final phases before completion.",
+            "sent3": "In the game, each player must go through various phases to win.",
+            "sent4": "Her life went through phases like the seasons, each bringing something new.",
+            "sent5": "The caterpillar's transformation into a butterfly is a beautiful example of phases in nature."
         },
         {
             "definition": "To carry out in gradual stages.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She phases her study sessions to avoid feeling overwhelmed.",
+            "sent2": "The company plans to phase in the new technology over the next few months.",
+            "sent3": "He phases his workout routine to build strength effectively.",
+            "sent4": "The artist phases the colors in the painting to create a smooth transition.",
+            "sent5": "Phasing in the changes slowly ensures a smoother transition for everyone involved."
         },
         {
             "definition": "To adjust in response to changing circumstances.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She phases her schedule to accommodate unexpected meetings.",
+            "sent2": "The team quickly phased their strategy when new information came to light.",
+            "sent3": "He phases his plans when the weather forecast changes suddenly.",
+            "sent4": "Adapting to the situation, she phases her approach to meet the new requirements.",
+            "sent5": "In times of uncertainty, it is important to phase your decisions wisely."
         }
     ]
 }

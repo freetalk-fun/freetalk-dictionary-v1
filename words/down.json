@@ -3,23 +3,48 @@
     "meanings": [
         {
             "definition": "Toward or in a lower place or position",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "She climbed up the stairs and then walked back down.",
+            "sent2": "The ball rolled down the hill quickly.",
+            "sent3": "The cat jumped down from the tree and landed softly.",
+            "sent4": "Her mood went down like a deflating balloon.",
+            "sent5": "The sun went down behind the mountains, painting the sky in hues of orange and pink."
         },
         {
             "definition": "In a descending direction",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "The airplane flew down towards the landing strip.",
+            "sent2": "The leaves fell down from the tree in autumn.",
+            "sent3": "The kite spiraled down to the ground after the string broke.",
+            "sent4": "The waterfall cascaded down the rocks with a thunderous roar.",
+            "sent5": "The elevator slowly moved down to the basement floor."
         },
         {
             "definition": "To a lower level or intensity",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She turned down the volume of the music to study.",
+            "sent2": "The chef decided to simmer the sauce down to thicken it.",
+            "sent3": "He watered the plant to bring down the wilting leaves.",
+            "sent4": "The teacher tried to calm the excited students down before the test.",
+            "sent5": "The company had to scale down its operations due to financial difficulties."
         },
         {
             "definition": "In a state of being depressed or sad",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "After the loss, she felt really down and needed comfort.",
+            "sent2": "He looked down as he walked, lost in his thoughts.",
+            "sent3": "The rainy weather made everyone feel a bit down.",
+            "sent4": "The down expression on her face showed her disappointment.",
+            "sent5": "The down mood in the room was palpable, affecting everyone present."
         },
         {
             "definition": "To reduce in amount or intensity",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "They decided to cut down on expenses to save money.",
+            "sent2": "The doctor advised him to cut down on sugary foods for better health.",
+            "sent3": "She tried to calm down her excitement to focus on the task at hand.",
+            "sent4": "The company had to scale down its workforce due to the economic downturn.",
+            "sent5": "He watered down the strong coffee to make it more palatable."
         }
     ]
 }

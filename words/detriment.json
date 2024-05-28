@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Harm or damage",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The fall caused great detriment to his knee.",
+            "sent2": "The storm's strong winds resulted in significant detriment to the crops.",
+            "sent3": "Trying to juggle too many tasks at once proved to be a detriment to his productivity.",
+            "sent4": "Lack of sleep can be a detriment to one's overall health.",
+            "sent5": "Ignoring regular maintenance can lead to the detriment of your car's engine."
         },
         {
             "definition": "Something that causes harm or damage",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The toxic chemicals were a clear detriment to the environment.",
+            "sent2": "Leaving the door unlocked can be a detriment to home security.",
+            "sent3": "Eating too much candy may be a detriment to your teeth.",
+            "sent4": "His careless actions proved to be a detriment to the team's success.",
+            "sent5": "Not wearing sunscreen can result in a detriment to your skin."
         }
     ]
 }

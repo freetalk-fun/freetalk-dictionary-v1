@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A solid object with six square faces of equal size.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I saw a cube on the table.",
+            "sent2": "The dice is a cube.",
+            "sent3": "The cube of cheese looked delicious.",
+            "sent4": "The building rose like a giant cube in the city skyline.",
+            "sent5": "The ice cube melted quickly in the sun."
         },
         {
             "definition": "To raise a number or quantity to the third power.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She needed to cube the number for the math problem.",
+            "sent2": "He will cube the value to get the result.",
+            "sent3": "I accidentally cubed the wrong number in the equation.",
+            "sent4": "The scientist cubed the data to analyze it further.",
+            "sent5": "Remember to cube the final answer for the correct solution."
         },
         {
             "definition": "A small block of food, typically with a square shape.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I added a cube of sugar to my tea.",
+            "sent2": "The recipe called for a cube of butter.",
+            "sent3": "The chef placed a cube of chocolate on the dessert.",
+            "sent4": "The snack included a cube of cheese.",
+            "sent5": "She nibbled on a cube of watermelon at the picnic."
         }
     ]
 }

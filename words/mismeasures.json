@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To measure incorrectly or inaccurately.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She often mismeasures ingredients when baking cookies.",
+            "sent2": "The tailor mismeasures the fabric, leading to ill-fitting clothes.",
+            "sent3": "The carpenter mismeasures the wood and ends up with a crooked table.",
+            "sent4": "His judgment mismeasures the situation, causing unnecessary worry.",
+            "sent5": "The scientist's mismeasure of the data led to flawed conclusions."
         },
         {
             "definition": "An incorrect or inaccurate measurement.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The mismeasure of the room's dimensions resulted in furniture that didn't fit.",
+            "sent2": "The mismeasure of the ingredients ruined the cake.",
+            "sent3": "The mismeasure of time made him late for the meeting.",
+            "sent4": "The mismeasure of distance on the map led them astray.",
+            "sent5": "The mismeasure of weight caused the scale to give wrong readings."
         }
     ]
 }

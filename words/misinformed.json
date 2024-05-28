@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Incorrect or inaccurate information given to someone",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "She received misinformed advice about the weather.",
+            "sent2": "The misinformed report led to confusion.",
+            "sent3": "The misinformed rumor spread quickly around the school.",
+            "sent4": "His misinformed beliefs clouded his judgment.",
+            "sent5": "The misinformed data caused chaos in the project."
         },
         {
             "definition": "To give someone incorrect or inaccurate information",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He misinformed his friend about the meeting time.",
+            "sent2": "They often misinform customers about product features.",
+            "sent3": "The misinformed prank backfired on him.",
+            "sent4": "She misinformed her parents about her whereabouts.",
+            "sent5": "The misinformed directions led them astray."
         }
     ]
 }

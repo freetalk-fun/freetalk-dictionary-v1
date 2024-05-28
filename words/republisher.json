@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A person or entity that republishes content.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The republisher shared the article on their website.",
+            "sent2": "The republisher reposted the video on social media.",
+            "sent3": "The republisher accidentally published the same news twice.",
+            "sent4": "She became a republisher of knowledge, spreading information far and wide.",
+            "sent5": "The diligent republisher ensured that the information reached a larger audience."
         },
         {
             "definition": "To publish again.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He will republisher the blog post tomorrow.",
+            "sent2": "She republishers old photos on her blog regularly.",
+            "sent3": "The teacher asked the student to republisher his homework for a better grade.",
+            "sent4": "The artist decided to republisher his first album with new tracks.",
+            "sent5": "The company plans to republisher the report with updated data next month."
         }
     ]
 }

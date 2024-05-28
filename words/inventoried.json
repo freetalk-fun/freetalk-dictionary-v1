@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To make a detailed list of items",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I inventoried all the toys in my room to see which ones were missing.",
+            "sent2": "The store manager inventoried the new shipment of products as they arrived.",
+            "sent3": "My little sister inventoried her stuffed animals and found she had two of the same bear.",
+            "sent4": "She inventoried her memories, carefully cataloging each significant moment.",
+            "sent5": "The detective inventoried the evidence, hoping to find a clue to solve the case."
         },
         {
             "definition": "Having been recorded in an inventory",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The inventoried items were neatly organized on the shelves.",
+            "sent2": "The missing books were later found and marked as inventoried.",
+            "sent3": "The inventoried supplies were all accounted for, except for one missing pen.",
+            "sent4": "The inventoried goods were ready for shipment to the warehouse.",
+            "sent5": "The inventoried artifacts were carefully preserved in the museum's collection."
         }
     ]
 }

@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A unit of electrical power equal to 100 watts.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The light bulb consumed one var of electricity.",
+            "sent2": "The fan in the room uses up a var of power.",
+            "sent3": "The toaster oven decided to rebel and demand two vars of energy.",
+            "sent4": "Her enthusiasm for the project was like a var of energy, lighting up the room.",
+            "sent5": "The var of electricity surged through the wires, illuminating the street."
         },
         {
             "definition": "A unit of reactive power in an alternating-current circuit equal to the product of the current and the reactive component of the voltage.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The var in the circuit caused a delay in the power flow.",
+            "sent2": "Engineers need to account for the var when designing the circuit.",
+            "sent3": "The mischievous var in the wires played tricks on the electrician.",
+            "sent4": "The var of power danced through the circuit, creating a mesmerizing display.",
+            "sent5": "The var of electricity hummed with potential, waiting to be unleashed."
         },
         {
             "definition": "A unit of electrical power equal to 100 volt-amperes.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The device required a var of power to function properly.",
+            "sent2": "The transformer converted the electricity into vars for the equipment.",
+            "sent3": "The vars in the system seemed to have a mind of their own.",
+            "sent4": "The var of energy pulsed through the wires like a heartbeat.",
+            "sent5": "The var of power surged through the machine, bringing it to life."
         }
     ]
 }

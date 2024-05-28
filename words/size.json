@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "The physical dimensions, proportions, magnitude, or extent of an object.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The size of the box was small.",
+            "sent2": "She measured the size of the room with a tape measure.",
+            "sent3": "The tiny kitten tried to play with a toy twice its size.",
+            "sent4": "His heart was filled with a size of joy he had never experienced before.",
+            "sent5": "The size of the mountain was so immense that it took their breath away."
         },
         {
             "definition": "To make larger or smaller.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He needed to size the shirt down to fit properly.",
+            "sent2": "The baker decided to size the cookies bigger for the party.",
+            "sent3": "She jokingly asked if she could size her workload to be smaller.",
+            "sent4": "The artist sized the painting up to make it more impactful.",
+            "sent5": "The gardener sized the bushes perfectly to fit the garden design."
         },
         {
             "definition": "A standard of measurement.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The tailor used a specific size for the dress pattern.",
+            "sent2": "The ruler was the perfect size for measuring small objects.",
+            "sent3": "The comedian made a size joke about rulers in his stand-up routine.",
+            "sent4": "In the world of fashion, beauty is often associated with a certain size.",
+            "sent5": "The size of the footprints indicated a large animal had passed through."
         }
     ]
 }

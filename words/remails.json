@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To send (letters, packages, etc.) again or back to the original recipient.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She remails the lost package to the customer.",
+            "sent2": "He always remails important documents to ensure they arrive safely.",
+            "sent3": "The forgetful postman remails the letters he misplaced.",
+            "sent4": "Her kindness remails in the hearts of those she helps.",
+            "sent5": "The echo of her laughter remails in the empty room."
         },
         {
             "definition": "The act of sending something again or back to the original recipient.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The remails of the returned letters were carefully sorted.",
+            "sent2": "She received multiple remails of the same magazine issue.",
+            "sent3": "The office had a pile of remails waiting to be processed.",
+            "sent4": "The remails from the post office arrived later than expected.",
+            "sent5": "The remails from the lost package were finally located."
         }
     ]
 }

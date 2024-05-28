@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Not connected to an electrical power source.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The flashlight was unplugged and wouldn't turn on.",
+            "sent2": "The laptop battery died because it was left unplugged.",
+            "sent3": "The robot dance party was unplugged, so they had to dance without music.",
+            "sent4": "Her mind felt unplugged from reality as she gazed at the stars.",
+            "sent5": "The unplugged phone was useless without a charger."
         },
         {
             "definition": "To remove a plug from a socket.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He unplugged the toaster after making breakfast.",
+            "sent2": "Remember to always unplug the iron after using it.",
+            "sent3": "The magician unplugged the microphone to make his voice disappear.",
+            "sent4": "She felt like she needed to unplug from the world for a while.",
+            "sent5": "The sound suddenly unplugged, leaving the room in silence."
         },
         {
             "definition": "To perform without the use of electric amplification.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The band decided to unplug their guitars for the acoustic set.",
+            "sent2": "She unplugged her keyboard and sang without any backup music.",
+            "sent3": "The comedian unplugged the microphone and told jokes without amplification.",
+            "sent4": "His words unplugged emotions in the audience, making them cry.",
+            "sent5": "The singer's voice unplugged raw emotions in the listeners."
         }
     ]
 }

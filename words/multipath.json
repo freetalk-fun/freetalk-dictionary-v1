@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A path for signals to travel along multiple routes.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The multipath allowed the signals to reach their destination through different routes.",
+            "sent2": "The network engineer configured the multipath for redundancy and load balancing.",
+            "sent3": "The multipath was like a maze for the signals, but they always found their way.",
+            "sent4": "In a world full of twists and turns, the multipath ensured the signals never got lost.",
+            "sent5": "The multipath was like a highway system for data, with multiple lanes to choose from."
         },
         {
             "definition": "To travel along multiple paths.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The data packets multipathed through various routes to avoid congestion.",
+            "sent2": "The hiker decided to multipath through the forest to explore different trails.",
+            "sent3": "The adventurous squirrel loved to multipath around the park, never taking the same route twice.",
+            "sent4": "She multipathed through the city, discovering hidden gems in every alley.",
+            "sent5": "The river multipathed through the valley, creating a beautiful and meandering path."
         }
     ]
 }

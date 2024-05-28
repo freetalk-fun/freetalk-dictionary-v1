@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A type of mechanical connection using ridges or teeth",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The engineer designed the splined joint to securely connect the two parts.",
+            "sent2": "The mechanic inspected the splined connection for any signs of wear.",
+            "sent3": "The robot's arm had a splined joint that allowed it to move smoothly and efficiently.",
+            "sent4": "The splined connection between the gears ensured a seamless transfer of power.",
+            "sent5": "The splined joint was like a puzzle piece, fitting perfectly to create a strong bond."
         },
         {
             "definition": "To fit together using splines",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He splined the two pieces together to form a sturdy structure.",
+            "sent2": "The carpenter splined the boards to create a seamless tabletop.",
+            "sent3": "She splined the parts together with precision, like solving a puzzle.",
+            "sent4": "The artist splined the colors on the canvas to create a beautiful painting.",
+            "sent5": "The mechanic splined the gears, ensuring they worked together smoothly."
         },
         {
             "definition": "Having splines or ridges for connecting parts",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The splined shaft provided a secure connection between the two components.",
+            "sent2": "The bicycle had a splined crankset for efficient power transfer.",
+            "sent3": "The splined surface allowed for easy attachment of the additional module.",
+            "sent4": "The splined edges of the gear ensured a snug fit with the corresponding part.",
+            "sent5": "The splined design of the tool made it easy to connect to other equipment."
         }
     ]
 }

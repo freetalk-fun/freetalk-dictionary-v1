@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A system of writing for the blind, using raised dots to represent letters and numbers.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "She learned to read braille at school.",
+            "sent2": "The library had books in braille for visually impaired readers.",
+            "sent3": "The braille on the elevator buttons was worn out from frequent use.",
+            "sent4": "Her fingers danced over the braille pages like a skilled pianist.",
+            "sent5": "The braille alphabet consists of patterns of raised dots."
         },
         {
             "definition": "To write or transcribe in braille.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He brailled the menu for his blind friend.",
+            "sent2": "The teacher brailles the lesson notes for the visually impaired student.",
+            "sent3": "She decided to braille her shopping list to practice her skills.",
+            "sent4": "The author brailled his latest novel for accessibility.",
+            "sent5": "They braille important documents to ensure equal access for all."
         }
     ]
 }

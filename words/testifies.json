@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To make a statement based on personal knowledge or belief.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She testifies that she saw the cat in the garden.",
+            "sent2": "He testifies his innocence in front of the judge.",
+            "sent3": "The parrot testifies about who ate the cookies.",
+            "sent4": "The old tree testifies to the passing of time with its rings.",
+            "sent5": "The witness testifies confidently about what she saw."
         },
         {
             "definition": "To serve as evidence or proof.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The fingerprints on the weapon testifies to his guilt.",
+            "sent2": "The data testifies to the effectiveness of the new treatment.",
+            "sent3": "The broken vase testifies to the cat's mischievous behavior.",
+            "sent4": "The blooming flowers testifies to the arrival of spring.",
+            "sent5": "The clear sky testifies to good weather for the picnic."
         },
         {
             "definition": "To give testimony in a court of law.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The witness testifies in the murder trial.",
+            "sent2": "The defendant testifies about his whereabouts on the night of the crime.",
+            "sent3": "The judge testifies to the importance of honesty in court.",
+            "sent4": "The lawyer's argument testifies to his dedication to the case.",
+            "sent5": "The court reporter testifies to the accuracy of the transcript."
         }
     ]
 }

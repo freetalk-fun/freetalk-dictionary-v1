@@ -2,16 +2,31 @@
     "term": "coinferred",
     "meanings": [
         {
-            "definition": "Coinferred: to deduce or conclude jointly",
-            "pos": "verb"
+            "definition": "to deduce or conclude jointly",
+            "pos": "verb",
+            "sent1": "We coinferred that they were siblings from their similar features.",
+            "sent2": "The detectives coinferred that the suspect was lying based on his inconsistent statements.",
+            "sent3": "After much discussion, we coinferred that pizza was the best choice for dinner.",
+            "sent4": "She coinferred his true intentions from the tone of his voice.",
+            "sent5": "The teacher coinferred the correct answer from the student's explanation."
         },
         {
-            "definition": "Coinferred: past tense of coinfer",
-            "pos": "verb"
+            "definition": "past tense of coinfer",
+            "pos": "verb",
+            "sent1": "Yesterday, she coinferred the solution to the math problem.",
+            "sent2": "He coinferred the location of the hidden treasure last week.",
+            "sent3": "The cat coinferred that the new toy was meant for her to play with.",
+            "sent4": "The scientist coinferred the results of the experiment after hours of analysis.",
+            "sent5": "The team coinferred the winning strategy after a long meeting."
         },
         {
-            "definition": "Coinferred: jointly deduced or concluded",
-            "pos": "adjective"
+            "definition": "jointly deduced or concluded",
+            "pos": "adjective",
+            "sent1": "Their coinferred decision led to a successful outcome.",
+            "sent2": "The coinferred agreement between the two parties was beneficial for both.",
+            "sent3": "It was a coinferred understanding that the project needed more time to be completed.",
+            "sent4": "The coinferred solution to the problem pleased everyone involved.",
+            "sent5": "The coinferred opinion of the group was to proceed with caution."
         }
     ]
 }

@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A person who delivers mail.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The postie brought letters to our house every day.",
+            "sent2": "I waved to the postie as he walked down the street with a bag of mail.",
+            "sent3": "The postie accidentally delivered the mail to the wrong address, causing a mix-up.",
+            "sent4": "The postie was like a messenger of good news, spreading joy with each delivery.",
+            "sent5": "The postie's uniform and bag of letters made him easily recognizable in the neighborhood."
         },
         {
             "definition": "To send or deliver mail.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I need to postie this letter before the post office closes.",
+            "sent2": "She postied the package to her friend who lived far away.",
+            "sent3": "He postied a birthday card to his grandma with a special surprise inside.",
+            "sent4": "The company postied the important documents to their clients for review.",
+            "sent5": "Remember to postie the invitations for the party to all the guests."
         }
     ]
 }

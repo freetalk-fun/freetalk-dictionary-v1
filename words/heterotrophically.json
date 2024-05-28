@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "In a manner that obtains nourishment from organic compounds.",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "Plants grow heterotrophically by absorbing nutrients from the soil.",
+            "sent2": "The fungi in the forest floor decompose organic matter heterotrophically.",
+            "sent3": "The caterpillar ate heterotrophically, munching on leaves all day.",
+            "sent4": "The city thrived heterotrophically, relying on resources from neighboring towns.",
+            "sent5": "The vampire bat feeds heterotrophically, drinking blood for sustenance."
         },
         {
             "definition": "Relating to an organism that cannot synthesize its own food and must obtain it from other sources.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The panda is a heterotrophically dependent animal, relying on bamboo for nutrition.",
+            "sent2": "Heterotrophically organisms like lions hunt for their food in the wild.",
+            "sent3": "The lazy sloth humorously lives a heterotrophically lifestyle, hanging around waiting for food.",
+            "sent4": "In the concrete jungle, humans behave heterotrophically, relying on supermarkets for sustenance.",
+            "sent5": "The bird built its nest heterotrophically, using materials gathered from the environment."
         }
     ]
 }

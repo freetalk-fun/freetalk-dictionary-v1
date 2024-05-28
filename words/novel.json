@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A fictitious prose narrative of book length, typically representing character and action with some degree of realism.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I read a novel about a brave knight on a quest.",
+            "sent2": "She borrowed a novel from the library to read over the weekend.",
+            "sent3": "The novel she wrote was so funny, it made everyone laugh.",
+            "sent4": "His life felt like a novel, full of unexpected twists and turns.",
+            "sent5": "The novel painted a vivid picture of life in a small village."
         },
         {
             "definition": "Different from anything seen or known before; new or unusual.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The new student had a novel way of solving math problems.",
+            "sent2": "Her novel idea for the project impressed the entire team.",
+            "sent3": "It was a novel experience to taste the exotic fruit.",
+            "sent4": "The sunset painted the sky in novel shades of pink and orange.",
+            "sent5": "The novel design of the building caught everyone's attention."
         }
     ]
 }

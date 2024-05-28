@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To stop or interrupt the progress or course of something.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The teacher quickly intercepts the student before he leaves the classroom.",
+            "sent2": "The security guard intercepts any unauthorized individuals trying to enter the building.",
+            "sent3": "The playful dog intercepts the ball mid-air, eager to continue the game.",
+            "sent4": "The superhero intercepts the villain's evil plan, saving the city from disaster.",
+            "sent5": "The goalie intercepts the soccer ball, preventing a goal from being scored."
         },
         {
             "definition": "To catch or seize something before it reaches its intended destination.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The postal worker intercepts the package before it is delivered to the wrong address.",
+            "sent2": "The spy intercepts the secret message before it falls into the wrong hands.",
+            "sent3": "The clever cat intercepts the mouse just as it tries to escape.",
+            "sent4": "The detective intercepts the criminal at the airport, foiling his escape plan.",
+            "sent5": "The goalkeeper intercepts the opponent's pass, preventing a scoring opportunity."
         },
         {
             "definition": "A point at which a line, curve, or surface intersects or crosses another.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The two roads meet at the intercepts, creating a busy intersection.",
+            "sent2": "The graph shows the intercepts where the line crosses the x and y axes.",
+            "sent3": "The treasure map marks the intercepts where the paths of the pirates converge.",
+            "sent4": "The artist's painting captures the beauty of the intercepts of light and shadow.",
+            "sent5": "The architect carefully plans the building's design to highlight the intercepts of different materials."
         }
     ]
 }

@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A surgeon",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The chirurgeon carefully operated on the patient's leg.",
+            "sent2": "The chirurgeon in the hospital is known for their skillful surgeries.",
+            "sent3": "The chirurgeon accidentally left their stethoscope inside the patient!",
+            "sent4": "The chirurgeon's scalpel danced across the skin like a graceful artist.",
+            "sent5": "The chirurgeon's steady hands saved many lives in the war."
         },
         {
             "definition": "To perform surgery",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The doctor will chirurgeon on the patient's heart tomorrow.",
+            "sent2": "It takes years of training to chirurgeon effectively.",
+            "sent3": "The chef joked that he would chirurgeon the turkey for Thanksgiving dinner.",
+            "sent4": "She had to chirurgeon through the thick layers of bureaucracy to get approval.",
+            "sent5": "The mechanic had to chirurgeon the engine to fix the problem."
         }
     ]
 }

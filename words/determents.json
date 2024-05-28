@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Something that discourages or hinders",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The constant rain was a determent to our picnic plans.",
+            "sent2": "Financial issues can be a determent to starting a new business.",
+            "sent3": "The broken umbrella was a determent to staying dry in the storm.",
+            "sent4": "Lack of motivation acted as a determent to her success.",
+            "sent5": "The loud noise was a determent to her concentration."
         },
         {
             "definition": "Factors that prevent or discourage",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Time constraints are determents to completing the project on time.",
+            "sent2": "Lack of resources can be a determent to achieving your goals.",
+            "sent3": "His fear of failure became a determent to taking risks.",
+            "sent4": "The strict rules acted as determents to creativity.",
+            "sent5": "Negative feedback can serve as determents to self-confidence."
         },
         {
             "definition": "Obstacles or barriers",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The locked gate was a determent to entering the garden.",
+            "sent2": "Language barriers can be determents to effective communication.",
+            "sent3": "The steep hill posed a determent to the hikers' progress.",
+            "sent4": "The lack of experience acted as a determent to getting the job.",
+            "sent5": "The heavy traffic was a determent to reaching the destination on time."
         }
     ]
 }

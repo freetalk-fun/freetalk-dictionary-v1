@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "past tense of cost",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Yesterday, the toy car costed five dollars.",
+            "sent2": "The ice cream cone costed two dollars at the fair.",
+            "sent3": "The magic wand costed a fortune, but it didn't even work!",
+            "sent4": "Her mistake costed her the lead in the race.",
+            "sent5": "The broken vase costed more than she could afford to replace."
         },
         {
             "definition": "estimated the cost of",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She carefully costed the ingredients for the recipe.",
+            "sent2": "The contractor costed the renovation project accurately.",
+            "sent3": "He costed the party decorations, but forgot to include balloons!",
+            "sent4": "She costed the time it would take to finish the puzzle.",
+            "sent5": "The team costed the materials for the science experiment before starting."
         },
         {
             "definition": "calculated the cost of",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The cashier costed the items in the shopping cart quickly.",
+            "sent2": "He costed the total expenses for the month in his budget.",
+            "sent3": "She costed the vacation package and was surprised by the total.",
+            "sent4": "The engineer costed the construction project down to the last nail.",
+            "sent5": "They costed the event tickets before deciding to attend."
         }
     ]
 }

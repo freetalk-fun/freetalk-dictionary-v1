@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "An earlier event or action that is regarded as an example or guide for future events.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Studying history can provide valuable precedent for making decisions.",
+            "sent2": "The court considered the precedent set by similar cases in the past.",
+            "sent3": "Using the precedent of past mistakes, she avoided making the same error.",
+            "sent4": "The success of the project set a precedent for future endeavors.",
+            "sent5": "The precedent of hard work leading to success is well-known."
         },
         {
             "definition": "A previous case or legal decision that serves as an authority for deciding a similar case in the future.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The judge referred to a precedent from a previous trial to make her ruling.",
+            "sent2": "Lawyers often rely on legal precedents to argue their cases effectively.",
+            "sent3": "The precedent of the landmark case was discussed in law school.",
+            "sent4": "The precedent set by the Supreme Court shaped future legal interpretations.",
+            "sent5": "Understanding legal precedents is crucial for practicing law."
         }
     ]
 }

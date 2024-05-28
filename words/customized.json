@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Modify (something) to suit a particular individual or task.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She customized her phone case with stickers.",
+            "sent2": "The tailor customized the dress to fit perfectly.",
+            "sent3": "He customized his lunch by adding extra cheese.",
+            "sent4": "The artist customized the painting to match the room's decor.",
+            "sent5": "They customized the car with a new paint job."
         },
         {
             "definition": "Made or done to order for a particular customer.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The shop offered customized t-shirts for sale.",
+            "sent2": "She received a customized necklace for her birthday.",
+            "sent3": "The hotel provided customized welcome baskets for each guest.",
+            "sent4": "The company created a customized software solution for the client.",
+            "sent5": "The tailor made a customized suit for the businessman."
         }
     ]
 }

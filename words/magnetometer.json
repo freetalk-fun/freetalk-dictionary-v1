@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A device used to measure the strength and direction of a magnetic field.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The magnetometer showed the north direction of the magnetic field.",
+            "sent2": "Scientists use a magnetometer to study Earth's magnetic field.",
+            "sent3": "The magnetometer decided to only measure magnetic fields on Mondays.",
+            "sent4": "Her intuition was like a magnetometer, always pointing her in the right direction.",
+            "sent5": "The magnetometer hummed softly as it analyzed the magnetic field."
         },
         {
             "definition": "An instrument that detects the presence of ferrous metals.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The security guard used a magnetometer to find hidden metal objects.",
+            "sent2": "At the airport, passengers walk through a magnetometer for safety.",
+            "sent3": "The magnetometer at the museum beeped loudly when someone tried to sneak in with metal.",
+            "sent4": "His eyes were like a magnetometer, immediately spotting any metal in the room.",
+            "sent5": "The magnetometer buzzed with excitement whenever it detected metal nearby."
         }
     ]
 }

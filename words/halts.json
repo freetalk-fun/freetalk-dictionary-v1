@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Bring or come to a stop.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The red light halts the cars at the intersection.",
+            "sent2": "The train halts at the station to let passengers on and off.",
+            "sent3": "The squirrel halts its nut-gathering to chase a butterfly.",
+            "sent4": "His heart halts for a moment as he sees her smile.",
+            "sent5": "The sudden thunderstorm halts the outdoor picnic abruptly."
         },
         {
             "definition": "A temporary stop or interruption.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The unexpected halt in production caused delays in delivery.",
+            "sent2": "The bus made a brief halt at the rest area for passengers to stretch.",
+            "sent3": "The halt in the music concert was due to technical difficulties.",
+            "sent4": "The sudden halt in the conversation left an awkward silence.",
+            "sent5": "The halt in the rain allowed the children to play outside again."
         }
     ]
 }

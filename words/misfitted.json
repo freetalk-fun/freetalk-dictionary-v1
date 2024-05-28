@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Not fitted correctly or appropriately.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The misfitted shoe was too big for my foot.",
+            "sent2": "The misfitted puzzle piece didn't match the others.",
+            "sent3": "The misfitted hat made him look like a clown.",
+            "sent4": "Her misfitted glasses gave her a comical appearance.",
+            "sent5": "The misfitted door wouldn't close properly."
         },
         {
             "definition": "To fit (something) incorrectly or inappropriately.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She misfitted the key into the wrong lock.",
+            "sent2": "He misfitted the shelf by not measuring it correctly.",
+            "sent3": "The robot misfitted the parts and ended up with a wobbly arm.",
+            "sent4": "The puzzle misfitted together like a jigsaw of chaos.",
+            "sent5": "The tailor misfitted the dress, causing it to look awkward on her."
         }
     ]
 }

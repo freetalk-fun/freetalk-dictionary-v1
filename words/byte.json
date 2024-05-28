@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A group of binary digits or bits (usually eight) operated on as a unit.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The computer processed the entire byte at once.",
+            "sent2": "I need to store this file, which is one kilobyte in size.",
+            "sent3": "The byte and the bit had a race, but the byte won by a landslide.",
+            "sent4": "In the digital world, a byte is like a tiny army marching in formation.",
+            "sent5": "The byte, a cluster of 8 bits, is the building block of digital data."
         },
         {
             "definition": "A unit of digital information in computing and telecommunications.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The email attachment is too large, it's over one megabyte.",
+            "sent2": "I downloaded a software update that was 500 bytes in size.",
+            "sent3": "The byte in the computer was feeling lonely, so it sent a message to another byte.",
+            "sent4": "Her words were like bytes of information, quickly processed by his mind.",
+            "sent5": "The byte, a fundamental unit of data, flows through the internet's veins."
         }
     ]
 }

@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A synthetic drug used to treat malaria and certain autoimmune diseases.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The doctor prescribed chloroquine for the patient's malaria.",
+            "sent2": "She took chloroquine to help with her autoimmune condition.",
+            "sent3": "The mosquitoes were scared of chloroquine because it fought against malaria.",
+            "sent4": "Her body welcomed chloroquine like a shield against the attack of malaria.",
+            "sent5": "The chloroquine pill was a lifesaver in the battle against the disease."
         },
         {
             "definition": "To treat with chloroquine.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The medical team chloroquined the infected area to stop the disease from spreading.",
+            "sent2": "He chloroquines the patients carefully to ensure their recovery.",
+            "sent3": "The scientist chloroquined the test tubes to see the effects of the drug.",
+            "sent4": "She chloroquines the cells like a protector shielding them from harm.",
+            "sent5": "Chloroquining the illness was the first step towards healing the patient."
         }
     ]
 }

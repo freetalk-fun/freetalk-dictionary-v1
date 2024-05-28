@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Used to express confusion or surprise.",
-            "pos": "interjection"
+            "pos": "interjection",
+            "sent1": "Huh, I didn't expect that!",
+            "sent2": "Huh, what's going on here?",
+            "sent3": "Huh, the cat is wearing sunglasses!",
+            "sent4": "Huh, the sky turned purple!",
+            "sent5": "Huh, the tree started talking!"
         },
         {
             "definition": "Used to seek clarification or confirmation.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Why don't you huh me if you need help?",
+            "sent2": "She always huhed before making a decision.",
+            "sent3": "He huhed the recipe to make sure he got it right.",
+            "sent4": "The detective huhed the suspect's alibi.",
+            "sent5": "The student huhed the due date for the assignment."
         },
         {
             "definition": "Used to show disbelief or skepticism.",
-            "pos": "interjection"
+            "pos": "interjection",
+            "sent1": "Huh, I don't think that's true.",
+            "sent2": "Huh, are you serious?",
+            "sent3": "Huh, a talking dog, really?",
+            "sent4": "Huh, pigs flying, sure!",
+            "sent5": "Huh, a unicorn in the backyard, unbelievable!"
         }
     ]
 }

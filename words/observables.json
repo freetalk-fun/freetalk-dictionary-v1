@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Able to be seen or noticed.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The bright stars in the night sky are observables.",
+            "sent2": "The colorful flowers in the garden are observables.",
+            "sent3": "The observables in the magic show amazed the audience.",
+            "sent4": "Her kindness was an observable trait that everyone admired.",
+            "sent5": "The observables in the painting captured the artist's attention."
         },
         {
             "definition": "Things that can be observed or perceived.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Scientists use various tools to study observables in nature.",
+            "sent2": "The observables in the experiment provided valuable data.",
+            "sent3": "The detective carefully examined the observables at the crime scene.",
+            "sent4": "The observables in the distance seemed to shimmer in the heat.",
+            "sent5": "Children were excited to explore the observables at the science museum."
         }
     ]
 }

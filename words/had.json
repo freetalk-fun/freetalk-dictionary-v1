@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "past tense of have",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Yesterday, she had a delicious meal.",
+            "sent2": "They had a fun time at the park.",
+            "sent3": "The cat had a secret stash of treats under the bed.",
+            "sent4": "The old house had a mysterious past hidden within its walls.",
+            "sent5": "The explorer had a map leading to buried treasure."
         },
         {
             "definition": "used to indicate possession, ownership, or relationship",
-            "pos": "pronoun"
+            "pos": "pronoun",
+            "sent1": "John had his favorite toy with him.",
+            "sent2": "She had a big smile on her face.",
+            "sent3": "The tree had its branches swaying in the wind.",
+            "sent4": "The book had its pages filled with adventure.",
+            "sent5": "The car had its engine roaring loudly."
         },
         {
             "definition": "used to indicate obligation or necessity",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He had to finish his homework before playing.",
+            "sent2": "She had to wake up early for work.",
+            "sent3": "The dog had to wait patiently for its treat.",
+            "sent4": "The plant had to be watered daily to grow.",
+            "sent5": "The student had to study hard for the exam."
         }
     ]
 }

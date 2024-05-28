@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Here is (contraction of \"here is\")",
-            "pos": "conjunction"
+            "pos": "conjunction",
+            "sent1": "Here's your book on the table.",
+            "sent2": "Here's the key to unlock the door.",
+            "sent3": "Here's a funny joke for you to enjoy.",
+            "sent4": "Here's the secret to success: hard work pays off.",
+            "sent5": "Here's a simple trick to remember this rule."
         },
         {
             "definition": "Here's (contraction of \"here has\")",
-            "pos": "contraction"
+            "pos": "contraction",
+            "sent1": "She heres finished her homework early.",
+            "sent2": "The cat heres caught a mouse in the garden.",
+            "sent3": "The teacher heres given us a surprise quiz today.",
+            "sent4": "The sun heres set, signaling the end of the day.",
+            "sent5": "The chef heres prepared a delicious meal for us."
         }
     ]
 }

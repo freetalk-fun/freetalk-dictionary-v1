@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To compile again",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "After making changes to the code, I need to recompile it.",
+            "sent2": "Developers often recompile their programs to check for errors.",
+            "sent3": "I accidentally deleted my work, so now I'm recompiling everything from scratch!",
+            "sent4": "Recompiling is like giving a fresh coat of paint to your software.",
+            "sent5": "The process of recompiling can help ensure the program runs smoothly."
         },
         {
             "definition": "The act of compiling again",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The recompiling of the project took longer than expected.",
+            "sent2": "We encountered a bug during the recompiling of the code.",
+            "sent3": "The constant recompiling of the document was starting to get tedious.",
+            "sent4": "Her passion for recompiling old programs was truly inspiring.",
+            "sent5": "The recompiling process can sometimes reveal hidden errors."
         }
     ]
 }

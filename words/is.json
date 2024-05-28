@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Third person singular present of be.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She is happy.",
+            "sent2": "The sky is blue.",
+            "sent3": "The cat is pretending to be a lion.",
+            "sent4": "Time is a thief stealing moments from us.",
+            "sent5": "The truth is like a lion; you don't have to defend it. Let it loose, it will defend itself."
         },
         {
             "definition": "Exist.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Life is beautiful.",
+            "sent2": "The sun is shining.",
+            "sent3": "The mystery is why socks disappear in the laundry.",
+            "sent4": "Hope is the light that is always there, even in the darkest times.",
+            "sent5": "Love is a language spoken by everyone, but understood only by the heart."
         },
         {
             "definition": "Happen.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The party is tonight.",
+            "sent2": "Accidents happen.",
+            "sent3": "The magic trick is making the coin disappear.",
+            "sent4": "Success is not something that just happens; it is the result of hard work and dedication.",
+            "sent5": "Change is the law of life, and those who look only to the past or present are certain to miss the future."
         }
     ]
 }

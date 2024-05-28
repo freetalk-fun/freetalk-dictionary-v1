@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "An educational talk or speech given to a group of people.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "During the lectures, the professor explained the topic in detail.",
+            "sent2": "I attended three lectures on history last week.",
+            "sent3": "The lectures were so boring that some students fell asleep.",
+            "sent4": "Her lectures were like a guiding light for the confused students.",
+            "sent5": "The lectures echoed through the hall, leaving a lasting impression on the audience."
         },
         {
             "definition": "To give a talk or speech to a group of people.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She lectures on biology every Monday morning.",
+            "sent2": "He lectures at the university on economics.",
+            "sent3": "The cat lectures the kittens on the art of hunting.",
+            "sent4": "The wise old owl lectures the young birds on the ways of the forest.",
+            "sent5": "The coach lectures the team on the importance of teamwork before every game."
         }
     ]
 }

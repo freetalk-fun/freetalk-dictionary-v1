@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Leave out or exclude (someone or something), either intentionally or forgetfully.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She accidentally omitted his name from the guest list.",
+            "sent2": "Don't forget to check your work for any omitted details.",
+            "sent3": "The magician omitted the rabbit from his hat trick, much to the audience's surprise.",
+            "sent4": "Her speech was like a puzzle with missing pieces, each omitted word leaving a gap in the story.",
+            "sent5": "The detective carefully examined the crime scene, looking for any omitted clues that could solve the case."
         },
         {
             "definition": "Fail or neglect to do something.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He omitted to lock the door before leaving the house.",
+            "sent2": "If you omit to water the plants, they will wither and die.",
+            "sent3": "The chef omitted to add salt to the soup, resulting in a bland dish.",
+            "sent4": "The student omitted to study for the test, leading to a low grade.",
+            "sent5": "The driver omitted to check the fuel gauge, causing the car to run out of gas on the highway."
         }
     ]
 }

@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Opposite in nature, direction, or meaning.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "Her actions were contrary to his wishes.",
+            "sent2": "The weather today is contrary to what was forecasted.",
+            "sent3": "It was contrary to logic to wear a winter coat in the summer.",
+            "sent4": "His cheerful demeanor was contrary to the gloomy weather outside.",
+            "sent5": "The cat's behavior was contrary to its usual playful self."
         },
         {
             "definition": "A fact or condition incompatible with another.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The contrary of what she said was actually true.",
+            "sent2": "He always argues the contrary just to be difficult.",
+            "sent3": "It was a humorous contrary that the sun decided to shine during the storm.",
+            "sent4": "The contrary of his statement revealed the hidden truth.",
+            "sent5": "The contrary of her opinion was evident in her actions."
         }
     ]
 }

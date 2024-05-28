@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Agree",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She concurs with his opinion on the matter.",
+            "sent2": "They concurs on the best approach to take.",
+            "sent3": "The cat concurs with the dog's plan to nap in the sun.",
+            "sent4": "The stars and moon concurs to light up the night sky.",
+            "sent5": "The students concurs to work together for the group project."
         },
         {
             "definition": "Happen simultaneously",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The thunder and lightning concurs during the storm.",
+            "sent2": "The events concurs at the same time, creating chaos.",
+            "sent3": "The birds' chirping concurs with the rustling of leaves in the wind.",
+            "sent4": "The cheers of the crowd concurs with the final buzzer of the game.",
+            "sent5": "The traffic lights concurs to turn red, causing a traffic jam."
         },
         {
             "definition": "Approve or support",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The committee concurs the new policy proposal.",
+            "sent2": "The board concurs the CEO's decision.",
+            "sent3": "The cat concurs the idea of extra treats for good behavior.",
+            "sent4": "The sun concurs the flowers by shining brightly on them.",
+            "sent5": "The teacher concurs the student's effort by giving praise."
         }
     ]
 }

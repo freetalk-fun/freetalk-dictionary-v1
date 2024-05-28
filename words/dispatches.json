@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Send off to a destination or for a purpose",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She dispatches the package to its recipient.",
+            "sent2": "The courier dispatches the urgent documents quickly.",
+            "sent3": "The superhero dispatches the villain with ease.",
+            "sent4": "His efficiency in dispatching tasks is commendable.",
+            "sent5": "The chef dispatches orders in the kitchen like a maestro."
         },
         {
             "definition": "Orders for troops or ships to leave a port",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The general received the dispatches for the troops' departure.",
+            "sent2": "The captain reviewed the dispatches before setting sail.",
+            "sent3": "The old dispatches from the naval battles were fascinating to read.",
+            "sent4": "The dispatches signaled the beginning of a new mission.",
+            "sent5": "The historical dispatches shed light on past military operations."
         },
         {
             "definition": "News reports from a correspondent",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The journalist filed her dispatches from the war zone.",
+            "sent2": "The editor published the latest dispatches from the field.",
+            "sent3": "The humorous dispatches from the reporter kept readers entertained.",
+            "sent4": "The dispatches provided valuable insights into current events.",
+            "sent5": "The vivid dispatches painted a picture of the unfolding situation."
         }
     ]
 }

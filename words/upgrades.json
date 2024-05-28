@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To improve or enhance something",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She upgrades her phone by adding new apps.",
+            "sent2": "He upgrades his computer to make it faster.",
+            "sent3": "The chef upgrades the flavor of the soup with extra spices.",
+            "sent4": "The teacher upgrades the lesson with interactive activities.",
+            "sent5": "The gardener upgrades the garden by planting colorful flowers."
         },
         {
             "definition": "An improved version of something",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The new smartphone model is an impressive upgrades.",
+            "sent2": "The upgrades to the software have fixed many bugs.",
+            "sent3": "The upgrades to the car include a sleek new design.",
+            "sent4": "The upgrades to the house make it more energy-efficient.",
+            "sent5": "The upgrades to the museum exhibit enhance the visitor experience."
         }
     ]
 }

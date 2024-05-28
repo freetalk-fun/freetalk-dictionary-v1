@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A small hole or wound caused by a sharp object.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The doctor cleaned the punctures on the patient's arm.",
+            "sent2": "The bicycle tire had several punctures from the thorns on the road.",
+            "sent3": "The cat's curiosity led to punctures on the inflatable mattress.",
+            "sent4": "The punctures in the fabric of trust were difficult to mend.",
+            "sent5": "The punctures in the balloon made it slowly deflate."
         },
         {
             "definition": "To pierce or make a hole in something with a sharp object.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She carefully punctures the lid of the can with a knife.",
+            "sent2": "The needle punctures the skin to draw blood for the test.",
+            "sent3": "The chef punctures the dough to prevent it from rising too much.",
+            "sent4": "His words puncture her heart more deeply than any blade.",
+            "sent5": "The sound of the hammer punctures the silence of the night."
         }
     ]
 }

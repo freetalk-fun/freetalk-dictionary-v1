@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A point on a curve where two branches intersect.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "At the crunode, the curve splits into two branches.",
+            "sent2": "The crunode marks the spot where the curve divides into two paths.",
+            "sent3": "The crunode is like a fork in the road for the curve.",
+            "sent4": "The crunode is where the curve makes a crucial decision to split.",
+            "sent5": "The crunode is a pivotal point where the curve changes direction."
         },
         {
             "definition": "A point on a curve where the tangent line is horizontal.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The crunode occurs when the tangent line is flat.",
+            "sent2": "At the crunode, the tangent line is perfectly level.",
+            "sent3": "The crunode is where the curve takes a break and levels out.",
+            "sent4": "The crunode is like a calm spot in the curve's journey.",
+            "sent5": "The crunode is a smooth point where the curve rests briefly."
         },
         {
             "definition": "A point on a curve where the curvature is zero.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "At the crunode, the curvature disappears.",
+            "sent2": "The crunode is where the curve's curvature vanishes.",
+            "sent3": "The crunode is like a curve taking a breather from bending.",
+            "sent4": "The crunode is where the curve straightens out completely.",
+            "sent5": "The crunode is a unique point where the curve is perfectly flat."
         }
     ]
 }

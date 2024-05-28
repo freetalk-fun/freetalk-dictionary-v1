@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Marked with blotches",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The cat had a blotched fur pattern.",
+            "sent2": "Her blotched skin showed signs of sunburn.",
+            "sent3": "The artist accidentally blotched the painting with a wrong color.",
+            "sent4": "The sky was blotched with dark clouds before the storm.",
+            "sent5": "The blotched leaves on the tree made it look unique."
         },
         {
             "definition": "To mark with blotches",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She blotched the paper with ink while writing.",
+            "sent2": "The spilled coffee blotched the tablecloth.",
+            "sent3": "He blotched his shirt with mustard during lunch.",
+            "sent4": "The rain blotched the freshly painted wall.",
+            "sent5": "The mud from the garden blotched the clean floor."
         },
         {
             "definition": "A blotch or blotches",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The doctor noticed a blotched on her skin during the examination.",
+            "sent2": "The artist painted colorful blotches on the canvas.",
+            "sent3": "The blotches on the map indicated areas of interest.",
+            "sent4": "The old book had blotches on its pages from water damage.",
+            "sent5": "The frog had green blotches on its back for camouflage."
         }
     ]
 }

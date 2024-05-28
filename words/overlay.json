@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Cover with a layer on top",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She will overlay the cake with chocolate frosting.",
+            "sent2": "Please overlay the map with the new data.",
+            "sent3": "The chef accidentally overlayed too much sauce on the pasta.",
+            "sent4": "His kindness will overlay any past mistakes.",
+            "sent5": "The snow will overlay the town in a blanket of white."
         },
         {
             "definition": "An additional layer on top of something",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The artist added an overlay of glitter to the painting.",
+            "sent2": "The presentation slides have an overlay of text on each image.",
+            "sent3": "The fashion designer created a unique overlay of lace on the dress.",
+            "sent4": "The memories of childhood provide an emotional overlay to the story.",
+            "sent5": "The night sky had an overlay of twinkling stars."
         }
     ]
 }

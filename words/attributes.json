@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "regard something as being caused by someone or something",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She attributes her success to hard work.",
+            "sent2": "He attributes his good mood to the sunny weather.",
+            "sent3": "The cat attributes the knocked-over vase to the mischievous dog.",
+            "sent4": "The detective attributes the crime to the notorious gang.",
+            "sent5": "The chef attributes the delicious flavor to the secret ingredient."
         },
         {
             "definition": "a quality or feature regarded as a characteristic or inherent part of someone or something",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Kindness is one of her best attributes.",
+            "sent2": "Honesty is an important attribute in a friend.",
+            "sent3": "The clown's biggest attribute is his ability to make people laugh.",
+            "sent4": "Her smile is an attribute that lights up the room.",
+            "sent5": "The athlete's speed is a remarkable attribute on the field."
         }
     ]
 }

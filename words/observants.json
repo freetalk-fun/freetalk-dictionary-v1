@@ -2,16 +2,31 @@
     "term": "observants",
     "meanings": [
         {
-            "definition": "Observants (noun): People who are watchful and attentive.",
-            "pos": "noun"
+            "definition": "People who are watchful and attentive.",
+            "pos": "noun",
+            "sent1": "The observants noticed the bird in the tree.",
+            "sent2": "The observants in the forest spotted a deer.",
+            "sent3": "The observants quickly saw the hidden treasure.",
+            "sent4": "The observants of the night sky found the rare comet.",
+            "sent5": "The observants by the river saw the otters playing."
         },
         {
-            "definition": "Observants (adjective): Showing a keen interest in observing things.",
-            "pos": "adjective"
+            "definition": "Showing a keen interest in observing things.",
+            "pos": "adjective",
+            "sent1": "She is very observants when it comes to details.",
+            "sent2": "The observants student always pays attention in class.",
+            "sent3": "The observants explorer never misses a clue.",
+            "sent4": "His observants nature helped him solve the mystery.",
+            "sent5": "The observants scientist made groundbreaking discoveries."
         },
         {
-            "definition": "Observants (verb): Present participle of observe, meaning to watch or notice something.",
-            "pos": "verb"
+            "definition": "Present participle of observe, meaning to watch or notice something.",
+            "pos": "verb",
+            "sent1": "She is observants the behavior of the birds.",
+            "sent2": "The detective is observants the suspect's movements.",
+            "sent3": "The cat is observants the mouse in the corner.",
+            "sent4": "He was observants the changes in the weather.",
+            "sent5": "The teacher is observants the students during the test."
         }
     ]
 }

@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A formal written request, typically signed by many people, appealing to authority in respect of a particular cause.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The petition to save the playground was signed by all the kids in the neighborhood.",
+            "sent2": "She submitted a petition to the city council asking for more bike lanes.",
+            "sent3": "The petition to have ice cream for lunch every day was a hit with the students.",
+            "sent4": "The petition for longer recess was a cry for freedom in the schoolyard.",
+            "sent5": "The petition for extra homework was met with groans from the students."
         },
         {
             "definition": "To make or present a formal request to (an authority) with respect to a particular cause.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "They decided to petition the mayor for a new community center.",
+            "sent2": "He plans to petition the court for custody of his children.",
+            "sent3": "She jokingly petitioned her cat for more treats by writing a letter.",
+            "sent4": "The workers petitioned for better working conditions by going on strike.",
+            "sent5": "The students petitioned the principal for a longer lunch break."
         }
     ]
 }

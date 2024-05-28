@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A roll of paper money",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I found a stash of bankrolls hidden in the drawer.",
+            "sent2": "The thief stole several bankrolls from the safe.",
+            "sent3": "The bankrolls in the movie were actually just pieces of paper.",
+            "sent4": "The magician pulled a bankroll out of his hat.",
+            "sent5": "The bankrolls in the cash register were neatly stacked."
         },
         {
             "definition": "To finance or provide funds for a project or activity",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She bankrolls her brother's art projects.",
+            "sent2": "Investors often bankroll startups to help them grow.",
+            "sent3": "The generous donor decided to bankroll the school's new library.",
+            "sent4": "The wealthy businessman agreed to bankroll the charity event.",
+            "sent5": "The government decided to bankroll the construction of new roads."
         }
     ]
 }

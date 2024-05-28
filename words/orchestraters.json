@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Orchestrate: to arrange or direct the elements of a situation to produce a desired effect",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The teacher orchestraters the classroom activities to keep the students engaged.",
+            "sent2": "She orchestraters the event to ensure everything runs smoothly.",
+            "sent3": "The chef orchestraters the ingredients in the kitchen like a maestro conducting a symphony.",
+            "sent4": "The captain orchestraters the team's plays like a skilled conductor leading an orchestra.",
+            "sent5": "The director orchestraters the scenes in the movie with precision and creativity."
         },
         {
             "definition": "Orchestrator: a person who arranges or directs the elements of a situation to produce a desired effect",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The orchestrators of the project worked tirelessly to bring all the pieces together.",
+            "sent2": "As the orchestrator of the campaign, she ensured every detail was perfect.",
+            "sent3": "The orchestrator of the surprise party managed to keep it a secret from everyone.",
+            "sent4": "The orchestrator of the dance performance coordinated the dancers flawlessly.",
+            "sent5": "The orchestrator of the mission led the team to success with their strategic planning."
         }
     ]
 }

@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A loud, harsh sound",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The blare of the fire alarm startled everyone in the building.",
+            "sent2": "The blare of the trumpet filled the room with music.",
+            "sent3": "The blare of the car horn made the toddler giggle.",
+            "sent4": "The blare of the sirens echoed through the empty streets.",
+            "sent5": "The blare of the thunder shook the windows."
         },
         {
             "definition": "To make a loud, harsh sound",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The car engines blare as they race down the track.",
+            "sent2": "The speakers blare music at the outdoor concert.",
+            "sent3": "The alarm clock blares, waking up the sleepy student.",
+            "sent4": "The fireworks blare in the night sky, lighting up the darkness.",
+            "sent5": "The megaphone blares instructions to the crowd."
         },
         {
             "definition": "To sound loudly and harshly",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The sirens blare as the emergency vehicles rush to the scene.",
+            "sent2": "The horns blare in the busy city traffic.",
+            "sent3": "The radio blares out the latest news updates.",
+            "sent4": "The wind blares through the trees on a stormy night.",
+            "sent5": "The alarm system blares to alert of any intruders."
         }
     ]
 }

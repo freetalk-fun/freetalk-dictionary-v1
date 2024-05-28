@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To make something invalid or void.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She invalidates the contract by signing it incorrectly.",
+            "sent2": "The judge invalidates the will due to lack of witnesses.",
+            "sent3": "His attempt to sneak into the party invalidates his promise to stay home.",
+            "sent4": "The heavy rain invalidates the outdoor picnic plans.",
+            "sent5": "The magician's trick invalidates the laws of physics."
         },
         {
             "definition": "To disprove or discredit.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The scientist invalidates the theory with new evidence.",
+            "sent2": "The witness's testimony invalidates the suspect's alibi.",
+            "sent3": "His exaggerated claims quickly invalidate his credibility.",
+            "sent4": "The detective's findings invalidate the suspect's alibi.",
+            "sent5": "The teacher's explanation invalidates the student's misconception."
         },
         {
             "definition": "To nullify or render ineffective.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Adding sugar can sometimes invalidate the results of a scientific experiment.",
+            "sent2": "The new law invalidates the previous regulations.",
+            "sent3": "His careless mistake can easily invalidate all his hard work.",
+            "sent4": "The sudden change in weather invalidates the outdoor event plans.",
+            "sent5": "The virus can quickly invalidate the security measures in place."
         }
     ]
 }

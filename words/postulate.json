@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Suggest or assume the existence, fact, or truth of something as a basis for reasoning or argument.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I postulate that the sun will rise tomorrow.",
+            "sent2": "Scientists often postulate theories before conducting experiments.",
+            "sent3": "Why did the chicken postulate crossing the road?",
+            "sent4": "She postulated that kindness is the key to happiness.",
+            "sent5": "Let's postulate a world where everyone is always honest."
         },
         {
             "definition": "A fundamental principle that is accepted as true without proof.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The postulate of equality states that all humans are born with the same rights.",
+            "sent2": "In mathematics, Euclid's postulates are the foundation of geometry.",
+            "sent3": "The postulate walked into a bar, looking for some proof.",
+            "sent4": "Her smile was a postulate of joy in a world of chaos.",
+            "sent5": "The postulate of love knows no boundaries."
         }
     ]
 }

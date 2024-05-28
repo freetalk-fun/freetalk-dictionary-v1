@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To walk unsteadily or with difficulty",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The injured dog hobbles around the yard.",
+            "sent2": "She hobbles slowly with her sprained ankle.",
+            "sent3": "The penguin hobbles comically on the ice.",
+            "sent4": "His old car hobbles along the bumpy road.",
+            "sent5": "The toddler hobbles towards his favorite toy."
         },
         {
             "definition": "A device used to restrain the movement of an animal",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The farmer used hobbles to keep the goat in place.",
+            "sent2": "The horse wore hobbles to prevent it from running away.",
+            "sent3": "The circus clown accidentally tripped over the hobbles.",
+            "sent4": "The handcuffs acted as hobbles for the criminal.",
+            "sent5": "The zookeeper carefully adjusted the hobbles on the lion."
         },
         {
             "definition": "To impede or hinder the progress of something",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The heavy traffic hobbles the city's development.",
+            "sent2": "The lack of funding hobbles the research project.",
+            "sent3": "The tangled wires hobbles the computer's performance.",
+            "sent4": "Fear can hobbles a person's ability to take risks.",
+            "sent5": "The storm hobbles the ship's journey across the sea."
         }
     ]
 }

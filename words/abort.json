@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To bring to a premature end because of a problem or fault.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The storm forced us to abort our picnic.",
+            "sent2": "The pilot decided to abort the landing due to strong winds.",
+            "sent3": "I had to abort my baking mission when I realized I was out of flour.",
+            "sent4": "The sudden power outage caused the computer to abort the printing process.",
+            "sent5": "The detective had to abort the stakeout when his cover was blown."
         },
         {
             "definition": "To terminate a pregnancy before the fetus is viable.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The doctor had to abort the pregnancy for medical reasons.",
+            "sent2": "She made the difficult decision to abort the pregnancy early on.",
+            "sent3": "The comedy sketch joked about a man trying to abort a food baby.",
+            "sent4": "The character in the novel had to abort her pregnancy to save her own life.",
+            "sent5": "The documentary discussed the history of laws regarding the right to abort a pregnancy."
         },
         {
             "definition": "To stop a process or operation before it is completed.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I had to abort the download because it was taking too long.",
+            "sent2": "The team decided to abort the mission due to safety concerns.",
+            "sent3": "The chef had to abort the recipe halfway through when he realized he was missing an ingredient.",
+            "sent4": "The manager had to abort the meeting when an urgent issue arose.",
+            "sent5": "The software prompted the user to confirm if they wanted to abort the installation process."
         }
     ]
 }

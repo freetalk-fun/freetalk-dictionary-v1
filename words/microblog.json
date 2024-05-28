@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A brief online post or message typically containing text, images, or links.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I read a funny microblog about cats today.",
+            "sent2": "She shared a cute microblog of her puppy on social media.",
+            "sent3": "The microblog about the dancing hamster made me laugh.",
+            "sent4": "Her microblog was a window into her daily life.",
+            "sent5": "The microblog was filled with interesting facts and stories."
         },
         {
             "definition": "To post short updates or messages on a microblogging platform.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He likes to microblog about his travels around the world.",
+            "sent2": "She will microblog about the event as soon as it starts.",
+            "sent3": "I will microblog my lunch plans for fun.",
+            "sent4": "They microblogged their way through the conference.",
+            "sent5": "Microblogging allows people to share their thoughts instantly."
         }
     ]
 }

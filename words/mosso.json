@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Quickly",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "She ran mosso to catch the bus.",
+            "sent2": "The squirrel climbed the tree mosso.",
+            "sent3": "The wind blew mosso, making the leaves dance.",
+            "sent4": "Time flies mosso when you're having fun.",
+            "sent5": "The river flowed mosso after the heavy rain."
         },
         {
             "definition": "A direction in music indicating a faster tempo",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The conductor signaled for the orchestra to play mosso.",
+            "sent2": "The pianist played the piece mosso to add excitement.",
+            "sent3": "The music teacher jokingly said, 'Let's play this mosso and see if anyone can keep up!'",
+            "sent4": "The melody raced mosso like a speeding train.",
+            "sent5": "The tempo changed to mosso, creating a sense of urgency in the music."
         },
         {
             "definition": "A direction in music indicating a return to the previous tempo",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The music score indicated a mosso after the slow section.",
+            "sent2": "The orchestra transitioned smoothly into the mosso.",
+            "sent3": "The conductor humorously said, 'Let's go back mosso, like we forgot something!'",
+            "sent4": "The music flowed back to the previous tempo mosso, like a river finding its course.",
+            "sent5": "The return to mosso brought back the energy of the piece."
         }
     ]
 }

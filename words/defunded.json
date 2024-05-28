@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Withdraw funding from (a program or organization).",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The government defunded the after-school program, causing it to close down.",
+            "sent2": "The city council decided to defund the public library due to budget cuts.",
+            "sent3": "The school defunded the art class, leaving the students disappointed.",
+            "sent4": "The defunded charity struggled to continue its operations without financial support.",
+            "sent5": "The decision to defund the research project had a significant impact on its progress."
         },
         {
             "definition": "Deprive of funding or financial support.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The company defunded the new project, leading to its cancellation.",
+            "sent2": "The nonprofit organization was defunded by its major donors.",
+            "sent3": "The defunded startup had to find alternative sources of funding.",
+            "sent4": "The defunded initiative left many employees without jobs.",
+            "sent5": "The university defunded the scholarship program, affecting many students."
         }
     ]
 }

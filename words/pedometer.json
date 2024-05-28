@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A device that counts the number of steps taken by a person walking or running.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I use a pedometer to track how many steps I take each day.",
+            "sent2": "She clipped the pedometer to her waistband before going for a walk.",
+            "sent3": "The pedometer beeped happily every time I reached my step goal.",
+            "sent4": "Her pedometer was like a tiny friend cheering her on with every step.",
+            "sent5": "The pedometer's display screen made it easy to see my progress at a glance."
         },
         {
             "definition": "To measure the number of steps taken by using a pedometer.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I pedometered my steps during the entire hike to see how far I walked.",
+            "sent2": "He likes to pedometer his daily walks to stay motivated.",
+            "sent3": "She jokingly pedometered her way to the kitchen and back for a snack.",
+            "sent4": "Pedometering his steps felt like keeping score in a game of fitness.",
+            "sent5": "The challenge was to pedometer as many steps as possible in a single day."
         }
     ]
 }

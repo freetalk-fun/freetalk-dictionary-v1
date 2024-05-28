@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A round plane figure whose boundary consists of points equidistant from a fixed point.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The children sat in a circle during story time.",
+            "sent2": "The ringmaster drew a perfect circle on the ground.",
+            "sent3": "The circle of friends enjoyed a picnic in the park.",
+            "sent4": "The moon cast a soft circle of light on the lake.",
+            "sent5": "The artist carefully painted a colorful circle on the canvas."
         },
         {
             "definition": "A group of people or things forming a circle.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The students formed a circle to play a game.",
+            "sent2": "The protestors stood in a tight circle outside the building.",
+            "sent3": "The circle of trees provided shade on a hot day.",
+            "sent4": "The circle of chairs surrounded the campfire.",
+            "sent5": "The circle of dancers moved gracefully to the music."
         },
         {
             "definition": "To move all the way around something in a circular shape.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The dog likes to circle around before lying down.",
+            "sent2": "The plane will circle the airport before landing.",
+            "sent3": "The cat tried to circle the elusive mouse.",
+            "sent4": "The hawk circled high above in search of prey.",
+            "sent5": "The athlete will circle the track in the final lap."
         }
     ]
 }

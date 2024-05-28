@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A loud, explosive sound",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The kaboom of the fireworks startled the children.",
+            "sent2": "The kaboom of the thunder shook the windows.",
+            "sent3": "The cartoon character's kaboom made everyone laugh.",
+            "sent4": "The kaboom of the balloon popping echoed through the room.",
+            "sent5": "The kaboom of the cannon firing was deafening."
         },
         {
             "definition": "To explode suddenly and violently",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The fireworks kaboomed in the night sky.",
+            "sent2": "The bomb kaboomed, sending debris everywhere.",
+            "sent3": "The prankster kaboomed a watermelon for a surprise.",
+            "sent4": "The volcano kaboomed with molten lava spewing out.",
+            "sent5": "The car engine kaboomed, leaving a cloud of smoke."
         }
     ]
 }

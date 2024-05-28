@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A no-operation instruction in computing.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The computer program contained a noop to indicate a pause in processing.",
+            "sent2": "The programmer inserted a noop to prevent the code from executing a certain function.",
+            "sent3": "The noop in the code was like pressing a pause button on the computer.",
+            "sent4": "The noop function acted as a silent observer within the program.",
+            "sent5": "The noop was like a quiet moment in the midst of a busy algorithm."
         },
         {
             "definition": "A person who is lazy or unproductive.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "He was often called a noop by his coworkers due to his lack of motivation.",
+            "sent2": "The boss warned the team not to be a noop and to work efficiently.",
+            "sent3": "Being a noop at work meant missing out on important opportunities.",
+            "sent4": "The noop lounged around while others were hard at work.",
+            "sent5": "The noop's laziness was evident to everyone in the office."
         },
         {
             "definition": "To refuse or decline something.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She decided to noop the offer to join the committee.",
+            "sent2": "The company had to noop the proposal due to budget constraints.",
+            "sent3": "He tried to noop the responsibility, but eventually had to accept it.",
+            "sent4": "The team leader had to noop the extra workload to maintain efficiency.",
+            "sent5": "It was difficult for her to noop the tempting opportunity presented to her."
         }
     ]
 }

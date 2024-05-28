@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Italics: a style of typeface in which letters are slanted to the right for emphasis or distinction.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The book title was written in *italics* to make it stand out.",
+            "sent2": "Please write your name in *italics* on the form.",
+            "sent3": "The cat walked across the keyboard and accidentally turned everything into *italics*.",
+            "sent4": "Her handwriting was like *italics*, leaning towards elegance.",
+            "sent5": "The professor emphasized the key points by underlining them in *italics*."
         },
         {
             "definition": "Italics: printed in or using italics.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The document had important information highlighted in *italics*.",
+            "sent2": "The title of the article was written in *italics*.",
+            "sent3": "She felt fancy typing in *italics* for her presentation.",
+            "sent4": "The sunset painted the sky in *italics*, with colors blending beautifully.",
+            "sent5": "The invitation was elegant, with the details written in *italics*."
         }
     ]
 }

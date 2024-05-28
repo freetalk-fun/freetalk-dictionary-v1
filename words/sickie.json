@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A day taken off work due to illness.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "She took a sickie yesterday because she had a bad cold.",
+            "sent2": "He used up all his sick days for the year after taking a sickie last month.",
+            "sent3": "The boss was not happy when he found out about the last-minute sickie.",
+            "sent4": "Taking a sickie can sometimes lead to falling behind on work tasks.",
+            "sent5": "The bright red nose was a clear sign she needed to take a sickie."
         },
         {
             "definition": "Feeling unwell or ill.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "She looked pale and sickie, so her friends insisted she go home.",
+            "sent2": "After eating the expired food, he felt sickie for the rest of the day.",
+            "sent3": "The sickie cat curled up in a warm blanket to rest.",
+            "sent4": "The sickie feeling in his stomach made him regret eating the spicy food.",
+            "sent5": "The sickie expression on her face showed she needed to lie down."
         },
         {
             "definition": "A person who is ill or unwell.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The doctor prescribed medicine to help the sickie recover faster.",
+            "sent2": "The sickie in the hospital room was visited by friends and family.",
+            "sent3": "The little sickie smiled weakly when given a get-well card.",
+            "sent4": "The sickie's room was filled with get-well soon balloons.",
+            "sent5": "The sickie's favorite soup was brought to them to help them feel better."
         }
     ]
 }

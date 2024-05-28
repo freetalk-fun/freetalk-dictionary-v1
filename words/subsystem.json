@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A system within a larger system",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The cooling subsystem in the car helps regulate the engine temperature.",
+            "sent2": "The computer's subsystem manages the data storage efficiently.",
+            "sent3": "The kitchen's subsystem of pots and pans had a party while the owner was away.",
+            "sent4": "The heart can be seen as a crucial subsystem in the human body's overall function.",
+            "sent5": "The security subsystem of the building ensures only authorized personnel can enter."
         },
         {
             "definition": "A part of a larger system that performs a specific function",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The braking subsystem of the vehicle ensures safe stops.",
+            "sent2": "The communication subsystem of the phone allows for calls and messages.",
+            "sent3": "The lighting subsystem decided to throw a surprise party for the main system.",
+            "sent4": "In a company, the marketing department can be viewed as a vital subsystem.",
+            "sent5": "The immune system acts as a protective subsystem against harmful invaders."
         }
     ]
 }

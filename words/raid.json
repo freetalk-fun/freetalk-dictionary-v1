@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A sudden attack on an enemy by troops, aircraft, or other armed forces.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "During the raid, the soldiers quickly surrounded the enemy camp.",
+            "sent2": "The raid on the enemy base was successful in capturing important documents.",
+            "sent3": "The surprise raid on the enemy camp caught them off guard.",
+            "sent4": "The raid by the troops was like a thunderstorm on the battlefield.",
+            "sent5": "The raid left a lasting impact on the enemy's defenses."
         },
         {
             "definition": "A surprise visit to a place by the police to search for illegal activity or goods.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The police conducted a raid on the suspected drug den.",
+            "sent2": "The raid on the warehouse uncovered a stash of stolen goods.",
+            "sent3": "The raid on the bakery for illegal activities turned out to be a misunderstanding.",
+            "sent4": "The police raid on the nightclub was like a scene from a movie.",
+            "sent5": "The raid by the police led to the arrest of several suspects."
         },
         {
             "definition": "To conduct a raid.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The soldiers planned to raid the enemy camp at dawn.",
+            "sent2": "They decided to raid the bandit's hideout to recover the stolen goods.",
+            "sent3": "The kids thought it would be fun to raid the cookie jar before dinner.",
+            "sent4": "She had to raid her closet to find a suitable outfit for the party.",
+            "sent5": "The pirates were ready to raid the merchant ships for treasure."
         }
     ]
 }

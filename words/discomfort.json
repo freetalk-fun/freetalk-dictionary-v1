@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "An uncomfortable feeling in the body",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "After sitting for hours, he felt a sharp discomfort in his back.",
+            "sent2": "The discomfort in her stomach made her realize she was hungry.",
+            "sent3": "The uncomfortable discomfort in his shoes made him dance awkwardly.",
+            "sent4": "The discomfort of the tight rope around his waist was a constant reminder of the challenge ahead.",
+            "sent5": "The discomfort of the scratchy fabric against her skin was unbearable."
         },
         {
             "definition": "To cause unease or distress",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The loud noise discomforted the sleeping cat.",
+            "sent2": "His sudden change in behavior discomforted his friends.",
+            "sent3": "The unexpected prank discomforted him, but he couldn't help but laugh.",
+            "sent4": "The eerie silence discomforted her, making her feel uneasy.",
+            "sent5": "The dark clouds discomforted the children, hinting at an impending storm."
         },
         {
             "definition": "Lack of comfort or ease",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The discomfort of the hard chair made the meeting unbearable.",
+            "sent2": "She couldn't ignore the discomfort of the cold draft in the room.",
+            "sent3": "The discomfort of the bumpy road made the car ride feel like a rollercoaster.",
+            "sent4": "The discomfort of the cramped airplane seat made the long flight seem endless.",
+            "sent5": "The discomfort of the itchy sweater distracted her during the presentation."
         }
     ]
 }

@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Given a particular name or title",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The cat was termed 'fluffy' by the children.",
+            "sent2": "The book was termed a 'classic' by the critics.",
+            "sent3": "The cake was termed 'delicious' by everyone who tasted it.",
+            "sent4": "The garden was termed a 'paradise' by the visitors.",
+            "sent5": "The movie was termed 'exciting' by the audience."
         },
         {
             "definition": "Referred to as",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She termed her best friend 'sister' because of their close bond.",
+            "sent2": "The suspect was termed a 'criminal' by the police.",
+            "sent3": "The old car was termed 'reliable' by its owner, despite its age.",
+            "sent4": "The mountain was termed 'majestic' by the locals.",
+            "sent5": "The new policy was termed 'controversial' by the public."
         }
     ]
 }

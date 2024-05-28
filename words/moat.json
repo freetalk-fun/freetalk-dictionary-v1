@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A deep, wide trench surrounding a castle or fort, typically filled with water.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The castle was protected by a deep moat filled with water.",
+            "sent2": "The soldiers swam across the moat to reach the castle.",
+            "sent3": "The ducks happily swam in the moat around the castle.",
+            "sent4": "The moat around the fortress was like a watery barrier against invaders.",
+            "sent5": "The reflection of the castle in the moat made it look even more majestic."
         },
         {
             "definition": "To surround with or as if with a moat.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The king decided to moat his kingdom for extra protection.",
+            "sent2": "They moated the garden to keep out the rabbits.",
+            "sent3": "The children pretended to moat their sandcastle with a toy shovel.",
+            "sent4": "She felt like she had moated herself off from the rest of the world.",
+            "sent5": "The fence moated the house, creating a sense of privacy."
         }
     ]
 }

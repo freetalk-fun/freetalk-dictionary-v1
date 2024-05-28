@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A photograph taken quickly",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "She snapped a few shots of the sunset.",
+            "sent2": "The photographer captured beautiful shots of the flowers.",
+            "sent3": "The shots she took at the party were all blurry.",
+            "sent4": "His shots of the city skyline were like postcards.",
+            "sent5": "The shots from her camera were full of vibrant colors."
         },
         {
             "definition": "A small amount of liquor",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "He ordered two shots of tequila at the bar.",
+            "sent2": "The bartender poured a shot of whiskey for the customer.",
+            "sent3": "She couldn't handle more than a couple of shots.",
+            "sent4": "The shot of vodka burned on the way down.",
+            "sent5": "The shots they drank were strong and bitter."
         },
         {
             "definition": "An attempt to score in a game or sport",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The basketball player made a few shots from the three-point line.",
+            "sent2": "He took a shot at the goal but missed.",
+            "sent3": "Her shots at winning the game were getting better.",
+            "sent4": "The final shot of the match determined the winner.",
+            "sent5": "His shots at scoring were precise and powerful."
         }
     ]
 }

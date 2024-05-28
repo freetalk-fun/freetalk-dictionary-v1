@@ -3,19 +3,39 @@
     "meanings": [
         {
             "definition": "A category of people or things having common characteristics.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Dogs and cats are different types of animals.",
+            "sent2": "She prefers to read books of the fantasy type.",
+            "sent3": "In the zoo, the lion and the tiger argued about which type of big cat was superior.",
+            "sent4": "His reckless behavior was the type that always led to trouble.",
+            "sent5": "The teacher explained the concept using various types of fruits as examples."
         },
         {
             "definition": "A symbol representing a letter or number.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The 'A' on the report card is a type of grade.",
+            "sent2": "The type for the number '7' is different in various fonts.",
+            "sent3": "The detective found a mysterious type engraved on the ancient artifact.",
+            "sent4": "Her smile was like a type of sunshine that brightened up the room.",
+            "sent5": "The type on the sign indicated the direction to the nearest gas station."
         },
         {
             "definition": "To write using a typewriter or keyboard.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She will type the report on her computer.",
+            "sent2": "Students often type their essays to submit online.",
+            "sent3": "The cat walked across the keyboard and accidentally typed a random message.",
+            "sent4": "His fingers flew across the keys as he typed out the important email.",
+            "sent5": "I need to type up the meeting minutes before the deadline."
         },
         {
             "definition": "To be a symbol of or represent something.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The red rose can type love and passion.",
+            "sent2": "His actions type loyalty and dedication to his friends.",
+            "sent3": "The old tree in the park types strength and resilience.",
+            "sent4": "Her painting types the beauty of nature in vibrant colors.",
+            "sent5": "The national flag types unity and pride for the country."
         }
     ]
 }

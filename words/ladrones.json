@@ -2,16 +2,31 @@
     "term": "ladrones",
     "meanings": [
         {
-            "definition": "Ladrones (noun): thieves",
-            "pos": "noun"
+            "definition": "thieves",
+            "pos": "noun",
+            "sent1": "The ladrones stole jewelry from the store.",
+            "sent2": "The police caught the ladrones red-handed.",
+            "sent3": "The ladrones tried to steal a cake but ended up with a pie instead.",
+            "sent4": "The ladrones' shadows crept along the walls like silent thieves.",
+            "sent5": "The image of the ladrones sneaking through the dark alley stayed in her mind."
         },
         {
-            "definition": "Ladrones (adjective): thieving",
-            "pos": "adjective"
+            "definition": "thieving",
+            "pos": "adjective",
+            "sent1": "The ladrones gang was known for their thieving ways.",
+            "sent2": "She suspected her neighbor's cat of having a ladrones nature.",
+            "sent3": "The raccoon's ladrones behavior of stealing shiny objects amused the campers.",
+            "sent4": "His eyes had a ladrones glint as he eyed the tempting cookies.",
+            "sent5": "The ladrones squirrel hoarded nuts in its secret stash."
         },
         {
-            "definition": "Ladrones (verb): to steal",
-            "pos": "verb"
+            "definition": "to steal",
+            "pos": "verb",
+            "sent1": "He tried to ladrones a glance at the secret document.",
+            "sent2": "The thief ladrones a valuable painting from the museum.",
+            "sent3": "She ladrones a kiss on his cheek when he least expected it.",
+            "sent4": "The wind ladrones the leaves from the trees, scattering them across the yard.",
+            "sent5": "The magician ladrones a coin from behind the child's ear, leaving them in awe."
         }
     ]
 }

@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Test taken again to assess knowledge or ability.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "After failing the math retest, she studied harder for the next one.",
+            "sent2": "The teacher scheduled a retest for the students who missed the first one.",
+            "sent3": "The retest turned into a friendly competition among classmates.",
+            "sent4": "Taking the retest felt like a second chance to prove her understanding.",
+            "sent5": "The retest results showed improvement in the students' comprehension."
         },
         {
             "definition": "To take a test again to improve a score.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He decided to retest his knowledge of Spanish before the final exam.",
+            "sent2": "She will retest the driving exam to get her license.",
+            "sent3": "The students groaned at the thought of having to retest the difficult quiz.",
+            "sent4": "Retesting the experiment confirmed the initial findings.",
+            "sent5": "The athlete will retest his speed to beat his previous record."
         },
         {
             "definition": "To administer a test again to a group of individuals.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The professor had to retest the entire class due to a technical error.",
+            "sent2": "The school decided to retest all the students to ensure fairness.",
+            "sent3": "The retesting process required additional resources and time.",
+            "sent4": "Retesting the employees helped identify areas for improvement.",
+            "sent5": "The company will retest the new software to check for any bugs."
         }
     ]
 }

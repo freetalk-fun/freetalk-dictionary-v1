@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To refuse to accept, recognize, or consider",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She rejects the idea of going to the party.",
+            "sent2": "He always rejects offers that are too expensive.",
+            "sent3": "The cat rejects the new brand of food by turning up its nose.",
+            "sent4": "The plant rejects the harsh sunlight by wilting.",
+            "sent5": "The student rejects cheating as a way to pass the test."
         },
         {
             "definition": "People or things that are discarded or dismissed as inferior or unacceptable",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The rejects from the factory were sent for recycling.",
+            "sent2": "He felt like a reject after being left out of the team.",
+            "sent3": "The reject toy found a new home with a child who loved it.",
+            "sent4": "The reject pile in the corner grew larger each day.",
+            "sent5": "The reject box contained items waiting to be donated."
         }
     ]
 }

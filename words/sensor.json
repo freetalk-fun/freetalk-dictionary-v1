@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A device that detects or measures a physical property and records, indicates, or otherwise responds to it.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The sensor on the thermostat detected the room temperature.",
+            "sent2": "The security system uses a sensor to detect motion.",
+            "sent3": "The sensor in the fridge thought the milk was too cold and started beeping.",
+            "sent4": "Her intuition acted like a sensor, picking up on subtle changes in the atmosphere.",
+            "sent5": "The sensor in the car was like a silent observer, constantly monitoring the road conditions."
         },
         {
             "definition": "A device that receives and responds to a signal or stimulus.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The sensor on the garage door detected the approaching vehicle.",
+            "sent2": "The touch sensor on the phone unlocked the screen with a tap.",
+            "sent3": "The sensor in the haunted house triggered spooky sounds whenever someone passed by.",
+            "sent4": "His heart acted as a sensor, reacting to the adrenaline rush of excitement.",
+            "sent5": "The sensor in the robot's hand was so sensitive, it could feel the slightest touch."
         }
     ]
 }

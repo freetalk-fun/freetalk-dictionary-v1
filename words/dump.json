@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A place where waste is discarded.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The garbage truck took the trash to the dump.",
+            "sent2": "We visited the local dump to recycle our old electronics.",
+            "sent3": "The raccoon thought the dump was a treasure trove of goodies.",
+            "sent4": "The dump was a mountain of discarded items, towering over the town.",
+            "sent5": "The smell at the dump was unbearable, lingering in the air for miles."
         },
         {
             "definition": "To drop or let fall in a mass.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I had to dump the sand out of my shoes after the beach.",
+            "sent2": "She decided to dump all her toys on the floor to find her favorite one.",
+            "sent3": "The clumsy waiter managed to dump the entire tray of drinks on the customer.",
+            "sent4": "His heart felt heavy as if someone had dumped a load of bricks on it.",
+            "sent5": "The rain started to dump down, soaking everyone caught outside."
         },
         {
             "definition": "To unload or empty out.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The workers had to dump the shipment of boxes quickly to meet the deadline.",
+            "sent2": "He needed to dump all the old files from his computer to make space for new ones.",
+            "sent3": "She jokingly threatened to dump all his clothes out the window if he didn't clean up.",
+            "sent4": "The students rushed to dump their backpacks in the lockers before the bell rang.",
+            "sent5": "The river seemed to dump its contents into the sea, creating a beautiful blend of colors."
         }
     ]
 }

@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A person who observes a process or activity to ensure that it is carried out correctly.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The monitors at the event made sure everyone followed the rules.",
+            "sent2": "The security monitors watched the cameras to keep the building safe.",
+            "sent3": "The monitors at the zoo had a fun job watching the animals play.",
+            "sent4": "She was like a monitor in a movie, overseeing the scene with a critical eye.",
+            "sent5": "The monitors in the control room were like silent guardians, ensuring everything ran smoothly."
         },
         {
             "definition": "A device used to display information or data.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The computer monitors in the office show important emails and messages.",
+            "sent2": "The heart rate monitor beeped steadily during the patient's check-up.",
+            "sent3": "The baby monitor helped the parents keep an ear on their sleeping child.",
+            "sent4": "The monitor on the wall acted like a window into the digital world.",
+            "sent5": "The security guard glanced at the monitor to see who was at the door."
         },
         {
             "definition": "To keep track of, check, or regulate something.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She monitors her plant's growth by measuring it every week.",
+            "sent2": "The teacher monitors the students' progress in the class.",
+            "sent3": "He monitors his spending to make sure he doesn't overspend.",
+            "sent4": "The app monitors your daily steps to help you stay active.",
+            "sent5": "The scientist monitors the experiment closely to record any changes."
         }
     ]
 }

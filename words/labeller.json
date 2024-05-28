@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A person or machine that labels items.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The labeller put stickers on all the jars.",
+            "sent2": "The labeller at the factory works quickly to tag the products.",
+            "sent3": "The labeller accidentally labeled the wrong box, causing confusion.",
+            "sent4": "She was a human labeller, marking each item with care and precision.",
+            "sent5": "The labeller, like a diligent bee, buzzed around the room tagging everything in sight."
         },
         {
             "definition": "To attach a label to something.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Please labeller the boxes before shipping them out.",
+            "sent2": "I labellered the folders to keep them organized.",
+            "sent3": "He labellered his friend as the 'king of jokes' after a funny prank.",
+            "sent4": "The artist labellered her paintings with unique symbols.",
+            "sent5": "She labellered the map with colorful markers to show different routes clearly."
         }
     ]
 }

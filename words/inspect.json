@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To look at carefully in search of flaws",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I will inspect the toy for any broken parts.",
+            "sent2": "The mechanic will inspect the car before selling it.",
+            "sent3": "The detective decided to inspect the crime scene with a magnifying glass.",
+            "sent4": "She inspected the painting closely, searching for any imperfections.",
+            "sent5": "The teacher asked the students to inspect their work for any mistakes before submitting it."
         },
         {
             "definition": "To examine officially",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The health inspector will inspect the restaurant for cleanliness.",
+            "sent2": "The government will inspect the building for safety regulations.",
+            "sent3": "The inspector decided to inspect the documents thoroughly before approving them.",
+            "sent4": "The auditor will inspect the financial records to ensure accuracy.",
+            "sent5": "The referee will inspect the players' equipment before the game starts."
         }
     ]
 }

@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A type of cheese",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I love to eat fromage with crackers.",
+            "sent2": "The fromage at the party was delicious.",
+            "sent3": "The mouse snuck into the kitchen to nibble on the fromage.",
+            "sent4": "The fromage was a creamy delight on my taste buds.",
+            "sent5": "The fromage had a sharp flavor that lingered on my palate."
         },
         {
             "definition": "Made from milk",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The creamy fromage was perfect for my pasta dish.",
+            "sent2": "I prefer fromage over other types of cheese.",
+            "sent3": "The cat lapped up the spilled fromage from the bowl.",
+            "sent4": "The fromage was a white cascade of dairy goodness.",
+            "sent5": "The fromage was so fresh, it tasted like a glass of milk."
         },
         {
             "definition": "Originating in France",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The fromage recipe was passed down from a French chef.",
+            "sent2": "I always associate fromage with France.",
+            "sent3": "The fromage wore a tiny beret and carried a baguette.",
+            "sent4": "The fromage had a sophisticated French flair.",
+            "sent5": "The fromage transported me to a quaint French countryside."
         }
     ]
 }

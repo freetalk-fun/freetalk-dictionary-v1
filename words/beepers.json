@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A device that emits a beeping sound, typically used for communication or alert purposes.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The beepers on the alarm clock woke me up.",
+            "sent2": "I heard the beepers of the microwave when my popcorn was ready.",
+            "sent3": "The beepers on the oven sang a loud song when the cookies were done baking.",
+            "sent4": "The beepers of the car echoed through the quiet street, signaling its arrival.",
+            "sent5": "The hospital hallway was filled with the constant beepers of medical equipment."
         },
         {
             "definition": "The act of emitting a series of beeping sounds.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The beepers of the truck backing up could be heard from far away.",
+            "sent2": "The beepers of the construction vehicles created a symphony of noise at the site.",
+            "sent3": "The beepers of the video game intensified as the player reached a new level.",
+            "sent4": "The beepers of the smoke alarm warned of potential danger in the kitchen.",
+            "sent5": "The beepers of the robot cleaners filled the room with futuristic sounds."
         },
         {
             "definition": "To use a beeper for communication or alert purposes.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I beepers my friend when I arrived at the party.",
+            "sent2": "She beepers her colleagues to let them know about the meeting.",
+            "sent3": "The detective beepers the team to gather for an urgent case.",
+            "sent4": "He beepers his family every evening to check in and say goodnight.",
+            "sent5": "The coach beepers the players to assemble for the final game strategy."
         }
     ]
 }

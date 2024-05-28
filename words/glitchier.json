@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Having or experiencing glitches",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The new software update made my phone glitchier than before.",
+            "sent2": "My computer is glitchier when it's low on memory.",
+            "sent3": "I tried to play my favorite game, but it became glitchier than a broken record.",
+            "sent4": "Her old laptop was glitchier than a car with a flat tire.",
+            "sent5": "The haunted house in the game looked even glitchier than in real life."
         },
         {
             "definition": "To cause or experience glitches",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Please don't touch anything; you might glitchier the system.",
+            "sent2": "The power outage glitchiered the entire network.",
+            "sent3": "His attempt to fix the bug only glitchiered the program further.",
+            "sent4": "The interference from the nearby radio tower glitchiered our communication.",
+            "sent5": "The experimental update glitchiered the game beyond recognition."
         },
         {
             "definition": "More prone to glitches than something else",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The older model of the device is glitchier compared to the newer one.",
+            "sent2": "Her phone is glitchier than mine; she always has issues with it.",
+            "sent3": "The robot vacuum cleaner became glitchier when the cat started riding on it.",
+            "sent4": "The antique clock was glitchier than a clock made of sand.",
+            "sent5": "The spaceship was glitchier than a spaceship made of cardboard."
         }
     ]
 }

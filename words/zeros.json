@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "The digit 0.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I counted three ones and two twos, but there were no zeros in the sequence.",
+            "sent2": "In binary code, zeros and ones are used to represent data.",
+            "sent3": "The calculator was sad because it couldn't find any zeros to play with.",
+            "sent4": "The classroom was filled with chatter, but his voice was like a zero in the noise.",
+            "sent5": "The night sky was a canvas of stars, with the zeros shining the brightest."
         },
         {
             "definition": "A person or thing of no importance or worth.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "She felt like a zero when her idea was ignored in the meeting.",
+            "sent2": "The villain in the story was portrayed as a zero, with no redeeming qualities.",
+            "sent3": "The zero on the team turned out to be the unexpected hero of the game.",
+            "sent4": "His presence at the party was like a zero, easily forgotten by everyone.",
+            "sent5": "The abandoned house stood alone, a zero in the bustling neighborhood."
         },
         {
             "definition": "To adjust (an instrument) to read zero.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The technician carefully zeros the scale before taking any measurements.",
+            "sent2": "Before starting the experiment, make sure to zero the balance for accurate results.",
+            "sent3": "He zeros the gauge with precision, ensuring the readings are accurate.",
+            "sent4": "The pilot quickly zeros the altimeter before the plane takes off.",
+            "sent5": "In order to calibrate the device, you need to zero it first."
         }
     ]
 }

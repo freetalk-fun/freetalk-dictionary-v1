@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "The state of being strikingly different from something else.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The contrasts between the two paintings were clear to see.",
+            "sent2": "The black and white colors created a strong contrast in the artwork.",
+            "sent3": "The clown's outfit was a funny contrast to the serious business meeting.",
+            "sent4": "Her cheerful personality contrasts sharply with his gloomy demeanor.",
+            "sent5": "The bright red apple against the green leaves made a beautiful contrast."
         },
         {
             "definition": "To differ strikingly in comparison with something else.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The new building contrasts with the old architecture of the town.",
+            "sent2": "His calm demeanor contrasts sharply with her nervous energy.",
+            "sent3": "The cat's laziness contrasts humorously with the dog's hyperactivity.",
+            "sent4": "Her kindness contrasts like a beacon in a sea of indifference.",
+            "sent5": "The sweet taste of the fruit contrasts perfectly with the salty cheese."
         }
     ]
 }

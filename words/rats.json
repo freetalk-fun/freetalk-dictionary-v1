@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A rodent of the genus Rattus",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The rats scurried across the floor of the old barn.",
+            "sent2": "I saw a family of rats living in the abandoned house.",
+            "sent3": "The farmer chuckled as he watched the rats play hide and seek.",
+            "sent4": "In the city, the crowded streets were like a maze of rats.",
+            "sent5": "The children were fascinated by the rats in the petting zoo."
         },
         {
             "definition": "An exclamation of disappointment or annoyance",
-            "pos": "interjection"
+            "pos": "interjection",
+            "sent1": "Rats! I forgot my lunch at home again.",
+            "sent2": "Oh rats, I missed the bus to school.",
+            "sent3": "Rats, the ice cream shop is closed today.",
+            "sent4": "Her favorite team lost the game - rats!",
+            "sent5": "Rats, I spilled juice on my new shirt."
         },
         {
             "definition": "To betray or desert a person or cause",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He decided to rats on his friends and tell the teacher about the prank.",
+            "sent2": "She felt guilty after ratsing on her colleague during the meeting.",
+            "sent3": "The spy had to rats on his country to save his own life.",
+            "sent4": "The soldier chose to rats on his comrades in exchange for freedom.",
+            "sent5": "She promised not to rats on her team even under pressure."
         }
     ]
 }

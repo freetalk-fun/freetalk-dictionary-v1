@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "The word or phrase to be defined in a definition.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "In the dictionary, the definiendum is the word you want to understand.",
+            "sent2": "The definiendum in this sentence is 'apple'.",
+            "sent3": "The teacher asked the students to guess the definiendum, causing much confusion.",
+            "sent4": "Her smile was the definiendum of happiness, lighting up the room.",
+            "sent5": "The definiendum, like a key, unlocks the meaning of the whole sentence."
         },
         {
             "definition": "The term that is being defined in a dictionary entry.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "When you look up a word, the definiendum is the main focus of the entry.",
+            "sent2": "The definiendum 'dog' is explained thoroughly in the dictionary.",
+            "sent3": "The definiendum seemed to be hiding from the reader, making it hard to find.",
+            "sent4": "His laughter echoed through the room, the definiendum of joy.",
+            "sent5": "The definiendum stands out like a beacon, guiding you to its meaning."
         }
     ]
 }

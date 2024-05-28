@@ -3,19 +3,39 @@
     "meanings": [
         {
             "definition": "The rear surface of the human body from the shoulders to the hips.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "She carried the heavy backpack on her back.",
+            "sent2": "He leaned against the wall with his back.",
+            "sent3": "The backpack on her back made her look like a turtle.",
+            "sent4": "His back was a sturdy shield against the wind.",
+            "sent5": "The sunburn on his back reminded him of the beach day."
         },
         {
             "definition": "In the opposite direction from the one that one is facing or traveling.",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "He walked back to the starting point.",
+            "sent2": "She turned back to see who called her name.",
+            "sent3": "The cat walked back and forth, chasing its tail.",
+            "sent4": "Time seemed to move back as they reminisced about the past.",
+            "sent5": "The clock ticked back to the beginning of the race."
         },
         {
             "definition": "Support or aid.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She always backed her friends in times of need.",
+            "sent2": "The team backed each other during the tough match.",
+            "sent3": "The siblings backed each other up in the argument.",
+            "sent4": "His parents backed his decision to pursue his passion.",
+            "sent5": "The community backed the local charity event wholeheartedly."
         },
         {
             "definition": "To move in a backward direction.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The car slowly backed out of the parking spot.",
+            "sent2": "She backed away from the edge of the cliff.",
+            "sent3": "The dog backed up when it saw the vacuum cleaner.",
+            "sent4": "He backed off when he realized he was wrong.",
+            "sent5": "The hiker backed up to get a better view of the waterfall."
         }
     ]
 }

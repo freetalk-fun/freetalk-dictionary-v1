@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "The result of an action or process",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The measurement of the cake's height was precise.",
+            "sent2": "The experiment's measurement was recorded in the lab report.",
+            "sent3": "She tried to guess the cake's height, but her measurement was way off.",
+            "sent4": "The measurement of time passing felt like a slow dance.",
+            "sent5": "The measurement of his success was evident in his smile."
         },
         {
             "definition": "The means or result of an action or process",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "His investment in the stock market was a wise ment.",
+            "sent2": "The completion of the project was a satisfying ment for the team.",
+            "sent3": "She considered her new car as a ment of her hard work paying off.",
+            "sent4": "The ment of his efforts shone brightly in the final product.",
+            "sent5": "The ment of their friendship was a bond that could not be broken."
         },
         {
             "definition": "The act of doing something",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Her movement across the stage was graceful and precise.",
+            "sent2": "The movement of the gears in the clock was mesmerizing.",
+            "sent3": "The movement of the cat chasing its tail never failed to make her laugh.",
+            "sent4": "The movement of the waves crashing against the shore was a powerful sight.",
+            "sent5": "The movement of the dancers on stage was synchronized and beautiful."
         }
     ]
 }

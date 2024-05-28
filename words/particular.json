@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A specific item or detail",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "In the store, I am looking for a particular book.",
+            "sent2": "She always pays attention to every particular in her drawings.",
+            "sent3": "The detective found a particular clue that led to the suspect.",
+            "sent4": "His room was a mess, with every particular scattered around.",
+            "sent5": "The recipe calls for a particular type of flour for the cake."
         },
         {
             "definition": "A specific person or thing",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I am waiting for a particular friend to arrive at the party.",
+            "sent2": "The museum showcases artifacts from a particular era.",
+            "sent3": "The teacher asked each student to choose a particular animal for the project.",
+            "sent4": "The shop owner always greets each customer with a smile, making them feel particular.",
+            "sent5": "The detective was searching for a particular suspect in the crowd."
         },
         {
             "definition": "Special or distinctive in some way",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "She has a particular talent for playing the piano.",
+            "sent2": "The dress had a particular charm that caught everyone's attention.",
+            "sent3": "His particular way of telling jokes always made people laugh.",
+            "sent4": "The artist's paintings are particular and easily recognizable.",
+            "sent5": "The old house had a particular smell that reminded him of his childhood."
         }
     ]
 }

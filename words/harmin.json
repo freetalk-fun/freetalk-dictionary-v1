@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Physical injury or damage caused by violence or accident.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The doctor treated the harmin on the patient's arm.",
+            "sent2": "The car accident resulted in harmin to the bumper.",
+            "sent3": "The clumsy clown accidentally caused harmin to his own foot.",
+            "sent4": "The storm left a trail of harmin in its wake.",
+            "sent5": "The firefighter quickly attended to the harmin on the injured hiker."
         },
         {
             "definition": "To cause harm or damage to someone or something.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Please do not harmin the delicate flowers in the garden.",
+            "sent2": "The harsh words spoken can harmin relationships.",
+            "sent3": "The mischievous cat loves to harmin the curtains with its claws.",
+            "sent4": "Neglecting regular maintenance can harmin the lifespan of your car.",
+            "sent5": "Using harsh chemicals can harmin the environment."
         },
         {
             "definition": "A harmful or damaging effect.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The pollution had a harmin on the river's ecosystem.",
+            "sent2": "The lack of sleep had a harmin on his ability to concentrate.",
+            "sent3": "Eating too much candy can have a harmin on your teeth.",
+            "sent4": "The economic downturn had a harmin on small businesses.",
+            "sent5": "The harsh winter had a harmin on the crops, causing a poor harvest."
         }
     ]
 }

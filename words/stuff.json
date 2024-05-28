@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Material, objects, or things in general",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I have a lot of stuff in my room.",
+            "sent2": "She packed her stuff in a suitcase for the trip.",
+            "sent3": "The magician pulled a rabbit out of his stuff.",
+            "sent4": "Her mind was filled with stuff, like a cluttered attic.",
+            "sent5": "The stuff in the box was a mix of toys and books."
         },
         {
             "definition": "To fill or pack tightly with something",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He stuffs his backpack with snacks for the hike.",
+            "sent2": "She stuffs the turkey with herbs and spices before roasting it.",
+            "sent3": "The clown tried to stuff too many balloons in his pockets.",
+            "sent4": "The overflowing mailbox was stuffed with letters and packages.",
+            "sent5": "The students stuff their lockers with books and school supplies."
         },
         {
             "definition": "To treat or fill with a specified substance or quality",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She stuffs the pillows with feathers for extra fluffiness.",
+            "sent2": "He stuffs the envelope with invitations to the party.",
+            "sent3": "The chef stuffs the pasta with a delicious cheese filling.",
+            "sent4": "The artist stuffs the canvas with vibrant colors and textures.",
+            "sent5": "The gardener stuffs the pot with rich soil for the plant to thrive."
         }
     ]
 }

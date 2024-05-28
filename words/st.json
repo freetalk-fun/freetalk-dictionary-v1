@@ -3,23 +3,48 @@
     "meanings": [
         {
             "definition": "Street",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I live on the same st as my best friend.",
+            "sent2": "The st was bustling with people and cars.",
+            "sent3": "The cat crossed the st without looking both ways.",
+            "sent4": "The st stretched out like a ribbon through the city.",
+            "sent5": "The stlights at night made the whole place glow."
         },
         {
             "definition": "Saint",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "My grandmother prays to a st for guidance.",
+            "sent2": "The st was known for helping those in need.",
+            "sent3": "The mischievous child pretended to be a st for Halloween.",
+            "sent4": "She was a true st, always helping others selflessly.",
+            "sent5": "The st's kindness touched everyone around."
         },
         {
             "definition": "State",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Our family visited a different st every summer.",
+            "sent2": "The st of California is known for its beaches.",
+            "sent3": "The tired traveler finally reached the last st on the map.",
+            "sent4": "She was in a constant state of excitement about the trip.",
+            "sent5": "The st of mind she was in affected her decisions."
         },
         {
             "definition": "Set",
-            "pos": "noun, verb"
+            "pos": "noun, verb",
+            "sent1": "She bought a new st of paints for her art class.",
+            "sent2": "Let's st the table for dinner.",
+            "sent3": "The magician's st of cards amazed the audience.",
+            "sent4": "The sun slowly began to st behind the mountains.",
+            "sent5": "The actors st the scene perfectly for the play."
         },
         {
             "definition": "Sit",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Please st down and relax for a moment.",
+            "sent2": "The dog likes to st by the fireplace.",
+            "sent3": "The tired hiker needed to st and catch his breath.",
+            "sent4": "The decision to st quietly and listen was wise.",
+            "sent5": "She couldn't wait to st on the comfortable couch."
         }
     ]
 }

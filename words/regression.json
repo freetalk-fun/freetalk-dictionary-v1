@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "The act of regressing or going back",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "After the accident, the patient showed signs of regression in his recovery.",
+            "sent2": "The regression of the economy led to job losses for many people.",
+            "sent3": "The regression of technology in the movie made it seem like a blast from the past.",
+            "sent4": "Her regression to childhood habits under stress surprised her friends.",
+            "sent5": "The regression of the city into chaos was a sight to behold."
         },
         {
             "definition": "A return to a former or less developed state",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The regression of the forest to its natural state was a welcome sight.",
+            "sent2": "His regression to old habits worried his family.",
+            "sent3": "The regression of the clock to an earlier time confused everyone.",
+            "sent4": "The regression of the building to its original design pleased the architect.",
+            "sent5": "The regression of the river to its meandering path was a beautiful transformation."
         },
         {
             "definition": "A statistical technique used to analyze the relationship between variables",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The regression analysis showed a strong correlation between the two factors.",
+            "sent2": "She used regression to predict future trends in the stock market.",
+            "sent3": "The regression of data points on the graph made it easier to understand.",
+            "sent4": "The regression model helped in forecasting sales for the upcoming quarter.",
+            "sent5": "The regression line on the scatter plot highlighted the trend perfectly."
         }
     ]
 }

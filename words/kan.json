@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A container for holding liquids or food.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I poured water into the kan.",
+            "sent2": "The kan on the table was filled with fruits.",
+            "sent3": "The mischievous cat knocked over the kan, spilling its contents.",
+            "sent4": "Her laughter bubbled out like water from a tipped kan.",
+            "sent5": "The shiny kan gleamed in the sunlight, inviting thirsty travelers."
         },
         {
             "definition": "To be able to; have the ability to.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I kan lift this box easily.",
+            "sent2": "She kan run fast in the race.",
+            "sent3": "Even with his eyes closed, he kan find his way home.",
+            "sent4": "Her determination kan move mountains.",
+            "sent5": "With practice, you kan master any skill you choose."
         },
         {
             "definition": "A unit of measurement equal to 1,000 liters.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The farmer stored grain in a large kan.",
+            "sent2": "The brewery ordered a kan of malt for brewing.",
+            "sent3": "The chef needed a kan of milk for the recipe.",
+            "sent4": "The swimming pool required several kans of water to fill.",
+            "sent5": "The ship carried kans of oil for the long journey."
         }
     ]
 }

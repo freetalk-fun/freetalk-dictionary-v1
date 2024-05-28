@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Having or showing a willingness to act dishonestly in return for money or personal gain.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The corrupt politician was caught taking bribes.",
+            "sent2": "The company's corrupt practices were exposed by the media.",
+            "sent3": "It's hard to trust someone who is known to be corrupt.",
+            "sent4": "The corrupt system needed a complete overhaul.",
+            "sent5": "The corrupt official's actions left a stain on the community."
         },
         {
             "definition": "Cause to act dishonestly in return for money or personal gain.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The temptation to corrupt others with promises of wealth is strong.",
+            "sent2": "He tried to corrupt his colleagues by offering them kickbacks.",
+            "sent3": "The mischievous elf wanted to corrupt Santa's nice list.",
+            "sent4": "Greed can corrupt even the most honest individuals.",
+            "sent5": "The evil sorcerer used dark magic to corrupt the hero's mind."
         },
         {
             "definition": "Change or debase by making errors or unintentional alterations.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "A computer virus can corrupt important files on your hard drive.",
+            "sent2": "The storm's strong winds could corrupt the data stored in the old building.",
+            "sent3": "The clumsy chef managed to corrupt the recipe by adding salt instead of sugar.",
+            "sent4": "Time can corrupt memories, making them less accurate over the years.",
+            "sent5": "The artist accidentally corrupted the digital artwork while trying to save it."
         }
     ]
 }

@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A public box into which mail is put for collection by the postal service.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I dropped my letter in the postbox on the corner.",
+            "sent2": "The postman emptied the postbox every morning.",
+            "sent3": "The postbox looked like a hungry metal mouth waiting for letters to eat.",
+            "sent4": "The red postbox stood out on the street like a beacon of communication.",
+            "sent5": "The postbox's bright color made it easy to spot from far away."
         },
         {
             "definition": "To put (a letter or package) into a postbox for mailing.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Don't forget to postbox your birthday card before the deadline.",
+            "sent2": "She postboxed the important documents without delay.",
+            "sent3": "He accidentally postboxed his keys instead of the mail.",
+            "sent4": "Her words were like letters postboxed into the hearts of her listeners.",
+            "sent5": "The feeling of relief washed over her as she postboxed the last package."
         }
     ]
 }

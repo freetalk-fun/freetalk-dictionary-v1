@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Damage the purity or integrity of (verb)",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He sullies his reputation by lying.",
+            "sent2": "The mud sullies the clean floor.",
+            "sent3": "The mischievous puppy sullies the white carpet with its muddy paws.",
+            "sent4": "The graffiti artist sullies the blank wall with spray paint.",
+            "sent5": "The dark cloud sullies the clear blue sky, blocking the sun's rays."
         },
         {
             "definition": "A mark or stain (noun)",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The ink blot left a sully on the paper.",
+            "sent2": "She tried to remove the sully from her dress.",
+            "sent3": "The chocolate ice cream left a delicious sully on his face.",
+            "sent4": "The old building had a sully from years of neglect.",
+            "sent5": "The red wine spilled on the carpet left an unmistakable sully."
         }
     ]
 }

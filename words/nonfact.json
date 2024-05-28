@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Something that is not a fact.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The idea that unicorns exist is a nonfact.",
+            "sent2": "She thought the rumor was a nonfact.",
+            "sent3": "The notion that cats can fly is a nonfact.",
+            "sent4": "His promise to always be there for her turned out to be a nonfact.",
+            "sent5": "The belief in ghosts is just a nonfact."
         },
         {
             "definition": "A statement or belief that is not true.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The claim that the earth is flat is a nonfact.",
+            "sent2": "He realized his assumption was a nonfact.",
+            "sent3": "The story about aliens visiting Earth was a nonfact.",
+            "sent4": "Her excuse for being late was a nonfact.",
+            "sent5": "The legend of the Loch Ness Monster is a nonfact."
         }
     ]
 }

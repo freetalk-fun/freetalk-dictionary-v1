@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "The amount by which two things differ.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The diff in height between the two boxes was noticeable.",
+            "sent2": "There was a small diff in color between the two flowers.",
+            "sent3": "The diff in taste between the two candies was so extreme, it made me laugh.",
+            "sent4": "The diff in speed between the two cars was like a snail racing a cheetah.",
+            "sent5": "The diff in temperature between the two rooms was like stepping from summer into winter."
         },
         {
             "definition": "To make a difference; to vary.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Adding salt can diff the flavor of the soup.",
+            "sent2": "Her new hairstyle really diffed her appearance.",
+            "sent3": "I decided to diff my usual routine by taking a different route to work.",
+            "sent4": "His words diffed the mood in the room, making everyone smile.",
+            "sent5": "The unexpected rain diffed our plans for a picnic in the park."
         },
         {
             "definition": "A disagreement or dispute.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The diff between them led to a heated argument.",
+            "sent2": "There was a diff between the two parties that needed to be resolved.",
+            "sent3": "Their diff over the movie choice ended with them watching separate films.",
+            "sent4": "The diff between the siblings was like a storm brewing in the calm.",
+            "sent5": "The diff between the neighbors escalated into a full-blown feud over a small misunderstanding."
         }
     ]
 }

@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Endomorphisms: linear transformations from a vector space to itself.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The endomorphisms of the vector space were crucial in solving the mathematical problem.",
+            "sent2": "Mathematicians study endomorphisms to understand how vectors behave within the same space.",
+            "sent3": "The endomorphisms of the vector space threw a party for all the vectors, but only the unit vector showed up.",
+            "sent4": "The endomorphisms acted like a mirror, reflecting the vectors back onto themselves.",
+            "sent5": "Visualizing endomorphisms is like watching a dance where each vector dances with its own reflection."
         },
         {
             "definition": "Endomorphisms: mappings from a set to itself.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The endomorphisms of the set preserved the elements within the same group.",
+            "sent2": "In computer science, endomorphisms are used to represent self-referential functions.",
+            "sent3": "The endomorphisms of the set decided to play a game of tag but kept tagging themselves.",
+            "sent4": "The endomorphisms functioned like a loop, continuously mapping elements back to themselves.",
+            "sent5": "Understanding endomorphisms is like looking at a map where every location leads back to itself."
         }
     ]
 }

@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Search for information in a reference book or database.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I need to lookup the meaning of this word in the dictionary.",
+            "sent2": "She always uses the computer to lookup recipes online.",
+            "sent3": "The detective had to lookup the suspect's name in the database.",
+            "sent4": "His eyes seemed to lookup the answer from the depths of his memory.",
+            "sent5": "I will lookup the address for you so we can find the place easily."
         },
         {
             "definition": "The act of searching for information in a reference book or database.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The lookup of historical facts in the library was fascinating.",
+            "sent2": "Her quick lookup of the phone number saved us time.",
+            "sent3": "The cat's lookup in the encyclopedia was quite amusing to watch.",
+            "sent4": "The lookup for the missing key felt like searching for a needle in a haystack.",
+            "sent5": "The lookup of constellations in the star chart was a memorable experience."
         }
     ]
 }

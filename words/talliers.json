@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A person who counts or keeps track of something.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The talliers at the store counted the inventory carefully.",
+            "sent2": "The talliers in the library keep track of the borrowed books.",
+            "sent3": "The talliers at the zoo made sure all the animals were accounted for.",
+            "sent4": "The talliers in the game of hide and seek were the ones who found everyone first.",
+            "sent5": "The talliers in the competition meticulously recorded each participant's score."
         },
         {
             "definition": "A group of people who count or keep track of something.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The talliers gathered around the table to tally the votes.",
+            "sent2": "The talliers in the company ensured the financial records were accurate.",
+            "sent3": "The talliers at the party made sure everyone had a drink in hand.",
+            "sent4": "The talliers in the forest counted the trees to estimate the age of the forest.",
+            "sent5": "The talliers in the classroom helped the teacher keep track of attendance."
         }
     ]
 }

@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To charge too much for goods or services.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The mechanic overbilled me for the car repair.",
+            "sent2": "The company overbilled its customers for the faulty products.",
+            "sent3": "The restaurant accidentally overbilled a customer for a simple salad.",
+            "sent4": "The hotel overbilled the guests, making them question the quality of service.",
+            "sent5": "The shady contractor overbilled the homeowner, causing a dispute."
         },
         {
             "definition": "Charged too much for goods or services.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The overbilled amount on the invoice surprised the customer.",
+            "sent2": "The overbilled items were returned for a refund.",
+            "sent3": "The overbilled package was a result of a computer error.",
+            "sent4": "The overbilled price made the product seem less appealing.",
+            "sent5": "The overbilled bill left the customer feeling cheated."
         }
     ]
 }

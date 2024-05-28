@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Calculate the average of a set of numbers.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She is averaging the test scores of her students.",
+            "sent2": "I am averaging the monthly expenses to create a budget.",
+            "sent3": "The computer made a mistake while averaging the grades, giving everyone a perfect score.",
+            "sent4": "His cooking skills are averaging out to be quite impressive.",
+            "sent5": "Averaging the rainfall over the year helps farmers plan their crops effectively."
         },
         {
             "definition": "To have or show a particular average.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The team is averaging a high score in every game.",
+            "sent2": "The company is averaging a profit increase of 10% each quarter.",
+            "sent3": "The cat is averaging a nap time of 3 hours a day.",
+            "sent4": "Her artwork is averaging a price much higher than expected.",
+            "sent5": "Averaging a consistent speed during the race helped him win first place."
         }
     ]
 }

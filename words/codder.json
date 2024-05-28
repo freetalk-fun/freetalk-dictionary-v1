@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A person who catches cod fish.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The codder reeled in a big cod from the ocean.",
+            "sent2": "The experienced codder knew exactly where to find the best fishing spots.",
+            "sent3": "The codder accidentally caught an old boot instead of a fish!",
+            "sent4": "She was a skilled codder, navigating the waters like a seasoned sailor.",
+            "sent5": "The codder's hands smelled of salt and fish after a long day at sea."
         },
         {
             "definition": "A machine used for coding or decoding messages.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The codder helped encrypt the secret message for the spy.",
+            "sent2": "The codder beeped as it worked tirelessly to crack the code.",
+            "sent3": "The codder malfunctioned and started spitting out gibberish.",
+            "sent4": "The codder hummed softly as it deciphered the ancient script.",
+            "sent5": "The codder's screen displayed a jumble of numbers and letters waiting to be decoded."
         },
         {
             "definition": "A slang term for a fool or simpleton.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Don't be a codder and fall for that trick again!",
+            "sent2": "He felt like a codder after realizing he had been pranked.",
+            "sent3": "The codder thought the joke was on someone else, but it was on him.",
+            "sent4": "She teased him, calling him a codder for believing her made-up story.",
+            "sent5": "The mischievous kids laughed at the codder who got fooled by their harmless prank."
         }
     ]
 }

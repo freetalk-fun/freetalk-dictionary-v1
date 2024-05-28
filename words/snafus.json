@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A situation marked by errors or confusion",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The team's project was full of snafus, making it difficult to complete on time.",
+            "sent2": "The office move was filled with snafus, from misplaced boxes to miscommunication.",
+            "sent3": "The comedy of errors in the play was hilarious, with snafus at every turn.",
+            "sent4": "Her attempt to bake a cake turned into a series of snafus, like a recipe gone wrong.",
+            "sent5": "The snafus in the maze of mirrors confused the participants, leading to laughter."
         },
         {
             "definition": "To cause a situation marked by errors or confusion",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "His lack of attention to detail snafused the entire project, causing delays.",
+            "sent2": "The miscommunication between departments snafused the company's merger plans.",
+            "sent3": "She accidentally snafused the seating arrangements at the wedding, causing a mix-up.",
+            "sent4": "The unexpected rain snafused our picnic, turning it into a chaotic indoor gathering.",
+            "sent5": "The magician's trick snafused the audience, leaving them in awe and confusion."
         }
     ]
 }

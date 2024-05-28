@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Handle or control (a tool, mechanism, etc.) in a skillful manner.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She manipulated the paintbrush with precision.",
+            "sent2": "He manipulated the steering wheel smoothly.",
+            "sent3": "The magician manipulated the cards effortlessly.",
+            "sent4": "Her fingers manipulated the strings of the guitar like a puppeteer.",
+            "sent5": "The sculptor manipulated the clay into a beautiful sculpture."
         },
         {
             "definition": "Influence or control (a person or situation) cleverly or unscrupulously.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The politician manipulated the crowd with his persuasive speech.",
+            "sent2": "She manipulated her friends into going along with her plan.",
+            "sent3": "The cat manipulated its owner into giving extra treats.",
+            "sent4": "His words manipulated the outcome of the debate.",
+            "sent5": "The mastermind manipulated the situation to his advantage."
         },
         {
             "definition": "Alter or present (data) so as to mislead.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The researcher manipulated the graph to show false results.",
+            "sent2": "He manipulated the evidence to frame someone else.",
+            "sent3": "The prankster manipulated the photo to trick his friends.",
+            "sent4": "The hacker manipulated the code to gain unauthorized access.",
+            "sent5": "The spy manipulated the information to deceive the enemy."
         }
     ]
 }

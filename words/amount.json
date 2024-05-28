@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "The total number or quantity of something.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The amount of apples in the basket is five.",
+            "sent2": "She counted the amount of pencils on the desk.",
+            "sent3": "The amount of cookies in the jar made everyone smile.",
+            "sent4": "The amount of stars in the sky seemed infinite.",
+            "sent5": "The amount of water in the glass was just enough to quench his thirst."
         },
         {
             "definition": "To add up to a particular total.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I need to amount the coins in my piggy bank.",
+            "sent2": "The donations will amount to a significant sum.",
+            "sent3": "His excuses did not amount to a valid reason for being late.",
+            "sent4": "Her efforts amounted to success in the end.",
+            "sent5": "The ingredients will amount to a delicious cake once mixed together."
         }
     ]
 }

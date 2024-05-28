@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To simplify (something) too much",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She tends to oversimplify complex math problems.",
+            "sent2": "Don't oversimplify the instructions; follow them carefully.",
+            "sent3": "He thought he could oversimplify the recipe by skipping steps, but ended up with a burnt cake.",
+            "sent4": "Her explanation was an oversimplification, like trying to fit a square peg into a round hole.",
+            "sent5": "The teacher's oversimplification of the history lesson left the students confused and misinformed."
         },
         {
             "definition": "The act of making something simpler than it really is",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The oversimplification of the scientific theory led to misunderstandings.",
+            "sent2": "His oversimplification of the issue ignored important details.",
+            "sent3": "The oversimplification of the plot made the movie predictable.",
+            "sent4": "The politician's speech was an oversimplification of the complex problem.",
+            "sent5": "The oversimplification of the budget left out crucial expenses."
         }
     ]
 }

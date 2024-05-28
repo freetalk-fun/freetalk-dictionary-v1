@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A state of elevated body temperature, typically caused by illness or infection.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "During the flu season, many people experience fevers.",
+            "sent2": "The doctor checked the patient's fevers to monitor their health.",
+            "sent3": "The fevers at the water park were so high that even the slides felt warm.",
+            "sent4": "In the heat of summer, the asphalt seemed to radiate fevers.",
+            "sent5": "The child's fevers subsided after taking the prescribed medication."
         },
         {
             "definition": "A strong feeling of excitement or agitation.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The fans' fevers reached a peak when their team scored a goal.",
+            "sent2": "Her fevers before the performance made her hands shake.",
+            "sent3": "The fevers of anticipation made the wait unbearable.",
+            "sent4": "The fevers of competition fueled their determination to win.",
+            "sent5": "His fevers of joy were evident in his wide smile."
         },
         {
             "definition": "To become excited or agitated.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She fevers every time she hears her favorite song.",
+            "sent2": "The children fevered with anticipation as they unwrapped their presents.",
+            "sent3": "The crowd fevered with excitement as the band took the stage.",
+            "sent4": "His heart fevered with nervousness before the big speech.",
+            "sent5": "The town fevered with gossip after the surprising news spread."
         }
     ]
 }

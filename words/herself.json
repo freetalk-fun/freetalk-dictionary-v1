@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Used to refer to a woman or girl as the object of a verb or preposition when she is also the subject of the clause.",
-            "pos": "pronoun"
+            "pos": "pronoun",
+            "sent1": "She did the work herself.",
+            "sent2": "She hurt herself while playing.",
+            "sent3": "She found herself in a funny situation.",
+            "sent4": "She pushed herself to the limit.",
+            "sent5": "She painted herself into a corner."
         },
         {
             "definition": "Used for emphasis or to refer to a woman or girl as the object of a verb or preposition when she is the subject of the clause.",
-            "pos": "pronoun"
+            "pos": "pronoun",
+            "sent1": "She herself made the cake.",
+            "sent2": "She dressed herself in a beautiful gown.",
+            "sent3": "She surprised herself with a silly joke.",
+            "sent4": "She shone like a star herself.",
+            "sent5": "She believed in herself against all odds."
         }
     ]
 }

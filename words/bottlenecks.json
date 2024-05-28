@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A narrow passage or point of congestion.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The hiking trail had many bottlenecks where only one person could pass at a time.",
+            "sent2": "Traffic jams often occur at bottlenecks such as highway merges.",
+            "sent3": "The bottlenecks in the hallway during lunchtime made it feel like a game of human Tetris.",
+            "sent4": "The bottleneck in the river caused a buildup of debris, creating a small dam.",
+            "sent5": "The bottleneck in the pipe was so tight that not even a drop of water could pass through."
         },
         {
             "definition": "A point of congestion in a system or process.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The checkout counter is a bottleneck during peak hours at the store.",
+            "sent2": "Identifying bottlenecks in production can help streamline the workflow.",
+            "sent3": "The bottleneck at the ice cream truck drew a long line of eager customers.",
+            "sent4": "The bottleneck in the email server slowed down communication within the company.",
+            "sent5": "The bottleneck in the supply chain delayed the delivery of essential goods."
         },
         {
             "definition": "To cause a bottleneck in a system or process.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The accident bottlenecked traffic on the highway for hours.",
+            "sent2": "Adding too many steps can bottleneck the efficiency of the project.",
+            "sent3": "His decision to bottleneck the decision-making process led to confusion among the team.",
+            "sent4": "The sudden influx of orders bottlenecked the fulfillment department.",
+            "sent5": "Trying to bottleneck the flow of information only resulted in miscommunication."
         }
     ]
 }

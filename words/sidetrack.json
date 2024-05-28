@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To divert from the main track or purpose.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I accidentally sidetracked from my homework to watch TV.",
+            "sent2": "Please don't sidetrack from our discussion and focus on the main topic.",
+            "sent3": "The cat tried to sidetrack me by playing with a toy while I was working.",
+            "sent4": "Her sudden question sidetracked me from my train of thought.",
+            "sent5": "The unexpected noise sidetracked my attention completely."
         },
         {
             "definition": "A secondary track or route.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The train switched to the sidetrack to let another pass.",
+            "sent2": "The hikers followed the sidetrack to explore the hidden waterfall.",
+            "sent3": "The sidetrack through the forest was a peaceful alternative to the busy road.",
+            "sent4": "His idea was like a sidetrack leading us to a new adventure.",
+            "sent5": "The sidetrack provided a scenic route through the countryside."
         }
     ]
 }

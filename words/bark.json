@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "The sound a dog makes",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The little dog let out a loud bark when the mailman arrived.",
+            "sent2": "I heard a bark coming from the neighbor's yard as their dog played outside.",
+            "sent3": "The bark of the dog startled the cat, making it jump up in surprise.",
+            "sent4": "The bark echoed through the park, signaling the start of a new day.",
+            "sent5": "The bark of the dog was so loud that it could be heard from far away."
         },
         {
             "definition": "The tough protective outer covering of a tree",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The rough bark of the oak tree provided shelter for insects.",
+            "sent2": "I touched the bark of the pine tree and felt its rough texture.",
+            "sent3": "The squirrel ran up the bark of the tree, searching for acorns.",
+            "sent4": "The bark of the tree shielded the delicate inner layers from the harsh weather.",
+            "sent5": "The bark of the tree was a natural armor, protecting it from harm."
         },
         {
             "definition": "To speak sharply or angrily",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The teacher had to bark at the noisy students to get their attention.",
+            "sent2": "I didn't mean to bark at you; I was just feeling stressed.",
+            "sent3": "The boss tends to bark orders when he's under pressure at work.",
+            "sent4": "She tends to bark out commands like a drill sergeant when she's in a hurry.",
+            "sent5": "The coach would bark instructions during the game to guide the players."
         }
     ]
 }

@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A coenzyme present in most living cells, essential for the production of ATP.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Ubiquinone is important for making energy in cells.",
+            "sent2": "Cells need ubiquinone to create ATP, their energy source.",
+            "sent3": "The little ubiquinone molecule works hard to keep cells energized.",
+            "sent4": "In the cell's power plant, ubiquinone is like a key player in a complex game.",
+            "sent5": "Imagine ubiquinone as a tiny battery charger for cells."
         },
         {
             "definition": "A compound that plays a crucial role in the electron transport chain in mitochondria.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The mitochondria rely on ubiquinone to move electrons along.",
+            "sent2": "Ubiquinone is vital for the smooth operation of the electron transport chain in mitochondria.",
+            "sent3": "Even mitochondria need a little help from ubiquinone to keep things running smoothly.",
+            "sent4": "In the mitochondria, ubiquinone acts like a conductor guiding electrons on their journey.",
+            "sent5": "Picture ubiquinone as a traffic controller directing electrons in the mitochondria."
         }
     ]
 }

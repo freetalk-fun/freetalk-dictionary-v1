@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A person who fails to pay a debt or fulfill an obligation.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The welcher promised to return the money but never did.",
+            "sent2": "The welcher borrowed money and never paid it back.",
+            "sent3": "The welcher thought debts were like magic, disappearing on their own.",
+            "sent4": "He was a welcher, leaving behind broken promises like shattered glass.",
+            "sent5": "The welcher's reputation for not honoring agreements spread like wildfire."
         },
         {
             "definition": "To fail to pay a debt or fulfill an obligation.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She welchered on her promise to help with the project.",
+            "sent2": "He welchered on his agreement to pay back the loan.",
+            "sent3": "The cat welchered on its duty to catch the mouse, opting for a nap instead.",
+            "sent4": "The clouds welchered on their pledge to bring rain, leaving the fields dry.",
+            "sent5": "The student welchered on studying for the test, choosing to play video games instead."
         }
     ]
 }

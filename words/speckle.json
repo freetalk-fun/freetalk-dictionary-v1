@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A small spot or mark",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The bird had a tiny speckle on its wing.",
+            "sent2": "She noticed a speckle of paint on the wall.",
+            "sent3": "The chef added a speckle of salt to the soup, making it perfect.",
+            "sent4": "The night sky was a speckle of twinkling stars.",
+            "sent5": "The field was covered in a speckle of colorful flowers."
         },
         {
             "definition": "To mark with small spots or marks",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She used a brush to speckle the canvas with paint.",
+            "sent2": "The artist decided to speckle the background with shades of blue.",
+            "sent3": "The mischievous child tried to speckle his friend's face with markers.",
+            "sent4": "The rain continued to speckle the windowpane throughout the day.",
+            "sent5": "The sunlight seemed to speckle the forest floor with golden patches."
         }
     ]
 }

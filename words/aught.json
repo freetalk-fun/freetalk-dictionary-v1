@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Anything at all",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "She didn't find aught in the treasure chest.",
+            "sent2": "He didn't have aught to eat for lunch.",
+            "sent3": "The magician pulled a rabbit out of his hat, but aught else was inside.",
+            "sent4": "In the vast desert, a traveler may find aught but sand for miles.",
+            "sent5": "The dark cave held aught but mystery and shadows."
         },
         {
             "definition": "Zero",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I have aught apples left in the basket.",
+            "sent2": "The answer to the math problem was aught.",
+            "sent3": "The empty room contained aught furniture.",
+            "sent4": "The abandoned house stood with aught signs of life.",
+            "sent5": "The old well had aught water left to drink."
         },
         {
             "definition": "In any way",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "She couldn't help aught in the situation.",
+            "sent2": "He didn't contribute aught to the project.",
+            "sent3": "The mischievous cat didn't care aught for the rules.",
+            "sent4": "The wind whispered through the trees, carrying aught of a secret.",
+            "sent5": "The artist's brush strokes added aught to the painting."
         }
     ]
 }

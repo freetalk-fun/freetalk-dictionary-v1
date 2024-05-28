@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A piece of writing included with others in a newspaper, magazine, or other publication.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The newspaper included an article about space exploration.",
+            "sent2": "She read an interesting article in the magazine.",
+            "sent3": "The article about penguins made everyone laugh.",
+            "sent4": "His article on friendship touched many hearts.",
+            "sent5": "The article on climate change was eye-opening."
         },
         {
             "definition": "A particular item or object.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The antique shop displayed a rare article from the 1800s.",
+            "sent2": "He collected articles from different countries.",
+            "sent3": "The lost article turned out to be his favorite hat.",
+            "sent4": "Her smile was like a precious article in a museum.",
+            "sent5": "The diamond ring was the most valuable article in the collection."
         },
         {
             "definition": "A section of a legal document or treaty.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The article in the contract outlined the payment terms.",
+            "sent2": "They discussed each article of the treaty in detail.",
+            "sent3": "The article about penalties was surprisingly short.",
+            "sent4": "The article on rights was the most debated.",
+            "sent5": "The article regarding privacy was crucial for all parties involved."
         }
     ]
 }

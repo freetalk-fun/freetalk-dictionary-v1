@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Cause physical pain or injury to.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Running into a wall hurts my head.",
+            "sent2": "Falling off a bike hurts your knees.",
+            "sent3": "Tickling someone too much hurts their stomach.",
+            "sent4": "The truth hurts like a sharp knife.",
+            "sent5": "The burn hurts so much I can't think straight."
         },
         {
             "definition": "Suffer physical pain or injury.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "When I fall, it hurts my back.",
+            "sent2": "If you touch fire, it hurts your hand.",
+            "sent3": "Eating too much ice cream hurts my teeth.",
+            "sent4": "The loss hurts like a deep wound.",
+            "sent5": "The sting hurts more than I expected."
         },
         {
             "definition": "Mental or emotional pain or suffering.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Seeing them leave hurts my heart.",
+            "sent2": "Losing a friend hurts your feelings.",
+            "sent3": "Forgetting your birthday hurts my brain.",
+            "sent4": "The betrayal hurts like a heavy burden.",
+            "sent5": "The loneliness hurts deep inside."
         }
     ]
 }

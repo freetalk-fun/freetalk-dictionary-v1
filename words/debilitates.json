@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Make (someone) weak.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Lack of sleep debilitates my energy levels.",
+            "sent2": "The illness debilitates her ability to walk long distances.",
+            "sent3": "Eating too much candy debilitates my self-control.",
+            "sent4": "The constant stress debilitates his mental resilience.",
+            "sent5": "Running a marathon without training debilitates the muscles."
         },
         {
             "definition": "Hinder, delay, or weaken.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Heavy traffic debilitates our progress on the road.",
+            "sent2": "The storm debilitates the construction work on the building.",
+            "sent3": "Forgetting my keys debilitates my morning routine.",
+            "sent4": "The lack of funds debilitates the completion of the project.",
+            "sent5": "The broken elevator debilitates access to the upper floors."
         }
     ]
 }

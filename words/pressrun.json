@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "The act of printing a publication in a single run.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "During the pressrun, all the newspapers were printed at once.",
+            "sent2": "The pressrun for the magazine was set for midnight.",
+            "sent3": "The pressrun went smoothly until the printer ran out of ink!",
+            "sent4": "The pressrun of the newspaper was like a well-oiled machine.",
+            "sent5": "The pressrun of the book was a flurry of activity in the printing room."
         },
         {
             "definition": "A scheduled time for a printing press to produce a specific number of copies.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The pressrun for the flyers is at 3 PM today.",
+            "sent2": "The pressrun for the brochures is delayed due to a technical issue.",
+            "sent3": "The pressrun was so early that the printer had to wake up before sunrise!",
+            "sent4": "The pressrun was like a race against time to meet the deadline.",
+            "sent5": "The pressrun was crucial to ensure all the copies were ready for distribution."
         },
         {
             "definition": "To print copies of a publication in a single run.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "We need to pressrun the flyers before the event.",
+            "sent2": "The printing company will pressrun the brochures tomorrow.",
+            "sent3": "I accidentally pressrun the wrong file and wasted paper.",
+            "sent4": "She pressruns the newspapers with precision and speed.",
+            "sent5": "Pressrunning the magazine efficiently requires a well-maintained printer."
         }
     ]
 }

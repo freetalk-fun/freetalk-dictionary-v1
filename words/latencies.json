@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "The state of being latent or hidden.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The latencies of the spy's true identity were finally revealed.",
+            "sent2": "The latencies of the treasure's location kept it safe for centuries.",
+            "sent3": "The magician's latencies added an element of mystery to his act.",
+            "sent4": "The latencies of the iceberg beneath the surface were deceptive.",
+            "sent5": "The latencies of the secret passage made it hard to find."
         },
         {
             "definition": "The delay before a transfer of data begins following an instruction for its transfer.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "After clicking 'send,' there was a brief moment of latencies before the file started uploading.",
+            "sent2": "The video call experienced latencies, causing the image to freeze momentarily.",
+            "sent3": "The latencies in the email delivery made the conversation feel like a slow-motion race.",
+            "sent4": "The latencies in the network traffic created a bottleneck in the data flow.",
+            "sent5": "The latencies in the online game caused frustration among the players."
         },
         {
             "definition": "The time taken to respond to a stimulus.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The athlete's quick latencies in reacting to the starting gun gave him an advantage.",
+            "sent2": "The doctor measured the patient's latencies in response to different sensory inputs.",
+            "sent3": "The latencies of the cat chasing a laser pointer provided entertainment for the family.",
+            "sent4": "The latencies of the plant in turning towards the sunlight were fascinating to observe.",
+            "sent5": "The latencies of the student in answering the question showed deep contemplation."
         }
     ]
 }

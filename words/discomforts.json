@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To cause unease or distress",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The loud noise discomforts my ears.",
+            "sent2": "The thought of failing the test discomforts me.",
+            "sent3": "The squeaky chair discomforts the whole office.",
+            "sent4": "The dark clouds discomfort the peaceful sky.",
+            "sent5": "The bumpy road discomforts the passengers in the car."
         },
         {
             "definition": "A feeling of physical or mental unease",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Her discomforts were evident in her fidgeting.",
+            "sent2": "The patient expressed his discomforts to the nurse.",
+            "sent3": "The discomforts of wearing tight shoes are real.",
+            "sent4": "The discomforts of uncertainty weighed heavily on her mind.",
+            "sent5": "The discomforts of a long flight can be alleviated with a neck pillow."
         },
         {
             "definition": "Lack of comfort or ease",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The old couch showed signs of discomforts with its worn-out cushions.",
+            "sent2": "The discomforts of camping in the rain are undeniable.",
+            "sent3": "The discomforts of a hard chair during a long meeting are relatable.",
+            "sent4": "The discomforts of a rocky bed made sleeping difficult.",
+            "sent5": "The discomforts of a cold room can be solved with a warm blanket."
         }
     ]
 }

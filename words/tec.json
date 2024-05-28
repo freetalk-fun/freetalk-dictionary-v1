@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Detective: a person whose job is to investigate crimes",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The tec solved the mystery of the missing cat.",
+            "sent2": "The detective carefully examined the crime scene for clues.",
+            "sent3": "The tec accidentally mistook a pizza delivery person for a suspect.",
+            "sent4": "The detective's sharp tec skills uncovered the truth behind the robbery.",
+            "sent5": "The experienced tec always gets to the bottom of every case."
         },
         {
             "definition": "Technology: the application of scientific knowledge for practical purposes",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The latest tec allows us to communicate instantly with people around the world.",
+            "sent2": "Technology has greatly improved our daily lives in many ways.",
+            "sent3": "The tec of smartphones sometimes makes it hard for people to disconnect.",
+            "sent4": "In today's world, tec has become an essential part of our existence.",
+            "sent5": "Learning to use tec effectively can open up new opportunities for everyone."
         },
         {
             "definition": "Detect: to discover or identify the presence of something",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I can tec a hint of cinnamon in the air.",
+            "sent2": "The scientist used advanced equipment to detect the presence of water on the planet.",
+            "sent3": "As I walked into the kitchen, I could tec the delicious aroma of freshly baked cookies.",
+            "sent4": "Her keen sense of smell helped her detect the gas leak before it became dangerous.",
+            "sent5": "The detective's trained dog could tec even the faintest scent of drugs."
         }
     ]
 }

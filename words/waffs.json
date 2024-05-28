@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Waffs: to speak or write at length in a vague or trivial manner",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "During the meeting, Sarah waffs on about her weekend plans.",
+            "sent2": "The politician waffs during the debate, avoiding direct answers.",
+            "sent3": "Tom always waffs about his dreams of becoming a famous actor.",
+            "sent4": "Her words waffs around the room, never really hitting the point.",
+            "sent5": "The teacher's lecture waffs in the students' minds, leaving them confused."
         },
         {
             "definition": "Waffs: a light crisp cake made of batter",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Mom baked delicious waffs for breakfast.",
+            "sent2": "The bakery down the street sells the best waffs in town.",
+            "sent3": "The kids love to eat waffs with maple syrup for brunch.",
+            "sent4": "The smell of freshly made waffs filled the kitchen.",
+            "sent5": "The golden waffs were a hit at the school bake sale."
         },
         {
             "definition": "Waffs: a puff of steam or smoke",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The train released waffs of steam as it pulled away from the station.",
+            "sent2": "The chimney sent waffs of smoke into the sky.",
+            "sent3": "The campfire sent waffs of smoke into our faces, making us cough.",
+            "sent4": "The factory chimney released waffs of smoke into the air.",
+            "sent5": "The barbecue grill sent delicious waffs of smoke through the backyard."
         }
     ]
 }

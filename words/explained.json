@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Make (an idea, situation, or problem) clear to someone by describing it in more detail.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She explained the math problem to her friend using colorful markers.",
+            "sent2": "The teacher explained the science experiment step by step.",
+            "sent3": "The cat explained to the dog why chasing its tail was pointless.",
+            "sent4": "The map explained the winding road ahead with dotted lines.",
+            "sent5": "The guide dog explained the route to the visually impaired woman with gentle nudges."
         },
         {
             "definition": "Give a reason or justification for (an action or event).",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He explained his absence from the meeting due to a sudden illness.",
+            "sent2": "The witness explained the sequence of events leading up to the accident.",
+            "sent3": "The clown explained his late arrival at the circus with a tale of lost shoes.",
+            "sent4": "The falling leaves explained the changing seasons to the curious child.",
+            "sent5": "The chef explained the unique flavors of the dish to the intrigued diners."
         }
     ]
 }

@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "The act of giving someone official permission or approval to do something.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The authorisation to enter the restricted area was granted by the security guard.",
+            "sent2": "She needed authorisation from her boss to take a day off work.",
+            "sent3": "The penguin requested authorisation to join the seal swimming club.",
+            "sent4": "His signature on the document served as the authorisation for the project to proceed.",
+            "sent5": "The golden key symbolized the authorisation to unlock the treasure chest."
         },
         {
             "definition": "The process of verifying the identity of a user or process.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Before accessing the system, the user must go through authorisation to confirm their identity.",
+            "sent2": "The authorisation step ensures only authorized personnel can access the confidential files.",
+            "sent3": "The robot had trouble with authorisation and kept mistaking the toaster for a user.",
+            "sent4": "The fingerprint scanner acts as the authorisation gate for entry into the laboratory.",
+            "sent5": "The secret code served as the authorisation key to unlock the hidden room."
         }
     ]
 }

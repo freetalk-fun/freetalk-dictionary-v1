@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Edit text for publication.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I will redacted my essay before submitting it.",
+            "sent2": "The editor redacted unnecessary details from the article.",
+            "sent3": "The teacher asked us to redacted our rough drafts before turning them in.",
+            "sent4": "She carefully redacted the errors in her report.",
+            "sent5": "He always redacted his emails to ensure clarity."
         },
         {
             "definition": "Censor or obscure sensitive information.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The government redacted classified documents to protect national security.",
+            "sent2": "The names of the individuals involved were redacted from the report.",
+            "sent3": "The spy novel had redacted sections to add suspense.",
+            "sent4": "Her memories were redacted like black lines on a page.",
+            "sent5": "The redacted parts of the letter left us curious."
         },
         {
             "definition": "Prepare for publication by obscuring or removing sensitive information.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Before releasing the document, they redacted confidential details.",
+            "sent2": "The legal team redacted the sensitive information from the contract.",
+            "sent3": "The author had to redacted the names of real people in the book.",
+            "sent4": "The redacted version of the article was finally approved for print.",
+            "sent5": "She carefully redacted the personal information from the form."
         }
     ]
 }

@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Plural of box",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I have two boxen in my room.",
+            "sent2": "The delivery truck was filled with boxen of various sizes.",
+            "sent3": "The boxen in the attic seem to multiply on their own.",
+            "sent4": "Her room was a maze of boxen, each holding a different treasure.",
+            "sent5": "The boxen stacked in the corner created a colorful wall of storage."
         },
         {
             "definition": "Third person singular present of box",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She boxen the items neatly on the shelf.",
+            "sent2": "He boxen the package before sending it out.",
+            "sent3": "The cat boxen at the door, wanting to go outside.",
+            "sent4": "The wind boxen against the windows, making them rattle.",
+            "sent5": "The waves boxen against the shore, creating a soothing sound."
         },
         {
             "definition": "Past participle of box",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The boxen package was finally delivered.",
+            "sent2": "The boxen items were neatly organized on the shelf.",
+            "sent3": "The boxen cat seemed content after its nap.",
+            "sent4": "The boxen memories of childhood flooded back.",
+            "sent5": "The boxen lid was tightly sealed to keep the contents fresh."
         }
     ]
 }

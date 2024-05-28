@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A test of knowledge, typically consisting of a series of questions or tasks.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The students took weekly quizzes to check their understanding of the material.",
+            "sent2": "She scored high on the history quiz by studying diligently.",
+            "sent3": "During the quiz, the teacher accidentally dropped all the answer sheets.",
+            "sent4": "The quiz was a mountain of questions waiting to be conquered by the students.",
+            "sent5": "The intense quiz made her sweat with nervousness."
         },
         {
             "definition": "To test someone's knowledge or understanding in a brief, informal way.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The teacher quizzes the students to see if they remember the lesson.",
+            "sent2": "He quizzes his friends on movie trivia during lunch break.",
+            "sent3": "She quizzes her cat on its ability to catch a toy mouse.",
+            "sent4": "The detective quizzes the suspect to uncover the truth.",
+            "sent5": "The coach quizzes the players before the big game to ensure they are prepared."
         }
     ]
 }

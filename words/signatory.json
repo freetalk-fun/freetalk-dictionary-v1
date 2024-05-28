@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A person who signs a document.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The signatory carefully put their signature on the contract.",
+            "sent2": "The signatory signed the permission slip for the field trip.",
+            "sent3": "The signatory accidentally used a green pen instead of a black one.",
+            "sent4": "She was the first signatory to endorse the new policy.",
+            "sent5": "The signatory's signature was bold and clear on the legal document."
         },
         {
             "definition": "A country or organization that has signed a treaty or agreement.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The United States is a signatory to the Paris Agreement.",
+            "sent2": "The European Union is a signatory to the trade deal.",
+            "sent3": "The small island nation became a signatory to the climate pact.",
+            "sent4": "Being a signatory to the peace treaty brought hope for lasting peace.",
+            "sent5": "As a signatory to the agreement, they pledged to uphold its terms."
         }
     ]
 }

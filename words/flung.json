@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Past tense of fling: to throw or hurl forcefully",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She flung the ball across the field.",
+            "sent2": "He flung the paper airplane into the air.",
+            "sent3": "The monkey flung the banana peel at the zookeeper.",
+            "sent4": "The storm flung debris all over the neighborhood.",
+            "sent5": "The angry child flung his toys in a tantrum."
         },
         {
             "definition": "Past participle of fling: thrown or hurled forcefully",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The flung ball landed in the bushes.",
+            "sent2": "The flung javelin soared through the air.",
+            "sent3": "The flung frisbee got stuck on the roof.",
+            "sent4": "The flung rope dangled from the tree branch.",
+            "sent5": "The flung rock skipped across the water."
         }
     ]
 }

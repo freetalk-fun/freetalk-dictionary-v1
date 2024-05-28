@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "The process of growing old",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "My grandmother's aging has made her wiser and more experienced.",
+            "sent2": "The aging of a tree can be seen in its rings, showing its age.",
+            "sent3": "The aging of a book can sometimes make it more valuable to collectors.",
+            "sent4": "The aging of a building can give it a sense of history and character.",
+            "sent5": "The aging of a wine can enhance its flavor and complexity over time."
         },
         {
             "definition": "Showing the effects of time",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The aging car had rust spots and peeling paint.",
+            "sent2": "Her aging skin showed fine lines and wrinkles.",
+            "sent3": "The aging clock ticked slowly, as if tired of keeping time.",
+            "sent4": "The aging bridge creaked under the weight of passing cars.",
+            "sent5": "The aging photograph had faded, losing its vibrant colors."
         },
         {
             "definition": "To make or become old",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The sun's rays can quickly age skin if not protected.",
+            "sent2": "She hoped the antique mirror would age gracefully with time.",
+            "sent3": "Leaving the painting in the sun would age it prematurely.",
+            "sent4": "The constant exposure to the elements would age the wooden fence.",
+            "sent5": "The artist used a special technique to age the paper for a vintage look."
         }
     ]
 }

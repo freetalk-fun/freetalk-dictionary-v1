@@ -3,19 +3,39 @@
     "meanings": [
         {
             "definition": "A broad piece of armor, varying widely in form and size, carried apart from the body to intercept blows.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The knight raised his shields to block the enemy's attack.",
+            "sent2": "The shields on the castle walls protected the kingdom from invaders.",
+            "sent3": "The shields clanked together as the warriors practiced their defense.",
+            "sent4": "Her smile was like a shield, protecting her from the harsh words around her.",
+            "sent5": "The shields gleamed in the sunlight, a symbol of strength and protection."
         },
         {
             "definition": "A protective plate or screen on machinery or equipment.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The machine's shields prevented any debris from damaging its inner workings.",
+            "sent2": "The glass shields on the control panel kept the buttons safe from accidental presses.",
+            "sent3": "The shields on the robot sparkled in the factory lights, looking almost futuristic.",
+            "sent4": "The shield on the computer screen blocked harmful viruses from entering the system.",
+            "sent5": "The shields on the spaceship protected the crew from the dangers of space travel."
         },
         {
             "definition": "To protect or defend with or as if with a shield.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She shields her little brother from the rain with an umbrella.",
+            "sent2": "The superhero shields the city from evil villains with her powers.",
+            "sent3": "He shields his eyes from the bright sun with his hand, squinting against the glare.",
+            "sent4": "The mother shields her child from harm, always watching over him with care.",
+            "sent5": "The tree shields the house from the strong winds, acting as a natural barrier."
         },
         {
             "definition": "To prevent from being seen or discovered.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The detective shields the evidence from prying eyes, keeping it safe.",
+            "sent2": "The spy shields her true identity to maintain her cover.",
+            "sent3": "He shields his emotions behind a stoic mask, not letting anyone see his true feelings.",
+            "sent4": "The fog shields the mysterious island, hiding its secrets from curious onlookers.",
+            "sent5": "The magician shields his tricks with clever misdirection, keeping the audience guessing."
         }
     ]
 }

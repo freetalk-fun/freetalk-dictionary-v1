@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "past tense of drag",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Yesterday, I dragged my heavy bag to school.",
+            "sent2": "She dragged the chair across the room to reach the bookshelf.",
+            "sent3": "The cat dragged its toy mouse around the house, pretending to hunt.",
+            "sent4": "His tired feet felt like they were being dragged through mud after the long hike.",
+            "sent5": "The criminal dragged the stolen goods behind him as he fled the scene."
         },
         {
             "definition": "pulled along forcefully",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "The kite flew high, dragged by the strong wind.",
+            "sent2": "The boat moved slowly as it was dragged by the powerful current.",
+            "sent3": "The dog ran happily, dragging the leash behind him in the park.",
+            "sent4": "The fallen branches were dragged away by the tractor after the storm.",
+            "sent5": "The heavy suitcase was dragged noisily down the stairs."
         },
         {
             "definition": "moved slowly and with difficulty",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "The injured hiker dragged himself back to the campsite.",
+            "sent2": "The old car engine sputtered as it dragged up the steep hill.",
+            "sent3": "The sleepy child dragged his feet along the hallway to bed.",
+            "sent4": "The tired snail dragged its shell across the garden path.",
+            "sent5": "The exhausted marathon runner dragged his body to the finish line."
         }
     ]
 }

@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A person confined to an institution such as a prison or hospital.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The inmate wore a uniform in the prison.",
+            "sent2": "The inmate received a visit from a family member.",
+            "sent3": "The inmate tried to escape by dressing as a guard.",
+            "sent4": "The inmate's mind was a prison of regret.",
+            "sent5": "The inmate's days in confinement felt endless."
         },
         {
             "definition": "A person who resides in a place.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The new inmate in the dormitory was friendly.",
+            "sent2": "The inmate of the house welcomed guests warmly.",
+            "sent3": "The inmate of the apartment had a pet parrot.",
+            "sent4": "The inmate of the neighborhood was known for kindness.",
+            "sent5": "The inmate of the town square enjoyed the local events."
         }
     ]
 }

@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Causing anxiety or fear",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The dark, empty house was unnerving to the young girl.",
+            "sent2": "The horror movie was so unnerving that I couldn't sleep.",
+            "sent3": "The unnerving sound of a creaking door in a comedy movie made everyone laugh.",
+            "sent4": "The unnerving silence in the forest felt like a ghostly presence watching over us.",
+            "sent5": "The unnerving shadow cast by the flickering candle created a spooky atmosphere."
         },
         {
             "definition": "To make someone feel anxious or afraid",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The unexpected noise unnerved the timid cat.",
+            "sent2": "The eerie music in the movie unnerved the audience.",
+            "sent3": "The magician's disappearing act unnerved the children, but they soon laughed it off.",
+            "sent4": "The sudden change in weather unnerved the picnic attendees.",
+            "sent5": "The mysterious figure lurking in the shadows unnerved the detective on the case."
         }
     ]
 }

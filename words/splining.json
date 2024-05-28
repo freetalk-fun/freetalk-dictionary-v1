@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To join together pieces of wood or metal by fitting a tongue-and-groove or mortise-and-tenon joint.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He was splining the wooden planks to build a sturdy table.",
+            "sent2": "The carpenter enjoys splining the furniture pieces for a perfect fit.",
+            "sent3": "The beavers were splining the logs together to create a cozy dam.",
+            "sent4": "She skillfully splined the metal rods, creating a seamless connection.",
+            "sent5": "Splining requires precision and patience to ensure a strong bond."
         },
         {
             "definition": "A technique used in computer graphics to create smooth curves by connecting a series of points with a continuous curve.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The artist used splining to make the character's movements fluid in the animation.",
+            "sent2": "Learning splining in graphic design helps in creating realistic animations.",
+            "sent3": "The computer program's splining feature made the drawing process effortless.",
+            "sent4": "The smooth transition between frames was achieved through accurate splining.",
+            "sent5": "Mastering splining is essential for creating lifelike digital artwork."
         },
         {
             "definition": "The act of interpolating values between known data points to create a smooth curve.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "In mathematics, splining is used to estimate values between data points.",
+            "sent2": "The scientist explained the importance of splining in data analysis.",
+            "sent3": "The comedian joked about splining data to make funny graphs.",
+            "sent4": "Splining allows for a more accurate representation of the data trend.",
+            "sent5": "Understanding splining helps in visualizing data in a meaningful way."
         }
     ]
 }

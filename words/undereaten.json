@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Not having eaten enough food.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The undereaten child looked sadly at his empty plate.",
+            "sent2": "She felt undereaten after skipping breakfast.",
+            "sent3": "The undereaten sandwich in the lunchbox was a sad sight.",
+            "sent4": "The undereaten buffet table was a clear sign of a failed party.",
+            "sent5": "The undereaten apple was shriveled and unappetizing."
         },
         {
             "definition": "To have not consumed enough food.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He undereaten his dinner and felt hungry later.",
+            "sent2": "They undereaten during the long hike and regretted it.",
+            "sent3": "The picky eater undereaten at the family dinner, causing concern.",
+            "sent4": "She undereaten deliberately to save room for dessert.",
+            "sent5": "The undereaten leftovers were sadly thrown away."
         }
     ]
 }

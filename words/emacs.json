@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A popular text editor used for programming and other tasks.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I use emacs to write code for my computer science class.",
+            "sent2": "Programmers often rely on emacs for their coding projects.",
+            "sent3": "The student accidentally deleted his entire essay while learning how to use emacs.",
+            "sent4": "In the world of coding, emacs is like a trusty toolbox full of helpful tools.",
+            "sent5": "Using emacs feels like having a magic pen that can bring your ideas to life on the screen."
         },
         {
             "definition": "To edit text using the Emacs text editor.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She emacs her documents to make sure they are error-free.",
+            "sent2": "Remember to emacs your code before submitting it for review.",
+            "sent3": "He decided to emacs his email one last time before sending it out.",
+            "sent4": "Editing with emacs is like polishing a gem to make it shine brighter.",
+            "sent5": "The writer carefully emacs each sentence to ensure clarity and precision."
         },
         {
             "definition": "The name of a specific text editor program.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Have you tried the new version of emacs?",
+            "sent2": "I prefer using emacs over other text editors.",
+            "sent3": "The cat knocked over the cup of coffee onto the keyboard running emacs.",
+            "sent4": "In the world of text editing, emacs stands out as a reliable choice.",
+            "sent5": "When it comes to coding efficiency, emacs is a name that always comes up."
         }
     ]
 }

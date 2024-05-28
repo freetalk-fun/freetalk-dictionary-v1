@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To put in danger or at risk.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Leaving the door unlocked could jeopard our safety.",
+            "sent2": "Speeding on the highway may jeopard your life.",
+            "sent3": "Forgetting your umbrella might jeopard your dry clothes.",
+            "sent4": "Ignoring the warning signs can jeopard your future success.",
+            "sent5": "Not wearing a helmet while biking could jeopard your head's safety."
         },
         {
             "definition": "Risk or danger.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Entering the abandoned building is a great jeopard.",
+            "sent2": "Swimming in rough waters poses a serious jeopard.",
+            "sent3": "Eating spicy food can be a delicious jeopard for some.",
+            "sent4": "The dark forest was a looming jeopard to the lost hikers.",
+            "sent5": "The unstable bridge was a visible jeopard to the travelers."
         }
     ]
 }

@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A writing instrument with a nib for applying ink.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I used a pen to write a letter to my friend.",
+            "sent2": "The teacher asked us to bring a pen to class for the test.",
+            "sent3": "The pen rolled off the table and onto the floor, making the cat curious.",
+            "sent4": "Her words flowed from the pen like a river of thoughts.",
+            "sent5": "The pen danced across the paper, leaving a trail of black ink."
         },
         {
             "definition": "An enclosure for animals.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The farmer built a sturdy pen to keep the sheep safe at night.",
+            "sent2": "The zookeeper checked the locks on the animal pens before leaving for the day.",
+            "sent3": "The mischievous puppy managed to escape from the pen and ran around the yard.",
+            "sent4": "The pen was a sanctuary for the chickens, protecting them from predators.",
+            "sent5": "The pen was filled with the sounds of content animals enjoying their space."
         },
         {
             "definition": "To write or compose.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I will pen a poem for the school talent show.",
+            "sent2": "She likes to pen her thoughts in a journal every night before bed.",
+            "sent3": "The author decided to pen a mystery novel set in a small town.",
+            "sent4": "His words penned on the page captured the reader's imagination.",
+            "sent5": "The songwriter penned a beautiful melody that touched everyone's hearts."
         }
     ]
 }

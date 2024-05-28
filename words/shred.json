@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A small, narrow piece that has been torn or cut from something.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "She found a tiny shred of paper on the floor.",
+            "sent2": "The wind carried the shreds of the torn letter away.",
+            "sent3": "The cat played with the shred of fabric, thinking it was a mouse.",
+            "sent4": "His heart felt like a shred of paper, torn and fragile.",
+            "sent5": "The colorful shred of confetti fluttered down from the sky."
         },
         {
             "definition": "To tear or cut into small pieces.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Please shred the old documents before throwing them away.",
+            "sent2": "She used scissors to shred the paper into tiny pieces.",
+            "sent3": "The chef will shred the lettuce for the salad.",
+            "sent4": "The storm will shred the leaves off the trees.",
+            "sent5": "The shredder can quickly shred unwanted papers."
         },
         {
             "definition": "A very small amount of something.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "He didn't have a shred of evidence to support his claim.",
+            "sent2": "There wasn't a shred of truth in her story.",
+            "sent3": "She couldn't find a shred of chocolate left in the box.",
+            "sent4": "Not a shred of doubt remained in his mind.",
+            "sent5": "The detective searched every shred of the crime scene for clues."
         }
     ]
 }

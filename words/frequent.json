@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Occurring or appearing often",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The frequent rain showers made the grass grow quickly.",
+            "sent2": "She was a frequent visitor to the local library.",
+            "sent3": "The frequent visits from the noisy neighbor became a running joke in the neighborhood.",
+            "sent4": "The frequent train delays turned the commute into a daily struggle.",
+            "sent5": "The frequent laughter of children filled the playground with joy."
         },
         {
             "definition": "To visit or be in a place often",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He would frequent the cafe every morning for his coffee.",
+            "sent2": "They frequent the park on weekends for picnics.",
+            "sent3": "The cat decided to frequent the neighbor's garden for its daily nap.",
+            "sent4": "She would frequent the gym to stay in shape.",
+            "sent5": "The old man would frequent the same bench in the park every day."
         },
         {
             "definition": "To associate or have dealings with someone often",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "They frequent each other's homes for dinner parties.",
+            "sent2": "She would frequent the local market to chat with the vendors.",
+            "sent3": "The siblings would frequent arguments over trivial matters.",
+            "sent4": "He would frequent the same bar to catch up with old friends.",
+            "sent5": "The book club members would frequent lively discussions about their latest read."
         }
     ]
 }

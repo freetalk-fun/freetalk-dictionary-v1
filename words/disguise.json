@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To change the appearance or manner of in order to prevent recognition.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She tried to disguise her voice by speaking softly.",
+            "sent2": "He used a hat and sunglasses to disguise himself.",
+            "sent3": "The cat tried to disguise itself as a plant by hiding among the leaves.",
+            "sent4": "His excitement disguised the nervousness he felt inside.",
+            "sent5": "The magician's skillful use of smoke and mirrors disguised the trick from the audience."
         },
         {
             "definition": "Clothing or accessories worn to conceal one's identity.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The spy wore a clever disguise to blend in with the crowd.",
+            "sent2": "She put on a funny disguise for the costume party.",
+            "sent3": "The dog's disguise as a bee made everyone laugh at the pet parade.",
+            "sent4": "The disguise of a detective hat and magnifying glass made him look like a true investigator.",
+            "sent5": "The superhero's disguise helped protect their real identity from villains."
         },
         {
             "definition": "The act of concealing one's true intentions or feelings.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Her smile was a disguise for the sadness she felt inside.",
+            "sent2": "He used humor as a disguise to hide his nervousness during the speech.",
+            "sent3": "The disguise of pretending to be a plant at the party was a hilarious way to avoid socializing.",
+            "sent4": "The politician's charm was a clever disguise for his true motives.",
+            "sent5": "The mask served as a disguise to keep her emotions hidden from others."
         }
     ]
 }

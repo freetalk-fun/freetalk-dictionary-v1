@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "The day after today.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I will see you demain.",
+            "sent2": "Let's plan to meet demain for lunch.",
+            "sent3": "The cat thinks demain is a good day for a nap.",
+            "sent4": "The anticipation of demain's arrival is exciting.",
+            "sent5": "The sun sets, promising a new demain."
         },
         {
             "definition": "In the future.",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "We can discuss that demain.",
+            "sent2": "Demain, we will know the results.",
+            "sent3": "The robot predicted demain's weather accurately.",
+            "sent4": "Demain's possibilities are endless.",
+            "sent5": "Demain holds the key to our dreams."
         },
         {
             "definition": "Tomorrow.",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "I will finish my homework demain.",
+            "sent2": "Demain, we can go to the park.",
+            "sent3": "The cookies will be ready demain, fresh from the oven.",
+            "sent4": "Demain's sunrise brings new opportunities.",
+            "sent5": "Demain's light shines on a new day."
         }
     ]
 }

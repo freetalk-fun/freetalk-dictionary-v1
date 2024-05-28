@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A person who protects or keeps watch over someone or something.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The guard at the museum ensured no one touched the valuable artifacts.",
+            "sent2": "The guard escorted the VIP safely through the crowded event.",
+            "sent3": "The guard joked with the visitors while still keeping a close eye on the exhibits.",
+            "sent4": "The guard of the castle stood tall like an unyielding fortress.",
+            "sent5": "The guard's vigilant gaze never wavered, ensuring the safety of all within the premises."
         },
         {
             "definition": "To protect or keep watch over someone or something.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She will guard the secret with her life, never revealing it to anyone.",
+            "sent2": "The loyal dog guarded the house against any intruders.",
+            "sent3": "He guarded the last piece of cake as if it were a precious treasure.",
+            "sent4": "The old tree guarded the entrance to the hidden garden like a silent sentinel.",
+            "sent5": "The knight vowed to guard the kingdom from all threats, no matter the cost."
         },
         {
             "definition": "A device or part of a device designed to protect or cover a specific area.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The security guard scanned the area with the surveillance guard.",
+            "sent2": "The phone case acted as a guard against scratches and damage.",
+            "sent3": "The guard on the machine prevented any accidents from occurring.",
+            "sent4": "The guard on the sword gleamed in the sunlight, a symbol of protection.",
+            "sent5": "The guard on the fence kept the children safe from wandering into the dangerous construction site."
         }
     ]
 }

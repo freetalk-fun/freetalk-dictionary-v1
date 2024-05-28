@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To deprive of a right or privilege",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Being late to the meeting disentitles you from participating in the discussion.",
+            "sent2": "Not having a ticket disentitles you from entering the concert.",
+            "sent3": "Accidentally leaving your homework at home disentitles you from getting a good grade.",
+            "sent4": "Forgetting your password disentitles you from accessing your account.",
+            "sent5": "Losing your membership card disentitles you from using the gym facilities."
         },
         {
             "definition": "To disqualify from something",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Failing to meet the age requirement disentitles you from entering the contest.",
+            "sent2": "Using unauthorized equipment disentitles you from participating in the competition.",
+            "sent3": "Wearing mismatched socks disentitles you from winning the fashion show.",
+            "sent4": "Not following the rules disentitles you from receiving the award.",
+            "sent5": "Ignoring the guidelines disentitles you from joining the team."
         }
     ]
 }

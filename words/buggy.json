@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A small vehicle with four wheels used for transporting goods or people.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The children enjoyed riding in the buggy at the park.",
+            "sent2": "The farmer loaded his produce onto the buggy for market.",
+            "sent3": "The buggy rattled along the bumpy road, making everyone laugh.",
+            "sent4": "The old buggy carried memories of simpler times down the dusty path.",
+            "sent5": "The shiny red buggy stood out among the other vehicles in the parade."
         },
         {
             "definition": "An insect, especially a small one.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I spotted a buggy crawling on the picnic blanket.",
+            "sent2": "The children were fascinated by the colorful buggy in the garden.",
+            "sent3": "The buggy scurried away when I tried to catch it, playing hard to get.",
+            "sent4": "The buggy seemed to dance on the flower petals, a tiny performer.",
+            "sent5": "The little buggy buzzed around the light, seeking warmth in the darkness."
         },
         {
             "definition": "Not functioning correctly or having errors, as in a computer program.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The buggy software kept crashing during the presentation.",
+            "sent2": "Her computer became buggy after the latest update.",
+            "sent3": "The buggy program displayed upside-down text, causing confusion.",
+            "sent4": "The website was a buggy maze of broken links and dead ends.",
+            "sent5": "The glitchy game was so buggy that it was unplayable."
         }
     ]
 }

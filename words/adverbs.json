@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Words that modify verbs, adjectives, or other adverbs.",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "She ran quickly to catch the bus.",
+            "sent2": "He speaks softly during meetings.",
+            "sent3": "The cat purred loudly to get attention.",
+            "sent4": "The wind howled fiercely through the night.",
+            "sent5": "The car screeched loudly to a stop."
         },
         {
             "definition": "Words that answer questions like how, when, where, and to what extent.",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "He ate his dinner slowly at the table.",
+            "sent2": "She arrived early for the appointment.",
+            "sent3": "The dog barked loudly at the mailman.",
+            "sent4": "The sun shone brightly in the clear sky.",
+            "sent5": "The child laughed happily at the funny joke."
         },
         {
             "definition": "Words that provide more information about how an action is performed.",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "She sings beautifully in the choir.",
+            "sent2": "He types quickly on the keyboard.",
+            "sent3": "The chef cooks skillfully in the kitchen.",
+            "sent4": "The athlete jumps high during the competition.",
+            "sent5": "The bird flies gracefully in the sky."
         }
     ]
 }

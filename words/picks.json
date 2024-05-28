@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To select or choose from a group",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She picks her favorite color from the crayon box.",
+            "sent2": "He picks the best book to read before bed.",
+            "sent3": "The cat picks which toy to play with next.",
+            "sent4": "The teacher picks the most creative project in the class.",
+            "sent5": "Mom picks the ripest fruit at the market."
         },
         {
             "definition": "A tool with a long handle and a pointed end, used for breaking up hard ground or rock",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The farmer uses a pick to dig in the tough soil.",
+            "sent2": "The miner carries a pick to extract minerals from the rock.",
+            "sent3": "The pick helps the gardener loosen the compacted dirt.",
+            "sent4": "The hiker's pick struck the rock with a satisfying clang.",
+            "sent5": "The sculptor's pick chipped away at the marble block."
         },
         {
             "definition": "A small, thin piece of metal or plastic used to pluck the strings of a musical instrument",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The guitarist uses a pick to strum the guitar strings.",
+            "sent2": "She keeps a pick in her pocket for impromptu jam sessions.",
+            "sent3": "The pick slipped from his fingers during the guitar solo.",
+            "sent4": "The musician's pick danced across the strings with precision.",
+            "sent5": "The pick's sharp edge creates a crisp sound on the guitar."
         }
     ]
 }

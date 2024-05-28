@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A person who drives a dray, a low, strong cart without fixed sides, for carrying heavy loads.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The drayman loaded the heavy crates onto his cart.",
+            "sent2": "The drayman delivered the goods to the market.",
+            "sent3": "The drayman accidentally bumped into a wall while transporting the goods.",
+            "sent4": "The drayman's cart moved like a silent giant through the streets.",
+            "sent5": "The drayman's muscles bulged as he lifted the crates onto the cart."
         },
         {
             "definition": "A dray used for transporting goods.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The drayman harnessed the horses to the cart.",
+            "sent2": "The drayman parked the empty cart in the warehouse.",
+            "sent3": "The drayman's cart got stuck in a muddy puddle on the road.",
+            "sent4": "The drayman's cart creaked and groaned under the weight of the cargo.",
+            "sent5": "The drayman's cart rattled noisily as it rolled over the cobblestones."
         }
     ]
 }

@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Addressed incorrectly or inaccurately.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The misaddressed letter was returned to the sender.",
+            "sent2": "The misaddressed package ended up at the neighbor's house.",
+            "sent3": "The misaddressed invitation caused confusion among the guests.",
+            "sent4": "Her misaddressed email led to a mix-up in communication.",
+            "sent5": "The misaddressed envelope had the wrong zip code written on it."
         },
         {
             "definition": "To send to the wrong address.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I accidentally misaddressed the package and it got lost in the mail.",
+            "sent2": "She misaddressed the letter, causing a delay in delivery.",
+            "sent3": "The postman misaddressed the parcel to a different street.",
+            "sent4": "He misaddressed the invitation, resulting in it being returned.",
+            "sent5": "The secretary misaddressed the memo, causing confusion in the office."
         }
     ]
 }

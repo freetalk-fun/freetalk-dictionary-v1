@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To find the exact position of something",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The detective locates the missing key under the table.",
+            "sent2": "She locates her favorite book on the top shelf.",
+            "sent3": "The cat locates its toy mouse and pounces on it playfully.",
+            "sent4": "His keen sense of smell locates the fresh cookies in the kitchen.",
+            "sent5": "The GPS locates the nearest gas station with precision."
         },
         {
             "definition": "To establish oneself in a particular place",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The family locates in a cozy cabin by the lake for the summer.",
+            "sent2": "After a long journey, they finally locate in their new home.",
+            "sent3": "The squirrel locates in the tree hollow and makes it a cozy nest.",
+            "sent4": "The explorer locates in the remote village to learn about its culture.",
+            "sent5": "The bird locates in the tall grass to build its nest."
         },
         {
             "definition": "To determine the position of something",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Using the map, she locates the exact position of the buried treasure.",
+            "sent2": "The scientist locates the position of the star in the night sky.",
+            "sent3": "The robot locates the position of the obstacle and avoids it.",
+            "sent4": "The surveyor locates the boundaries of the property accurately.",
+            "sent5": "The radar locates the incoming aircraft swiftly."
         }
     ]
 }

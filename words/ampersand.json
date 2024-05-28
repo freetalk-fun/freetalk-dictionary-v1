@@ -2,12 +2,22 @@
     "term": "ampersand",
     "meanings": [
         {
-            "definition": "A symbol (&) representing the word \"and\"",
-            "pos": "noun"
+            "definition": "A symbol (&) representing the word 'and'",
+            "pos": "noun",
+            "sent1": "In the sentence, the ampersand symbol (&) stands for the word 'and'.",
+            "sent2": "I need to use the ampersand symbol to represent 'and' in this document.",
+            "sent3": "The ampersand symbol looks like a fancy 'and' sign.",
+            "sent4": "The ampersand symbol is like a secret code for the word 'and'.",
+            "sent5": "Remember, the ampersand symbol is the shortcut for 'and'."
         },
         {
             "definition": "Used to join two items together in a list or series",
-            "pos": "conjunction"
+            "pos": "conjunction",
+            "sent1": "Please bring apples & oranges to the picnic, using the ampersand to connect them.",
+            "sent2": "I will buy bread & milk from the store, connecting the items with an ampersand.",
+            "sent3": "Let's have a party with cake & ice cream, linked by the ampersand.",
+            "sent4": "His kindness & generosity are like the ampersand that binds our friendship.",
+            "sent5": "The bond between us is strong, like the ampersand that unites words in a sentence."
         }
     ]
 }

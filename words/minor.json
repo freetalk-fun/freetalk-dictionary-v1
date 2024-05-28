@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Lesser in size, extent, or importance",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The toy car was minor compared to the real car.",
+            "sent2": "The small rock was a minor obstacle in our path.",
+            "sent3": "The tiny ant had a minor role in the insect kingdom.",
+            "sent4": "Her voice was so soft, it seemed minor in the noisy room.",
+            "sent5": "The little seed grew into a minor plant in the garden."
         },
         {
             "definition": "Underage, not of legal age",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "As a minor, she couldn't watch the movie without an adult.",
+            "sent2": "The teenager was considered a minor in the eyes of the law.",
+            "sent3": "The young boy tried to act mature, but his minor status gave him away.",
+            "sent4": "Being a minor meant she couldn't sign the contract on her own.",
+            "sent5": "The minor student needed parental permission to go on the field trip."
         },
         {
             "definition": "A person under legal age",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The store refused to sell the game to the minor without ID.",
+            "sent2": "The minor was accompanied by a guardian to the event.",
+            "sent3": "The minor was excited to finally be old enough to drive.",
+            "sent4": "The minor's parents had to sign the school form for permission.",
+            "sent5": "The minor was not allowed to enter the club without an adult."
         }
     ]
 }

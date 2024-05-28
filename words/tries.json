@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Attempt to do something.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She tries to bake a cake every weekend.",
+            "sent2": "He tries his best to help others in need.",
+            "sent3": "The cat tries to catch the laser pointer, but it always escapes.",
+            "sent4": "The young bird tries its wings for the first time, soaring into the sky.",
+            "sent5": "The student tries to solve the math problem using different methods."
         },
         {
             "definition": "Make an effort or attempt.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He tries to lift the heavy box with all his strength.",
+            "sent2": "She tries to learn a new language by practicing every day.",
+            "sent3": "The robot tries to dance, but its moves are quite robotic.",
+            "sent4": "The flower tries to reach the sunlight by growing taller each day.",
+            "sent5": "The child tries to tie his shoelaces independently, focusing intently."
         },
         {
             "definition": "Test or sample.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The chef takes a few tries to perfect the recipe.",
+            "sent2": "She buys different ice cream flavors for a taste tries.",
+            "sent3": "The scientist conducts multiple tries to ensure accurate results.",
+            "sent4": "The student takes a sample tries of different soil types for the experiment.",
+            "sent5": "The company offers free product tries to attract new customers."
         }
     ]
 }

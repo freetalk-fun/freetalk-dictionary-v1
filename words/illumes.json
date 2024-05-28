@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Illuminate: to light up or brighten",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The sun illumes the sky every morning.",
+            "sent2": "The lamp illumes the room with a warm glow.",
+            "sent3": "The fireflies illume the garden like tiny lanterns.",
+            "sent4": "Her smile illumes the room brighter than any light.",
+            "sent5": "The lighthouse illumes the dark sea, guiding ships to safety."
         },
         {
             "definition": "Illuminated: made bright or clear",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The illuminated sign caught everyone's attention.",
+            "sent2": "The illuminated path led us through the dark forest.",
+            "sent3": "The illuminated fountain sparkled in the sunlight.",
+            "sent4": "Her face looked illuminated with joy.",
+            "sent5": "The illuminated city skyline was a breathtaking sight."
         },
         {
             "definition": "Illumination: the act of lighting up or brightening",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The illumination of the fireworks lit up the night sky.",
+            "sent2": "The streetlights provide illumination for the road at night.",
+            "sent3": "The illumination of the disco ball added a fun touch to the party.",
+            "sent4": "The illumination of knowledge can brighten one's future.",
+            "sent5": "The illumination of the stage made the performance even more magical."
         }
     ]
 }

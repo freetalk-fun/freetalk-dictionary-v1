@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To some extent; not completely.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She partially finished her homework before dinner.",
+            "sent2": "The plants partially grew in the dry soil.",
+            "sent3": "He partially believed his friend's outrageous story.",
+            "sent4": "The sun partially peeked through the clouds.",
+            "sent5": "The cat partially caught the mouse before it escaped."
         },
         {
             "definition": "In part; not wholly.",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "The cake was only partially eaten at the party.",
+            "sent2": "She could only partially see the view from the window.",
+            "sent3": "The joke was only partially funny, but it made her smile.",
+            "sent4": "The moon was partially hidden behind the trees.",
+            "sent5": "The puzzle was only partially completed, missing a few pieces."
         }
     ]
 }

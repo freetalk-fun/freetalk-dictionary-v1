@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To trace incorrectly or inaccurately.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She tried to mistrace the map, but ended up getting lost.",
+            "sent2": "The detective realized he had mistraced the suspect's movements.",
+            "sent3": "The robot mistraced the dance steps and ended up doing the cha-cha instead of the tango.",
+            "sent4": "Her memory mistraced the events of that day, blending reality with dreams.",
+            "sent5": "The artist's hand mistraced the outline of the flower, creating a unique and beautiful design."
         },
         {
             "definition": "A trace or mark that is incorrect or inaccurate.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "There was a small mistrace on the painting, showing where the artist had changed their mind.",
+            "sent2": "The footprints left behind were a clear mistrace of the actual path taken.",
+            "sent3": "The cake had a sweet mistrace of frosting on the side, making it look like a smile.",
+            "sent4": "The mistrace of the pen left a smudged line across the paper, ruining the drawing.",
+            "sent5": "The mistrace of the tire tracks led the investigators in the wrong direction during the case."
         }
     ]
 }

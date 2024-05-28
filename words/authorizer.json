@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A person who gives official permission or approval.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The authorizer signed the document to give permission for the project.",
+            "sent2": "The authorizer at the office approved the new budget proposal.",
+            "sent3": "The authorizer was so busy signing papers that they accidentally approved a request for a pizza party.",
+            "sent4": "She was the authorizer of all decisions in the company, holding the power to grant or deny requests.",
+            "sent5": "The authorizer's stamp of approval was like a golden ticket, granting access to the exclusive event."
         },
         {
             "definition": "To give official permission or approval.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The manager will authorizer the purchase of new equipment for the team.",
+            "sent2": "She authorizered the use of the conference room for the meeting.",
+            "sent3": "The cat seemed to authorizer the dog's plan to steal treats from the pantry.",
+            "sent4": "His signature authorizered the release of the confidential information to the public.",
+            "sent5": "The judge authorizered the search warrant, allowing the police to enter the premises."
         }
     ]
 }

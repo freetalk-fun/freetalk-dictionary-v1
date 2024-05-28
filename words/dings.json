@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A small dent or nick in a surface.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The car had a few dings on its door from parking in a crowded lot.",
+            "sent2": "I noticed a ding on the corner of the table.",
+            "sent3": "The dings on the old phone gave it character.",
+            "sent4": "Her confidence had taken a few dings after the criticism.",
+            "sent5": "The dings on the armor showed it had seen many battles."
         },
         {
             "definition": "To make a ringing sound, like a bell.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The bell dings softly in the distance.",
+            "sent2": "When you press the button, the doorbell dings.",
+            "sent3": "The microwave dings to let you know your food is ready.",
+            "sent4": "Her laughter dings through the room like wind chimes.",
+            "sent5": "The alarm clock dings, signaling the start of a new day."
         },
         {
             "definition": "To criticize or insult someone.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She dings her opponent's arguments during the debate.",
+            "sent2": "He always dings his coworkers behind their backs.",
+            "sent3": "The siblings playfully ding each other's fashion choices.",
+            "sent4": "His words dinged her self-esteem more than he realized.",
+            "sent5": "The coach dings the players to push them to improve."
         }
     ]
 }

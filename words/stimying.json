@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To prevent or hinder progress or action.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The heavy rain was stimying our plans for a picnic.",
+            "sent2": "The locked gate stimied our efforts to enter the garden.",
+            "sent3": "The mischievous squirrel stimied the cat's attempt to catch it.",
+            "sent4": "The thick fog stimied our view of the beautiful sunset.",
+            "sent5": "The tangled wires stimied the electrician's efforts to fix the problem."
         },
         {
             "definition": "A situation where progress or action is prevented or hindered.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The traffic jam created a stimying delay in our journey.",
+            "sent2": "The unexpected power outage caused a stimying interruption in the meeting.",
+            "sent3": "The missing ingredient in the recipe led to a stimying cooking disaster.",
+            "sent4": "The broken elevator resulted in a stimying hold-up for the office workers.",
+            "sent5": "The confusing instructions on the map caused a stimying confusion for the hikers."
         }
     ]
 }

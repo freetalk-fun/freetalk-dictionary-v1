@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A small, slender, pointed piece of metal used in sewing.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Mom used a needle to sew a button on my shirt.",
+            "sent2": "She carefully threaded the needle before starting to sew.",
+            "sent3": "The mischievous kitten played with the needle, thinking it was a toy.",
+            "sent4": "Her words were like a needle, piercing through his heart.",
+            "sent5": "The needle gleamed in the sunlight as she worked on her embroidery."
         },
         {
             "definition": "A thin, pointed piece of metal used in medical procedures.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The doctor used a needle to give the patient an injection.",
+            "sent2": "The nurse carefully disposed of the used needle in the sharps container.",
+            "sent3": "The needle looked intimidating, but the nurse assured the child it wouldn't hurt.",
+            "sent4": "His fear of needles made him avoid going to the doctor for years.",
+            "sent5": "The acupuncture needle helped relieve her back pain."
         },
         {
             "definition": "To provoke or annoy someone.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She knew just how to needle her brother into confessing.",
+            "sent2": "His constant teasing never failed to needle her patience.",
+            "sent3": "The playful banter between friends was meant to needle each other in good fun.",
+            "sent4": "Her sarcastic remarks seemed to needle him more than she intended.",
+            "sent5": "The comedian's jokes were sharp, aiming to needle the audience into laughter."
         }
     ]
 }

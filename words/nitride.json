@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A compound of nitrogen with a more electropositive element or group.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The scientist studied the nitride under the microscope.",
+            "sent2": "The nitride was used in the production of semiconductors.",
+            "sent3": "The nitride and the metal had a little dance under the chemist's watchful eye.",
+            "sent4": "The nitride acted as a protective shield for the delicate electronic components.",
+            "sent5": "The bright blue color of the nitride caught everyone's attention in the lab."
         },
         {
             "definition": "To treat or combine with nitrogen or a nitride.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The engineers will nitride the steel to enhance its durability.",
+            "sent2": "She decided to nitride the soil to improve its fertility.",
+            "sent3": "The chef accidentally nitrided the soup, creating a strange chemical flavor.",
+            "sent4": "The artist nitrided the paint to achieve a unique texture on the canvas.",
+            "sent5": "The gardener nitrided the plants, resulting in unexpected growth patterns."
         }
     ]
 }

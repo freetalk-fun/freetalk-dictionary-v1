@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A small device that releases a spring or catch and so sets off a mechanism, especially in a firearm.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "He pulled the trigger to fire the gun.",
+            "sent2": "The hunter's finger was on the trigger as he aimed at the target.",
+            "sent3": "The trigger on the toy gun made a funny sound when pressed.",
+            "sent4": "Her words were the trigger that set off a chain of events.",
+            "sent5": "The red button acted as the trigger for the fireworks display."
         },
         {
             "definition": "An event or circumstance that is the cause of a particular action, process, or situation.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The argument was the trigger for their breakup.",
+            "sent2": "The trigger for the protest was the unfair treatment of workers.",
+            "sent3": "The late bus driver became the trigger for a series of delays.",
+            "sent4": "His absence acted as the trigger that led to her decision to leave.",
+            "sent5": "The trigger for the celebration was the team's victory."
         },
         {
             "definition": "To cause (an event or situation) to happen or exist.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "His careless actions could trigger a dangerous situation.",
+            "sent2": "The loud noise may trigger a reaction from the animals.",
+            "sent3": "The unexpected news triggered a wave of excitement among the students.",
+            "sent4": "Her question triggered a memory from his childhood.",
+            "sent5": "The alarm clock will trigger the start of the race."
         }
     ]
 }

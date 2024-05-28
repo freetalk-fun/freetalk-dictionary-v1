@@ -3,19 +3,39 @@
     "meanings": [
         {
             "definition": "To strike or hit repeatedly.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He beats the drum loudly.",
+            "sent2": "The carpenter beats the nail into the wood.",
+            "sent3": "The rain beats against the window, creating a soothing rhythm.",
+            "sent4": "Her heart beats with excitement as she waits for the results.",
+            "sent5": "The boxer beats his opponent with swift punches."
         },
         {
             "definition": "The rhythmic unit in music.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The song has a catchy beat that makes you want to dance.",
+            "sent2": "The drummer sets the beat for the band to follow.",
+            "sent3": "The beat of the music echoes through the concert hall.",
+            "sent4": "His heart matches the beat of the music playing in the background.",
+            "sent5": "The beat of the drums reverberates in the air, energizing the crowd."
         },
         {
             "definition": "To defeat or overcome.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She beats her fear and steps onto the stage.",
+            "sent2": "The team works together to beat their opponents in the game.",
+            "sent3": "Despite the odds, he beats the challenge and emerges victorious.",
+            "sent4": "With determination, she beats the obstacles in her path.",
+            "sent5": "He beats the final boss in the video game after many attempts."
         },
         {
             "definition": "The sound made by a heart.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The doctor listened to the patient's heartbeat with a stethoscope.",
+            "sent2": "The steady beat of the heart reassured her during the stressful situation.",
+            "sent3": "The rhythmic beat of the heart is like a comforting lullaby.",
+            "sent4": "The beat of her heart quickened as she ran towards the finish line.",
+            "sent5": "The beat of the heart is a constant reminder of life's precious rhythm."
         }
     ]
 }

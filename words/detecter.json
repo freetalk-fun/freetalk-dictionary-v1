@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A person or thing that detects.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The detecter noticed the sound of footsteps approaching.",
+            "sent2": "The metal detecter beeped when it found a hidden treasure.",
+            "sent3": "The little detecter toy kept finding the hidden treats during the game.",
+            "sent4": "Her intuition was like a detecter, always sensing danger before it arrived.",
+            "sent5": "The detecter's sharp eyes could spot even the tiniest details in the dark."
         },
         {
             "definition": "A device used to detect something.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The security detecter at the airport beeped as he passed through.",
+            "sent2": "The smoke detecter alerted the family to the fire in the kitchen.",
+            "sent3": "The metal detecter at the beach kept buzzing every time it found a coin.",
+            "sent4": "Her heart acted like a detecter, warning her of danger with each beat.",
+            "sent5": "The detecter's screen displayed the exact location of the hidden object."
         },
         {
             "definition": "To discover or identify the presence or existence of something.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She could detect the sweet scent of flowers in the garden.",
+            "sent2": "The scientist used a special tool to detect the presence of chemicals in the water.",
+            "sent3": "The detective tried to detect the culprit among the suspects in the room.",
+            "sent4": "His keen sense of smell could detect danger long before others could.",
+            "sent5": "The radar could detect enemy planes approaching from miles away."
         }
     ]
 }

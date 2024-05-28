@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To make something unclear or difficult to understand.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The complicated jargon obfuscates the meaning of the contract.",
+            "sent2": "Her messy handwriting obfuscates the message she is trying to convey.",
+            "sent3": "The magician's sleight of hand obfuscates the audience's ability to follow the trick.",
+            "sent4": "The dense fog obfuscates the view of the distant mountains.",
+            "sent5": "The encryption software obfuscates the sensitive data to protect it from hackers."
         },
         {
             "definition": "To confuse or bewilder.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The conflicting instructions obfuscates the students during the exam.",
+            "sent2": "The unexpected plot twist obfuscates the readers, keeping them engaged.",
+            "sent3": "The mirror maze obfuscates visitors, making them feel lost and disoriented.",
+            "sent4": "The intricate dance routine obfuscates the judges, leaving them in awe.",
+            "sent5": "The complex riddle obfuscates the detective, delaying the solution to the mystery."
         }
     ]
 }

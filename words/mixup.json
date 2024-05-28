@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A confused or disordered state or situation",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The mixup at the party caused everyone to go to the wrong house.",
+            "sent2": "There was a mixup in the schedule, so the meeting was rescheduled.",
+            "sent3": "The mixup of the puzzle pieces made it impossible to complete.",
+            "sent4": "Her mind was a mixup of thoughts, like a jumbled puzzle.",
+            "sent5": "The mixup of colors in the painting created a chaotic masterpiece."
         },
         {
             "definition": "A mistake or error in communication or understanding",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The mixup in the email address caused the message to be sent to the wrong person.",
+            "sent2": "There was a mixup in the order, so they received the wrong item.",
+            "sent3": "The mixup in the phone number led to a hilarious conversation with a stranger.",
+            "sent4": "The mixup in the recipe resulted in a surprisingly delicious dish.",
+            "sent5": "The mixup in the directions caused them to get lost in the city."
         },
         {
             "definition": "To combine or blend different elements together",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She decided to mixup the ingredients for a new recipe.",
+            "sent2": "The DJ will mixup different songs to create a unique music mix.",
+            "sent3": "He likes to mixup his outfits with bold accessories.",
+            "sent4": "The artist will mixup various colors to create a vibrant painting.",
+            "sent5": "The chef will mixup flavors to create a delicious and unique dish."
         }
     ]
 }

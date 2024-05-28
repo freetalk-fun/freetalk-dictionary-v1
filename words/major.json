@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Greater in size, extent, or importance than others.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The elephant is a major animal at the zoo.",
+            "sent2": "The earthquake caused major damage to the city.",
+            "sent3": "It was a major challenge to climb the steep mountain.",
+            "sent4": "Her smile was a major light in the room.",
+            "sent5": "The storm brought major destruction to the coastal town."
         },
         {
             "definition": "A military rank above captain and below lieutenant colonel.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The general promoted him to a major in the army.",
+            "sent2": "The major led the troops into battle with courage.",
+            "sent3": "The major joked with the soldiers during training.",
+            "sent4": "His leadership was a major force in the success of the mission.",
+            "sent5": "The major's uniform displayed his rank proudly."
         },
         {
             "definition": "A subject of study chosen as a main field of specialization in college or university.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "She decided to pursue a major in biology.",
+            "sent2": "His major in history required many hours of research.",
+            "sent3": "The major in psychology helped her understand human behavior.",
+            "sent4": "Choosing a major in art opened up new creative possibilities.",
+            "sent5": "Her major in literature inspired a love for storytelling."
         }
     ]
 }

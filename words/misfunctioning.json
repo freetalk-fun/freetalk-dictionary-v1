@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To fail to function properly or as expected.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The old car kept misfunctioning during the road trip.",
+            "sent2": "The computer misfunctioning caused delays in the project.",
+            "sent3": "The misfunctioning toaster made breakfast time quite an adventure.",
+            "sent4": "Her misfunctioning phone was like a silent friend suddenly going mute.",
+            "sent5": "The misfunctioning engine roared sporadically, disrupting the peaceful night."
         },
         {
             "definition": "The state of not working correctly or as intended.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The constant misfunctioning of the printer frustrated the office staff.",
+            "sent2": "The misfunctioning of the air conditioner made the room uncomfortably warm.",
+            "sent3": "The misfunctioning of the clock led to some comical misunderstandings.",
+            "sent4": "The misfunctioning of the traffic lights caused chaos on the streets.",
+            "sent5": "The misfunctioning of the elevator left everyone stranded on different floors."
         }
     ]
 }

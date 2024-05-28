@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Disabled or impaired in any way",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The old car was crippled and could not move.",
+            "sent2": "The injured bird's wing was crippled and couldn't fly.",
+            "sent3": "The slow turtle felt like a crippled racer in the animal kingdom.",
+            "sent4": "Her confidence was crippled by the harsh criticism.",
+            "sent5": "The storm's strong winds crippled the fragile tree branches."
         },
         {
             "definition": "To cause someone to become disabled or impaired",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The accident crippled his ability to walk.",
+            "sent2": "The disease slowly crippled her muscles over time.",
+            "sent3": "The prankster's actions accidentally crippled the robot's functions.",
+            "sent4": "The unexpected news crippled his hopes for a promotion.",
+            "sent5": "The harsh winter weather crippled the fragile plants in the garden."
         },
         {
             "definition": "Severely damaged or weakened",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The crippled bridge could no longer support heavy vehicles.",
+            "sent2": "The storm's impact left the town's infrastructure crippled.",
+            "sent3": "The team's morale was crippled after the defeat in the final match.",
+            "sent4": "The economy was crippled by the sudden market crash.",
+            "sent5": "The old building's foundation was crippled, posing a safety risk."
         }
     ]
 }

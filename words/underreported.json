@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Not fully or accurately reported.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The underreported information led to misunderstandings.",
+            "sent2": "The underreported data skewed the results of the study.",
+            "sent3": "It was underreported how many cookies were actually eaten at the party.",
+            "sent4": "The underreported impact of the storm caught many by surprise.",
+            "sent5": "The underreported facts were finally brought to light."
         },
         {
             "definition": "To report less than the actual amount or extent.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She underreported her expenses on the financial report.",
+            "sent2": "The company decided to underreported their losses to avoid scrutiny.",
+            "sent3": "He accidentally underreported the number of guests invited to the party.",
+            "sent4": "The journalist chose to underreported the controversial details of the story.",
+            "sent5": "The student was caught when he tried to underreported his quiz score."
         }
     ]
 }

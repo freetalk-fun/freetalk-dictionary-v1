@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To reject or prohibit a decision or proposal",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The president vetoed the new law.",
+            "sent2": "She always vetoes any changes to the schedule.",
+            "sent3": "The cat vetoed the idea of taking a bath by hiding under the bed.",
+            "sent4": "His stubbornness vetoed any compromise on the matter.",
+            "sent5": "The teacher's red pen vetoed any mistakes in the essay."
         },
         {
             "definition": "Having been denied or blocked by a veto",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The vetoed bill was not passed by the congress.",
+            "sent2": "She felt disappointed by the vetoed decision.",
+            "sent3": "The vetoed cake left the party guests craving for dessert.",
+            "sent4": "His vetoed request for time off made him work through the weekend.",
+            "sent5": "The vetoed invitation left her feeling excluded from the event."
         }
     ]
 }

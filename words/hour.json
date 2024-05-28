@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "a period of time equal to 60 minutes",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I have to wait for an hour before the movie starts.",
+            "sent2": "She wakes up every morning at the same hour.",
+            "sent3": "It took an hour for the snail to cross the sidewalk.",
+            "sent4": "The hour flew by like a speeding train.",
+            "sent5": "The hour felt like a never-ending marathon of waiting."
         },
         {
             "definition": "a specific time of day",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Lunch hour is my favorite time of the day.",
+            "sent2": "He always arrives at the office at the same hour.",
+            "sent3": "The hour when the sun sets is magical.",
+            "sent4": "The hour of dawn whispered secrets to the night.",
+            "sent5": "The hour of midnight held a mysterious allure."
         },
         {
             "definition": "a unit of time equal to 1/24 of a day",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "There are twenty-four hours in a day.",
+            "sent2": "The meeting is scheduled for the eleventh hour.",
+            "sent3": "The hour hand on the clock moved slowly.",
+            "sent4": "The hour felt like a tiny fraction of eternity.",
+            "sent5": "The hourglass measured time in delicate grains of sand."
         }
     ]
 }

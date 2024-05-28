@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Failing to take proper care or attention; careless.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The negligent driver caused a car accident.",
+            "sent2": "She received a warning for her negligent behavior at work.",
+            "sent3": "The negligent cat knocked over the vase with its tail.",
+            "sent4": "His negligent attitude towards his studies led to poor grades.",
+            "sent5": "The negligent babysitter left the children unsupervised near the pool."
         },
         {
             "definition": "In a negligent manner; without proper care or attention.",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "He drove negligently, swerving between lanes.",
+            "sent2": "She completed the task negligently, resulting in errors.",
+            "sent3": "The dog barked negligently at the mailman, thinking he was a threat.",
+            "sent4": "The artist painted negligently, creating a messy masterpiece.",
+            "sent5": "The chef cooked negligently, causing the dish to burn."
         }
     ]
 }

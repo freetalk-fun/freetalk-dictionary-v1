@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To discover or identify the presence or existence of something.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The scientist detects a new species of insect in the rainforest.",
+            "sent2": "The security system detects any movement in the area.",
+            "sent3": "The detective detects a clue that leads to solving the mystery.",
+            "sent4": "Her keen eye detects even the slightest change in the environment.",
+            "sent5": "The radar system detects incoming aircraft with precision."
         },
         {
             "definition": "To notice or sense something.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The dog detects the scent of food from afar.",
+            "sent2": "She detects a hint of sadness in his voice.",
+            "sent3": "The robot detects an obstacle in its path and changes direction.",
+            "sent4": "His intuition detects the underlying truth in the situation.",
+            "sent5": "The baby detects the sound of her mother's voice and smiles."
         }
     ]
 }

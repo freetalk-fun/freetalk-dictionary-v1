@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Covered with clouds; cloudy.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The sky was overcast, making it difficult to see the sun.",
+            "sent2": "It was an overcast day, with no sunshine breaking through the clouds.",
+            "sent3": "The overcast sky made it feel like the world was wrapped in a cozy blanket.",
+            "sent4": "Her mood was as overcast as the sky above, filled with gloom.",
+            "sent5": "The overcast weather cast a gray shadow over the landscape."
         },
         {
             "definition": "A covering of clouds; cloudiness.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The overcast blocked the view of the stars at night.",
+            "sent2": "The overcast made the day feel gloomy and dark.",
+            "sent3": "The picnic was canceled due to the sudden overcast that appeared.",
+            "sent4": "The overcast seemed to swallow the entire sky, leaving no blue in sight.",
+            "sent5": "The overcast created a sense of mystery and intrigue in the atmosphere."
         },
         {
             "definition": "To cover with clouds; to make cloudy.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The storm overcast the sky, signaling heavy rain to come.",
+            "sent2": "The smoke from the factory overcast the nearby town with pollution.",
+            "sent3": "She overcast her emotions, not wanting others to see her true feelings.",
+            "sent4": "The argument overcast their friendship with tension and unease.",
+            "sent5": "His words overcast her mind with doubt and confusion."
         }
     ]
 }

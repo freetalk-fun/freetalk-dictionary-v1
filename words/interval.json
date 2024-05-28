@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A period of time between events or occurrences.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "During the interval between classes, students have time to eat lunch.",
+            "sent2": "The interval between sunrise and sunset is known as daytime.",
+            "sent3": "In the interval before the movie starts, people enjoy chatting with friends.",
+            "sent4": "The interval between heartbeats is crucial for maintaining a healthy rhythm.",
+            "sent5": "The interval between seasons marks the change in weather and nature."
         },
         {
             "definition": "The difference in pitch between two musical notes.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The singer hit a high note after a short interval of silence.",
+            "sent2": "Musicians use intervals to create harmonious melodies.",
+            "sent3": "The interval between the piano keys creates a unique sound.",
+            "sent4": "The interval between the violin strings determines the music's tone.",
+            "sent5": "The interval in the song added a touch of suspense and drama."
         },
         {
             "definition": "The space between two objects or points.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The interval between the trees allowed sunlight to filter through.",
+            "sent2": "The interval between the houses was filled with colorful flowers.",
+            "sent3": "The interval between the buildings created a cozy alleyway.",
+            "sent4": "The interval between the mountains revealed a breathtaking view.",
+            "sent5": "The interval between the clouds let the moonlight shine through."
         }
     ]
 }

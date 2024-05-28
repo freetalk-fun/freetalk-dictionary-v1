@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To write or spell incorrectly.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She kept miswriting the word 'beautiful' as 'beutiful'.",
+            "sent2": "He often miswrites his name as 'Jonh' instead of 'John'.",
+            "sent3": "The miswriting on the sign caused confusion among the visitors.",
+            "sent4": "Her miswriting of the address led the package astray.",
+            "sent5": "Miswriting important details can lead to misunderstandings."
         },
         {
             "definition": "Incorrectly written or spelled.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The miswriting document had many errors that needed correction.",
+            "sent2": "She received a miswriting letter with her name misspelled.",
+            "sent3": "Despite the miswriting label, the package reached its destination.",
+            "sent4": "The miswriting words on the page seemed to dance around.",
+            "sent5": "The miswriting note made it difficult to understand the message."
         }
     ]
 }

@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To be able to",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I can run fast.",
+            "sent2": "She can sing beautifully.",
+            "sent3": "The cat can dance better than me!",
+            "sent4": "His determination can move mountains.",
+            "sent5": "With practice, anyone can improve."
         },
         {
             "definition": "A container",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Please pass me the can of soup.",
+            "sent2": "The trash can is full.",
+            "sent3": "I accidentally kicked the can down the street.",
+            "sent4": "Her smile was a can of sunshine on a rainy day.",
+            "sent5": "The can held a secret message inside."
         },
         {
             "definition": "A metal container for holding liquids, typically cylindrical and with a handle",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "He used a can to pour the juice.",
+            "sent2": "The soda can was cold to the touch.",
+            "sent3": "The can rolled away when I dropped it.",
+            "sent4": "Her laughter echoed like a can in an empty room.",
+            "sent5": "The can had a dent from the fall."
         }
     ]
 }

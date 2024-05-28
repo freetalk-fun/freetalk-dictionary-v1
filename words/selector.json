@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A person or thing that selects.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The selector picked the best apples from the tree.",
+            "sent2": "The teacher is the selector of the student of the month.",
+            "sent3": "The cat acted as a selector, choosing which toy to play with.",
+            "sent4": "Her eyes were like a selector, scanning the menu for her favorite dish.",
+            "sent5": "The selector in the game always chooses the winning team."
         },
         {
             "definition": "A device used to choose between two or more options.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The TV remote control is a selector for changing channels.",
+            "sent2": "The vending machine has a selector for different snacks.",
+            "sent3": "The magic wand was a quirky selector for picking a card trick.",
+            "sent4": "The compass acted as a selector, pointing the way through the forest.",
+            "sent5": "The elevator selector allows you to choose your desired floor."
         },
         {
             "definition": "A function in programming that chooses a specific element from a set of data.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The selector in the code picks the first item in the list.",
+            "sent2": "The software developer used a selector to filter the results.",
+            "sent3": "The robot's selector went haywire, selecting random numbers.",
+            "sent4": "The algorithm acts as a selector, sorting the data efficiently.",
+            "sent5": "The website's selector highlights the most popular items."
         }
     ]
 }

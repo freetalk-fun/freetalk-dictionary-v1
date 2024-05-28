@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Covered with fuzz or a fuzzy substance.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The peach had a fuzzed skin.",
+            "sent2": "The teddy bear's fur felt soft and fuzzed.",
+            "sent3": "The fuzzy caterpillar looked cute and fuzzed.",
+            "sent4": "The fog made the distant trees appear fuzzed.",
+            "sent5": "The blanket was warm and fuzzed against my skin."
         },
         {
             "definition": "To make something appear unclear or indistinct.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The camera lens fuzzed the image.",
+            "sent2": "The steam from the kettle fuzzed the mirror.",
+            "sent3": "The magician fuzzed the card to surprise the audience.",
+            "sent4": "The artist fuzzed the edges of the painting for a dreamy effect.",
+            "sent5": "The rain fuzzed the view through the window."
         },
         {
             "definition": "To become confused or muddled.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She fuzzed her thoughts when trying to solve the puzzle.",
+            "sent2": "The instructions were so complicated that they fuzzed his mind.",
+            "sent3": "The mix-up at the party fuzzed everyone's plans.",
+            "sent4": "The overlapping voices fuzzed her understanding of the conversation.",
+            "sent5": "The stress fuzzed his ability to focus on the task at hand."
         }
     ]
 }

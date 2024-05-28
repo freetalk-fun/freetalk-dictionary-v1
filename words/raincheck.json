@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A ticket stub given to a customer when a sold-out item is purchased, allowing them to purchase the item at a later date.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I got a raincheck for the concert tickets, so I can buy them next week.",
+            "sent2": "She received a raincheck for the movie tickets that were sold out.",
+            "sent3": "The raincheck for the event made her smile as she knew she could still attend.",
+            "sent4": "The raincheck was like a promise of future fun waiting to be redeemed.",
+            "sent5": "The raincheck fluttered in her hand, a reminder of the upcoming show."
         },
         {
             "definition": "To postpone an invitation or offer to a later time.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Can we raincheck our dinner plans to next weekend instead?",
+            "sent2": "He had to raincheck the meeting due to unexpected circumstances.",
+            "sent3": "She decided to raincheck the shopping trip and stay home instead.",
+            "sent4": "Rainchecking the job interview was a tough decision, but necessary.",
+            "sent5": "I will raincheck the gym session and go for a walk in the park instead."
         }
     ]
 }

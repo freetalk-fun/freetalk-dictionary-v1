@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A set of clothes made to be worn together, typically consisting of a jacket and trousers or a jacket and skirt.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "He wore a nice suit to the wedding.",
+            "sent2": "The businessman's suit was tailored perfectly.",
+            "sent3": "The penguin looked funny in a tiny suit.",
+            "sent4": "Her outfit was a colorful suit of armor.",
+            "sent5": "The superhero's suit gleamed in the sunlight."
         },
         {
             "definition": "A legal action or process.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The lawsuit was settled out of court.",
+            "sent2": "He filed a suit against the company for damages.",
+            "sent3": "The courtroom was filled with people in suits.",
+            "sent4": "Justice wore a blindfold in the suit of law.",
+            "sent5": "The suit dragged on for months, causing stress."
         },
         {
             "definition": "Be convenient for or acceptable to.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The warm weather will suit our plans.",
+            "sent2": "Does this time suit you for a meeting?",
+            "sent3": "The spicy food did not suit his taste buds.",
+            "sent4": "Her calm demeanor suited the situation perfectly.",
+            "sent5": "The new paint color really suits the room."
         }
     ]
 }

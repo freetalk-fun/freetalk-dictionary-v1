@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A unit of computing speed equal to one million floating-point operations per second.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "My computer can process a megaflop of data every second.",
+            "sent2": "The supercomputer at the research facility can perform one megaflop per second.",
+            "sent3": "When the old computer tried to handle the new software, it crashed faster than a megaflop!",
+            "sent4": "Her brain worked at a megaflop pace, quickly solving complex equations.",
+            "sent5": "The speed of a megaflop is mind-boggling, making calculations lightning fast."
         },
         {
             "definition": "A failure or disaster on a large scale.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The project turned into a megaflop, costing the company millions.",
+            "sent2": "The movie was a megaflop at the box office, disappointing many fans.",
+            "sent3": "His attempt at cooking dinner turned into a megaflop when he burned everything.",
+            "sent4": "The event was a megaflop, with technical issues causing chaos throughout.",
+            "sent5": "The team's performance was a megaflop, resulting in a humiliating defeat."
         }
     ]
 }

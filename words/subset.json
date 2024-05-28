@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A set that is part of a larger set.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "In the math class, we learned about a subset of numbers.",
+            "sent2": "The subset of fruits included apples, oranges, and bananas.",
+            "sent3": "The subset of toys in the box looked like a small treasure.",
+            "sent4": "Her collection of stamps was just a tiny subset of her grandfather's.",
+            "sent5": "The subset of stars visible in the city sky was breathtaking."
         },
         {
             "definition": "To be a part of a larger set.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Each color subset contributes to the beauty of the painting.",
+            "sent2": "The new data subset will be added to the existing database.",
+            "sent3": "I always feel like a subset of the team when I join the game.",
+            "sent4": "Her ideas subset nicely into the overall project plan.",
+            "sent5": "The different melodies subset together to create a harmonious song."
         }
     ]
 }

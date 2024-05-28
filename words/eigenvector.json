@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A vector that remains unchanged in direction when a linear transformation is applied to it.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The eigenvector pointed in the same direction even after the transformation.",
+            "sent2": "The eigenvector of the matrix stayed pointing in its original way.",
+            "sent3": "The eigenvector decided to stay put and not change its direction.",
+            "sent4": "Like a compass needle, the eigenvector steadfastly held its course.",
+            "sent5": "The eigenvector was like a loyal arrow, never wavering from its path."
         },
         {
             "definition": "A vector that is associated with a square matrix and satisfies a certain equation.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The square matrix had an eigenvector that met the equation perfectly.",
+            "sent2": "The eigenvector of the matrix fit the equation just right.",
+            "sent3": "The eigenvector and the matrix equation were a match made in math heaven.",
+            "sent4": "The eigenvector danced elegantly to the tune of the matrix equation.",
+            "sent5": "The eigenvector and the matrix equation were like puzzle pieces that clicked together seamlessly."
         }
     ]
 }

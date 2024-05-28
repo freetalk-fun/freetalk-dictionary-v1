@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To prevail over; to dominate or control",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "In the game, teamwork often overrides individual skill.",
+            "sent2": "The new law overrides the old regulations.",
+            "sent3": "The cat overrides the dog's attempts to steal its food.",
+            "sent4": "Her infectious laughter overrides any sadness in the room.",
+            "sent5": "The bright sunlight overrides the darkness of the night."
         },
         {
             "definition": "To set aside or annul",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The judge overrides the objection raised by the defense lawyer.",
+            "sent2": "The manager can override the decision made by the team.",
+            "sent3": "I wish I could override my alarm clock in the morning.",
+            "sent4": "His charisma can override any doubts people may have.",
+            "sent5": "The storm's power can override any man-made structures."
         },
         {
             "definition": "A device or system that takes precedence over another",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The emergency shutdown button is an important override in the factory.",
+            "sent2": "The software update includes a new override feature.",
+            "sent3": "The override in the car prevented the engine from starting.",
+            "sent4": "The master key acts as an override for all the locks in the building.",
+            "sent5": "The president's veto serves as an override to stop a bill from becoming law."
         }
     ]
 }

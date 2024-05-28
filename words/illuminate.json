@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To light up",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The sun will illuminate the sky at dawn.",
+            "sent2": "She used a flashlight to illuminate the dark room.",
+            "sent3": "The fireflies illuminate the garden like tiny lanterns.",
+            "sent4": "His smile seemed to illuminate the entire room.",
+            "sent5": "The lighthouse helped illuminate the path for ships at night."
         },
         {
             "definition": "To make clear or understandable",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The teacher used examples to illuminate the concept.",
+            "sent2": "The diagram helped illuminate the complex idea.",
+            "sent3": "His explanation did not illuminate the confusion.",
+            "sent4": "Her question seemed to illuminate the issue at hand.",
+            "sent5": "The map will illuminate the route for easy understanding."
         },
         {
             "definition": "To decorate with lights or colors",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "They will illuminate the Christmas tree with colorful lights.",
+            "sent2": "The city streets were illuminated with festive decorations.",
+            "sent3": "The party planner will illuminate the venue with bright colors.",
+            "sent4": "The stage was illuminated with dazzling lights for the performance.",
+            "sent5": "The artist will illuminate the artwork with vibrant hues."
         }
     ]
 }

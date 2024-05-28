@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Make (something) active or operative.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Pressing the button activates the machine.",
+            "sent2": "The key activates the alarm system.",
+            "sent3": "The wizard's spell activates the enchanted sword.",
+            "sent4": "Her smile activates a wave of happiness in the room.",
+            "sent5": "The sunlight activates the growth of plants in the garden."
         },
         {
             "definition": "Cause (a person or animal) to act in a particular way.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The coach activates the team's competitive spirit.",
+            "sent2": "Music can activate memories and emotions.",
+            "sent3": "The smell of fresh cookies activates my appetite instantly.",
+            "sent4": "His words activate a sense of determination within me.",
+            "sent5": "The teacher's praise activates the student's motivation to learn."
         },
         {
             "definition": "Start (a process or series of events).",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Adding water activates the chemical reaction.",
+            "sent2": "The meeting activates discussions on important topics.",
+            "sent3": "The unexpected phone call activates a chain of events.",
+            "sent4": "His arrival activates a sense of urgency in the team.",
+            "sent5": "The first note of the song activates a feeling of nostalgia."
         }
     ]
 }

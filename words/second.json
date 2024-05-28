@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A unit of time equal to 1/60th of a minute.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I will be there in a second.",
+            "sent2": "She counted to sixty seconds.",
+            "sent3": "The second hand on the clock never stops moving.",
+            "sent4": "Time flies by in a mere second.",
+            "sent5": "The race was won by a split second."
         },
         {
             "definition": "The position in a sequence or order, following first.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "He finished in second place.",
+            "sent2": "The second chapter of the book was exciting.",
+            "sent3": "Being second in line has its advantages.",
+            "sent4": "She always comes in second, never first.",
+            "sent5": "The second day of the trip was the most memorable."
         },
         {
             "definition": "To support or assist someone in a fight or argument.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I will second your motion.",
+            "sent2": "She seconded his proposal during the meeting.",
+            "sent3": "I seconded her decision to go on strike.",
+            "sent4": "He seconded her argument with strong evidence.",
+            "sent5": "They second each other in every debate."
         }
     ]
 }

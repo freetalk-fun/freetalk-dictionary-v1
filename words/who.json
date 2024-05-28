@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Used to ask about a person's identity or character.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Who is that girl?",
+            "sent2": "Do you know who won the game?",
+            "sent3": "I wonder who ate all the cookies.",
+            "sent4": "The mystery novel revealed who the culprit was.",
+            "sent5": "Tell me who you are, please."
         },
         {
             "definition": "The person or persons that.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The man who fixed the car is my neighbor.",
+            "sent2": "She is the one who always helps others.",
+            "sent3": "The dog who stole the sandwich looked guilty.",
+            "sent4": "He is the one who holds the key to success.",
+            "sent5": "The friend who never forgets your birthday is a true friend."
         }
     ]
 }

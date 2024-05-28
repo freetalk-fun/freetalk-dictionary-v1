@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "The main point or essence of something.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The gist of the story is that the hero saves the day.",
+            "sent2": "Can you give me the gist of the movie plot?",
+            "sent3": "I missed the gist of the joke, but everyone else laughed.",
+            "sent4": "Her expression captured the gist of disappointment.",
+            "sent5": "The teacher's explanation made the gist of the lesson crystal clear."
         },
         {
             "definition": "To summarize or convey the main idea of something.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Please gist the article for me; I don't have time to read it all.",
+            "sent2": "I will gist the meeting points in an email for everyone.",
+            "sent3": "He tried to gist the complex theory in a simple way, but it was still confusing.",
+            "sent4": "She quickly gisted the novel's plot in just a few sentences.",
+            "sent5": "The infographic gisted the research findings effectively."
         }
     ]
 }

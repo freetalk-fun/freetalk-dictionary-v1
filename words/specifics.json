@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "relating to a particular individual or situation",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The teacher gave us specific instructions for the project.",
+            "sent2": "It is important to be specific when describing your symptoms to the doctor.",
+            "sent3": "The detective's specific focus on the suspect's alibi led to a breakthrough in the case.",
+            "sent4": "Her specific choice of words in the argument cut through the tension like a knife.",
+            "sent5": "The specific color of the flower made it stand out in the garden."
         },
         {
             "definition": "precise details or information",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Please provide me with the specifics of the contract.",
+            "sent2": "The specifics of the plan were discussed in the meeting.",
+            "sent3": "The specifics of the recipe were so detailed that even a beginner could follow it.",
+            "sent4": "The specifics of the map guided us through the unfamiliar terrain.",
+            "sent5": "Knowing the specifics of the schedule helped me plan my day effectively."
         },
         {
             "definition": "a specific detail or item",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "She focused on the specifics of the painting to understand its meaning.",
+            "sent2": "The specifics of the case were crucial in solving the mystery.",
+            "sent3": "The specifics of the menu caught the attention of the food critics.",
+            "sent4": "The specifics of the contract were carefully reviewed before signing.",
+            "sent5": "The specifics of the dress design made it unique and eye-catching."
         }
     ]
 }

@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Test or experiment to assess performance or suitability.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The trialling of the new software revealed some bugs.",
+            "sent2": "The company is conducting a trialling of the new product before its official launch.",
+            "sent3": "During the trialling of the chef's new recipe, the kitchen was filled with delicious aromas.",
+            "sent4": "The trialling of the athlete's skills on the field proved his dedication to training.",
+            "sent5": "The trialling of the safety equipment in extreme conditions showed its durability."
         },
         {
             "definition": "Participating in a trial or test.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "She was trialling the new medication to see if it helped with her symptoms.",
+            "sent2": "The trialling students were nervous before the exam.",
+            "sent3": "The trialling volunteers were excited to be part of the medical study.",
+            "sent4": "The trialling athletes were determined to prove their abilities in the competition.",
+            "sent5": "The trialling employees were eager to showcase their skills during the assessment."
         },
         {
             "definition": "The act of putting something to the test.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The trialling of the theory involved various experiments in the lab.",
+            "sent2": "The trialling of the new car model included crash tests and performance evaluations.",
+            "sent3": "The trialling of the robot's capabilities amused the engineers in the workshop.",
+            "sent4": "The trialling of the new teaching method resulted in improved student engagement.",
+            "sent5": "The trialling of the prototype revealed areas for improvement in the design."
         }
     ]
 }

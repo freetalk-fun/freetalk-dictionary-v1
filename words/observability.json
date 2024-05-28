@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "The quality or state of being observable.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The observability of the stars in the night sky is truly breathtaking.",
+            "sent2": "Scientists study the observability of different phenomena to understand the world better.",
+            "sent3": "The detective's keen observability helped solve the mysterious case in no time.",
+            "sent4": "Her observability in noticing small details made her an excellent art critic.",
+            "sent5": "The observability of the colorful birds in the park brought joy to the visitors."
         },
         {
             "definition": "The extent to which a system's internal state can be inferred from its outputs.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The observability of the machine's performance indicators helped the engineers identify the issue quickly.",
+            "sent2": "Software developers aim to improve the observability of their applications for easier troubleshooting.",
+            "sent3": "The magician's trick relied on the audience's lack of observability to create the illusion.",
+            "sent4": "The observability of emotions through body language is a fascinating aspect of human interaction.",
+            "sent5": "The observability of a person's mood can sometimes be misleading, so it's essential to communicate openly."
         }
     ]
 }

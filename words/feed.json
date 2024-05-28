@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To give food to",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Please feed the hungry cat some fish.",
+            "sent2": "I always feed my dog in the morning.",
+            "sent3": "I tried to feed the computer some cookies, but it didn't work.",
+            "sent4": "Her kind words fed my soul with warmth and comfort.",
+            "sent5": "The farmer diligently feeds his livestock every day."
         },
         {
             "definition": "To supply with something essential",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Water is essential to feed the plants in the garden.",
+            "sent2": "The company will feed you with all the necessary information.",
+            "sent3": "I tried to feed my phone with extra battery power, but it didn't work.",
+            "sent4": "Her encouragement fed my determination to succeed.",
+            "sent5": "The teacher's guidance feeds the students' curiosity."
         },
         {
             "definition": "To provide what is necessary for growth or development",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Reading books can feed your mind with knowledge.",
+            "sent2": "Good soil will feed the young plant with nutrients.",
+            "sent3": "I tried to feed my car with extra speed, but it didn't work.",
+            "sent4": "Her feedback fed my improvement in writing.",
+            "sent5": "Positive affirmations can feed your self-confidence."
         }
     ]
 }

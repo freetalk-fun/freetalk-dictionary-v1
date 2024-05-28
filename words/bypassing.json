@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To avoid or go around something, especially by means of a detour.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She decided to bypass the traffic by taking a different route.",
+            "sent2": "The river bypasses the city, flowing peacefully around it.",
+            "sent3": "The clever fox bypassed the noisy farm to find a quiet spot for a nap.",
+            "sent4": "Her smile bypassed his defenses, instantly brightening his day.",
+            "sent5": "The shortcut through the park bypassed the long walk around the neighborhood."
         },
         {
             "definition": "The act of passing by or around something.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The bypassing of the main road saved them time on their journey.",
+            "sent2": "The bypassing of the rules led to chaos in the classroom.",
+            "sent3": "The sneaky squirrel's bypassing of the bird feeder left the birds puzzled.",
+            "sent4": "His bypassing of the traditional route led him to discover a hidden gem.",
+            "sent5": "The clever bypassing of the security system allowed the spy to enter undetected."
         },
         {
             "definition": "A surgical procedure in which a new pathway is created to redirect blood flow.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The doctor performed a bypassing to improve the patient's circulation.",
+            "sent2": "The bypassing successfully rerouted the blood flow around the blocked artery.",
+            "sent3": "During the surgery, the bypassing of the damaged vessel was a delicate process.",
+            "sent4": "The bypassing of the clogged artery was like building a new road for blood.",
+            "sent5": "The intricate bypassing allowed the blood to flow freely to the heart."
         }
     ]
 }

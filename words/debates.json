@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A formal discussion on a particular topic in a public meeting or legislative assembly.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "During the school debate, students discussed the importance of recycling.",
+            "sent2": "The presidential debates are crucial for voters to understand each candidate's views.",
+            "sent3": "The debate about the best pizza toppings got so intense that it ended in a tie.",
+            "sent4": "The debate on climate change is like a stormy sea with conflicting opinions crashing against each other.",
+            "sent5": "The lively debate on space exploration made everyone eager to learn more."
         },
         {
             "definition": "Argue about (a subject), especially in a formal manner.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The siblings often debates over who gets to choose the movie for family night.",
+            "sent2": "Politicians will debates the new law in parliament next week.",
+            "sent3": "The friends playfully debates about which superhero would win in a fight.",
+            "sent4": "The two teams debates fiercely, each trying to prove their point.",
+            "sent5": "She debates with her classmates to improve her public speaking skills."
         },
         {
             "definition": "Consider a possible course of action in one's mind before reaching a decision.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Before making a big purchase, it's important to debates the pros and cons.",
+            "sent2": "The manager debates whether to promote an employee based on performance.",
+            "sent3": "He debates about what to wear to the party, trying to impress his crush.",
+            "sent4": "The artist debates how to approach the next painting, seeking inspiration.",
+            "sent5": "She debates the best route to take for her road trip, weighing the travel time."
         }
     ]
 }

@@ -3,19 +3,39 @@
     "meanings": [
         {
             "definition": "A person who makes a phone call.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The caller asked for your help over the phone.",
+            "sent2": "I am the caller on the line, speaking to you now.",
+            "sent3": "The caller on the other end sounded like a robot.",
+            "sent4": "Her voice as a caller pierced through the silence of the room.",
+            "sent5": "The caller's urgent tone made it clear that help was needed."
         },
         {
             "definition": "A person who visits someone.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The caller came to see you at your house.",
+            "sent2": "I will be the caller at your door this evening.",
+            "sent3": "The caller brought a surprise gift during the visit.",
+            "sent4": "Her presence as a caller brightened up the room.",
+            "sent5": "The caller's friendly smile made everyone feel welcome."
         },
         {
             "definition": "A person who announces their presence at a location.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The caller rang the doorbell to let you know they were here.",
+            "sent2": "I will be the caller at the front desk waiting for you.",
+            "sent3": "The caller's loud knock startled the sleeping cat.",
+            "sent4": "Her shout as a caller echoed through the empty hallway.",
+            "sent5": "The caller's wave caught your attention from across the room."
         },
         {
             "definition": "A device that sends signals to a computer or other device.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The caller connected to the computer wirelessly.",
+            "sent2": "I need to check the settings on the caller for the printer.",
+            "sent3": "The caller beeped loudly, indicating a message received.",
+            "sent4": "Her light as a caller blinked in sync with the music.",
+            "sent5": "The caller's screen displayed important information for the user."
         }
     ]
 }

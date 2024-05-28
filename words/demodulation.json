@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "The process of extracting the original information signal from a modulated carrier wave.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Demodulation helps in getting the actual message from a radio signal.",
+            "sent2": "The technician used demodulation to decode the radio transmission.",
+            "sent3": "The demodulation process is like decoding a secret message.",
+            "sent4": "In a way, demodulation is like unraveling a tangled yarn to find the hidden thread.",
+            "sent5": "Imagine demodulation as a key that unlocks the hidden information in a radio wave."
         },
         {
             "definition": "To remove modulation from a signal to retrieve the original information.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "They demodulated the audio signal to hear the clear voice message.",
+            "sent2": "Demodulation is necessary to recover the original data from a modulated signal.",
+            "sent3": "It's like demodulation is the decoder ring for radio waves.",
+            "sent4": "Demodulation peels away the layers of modulation to reveal the core message.",
+            "sent5": "The demodulation process acts like a filter, separating the useful information from the noise."
         }
     ]
 }

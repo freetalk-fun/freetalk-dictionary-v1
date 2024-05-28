@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Special words or expressions that are used by a particular profession or group and are difficult for others to understand.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "In the medical field, doctors often use jargons that can be confusing for patients.",
+            "sent2": "The IT specialist explained the technical issue without using any jargons.",
+            "sent3": "Trying to decipher legal jargons can feel like solving a complex puzzle.",
+            "sent4": "The jargons of computer programming can seem like a secret code to outsiders.",
+            "sent5": "Learning new jargons in a foreign language can be challenging but rewarding."
         },
         {
             "definition": "Language that is characterized by uncommon or pretentious vocabulary and convoluted syntax.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "She found the professor's jargons in the lecture to be confusing.",
+            "sent2": "The writer's jargons made the novel difficult to understand for some readers.",
+            "sent3": "His jargons about art made him sound like a snobbish critic.",
+            "sent4": "The politician's speech was full of jargons that alienated the audience.",
+            "sent5": "The jargons used in the academic paper were unnecessary and made it hard to follow."
         }
     ]
 }

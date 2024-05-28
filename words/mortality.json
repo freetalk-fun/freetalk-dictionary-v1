@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "The state of being subject to death.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The doctor discussed the concept of mortality with the patient's family.",
+            "sent2": "The study focused on the mortality rates of different age groups.",
+            "sent3": "At the comedy show, the comedian joked about mortality in a lighthearted way.",
+            "sent4": "In the story, the character faced mortality as a looming shadow over his adventures.",
+            "sent5": "The painting depicted mortality as a dark figure following the protagonist."
         },
         {
             "definition": "The number of deaths in a particular population or group.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The mortality in the war-torn region was devastating.",
+            "sent2": "The government analyzed the mortality data to improve healthcare services.",
+            "sent3": "During the game, the players kept track of their mortality in a playful manner.",
+            "sent4": "The mortality in the animal kingdom is a natural part of the ecosystem.",
+            "sent5": "The documentary highlighted the stark reality of mortality in the community."
         }
     ]
 }

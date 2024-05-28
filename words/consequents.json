@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Following as a result or effect.",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "She ran quickly, and consequents, she arrived on time.",
+            "sent2": "He spoke softly, and consequents, no one heard him.",
+            "sent3": "The cat purred loudly, and consequents, the dog woke up startled.",
+            "sent4": "The wind blew fiercely, and consequents, the leaves rustled in response.",
+            "sent5": "The teacher explained patiently, and consequents, the students understood the lesson well."
         },
         {
             "definition": "A result or effect that follows from an action or condition.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The increase in sales was a consequents of the new marketing strategy.",
+            "sent2": "The consequents of his decision were unforeseen and caused chaos.",
+            "sent3": "The unexpected consequents of the experiment left the scientists puzzled.",
+            "sent4": "The consequents of the storm were evident in the flooded streets.",
+            "sent5": "The positive consequents of her hard work were recognized by her peers."
         }
     ]
 }

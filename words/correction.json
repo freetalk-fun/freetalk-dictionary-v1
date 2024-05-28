@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "The action or process of correcting something.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The teacher made a correction on my spelling test.",
+            "sent2": "I made a correction to my essay before submitting it.",
+            "sent3": "After the correction, the math problem finally made sense.",
+            "sent4": "Her guidance was like a correction that fixed my mistakes.",
+            "sent5": "The correction improved the overall quality of the document."
         },
         {
             "definition": "A change that rectifies an error or inaccuracy.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The editor suggested a correction to the article.",
+            "sent2": "The software update included a correction for the bug.",
+            "sent3": "The correction in the recipe made the dish taste better.",
+            "sent4": "His apology was a much-needed correction to the misunderstanding.",
+            "sent5": "The correction brought clarity to the confusing situation."
         },
         {
             "definition": "Punishment or discipline used to correct behavior.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The teacher gave him a correction for talking in class.",
+            "sent2": "The correction for breaking the rule was a detention.",
+            "sent3": "The correction for the prank was to clean the classroom.",
+            "sent4": "The correction served as a reminder to follow the rules.",
+            "sent5": "The correction helped him learn from his mistake."
         }
     ]
 }

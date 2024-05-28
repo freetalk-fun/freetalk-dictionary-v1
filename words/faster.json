@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Moving, operating, or happening at a greater speed than something else.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The cheetah is faster than the turtle.",
+            "sent2": "She ran faster than her friend in the race.",
+            "sent3": "The snail challenged the rabbit to a race to see who could be faster.",
+            "sent4": "His mind worked faster than a supercomputer, solving problems in seconds.",
+            "sent5": "The rocket ship moved faster than anyone had ever seen, leaving a trail of light behind."
         },
         {
             "definition": "In a quicker or more rapid manner.",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "She completed the puzzle faster than anyone else.",
+            "sent2": "He typed faster on the keyboard to finish his essay on time.",
+            "sent3": "The squirrel climbed the tree faster than a speeding bullet.",
+            "sent4": "Time flew by faster than expected during the fun-filled party.",
+            "sent5": "The river flowed faster after the heavy rain, carrying debris downstream swiftly."
         }
     ]
 }

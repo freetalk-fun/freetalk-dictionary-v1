@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Cause severe and extensive damage to.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The hurricane ravaged the small town, leaving behind a path of destruction.",
+            "sent2": "The wildfire ravaged the forest, destroying everything in its way.",
+            "sent3": "The mischievous raccoon ravaged the picnic basket, leaving no snacks for the family.",
+            "sent4": "The virus ravaged the computer system, spreading chaos and confusion.",
+            "sent5": "The flood ravaged the farmland, washing away crops and homes."
         },
         {
             "definition": "Devastated or destroyed.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The ravaged city showed the aftermath of the earthquake's destruction.",
+            "sent2": "The old, ravaged building stood as a reminder of the war's impact.",
+            "sent3": "The tired traveler's ravaged appearance told the story of a long journey.",
+            "sent4": "The ravaged landscape resembled a scene from a post-apocalyptic movie.",
+            "sent5": "The ravaged shipwreck lay abandoned on the shore, a relic of the past."
         }
     ]
 }

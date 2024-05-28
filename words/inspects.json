@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To look at carefully in order to discover something",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The detective inspects the crime scene for clues.",
+            "sent2": "The teacher inspects the students' homework to check for mistakes.",
+            "sent3": "The curious cat inspects every corner of the room, searching for hidden toys.",
+            "sent4": "The scientist inspects the data under a microscope, revealing new patterns.",
+            "sent5": "The inspector inspects the documents with a magnifying glass, uncovering tiny details."
         },
         {
             "definition": "To examine or review carefully and critically",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The quality control team inspects each product before it is shipped.",
+            "sent2": "The journalist inspects the article for any errors before publishing.",
+            "sent3": "The picky eater inspects the food on his plate, looking for any imperfections.",
+            "sent4": "The art critic inspects the painting, analyzing every brushstroke.",
+            "sent5": "The supervisor inspects the work of the employees, ensuring high standards are met."
         }
     ]
 }

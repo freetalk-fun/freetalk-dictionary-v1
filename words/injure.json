@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Harm or damage",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The injure to his arm was visible.",
+            "sent2": "The car accident caused a lot of injure to the vehicles.",
+            "sent3": "The injure to the toy made it look like a monster.",
+            "sent4": "The injure to the tree was like a scar on its bark.",
+            "sent5": "The injure on the book cover made it look old and worn out."
         },
         {
             "definition": "Cause pain or suffering",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Loud noises can injure our ears.",
+            "sent2": "Running without proper shoes can injure your feet.",
+            "sent3": "Eating too much ice cream can injure your teeth!",
+            "sent4": "His harsh words can injure her feelings deeply.",
+            "sent5": "The loss of a pet can injure a person's heart."
         },
         {
             "definition": "Inflict physical harm or damage on",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The sharp knife can easily injure someone.",
+            "sent2": "Be careful not to injure yourself with that tool.",
+            "sent3": "The mischievous cat likes to injure the furniture with its claws.",
+            "sent4": "His betrayal seemed to injure her trust irreparably.",
+            "sent5": "The storm can injure the fragile branches of the tree."
         }
     ]
 }

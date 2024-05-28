@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A distinct period or stage in a process or development.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "During the planning phase, we gather all the necessary information.",
+            "sent2": "The construction phase of the project will begin next week.",
+            "sent3": "In the baking competition, the flour phase was particularly messy.",
+            "sent4": "As the sun set, the sky entered a beautiful pink phase.",
+            "sent5": "The caterpillar's transformation into a butterfly is a remarkable phase of its life cycle."
         },
         {
             "definition": "To carry out in gradual stages.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "We will phase in the new software updates over the next few weeks.",
+            "sent2": "It is important to phase the training program to ensure smooth implementation.",
+            "sent3": "The students decided to phase their study sessions to avoid last-minute cramming.",
+            "sent4": "She phased her workout routine to gradually increase her strength.",
+            "sent5": "The company plans to phase out the old machinery and replace it with new equipment."
         }
     ]
 }

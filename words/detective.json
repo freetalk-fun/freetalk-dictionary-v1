@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A person who investigates crimes and gathers information",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The detective solved the mystery by finding clues.",
+            "sent2": "The detective questioned the suspect at the police station.",
+            "sent3": "The detective accidentally locked himself in the evidence room.",
+            "sent4": "She had a keen eye for detail, like a detective solving a case.",
+            "sent5": "The detective's magnifying glass revealed hidden fingerprints on the window."
         },
         {
             "definition": "To discover or identify the presence or existence of something",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She tried to detective the source of the strange noise.",
+            "sent2": "The scientist used a microscope to detective the tiny organism.",
+            "sent3": "He attempted to detective the missing piece of the puzzle.",
+            "sent4": "The explorer used a map to detective the location of the hidden treasure.",
+            "sent5": "The detective work of the archaeologist uncovered ancient artifacts buried in the sand."
         }
     ]
 }

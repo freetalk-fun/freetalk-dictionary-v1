@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "The course or path that a person or thing is moving or facing.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "She followed the map to find the right direction.",
+            "sent2": "The sign pointed in the direction of the beach.",
+            "sent3": "The lost puppy went in the opposite direction of home.",
+            "sent4": "His career took a new direction after he changed jobs.",
+            "sent5": "The stars in the sky guided their direction through the forest."
         },
         {
             "definition": "Guidance or instruction on how to do something.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The teacher gave clear direction on the science experiment.",
+            "sent2": "Following the recipe's direction, she baked a delicious cake.",
+            "sent3": "The robot followed the programmer's direction perfectly.",
+            "sent4": "His father's wise direction helped him make the right choice.",
+            "sent5": "The coach's direction improved the team's performance."
         },
         {
             "definition": "The position towards which someone or something moves or faces.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The compass always points north as the main direction.",
+            "sent2": "She turned her head in the direction of the noise.",
+            "sent3": "The cat pounced in the direction of the moving toy.",
+            "sent4": "The ship sailed towards the direction of the setting sun.",
+            "sent5": "The detective followed the suspect's direction to the hidden treasure."
         }
     ]
 }

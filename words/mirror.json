@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A surface, typically of glass coated with a metal amalgam, that reflects a clear image.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I saw my face in the mirror.",
+            "sent2": "The mirror on the wall showed a reflection of the room.",
+            "sent3": "The mirror made my nose look huge!",
+            "sent4": "Her eyes were like mirrors, revealing her true emotions.",
+            "sent5": "The mirror reflected the sunlight, creating a dazzling effect."
         },
         {
             "definition": "To reflect as in a mirror.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The lake mirrored the mountains in its still waters.",
+            "sent2": "She carefully mirrored her friend's movements in the dance.",
+            "sent3": "His actions mirrored those of a clumsy penguin.",
+            "sent4": "The calm lake mirrored the sky, creating a perfect illusion.",
+            "sent5": "The artist's painting perfectly mirrored the scene before him."
         },
         {
             "definition": "A thing regarded as accurately representing something else.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The book was a mirror of society's struggles.",
+            "sent2": "The play was a mirror of real-life events.",
+            "sent3": "His messy room was a mirror of his chaotic mind.",
+            "sent4": "Her smile was a mirror of her inner happiness.",
+            "sent5": "The old tree was a mirror of strength and resilience."
         }
     ]
 }

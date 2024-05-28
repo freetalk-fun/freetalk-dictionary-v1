@@ -3,19 +3,39 @@
     "meanings": [
         {
             "definition": "To manage or guide",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She directed the team towards success.",
+            "sent2": "He directed the play with skill and precision.",
+            "sent3": "The cat directed the mice to the cheese, playing a little game.",
+            "sent4": "Her words directed him like a compass, guiding his decisions.",
+            "sent5": "The teacher directed the students' attention to the whiteboard, ensuring they understood the lesson."
         },
         {
             "definition": "To aim or point",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He directed the camera at the beautiful sunset.",
+            "sent2": "The captain directed the ship towards the lighthouse.",
+            "sent3": "The child directed the water hose at the flowers, pretending to be a firefighter.",
+            "sent4": "Her gaze directed towards the horizon, lost in thought.",
+            "sent5": "The detective directed his flashlight into the dark alley, searching for clues."
         },
         {
             "definition": "To address or send",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She directed her letter to the mayor's office.",
+            "sent2": "He directed his question to the professor during the lecture.",
+            "sent3": "The email was directed to the wrong recipient, causing confusion.",
+            "sent4": "Her thoughts were directed towards her family, missing them dearly.",
+            "sent5": "The package was directed to the wrong address, leading to a delay in delivery."
         },
         {
             "definition": "To supervise or control",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The manager directed the employees to complete the project on time.",
+            "sent2": "She directed the traffic with hand signals during the power outage.",
+            "sent3": "The robot directed the assembly line, ensuring efficiency in production.",
+            "sent4": "His strict instructions directed the team's every move.",
+            "sent5": "The coach directed the players on the field, strategizing for victory."
         }
     ]
 }

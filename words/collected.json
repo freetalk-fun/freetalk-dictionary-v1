@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Brought or placed together in one place.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She collected all her toys in a box.",
+            "sent2": "The teacher collected the homework from the students.",
+            "sent3": "The squirrels collected acorns for their winter stash.",
+            "sent4": "The detective collected evidence to solve the case.",
+            "sent5": "He collected shells on the beach to make a necklace."
         },
         {
             "definition": "Calm and composed in manner.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "She remained collected during the emergency.",
+            "sent2": "The speaker was collected while addressing the crowd.",
+            "sent3": "Even in chaos, he stayed collected and focused.",
+            "sent4": "Her collected demeanor helped soothe the situation.",
+            "sent5": "The collected cat purred softly in her lap."
         },
         {
             "definition": "Paid in full.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "He made sure the bill was collected before leaving.",
+            "sent2": "The customer was collected and could enjoy the meal.",
+            "sent3": "The collected invoice brought a smile to his face.",
+            "sent4": "She felt relieved knowing the debt was collected.",
+            "sent5": "The collected receipt was proof of payment."
         }
     ]
 }

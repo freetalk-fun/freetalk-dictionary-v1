@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "The act of encouraging or assisting someone to do something.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Her prompting helped him finish his homework on time.",
+            "sent2": "The teacher's prompting motivated the students to participate in the class discussion.",
+            "sent3": "The dog's prompting for a treat was hard to resist.",
+            "sent4": "The prompting from his friends pushed him to try out for the school play.",
+            "sent5": "The parent's gentle prompting guided the child in making the right decision."
         },
         {
             "definition": "A cue or reminder to take action.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The alarm clock served as a prompting for him to wake up early.",
+            "sent2": "Her friend's prompting to study for the test helped her achieve a good grade.",
+            "sent3": "The sticky note on the fridge was a helpful prompting to buy more milk.",
+            "sent4": "The sudden prompting to call his mom made him realize how much he missed her.",
+            "sent5": "The email served as a timely prompting to submit the assignment before the deadline."
         },
         {
             "definition": "Done without delay; immediate.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The prompt response from the customer service team resolved the issue quickly.",
+            "sent2": "Her prompt decision to leave early saved her from getting stuck in traffic.",
+            "sent3": "The prompt arrival of the ambulance saved the injured hiker's life.",
+            "sent4": "His prompt action in reporting the fire prevented a major disaster.",
+            "sent5": "The prompt payment for the services rendered was greatly appreciated by the vendor."
         }
     ]
 }

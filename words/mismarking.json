@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Marking incorrectly",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She kept mismarking the answers on her test.",
+            "sent2": "The teacher noticed the mismarking on the student's paper.",
+            "sent3": "The cat was mismarking its territory all over the house.",
+            "sent4": "The artist's brush seemed to mismark the canvas with every stroke.",
+            "sent5": "The chef's shaky hand led to mismarking the ingredients in the recipe."
         },
         {
             "definition": "Incorrectly marked",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The mismarking price tag confused the customers.",
+            "sent2": "The mismarking label on the package caused confusion.",
+            "sent3": "The mismarking sign made everyone laugh at the store.",
+            "sent4": "The mismarking map led the travelers astray.",
+            "sent5": "The mismarking clock showed the wrong time to everyone."
         },
         {
             "definition": "To mark incorrectly",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He tends to mismark the dates on his calendar.",
+            "sent2": "The team had to fix the mismarking on the field before the game.",
+            "sent3": "The robot kept mismarking the boxes in the warehouse.",
+            "sent4": "The child's attempt to help only resulted in mismarking the walls.",
+            "sent5": "The student's tiredness led to mismarking the pages in his textbook."
         }
     ]
 }

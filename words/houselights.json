@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "The lights in a theater that illuminate the audience before and after a performance.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The houselights dimmed as the play began.",
+            "sent2": "During the intermission, the houselights were turned on.",
+            "sent3": "The mischievous cat thought the houselights were toys to play with.",
+            "sent4": "Her smile lit up the room like the houselights in a theater.",
+            "sent5": "The bright houselights made the audience feel excited for the show."
         },
         {
             "definition": "To turn on or off the lights in a theater before or after a performance.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The stage manager houselights the theater after the show.",
+            "sent2": "Please remember to houselights the auditorium when the play ends.",
+            "sent3": "The actor accidentally houselighted the stage too early, causing confusion.",
+            "sent4": "She houselights the theater with precision, creating a magical atmosphere.",
+            "sent5": "As the director, he always houselights the stage at the perfect moment."
         }
     ]
 }

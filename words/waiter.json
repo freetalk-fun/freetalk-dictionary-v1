@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A person who serves food and drinks to customers in a restaurant.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The waiter brought us our meals with a smile.",
+            "sent2": "The waiter took our orders and delivered them promptly.",
+            "sent3": "The waiter accidentally spilled water on a customer, making everyone laugh.",
+            "sent4": "The waiter danced between tables like a graceful performer.",
+            "sent5": "The waiter's uniform made him look like a professional food server."
         },
         {
             "definition": "To delay or postpone something.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Please waiter your decision until tomorrow.",
+            "sent2": "I can't waiter any longer; we need to make a choice now.",
+            "sent3": "The meeting was waitered due to unexpected technical difficulties.",
+            "sent4": "His excitement waitered his ability to focus on the task at hand.",
+            "sent5": "The storm waitered our plans for a picnic in the park."
         }
     ]
 }

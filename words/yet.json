@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Up to the present time; until now.",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "I have not finished my homework yet.",
+            "sent2": "Have you eaten lunch yet?",
+            "sent3": "The cat has not caught the mouse yet.",
+            "sent4": "The sun has not set yet, painting the sky in hues of orange.",
+            "sent5": "The cake is not ready yet, it still needs more time in the oven."
         },
         {
             "definition": "Nevertheless; however.",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "I am tired, yet I will keep working.",
+            "sent2": "It is raining, yet we will go for a walk.",
+            "sent3": "I know it's late, yet I will watch one more episode.",
+            "sent4": "The road was rough, yet she continued to walk with determination.",
+            "sent5": "The task seemed difficult, yet she completed it with ease."
         },
         {
             "definition": "In addition; still.",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "I have finished my work, yet I will help you with yours.",
+            "sent2": "She is busy, yet she finds time to read every day.",
+            "sent3": "The store is closed, yet the lights are still on.",
+            "sent4": "The storm has passed, yet the wind still whispers through the trees.",
+            "sent5": "The movie ended, yet the audience stayed seated, waiting for more."
         }
     ]
 }

@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A line, mark, or band differing in color or texture from the surface around it.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I saw a streak of red paint on the wall.",
+            "sent2": "The rainbow had a beautiful streak of colors.",
+            "sent3": "The streak of sunlight through the window made the room look cozy.",
+            "sent4": "Her talent for painting was a streak of brilliance in the art world.",
+            "sent5": "The streak of lightning across the sky was mesmerizing."
         },
         {
             "definition": "A brief run or stretch of good or bad luck.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "His winning streak in the game was impressive.",
+            "sent2": "She hoped her lucky streak would continue at the casino.",
+            "sent3": "The streak of bad luck seemed to follow him wherever he went.",
+            "sent4": "The streak of good fortune finally turned in his favor.",
+            "sent5": "The winning streak brought a smile to his face."
         },
         {
             "definition": "To move quickly in a straight line.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The car will streak past us on the highway.",
+            "sent2": "The shooting star will streak across the night sky.",
+            "sent3": "He will streak through the finish line in the race.",
+            "sent4": "The comet will streak through space at incredible speed.",
+            "sent5": "The athlete will streak ahead of the competition in the sprint."
         }
     ]
 }

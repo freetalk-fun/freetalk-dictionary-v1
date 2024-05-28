@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A molecule or ion that binds to a central metal atom in a coordination complex.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The ligand attached to the metal atom in the complex.",
+            "sent2": "The scientist studied how the ligand interacts with the metal atom.",
+            "sent3": "The ligand and the metal atom danced together in the coordination complex.",
+            "sent4": "Like a key fitting into a lock, the ligand perfectly matched the metal atom.",
+            "sent5": "The ligand acted like a magnet, pulling the metal atom towards it."
         },
         {
             "definition": "An atom, ion, or molecule that donates one or more pairs of electrons to form a coordinate covalent bond with a central metal atom.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The ligand shared its electrons with the metal atom.",
+            "sent2": "In the reaction, the ligand gave electrons to the metal atom.",
+            "sent3": "The generous ligand happily donated its electrons to the metal atom.",
+            "sent4": "The bond between the ligand and the metal atom was like a friendship built on sharing.",
+            "sent5": "The ligand's electrons acted as a bridge connecting it to the metal atom."
         }
     ]
 }

@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "an intentionally false statement",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "She told a lie to avoid getting in trouble.",
+            "sent2": "It is not nice to tell a lie to your friends.",
+            "sent3": "The little boy's lie about eating all the cookies was quickly discovered.",
+            "sent4": "The politician's lie about his past came back to haunt him.",
+            "sent5": "The lie spread like wildfire through the small town."
         },
         {
             "definition": "to be in a horizontal position",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I like to lie down and relax after a long day.",
+            "sent2": "The cat likes to lie in the sun for hours.",
+            "sent3": "After the picnic, we all decided to lie on the grass and watch the clouds.",
+            "sent4": "The shipwrecked sailor had to lie on the beach until help arrived.",
+            "sent5": "The baby loves to lie on their back and kick their feet in the air."
         },
         {
             "definition": "to tell a lie",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He would often lie about his age to seem older.",
+            "sent2": "It is not right to lie to your parents about where you were.",
+            "sent3": "The comedian would lie about his adventures for a good laugh.",
+            "sent4": "She had to lie to her boss about being sick to take the day off.",
+            "sent5": "The detective knew the suspect was lying about their alibi."
         }
     ]
 }

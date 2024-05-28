@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A sign or warning that something, typically something bad, will happen",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The dark clouds gathering in the sky were a presages of the coming storm.",
+            "sent2": "The sudden drop in temperature was a presages of the approaching winter.",
+            "sent3": "The howling of the wind served as a presages for the spooky ghost stories.",
+            "sent4": "The eerie silence in the haunted house was a presages of the ghostly presence.",
+            "sent5": "The black cat crossing your path is often seen as a presages of bad luck."
         },
         {
             "definition": "To be a sign or warning that something, typically something bad, will happen",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The sudden change in behavior presages a possible conflict in the near future.",
+            "sent2": "The dark clouds presages a heavy rainstorm later in the day.",
+            "sent3": "The loud thunder presages the arrival of a stormy night.",
+            "sent4": "The eerie silence in the forest presages the presence of a wild animal.",
+            "sent5": "The teacher's frown presages trouble for the misbehaving student."
         }
     ]
 }

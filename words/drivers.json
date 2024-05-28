@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A person who drives a vehicle.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The drivers on the road must follow traffic rules.",
+            "sent2": "The taxi driver picked up passengers at the airport.",
+            "sent3": "The drivers in the race were all eager to win.",
+            "sent4": "She was the main driver behind the success of the project.",
+            "sent5": "The drivers in the city were always in a hurry, honking their horns."
         },
         {
             "definition": "A tool or device used to insert or remove screws.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "He used a screwdriver to tighten the screws.",
+            "sent2": "The mechanic's toolbox contained various types of drivers.",
+            "sent3": "The tiny drivers were too small for the large screws.",
+            "sent4": "The power drill acted as a fast and efficient driver.",
+            "sent5": "The magnetic driver made it easy to work with metal screws."
         },
         {
             "definition": "A program that controls a specific type of hardware device.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The computer needed the latest drivers to function properly.",
+            "sent2": "The printer driver allowed the computer to communicate with the printer.",
+            "sent3": "The outdated driver caused the device to malfunction.",
+            "sent4": "The driver update improved the performance of the hardware.",
+            "sent5": "Installing the correct driver resolved the connectivity issue."
         }
     ]
 }

@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Discontinued without dissolving",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The prorogued meeting left everyone confused about the next steps.",
+            "sent2": "The prorogued event was rescheduled for next week.",
+            "sent3": "The prorogued party left the guests wondering if it was over or just taking a break.",
+            "sent4": "The prorogued project seemed to hang in limbo, neither completed nor abandoned.",
+            "sent5": "The prorogued decision lingered in the air, unresolved and unsettling."
         },
         {
             "definition": "To discontinue a session of a legislative body",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The speaker prorogued the parliament after a long debate.",
+            "sent2": "The Prime Minister prorogued the assembly to avoid further discussions.",
+            "sent3": "The opposition members joked that the speaker prorogued the session to escape tough questions.",
+            "sent4": "The decision to prorogue the meeting was met with mixed reactions.",
+            "sent5": "The president's decision to prorogue the congress surprised many lawmakers."
         },
         {
             "definition": "To postpone or defer",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The company prorogued the product launch due to technical issues.",
+            "sent2": "The team leader prorogued the meeting until everyone was present.",
+            "sent3": "The student prorogued studying for the exam until the last minute.",
+            "sent4": "The manager prorogued the deadline to give the team more time.",
+            "sent5": "The professor prorogued the assignment submission to accommodate the students' requests."
         }
     ]
 }

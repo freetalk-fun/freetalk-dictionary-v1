@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Relating to an early stage of development or existence.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The cave drawings were a primitive form of art.",
+            "sent2": "The primitive tools were made from simple materials.",
+            "sent3": "The primitive alarm clock made of rocks always woke him up.",
+            "sent4": "Her primitive instincts kicked in when she sensed danger.",
+            "sent5": "The primitive hut provided shelter from the storm."
         },
         {
             "definition": "A person belonging to a preliterate, nonindustrial society.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The explorer studied the lifestyle of the primitives in the jungle.",
+            "sent2": "The primitives lived off the land and had a deep connection to nature.",
+            "sent3": "The primitives' dance around the fire was both mesmerizing and joyful.",
+            "sent4": "She felt like a primitive in the modern city, surrounded by technology.",
+            "sent5": "The primitives' wisdom was passed down through generations."
         },
         {
             "definition": "Basic or fundamental elements or qualities.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The primitives of mathematics are addition and subtraction.",
+            "sent2": "Language is one of the essential primitives of human communication.",
+            "sent3": "The artist used color as the primitive to convey emotions in the painting.",
+            "sent4": "Trust is a primitive in building strong relationships.",
+            "sent5": "The primitives of cooking include heat, time, and ingredients."
         }
     ]
 }

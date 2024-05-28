@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A space entirely devoid of matter.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The astronaut floated in the vacuums of space.",
+            "sent2": "Scientists study the vacuums between stars.",
+            "sent3": "The magician made the object disappear into the vacuums.",
+            "sent4": "Her mind was a vacuum, empty of all thoughts.",
+            "sent5": "The vacuum of the desert was vast and endless."
         },
         {
             "definition": "A device that uses suction to clean floors.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "She used the vacuums to clean the carpet.",
+            "sent2": "The vacuum is essential for keeping the house tidy.",
+            "sent3": "The cat was scared of the vacuum's loud noise.",
+            "sent4": "The vacuum hummed as it sucked up the dirt.",
+            "sent5": "The vacuum's power easily removed the crumbs from the floor."
         },
         {
             "definition": "To clean with a vacuum cleaner.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She vacuums the living room every Saturday.",
+            "sent2": "He vacuums the office to keep it neat.",
+            "sent3": "The robot vacuumed the entire house while everyone slept.",
+            "sent4": "She vacuumed up the spilled cereal quickly.",
+            "sent5": "Vacuuming regularly helps maintain a clean home."
         }
     ]
 }

@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To damage or spoil the appearance of (something)",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The muddy footprints were marring the clean floor.",
+            "sent2": "The scratches on the car were marring its shiny surface.",
+            "sent3": "The clumsy puppy was marring the freshly mopped floor with its wet paws.",
+            "sent4": "The graffiti on the wall was marring the beauty of the neighborhood.",
+            "sent5": "The raindrops marring the mirror made it difficult to see my reflection clearly."
         },
         {
             "definition": "To impair the quality or perfection of (something)",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Her constant interruptions were marring the flow of the conversation.",
+            "sent2": "The noise from the construction site was marring the peaceful atmosphere of the park.",
+            "sent3": "The spilled coffee was marring the perfection of her white dress.",
+            "sent4": "The negative comments were marring the success of the project.",
+            "sent5": "The crack in the vase was marring its flawless beauty."
         }
     ]
 }

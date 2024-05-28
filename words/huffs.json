@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Huff (verb): to breathe heavily and noisily",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "After running, the dog huffs loudly.",
+            "sent2": "She huffs after climbing the steep hill.",
+            "sent3": "The old car huffs and puffs up the hill.",
+            "sent4": "The steam train huffs as it pulls away from the station.",
+            "sent5": "The exhausted hiker huffs for breath at the mountain peak."
         },
         {
             "definition": "Huff (noun): a fit of anger or annoyance",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "He let out a huff when he heard the news.",
+            "sent2": "She left the room in a huff.",
+            "sent3": "The child's huff over losing the game was short-lived.",
+            "sent4": "The teacher's huff was evident when the students were noisy.",
+            "sent5": "A huff of frustration escaped her lips as she struggled with the puzzle."
         },
         {
             "definition": "Huff (adjective): done in a hasty or angry manner",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "She made a huff decision without thinking it through.",
+            "sent2": "The huff response only escalated the situation.",
+            "sent3": "His huff tone made it clear he was upset.",
+            "sent4": "The huff departure left everyone surprised.",
+            "sent5": "The huff email was full of spelling mistakes due to rushing."
         }
     ]
 }

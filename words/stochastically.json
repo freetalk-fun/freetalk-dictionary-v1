@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "In a random manner",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "The dice were rolled stochastically, giving each number an equal chance to appear.",
+            "sent2": "The computer program generated numbers stochastically for the simulation.",
+            "sent3": "The cat chased the laser pointer stochastically around the room, never knowing where it would go next.",
+            "sent4": "The leaves fell from the tree stochastically, creating a beautiful, unpredictable pattern on the ground.",
+            "sent5": "The raindrops fell stochastically on the roof, creating a soothing, irregular melody."
         },
         {
             "definition": "Relating to or involving a random variable or process",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The stochastically changing weather kept everyone on their toes.",
+            "sent2": "The stochastically fluctuating stock market made investors nervous.",
+            "sent3": "The stochastically behaving robot confused its creators with its unpredictable actions.",
+            "sent4": "Her thoughts were like a stochastically shifting puzzle, never settling on one idea for long.",
+            "sent5": "The artist's brush moved stochastically across the canvas, creating a unique and ever-changing masterpiece."
         }
     ]
 }

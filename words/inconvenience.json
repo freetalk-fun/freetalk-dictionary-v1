@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Trouble or difficulty caused by something that is unexpected or unwelcome.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The unexpected delay at the airport was a big inconvenience for the travelers.",
+            "sent2": "Carrying heavy bags while shopping can be quite an inconvenience.",
+            "sent3": "It was an inconvenience when the power went out during the movie, but we made the best of it.",
+            "sent4": "Her sudden illness was an inconvenience, throwing a wrench in our plans.",
+            "sent5": "The flat tire on the way to work was an inconvenience that made him late."
         },
         {
             "definition": "To cause trouble or difficulty to someone.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Please don't inconvenience yourself by going out of your way to help me.",
+            "sent2": "The road closure inconvenienced many commuters during rush hour.",
+            "sent3": "He inconvenienced his friends by arriving late to the party.",
+            "sent4": "The broken elevator inconvenienced the residents of the building for days.",
+            "sent5": "The construction noise inconvenienced the entire neighborhood for weeks."
         }
     ]
 }

@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Slightly wet or moist",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The towel felt dampy after being left out in the rain.",
+            "sent2": "The grass was dampy from the morning dew.",
+            "sent3": "The dampy ground made it tricky for the dog to dig a hole.",
+            "sent4": "Her dampy clothes clung to her skin like a second layer.",
+            "sent5": "The dampy air in the forest smelled earthy and fresh."
         },
         {
             "definition": "To make slightly wet or moist",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She dampied the cloth before wiping the spill.",
+            "sent2": "Please don't dampy the paper too much with the paint.",
+            "sent3": "The chef dampied the cake with a light syrup for added flavor.",
+            "sent4": "The rain dampied the soil, making it perfect for planting.",
+            "sent5": "He dampied his hands with water before shaping the clay."
         },
         {
             "definition": "A damp place or environment",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The basement was always a dampy area in the house.",
+            "sent2": "The cave was a dark, dampy refuge for the bats.",
+            "sent3": "The dampy of the forest made it a haven for mushrooms.",
+            "sent4": "The old castle had a mysterious dampy that added to its charm.",
+            "sent5": "The dampy of the swamp created a unique ecosystem for wildlife."
         }
     ]
 }

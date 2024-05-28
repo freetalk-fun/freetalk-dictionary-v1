@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To suppose that something is the case on the basis of probability or evidence.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She presumes the sun will rise tomorrow because it always has.",
+            "sent2": "He presumes the package will arrive by Friday.",
+            "sent3": "The cat presumes the closed door is hiding a secret catnip stash.",
+            "sent4": "The detective presumes the suspect's innocence until proven guilty.",
+            "sent5": "The scientist presumes the theory to be true until further experiments disprove it."
         },
         {
             "definition": "To take for granted or assume something to be true without proof.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The teacher presumes the students have completed their homework.",
+            "sent2": "She presumes he will always be there for her.",
+            "sent3": "The child presumes the cookie jar is always full of cookies.",
+            "sent4": "The author presumes the reader will understand the underlying themes.",
+            "sent5": "The chef presumes the recipe will turn out perfectly every time."
         },
         {
             "definition": "To act or proceed with unwarrantable boldness.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He presumes to speak on behalf of the entire group without permission.",
+            "sent2": "She presumes to enter the meeting without an invitation.",
+            "sent3": "The squirrel presumes to steal nuts from the bird feeder in broad daylight.",
+            "sent4": "The toddler presumes to climb the tall bookshelf despite being told not to.",
+            "sent5": "The explorer presumes to cross the treacherous river alone."
         }
     ]
 }

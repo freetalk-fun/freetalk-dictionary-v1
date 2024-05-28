@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Organization: a group of people working together in a structured way for a shared purpose.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The local org helped clean up the park.",
+            "sent2": "The org held a meeting to plan the charity event.",
+            "sent3": "The org's bake sale was a huge success.",
+            "sent4": "The org of volunteers was a well-oiled machine.",
+            "sent5": "Joining the org was a life-changing experience."
         },
         {
             "definition": "Organism: a living thing, especially a single-celled or multicellular plant or animal.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The tiny org under the microscope fascinated the students.",
+            "sent2": "The ocean is full of diverse orgs.",
+            "sent3": "The org in the petri dish seemed to wave hello.",
+            "sent4": "Each org in the ecosystem plays a vital role.",
+            "sent5": "The orgs in the forest create a harmonious balance."
         },
         {
             "definition": "Organic: relating to or derived from living matter.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "She bought org vegetables from the farmer's market.",
+            "sent2": "The org cotton used in the clothing was soft and breathable.",
+            "sent3": "The org skincare products were gentle on her skin.",
+            "sent4": "The chef used only org ingredients in the dish.",
+            "sent5": "The org fertilizer helped the plants grow beautifully."
         }
     ]
 }

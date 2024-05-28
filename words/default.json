@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Failure to fulfill an obligation, especially a financial one.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "When he didn't pay back the money, it was a default on his loan.",
+            "sent2": "The default on the mortgage led to serious consequences.",
+            "sent3": "The default on the debt made everyone worried about his finances.",
+            "sent4": "Her default on the payment was like breaking a promise.",
+            "sent5": "The default on the rent payment left him in a tough situation."
         },
         {
             "definition": "A preselected option adopted by a computer program or other mechanism when no alternative is specified.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The computer program automatically chose the default font.",
+            "sent2": "The default setting for the printer was black and white.",
+            "sent3": "He accidentally selected the default option and couldn't change it back.",
+            "sent4": "The default choice for the email signature was plain and simple.",
+            "sent5": "The default selection for the game level was easy for beginners."
         },
         {
             "definition": "To fail to fulfill an obligation, especially a financial one.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She defaulted on her loan and faced serious consequences.",
+            "sent2": "If you default on the payment, you may incur additional charges.",
+            "sent3": "He defaulted on the promise to pay back the money.",
+            "sent4": "The company defaulted on the contract, causing legal issues.",
+            "sent5": "If you default on the agreement, you risk losing your assets."
         }
     ]
 }

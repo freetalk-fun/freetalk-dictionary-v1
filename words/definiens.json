@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A word or phrase that defines or explains another word or phrase.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "In the dictionary, the definiens for 'dog' is 'a domesticated mammal'.",
+            "sent2": "She used the definiens 'computer' to explain what a laptop is.",
+            "sent3": "The definiens for 'unicorn' in the book was 'a mythical creature with a horn'.",
+            "sent4": "His smile was the definiens of happiness, lighting up the room.",
+            "sent5": "The teacher's explanation was a clear definiens of the complex math problem."
         },
         {
             "definition": "The part of a definition that provides the meaning of the term being defined.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The definiens of 'apple' in the sentence was 'a fruit that grows on trees'.",
+            "sent2": "Understanding the definiens of a word helps in learning new vocabulary.",
+            "sent3": "The definiens of 'sleep' was 'a state of rest for the body and mind'.",
+            "sent4": "Her laughter was the definiens of joy, echoing through the room.",
+            "sent5": "The definiens of the scientific term was explained clearly in the textbook."
         }
     ]
 }

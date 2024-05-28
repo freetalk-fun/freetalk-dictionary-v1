@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To refuse or reject something.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She declined the offer to join the club.",
+            "sent2": "He declined the invitation to the party.",
+            "sent3": "The cat declined the new food, sticking to its favorite.",
+            "sent4": "The student declined the shortcut, choosing the longer path to learn more.",
+            "sent5": "The customer declined the extra warranty for the product."
         },
         {
             "definition": "To decrease in quantity or quality.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Sales declined after the new competitor entered the market.",
+            "sent2": "The quality of the product declined over time.",
+            "sent3": "The flowers declined in freshness as the days passed.",
+            "sent4": "Her health declined rapidly after the illness struck.",
+            "sent5": "The team's performance declined as the season progressed."
         },
         {
             "definition": "To slope or bend downward.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The road declined sharply as they drove down the hill.",
+            "sent2": "The graph showed how the temperature declined throughout the day.",
+            "sent3": "The tree's branches declined gracefully towards the ground.",
+            "sent4": "The path declined gently, making the walk easier.",
+            "sent5": "The roof declined slightly, causing rainwater to flow off smoothly."
         }
     ]
 }

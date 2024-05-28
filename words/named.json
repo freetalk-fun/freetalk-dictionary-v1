@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A word or words by which an entity is designated and distinguished from others.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The named of the company was unique and stood out.",
+            "sent2": "I always remember the named of my favorite book.",
+            "sent3": "The named of the cat was so long that it made everyone laugh.",
+            "sent4": "Her named was like a beacon in the sea of faces.",
+            "sent5": "The named of the mountain was so grand that it echoed through the valley."
         },
         {
             "definition": "To give a name to.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She named her new puppy 'Buddy'.",
+            "sent2": "The explorer named the newly discovered island after himself.",
+            "sent3": "He named his car 'Speedy' even though it was slow.",
+            "sent4": "The chef named his signature dish 'Flaming Delight'.",
+            "sent5": "The author named her characters with great care to reflect their personalities."
         },
         {
             "definition": "To mention or identify by name.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She named all the ingredients in the recipe.",
+            "sent2": "The witness named the suspect in the police lineup.",
+            "sent3": "He named his favorite movie star during the interview.",
+            "sent4": "The historian named the ancient civilization in his research paper.",
+            "sent5": "The teacher named the student who answered the question correctly."
         }
     ]
 }

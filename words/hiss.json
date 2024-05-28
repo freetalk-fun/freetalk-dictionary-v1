@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Make a sharp sibilant sound as of the letter s.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The kettle began to hiss on the stove.",
+            "sent2": "The snake hissed loudly when approached.",
+            "sent3": "The angry cat hissed at the playful puppy.",
+            "sent4": "The wind seemed to hiss through the trees on that stormy night.",
+            "sent5": "The steam hissed as it escaped from the pressure cooker."
         },
         {
             "definition": "A sharp sibilant sound made by a cat or snake.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The hiss of the snake sent shivers down my spine.",
+            "sent2": "The cat's hiss warned us to stay away.",
+            "sent3": "The hiss of the kettle sounded like a tiny dragon.",
+            "sent4": "The hiss of the wind in the night was eerie.",
+            "sent5": "The sudden hiss made everyone jump in surprise."
         }
     ]
 }

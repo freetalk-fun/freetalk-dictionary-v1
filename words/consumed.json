@@ -3,19 +3,39 @@
     "meanings": [
         {
             "definition": "To eat or drink (something)",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She consumed the delicious cake in one sitting.",
+            "sent2": "The hungry child consumed his entire plate of food.",
+            "sent3": "After a long day, he consumed a hearty meal and felt content.",
+            "sent4": "Her love for chocolate consumed her thoughts all day.",
+            "sent5": "The flames quickly consumed the dry wood in the fireplace."
         },
         {
             "definition": "To use up or deplete (resources)",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The wildfire consumed all the trees in the forest.",
+            "sent2": "The factory consumed a large amount of electricity each day.",
+            "sent3": "The shopping spree consumed all her savings in a matter of hours.",
+            "sent4": "The intense heat consumed all the remaining water in the desert.",
+            "sent5": "The marathon consumed all his energy, leaving him exhausted."
         },
         {
             "definition": "To be engrossed or absorbed in (an activity)",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She consumed the book, unable to put it down.",
+            "sent2": "The children consumed their time playing in the park.",
+            "sent3": "He consumed his day watching movies on the couch.",
+            "sent4": "The artist consumed himself in creating a masterpiece.",
+            "sent5": "The students consumed the lesson, eager to learn more."
         },
         {
             "definition": "To destroy or waste (something)",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The fire consumed the old building in minutes.",
+            "sent2": "The flood consumed the crops in the fields.",
+            "sent3": "His anger consumed all chances of reconciliation.",
+            "sent4": "The virus consumed the data on his computer.",
+            "sent5": "The darkness consumed the light, leaving everything in shadow."
         }
     ]
 }

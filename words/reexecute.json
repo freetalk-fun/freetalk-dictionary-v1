@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To execute again.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "After fixing the error, please reexecute the program to see if it works correctly.",
+            "sent2": "The computer program crashed, so I had to reexecute it to continue my work.",
+            "sent3": "I accidentally deleted my essay, so I had to reexecute my writing process from scratch.",
+            "sent4": "In order to ensure accuracy, the scientist decided to reexecute the experiment multiple times.",
+            "sent5": "The chef had to reexecute the recipe to get the perfect balance of flavors."
         },
         {
             "definition": "To carry out a task or command for a second time.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "If the first attempt fails, you may need to reexecute the command to complete the task.",
+            "sent2": "The supervisor asked me to reexecute the report after making some revisions.",
+            "sent3": "The magician had to reexecute the trick to impress the audience after a mistake.",
+            "sent4": "After the power outage, the team had to reexecute the presentation for the clients.",
+            "sent5": "To ensure accuracy, the teacher requested the students to reexecute the experiment."
         }
     ]
 }

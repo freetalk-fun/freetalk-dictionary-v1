@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A half of something",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "She ate a haff of the cookie.",
+            "sent2": "He shared a haff of his sandwich with his friend.",
+            "sent3": "The haff of the cake mysteriously disappeared before the party.",
+            "sent4": "The haff moon shone brightly in the night sky.",
+            "sent5": "The haff cup was just enough for a sip of water."
         },
         {
             "definition": "To divide into two equal parts",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She will haff the pizza for us to share.",
+            "sent2": "Can you haff the apple so we each get a piece?",
+            "sent3": "He tried to haff the sandwich, but it crumbled unevenly.",
+            "sent4": "The river seemed to haff the town in two with its strong current.",
+            "sent5": "The magician will haff the rope with a swift cut."
         }
     ]
 }

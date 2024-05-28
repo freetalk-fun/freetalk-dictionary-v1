@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Money in the form of coins or banknotes.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I used my saved cashes to buy a new toy.",
+            "sent2": "The cashier counted the cashes in the register.",
+            "sent3": "The piggy bank was full of shiny cashes.",
+            "sent4": "Her wallet overflowed with colorful cashes.",
+            "sent5": "The treasure chest was filled with ancient cashes."
         },
         {
             "definition": "To convert assets into cash.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He cashes his paycheck every Friday.",
+            "sent2": "She quickly cashes out her investments when needed.",
+            "sent3": "The magician cashes his tricks into money.",
+            "sent4": "The sun cashes its rays into warmth.",
+            "sent5": "The ATM cashes your check into usable funds."
         },
         {
             "definition": "To pay or receive money in exchange for goods or services.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She cashes her customers' payments at the end of the day.",
+            "sent2": "He cashes in on his skills by offering services.",
+            "sent3": "The cat cashes in treats for catching mice.",
+            "sent4": "The tree cashes in nutrients from the soil.",
+            "sent5": "The store cashes in on the holiday sales."
         }
     ]
 }

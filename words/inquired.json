@@ -3,19 +3,39 @@
     "meanings": [
         {
             "definition": "Asked for information",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She inquired about the time of the event.",
+            "sent2": "He inquired about the menu at the restaurant.",
+            "sent3": "The curious cat inquired about the new visitor in the house.",
+            "sent4": "The detective inquired into the mysterious disappearance.",
+            "sent5": "The student inquired eagerly about the upcoming test."
         },
         {
             "definition": "Sought information",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "They inquired about the location of the nearest store.",
+            "sent2": "She inquired about the weather forecast for the weekend.",
+            "sent3": "The lost puppy inquired about finding its way back home.",
+            "sent4": "The explorer inquired into the hidden treasure's whereabouts.",
+            "sent5": "The child inquired excitedly about the upcoming field trip."
         },
         {
             "definition": "Investigated",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The detective inquired about the suspect's alibi.",
+            "sent2": "She inquired into the cause of the strange noise.",
+            "sent3": "The scientist inquired about the results of the experiment.",
+            "sent4": "The journalist inquired deeply into the corruption scandal.",
+            "sent5": "The inspector inquired thoroughly about the safety measures."
         },
         {
             "definition": "Questioned",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The teacher inquired the students about their understanding of the lesson.",
+            "sent2": "He inquired the witness during the trial.",
+            "sent3": "The child inquired the magician about the secret behind the trick.",
+            "sent4": "The journalist inquired the politician about the controversial decision.",
+            "sent5": "The detective inquired the suspect about their whereabouts on the night of the crime."
         }
     ]
 }

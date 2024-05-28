@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A person who has a comprehensive and authoritative knowledge in a particular area.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The expert in the room confidently answered all the difficult questions.",
+            "sent2": "The expert chef prepared a delicious meal for the guests.",
+            "sent3": "The expert juggler managed to juggle while riding a unicycle!",
+            "sent4": "She was an expert at navigating through the busy city streets.",
+            "sent5": "The expert astronomer discovered a new comet in the night sky."
         },
         {
             "definition": "Having, involving, or displaying special skill or knowledge derived from training or experience.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The expert mechanic quickly fixed the broken car.",
+            "sent2": "She gave an expert presentation on the latest research findings.",
+            "sent3": "The expert painter used a toothbrush to create a masterpiece!",
+            "sent4": "His expert timing in the race secured him the first-place trophy.",
+            "sent5": "The expert advice from the doctor helped the patient recover faster."
         }
     ]
 }

@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A procedure intended to establish the quality, performance, or reliability of something.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The teacher gave us a test to see how well we understood the lesson.",
+            "sent2": "The lab technician conducted a test to check the purity of the water sample.",
+            "sent3": "During the test, the robot unexpectedly started dancing, causing everyone to laugh.",
+            "sent4": "Her patience was tested like a bridge under the weight of heavy traffic.",
+            "sent5": "The test results revealed the true nature of the problem."
         },
         {
             "definition": "A means of determining the presence, quality, or genuineness of something.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The taste test showed which soda was the most popular among the group.",
+            "sent2": "The fingerprint test confirmed the identity of the suspect.",
+            "sent3": "The test of the new security system revealed a flaw that needed fixing.",
+            "sent4": "His honesty was tested like a diamond under intense scrutiny.",
+            "sent5": "The test of time proved the durability of the ancient artifact."
         },
         {
             "definition": "A trial or examination to determine the proficiency, quality, or suitability of someone or something.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The driving test was nerve-wracking but necessary to get a license.",
+            "sent2": "The taste test determined which chef had the best dish.",
+            "sent3": "During the test, the cat unexpectedly jumped on the table, surprising everyone.",
+            "sent4": "Her skills were tested like a sword forged in the hottest fire.",
+            "sent5": "The test of character revealed who could be trusted in times of need."
         }
     ]
 }

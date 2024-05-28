@@ -2,16 +2,31 @@
     "term": "diploids",
     "meanings": [
         {
-            "definition": "Diploids: having two sets of chromosomes",
-            "pos": "adjective"
+            "definition": "having two sets of chromosomes",
+            "pos": "adjective",
+            "sent1": "The diploids cells contained pairs of chromosomes.",
+            "sent2": "The scientist studied the diploids organisms in the lab.",
+            "sent3": "The diploids strawberries were perfectly ripe for picking.",
+            "sent4": "The diploids sky at sunset mirrored the calm lake below.",
+            "sent5": "The diploids flowers in the garden bloomed brightly in the sun."
         },
         {
-            "definition": "Diploids: organisms with two sets of chromosomes",
-            "pos": "noun"
+            "definition": "organisms with two sets of chromosomes",
+            "pos": "noun",
+            "sent1": "Diploids are common in many animal species.",
+            "sent2": "The diploids were carefully observed under the microscope.",
+            "sent3": "The diploids at the zoo were having a party.",
+            "sent4": "The diploids of the forest danced in harmony.",
+            "sent5": "The diploids of the ocean swam gracefully through the water."
         },
         {
-            "definition": "Diploids: cells with two sets of chromosomes",
-            "pos": "noun"
+            "definition": "cells with two sets of chromosomes",
+            "pos": "noun",
+            "sent1": "The diploids were clearly visible under the microscope.",
+            "sent2": "The doctor examined the diploids closely for abnormalities.",
+            "sent3": "The diploids in the petri dish were playing hide and seek.",
+            "sent4": "The diploids of the body worked together like a symphony.",
+            "sent5": "The diploids in the blood sample were healthy and active."
         }
     ]
 }

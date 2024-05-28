@@ -3,15 +3,21 @@
     "meanings": [
         {
             "definition": "To make or become blue in color.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She blued the sky with her paintbrush.",
+            "sent2": "The ocean blued as the sun set.",
+            "sent3": "The artist accidentally blued her hands while working on the masterpiece.",
+            "sent4": "His mood blued like the storm clouds rolling in.",
+            "sent5": "The cold water blued her lips, making her shiver."
         },
         {
             "definition": "Past tense of the verb 'blue'.",
-            "pos": "verb"
-        },
-        {
-            "definition": "Having a blue color.",
-            "pos": "adjective"
+            "pos": "verb",
+            "sent1": "Yesterday, she blued the dress for the party.",
+            "sent2": "He blued the walls of his room last week.",
+            "sent3": "The chef blued the cake, but it turned out to be a hit at the bake sale.",
+            "sent4": "The old photo blued with time, capturing a moment long gone.",
+            "sent5": "The sky blued after the storm, bringing a sense of calm."
         }
     ]
 }

@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Experience or be subjected to (something, typically something unpleasant)",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She had to undergo a difficult surgery last week.",
+            "sent2": "The patient will undergo a series of tests to determine the cause of the illness.",
+            "sent3": "Despite her fear of heights, she had to undergo climbing the tall ladder.",
+            "sent4": "The caterpillar undergoes a remarkable transformation into a butterfly.",
+            "sent5": "The old house will undergo a complete renovation to restore its former glory."
         },
         {
             "definition": "Suffer or endure (something)",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He had to undergo a long and tiring journey to reach his destination.",
+            "sent2": "The workers undergo harsh conditions in the factory every day.",
+            "sent3": "The students had to undergo a boring lecture on a Friday afternoon.",
+            "sent4": "The tree undergoes the harsh winter weather year after year.",
+            "sent5": "The athlete will undergo intense training to prepare for the competition."
         }
     ]
 }

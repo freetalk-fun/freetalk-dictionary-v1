@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To make something free of dirt or impurities.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She cleaned the dishes after dinner.",
+            "sent2": "I cleaned my room before my friends came over.",
+            "sent3": "The cat cleaned its fur meticulously after playing in the garden.",
+            "sent4": "The rain cleaned the streets of the city, washing away the dust.",
+            "sent5": "He cleaned the windows until they sparkled in the sunlight."
         },
         {
             "definition": "To remove unwanted substances from something.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The mechanic cleaned the engine to improve its performance.",
+            "sent2": "I cleaned the stain on my shirt with a stain remover.",
+            "sent3": "She cleaned the spilled milk from the floor with a mop.",
+            "sent4": "The janitor cleaned the graffiti off the walls of the school.",
+            "sent5": "He cleaned the rust from the old bicycle, revealing its original color."
         },
         {
             "definition": "To tidy up or organize a space.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I cleaned my desk to find my missing pen.",
+            "sent2": "She cleaned the living room before the guests arrived.",
+            "sent3": "The child cleaned up his toys after playing.",
+            "sent4": "The librarian cleaned the shelves to arrange the books properly.",
+            "sent5": "He cleaned his workspace, putting everything in its place."
         }
     ]
 }

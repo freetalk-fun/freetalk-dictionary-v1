@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Situated or occurring within the body; inner.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The doctor examined my internal organs.",
+            "sent2": "It is important to take care of your internal health.",
+            "sent3": "My internal alarm clock always wakes me up before my alarm.",
+            "sent4": "Her internal compass always guides her in the right direction.",
+            "sent5": "The internal workings of a computer can be complex."
         },
         {
             "definition": "Existing or occurring within an organization or institution.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The internal policies of the company must be followed.",
+            "sent2": "Teamwork is crucial for internal harmony within a group.",
+            "sent3": "The internal office gossip can sometimes be entertaining.",
+            "sent4": "The internal dynamics of the team determine its success.",
+            "sent5": "Internal communication is key to a well-functioning organization."
         },
         {
             "definition": "Inner thoughts or feelings.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "She kept her internal struggles hidden from others.",
+            "sent2": "Understanding your own internal motivations is important.",
+            "sent3": "His internal monologue was filled with self-doubt.",
+            "sent4": "The artist's paintings reflected her internal emotions.",
+            "sent5": "Exploring your internal world can lead to self-discovery."
         }
     ]
 }

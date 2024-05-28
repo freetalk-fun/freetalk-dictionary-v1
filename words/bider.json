@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A person who bids on something at an auction.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The bider raised his hand to bid on the painting.",
+            "sent2": "The auctioneer announced the highest bider for the antique vase.",
+            "sent3": "The bider in the fancy hat won the bid for the rare coin.",
+            "sent4": "She was the top bider in the auction, winning multiple items.",
+            "sent5": "The determined bider never gave up until he won the bid."
         },
         {
             "definition": "To offer a certain amount of money for something at an auction.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I will bider $50 for the old book on the table.",
+            "sent2": "The collectors eagerly bider on the valuable stamp collection.",
+            "sent3": "The friends playfully bider against each other for the toy car.",
+            "sent4": "She decided to bider more than her budget for the rare painting.",
+            "sent5": "The crowd started to bider loudly as the auction began."
         },
         {
             "definition": "To wait or remain in a certain state or condition.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "We had to bider in line for our turn to enter the museum.",
+            "sent2": "The cat likes to bider by the window and watch the birds.",
+            "sent3": "The children had to bider patiently for the school bus.",
+            "sent4": "She couldn't bider the excitement and opened the gift early.",
+            "sent5": "The flowers will bider in the vase until the party starts."
         }
     ]
 }

@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A person or thing that nudges.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The little nudger gently pushed the ball towards the goal.",
+            "sent2": "The automatic door had a nudger that helped it close softly.",
+            "sent3": "The friendly nudger, a small robot, reminded people to take breaks.",
+            "sent4": "Her positive attitude was a nudger for others to stay motivated.",
+            "sent5": "The nudger, a small bird, guided lost travelers back to the path."
         },
         {
             "definition": "A device or mechanism used for nudging.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The door stopper acted as a nudger to prevent the door from slamming.",
+            "sent2": "The car's parking sensor served as a nudger to help with parallel parking.",
+            "sent3": "The alarm clock, a helpful nudger, woke her up gently every morning.",
+            "sent4": "The email notification was a nudger to remind him of the upcoming meeting.",
+            "sent5": "The phone's vibrating alert was a nudger for her to check her messages."
         },
         {
             "definition": "To push or poke gently, especially with the elbow.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She would nudger her brother to get his attention during class.",
+            "sent2": "He nudgered the cat out of the way so he could sit on the couch.",
+            "sent3": "The mischievous puppy would nudger the sleeping cat for fun.",
+            "sent4": "The old man would nudger his friend to share a secret joke during the meeting.",
+            "sent5": "The hiker would nudger the rock aside to reveal a hidden cave entrance."
         }
     ]
 }

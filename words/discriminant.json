@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A distinguishing feature or characteristic",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Her bright red hair was a discriminant that made her stand out in the crowd.",
+            "sent2": "The unique logo was a discriminant that set the company apart from its competitors.",
+            "sent3": "The detective used the suspect's tattoo as a discriminant to solve the case.",
+            "sent4": "In a sea of identical houses, the colorful front door acted as a discriminant.",
+            "sent5": "The loud barking of the small dog served as a discriminant to locate it in the park."
         },
         {
             "definition": "A mathematical expression used to determine the nature of the roots of a quadratic equation",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The algebra teacher explained how to calculate the discriminant in class.",
+            "sent2": "When the discriminant is positive, the quadratic equation has two real roots.",
+            "sent3": "The discriminant of the equation decided whether the parabola opens upwards or downwards.",
+            "sent4": "By analyzing the discriminant, the student could predict the type of solutions.",
+            "sent5": "Understanding the discriminant helps in solving quadratic equations efficiently."
         }
     ]
 }

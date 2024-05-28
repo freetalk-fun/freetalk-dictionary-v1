@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Thorn: a sharp-pointed spine on a plant.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The rose bush had a thorning that pricked my finger.",
+            "sent2": "Be careful of the thorning on the cactus.",
+            "sent3": "The thorning on the blackberry bush made picking berries a bit tricky.",
+            "sent4": "The thorning of the holly bush acted as a natural defense against animals.",
+            "sent5": "The thorning of the hawthorn tree was a reminder of nature's protection mechanisms."
         },
         {
             "definition": "Thorny: full of or covered with thorns.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The thorny bush scratched my arm as I passed by.",
+            "sent2": "The path was blocked by a thorny shrub.",
+            "sent3": "The thorny situation required careful navigation to avoid getting hurt.",
+            "sent4": "Her thorny personality made it challenging to have a conversation with her.",
+            "sent5": "The thorny exterior of the plant served as a warning to stay away."
         },
         {
             "definition": "Thorned: having thorns.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The thorned stem of the rose bush was beautiful yet dangerous.",
+            "sent2": "The thorned branches of the tree made it difficult to climb.",
+            "sent3": "The thorned gloves protected his hands while gardening.",
+            "sent4": "The thorned vines intertwined to create a natural barrier.",
+            "sent5": "The thorned edges of the leaves acted as a defense mechanism against herbivores."
         }
     ]
 }

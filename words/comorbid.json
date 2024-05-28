@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "(adjective) existing simultaneously with and usually independently of another medical condition",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The patient was diagnosed with diabetes and hypertension, which are comorbid conditions.",
+            "sent2": "It is common for obesity to be comorbid with heart disease.",
+            "sent3": "The comorbid relationship between allergies and asthma can be quite challenging.",
+            "sent4": "Her stress and anxiety seemed comorbid, each feeding off the other.",
+            "sent5": "The comorbid nature of depression and insomnia made it difficult for him to sleep."
         },
         {
             "definition": "(verb) to have two or more medical conditions at the same time",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She comorbid diabetes and high cholesterol, requiring careful management.",
+            "sent2": "As she aged, she began to comorbid various health issues.",
+            "sent3": "The doctor joked that he seemed to comorbid every illness in the book.",
+            "sent4": "His decision to smoke and not exercise comorbid his risk factors for heart disease.",
+            "sent5": "The tendency to comorbid multiple conditions can complicate treatment plans."
         }
     ]
 }

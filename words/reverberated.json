@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To be repeated several times as an echo.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Her laughter reverberated through the empty hallway.",
+            "sent2": "The sound of the bell reverberated in the quiet church.",
+            "sent3": "The joke he told reverberated around the room, making everyone chuckle.",
+            "sent4": "His powerful speech reverberated in the hearts of the audience long after he finished.",
+            "sent5": "The thunder reverberated through the valley, shaking the ground beneath their feet."
         },
         {
             "definition": "To have a prolonged effect or impact.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The kind words she said to him reverberated in his mind for days.",
+            "sent2": "The decision to cut down the trees will reverberate throughout the entire forest.",
+            "sent3": "His apology reverberated in her heart, slowly melting away her anger.",
+            "sent4": "The news of the victory reverberated across the nation, bringing joy to all.",
+            "sent5": "The consequences of his actions reverberated through his life, changing everything in its path."
         },
         {
             "definition": "To resound or reflect sound.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The music reverberated off the walls of the concert hall.",
+            "sent2": "His voice reverberated in the vast cave, creating an eerie effect.",
+            "sent3": "The sound of the waves reverberated in her ears, lulling her to sleep.",
+            "sent4": "The cheers of the crowd reverberated in the stadium, creating an electrifying atmosphere.",
+            "sent5": "The gunshot reverberated in the silent night, causing everyone to freeze in fear."
         }
     ]
 }

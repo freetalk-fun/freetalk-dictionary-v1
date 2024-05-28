@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Recognized a distinction between things",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She discriminated between the red apples and the green apples.",
+            "sent2": "The detective discriminated between the real painting and the fake one.",
+            "sent3": "The robot discriminated between the square blocks and the round blocks, causing chaos in the toy store.",
+            "sent4": "His keen eyes discriminated between the shades of blue in the painting, revealing a hidden message.",
+            "sent5": "The teacher discriminated between the correct and incorrect answers with ease."
         },
         {
             "definition": "Treated unfairly based on a certain characteristic",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The discriminated group fought for their rights in the court.",
+            "sent2": "She felt discriminated against because of her unique style.",
+            "sent3": "The discriminated puppy found a loving home with a kind family.",
+            "sent4": "The discriminated employee finally stood up against the unfair treatment.",
+            "sent5": "The discriminated student proved everyone wrong by excelling in academics."
         }
     ]
 }

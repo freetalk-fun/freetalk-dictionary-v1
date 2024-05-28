@@ -3,23 +3,48 @@
     "meanings": [
         {
             "definition": "Not one or the other of two people or things",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "She liked neither dress, so she decided not to buy any.",
+            "sent2": "I could find neither my keys nor my phone in the house.",
+            "sent3": "The cat was neither black nor white, but a mix of both colors.",
+            "sent4": "His answer was neither here nor there, completely off-topic.",
+            "sent5": "The restaurant served neither hot nor cold soup, just lukewarm."
         },
         {
             "definition": "Not either of two things or people",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "Neither option seemed appealing to her, so she chose to do nothing.",
+            "sent2": "He was neither happy nor sad about the news, just indifferent.",
+            "sent3": "The cake was neither chocolate nor vanilla, but a unique flavor.",
+            "sent4": "The road was neither straight nor curved, but had a slight bend.",
+            "sent5": "The weather was neither sunny nor rainy, just overcast and gloomy."
         },
         {
             "definition": "Used before the first of two or more alternatives that are being specified",
-            "pos": "article"
+            "pos": "article",
+            "sent1": "Neither cat liked the new toy, but they both loved the box it came in.",
+            "sent2": "Neither student knew the answer to the question, so the teacher explained it.",
+            "sent3": "The store had neither red nor blue shirts, only green ones.",
+            "sent4": "Neither parent could attend the meeting, so they sent their apologies.",
+            "sent5": "Neither sibling wanted to share the last cookie, so they split it in half."
         },
         {
             "definition": "Used to introduce a further negative statement",
-            "pos": "conjunction"
+            "pos": "conjunction",
+            "sent1": "I don't like coffee, and neither do I enjoy tea.",
+            "sent2": "She didn't want to go out, and neither did her friends.",
+            "sent3": "He didn't like spicy food, and neither did his brother.",
+            "sent4": "The movie wasn't interesting, and neither was the book.",
+            "sent5": "They didn't win the game, and neither did they score any points."
         },
         {
             "definition": "Used to introduce a further negative statement.",
-            "pos": "conjunction"
+            "pos": "conjunction",
+            "sent1": "I don't like coffee, neither do I enjoy tea.",
+            "sent2": "She didn't want to go out, neither did her friends.",
+            "sent3": "He didn't like spicy food, neither did his brother.",
+            "sent4": "The movie wasn't interesting, neither was the book.",
+            "sent5": "They didn't win the game, neither did they score any points."
         }
     ]
 }

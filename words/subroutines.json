@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A sequence of instructions within a computer program that performs a specific task.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The subroutines in the program help organize tasks efficiently.",
+            "sent2": "Programmers use subroutines to simplify complex tasks.",
+            "sent3": "The subroutines in the code are like little helpers doing their assigned jobs.",
+            "sent4": "In the digital world, subroutines act as specialized workers completing tasks.",
+            "sent5": "Imagine subroutines as tiny workers in the computer, each with a specific job to do."
         },
         {
             "definition": "A self-contained unit of code that can be called by other parts of a program.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Developers often create subroutines to reuse code and save time.",
+            "sent2": "The subroutine can be easily accessed from different parts of the program.",
+            "sent3": "The code's subroutines are like secret passages that lead to specific functions.",
+            "sent4": "Subroutines are like puzzle pieces that fit into the program wherever needed.",
+            "sent5": "Using subroutines is like having a toolbox full of ready-to-use functions in programming."
         }
     ]
 }

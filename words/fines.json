@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A sum of money exacted as a penalty by a court of law or other authority.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The judge imposed a fine on the driver for speeding.",
+            "sent2": "She had to pay a fine for parking in the wrong spot.",
+            "sent3": "The squirrel was fined for stealing nuts from the neighbor's yard.",
+            "sent4": "The fine for littering serves as a reminder to keep our environment clean.",
+            "sent5": "The fine for late library books encourages people to return them on time."
         },
         {
             "definition": "A fee or charge for a service or privilege.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The resort charged a fine for using the spa facilities.",
+            "sent2": "There was an additional fine for exceeding the baggage weight limit.",
+            "sent3": "The fine for extra toppings on the pizza made everyone laugh.",
+            "sent4": "The fine for premium features upgrades the overall experience.",
+            "sent5": "The fine for express shipping ensures quick delivery."
         },
         {
             "definition": "To penalize (someone) for an offense by imposing a fine.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The city fines those who litter in public places.",
+            "sent2": "He fined the company for violating safety regulations.",
+            "sent3": "She jokingly fined her friend for eating the last cookie.",
+            "sent4": "The coach fined the players for missing practice.",
+            "sent5": "Fining individuals for breaking rules helps maintain order."
         }
     ]
 }

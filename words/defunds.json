@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To remove funding from (a program or organization)",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The city council defunds the arts program, causing it to shut down.",
+            "sent2": "The government defunds public schools, leading to teacher layoffs.",
+            "sent3": "The charity defunds the pet shelter, leaving the animals to fend for themselves.",
+            "sent4": "The company defunds the research project, halting all progress.",
+            "sent5": "The mayor's decision to defund the library was met with strong opposition from the community."
         },
         {
             "definition": "To cut off the financial resources of (someone or something)",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The bank defunds the account due to suspicious activity.",
+            "sent2": "The economic crisis defunds many small businesses, forcing them to close.",
+            "sent3": "The magician jokingly defunds his assistant's allowance for the week.",
+            "sent4": "The storm defunds the town's electricity, plunging it into darkness.",
+            "sent5": "The lack of donations defunds the charity, impacting its ability to help those in need."
         }
     ]
 }

@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Show clearly",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She will demonstrate how to tie a knot.",
+            "sent2": "The teacher used a ruler to demonstrate the length of the table.",
+            "sent3": "The magician tried to demonstrate pulling a rabbit out of a hat.",
+            "sent4": "His actions clearly demonstrate his commitment to the cause.",
+            "sent5": "The experiment will demonstrate the effects of gravity."
         },
         {
             "definition": "Prove with evidence",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The fingerprints on the glass will demonstrate who touched it.",
+            "sent2": "The DNA test will demonstrate the suspect's guilt or innocence.",
+            "sent3": "The footprints in the snow will demonstrate who visited last night.",
+            "sent4": "The data will demonstrate the impact of climate change on the ecosystem.",
+            "sent5": "The witness will demonstrate the defendant's whereabouts at the time of the crime."
         },
         {
             "definition": "Display skills or abilities",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The chef will demonstrate how to make a perfect omelette.",
+            "sent2": "The athlete will demonstrate his speed in the upcoming race.",
+            "sent3": "The artist will demonstrate painting a beautiful landscape.",
+            "sent4": "The musician will demonstrate his talent on the piano.",
+            "sent5": "The presenter will demonstrate public speaking skills during the event."
         }
     ]
 }

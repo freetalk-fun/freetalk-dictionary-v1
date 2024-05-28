@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To make impure again by contact or mixture",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Leaving the food uncovered can recontaminate it with germs.",
+            "sent2": "The spilled chemicals recontaminate the water source.",
+            "sent3": "Oops! I accidentally recontaminated the clean water with dirty hands.",
+            "sent4": "The careless actions recontaminate the once pristine environment.",
+            "sent5": "The act of touching the wound with unwashed hands recontaminates it, leading to infection."
         },
         {
             "definition": "To pollute again by exposure to harmful substances",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The factory's waste recontaminates the river with toxins.",
+            "sent2": "After the cleanup, any new spill will recontaminate the area.",
+            "sent3": "The rain unexpectedly recontaminated the freshly washed car with mud.",
+            "sent4": "The smoke from the fire recontaminates the air we breathe.",
+            "sent5": "The leak in the pipe recontaminates the soil with oil, harming the plants."
         },
         {
             "definition": "To infect again with harmful microorganisms",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Not washing your hands can recontaminate the wound and cause infection.",
+            "sent2": "The unsterilized equipment recontaminates the surgical site.",
+            "sent3": "The sneeze accidentally recontaminated the room with germs.",
+            "sent4": "The lack of hygiene practices recontaminates the food, leading to illness.",
+            "sent5": "The dirty utensils recontaminate the dishes, spreading harmful bacteria."
         }
     ]
 }

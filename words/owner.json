@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A person who owns; possessor",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The owner of the toy was happy to share it with his friend.",
+            "sent2": "The owner of the house takes good care of the garden.",
+            "sent3": "The owner of the bakery accidentally baked a giant cookie.",
+            "sent4": "She was the owner of a heart full of kindness.",
+            "sent5": "The owner of the antique shop had a keen eye for valuable items."
         },
         {
             "definition": "One who has the legal or rightful title to something",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The car owner parked in the designated spot.",
+            "sent2": "The land owner decided to build a new fence around the property.",
+            "sent3": "The book owner accidentally dropped the novel in the bathtub.",
+            "sent4": "She was the owner of the winning lottery ticket.",
+            "sent5": "The owner of the company made important decisions for its future."
         }
     ]
 }

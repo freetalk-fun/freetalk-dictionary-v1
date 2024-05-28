@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To make something false by altering or manipulating information.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He tried to falsify the test results by changing the numbers.",
+            "sent2": "The scientist was caught trying to falsify the research data.",
+            "sent3": "The student's attempt to falsify the grades was quickly discovered.",
+            "sent4": "Her attempt to falsify reality only led to more confusion.",
+            "sent5": "The detective knew the suspect was trying to falsify the evidence."
         },
         {
             "definition": "To prove something to be false or incorrect.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The new evidence helped falsify the old theory.",
+            "sent2": "The witness's testimony was crucial in falsifying the alibi.",
+            "sent3": "His attempt to falsify the alibi only made him look more suspicious.",
+            "sent4": "The strong winds seemed to falsify the weather forecast.",
+            "sent5": "The experiment was designed to falsify the hypothesis."
         },
         {
             "definition": "To present false information with the intent to deceive.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The scammer tried to falsify his identity to gain trust.",
+            "sent2": "The forger was arrested for falsifying official documents.",
+            "sent3": "Her attempt to falsify the contract backfired when it was exposed.",
+            "sent4": "The con artist's plan to falsify the painting's provenance failed.",
+            "sent5": "The spy's mission was to falsify the enemy's intelligence."
         }
     ]
 }

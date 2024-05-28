@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To send or direct (something) to the wrong place or person.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The package was misrouted to the incorrect address.",
+            "sent2": "She misrouted the email to the wrong department.",
+            "sent3": "The misrouted letter ended up in the neighbor's mailbox!",
+            "sent4": "His thoughts were misrouted, leading to confusion.",
+            "sent5": "The misrouted package took a detour before reaching its destination."
         },
         {
             "definition": "Sent or directed to the wrong place or person.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The misrouted package finally arrived at the correct address.",
+            "sent2": "She received the misrouted letter meant for her neighbor.",
+            "sent3": "The misrouted email caused a mix-up in the office.",
+            "sent4": "His misrouted luggage made its way back to him eventually.",
+            "sent5": "The misrouted shipment was redirected and reached its destination."
         }
     ]
 }

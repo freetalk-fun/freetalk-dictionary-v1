@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A person who estimates or calculates the value, amount, or extent of something.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The estimator quickly calculated the cost of the project.",
+            "sent2": "The estimator provided an accurate assessment of the property's value.",
+            "sent3": "The estimator joked that estimating the number of jellybeans in a jar was their superpower.",
+            "sent4": "Her intuition was like an estimator, always accurately guessing the time it would take to complete a task.",
+            "sent5": "The estimator's keen eye for detail made their estimates highly reliable."
         },
         {
             "definition": "A mathematical function used to estimate a parameter based on observed data.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The estimator in the equation helped predict the outcome.",
+            "sent2": "Using the estimator, we could approximate the population size.",
+            "sent3": "The estimator function decided to take a break from crunching numbers and went on strike.",
+            "sent4": "In the world of statistics, the estimator is like a detective uncovering hidden truths in the data.",
+            "sent5": "The estimator's role in the formula was crucial for making informed decisions."
         }
     ]
 }

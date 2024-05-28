@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A person who rents a property from a tenant.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The subtenant moved into the apartment next door.",
+            "sent2": "The subtenant pays rent to the main tenant.",
+            "sent3": "The subtenant accidentally took the landlord's mail thinking it was theirs.",
+            "sent4": "Being a subtenant is like being a temporary neighbor in someone else's home.",
+            "sent5": "The subtenant's lease agreement clearly outlines their rights and responsibilities."
         },
         {
             "definition": "To rent a property from a tenant.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I will subtenant the extra room in my house to help with expenses.",
+            "sent2": "She subtenants her vacation home during the summer months.",
+            "sent3": "He decided to subtenant his garage to someone in need of storage space.",
+            "sent4": "Subtenanting can be a good way to earn extra income without long-term commitments.",
+            "sent5": "The landlord allowed her to subtenant the office space for a short period of time."
         }
     ]
 }

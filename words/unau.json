@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A small, slow-moving mammal native to South America.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The unau climbed the tree with great care.",
+            "sent2": "I saw an unau at the zoo last week.",
+            "sent3": "The unau decided to take a nap in the warm sun.",
+            "sent4": "The unau's pace was as leisurely as a lazy river.",
+            "sent5": "The unau's fur was as soft as a cloud."
         },
         {
             "definition": "To be unwilling or hesitant.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She unaued when asked to try the new food.",
+            "sent2": "I unau to join the dance class.",
+            "sent3": "He unaued for a moment before making his decision.",
+            "sent4": "Her eyes unaued as she considered the risky jump.",
+            "sent5": "The cat unaued before approaching the unfamiliar dog."
         },
         {
             "definition": "Not having a specific purpose or goal.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The unau project seemed to drag on forever.",
+            "sent2": "She felt lost in the unau tasks assigned to her.",
+            "sent3": "The unau meeting left everyone confused.",
+            "sent4": "His mind wandered in the unau thoughts of the day.",
+            "sent5": "The unau journey led them through unknown lands."
         }
     ]
 }

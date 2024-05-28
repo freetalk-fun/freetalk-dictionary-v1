@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A word or phrase that denotes a subcategory of a more general class (e.g. rose is a hyponym of flower).",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "A hyponym like 'poodle' is a specific type of 'dog'.",
+            "sent2": "In the sentence 'sparrow is a hyponym of bird', 'sparrow' is a more specific term.",
+            "sent3": "The hyponym 'penguin' is a funny kind of 'bird'.",
+            "sent4": "Being a hyponym is like being a unique puzzle piece in the category puzzle.",
+            "sent5": "The concept of hyponym helps us understand the hierarchy of words in language."
         },
         {
             "definition": "A word that is more specific than a given word (e.g. daisy is a hyponym of flower).",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "When we say 'rose is a hyponym of flower', we mean rose is a specific type of flower.",
+            "sent2": "The hyponym 'poodle' is a more detailed term compared to 'dog'.",
+            "sent3": "The hyponym 'kitten' is like the cute little sibling of 'cat'.",
+            "sent4": "Using hyponyms is like zooming in on a picture to see the finer details.",
+            "sent5": "Learning about hyponyms makes our vocabulary richer and more precise."
         }
     ]
 }

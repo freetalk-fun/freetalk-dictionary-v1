@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A sampling or collection of opinions or votes from a group of people.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The teacher conducted polls to find out which book the students liked best.",
+            "sent2": "The polls showed that most people preferred chocolate ice cream over vanilla.",
+            "sent3": "The polls revealed that the majority of students wanted longer recess.",
+            "sent4": "Her polls on social media garnered a lot of attention and responses.",
+            "sent5": "The polls indicated a clear winner in the competition."
         },
         {
             "definition": "The place where votes are cast in an election.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The school gymnasium served as the polls for the local election.",
+            "sent2": "Citizens lined up early at the polls to exercise their right to vote.",
+            "sent3": "The polls were bustling with activity on election day.",
+            "sent4": "Candidates often visit the polls to greet voters and ask for support.",
+            "sent5": "The polls closed promptly at 8 p.m. as scheduled."
         },
         {
             "definition": "To record the votes of.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The election officials will polls the votes once the polls close.",
+            "sent2": "She carefully polls each ballot to ensure accuracy in the counting process.",
+            "sent3": "He forgot to polls the absentee ballots before announcing the results.",
+            "sent4": "The machine can quickly polls a large number of votes in a short time.",
+            "sent5": "It is important to polls the votes in a fair and transparent manner."
         }
     ]
 }

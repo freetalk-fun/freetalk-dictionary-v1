@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A person who serves in an army.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The brave solider fought for his country.",
+            "sent2": "The solider saluted his commanding officer.",
+            "sent3": "The solider tried to march in step but kept tripping over his own feet.",
+            "sent4": "She stood as strong as a solider in the face of adversity.",
+            "sent5": "The solider's uniform gleamed in the sunlight as he stood at attention."
         },
         {
             "definition": "Firm or secure in position.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The solider lock on the door prevented anyone from entering.",
+            "sent2": "The solider grip of the rope kept him from falling.",
+            "sent3": "The solider chair refused to budge no matter how hard he pushed.",
+            "sent4": "Her resolve was as solider as a rock.",
+            "sent5": "The solider foundation of the building ensured its stability during the storm."
         },
         {
             "definition": "To make or become solid or firm.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She used flour to solider the mixture into a dough.",
+            "sent2": "The carpenter solidered the joints of the table for extra strength.",
+            "sent3": "He solidered his commitment to the project by working late into the night.",
+            "sent4": "The friendship between them solidered over time like a strong bond.",
+            "sent5": "The artist solidered the clay into a beautiful sculpture with skilled hands."
         }
     ]
 }

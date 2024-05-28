@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A part of a tree that grows out from the trunk",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The squirrel climbed the branches to reach the acorns.",
+            "sent2": "The branches of the oak tree provided shade on a hot day.",
+            "sent3": "The mischievous cat used the branches as a jungle gym.",
+            "sent4": "The branches swayed gently in the breeze like dancers in a ballet.",
+            "sent5": "The branches rustled with the songs of the birds perched on them."
         },
         {
             "definition": "A division or subdivision of something larger",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The local library has several branches in different neighborhoods.",
+            "sent2": "The company decided to open a new branch in the bustling city center.",
+            "sent3": "The family tree had many branches, each representing a different generation.",
+            "sent4": "The branches of government work together to ensure a balanced system.",
+            "sent5": "The branches of the river flowed into various directions, creating a network."
         },
         {
             "definition": "To spread or divide into separate parts or groups",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The company plans to branches out into new markets next year.",
+            "sent2": "After the merger, the business will branches into different product lines.",
+            "sent3": "The idea began to branches into various innovative solutions.",
+            "sent4": "Her creativity branches into different forms of art, from painting to sculpture.",
+            "sent5": "The project manager decided to branches the tasks among the team members."
         }
     ]
 }

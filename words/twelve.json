@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "The number 12.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I counted up to twelve on my fingers.",
+            "sent2": "There are twelve months in a year.",
+            "sent3": "The baker baked a dozen cookies, which is the same as twelve.",
+            "sent4": "The clock struck twelve, signaling midnight.",
+            "sent5": "She won twelve gold medals in the competition."
         },
         {
             "definition": "A group or set of twelve things.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The box contained a dozen eggs, which is twelve in total.",
+            "sent2": "There were twelve chairs arranged around the table.",
+            "sent3": "The team of twelve players celebrated their victory.",
+            "sent4": "The jury consisted of twelve members who reached a unanimous decision.",
+            "sent5": "He collected twelve different stamps for his collection."
         },
         {
             "definition": "Being twelve in number.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "She bought a pack of twelve pencils for school.",
+            "sent2": "The baker made a tray of twelve cupcakes for the party.",
+            "sent3": "The garden had twelve colorful flowers in a row.",
+            "sent4": "The clock showed twelve o'clock, time for lunch.",
+            "sent5": "He wore a shirt with twelve stripes on it."
         }
     ]
 }

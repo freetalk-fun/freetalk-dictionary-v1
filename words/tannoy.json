@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A loudspeaker system used for making announcements in public places.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The tannoy in the train station announced the arrival of the next train.",
+            "sent2": "The tannoy at the airport informed passengers about the boarding time.",
+            "sent3": "The tannoy in the park suddenly started playing music instead of announcements.",
+            "sent4": "The tannoy's voice echoed through the stadium, commanding attention from the crowd.",
+            "sent5": "The tannoy's crackling sound made it hard to understand the message being broadcast."
         },
         {
             "definition": "To make an announcement over a loudspeaker system.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The principal will tannoy the school-wide assembly schedule tomorrow.",
+            "sent2": "Please tannoy the message about the meeting time to all employees.",
+            "sent3": "He decided to tannoy his love for pizza to the entire neighborhood.",
+            "sent4": "The politician tannoyed promises of change to the eager crowd.",
+            "sent5": "The coach tannoyed instructions to the team, boosting their morale."
         }
     ]
 }

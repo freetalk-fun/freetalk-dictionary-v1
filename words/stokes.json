@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To poke or stir (a fire)",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She stokes the campfire to keep it burning brightly.",
+            "sent2": "He stokes the barbecue to make sure the charcoal is evenly heated.",
+            "sent3": "The little girl stokes the fire with such enthusiasm, she almost singes her eyebrows.",
+            "sent4": "His words stokes the flames of passion in her heart.",
+            "sent5": "The blacksmith stokes the forge, sending sparks flying in all directions."
         },
         {
             "definition": "A unit of kinematic viscosity",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The scientist measured the liquid's stokes to determine its flow rate.",
+            "sent2": "The stokes of the oil indicate how easily it flows through the pipes.",
+            "sent3": "The competition for the most stokes in the fluid dynamics lab was fierce.",
+            "sent4": "The stokes of the river determine how fast the water moves downstream.",
+            "sent5": "The student learned about stokes in physics class and found it fascinating."
         },
         {
             "definition": "A former British unit of kinematic viscosity, equal to 0.000645 square meters per second",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The textbook explained the conversion of stokes to other units of viscosity.",
+            "sent2": "The stokes measurement was commonly used in old British engineering calculations.",
+            "sent3": "In the historical novel, the characters argued over the value of stokes in their experiments.",
+            "sent4": "The ancient machinery required precise stokes to function efficiently.",
+            "sent5": "The museum displayed an old instrument used to measure stokes in the 19th century."
         }
     ]
 }

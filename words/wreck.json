@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To cause the destruction of something",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The storm will wreck the sandcastle we built.",
+            "sent2": "The car crash could wreck the fence.",
+            "sent3": "I accidentally wrecked my brother's Lego tower.",
+            "sent4": "His careless actions could wreck his chances of winning.",
+            "sent5": "The strong winds threatened to wreck the fragile tent."
         },
         {
             "definition": "A vehicle or ship that has been severely damaged or destroyed",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The old wreck of a ship sat abandoned on the shore.",
+            "sent2": "The wreck of the car was towed away from the accident scene.",
+            "sent3": "The kids pretended the broken bicycle was a pirate ship wreck.",
+            "sent4": "The abandoned wreck of a house stood as a reminder of the past.",
+            "sent5": "The rusted wreck of the plane was a haunting sight in the desert."
         },
         {
             "definition": "A state of ruin or destruction",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The abandoned building was a wreck after the fire.",
+            "sent2": "The town was left in a wreck after the tornado passed through.",
+            "sent3": "The messy room was a wreck with toys scattered everywhere.",
+            "sent4": "The relationship was a wreck after the argument.",
+            "sent5": "The garden was a wreck of tangled plants and overgrown weeds."
         }
     ]
 }

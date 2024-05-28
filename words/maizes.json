@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Maizes (noun): plural form of maize, a type of corn",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The farmer harvested the ripe maizes from the field.",
+            "sent2": "The market sells fresh maizes for cooking.",
+            "sent3": "The squirrels were delighted to find the maizes in the cornfield.",
+            "sent4": "The golden maizes swayed gently in the breeze, a sea of corn.",
+            "sent5": "The aroma of roasted maizes filled the air, tempting everyone nearby."
         },
         {
             "definition": "Maizes (verb): third person singular present of maize, to grow or harvest corn",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She maizes in her backyard every summer to have fresh corn.",
+            "sent2": "The farmer maizes diligently to ensure a good harvest.",
+            "sent3": "The robot maizes in the virtual cornfield, programmed for efficiency.",
+            "sent4": "His dedication to maizes his crops shows in the abundant harvest.",
+            "sent5": "The community comes together to maize the fields, a tradition of unity."
         },
         {
             "definition": "Maizes (adjective): describing something related to or made from corn",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The maizes bread at the bakery is always a popular choice.",
+            "sent2": "She wore a maizes apron while cooking the corn soup.",
+            "sent3": "The maizes decorations at the party added a festive touch.",
+            "sent4": "The maizes aroma of popcorn filled the movie theater.",
+            "sent5": "The maizes fields stretched as far as the eye could see, a golden landscape."
         }
     ]
 }

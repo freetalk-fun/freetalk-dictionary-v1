@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A division or separation",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The partitions in the classroom separate the students.",
+            "sent2": "The office has glass partitions to create privacy.",
+            "sent3": "The partitions at the party made it feel like a maze.",
+            "sent4": "Her emotions were like partitions, each one isolated from the other.",
+            "sent5": "The partitions in the beehive ensure each bee has its own space."
         },
         {
             "definition": "A structure dividing a space into separate areas",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The wooden partitions in the room create individual workspaces.",
+            "sent2": "The cubicles are office partitions that provide privacy.",
+            "sent3": "The partitions in the garden give each plant its own space to grow.",
+            "sent4": "The walls acted as partitions, separating the two rival groups.",
+            "sent5": "The partitions in the library help organize books by genre."
         },
         {
             "definition": "To divide or separate into parts",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She partitions her time between work and family.",
+            "sent2": "The chef partitions the ingredients before cooking.",
+            "sent3": "He partitions his closet to keep his clothes organized.",
+            "sent4": "The software can partition the hard drive into different sections.",
+            "sent5": "The artist partitions the canvas into distinct sections for each color."
         }
     ]
 }

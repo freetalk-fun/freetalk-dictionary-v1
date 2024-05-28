@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Mispled (verb): past tense of misplead, to plead incorrectly or falsely",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He mispled his case in court and lost the lawsuit.",
+            "sent2": "She mispled her defense, causing confusion among the jury.",
+            "sent3": "The lawyer accidentally mispled his argument, leading to a humorous misunderstanding.",
+            "sent4": "His mispled plea fell on deaf ears, failing to convince the judge.",
+            "sent5": "The defendant's mispled testimony sealed his fate in the trial."
         },
         {
             "definition": "Mispled (adjective): incorrectly spelled or written",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The mispled word on the sign made it hard to read.",
+            "sent2": "She received a mispled letter with many typos.",
+            "sent3": "The mispled note caused confusion among the students.",
+            "sent4": "His mispled name tag led to some embarrassing moments.",
+            "sent5": "The mispled document had to be rewritten for clarity."
         },
         {
             "definition": "Mispled (adverb): in a manner that is incorrectly or falsely pleaded",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "He mispled in court, causing a delay in the trial.",
+            "sent2": "She spoke mispled during the hearing, leading to a misunderstanding.",
+            "sent3": "The witness answered mispled, creating a comical situation.",
+            "sent4": "His testimony was mispled, casting doubt on his credibility.",
+            "sent5": "The lawyer argued mispled, weakening his case significantly."
         }
     ]
 }

@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A person who writes a novel, poem, essay, etc.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The author of the book was a young woman with a vivid imagination.",
+            "sent2": "The author signed copies of her latest novel at the bookstore.",
+            "sent3": "The author chuckled as she wrote a silly poem for her friend's birthday.",
+            "sent4": "The author's words painted a colorful picture in the reader's mind.",
+            "sent5": "The author's storytelling transported readers to a magical world."
         },
         {
             "definition": "To be the originator or creator of a written work.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She will author a new series of children's books next year.",
+            "sent2": "He authored a groundbreaking scientific paper that changed the field.",
+            "sent3": "The team decided to author a funny play for the school talent show.",
+            "sent4": "Her passion for storytelling authored a beautiful narrative of love and loss.",
+            "sent5": "The artist's brushstrokes authored a masterpiece on the canvas."
         }
     ]
 }

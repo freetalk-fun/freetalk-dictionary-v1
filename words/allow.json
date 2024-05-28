@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To give permission for something to happen or be done.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "My mom will allow me to go to the park with my friends.",
+            "sent2": "Please allow me to explain what happened.",
+            "sent3": "I will allow the cookies to cool before eating them.",
+            "sent4": "The teacher will allow extra time for the students to finish the test.",
+            "sent5": "The sign will allow cars to pass through the gate."
         },
         {
             "definition": "To admit or acknowledge something as valid.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I will allow that you were right about the answer.",
+            "sent2": "The judge will allow the evidence in court.",
+            "sent3": "I must allow that I made a mistake in my calculations.",
+            "sent4": "The scientist will allow the new theory to be considered.",
+            "sent5": "The company will allow the complaint to be investigated."
         },
         {
             "definition": "To enable someone to do something.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The new software will allow users to edit photos easily.",
+            "sent2": "Please allow me to help you with your bags.",
+            "sent3": "The key will allow you to open the door.",
+            "sent4": "The map will allow you to find your way around the city.",
+            "sent5": "The tool will allow you to fix the broken chair."
         }
     ]
 }

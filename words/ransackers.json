@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A person who searches through a place in a violent and disorderly way.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The ransackers left a mess in the house they searched.",
+            "sent2": "The police caught the ransackers red-handed in the act.",
+            "sent3": "The ransackers accidentally knocked over a vase while searching for valuables.",
+            "sent4": "The ransackers tore through the room like a whirlwind, leaving chaos in their wake.",
+            "sent5": "The image of the ransackers rummaging through the room stayed with me."
         },
         {
             "definition": "To search through a place in a violent and disorderly way.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The burglars ransacked the store looking for cash.",
+            "sent2": "The kids ransacked the kitchen for snacks before movie night.",
+            "sent3": "I ransacked my closet trying to find my favorite sweater.",
+            "sent4": "The storm ransacked the coastal town, leaving destruction in its path.",
+            "sent5": "The detective ransacked the suspect's apartment for evidence."
         }
     ]
 }

@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Lacking context or background information.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The story was confusing because it was contextless.",
+            "sent2": "The contextless photo left us wondering about the situation.",
+            "sent3": "The contextless joke fell flat without any setup.",
+            "sent4": "Her contextless response left everyone puzzled.",
+            "sent5": "The contextless painting seemed incomplete without any background details."
         },
         {
             "definition": "Without surrounding circumstances or conditions.",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "She spoke contextlessly, without considering the situation.",
+            "sent2": "He wandered aimlessly, moving contextlessly through the crowd.",
+            "sent3": "The cat meowed contextlessly, not realizing it was alone in the room.",
+            "sent4": "The wind blew contextlessly, carrying the leaves in all directions.",
+            "sent5": "The music played softly, filling the room contextlessly with its melody."
         }
     ]
 }

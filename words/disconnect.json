@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To sever or interrupt the connection of something",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I had to disconnect the old printer before installing the new one.",
+            "sent2": "When you finish charging your phone, remember to disconnect the charger.",
+            "sent3": "It was like a magic trick when I could disconnect the wires without touching them.",
+            "sent4": "The storm caused the power lines to disconnect, leaving the town in darkness.",
+            "sent5": "The detective had to disconnect the bomb to save the city."
         },
         {
             "definition": "To disengage or detach",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Please disconnect the hose from the faucet after watering the plants.",
+            "sent2": "It's important to disconnect the power source before repairing any electronic device.",
+            "sent3": "I had to disconnect the toy train cars to fit them back in the box.",
+            "sent4": "The astronaut had to disconnect from the space station before returning to Earth.",
+            "sent5": "The old bridge had to disconnect from the mainland due to safety concerns."
         },
         {
             "definition": "A lack of connection or communication between things or people",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "There was a disconnect between what he said and what he did.",
+            "sent2": "The disconnect between the two departments led to misunderstandings.",
+            "sent3": "The comedy skit highlighted the humorous disconnect between generations.",
+            "sent4": "The disconnect in the phone line caused the call to drop unexpectedly.",
+            "sent5": "The lack of internet connection created a disconnect in the virtual meeting."
         }
     ]
 }

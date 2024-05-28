@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A medicine or drug used to treat illness or promote health.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The physic helped the patient recover quickly.",
+            "sent2": "The doctor prescribed a physic to improve the patient's condition.",
+            "sent3": "The physic tasted terrible, but it made the patient feel better.",
+            "sent4": "Herbal teas can be like a natural physic for minor ailments.",
+            "sent5": "The ancient Greeks believed in the power of physic to heal the body."
         },
         {
             "definition": "The science of medicine or healing.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Studying physic involves learning about the human body and its functions.",
+            "sent2": "Modern physic has made great advancements in treating various diseases.",
+            "sent3": "The physic of today would seem like magic to people from the past.",
+            "sent4": "The physic of compassion can sometimes be more powerful than any medicine.",
+            "sent5": "The art of physic combines knowledge with empathy to heal patients."
         },
         {
             "definition": "To treat with medicine or drugs.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The doctor decided to physic the patient's symptoms with a new medication.",
+            "sent2": "She carefully physicked the wound to prevent infection.",
+            "sent3": "He tried to physic his cold with hot soup and rest.",
+            "sent4": "The pharmacist will physic the prescription according to the doctor's instructions.",
+            "sent5": "It is important to physic any illness promptly to avoid complications."
         }
     ]
 }

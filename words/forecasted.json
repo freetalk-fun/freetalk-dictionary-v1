@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Predicted or estimated in advance.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The weather forecasted for tomorrow is sunny.",
+            "sent2": "The forecasted temperature for next week is 80 degrees.",
+            "sent3": "She forecasted a picnic, but it rained all day!",
+            "sent4": "The forecasted traffic was a river of cars flowing smoothly.",
+            "sent5": "The forecasted exam results brought relief to the students."
         },
         {
             "definition": "A prediction or estimate of future events or conditions.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The meteorologist made a detailed forecasted for the week.",
+            "sent2": "I always check the weather forecasted before planning outdoor activities.",
+            "sent3": "The forecasted of winning the lottery seemed slim, but she still bought a ticket.",
+            "sent4": "His forecasted of market trends was surprisingly accurate.",
+            "sent5": "The economic forecasted painted a positive picture for the upcoming year."
         }
     ]
 }

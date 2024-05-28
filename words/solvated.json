@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To dissolve in a solvent.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She solvated the sugar in water to make a sweet solution.",
+            "sent2": "The salt solvated quickly in the warm water.",
+            "sent3": "The curious scientist solvated the mysterious powder in the lab.",
+            "sent4": "His words seemed to solvate her doubts, making everything clear.",
+            "sent5": "The magic potion solvated the problem, making it disappear completely."
         },
         {
             "definition": "Having been dissolved in a solvent.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The solvated sugar solution tasted delicious.",
+            "sent2": "The solvated particles formed a clear liquid.",
+            "sent3": "The solvated candy was a hit at the party.",
+            "sent4": "Her solvated jewelry sparkled in the sunlight.",
+            "sent5": "The solvated paint dried quickly on the canvas."
         }
     ]
 }

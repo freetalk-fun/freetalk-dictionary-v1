@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Something that is derived or obtained from a specific source.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The derivates of the recipe included flour and sugar.",
+            "sent2": "She studied the derivates of the ancient civilization.",
+            "sent3": "The derivates of the story were quite unexpected.",
+            "sent4": "His artwork was a beautiful derivate of nature.",
+            "sent5": "The derivates of the experiment were carefully analyzed."
         },
         {
             "definition": "A financial instrument whose value is based on the value of an underlying asset.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Investing in derivates can be risky.",
+            "sent2": "The company's portfolio included various derivates.",
+            "sent3": "The derivates market can be quite complex.",
+            "sent4": "His success was a direct derivate of his wise investments.",
+            "sent5": "Understanding derivates is crucial in the financial world."
         },
         {
             "definition": "To obtain or receive from a source.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She derivates inspiration from nature.",
+            "sent2": "He derivates his strength from his family.",
+            "sent3": "The team derivates motivation from their coach.",
+            "sent4": "The artist derivates creativity from everyday life.",
+            "sent5": "They derivates knowledge from books and experience."
         }
     ]
 }

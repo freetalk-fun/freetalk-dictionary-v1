@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A digit representing the sum of the correct digits in data, used to detect errors in data transmission.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The checksums helped identify errors in the data sent over the network.",
+            "sent2": "Make sure to include the checksums when sending important files online.",
+            "sent3": "The checksums and the data had a little dance to spot any mistakes.",
+            "sent4": "The checksums acted like detectives, uncovering any hidden errors in the transmission.",
+            "sent5": "The checksums were like little detectives searching for errors in the data transmission."
         },
         {
             "definition": "A value used to verify the integrity of data.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "She double-checked the checksums to ensure the data was intact.",
+            "sent2": "The system automatically generates checksums to maintain data integrity.",
+            "sent3": "The checksums and the data held hands to make sure nothing was missing.",
+            "sent4": "The checksums were like guardians protecting the data's integrity.",
+            "sent5": "The checksums were the gatekeepers of the data's integrity, allowing only the correct information to pass through."
         }
     ]
 }

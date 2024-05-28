@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A way or course taken in getting from a starting point to a destination.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The scenic route through the mountains was breathtaking.",
+            "sent2": "The GPS showed the fastest route to the airport.",
+            "sent3": "I accidentally took a detour and ended up on a longer route.",
+            "sent4": "Life's journey is like a winding route with unexpected turns.",
+            "sent5": "The ancient map revealed a hidden route to the treasure."
         },
         {
             "definition": "A fixed course or path for a journey.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The hiking route was well-marked with colorful signs.",
+            "sent2": "The delivery truck followed its designated route every day.",
+            "sent3": "The marathon route passed by famous landmarks, keeping the runners motivated.",
+            "sent4": "His career took an unconventional route, leading to great success.",
+            "sent5": "The migratory birds followed the same route every year without fail."
         },
         {
             "definition": "To send or direct along a specified course.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The dispatcher will route the package to the correct address.",
+            "sent2": "Please route all inquiries to the customer service department.",
+            "sent3": "The automated system will route your call to the next available agent.",
+            "sent4": "She decided to route the email through a secure server for added protection.",
+            "sent5": "The captain will route the ship around the storm to ensure safety."
         }
     ]
 }

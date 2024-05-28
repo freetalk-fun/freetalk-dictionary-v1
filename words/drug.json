@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A substance used in the diagnosis, treatment, or prevention of a disease or as a component of a medication.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The doctor prescribed a drug to help with my illness.",
+            "sent2": "She picked up her prescription drug from the pharmacy.",
+            "sent3": "The flu shot felt like a magic drug that kept sickness away.",
+            "sent4": "Laughter is the best drug for a bad mood.",
+            "sent5": "The bitter taste of the medicine made it clear it was a potent drug."
         },
         {
             "definition": "To administer a drug to (someone).",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The nurse will drug the patient before the surgery.",
+            "sent2": "He drugged his friend's drink without their knowledge.",
+            "sent3": "The magician's trick was to drug the audience with wonder.",
+            "sent4": "Her soothing voice seemed to drug him into a peaceful sleep.",
+            "sent5": "The criminal attempted to drug the detective to escape."
         }
     ]
 }

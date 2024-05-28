@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To encode incorrectly.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She always miscodes the passwords, causing login issues.",
+            "sent2": "Be careful not to miscodes the important information.",
+            "sent3": "The computer miscodes the message and turns it into gibberish.",
+            "sent4": "His attempt to fix the bug only caused the program to miscodes further.",
+            "sent5": "The student's mistake in the code miscodes the entire program, leading to errors."
         },
         {
             "definition": "Incorrectly encoded data.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The miscodes in the system led to data corruption.",
+            "sent2": "We need to fix the miscodes in the database.",
+            "sent3": "The miscodes on the document made it unreadable.",
+            "sent4": "The miscodes on the file made it impossible to access the information.",
+            "sent5": "The presence of miscodes in the software caused unexpected errors."
         },
         {
             "definition": "The act of encoding something incorrectly.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Detecting miscodes in the program is crucial for debugging.",
+            "sent2": "The team is investigating the source of the miscodes.",
+            "sent3": "The miscodes in the message turned it into a secret code.",
+            "sent4": "Her mind was a jumble of miscodes, making it hard to understand her thoughts.",
+            "sent5": "The artist's painting seemed to contain hidden miscodes, adding depth to the artwork."
         }
     ]
 }

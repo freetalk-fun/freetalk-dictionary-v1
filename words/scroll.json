@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A roll of parchment or paper for writing or painting on.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "She unrolled the ancient scroll carefully to read the hidden message.",
+            "sent2": "The artist used a long scroll to create a beautiful painting.",
+            "sent3": "The wizard's spell was written on a magical scroll that glowed in the dark.",
+            "sent4": "His life unfolded like a never-ending scroll, full of surprises and twists.",
+            "sent5": "The scroll contained the secret map to the hidden treasure."
         },
         {
             "definition": "To move text or graphics up or down on a computer screen.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "You can scroll down the webpage to see more content.",
+            "sent2": "To read the entire article, you need to scroll through the text.",
+            "sent3": "He scrolled through his social media feed for hours without realizing the time.",
+            "sent4": "Her eyes scrolled quickly over the document, searching for the important details.",
+            "sent5": "The teacher showed the students how to scroll through the online textbook."
         },
         {
             "definition": "To look through text or information quickly.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She scrolled through the document to find the relevant data.",
+            "sent2": "When researching, it's helpful to scroll through various sources.",
+            "sent3": "He scrolled through the menu, trying to decide what to order.",
+            "sent4": "The detective scrolled through the suspect's phone for clues.",
+            "sent5": "I like to scroll through reviews before deciding on a new book to read."
         }
     ]
 }

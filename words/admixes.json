@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To mix or blend together",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She admixes the colors to create a new shade.",
+            "sent2": "The chef admixes the ingredients to make a delicious soup.",
+            "sent3": "The artist admixes paint on the canvas, creating a masterpiece.",
+            "sent4": "His music admixes different genres, resulting in a unique sound.",
+            "sent5": "The potion admixes magical elements for a powerful effect."
         },
         {
             "definition": "A substance that is mixed or blended with another substance",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The admixes in the solution enhance its properties.",
+            "sent2": "The concrete contains various admixes for strength and durability.",
+            "sent3": "The cake recipe calls for special admixes to make it extra moist.",
+            "sent4": "The perfume includes exotic admixes for a captivating scent.",
+            "sent5": "The soil admixes provide essential nutrients for plant growth."
         }
     ]
 }

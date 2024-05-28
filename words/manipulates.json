@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Handle or control (a tool, mechanism, etc.) in a skillful manner.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She manipulates the paintbrush with precision.",
+            "sent2": "He manipulates the steering wheel smoothly while driving.",
+            "sent3": "The magician manipulates the cards to perform tricks.",
+            "sent4": "Like a puppeteer, she manipulates the strings effortlessly.",
+            "sent5": "He manipulates the puzzle pieces to fit perfectly together."
         },
         {
             "definition": "Control or influence (a person or situation) cleverly, unfairly, or unscrupulously.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The villain manipulates others for his own gain.",
+            "sent2": "She manipulates her friends into doing what she wants.",
+            "sent3": "The cat manipulates its owner into giving extra treats.",
+            "sent4": "The politician manipulates public opinion with false promises.",
+            "sent5": "He manipulates the situation to his advantage without anyone noticing."
         },
         {
             "definition": "Alter or present (data) so as to mislead.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The hacker manipulates the information to create confusion.",
+            "sent2": "They manipulate the statistics to show a false trend.",
+            "sent3": "The spy manipulates the evidence to frame someone else.",
+            "sent4": "The artist manipulates the colors to create optical illusions.",
+            "sent5": "He manipulates the images to distort reality for artistic effect."
         }
     ]
 }

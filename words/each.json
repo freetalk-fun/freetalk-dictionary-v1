@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Every one of two or more people or things considered separately.",
-            "pos": "pronoun"
+            "pos": "pronoun",
+            "sent1": "Each student received a book.",
+            "sent2": "The teacher gave each student a pencil.",
+            "sent3": "The classroom had a desk for each student.",
+            "sent4": "In the library, each book seemed to have a story to tell.",
+            "sent5": "The apples were placed in a row, each one perfectly ripe."
         },
         {
             "definition": "To or for each; for each one.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She will each out a cookie to everyone.",
+            "sent2": "Please each the candies evenly among the kids.",
+            "sent3": "The magician will each a card from his deck.",
+            "sent4": "The sun eaches its warm rays to every corner of the garden.",
+            "sent5": "The chef carefully eaches the ingredients into the mixing bowl."
         }
     ]
 }

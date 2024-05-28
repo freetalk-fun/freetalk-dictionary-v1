@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Moves upward using hands and feet.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The cat climbs the tree to catch a bird.",
+            "sent2": "She climbs the stairs to reach her room.",
+            "sent3": "The spider climbs the wall to avoid the vacuum cleaner.",
+            "sent4": "Hope climbs in her heart as she nears the mountain peak.",
+            "sent5": "The vine climbs the fence, reaching for the sunlight."
         },
         {
             "definition": "Increases gradually in amount or intensity.",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "The temperature climbs slowly throughout the day.",
+            "sent2": "Her excitement climbs as the concert approaches.",
+            "sent3": "Laughter climbs in the room as the joke spreads.",
+            "sent4": "The tension climbs like a mountain before the big game.",
+            "sent5": "Anticipation climbs in the air before the surprise announcement."
         }
     ]
 }

@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A line or sequence of people or vehicles waiting their turn.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The queue at the amusement park was very long.",
+            "sent2": "We stood in the queue to buy tickets for the movie.",
+            "sent3": "The queue for the ice cream truck made everyone excited.",
+            "sent4": "The queue of cars on the highway seemed never-ending.",
+            "sent5": "The queue outside the store wrapped around the corner."
         },
         {
             "definition": "To form or join a line or sequence.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Let's queue up for the bus before it gets too crowded.",
+            "sent2": "People started to queue outside the restaurant before it opened.",
+            "sent3": "I always queue behind the same person at the grocery store.",
+            "sent4": "The students began to queue orderly for the school assembly.",
+            "sent5": "We should queue early to get good seats at the concert."
         }
     ]
 }

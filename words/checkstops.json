@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A place where vehicles are stopped for inspection.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "At the checkstops, officers checked each car for safety.",
+            "sent2": "The police set up checkstops to ensure all drivers had valid licenses.",
+            "sent3": "The line at the checkstops moved slowly, making everyone late.",
+            "sent4": "The checkstops acted like gatekeepers, allowing only approved vehicles to pass.",
+            "sent5": "The bright lights of the checkstops illuminated the night, creating a sense of security."
         },
         {
             "definition": "A barrier or point at which progress or movement is halted.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The fallen tree served as a checkstops on the hiking trail.",
+            "sent2": "The negotiations hit a checkstops when neither side would compromise.",
+            "sent3": "The stubborn lock on the door acted like a checkstops, preventing entry.",
+            "sent4": "His fear of failure was a mental checkstops that held him back.",
+            "sent5": "The checkstops in the form of a red light made the traffic come to a standstill."
         },
         {
             "definition": "To stop or slow down the progress of something.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The workers had to checkstops the assembly line due to a malfunction.",
+            "sent2": "She tried to checkstops the spread of rumors, but it was challenging.",
+            "sent3": "The magician used his wand to checkstops time during the performance.",
+            "sent4": "The sudden rainstorm checkstops our picnic plans for the day.",
+            "sent5": "He had to checkstops his laughter during the serious meeting to avoid getting in trouble."
         }
     ]
 }

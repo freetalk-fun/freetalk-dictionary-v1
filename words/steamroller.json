@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A heavy vehicle with a roller used for compacting road surfaces.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The steamroller smoothed the road.",
+            "sent2": "The construction crew brought in a steamroller to flatten the new pavement.",
+            "sent3": "The steamroller beeped loudly as it rolled over the fresh asphalt.",
+            "sent4": "The steamroller moved slowly but surely, like a giant iron pin.",
+            "sent5": "The steamroller's massive roller pressed down on the ground, leaving a lasting mark."
         },
         {
             "definition": "To crush or flatten with a steamroller.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He decided to steamroller the cardboard boxes to make more space.",
+            "sent2": "The villain's plan was to steamroller the hero with brute force.",
+            "sent3": "She steamrollered her way through the pile of laundry, determined to finish quickly.",
+            "sent4": "The team steamrollered their opponents in the championship game.",
+            "sent5": "The chef used a heavy pan to steamroller the garlic cloves into a paste."
         },
         {
             "definition": "To proceed with overpowering force or speed.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The project manager steamrollered through the new proposal, eager to meet the deadline.",
+            "sent2": "The storm steamrollered across the plains, leaving destruction in its wake.",
+            "sent3": "The toddler steamrollered through the room, scattering toys everywhere.",
+            "sent4": "The candidate steamrollered the competition with a powerful campaign.",
+            "sent5": "The singer's voice steamrollered through the auditorium, captivating the audience."
         }
     ]
 }

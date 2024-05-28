@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A thin, flat piece of food cut from a larger portion.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I ate a delicious slice of pizza for lunch.",
+            "sent2": "She carefully placed a slice of cheese on the sandwich.",
+            "sent3": "The slice of cake winked at me from the dessert table.",
+            "sent4": "His words were like a sharp slice through the tension in the room.",
+            "sent5": "The sun cast a warm glow on the slice of bread on the plate."
         },
         {
             "definition": "To cut something into thin, flat pieces.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Mom asked me to slice the apples for the pie.",
+            "sent2": "He used a sharp knife to slice the loaf of bread.",
+            "sent3": "I accidentally sliced through the wrapping paper while wrapping the gift.",
+            "sent4": "The skilled chef can slice vegetables with great precision.",
+            "sent5": "The karate master can slice through a wooden board with ease."
         },
         {
             "definition": "A portion or share of something.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "She took a small slice of the profits from the business.",
+            "sent2": "Each person received a fair slice of the birthday cake.",
+            "sent3": "The cat claimed its slice of the sunny spot on the windowsill.",
+            "sent4": "His creativity added a unique slice to the team's project.",
+            "sent5": "The detective uncovered a crucial slice of evidence in the case."
         }
     ]
 }

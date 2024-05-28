@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A person or group of people who are charged with a crime or offense.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The accused stood silently in the courtroom.",
+            "sent2": "The accused were brought before the judge for questioning.",
+            "sent3": "The accused shared a nervous glance with their lawyer.",
+            "sent4": "The accused were like trapped birds in the legal system.",
+            "sent5": "The accused faces the harsh reality of the accusations."
         },
         {
             "definition": "To charge someone with an offense or crime.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The police accused the suspect of theft.",
+            "sent2": "She accused him of breaking the vase.",
+            "sent3": "The cat playfully accused the dog of stealing its toy.",
+            "sent4": "The storm clouds accused the sky of hiding the sun.",
+            "sent5": "The teacher accused the student of cheating on the test."
         }
     ]
 }

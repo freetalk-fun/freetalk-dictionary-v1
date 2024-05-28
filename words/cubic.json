@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Having the form of a cube",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The box was cubic in shape, with all sides equal.",
+            "sent2": "The cubic room had a table in the center.",
+            "sent3": "The cubic cake looked like a perfect little cube.",
+            "sent4": "Her cubic personality was straightforward and honest.",
+            "sent5": "The cubic building stood out among the rest with its unique design."
         },
         {
             "definition": "Measured by the volume of a cube",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The cubic measurement helped determine the space needed.",
+            "sent2": "The cubic weight of the object was surprisingly heavy.",
+            "sent3": "He joked that his cubic backpack was full of rocks.",
+            "sent4": "Her voice echoed in the cubic room, filling the space.",
+            "sent5": "The cubic dimensions of the pool made it perfect for swimming laps."
         },
         {
             "definition": "A unit of volume equal to a cube with edges that are each one unit long",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The recipe called for one cubic of water for the mixture.",
+            "sent2": "The cubic was used to measure the amount of sand needed.",
+            "sent3": "He carried a cubic of bricks to the construction site.",
+            "sent4": "The farmer calculated the field's area in cubic units.",
+            "sent5": "The cubic of soil filled the planter to the brim."
         }
     ]
 }

@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To scatter or spread in drops or small particles.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The paint splatters on the canvas.",
+            "sent2": "She accidentally splatters sauce on her shirt while cooking.",
+            "sent3": "The playful puppy splatters mud all over the floor.",
+            "sent4": "The rain splatters against the window, creating a soothing sound.",
+            "sent5": "The artist splatters colors on the wall, creating a beautiful mural."
         },
         {
             "definition": "A spot or mark made by splattering.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "There were red splatters of paint on the floor.",
+            "sent2": "She noticed splatters of ink on the paper.",
+            "sent3": "The chef's apron had tomato sauce splatters all over it.",
+            "sent4": "The crime scene investigator found blood splatters on the wall.",
+            "sent5": "The artist added gold splatters to the painting for a unique touch."
         }
     ]
 }

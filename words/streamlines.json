@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Make (an object or system) more efficient or straightforward by removing unnecessary elements or simplifying processes.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She streamlines her morning routine by preparing everything the night before.",
+            "sent2": "The company streamlines its production process to save time and resources.",
+            "sent3": "He joked that he needed to streamline his closet by getting rid of all the clothes he never wears.",
+            "sent4": "The new software streamlines the data entry process, making it faster and easier.",
+            "sent5": "Streamlining the paperwork will help us finish the project ahead of schedule."
         },
         {
             "definition": "A contour that represents a line of constant flow velocity in a fluid.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The engineer studied the streamlines in the wind tunnel to analyze airflow patterns.",
+            "sent2": "The artist painted beautiful streamlines to depict the fluid motion of the river.",
+            "sent3": "The streamlines in the experiment looked like colorful ribbons dancing in the wind.",
+            "sent4": "The streamlines of the river seemed to guide the boats effortlessly downstream.",
+            "sent5": "The streamlines in the water showed the smooth path of the current."
         }
     ]
 }

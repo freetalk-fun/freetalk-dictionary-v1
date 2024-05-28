@@ -3,23 +3,48 @@
     "meanings": [
         {
             "definition": "Moving fast or doing something in a short amount of time.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The rabbit was very quick and easily outran the turtle.",
+            "sent2": "She gave a quick response to the question.",
+            "sent3": "The quick squirrel gathered nuts faster than the others.",
+            "sent4": "His quick reflexes saved him from falling.",
+            "sent5": "The quick cheetah sprinted across the savannah."
         },
         {
             "definition": "Prompt to understand or learn.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He tried to quicken his pace in solving the math problem.",
+            "sent2": "The students quickly grasped the concept of addition.",
+            "sent3": "The teacher's explanation quickened the student's understanding.",
+            "sent4": "Her curiosity quickened her desire to explore new topics.",
+            "sent5": "Reading regularly can quicken your vocabulary growth."
         },
         {
             "definition": "Lively or energetic.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The children were quick and full of energy at the playground.",
+            "sent2": "The quick music got everyone dancing.",
+            "sent3": "The quick puppy bounced around the room excitedly.",
+            "sent4": "Her quick personality lit up the room.",
+            "sent5": "The quick pace of the game kept everyone engaged."
         },
         {
             "definition": "Sensitive or easily affected.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "She had a quick reaction to the loud noise.",
+            "sent2": "His quick feelings were hurt by the criticism.",
+            "sent3": "The quick plant withered under the harsh sunlight.",
+            "sent4": "The quick child was moved by the sad story.",
+            "sent5": "The quick artist was deeply affected by the critique."
         },
         {
             "definition": "Done without delay.",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "He completed the task quickly and efficiently.",
+            "sent2": "She responded quickly to the urgent message.",
+            "sent3": "The chef cooked the meal quickly to serve the hungry customers.",
+            "sent4": "The team finished the project quickly before the deadline.",
+            "sent5": "The firefighter acted quickly to put out the fire."
         }
     ]
 }

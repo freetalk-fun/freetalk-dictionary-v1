@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Used to introduce a statement that contrasts with or seems to contradict a previous statement.",
-            "pos": "conjunction"
+            "pos": "conjunction",
+            "sent1": "She wanted to go out, buts it started raining heavily.",
+            "sent2": "I like ice cream, buts I'm lactose intolerant.",
+            "sent3": "He said he was a great cook, buts his burnt toast proved otherwise.",
+            "sent4": "Her smile was warm, buts her eyes told a different story.",
+            "sent5": "The movie was funny, buts the ending was unexpectedly sad."
         },
         {
             "definition": "Except; apart from; other than.",
-            "pos": "preposition"
+            "pos": "preposition",
+            "sent1": "Everyone was invited to the party buts John.",
+            "sent2": "I like all fruits buts bananas.",
+            "sent3": "The store had all items on sale buts the new arrivals.",
+            "sent4": "The park was empty buts a few squirrels playing around.",
+            "sent5": "The room was quiet buts the ticking clock."
         },
         {
             "definition": "On the contrary; in contrast.",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "She thought he was angry, buts he was actually laughing.",
+            "sent2": "The day seemed dull, buts the sunset painted the sky in vibrant colors.",
+            "sent3": "He looked tired, buts he danced energetically all night.",
+            "sent4": "The room appeared small, buts the mirror made it seem larger.",
+            "sent5": "The book cover was plain, buts the story inside was captivating."
         }
     ]
 }

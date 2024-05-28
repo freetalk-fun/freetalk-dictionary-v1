@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A narrow country road or lane.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The children walked down the boreen to reach the farm.",
+            "sent2": "The boreen twisted through the fields, surrounded by tall grass.",
+            "sent3": "The cows decided to race each other down the boreen, causing a commotion.",
+            "sent4": "The boreen was a ribbon of solitude, winding its way through the countryside.",
+            "sent5": "The old oak tree stood at the entrance of the boreen, welcoming travelers."
         },
         {
             "definition": "To make a hole in something using a tool.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He used a drill to boreen a hole through the wooden plank.",
+            "sent2": "The carpenter boreened the wall to install a new shelf.",
+            "sent3": "The squirrel tried to boreen a hole in the bird feeder to steal seeds.",
+            "sent4": "The miner boreened through the rock to find precious gems.",
+            "sent5": "She carefully boreened a hole in the ice to go ice fishing."
         },
         {
             "definition": "To make someone feel bored or uninterested.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The long lecture boreened the students, making them yawn.",
+            "sent2": "The repetitive tasks boreened him, and he longed for something new.",
+            "sent3": "The magician's tricks boreened the audience, who started to doze off.",
+            "sent4": "The movie's slow pace boreened her, and she left the theater early.",
+            "sent5": "The book's dull plot boreened the readers, who struggled to finish it."
         }
     ]
 }

@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To publish or broadcast (a story or play) in regular installments.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I am serialising my novel on my blog, sharing a new chapter every week.",
+            "sent2": "The TV network is serialising the popular show, airing a new episode every night.",
+            "sent3": "The author joked that she was serialising her grocery shopping list, posting one item at a time.",
+            "sent4": "The radio host is serialising the news, breaking it down into hourly updates.",
+            "sent5": "She is serialising her travel adventures, recounting each day's events in detail."
         },
         {
             "definition": "To convert data into a series of bits for transmission.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The computer is serialising the file before sending it over the network.",
+            "sent2": "The modem is serialising the data to transmit it efficiently.",
+            "sent3": "The robot joked that it was serialising its thoughts before sharing them with the world.",
+            "sent4": "The satellite is serialising the images before sending them back to Earth.",
+            "sent5": "He is serialising the video, breaking it down into smaller chunks for easier streaming."
         }
     ]
 }

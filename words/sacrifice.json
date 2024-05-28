@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "An act of giving up something valued for the sake of something else regarded as more important or worthy.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Her sacrifice of dessert to help her friend showed her kindness.",
+            "sent2": "The soldier made a sacrifice by leaving his family to protect his country.",
+            "sent3": "The sacrifice of his favorite toy for a new one made his little brother very happy.",
+            "sent4": "The sacrifice of sleep for studying paid off with good grades.",
+            "sent5": "The sacrifice of time spent playing for time spent reading made her a better student."
         },
         {
             "definition": "To give up something for the sake of other considerations.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She had to sacrifice her free time to finish the project on time.",
+            "sent2": "He decided to sacrifice his vacation to help his colleagues with the workload.",
+            "sent3": "I will sacrifice my favorite TV show to go for a run instead.",
+            "sent4": "They sacrificed their comfort to support a friend in need.",
+            "sent5": "The team sacrificed their day off to prepare for the upcoming competition."
         },
         {
             "definition": "To offer or kill as a religious sacrifice.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "In ancient times, people would sacrifice animals to please the gods.",
+            "sent2": "The priest would sacrifice a lamb during the ceremony.",
+            "sent3": "He jokingly said he would sacrifice his alarm clock to never wake up early again.",
+            "sent4": "The coach asked the players to sacrifice their egos for the success of the team.",
+            "sent5": "The tradition was to sacrifice a portion of the harvest to ensure a good yield next season."
         }
     ]
 }

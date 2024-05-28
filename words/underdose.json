@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A dose of medication that is below the recommended amount.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "She accidentally took an underdose of her medicine.",
+            "sent2": "The doctor prescribed a higher dose to prevent an underdose.",
+            "sent3": "The underdose made her feel like she was missing something important.",
+            "sent4": "Compared to the proper dose, the underdose was like a drop in the ocean.",
+            "sent5": "The underdose left her symptoms unresolved and her health at risk."
         },
         {
             "definition": "To administer a dose of medication that is insufficient for the desired effect.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He accidentally underdosed the patient, causing a delay in recovery.",
+            "sent2": "Be careful not to underdose the medication, as it may not work effectively.",
+            "sent3": "The nurse underdosed the medicine, leading to a comical mix-up.",
+            "sent4": "Underdosing the treatment felt like trying to start a car with an empty tank.",
+            "sent5": "The consequences of underdosing can be severe, so always follow the instructions carefully."
         }
     ]
 }

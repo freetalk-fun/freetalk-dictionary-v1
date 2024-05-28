@@ -3,19 +3,39 @@
     "meanings": [
         {
             "definition": "Claimed falsely",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She pretended to be sick to skip school.",
+            "sent2": "He pretended to like the gift, but he actually didn't.",
+            "sent3": "The cat pretended to be invisible by hiding behind the curtain.",
+            "sent4": "The actor pretended to be a king on stage, commanding his subjects.",
+            "sent5": "The child pretended to be a superhero, saving the day with imaginary powers."
         },
         {
             "definition": "Made believe",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The children pretended to be pirates on their adventure.",
+            "sent2": "She pretended to be a princess in her fairy tale game.",
+            "sent3": "The dog pretended to be a detective, sniffing around for clues.",
+            "sent4": "The students pretended to be astronauts, exploring the unknown universe.",
+            "sent5": "He pretended to be a wizard, casting spells with a makeshift wand."
         },
         {
             "definition": "Faked",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The pretended smile didn't fool anyone; it looked forced.",
+            "sent2": "She wore a pretended expression of surprise when she already knew the secret.",
+            "sent3": "The pretended enthusiasm for the project was evident in his lackluster participation.",
+            "sent4": "His pretended confidence masked his nervousness during the presentation.",
+            "sent5": "The pretended interest in the conversation was betrayed by his wandering gaze."
         },
         {
             "definition": "Feigned",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "Her feigned innocence couldn't hide the mischief in her eyes.",
+            "sent2": "He put on a feigned look of shock when he saw the prank they played on him.",
+            "sent3": "The feigned politeness of the guest was thinly veiled by their rude comments.",
+            "sent4": "His feigned bravery crumbled when faced with the dark, eerie forest.",
+            "sent5": "The feigned nonchalance in her tone belied the excitement she felt inside."
         }
     ]
 }

@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A person or thing that interrupts.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "During the meeting, the loud interruptors made it hard to focus.",
+            "sent2": "Please don't be an interruptor while someone is speaking.",
+            "sent3": "The playful interruptor kept popping up in the middle of the conversation.",
+            "sent4": "Her laughter was like an interruptor in the serious discussion.",
+            "sent5": "The barking dog acted as an interruptor to their peaceful walk."
         },
         {
             "definition": "A device that stops the flow of electricity in a circuit.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The safety interruptors in the house prevent electrical accidents.",
+            "sent2": "Make sure to check the interruptor if the power goes out.",
+            "sent3": "The faulty interruptor caused the lights to flicker unexpectedly.",
+            "sent4": "The interruptor acted like a gatekeeper for the electrical current.",
+            "sent5": "He quickly pressed the interruptor to cut off the power to the faulty appliance."
         },
         {
             "definition": "A mechanism that temporarily suspends a program or operation.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The software has built-in interruptors to handle unexpected errors.",
+            "sent2": "Press the interruptor if you need to pause the printing process.",
+            "sent3": "The interruptor button is like a pause button for the machine.",
+            "sent4": "The interruptor function allows for smooth transitions between tasks.",
+            "sent5": "She used the interruptor to halt the program before making changes."
         }
     ]
 }

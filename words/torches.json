@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A portable light source typically consisting of a stick with a burning end.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "During the power outage, we used torches to light up the room.",
+            "sent2": "The explorers carried torches to illuminate the dark cave.",
+            "sent3": "The raccoon mistook the torches for giant fireflies and tried to catch them.",
+            "sent4": "Her smile lit up the room like a torch in the night.",
+            "sent5": "The torches flickered in the wind, casting eerie shadows on the walls."
         },
         {
             "definition": "To set fire to or burn with a torch.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He carefully torched the edges of the paper to give it an aged look.",
+            "sent2": "The firefighters torched the dry grass to prevent the spread of the wildfire.",
+            "sent3": "She accidentally torched her hair while trying to light the candles.",
+            "sent4": "His anger torched through his calm demeanor, surprising everyone.",
+            "sent5": "The sun torched the desert, making the sand scorching hot."
         }
     ]
 }

@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A newspaper article that expresses the opinions of a writer",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I read an oped about climate change in the newspaper.",
+            "sent2": "The oped in today's paper discussed the upcoming election.",
+            "sent3": "The oped on fashion trends made me chuckle.",
+            "sent4": "Her oped on social issues was a breath of fresh air.",
+            "sent5": "The oped on healthy eating habits was informative."
         },
         {
             "definition": "To write an op-ed piece",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She opeds regularly for the local magazine.",
+            "sent2": "I oped about the importance of community involvement.",
+            "sent3": "He opeds with passion and conviction.",
+            "sent4": "They oped eloquently on the need for change.",
+            "sent5": "We oped together on the topic of education reform."
         }
     ]
 }

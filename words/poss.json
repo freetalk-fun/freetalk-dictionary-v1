@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Possess: to have as belonging to one; own",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She posses a beautiful garden.",
+            "sent2": "I poss my favorite book.",
+            "sent3": "He posses the ability to make people smile.",
+            "sent4": "The artist posses a unique talent for capturing emotions.",
+            "sent5": "The old man posses a vast collection of antique coins."
         },
         {
             "definition": "Possible: capable of happening or being true",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "It is poss to finish the puzzle in one hour.",
+            "sent2": "The plan is poss if we work together.",
+            "sent3": "The idea of flying without wings seems quite poss.",
+            "sent4": "Winning the lottery is a poss dream for many.",
+            "sent5": "The experiment's success is still a poss outcome."
         },
         {
             "definition": "Possibility: a chance that something may happen or be true",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "There is a poss of rain later today.",
+            "sent2": "The team discussed the different possibilities for the project.",
+            "sent3": "The sudden appearance of a unicorn is a fun poss.",
+            "sent4": "In the world of magic, anything is a poss.",
+            "sent5": "Exploring the unknown brings endless possibilities to light."
         }
     ]
 }

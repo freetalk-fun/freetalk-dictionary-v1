@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Having a pH greater than 7",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The soap was alkaline and felt slippery on my hands.",
+            "sent2": "The soil in the garden is alkaline, making it suitable for growing certain plants.",
+            "sent3": "The alkaline solution bubbled like a fizzy drink when mixed with vinegar.",
+            "sent4": "Her laughter was as alkaline as a burst of joy in the room.",
+            "sent5": "The alkaline taste of the water reminded me of the ocean's saltiness."
         },
         {
             "definition": "A substance with a pH greater than 7",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The scientist added the alkaline to the solution to neutralize the acidity.",
+            "sent2": "The cleaner contains an alkaline that helps break down tough stains.",
+            "sent3": "The alkaline spilled on the floor, creating a slippery mess.",
+            "sent4": "His words were like an alkaline, bringing a sense of calm to the situation.",
+            "sent5": "The alkaline in the battery kept the flashlight shining brightly."
         },
         {
             "definition": "A compound that releases hydroxide ions when dissolved in water",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The student mixed the alkaline with an acid to observe the reaction.",
+            "sent2": "The alkaline is commonly used in laboratory experiments for its properties.",
+            "sent3": "The chef accidentally added too much alkaline to the recipe, resulting in a bitter taste.",
+            "sent4": "Her smile was an alkaline, bringing warmth to everyone around her.",
+            "sent5": "The alkaline in the solution turned the litmus paper blue, indicating its basic nature."
         }
     ]
 }

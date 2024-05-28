@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A substance dissolved in a solvent to form a solution.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The sugar in the water is the solute.",
+            "sent2": "Salt is a common solute in water.",
+            "sent3": "The solute in the lemonade made it too sweet.",
+            "sent4": "Her kindness dissolved in the room like a solute in water.",
+            "sent5": "The solute, like a secret ingredient, transformed the dish into a masterpiece."
         },
         {
             "definition": "To dissolve in a solvent.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I will solute the sugar in the tea.",
+            "sent2": "She solutes the powder in the liquid.",
+            "sent3": "He tried to solute his worries in the music.",
+            "sent4": "The love in her heart solutes into every action she takes.",
+            "sent5": "The colors solute into a beautiful painting on the canvas."
         }
     ]
 }

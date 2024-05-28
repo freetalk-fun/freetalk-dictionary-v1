@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To fail to function properly",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The old clock kept malfunctioning and showing the wrong time.",
+            "sent2": "The robot malfunctioning during the experiment caused a delay.",
+            "sent3": "The toaster started malfunctioning and began shooting out burnt toast.",
+            "sent4": "Her brain felt like it was malfunctioning after studying for hours.",
+            "sent5": "The car's engine sounded like it was malfunctioning, sputtering and shaking."
         },
         {
             "definition": "Not working correctly or as expected",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The malfunctioning printer caused a lot of frustration in the office.",
+            "sent2": "The malfunctioning air conditioner made the room uncomfortably warm.",
+            "sent3": "The malfunctioning elevator decided to stop on every floor for no reason.",
+            "sent4": "His malfunctioning phone kept dropping calls at the worst times.",
+            "sent5": "The malfunctioning streetlight flickered on and off, casting eerie shadows."
         }
     ]
 }

@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A compound containing the anion Cl-",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The scientist studied the properties of the muriate in the lab.",
+            "sent2": "The muriate dissolved easily in water due to its chemical composition.",
+            "sent3": "The curious cat accidentally knocked over the jar of muriate, creating a small mess.",
+            "sent4": "The muriate acted like a silent observer in the chemical reaction, influencing the outcome.",
+            "sent5": "The bright yellow color of the muriate made it stand out among the other compounds."
         },
         {
             "definition": "To treat or combine with muriatic acid",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The mechanic needed to muriate the metal to prevent rusting.",
+            "sent2": "She decided to muriate the fabric to achieve a unique dye pattern.",
+            "sent3": "The chef accidentally muriated the wrong ingredient, resulting in a strange taste.",
+            "sent4": "His words seemed to muriate the atmosphere, making everyone uncomfortable.",
+            "sent5": "The artist's brush seemed to muriate the canvas, creating a beautiful masterpiece."
         },
         {
             "definition": "A salt or ester of muriatic acid",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The doctor prescribed a muriate to help with the patient's condition.",
+            "sent2": "The muriate was added to the solution to enhance its effectiveness.",
+            "sent3": "The mischievous student swapped the labels on the muriate and sugar containers.",
+            "sent4": "The muriate seemed to dance gracefully as it dissolved in the liquid.",
+            "sent5": "The strong smell of the muriate filled the room, making it hard to breathe."
         }
     ]
 }

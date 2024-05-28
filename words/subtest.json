@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A test that is part of a larger test.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "During the math subtest, students answered questions about fractions.",
+            "sent2": "The reading subtest was challenging for some students.",
+            "sent3": "The science subtest decided who would be the champion of the test-taking competition.",
+            "sent4": "Her performance on the history subtest was a key piece of the puzzle in determining her overall grade.",
+            "sent5": "The subtest on vocabulary included questions about synonyms and antonyms."
         },
         {
             "definition": "To administer a subtest.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The teacher will subtest the students on their spelling abilities tomorrow.",
+            "sent2": "She subtests each student individually to assess their understanding of the material.",
+            "sent3": "The principal subtested the entire class to measure their progress throughout the semester.",
+            "sent4": "The researcher subtested the participants to gather data for the study.",
+            "sent5": "He subtests regularly to ensure accurate evaluation of student performance."
         },
         {
             "definition": "The results of a subtest.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The subtest scores indicated areas where students needed additional support.",
+            "sent2": "Her subtest results showed improvement compared to the previous assessment.",
+            "sent3": "The class eagerly awaited the subtest outcomes to see how they had performed.",
+            "sent4": "The subtest data provided valuable insights into student learning patterns.",
+            "sent5": "His subtest grades were higher than expected, surprising both him and his teacher."
         }
     ]
 }

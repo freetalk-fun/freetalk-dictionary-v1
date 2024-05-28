@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "In a manner that is determined by or based on a parameter.",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "She adjusted the settings parametrically to achieve the desired result.",
+            "sent2": "The software calculates values parametrically based on user inputs.",
+            "sent3": "The robot danced parametrically to the music, following the beat perfectly.",
+            "sent4": "Her creativity flowed parametrically, adapting to the changing environment effortlessly.",
+            "sent5": "The car moved parametrically, smoothly navigating through the winding roads."
         },
         {
             "definition": "With respect to or in relation to a parameter.",
-            "pos": "preposition"
+            "pos": "preposition",
+            "sent1": "The experiment was conducted parametrically, ensuring accuracy in the results.",
+            "sent2": "The analysis was done parametrically, taking into account all relevant factors.",
+            "sent3": "He organized his schedule parametrically, aligning each task with specific goals.",
+            "sent4": "The team worked parametrically, adjusting their strategy based on new information.",
+            "sent5": "The decision was made parametrically, considering both short-term and long-term effects."
         }
     ]
 }

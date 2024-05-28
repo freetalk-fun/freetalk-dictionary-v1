@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A person or thing that controls or regulates.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The traffic controller directed the cars to stop and go.",
+            "sent2": "The TV remote is a controller that changes channels.",
+            "sent3": "The thermostat acted as a controller, deciding when to turn on the heater.",
+            "sent4": "She was like a puppet controller, pulling the strings behind the scenes.",
+            "sent5": "The teacher was the classroom controller, maintaining order and discipline."
         },
         {
             "definition": "An electronic device used to operate or manage a system.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The game controller helped the player move the character on the screen.",
+            "sent2": "The air conditioner controller adjusts the temperature in the room.",
+            "sent3": "The TV remote controller seemed to have a mind of its own, changing channels randomly.",
+            "sent4": "The drone controller felt like a magic wand, guiding the flying device effortlessly.",
+            "sent5": "The music player controller allowed the user to skip songs and adjust the volume."
         },
         {
             "definition": "A person in charge of financial matters.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The financial controller managed the company's budget and expenses.",
+            "sent2": "The bank controller oversaw the transactions and accounts.",
+            "sent3": "The piggy bank was the little girl's personal controller of savings.",
+            "sent4": "She was the family's financial controller, ensuring bills were paid on time.",
+            "sent5": "The accountant acted as the financial controller, keeping track of income and expenses."
         }
     ]
 }

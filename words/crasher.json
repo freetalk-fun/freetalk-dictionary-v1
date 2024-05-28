@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A person or thing that crashes.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The car crasher caused a big accident on the highway.",
+            "sent2": "The tree fell down with a loud crasher.",
+            "sent3": "The clumsy crasher knocked over the vase at the museum.",
+            "sent4": "The storm was a relentless crasher, destroying everything in its path.",
+            "sent5": "The thunder sounded like a giant crasher in the sky."
         },
         {
             "definition": "A person who attends a party or social gathering without an invitation.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The party crasher showed up uninvited and started dancing.",
+            "sent2": "She was known as the neighborhood crasher, always joining events without notice.",
+            "sent3": "The crasher accidentally ate all the snacks at the party thinking they were for everyone.",
+            "sent4": "Her sudden arrival was like a crasher disrupting the peaceful gathering.",
+            "sent5": "The crasher's presence made the host uncomfortable throughout the evening."
         },
         {
             "definition": "A computer program that causes a computer system to crash.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The virus acted as a silent crasher, corrupting the computer's files.",
+            "sent2": "The crasher program shut down the entire network unexpectedly.",
+            "sent3": "The crasher software made the computer freeze at the worst possible moment.",
+            "sent4": "The crasher code was like a digital wrecking ball inside the system.",
+            "sent5": "The crasher malware spread quickly, causing chaos in the office."
         }
     ]
 }

@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A code consisting of letters and/or numbers assigned to a specific address for mail delivery.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I always include the postcodes when sending letters to my friends.",
+            "sent2": "The postcodes help the postal workers deliver mail to the correct houses.",
+            "sent3": "My cat thinks the postcodes are secret messages just for her.",
+            "sent4": "The postcodes act like tiny guides leading the mail to its destination.",
+            "sent5": "Remembering the postcodes is like solving a fun puzzle every time I mail something."
         },
         {
             "definition": "To assign a postcode to a specific location for mail sorting and delivery.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I need to postcode all the packages before they can be sent out.",
+            "sent2": "The post office will postcode the new neighborhood soon.",
+            "sent3": "I wonder if I can postcode my way to faster mail delivery.",
+            "sent4": "She postcodes with such precision that no mail ever gets lost.",
+            "sent5": "Postcoding the letters feels like giving them a special ticket to their destination."
         }
     ]
 }

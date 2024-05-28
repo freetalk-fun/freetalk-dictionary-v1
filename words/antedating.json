@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To precede in time",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The sunrise antedating the sunset was a beautiful sight.",
+            "sent2": "In history, the invention of the wheel antedated the discovery of fire.",
+            "sent3": "The rabbit tried antedating the tortoise in the race, but it didn't work out well.",
+            "sent4": "Her laughter always seemed to antedate any sadness in the room.",
+            "sent5": "The teacher's explanation helped the students understand how the concept of fractions antedates decimals."
         },
         {
             "definition": "To date earlier than",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The letter was antedated to show it was sent before the deadline.",
+            "sent2": "The artifacts found in the cave antedate any known civilization in the region.",
+            "sent3": "The detective suspected foul play when he found the antedated signature on the will.",
+            "sent4": "Her wisdom seemed to antedate her years, making her advice highly valued.",
+            "sent5": "The ancient ruins antedate the written records, leaving historians to speculate about their origins."
         },
         {
             "definition": "Antedated: dated before the actual date",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The antedated documents were discovered during the audit.",
+            "sent2": "The antedated ticket caused confusion at the entrance to the event.",
+            "sent3": "The antedated newspaper headline predicted an event that hadn't occurred yet.",
+            "sent4": "His antedated membership card granted him access to exclusive events.",
+            "sent5": "The antedated signature on the painting raised questions about its authenticity."
         }
     ]
 }

@@ -3,19 +3,39 @@
     "meanings": [
         {
             "definition": "To regain possession or control of something lost or stolen.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She recovered her stolen bike from the police station.",
+            "sent2": "After losing his wallet, he recovered it from the lost and found.",
+            "sent3": "The detective recovered the missing painting from the thief's hideout.",
+            "sent4": "With determination, she recovered her stolen identity and restored her credit.",
+            "sent5": "The explorer recovered the ancient artifact from the depths of the ocean."
         },
         {
             "definition": "To return to a normal state of health, mind, or strength.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "After being sick, she recovered quickly and returned to work.",
+            "sent2": "He recovered from the flu and felt much better.",
+            "sent3": "The superhero recovered from the villain's attack and saved the city.",
+            "sent4": "The athlete recovered from the injury and won the championship.",
+            "sent5": "With rest and care, the patient recovered from the surgery and left the hospital."
         },
         {
             "definition": "To retrieve or save data that was lost or damaged.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He recovered the important files from the corrupted hard drive.",
+            "sent2": "The IT specialist recovered the lost emails from the backup server.",
+            "sent3": "The student recovered the unsaved document after the computer crash.",
+            "sent4": "Using specialized software, she recovered the deleted photos from her camera.",
+            "sent5": "The technician recovered the lost data from the crashed system just in time."
         },
         {
             "definition": "To find or rediscover something that was lost or hidden.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She recovered the long-lost treasure buried in the backyard.",
+            "sent2": "The archaeologist recovered the ancient artifacts from the ruins.",
+            "sent3": "The hiker recovered the lost trail after consulting the map.",
+            "sent4": "After hours of searching, they recovered the missing keys under the couch.",
+            "sent5": "The historian recovered the forgotten manuscript from the dusty archives."
         }
     ]
 }

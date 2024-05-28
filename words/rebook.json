@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To book again",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I need to rebook my flight for next week.",
+            "sent2": "She decided to rebook her hotel room for the following weekend.",
+            "sent3": "After missing the train, he had to rebook his ticket and wait for the next one.",
+            "sent4": "The author had to rebook his signing event due to unexpected circumstances.",
+            "sent5": "Don't forget to rebook your appointment if you can't make it on time."
         },
         {
             "definition": "To make a new booking",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "They had to rebook their table at the restaurant for a later time.",
+            "sent2": "The travel agent helped them rebook their vacation package.",
+            "sent3": "The couple had to rebook their honeymoon trip due to a sudden change in plans.",
+            "sent4": "She had to rebook her car rental after extending her stay.",
+            "sent5": "Remember to rebook your hotel room if you decide to stay longer."
         },
         {
             "definition": "A new booking made after a previous one was canceled",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The airline offered a rebook for all passengers affected by the cancellation.",
+            "sent2": "He received a rebook for the concert after the initial show was called off.",
+            "sent3": "The hotel provided a rebook for the guests inconvenienced by the plumbing issue.",
+            "sent4": "She requested a rebook for the workshop when the first session was rescheduled.",
+            "sent5": "The rebook for the cruise was a pleasant surprise after the storm disrupted the original trip."
         }
     ]
 }

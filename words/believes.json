@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Accepts as true or real",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She believes in magic.",
+            "sent2": "He believes the story is true.",
+            "sent3": "The cat believes the toy mouse is alive.",
+            "sent4": "His heart believes in love.",
+            "sent5": "The child believes in Santa Claus."
         },
         {
             "definition": "Holds as an opinion or conviction",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I believe that ice cream is delicious.",
+            "sent2": "She believes he is innocent.",
+            "sent3": "The dog believes the mailman is a friend.",
+            "sent4": "His mind believes in justice.",
+            "sent5": "The student believes in hard work."
         },
         {
             "definition": "Has faith or confidence in",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He believes in his abilities.",
+            "sent2": "She believes in the power of positivity.",
+            "sent3": "The tree believes in the strength of its roots.",
+            "sent4": "His spirit believes in perseverance.",
+            "sent5": "The team believes in each other."
         }
     ]
 }

@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A person or entity that receives a bill or note for payment.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The billetee carefully checked the bill before making the payment.",
+            "sent2": "The company sent the bill to the billetee for processing.",
+            "sent3": "The billetee joked that they were the 'bill master' of the office.",
+            "sent4": "As the billetee of the group, she was responsible for handling all the invoices.",
+            "sent5": "The billetee's desk was always covered in payment reminders."
         },
         {
             "definition": "To issue or provide a bill or note for payment.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The accountant will billetee the invoices at the end of the month.",
+            "sent2": "Please billetee the bill for the services rendered last week.",
+            "sent3": "The small business owner billeteed the customers with a smile.",
+            "sent4": "She billeteed the clients promptly to ensure timely payments.",
+            "sent5": "The treasurer billeteed the members for their annual dues."
         }
     ]
 }

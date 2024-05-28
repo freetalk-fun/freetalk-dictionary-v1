@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A race or competition in which team members take turns participating.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "During the relay, each runner passed the baton to the next teammate.",
+            "sent2": "The school organized a relay race for the students to participate in.",
+            "sent3": "In the relay, the turtle surprisingly outran the hare!",
+            "sent4": "The relay was like a well-oiled machine, with each member seamlessly passing the baton.",
+            "sent5": "The relay race was so exciting that the audience cheered loudly for their favorite team."
         },
         {
             "definition": "To pass along or transfer information or a message.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Can you relay the message to your friend for me?",
+            "sent2": "I will relay the instructions to the rest of the team.",
+            "sent3": "The parrot tried to relay the secret but got distracted by a shiny object.",
+            "sent4": "She relayed the news to her family, causing a wave of excitement.",
+            "sent5": "The phone line was clear, allowing her to relay the information quickly."
         },
         {
             "definition": "A device used to control the flow of electricity in a circuit.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The engineer installed a new relay in the electrical system.",
+            "sent2": "Make sure to check the relay to ensure the circuit functions properly.",
+            "sent3": "The mischievous squirrel mistook the relay for a nut and tried to bury it.",
+            "sent4": "The relay acted as a gatekeeper, regulating the electricity flow efficiently.",
+            "sent5": "Without the relay, the circuit would be unable to manage the power distribution."
         }
     ]
 }

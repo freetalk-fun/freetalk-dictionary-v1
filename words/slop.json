@@ -3,19 +3,39 @@
     "meanings": [
         {
             "definition": "Food or liquid that is spilled or splashed",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The dog licked up the slop from the floor.",
+            "sent2": "Be careful not to make a mess with the slop on the table.",
+            "sent3": "The toddler thought it was fun to play with the slop on his plate.",
+            "sent4": "The slop of colors on the artist's palette blended beautifully.",
+            "sent5": "The slop of soup looked unappetizing but tasted delicious."
         },
         {
             "definition": "To spill or splash liquid or food",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She accidentally slopped water on the counter.",
+            "sent2": "Please don't slop your drink while walking.",
+            "sent3": "The chef slopped sauce everywhere, creating a messy kitchen.",
+            "sent4": "The rain slopped over the sides of the gutter.",
+            "sent5": "The waves slopped against the boat, causing it to rock gently."
         },
         {
             "definition": "A watery or liquid mixture of food for animals",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The pigs eagerly devoured the slop in their trough.",
+            "sent2": "The farmer prepared a fresh batch of slop for the livestock.",
+            "sent3": "The ducks quacked happily as they ate their slop.",
+            "sent4": "The zookeeper carried buckets of slop to the animal enclosures.",
+            "sent5": "The aroma of the slop attracted all the hungry animals."
         },
         {
             "definition": "To feed animals with a watery or liquid mixture of food",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The farmer slops the pigs every morning.",
+            "sent2": "She enjoys slopping the chickens in the evening.",
+            "sent3": "The zookeeper slops the animals with care and precision.",
+            "sent4": "He slops the horses before dawn breaks.",
+            "sent5": "Slopping the cows is a daily chore on the farm."
         }
     ]
 }

@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To stop something from happening",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Wearing a helmet prevents head injuries during biking.",
+            "sent2": "Locking the door prevents burglars from entering the house.",
+            "sent3": "The superhero's cape prevents any harm from reaching him.",
+            "sent4": "A good night's sleep prevents a foggy mind in the morning.",
+            "sent5": "Regular exercise prevents illnesses and keeps you healthy."
         },
         {
             "definition": "To keep something from occurring",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Eating healthy prevents diseases from developing.",
+            "sent2": "Studying diligently prevents failing exams.",
+            "sent3": "The scarecrow prevents birds from eating the crops, but they still chat with him.",
+            "sent4": "Kindness prevents conflicts and fosters harmony.",
+            "sent5": "Wearing sunscreen prevents sunburn and skin damage."
         },
         {
             "definition": "To hinder or obstruct something from taking place",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Heavy traffic prevents us from reaching the destination on time.",
+            "sent2": "A broken umbrella prevents it from protecting you in the rain.",
+            "sent3": "The tangled wires prevent the vacuum cleaner from moving freely.",
+            "sent4": "A language barrier prevents effective communication between people.",
+            "sent5": "A closed gate prevents unauthorized entry into the property."
         }
     ]
 }

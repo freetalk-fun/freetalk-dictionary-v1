@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Technicians",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The techs fixed the computer quickly.",
+            "sent2": "The techs at the repair shop are very skilled.",
+            "sent3": "The techs had a race to see who could repair the most devices in an hour.",
+            "sent4": "The techs were like wizards, magically solving all the technical issues.",
+            "sent5": "The techs were the heroes of the office, always saving the day with their expertise."
         },
         {
             "definition": "Technical",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "She struggled with the technical jargon used by the techs.",
+            "sent2": "The manual provided detailed technical instructions for the equipment.",
+            "sent3": "The technical challenge of fixing the machine seemed daunting at first.",
+            "sent4": "His mind worked in a technical way, breaking down problems into logical steps.",
+            "sent5": "The technical aspects of the project required careful attention to detail."
         },
         {
             "definition": "Technology",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The rapid advancement of technology has changed our lives.",
+            "sent2": "Students are eager to learn about the latest technology trends.",
+            "sent3": "The technology in science fiction movies always seems so futuristic.",
+            "sent4": "She embraced technology and used it to simplify her daily tasks.",
+            "sent5": "The technology expo showcased cutting-edge innovations in the industry."
         }
     ]
 }

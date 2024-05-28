@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Making something previously unknown or secret known",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She was revealing the surprise party to her best friend.",
+            "sent2": "The detective was revealing the truth about the case.",
+            "sent3": "The magician's revealing of the trick left the audience amazed.",
+            "sent4": "The sunrise revealing the beauty of the landscape.",
+            "sent5": "The teacher's revealing of the answer helped the students understand."
         },
         {
             "definition": "Showing or indicating something",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "Her revealing dress caught everyone's attention at the party.",
+            "sent2": "The map had revealing details about the hidden treasure.",
+            "sent3": "The revealing smile on his face showed his excitement.",
+            "sent4": "The revealing clues led the detective to the suspect.",
+            "sent5": "The revealing look in her eyes told him she was happy."
         },
         {
             "definition": "Allowing something to be seen that was previously hidden",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The clouds parted, revealing a clear blue sky.",
+            "sent2": "The artist's brushstrokes were revealing of his emotions.",
+            "sent3": "The revealing sunlight illuminated the dark room.",
+            "sent4": "The key was revealing, unlocking the mystery of the old chest.",
+            "sent5": "The revealing photo captured a moment of pure joy."
         }
     ]
 }

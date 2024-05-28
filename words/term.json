@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A word or phrase used to describe or identify something.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The teacher explained the new scientific term to the students.",
+            "sent2": "I couldn't understand the term the doctor used to explain the illness.",
+            "sent3": "The term 'giant baby' made everyone laugh during the comedy show.",
+            "sent4": "Her smile was a term of happiness that brightened up the room.",
+            "sent5": "The term 'flying carpet' painted a vivid picture in my mind."
         },
         {
             "definition": "A fixed or limited period of time during which something occurs.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The school year is divided into terms with breaks in between.",
+            "sent2": "She will be studying abroad for a term to learn a new language.",
+            "sent3": "During the term of the play, the actors delivered a stellar performance.",
+            "sent4": "The term of the storm brought heavy rain and strong winds.",
+            "sent5": "The term of the contract lasted for three years."
         },
         {
             "definition": "A condition or stipulation in an agreement or contract.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The legal team reviewed every term of the contract before signing.",
+            "sent2": "One important term of the agreement was the confidentiality clause.",
+            "sent3": "The unusual term in the contract raised some eyebrows among the partners.",
+            "sent4": "She considered the honesty term in their relationship to be crucial.",
+            "sent5": "The term about punctuality was emphasized in the employee handbook."
         }
     ]
 }

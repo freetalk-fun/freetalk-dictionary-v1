@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Cuzes (verb): causes something to happen",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She cuzes the plant to grow by giving it water.",
+            "sent2": "The storm cuzes the tree to fall down.",
+            "sent3": "The magician cuzes the rabbit to appear out of thin air.",
+            "sent4": "His words cuzes a ripple effect in the community.",
+            "sent5": "The alarm clock cuzes him to wake up every morning."
         },
         {
             "definition": "Cuzes (noun): reasons or justifications for actions",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Her cuzes for being late were traffic and a flat tire.",
+            "sent2": "The teacher asked for the students' cuzes for missing the assignment.",
+            "sent3": "His cuzes for eating dessert before dinner were quite amusing.",
+            "sent4": "The lack of evidence became the cuzes of doubt in the case.",
+            "sent5": "The historical cuzes of the war were complex and intertwined."
         }
     ]
 }

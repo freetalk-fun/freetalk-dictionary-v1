@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A person who is more knowledgeable about a particular subject than others.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "She is the privier in our group when it comes to history.",
+            "sent2": "The professor is considered the privier in the field of physics.",
+            "sent3": "The privier of the team always surprises us with interesting facts.",
+            "sent4": "Being the privier in chess, he always wins against his friends.",
+            "sent5": "The privier's expertise in astronomy is unmatched."
         },
         {
             "definition": "More private or secret than something else.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The diary was kept in a privier place to protect its secrets.",
+            "sent2": "The hidden room was even privier than the attic.",
+            "sent3": "She whispered in a privier tone to share the news discreetly.",
+            "sent4": "The privier meeting took place under the cover of darkness.",
+            "sent5": "The privier location of the treasure was finally revealed."
         },
         {
             "definition": "To make someone aware of something in a private or secret way.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He decided to privier her about the surprise party before anyone else.",
+            "sent2": "She priviered him about the upcoming changes in the company.",
+            "sent3": "The spy priviered the information to his contact in a coded message.",
+            "sent4": "She priviered the secret code to access the vault.",
+            "sent5": "He priviered the escape plan to his partner in a hushed tone."
         }
     ]
 }

@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To obscure the light from or to by interposition of something",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The tall tree eclipsed the sun, casting a shadow over the garden.",
+            "sent2": "The clouds eclipsed the moon, making it difficult to see.",
+            "sent3": "The umbrella eclipsed the view, much to the disappointment of the spectators.",
+            "sent4": "Her bright smile eclipsed the gloomy atmosphere in the room.",
+            "sent5": "The mountain peak eclipsed the surrounding landscape, standing majestic and tall."
         },
         {
             "definition": "To surpass in importance or power",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "His talent for painting eclipsed his skill in other hobbies.",
+            "sent2": "The new technology quickly eclipsed the old methods of communication.",
+            "sent3": "The student's enthusiasm for learning eclipsed all the other students in the class.",
+            "sent4": "Her kindness and generosity eclipsed any material possessions she had.",
+            "sent5": "The team's unity and teamwork eclipsed their individual abilities, leading to success."
         },
         {
             "definition": "To undergo an eclipse",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The moon eclipsed as the Earth's shadow fell upon it.",
+            "sent2": "The sun will eclipse tomorrow, creating a rare astronomical event.",
+            "sent3": "The planet's orbit caused it to eclipse regularly, much to the delight of astronomers.",
+            "sent4": "The star's brightness seemed to eclipse momentarily, surprising the observers.",
+            "sent5": "The comet's tail appeared to eclipse as it passed by the Earth, leaving a trail of light."
         }
     ]
 }

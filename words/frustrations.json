@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "The feeling of being upset or annoyed, especially because of inability to change or achieve something.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Her frustrations with the broken computer led her to seek help.",
+            "sent2": "His constant frustrations with the traffic made him late for work.",
+            "sent3": "The cat's frustrations with the toy mouse not moving amused the children.",
+            "sent4": "The artist's frustrations with the blank canvas mirrored his inner turmoil.",
+            "sent5": "The student's frustrations with the difficult math problem were palpable in the classroom."
         },
         {
             "definition": "Something that causes annoyance or disappointment.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The long wait at the doctor's office was one of her frustrations that day.",
+            "sent2": "The delay in receiving the package was a series of frustrations for the customer.",
+            "sent3": "The dog's frustrations with the closed door were comical to watch.",
+            "sent4": "The storm's sudden arrival was a frustration to the picnic planners.",
+            "sent5": "The unanswered phone call added to his frustrations about the situation."
         }
     ]
 }

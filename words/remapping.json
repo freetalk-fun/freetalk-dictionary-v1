@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To map again or differently.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She decided to remap the route to avoid traffic.",
+            "sent2": "The artist remapped the colors in the painting to create a new effect.",
+            "sent3": "After getting lost, they had to remap their journey on the fly.",
+            "sent4": "The scientist remapped the brain to study the effects of memory loss.",
+            "sent5": "The explorer had to remap the terrain after discovering a hidden valley."
         },
         {
             "definition": "The act of changing the mapping of a computer program or device.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The remapping of the software improved its performance.",
+            "sent2": "During the upgrade, the technician performed a complete remapping of the system.",
+            "sent3": "The accidental remapping of the keys caused confusion among the users.",
+            "sent4": "The remapping of the network led to faster data transfer speeds.",
+            "sent5": "The remapping of the hard drive resolved the storage issues."
         },
         {
             "definition": "The process of reassigning functions or values to different keys or buttons.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The remapping of the controls made the game easier to play.",
+            "sent2": "The remapping of the shortcuts on the keyboard increased productivity.",
+            "sent3": "The remapping of the remote control accidentally turned on the TV.",
+            "sent4": "The remapping of the car's buttons allowed for customized settings.",
+            "sent5": "The remapping of the functions on the phone simplified the user experience."
         }
     ]
 }

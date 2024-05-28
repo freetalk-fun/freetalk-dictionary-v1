@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "The state of relying on someone or something for support or aid.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "My cat's dependencies on me include food, water, and cuddles.",
+            "sent2": "The company's success had many dependencies on the economy.",
+            "sent3": "The dog's dependencies on treats and walks make him a happy pup.",
+            "sent4": "Her dependencies on her morning coffee were as strong as a tree's roots in the ground.",
+            "sent5": "The child's dependencies on his parents were like a safety net, always there to catch him."
         },
         {
             "definition": "A relationship between two things where one thing relies on the other.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The dependencies between the engine and the wheels are crucial for the car to move.",
+            "sent2": "The dependencies between the teacher and the students create a positive learning environment.",
+            "sent3": "The plant's dependencies on sunlight and water are like a dance of nature.",
+            "sent4": "Their dependencies on each other were like two sides of the same coin, always connected.",
+            "sent5": "The dependencies between the internet and devices are essential for modern communication."
         },
         {
             "definition": "A condition of being influenced or determined by something else.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "His decisions were often influenced by his dependencies on others' opinions.",
+            "sent2": "The outcome of the experiment had dependencies on the variables controlled by the scientists.",
+            "sent3": "The cat's behavior showed dependencies on the weather, acting lazy on rainy days.",
+            "sent4": "Her mood swings had dependencies on the phases of the moon, like a celestial puppeteer.",
+            "sent5": "The success of the project had dependencies on teamwork, like pieces of a puzzle coming together."
         }
     ]
 }

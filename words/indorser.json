@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A person who signs a negotiable instrument, such as a check, to transfer ownership to another party.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The indorser of the check was happy to help his friend.",
+            "sent2": "The bank required the indorser to provide identification.",
+            "sent3": "The indorser accidentally signed the check upside down, causing confusion.",
+            "sent4": "She was the indorser of good luck, always bringing fortune to those around her.",
+            "sent5": "The indorser's signature was so unique that it stood out on every document."
         },
         {
             "definition": "To sign one's name on the back of a negotiable instrument to transfer ownership.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He indorsed the check quickly before handing it over.",
+            "sent2": "Remember to indorse the document before submitting it.",
+            "sent3": "She indorsed the contract with a flourish, feeling important.",
+            "sent4": "The artist indorsed his paintings with a small symbol in the corner.",
+            "sent5": "The teacher reminded the student to indorse the assignment to complete the process."
         }
     ]
 }

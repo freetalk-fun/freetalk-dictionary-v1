@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Regrettably",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "Unfortunately, I forgot my homework at home.",
+            "sent2": "She missed the bus, unfortunately.",
+            "sent3": "The cat, unfortunately, knocked over the vase.",
+            "sent4": "The storm, unfortunately, ruined our picnic plans.",
+            "sent5": "Unfortunately, the cake fell on the floor before the party."
         },
         {
             "definition": "Unluckily",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "We ran out of gas, unfortunately, in the middle of nowhere.",
+            "sent2": "Unfortunately, it started raining during our outdoor event.",
+            "sent3": "The magician's trick, unfortunately, went wrong in front of the audience.",
+            "sent4": "The team, unfortunately, lost the game in the final seconds.",
+            "sent5": "Unfortunately, the key broke in the lock, trapping us inside."
         },
         {
             "definition": "Sadly",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "She waved goodbye, unfortunately, as the train departed.",
+            "sent2": "The old tree, unfortunately, had to be cut down.",
+            "sent3": "The child, unfortunately, dropped their ice cream cone on the ground.",
+            "sent4": "The news of the accident, unfortunately, spread quickly through the town.",
+            "sent5": "The abandoned puppy, unfortunately, had no one to care for it."
         }
     ]
 }

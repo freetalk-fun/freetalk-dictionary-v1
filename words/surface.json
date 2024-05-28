@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "The outermost layer or exterior of an object.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The surface of the table was smooth and shiny.",
+            "sent2": "She wiped the surface of the mirror to remove the fingerprints.",
+            "sent3": "The cat tried to balance on the surface of the icy pond, sliding comically.",
+            "sent4": "His calm demeanor was just a surface; underneath, he was anxious and worried.",
+            "sent5": "The surface of the moon appeared distant yet captivating in the night sky."
         },
         {
             "definition": "The topmost layer of an area or space.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The surface of the water sparkled in the sunlight.",
+            "sent2": "The surface of the mountain was covered in a blanket of snow.",
+            "sent3": "The surface of the cake was decorated with colorful sprinkles.",
+            "sent4": "Her smile was like the surface of a calm lake, hiding turbulent emotions beneath.",
+            "sent5": "The surface of the painting seemed to come alive with vibrant colors."
         },
         {
             "definition": "To come to the surface; to rise to the top.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Bubbles started to surface in the boiling pot of water.",
+            "sent2": "The truth began to surface despite his attempts to hide it.",
+            "sent3": "His forgotten memories would surface unexpectedly during conversations.",
+            "sent4": "Her fears would surface in her dreams, leaving her restless at night.",
+            "sent5": "The sun would surface over the horizon, bringing warmth to the cold morning."
         }
     ]
 }

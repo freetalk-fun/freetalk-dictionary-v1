@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Used to refer to a man, boy, or male animal previously mentioned or easily identified.",
-            "pos": "pronoun"
+            "pos": "pronoun",
+            "sent1": "The boy fed himself breakfast.",
+            "sent2": "He can tie his shoes himself.",
+            "sent3": "The dog groomed himself with a wagging tail.",
+            "sent4": "The cat cleaned himself meticulously.",
+            "sent5": "The man painted the house himself, showing great skill."
         },
         {
             "definition": "Used to emphasize that a particular person did something without help.",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "He fixed the car himself.",
+            "sent2": "She cooked dinner herself.",
+            "sent3": "The child proudly declared, 'I did it all by myself!'",
+            "sent4": "The athlete pushed himself to the limit during the race.",
+            "sent5": "The student challenged himself to learn a new language."
         }
     ]
 }

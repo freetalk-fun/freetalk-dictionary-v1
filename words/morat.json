@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A delay or postponement",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The morat of the flight caused inconvenience to the passengers.",
+            "sent2": "The morat of the project deadline led to a rush to complete the work.",
+            "sent3": "The morat of the party made everyone anxious about missing out on the fun.",
+            "sent4": "The morat in the train schedule created chaos at the station.",
+            "sent5": "Her morat in responding to the email resulted in missed opportunities."
         },
         {
             "definition": "To delay or postpone",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Please morat the meeting until next week.",
+            "sent2": "I had to morat my vacation plans due to unexpected circumstances.",
+            "sent3": "He tends to morat making decisions until the last minute.",
+            "sent4": "The storm forced us to morat our outdoor event.",
+            "sent5": "It is better to morat than to rush into something you may regret."
         },
         {
             "definition": "Delayed or postponed",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The morat shipment finally arrived after a long wait.",
+            "sent2": "Due to the morat repairs, the store opening was rescheduled.",
+            "sent3": "The morat flight left passengers frustrated and tired.",
+            "sent4": "The morat package delivery caused inconvenience to the recipient.",
+            "sent5": "The morat decision-making process led to missed opportunities for growth."
         }
     ]
 }

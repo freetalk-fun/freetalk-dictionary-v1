@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "The state or fact of something being likely; probability.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The likelihood of rain tomorrow is high.",
+            "sent2": "There is a low likelihood of winning the lottery.",
+            "sent3": "The likelihood of a penguin flying is as rare as a unicorn tap-dancing.",
+            "sent4": "Her smile increased the likelihood of a successful outcome.",
+            "sent5": "The likelihood of finding a four-leaf clover is like searching for a needle in a haystack."
         },
         {
             "definition": "The chance of something happening; probability.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "What is the likelihood of getting a snow day tomorrow?",
+            "sent2": "The likelihood of meeting a celebrity in this small town is slim.",
+            "sent3": "The likelihood of a cat wearing a top hat is quite amusing.",
+            "sent4": "His determination increased the likelihood of achieving his goal.",
+            "sent5": "The likelihood of a shooting star appearing is a rare and magical event."
         }
     ]
 }

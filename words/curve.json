@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A smoothly flowing line or surface that deviates from straightness.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The road had a gentle curve that led us through the forest.",
+            "sent2": "She drew a perfect curve on the paper with her pencil.",
+            "sent3": "The cat tried to chase its tail in a curve but ended up dizzy.",
+            "sent4": "The river followed a graceful curve through the valley.",
+            "sent5": "The curve of her smile brightened up the room."
         },
         {
             "definition": "To bend or turn gradually.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He had to curve the wire to fit it into the shape he needed.",
+            "sent2": "The baseball pitcher can curve the ball to confuse the batter.",
+            "sent3": "She tried to curve her hair around the curling iron but burnt herself.",
+            "sent4": "The dancer's body seemed to curve and flow with the music.",
+            "sent5": "The road started to curve as we drove deeper into the mountains."
         }
     ]
 }

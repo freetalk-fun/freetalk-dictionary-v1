@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To insert or introduce between other elements or parts",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She was interpolating additional information into the report.",
+            "sent2": "The scientist is interpolating data points to create a smooth curve.",
+            "sent3": "The mischievous student tried interpolating jokes into the serious lecture.",
+            "sent4": "Her laughter was like interpolating a burst of sunshine into the room.",
+            "sent5": "The artist's brushstrokes were interpolating colors to bring the painting to life."
         },
         {
             "definition": "To estimate values between two known values",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "By interpolating the data, we can predict the missing values.",
+            "sent2": "The software is interpolating the temperature readings for the entire day.",
+            "sent3": "The detective was interpolating the suspect's whereabouts based on the clues.",
+            "sent4": "Her intuition was like interpolating the future from the present.",
+            "sent5": "The chef's secret recipe involves interpolating flavors to create a unique dish."
         },
         {
             "definition": "To alter or corrupt (a text) by inserting new or foreign matter",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The spy was interpolating false information into the document.",
+            "sent2": "The forger was interpolating signatures onto the contract.",
+            "sent3": "The prankster was interpolating silly words into the serious letter.",
+            "sent4": "His lies were like interpolating shadows into the truth.",
+            "sent5": "The hacker's code was interpolating bugs into the system."
         }
     ]
 }

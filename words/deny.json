@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Refuse to admit the truth or existence of something.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She always tries to deny her mistakes.",
+            "sent2": "He will deny any wrongdoing.",
+            "sent3": "The cat tried to deny knocking over the vase.",
+            "sent4": "The dark clouds deny the presence of the sun.",
+            "sent5": "The child's laughter cannot deny the joy in the room."
         },
         {
             "definition": "Refuse to give or grant something requested or desired.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The store may deny your return without a receipt.",
+            "sent2": "They will deny your request for a refund.",
+            "sent3": "The hungry dog will deny any treat offered.",
+            "sent4": "The locked door denies entry to the room.",
+            "sent5": "The closed sign denies any further customers."
         },
         {
             "definition": "State that one is not guilty of or responsible for something.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He will deny any involvement in the crime.",
+            "sent2": "She denies being the one who broke the vase.",
+            "sent3": "The cookie jar denies being empty.",
+            "sent4": "The wind denies the stillness of the night.",
+            "sent5": "The smile on her face denies any sadness within."
         }
     ]
 }

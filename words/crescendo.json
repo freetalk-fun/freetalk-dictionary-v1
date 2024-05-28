@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A gradual increase in loudness or intensity.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The music reached a crescendo during the concert.",
+            "sent2": "The sound of the thunderstorm grew into a powerful crescendo.",
+            "sent3": "The joke's punchline hit a crescendo, making everyone burst into laughter.",
+            "sent4": "The tension in the room built like a crescendo, ready to explode.",
+            "sent5": "The crescendo of the fireworks display lit up the night sky."
         },
         {
             "definition": "The highest point reached in a gradual increase of intensity.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The movie's climax was a dramatic crescendo.",
+            "sent2": "The excitement in the stadium rose to a thrilling crescendo.",
+            "sent3": "The chef's masterpiece dish was a culinary crescendo of flavors.",
+            "sent4": "The emotions in the room peaked at a crescendo of joy.",
+            "sent5": "The crescendo of applause filled the theater after the performance."
         },
         {
             "definition": "To reach a point of highest intensity.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The symphony crescendoed to a breathtaking finale.",
+            "sent2": "Her excitement crescendoed as she approached the finish line.",
+            "sent3": "The argument crescendoed into a heated debate over dinner.",
+            "sent4": "His anger crescendoed until he couldn't hold it back anymore.",
+            "sent5": "The tension crescendoed until it could be cut with a knife."
         }
     ]
 }

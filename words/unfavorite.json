@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A person or thing that is least liked or preferred.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "My unfavorite food is broccoli.",
+            "sent2": "The unfavorite student in the class always sits alone.",
+            "sent3": "I find it funny how my unfavorite color is the same as my best friend's favorite color.",
+            "sent4": "The unfavorite toy in the box was the broken one.",
+            "sent5": "The unfavorite movie of all time was universally disliked by everyone who watched it."
         },
         {
             "definition": "To remove from a list of favorites or preferences.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I had to unfavorite that song because it reminded me of a sad memory.",
+            "sent2": "She decided to unfavorite the restaurant after receiving poor service.",
+            "sent3": "It's time to unfavorite this old sweater and make room for new clothes.",
+            "sent4": "He unfavorite the app when it started crashing constantly.",
+            "sent5": "The decision to unfavorite her ex's photos on social media was liberating."
         }
     ]
 }

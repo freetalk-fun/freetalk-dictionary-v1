@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To make someone appear guilty of a crime or wrongdoing.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The fingerprint found at the scene incriminates the suspect.",
+            "sent2": "The witness's testimony incriminates the defendant.",
+            "sent3": "The misplaced hat incriminates the cat for stealing treats.",
+            "sent4": "The broken lock incriminates the security system's failure.",
+            "sent5": "The incriminating photo caught the thief red-handed."
         },
         {
             "definition": "To provide evidence that suggests someone is guilty of a crime.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The DNA evidence incriminates the suspect in the robbery.",
+            "sent2": "The video footage incriminates the perpetrator.",
+            "sent3": "The muddy footprints incriminate the dog for digging in the garden.",
+            "sent4": "The torn note incriminates the sender's true intentions.",
+            "sent5": "The incriminating email revealed the fraud scheme."
         },
         {
             "definition": "To show that someone is involved in a crime or illegal activity.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The phone records incriminate the suspect in the drug trafficking.",
+            "sent2": "The bank statement incriminates the embezzlement.",
+            "sent3": "The hidden camera footage incriminates the raccoon in the garbage raid.",
+            "sent4": "The confidential document incriminates the leak in the organization.",
+            "sent5": "The incriminating evidence linked the suspect to the crime scene."
         }
     ]
 }

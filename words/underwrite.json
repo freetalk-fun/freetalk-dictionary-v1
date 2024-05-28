@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To assume financial responsibility for something",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The bank agreed to underwrite the construction project.",
+            "sent2": "The insurance company underwrites policies to protect against losses.",
+            "sent3": "The generous donor offered to underwrite the entire charity event.",
+            "sent4": "His parents always underwrite his extravagant spending habits.",
+            "sent5": "She decided to underwrite the startup company, taking a financial risk."
         },
         {
             "definition": "To support or guarantee something, such as a loan",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The government decided to underwrite the small business loan.",
+            "sent2": "The company underwrites mortgages for first-time homebuyers.",
+            "sent3": "The professor offered to underwrite the student's research project.",
+            "sent4": "Her reputation as a successful entrepreneur underwrites her credibility.",
+            "sent5": "The bank's willingness to underwrite the loan helped the business expand."
         },
         {
             "definition": "To sign one's name at the end of a document to show approval or acceptance",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He had to underwrite the contract before it could be finalized.",
+            "sent2": "The author underwrites each copy of the book with a personal message.",
+            "sent3": "The celebrity was asked to underwrite the movie script with her signature.",
+            "sent4": "The CEO's signature underwrites the company's commitment to quality.",
+            "sent5": "The artist underwrote the painting with a unique signature in the corner."
         }
     ]
 }

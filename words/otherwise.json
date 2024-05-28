@@ -3,19 +3,39 @@
     "meanings": [
         {
             "definition": "In a different way",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "She wanted to walk to school, but otherwise, she took the bus.",
+            "sent2": "He usually wore a hat, but otherwise, he went bareheaded.",
+            "sent3": "The cat tried to meow, but otherwise, it ended up purring instead.",
+            "sent4": "The river flowed smoothly, but otherwise, it danced around the rocks.",
+            "sent5": "The painting looked realistic, but otherwise, it seemed like a dream."
         },
         {
             "definition": "In other respects",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "She was quiet; otherwise, she was very friendly.",
+            "sent2": "The book was interesting; otherwise, it was quite long.",
+            "sent3": "The cake was delicious; otherwise, it was a bit too sweet.",
+            "sent4": "The movie was entertaining; otherwise, it lacked a good plot.",
+            "sent5": "The day was sunny; otherwise, it was a bit windy."
         },
         {
             "definition": "If not",
-            "pos": "conjunction"
+            "pos": "conjunction",
+            "sent1": "He would have been late, otherwise, he left early.",
+            "sent2": "She would have fallen, otherwise, she held onto the railing.",
+            "sent3": "I would have missed the bus, otherwise, I ran to catch it.",
+            "sent4": "They would have lost the game, otherwise, they scored a last-minute goal.",
+            "sent5": "The plant would have died, otherwise, I remembered to water it."
         },
         {
             "definition": "Under different circumstances",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "She would have been happy, otherwise, if she had received the news earlier.",
+            "sent2": "He could have fixed it, otherwise, if he had the right tools.",
+            "sent3": "I might have gone, otherwise, if I had known you were going too.",
+            "sent4": "They might have won, otherwise, if the weather had been better.",
+            "sent5": "The plan might have worked, otherwise, if they had followed the instructions correctly."
         }
     ]
 }

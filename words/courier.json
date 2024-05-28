@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A person or company that transports packages or documents from one place to another.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The courier delivered the package to my doorstep.",
+            "sent2": "I always use a courier service to send important documents.",
+            "sent3": "The courier accidentally delivered the package to the wrong address, causing a mix-up.",
+            "sent4": "Her swift movements made her seem like a courier of good news.",
+            "sent5": "The courier's uniform and bag made him easily recognizable in the neighborhood."
         },
         {
             "definition": "To send or transport something by courier.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I will courier the documents to the client tomorrow.",
+            "sent2": "She decided to courier the package instead of using regular mail.",
+            "sent3": "He jokingly said he would courier a pizza to his friend across the country.",
+            "sent4": "The news of the victory couriers hope to all the fans.",
+            "sent5": "The urgent message was couriered to the headquarters for immediate action."
         }
     ]
 }

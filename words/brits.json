@@ -2,16 +2,31 @@
     "term": "brits",
     "meanings": [
         {
-            "definition": "Brits: British people",
-            "pos": "noun"
+            "definition": "British people",
+            "pos": "noun",
+            "sent1": "The Brits enjoy drinking tea.",
+            "sent2": "Many Brits live in the United Kingdom.",
+            "sent3": "The Brits had a picnic in the park.",
+            "sent4": "The Brits are known for their love of rainy weather.",
+            "sent5": "I met some friendly Brits at the pub last night."
         },
         {
-            "definition": "Brits: The currency of the United Kingdom",
-            "pos": "noun"
+            "definition": "The currency of the United Kingdom",
+            "pos": "noun",
+            "sent1": "I need to exchange my dollars for Brits.",
+            "sent2": "The price is listed in Brits.",
+            "sent3": "I found some old Brits in my drawer.",
+            "sent4": "Her smile was worth a million Brits.",
+            "sent5": "He saved up enough Brits for a vacation."
         },
         {
-            "definition": "Brits: To clean a surface by scrubbing it with a hard brush or broom",
-            "pos": "verb"
+            "definition": "To clean a surface by scrubbing it with a hard brush or broom",
+            "pos": "verb",
+            "sent1": "I need to brits the floor before the guests arrive.",
+            "sent2": "She brits the patio every weekend.",
+            "sent3": "He brits the car with enthusiasm.",
+            "sent4": "The maid brits the hotel lobby diligently.",
+            "sent5": "They brits the driveway to remove the dirt."
         }
     ]
 }

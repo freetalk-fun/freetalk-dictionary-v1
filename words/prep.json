@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Prepare for something",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I need to prep for my presentation tomorrow.",
+            "sent2": "She likes to prep her meals in advance.",
+            "sent3": "He forgot to prep for the test and now he's worried.",
+            "sent4": "The team needs to prep for the upcoming match.",
+            "sent5": "Prepping for the interview helped calm her nerves."
         },
         {
             "definition": "A short form of preparation",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I have all my preps ready for the camping trip.",
+            "sent2": "Her detailed prep made the project successful.",
+            "sent3": "The last-minute prep saved the day.",
+            "sent4": "His lack of prep led to a chaotic situation.",
+            "sent5": "Good prep is key to a smooth event."
         },
         {
             "definition": "A student who is preparing for an examination",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The preps are studying hard for the final exams.",
+            "sent2": "She is a dedicated prep aiming for top grades.",
+            "sent3": "The preps organized a study group for support.",
+            "sent4": "The preps were nervous but well-prepared for the test.",
+            "sent5": "Being a prep requires focus and determination."
         }
     ]
 }

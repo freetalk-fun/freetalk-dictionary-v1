@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "The act of incorrectly setting the price of something.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The mispricing of the toy made it too expensive for many kids to buy.",
+            "sent2": "The mispricing of the house led to it being on the market for a long time.",
+            "sent3": "The mispricing of the ice cream caused a lot of confusion at the store.",
+            "sent4": "The mispricing of the concert tickets left many fans disappointed.",
+            "sent5": "The mispricing of the car made it seem like a luxury vehicle."
         },
         {
             "definition": "To set the price of something inaccurately.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The store owner accidentally mispriced the new products on the shelves.",
+            "sent2": "If you misprice the items, customers may not want to buy them.",
+            "sent3": "I mispriced the cookies so low that they were sold out within minutes.",
+            "sent4": "She mispriced her services, leading to financial losses for her business.",
+            "sent5": "Be careful not to misprice the items, or you might lose money."
         }
     ]
 }

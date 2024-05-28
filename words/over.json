@@ -3,23 +3,48 @@
     "meanings": [
         {
             "definition": "Above or higher than",
-            "pos": "preposition"
+            "pos": "preposition",
+            "sent1": "The bird flew over the tree.",
+            "sent2": "The plane soared over the clouds.",
+            "sent3": "The kite got stuck over the roof.",
+            "sent4": "The sun shone brightly over the horizon.",
+            "sent5": "The rainbow arched beautifully over the sky."
         },
         {
             "definition": "Finished or completed",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The project is over now.",
+            "sent2": "The book is over, so I need a new one.",
+            "sent3": "The game was over before I knew it.",
+            "sent4": "The movie was over too quickly.",
+            "sent5": "The party was over, but the memories remain."
         },
         {
             "definition": "Across or from one side to the other",
-            "pos": "preposition"
+            "pos": "preposition",
+            "sent1": "The bridge extends over the river.",
+            "sent2": "The cat walked over the fence.",
+            "sent3": "The squirrel leaped over the branch.",
+            "sent4": "The shadow fell over the sidewalk.",
+            "sent5": "The rainbow stretched over the sky."
         },
         {
             "definition": "In excess or more than",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "She ate way over her limit.",
+            "sent2": "The music was playing over the speakers.",
+            "sent3": "The excitement bubbled over in the room.",
+            "sent4": "The joy spilled over into laughter.",
+            "sent5": "The happiness spread over the crowd."
         },
         {
             "definition": "Control or authority over",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "He has over of the company.",
+            "sent2": "She took over of the situation.",
+            "sent3": "The king's over was unquestionable.",
+            "sent4": "The teacher's over was respected by all.",
+            "sent5": "The manager's over was evident in the decisions made."
         }
     ]
 }

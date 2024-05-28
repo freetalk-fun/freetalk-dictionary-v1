@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To steal (verb)",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The mischievous cat was caught purloining treats from the kitchen counter.",
+            "sent2": "The thief was arrested for purloining valuable jewelry from the store.",
+            "sent3": "The sneaky raccoon was purloining snacks from the campers' backpacks.",
+            "sent4": "The hacker was purloining sensitive information from the company's database.",
+            "sent5": "The pickpocket was skilled at purloining wallets without being noticed."
         },
         {
             "definition": "Theft (noun)",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The purloining of the priceless painting shocked the museum staff.",
+            "sent2": "The police were investigating a case of purloining in the neighborhood.",
+            "sent3": "The children's game involved pretend purloining of treasure from a pirate ship.",
+            "sent4": "The purloining of classified documents jeopardized national security.",
+            "sent5": "The history books detailed the purloining of the crown jewels by a notorious thief."
         }
     ]
 }

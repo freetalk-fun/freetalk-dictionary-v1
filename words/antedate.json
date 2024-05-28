@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To precede in time",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The sunrise will antedate the start of the morning",
+            "sent2": "The history books often antedate important events",
+            "sent3": "I tried to antedate my alarm clock, but it didn't work",
+            "sent4": "Her intuition seemed to antedate the actual events",
+            "sent5": "The old tree rings antedate the construction of the house"
         },
         {
             "definition": "A date that is earlier than another date",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The antedate on the document showed a different year",
+            "sent2": "The archaeologists discovered an antedate on the ancient artifact",
+            "sent3": "The antedate on the invitation caused confusion among the guests",
+            "sent4": "The antedate of the manuscript hinted at its historical significance",
+            "sent5": "The antedate of the painting revealed its true age"
         }
     ]
 }

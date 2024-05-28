@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A person who has broken the law and is considered a criminal.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The outlaw was caught stealing from the store.",
+            "sent2": "The sheriff chased after the outlaw on horseback.",
+            "sent3": "The outlaw tried to sneak past the guards, but they caught him red-handed.",
+            "sent4": "The outlaw's reputation spread like wildfire throughout the town.",
+            "sent5": "The outlaw's face was plastered on wanted posters all over the county."
         },
         {
             "definition": "To declare illegal or forbidden.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The town council decided to outlaw smoking in public parks.",
+            "sent2": "The new law will outlaw the use of plastic bags in stores.",
+            "sent3": "It's like they want to outlaw fun altogether!",
+            "sent4": "The decision to outlaw texting while driving was long overdue.",
+            "sent5": "The king's decree outlawed any form of dissent against the crown."
         },
         {
             "definition": "To ban or exclude.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The school decided to outlaw sugary snacks in the cafeteria.",
+            "sent2": "The club's rules outlaw any form of discrimination.",
+            "sent3": "The sign on the door outlawed anyone without a reservation.",
+            "sent4": "Her strict parents outlawed her from attending the party.",
+            "sent5": "The treaty outlawed the use of chemical weapons in warfare."
         }
     ]
 }

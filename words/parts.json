@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A piece or segment of something",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "She collected different parts of the puzzle to complete it.",
+            "sent2": "The car's engine consists of many intricate parts.",
+            "sent3": "The parts of the story came together like a jigsaw puzzle.",
+            "sent4": "Her kindness was like the missing parts of a broken heart.",
+            "sent5": "The parts of the flower bloomed beautifully in the sunlight."
         },
         {
             "definition": "The components of a whole",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The parts of the machine work together to function properly.",
+            "sent2": "He studied the different parts of the ecosystem in science class.",
+            "sent3": "The parts of the recipe blended perfectly to create a delicious dish.",
+            "sent4": "Their friendship was the essential parts of their happiness.",
+            "sent5": "The parts of the orchestra played in harmony during the concert."
         },
         {
             "definition": "To divide or separate into pieces or sections",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She parts her hair in the middle every morning.",
+            "sent2": "The magician parts the curtain to reveal his final trick.",
+            "sent3": "The clouds part to reveal a beautiful blue sky.",
+            "sent4": "He parts ways with his old job to pursue a new career.",
+            "sent5": "The river parts the forest as it flows through the valley."
         }
     ]
 }

@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Transfer (data) from a server or computer to another device.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I am downloading a new game on my phone.",
+            "sent2": "She enjoys downloading music to her laptop.",
+            "sent3": "The cat is downloading treats from the kitchen counter.",
+            "sent4": "His brain is like a computer downloading information constantly.",
+            "sent5": "The rain was downloading onto the roof, creating a soothing sound."
         },
         {
             "definition": "The act of transferring data from a server or computer to another device.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Downloading can take a while depending on the file size.",
+            "sent2": "I have a lot of downloading to do for my project.",
+            "sent3": "The downloading of cookies from the jar was a success.",
+            "sent4": "Her mind was like a downloading machine, absorbing new knowledge.",
+            "sent5": "The downloading of sunlight through the window brightened the room."
         }
     ]
 }

@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To predict or foretell something, especially something bad.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The dark clouds forbode a storm approaching.",
+            "sent2": "Seeing a black cat on Friday the 13th forbodes bad luck.",
+            "sent3": "The creaking sound from the attic forbode a ghostly presence, but it was just a loose board.",
+            "sent4": "The sudden silence in the room forbode an impending argument between the siblings.",
+            "sent5": "The howling wind forbode a night of restless sleep for the villagers."
         },
         {
             "definition": "To be an omen or sign of something to come.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The distant thunder forbode the arrival of a summer storm.",
+            "sent2": "The sudden drop in temperature forbodes the onset of winter.",
+            "sent3": "The flickering streetlight forbode a power outage, but it was just a passing glitch.",
+            "sent4": "The eerie silence in the forest forbode the presence of a lurking predator.",
+            "sent5": "The howling of wolves forbode danger lurking in the shadows."
         }
     ]
 }

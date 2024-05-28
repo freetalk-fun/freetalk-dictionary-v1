@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Stop",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Please cease talking during the movie.",
+            "sent2": "The rain will cease soon, and the sun will come out.",
+            "sent3": "I asked the noisy bird to cease its chirping, but it ignored me.",
+            "sent4": "Her laughter made the tension in the room cease instantly.",
+            "sent5": "The teacher's loud voice made all chatter cease in the classroom."
         },
         {
             "definition": "End",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The cease of the storm brought relief to the residents.",
+            "sent2": "The cease of the play left the audience in awe.",
+            "sent3": "The cease of the party signaled the end of a fun night.",
+            "sent4": "With the cease of the argument, peace finally prevailed.",
+            "sent5": "The cease of the music marked the conclusion of the event."
         },
         {
             "definition": "Halt",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The construction work will cease for the weekend.",
+            "sent2": "The train will cease at the next station for passengers to board.",
+            "sent3": "The cease of the car was sudden, causing a traffic jam.",
+            "sent4": "The music ceased abruptly, surprising everyone in the room.",
+            "sent5": "The cease of the clock's ticking made the room eerily quiet."
         }
     ]
 }

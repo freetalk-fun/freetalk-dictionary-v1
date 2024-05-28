@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A person who operates an aircraft.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The pilots flew the plane smoothly through the clouds.",
+            "sent2": "The pilots trained for years to become skilled aviators.",
+            "sent3": "The pilots joked about having wings of their own.",
+            "sent4": "The pilots navigated the skies like masters of the wind.",
+            "sent5": "The pilots' job is to ensure safe travels for all passengers."
         },
         {
             "definition": "To guide or steer in a particular direction.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She pilots the boat along the river with great skill.",
+            "sent2": "He pilots the spaceship through the galaxy, exploring new worlds.",
+            "sent3": "The cat tried to pilot the toy car around the room.",
+            "sent4": "The leader pilots the team towards success with determination.",
+            "sent5": "The captain pilots the ship through the stormy seas, keeping everyone safe."
         },
         {
             "definition": "A television program produced as a prototype for a series.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The studio created multiple pilots to test audience reactions.",
+            "sent2": "The pilot episode of the show introduced the main characters.",
+            "sent3": "The pilot for the new series had everyone laughing at the funny scenes.",
+            "sent4": "The pilot of the TV show set the tone for the entire season.",
+            "sent5": "The network executives watched the pilot closely to decide on its future."
         }
     ]
 }

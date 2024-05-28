@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Per head",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "The candies were distributed capita, with each person receiving an equal amount.",
+            "sent2": "The cost was calculated capita, meaning it was divided equally among all participants.",
+            "sent3": "The students raced to finish their homework capita, hoping to be the first ones done.",
+            "sent4": "The team worked capita to solve the puzzle, each member contributing equally.",
+            "sent5": "The cookies were shared capita, ensuring everyone got a fair share."
         },
         {
             "definition": "In relation to each individual person",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "The teacher explained the concept capita, making sure each student understood.",
+            "sent2": "The rules were enforced capita, ensuring fairness for all.",
+            "sent3": "The siblings played together capita, enjoying each other's company.",
+            "sent4": "The tasks were assigned capita, giving everyone a specific role.",
+            "sent5": "The prizes were distributed capita, recognizing each person's effort."
         },
         {
             "definition": "A headcount of individuals in a group",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The capita of the class was twenty students, including the teacher.",
+            "sent2": "The capita of the team was crucial for planning the event.",
+            "sent3": "The capita of the audience cheered loudly during the performance.",
+            "sent4": "The capita of the employees determined the amount of food needed for the party.",
+            "sent5": "The capita of the group was diverse, representing people from various backgrounds."
         }
     ]
 }

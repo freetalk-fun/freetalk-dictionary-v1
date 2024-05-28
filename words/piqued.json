@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A feeling of irritation or resentment, typically aroused by a slight or indignity.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Her piqued expression showed she was upset about the comment.",
+            "sent2": "His piqued mood was evident after the argument.",
+            "sent3": "The piqued customer demanded to speak to the manager.",
+            "sent4": "The piqued cat hissed at the unfamiliar dog.",
+            "sent5": "The piqued child crossed their arms in frustration."
         },
         {
             "definition": "To stimulate (interest or curiosity).",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The mystery novel piqued her interest from the first page.",
+            "sent2": "The new movie trailer piqued the curiosity of many viewers.",
+            "sent3": "The magician's trick piqued the audience's interest.",
+            "sent4": "The unexpected plot twist piqued my curiosity.",
+            "sent5": "The unusual artifact piqued the archaeologist's interest."
         },
         {
             "definition": "To provoke or arouse (an emotion or feeling).",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The sad movie piqued her emotions and made her cry.",
+            "sent2": "The thrilling roller coaster ride piqued his excitement.",
+            "sent3": "The surprise party piqued his happiness and gratitude.",
+            "sent4": "The heartfelt letter piqued her nostalgia for the past.",
+            "sent5": "The beautiful sunset piqued a sense of awe in the onlookers."
         }
     ]
 }

@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A powerful explosive made of nitroglycerin, sulfur, and other ingredients.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The miners used dynamite to blast through the rock.",
+            "sent2": "The construction workers handled the dynamite carefully.",
+            "sent3": "The dynamite sat quietly in the storage shed, waiting for its moment.",
+            "sent4": "Her laughter was like dynamite, lighting up the room.",
+            "sent5": "The dynamite exploded with a deafening roar, shaking the ground."
         },
         {
             "definition": "To blow up or destroy with dynamite.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The old building was dynamited to make way for a new skyscraper.",
+            "sent2": "The rebels dynamited the bridge to halt the enemy's advance.",
+            "sent3": "He jokingly threatened to dynamite the birthday cake if it wasn't chocolate.",
+            "sent4": "Her words dynamited his carefully constructed argument.",
+            "sent5": "The demolition team carefully planned where to dynamite the old structure."
         }
     ]
 }

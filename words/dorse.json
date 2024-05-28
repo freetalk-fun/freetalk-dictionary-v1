@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "The back of an animal.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The cat's dorse was fluffy and warm.",
+            "sent2": "The horse's dorse was strong and sturdy.",
+            "sent3": "The dog tried to scratch its dorse with its hind leg.",
+            "sent4": "The dorse of the cow glistened in the sunlight.",
+            "sent5": "The bird landed on the dorse of the sheep."
         },
         {
             "definition": "To endorse or sign the back of a document.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Please dorse the check before depositing it.",
+            "sent2": "He dorsed the contract to finalize the deal.",
+            "sent3": "The teacher asked the student to dorse the permission slip.",
+            "sent4": "She quickly dorsed the form without reading it thoroughly.",
+            "sent5": "The athlete had to dorse the waiver before the competition."
         },
         {
             "definition": "To support or approve of something.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I will dorse your decision to go on the trip.",
+            "sent2": "The committee decided to dorse the new policy.",
+            "sent3": "The parents dorsed their child's choice of career.",
+            "sent4": "The team captain dorsed the coach's strategy for the game.",
+            "sent5": "The mayor dorsed the initiative for cleaner streets."
         }
     ]
 }

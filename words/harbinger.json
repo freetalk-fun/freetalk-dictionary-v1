@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A person or thing that announces or signals the approach of another.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The robin's song was a harbinger of spring.",
+            "sent2": "The dark clouds were a harbinger of the coming storm.",
+            "sent3": "The barking dog acted as a harbinger of the mail carrier's arrival.",
+            "sent4": "The distant sound of drums served as a harbinger of the approaching army.",
+            "sent5": "The first snowflake was a harbinger of the impending blizzard."
         },
         {
             "definition": "To signal the approach of something.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The distant thunder seemed to harbinger the coming rain.",
+            "sent2": "The howling wind harbingered the arrival of the hurricane.",
+            "sent3": "The ringing phone harbingered an unexpected call.",
+            "sent4": "The smell of fresh bread baking in the oven harbingered a delicious meal.",
+            "sent5": "The chirping birds harbingered the break of dawn."
         }
     ]
 }

@@ -3,19 +3,39 @@
     "meanings": [
         {
             "definition": "Possess",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She haves a new bike.",
+            "sent2": "I haves a cat as a pet.",
+            "sent3": "The magician haves a trick up his sleeve.",
+            "sent4": "His smile haves a mysterious charm.",
+            "sent5": "The key to success haves determination."
         },
         {
             "definition": "Possessions",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "His haves include a watch and a phone.",
+            "sent2": "The haves of the rich are often extravagant.",
+            "sent3": "The lost haves were found in the attic.",
+            "sent4": "Her haves tell a story of a life well-lived.",
+            "sent5": "The haves of the house were neatly arranged."
         },
         {
             "definition": "Wealth",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Their haves allowed them to travel the world.",
+            "sent2": "The haves of the kingdom were vast.",
+            "sent3": "The haves of knowledge are priceless.",
+            "sent4": "His haves shone brighter than gold.",
+            "sent5": "The haves of happiness are immeasurable."
         },
         {
             "definition": "Owns",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He haves a beautiful house by the lake.",
+            "sent2": "She haves a collection of rare stamps.",
+            "sent3": "The cat haves the best spot on the couch.",
+            "sent4": "The company haves several branches worldwide.",
+            "sent5": "The artist haves a unique style of painting."
         }
     ]
 }

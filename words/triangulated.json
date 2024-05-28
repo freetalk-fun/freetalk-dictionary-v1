@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Divide (an area) into triangles for surveying or navigation purposes.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The team triangulated the field to create a map.",
+            "sent2": "The surveyor triangulated the land to measure its dimensions.",
+            "sent3": "The students triangulated the playground for their geography project.",
+            "sent4": "She triangulated the garden to plan the best layout for the flowers.",
+            "sent5": "The explorer triangulated the terrain to find the optimal path through the forest."
         },
         {
             "definition": "Determine the location of (a radio signal) by measuring the angles between it and two or more fixed points.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The technician triangulated the signal to pinpoint its source.",
+            "sent2": "The radar system triangulated the aircraft's position accurately.",
+            "sent3": "The detective triangulated the suspect's phone to track their movements.",
+            "sent4": "By triangulating the distress signal, they located the stranded hikers.",
+            "sent5": "The scientist triangulated the data to identify the origin of the mysterious transmission."
         }
     ]
 }

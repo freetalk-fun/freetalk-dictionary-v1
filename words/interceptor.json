@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A person or thing that intercepts or stops something from reaching its intended destination.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The brave interceptor caught the runaway ball before it hit the window.",
+            "sent2": "The security guard acted as an interceptor, preventing the thief from escaping.",
+            "sent3": "The clever cat became the interceptor of the mouse's escape plan.",
+            "sent4": "The vigilant interceptor of the soccer team always blocked the opponent's shots.",
+            "sent5": "The interceptor, like a shield, protected the village from the invading army."
         },
         {
             "definition": "A military aircraft designed to intercept and destroy enemy aircraft.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The powerful interceptor swiftly chased and took down the enemy plane.",
+            "sent2": "The air force deployed the interceptor to defend the country's airspace.",
+            "sent3": "The interceptor pilot joked that flying felt like being a bird on a mission.",
+            "sent4": "The sleek interceptor soared through the sky like a silent predator.",
+            "sent5": "The interceptor's mission was to intercept and eliminate any threat in the sky."
         },
         {
             "definition": "A device or system used to prevent unauthorized access to a network or system.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The firewall acted as an effective interceptor against cyber attacks.",
+            "sent2": "The company installed an interceptor to safeguard sensitive information.",
+            "sent3": "The digital interceptor played a crucial role in keeping hackers at bay.",
+            "sent4": "The interceptor software worked tirelessly to block malicious intrusions.",
+            "sent5": "The network's interceptor functioned like a digital gatekeeper, ensuring only authorized access."
         }
     ]
 }

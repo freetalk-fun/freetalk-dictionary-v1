@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A person or thing that is being discussed, described, or dealt with.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The main subject of the story was a brave knight.",
+            "sent2": "The subject of today's lesson is about animals.",
+            "sent3": "The subject of the meeting was so boring that everyone fell asleep.",
+            "sent4": "Her eyes were the subject of many compliments, sparkling like diamonds.",
+            "sent5": "The subject of the painting, a beautiful sunset, captured everyone's attention."
         },
         {
             "definition": "A branch of knowledge studied or taught in a school, college, or university.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Mathematics is a challenging subject for many students.",
+            "sent2": "The subject of history covers important events from the past.",
+            "sent3": "The subject of science can be both fascinating and complex.",
+            "sent4": "Her expertise in the subject of literature was evident in her insightful analysis.",
+            "sent5": "Studying the subject of geography helped him understand the world better."
         },
         {
             "definition": "To cause (someone or something) to experience or undergo (a particular thing).",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The loud noise would subject her to a sudden fright.",
+            "sent2": "Please do not subject the plants to direct sunlight for too long.",
+            "sent3": "He decided to subject himself to a challenging workout routine.",
+            "sent4": "The experiment would subject the new material to extreme temperatures.",
+            "sent5": "The harsh conditions would subject the hikers to a test of endurance."
         }
     ]
 }

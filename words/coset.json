@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A subset of a group that is obtained by multiplying each element of a fixed subset by a fixed element of the group.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "In math class, we learned about a coset, which is a special group subset.",
+            "sent2": "The coset of the subgroup was determined by multiplying each element by a specific group element.",
+            "sent3": "The coset of numbers decided to have a party and only invited their multiples.",
+            "sent4": "The coset stood out in the group like a colorful flower in a field of grass.",
+            "sent5": "Visualizing a coset is like picturing a group within a group, each element connected by multiplication."
         },
         {
             "definition": "To form a coset of a subset in a group.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "We coset the subset to create a new group structure.",
+            "sent2": "She cosets the elements to generate the coset of the subgroup.",
+            "sent3": "Coseting the numbers felt like rearranging puzzle pieces to form a new picture.",
+            "sent4": "The team coseted their efforts to achieve a common goal.",
+            "sent5": "Coseting the subset was like mixing ingredients to bake a mathematical cake."
         }
     ]
 }

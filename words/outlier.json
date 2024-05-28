@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A person or thing differing from all other members of a particular group or set.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "In the classroom, Sarah was the outlier because she was the only one wearing a red hat.",
+            "sent2": "The black sheep of the family was considered the outlier due to his unconventional lifestyle.",
+            "sent3": "At the zoo, the penguin was the outlier among the birds because it couldn't fly.",
+            "sent4": "Among the sea of blue cars, the bright pink one stood out like an outlier.",
+            "sent5": "The lone tree in the middle of the desert was a striking outlier in the barren landscape."
         },
         {
             "definition": "A data point that is significantly different from other data points in a statistical analysis.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The temperature reading of 100 degrees was an outlier in the dataset of mild spring days.",
+            "sent2": "The outlier in the survey results skewed the overall average of responses.",
+            "sent3": "The outlier data point was like a rebel in the midst of conformity.",
+            "sent4": "The outlier value was like a bright red flag waving in a sea of neutral colors.",
+            "sent5": "The outlier data point was so extreme that it was impossible to ignore in the analysis."
         }
     ]
 }

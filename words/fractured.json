@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Broken or cracked",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The fractured vase lay in pieces on the floor.",
+            "sent2": "The fractured mirror reflected a distorted image.",
+            "sent3": "The fractured cookie crumbled into delicious crumbs.",
+            "sent4": "His fractured heart slowly healed over time.",
+            "sent5": "The fractured ice made a beautiful pattern on the pond."
         },
         {
             "definition": "To break or crack",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She accidentally fractured the glass when she dropped it.",
+            "sent2": "The earthquake caused the ground to fracture in many places.",
+            "sent3": "The loud noise fractured the silence of the night.",
+            "sent4": "His words fractured their friendship irreparably.",
+            "sent5": "The hammer's force fractured the rock into pieces."
         },
         {
             "definition": "To cause a fracture in something",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The heavy impact fractured the wall, creating a hole.",
+            "sent2": "The intense pressure can fracture even the strongest materials.",
+            "sent3": "His joke fractured the serious atmosphere of the meeting.",
+            "sent4": "The betrayal fractured their trust in each other.",
+            "sent5": "The surgeon carefully fractured the bone to set it properly."
         }
     ]
 }

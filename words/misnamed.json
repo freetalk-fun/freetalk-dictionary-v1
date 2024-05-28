@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To give the wrong name to.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She misnamed her cat 'Dog' by accident.",
+            "sent2": "The teacher misnamed the student during roll call.",
+            "sent3": "The misnamed plant thought it was a tree.",
+            "sent4": "The misnamed street led us in the wrong direction.",
+            "sent5": "The misnamed book cover did not match the story inside."
         },
         {
             "definition": "Incorrectly named.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The misnamed street sign caused confusion for drivers.",
+            "sent2": "The misnamed restaurant served Italian food, not Mexican.",
+            "sent3": "The misnamed clown was actually very serious.",
+            "sent4": "The misnamed flower bloomed in the shade, defying its name.",
+            "sent5": "The misnamed building was not a castle, but a simple house."
         }
     ]
 }

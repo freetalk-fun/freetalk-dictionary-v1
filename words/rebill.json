@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To bill again for a product or service.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I will rebill the customer for the repair service.",
+            "sent2": "The company decided to rebill the client for the additional features.",
+            "sent3": "The mechanic had to rebill the customer after the payment got lost in the mail.",
+            "sent4": "She had to rebill the client multiple times to ensure the payment was received.",
+            "sent5": "The software system can automatically rebill customers for subscription renewals."
         },
         {
             "definition": "A bill that is sent out again for payment.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The rebill was necessary due to an error in the initial invoice.",
+            "sent2": "The accountant prepared the rebill for the outstanding balance.",
+            "sent3": "The rebill caused confusion as the client thought they had already paid.",
+            "sent4": "Receiving a rebill reminded him of the forgotten payment.",
+            "sent5": "The rebill included a note explaining the reason for the additional charge."
         }
     ]
 }

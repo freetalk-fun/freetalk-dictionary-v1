@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To suppress or delete anything considered objectionable.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The teacher censored the inappropriate words from the student's essay.",
+            "sent2": "The government censored the sensitive information before releasing the report.",
+            "sent3": "The comedian joked that the cat censored the dog's barking to keep the peace.",
+            "sent4": "The editor censored the article, removing all controversial statements.",
+            "sent5": "In the movie, the villain censored the hero's speech to control the narrative."
         },
         {
             "definition": "To examine and expurgate.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The librarian censored the book for any errors before it was published.",
+            "sent2": "The team censored the document to ensure accuracy and clarity.",
+            "sent3": "The detective censored the suspect's alibi, looking for inconsistencies.",
+            "sent4": "The scientist censored the data, removing outliers to improve the results.",
+            "sent5": "The artist censored the painting, refining each detail for perfection."
         }
     ]
 }

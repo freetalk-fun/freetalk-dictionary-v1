@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Say or estimate that (a specified thing) will happen in the future or will be a consequence of something.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I can predict the weather by looking at the clouds.",
+            "sent2": "She predicts that it will rain tomorrow.",
+            "sent3": "The cat tried to predict when the next meal would be served.",
+            "sent4": "His experience in the field allows him to predict market trends accurately.",
+            "sent5": "The fortune teller predicted my future with eerie accuracy."
         },
         {
             "definition": "Foretell or prophesy what will happen.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The old man can predict the outcome of any game.",
+            "sent2": "Many ancient cultures believed in prophets who could predict events.",
+            "sent3": "The magic eight ball tried to predict the lottery numbers.",
+            "sent4": "Her dreams seemed to predict major life events.",
+            "sent5": "The seer's visions always predict the fate of the kingdom."
         }
     ]
 }

@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A person who recommends something.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "My friend is a helpful recommender when it comes to choosing movies.",
+            "sent2": "The recommender at the bookstore suggested a great novel for me to read.",
+            "sent3": "The recommender joked that I should try skydiving without a parachute!",
+            "sent4": "She was a recommender of good taste, always pointing out the best restaurants in town.",
+            "sent5": "The recommender's advice was like a shining beacon in a sea of confusion."
         },
         {
             "definition": "A tool or system that suggests or advises something.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The online recommender on the shopping website helped me find the perfect gift.",
+            "sent2": "The recommender in the music app suggested a new artist based on my preferences.",
+            "sent3": "The recommender in the weather app humorously advised me to bring sunscreen during a snowstorm.",
+            "sent4": "The recommender in the fitness app pushed me to reach new goals every day.",
+            "sent5": "The recommender's algorithm worked like a magic wand, predicting my needs before I even knew them."
         }
     ]
 }

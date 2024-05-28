@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To understand or solve something",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She figured out the puzzle quickly.",
+            "sent2": "I finally figured what was causing the issue.",
+            "sent3": "After a lot of thinking, she figured out a funny way to solve the problem.",
+            "sent4": "He figured out the solution like a detective cracking a case.",
+            "sent5": "The answer suddenly figured in her mind like a light bulb turning on."
         },
         {
             "definition": "To calculate or estimate",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He figured the total cost of the project.",
+            "sent2": "She figured that it would take about an hour to complete.",
+            "sent3": "The kids figured the number of candies in the jar with wild guesses.",
+            "sent4": "The scientist figured the distance between the stars using complex equations.",
+            "sent5": "The student figured the answer by counting on his fingers."
         },
         {
             "definition": "Having a particular shape or appearance",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The vase had a figured design on it.",
+            "sent2": "The curtains were figured with intricate patterns.",
+            "sent3": "The cake was figured with colorful icing shapes.",
+            "sent4": "The wallpaper had a figured texture that felt smooth to the touch.",
+            "sent5": "The dress had a figured silhouette that flattered her figure."
         }
     ]
 }

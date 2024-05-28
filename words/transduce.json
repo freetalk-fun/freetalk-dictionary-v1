@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To convert (energy) from one form to another.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The solar panels transduce sunlight into electricity.",
+            "sent2": "The microphone transduces sound waves into electrical signals.",
+            "sent3": "The superhero's power is to transduce sunlight into laser beams.",
+            "sent4": "Her smile seemed to transduce happiness to everyone around her.",
+            "sent5": "The windmill's blades transduce the wind's energy into rotational motion."
         },
         {
             "definition": "To convert (a signal) from one form to another.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The radio transduces radio waves into music.",
+            "sent2": "The modem transduces digital data into analog signals.",
+            "sent3": "The translator's job is to transduce language from one to another.",
+            "sent4": "His artistry can transduce emotions into beautiful melodies.",
+            "sent5": "The converter box transduces the TV signal for older TVs."
         },
         {
             "definition": "To convert (genetic information) from one form to another.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The cell transduces genetic information during replication.",
+            "sent2": "The virus transduces its genetic material into the host cell.",
+            "sent3": "The geneticist's experiment aimed to transduce DNA sequences.",
+            "sent4": "The gene therapy can transduce healthy genes into diseased cells.",
+            "sent5": "The genetic mutation can transduce harmful traits to offspring."
         }
     ]
 }

@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Edit text for publication.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I will redact the article to make it shorter.",
+            "sent2": "The editor will redact the document before printing it.",
+            "sent3": "The teacher asked me to redact my essay to fit the word limit.",
+            "sent4": "She carefully redacted the unnecessary details from the report.",
+            "sent5": "He had to redact the email to ensure it was appropriate for all readers."
         },
         {
             "definition": "Prepare for publication by obscuring or removing sensitive information.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The government agency will redact the classified information.",
+            "sent2": "Before releasing the document, they need to redact personal details.",
+            "sent3": "I had to redact the confidential data to protect privacy.",
+            "sent4": "She decided to redact the names to maintain anonymity.",
+            "sent5": "It is crucial to redact any sensitive content before sharing the file."
         }
     ]
 }

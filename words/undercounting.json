@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To count less than the actual number.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She kept undercounting the candies in the jar.",
+            "sent2": "The cashier was undercounting the money in the register.",
+            "sent3": "The robot's undercounting of screws led to a wonky assembly.",
+            "sent4": "His habit of undercounting his steps made his fitness tracker inaccurate.",
+            "sent5": "Undercounting the ingredients in a recipe can ruin the dish."
         },
         {
             "definition": "The act of counting fewer items than are actually present.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The undercounting of chairs in the room caused a seating shortage.",
+            "sent2": "The undercounting of books in the library led to confusion.",
+            "sent3": "The undercounting of balloons at the party made the decorations look sparse.",
+            "sent4": "The undercounting of votes in the election raised concerns about accuracy.",
+            "sent5": "The undercounting of students in the class affected the teacher's planning."
         }
     ]
 }

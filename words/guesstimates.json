@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "An estimate based on a mixture of guesswork and calculation.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "My guesstimates for the number of jellybeans in the jar are usually way off.",
+            "sent2": "We had to rely on guesstimates to plan the party since we didn't have exact numbers.",
+            "sent3": "I made guesstimates about how many cookies to bake, but now we have too many!",
+            "sent4": "Her guesstimates about the weather are as accurate as a broken clock.",
+            "sent5": "The detective's guesstimates were so precise, it was like he had a crystal ball."
         },
         {
             "definition": "To make an estimate based on guesswork rather than precise calculation.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I always guesstimate the time it takes to walk to school.",
+            "sent2": "When we don't have all the data, we have to guesstimate the project's cost.",
+            "sent3": "She guesstimated the weight of the pumpkin by lifting it in her arms.",
+            "sent4": "The coach had to guesstimate the players' speeds during the race.",
+            "sent5": "He guesstimates the distance to the moon by looking at the night sky."
         }
     ]
 }

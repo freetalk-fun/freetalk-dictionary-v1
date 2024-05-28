@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A quantity of medicine or drug taken at one time",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "She took a dose of cough syrup before going to bed.",
+            "sent2": "The doctor prescribed a dose of antibiotics for the infection.",
+            "sent3": "The cat accidentally knocked over the bottle of medicine, spilling the dose.",
+            "sent4": "His words were like a dose of bitter medicine, hard to swallow but necessary.",
+            "sent5": "The dose of pain relief brought instant comfort to the patient."
         },
         {
             "definition": "A small amount of something",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "A dose of sugar is enough to sweeten the tea.",
+            "sent2": "He added a dose of humor to his presentation to lighten the mood.",
+            "sent3": "The dose of laughter from the audience was music to the comedian's ears.",
+            "sent4": "Her smile was a dose of sunshine on a cloudy day.",
+            "sent5": "A dose of courage helped him face his fears."
         },
         {
             "definition": "To administer a dose of medicine or drug to someone",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The nurse will dose the patient with the prescribed medication.",
+            "sent2": "He carefully dosed out the painkillers to avoid an overdose.",
+            "sent3": "The mischievous dog managed to dose himself with the treats left on the table.",
+            "sent4": "She dosed her plants with fertilizer to help them grow stronger.",
+            "sent5": "The coach will dose the players with energy drinks before the game."
         }
     ]
 }

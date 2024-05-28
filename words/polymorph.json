@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "An organism that can exist in multiple forms or shapes.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The chameleon is a polymorph, able to change its color to blend in with its surroundings.",
+            "sent2": "The octopus is a polymorph, capable of altering its shape to escape predators.",
+            "sent3": "The polymorph butterfly amused the children as it transformed from a caterpillar.",
+            "sent4": "Her talent for acting was like a polymorph, allowing her to embody various characters effortlessly.",
+            "sent5": "The superhero's ability to polymorph into different animals made him a formidable ally."
         },
         {
             "definition": "A mineral that can crystallize in different forms.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The quartz is a polymorph, forming crystals in various shapes and sizes.",
+            "sent2": "Diamond and graphite are polymorphs, both originating from carbon atoms but with different structures.",
+            "sent3": "The polymorph gemstone sparkled in the sunlight, catching everyone's eye.",
+            "sent4": "The polymorph crystal reflected light in a dazzling array of colors, like a miniature rainbow.",
+            "sent5": "The jeweler marveled at the polymorph nature of the gemstone, appreciating its versatility in jewelry making."
         },
         {
             "definition": "A programming concept where a single interface can be used to represent multiple data types.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "In object-oriented programming, polymorphs allow a function to behave differently based on the data type.",
+            "sent2": "The polymorph feature in the software enables seamless integration of diverse data formats.",
+            "sent3": "The programmer chuckled at the polymorph code, which cleverly adapted to different input variables.",
+            "sent4": "The polymorph concept in coding is like a shape-shifter, transforming its behavior as needed.",
+            "sent5": "The polymorph capability of the program made it adaptable to various user requirements, enhancing its usability."
         }
     ]
 }

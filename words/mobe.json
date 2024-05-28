@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A mobile phone",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I use my mobe to call my friend.",
+            "sent2": "She forgot her mobe at home today.",
+            "sent3": "The mobe rang loudly during the movie.",
+            "sent4": "His shiny mobe was the envy of his classmates.",
+            "sent5": "The lost mobe was found under the couch."
         },
         {
             "definition": "To move or shift from one place to another",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Can you mobe the chair to the other side of the room?",
+            "sent2": "The workers will mobe the heavy boxes carefully.",
+            "sent3": "He tried to mobe the mountain, but it didn't budge.",
+            "sent4": "The clouds mobe slowly across the sky.",
+            "sent5": "The dancer's feet mobe gracefully to the music."
         }
     ]
 }

@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Lower in rank, status, or quality than another or others.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The blue car was inferior to the red one.",
+            "sent2": "The old phone was inferior to the new model.",
+            "sent3": "The inferior pencil tried to outshine the pen.",
+            "sent4": "Her skills were inferior to those of her classmates.",
+            "sent5": "The inferior quality of the fabric was evident in its rough texture."
         },
         {
             "definition": "A person lower than another in rank, status, or ability.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The intern felt inferior to the experienced employees.",
+            "sent2": "He always saw himself as an inferior in the team.",
+            "sent3": "The inferior joked about being the 'assistant to the assistant'.",
+            "sent4": "She was an inferior in the world of chess grandmasters.",
+            "sent5": "The inferior struggled to keep up with the top performers in the competition."
         }
     ]
 }

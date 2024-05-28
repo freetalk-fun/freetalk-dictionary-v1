@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To cause to curve or become curved",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She bends the wire to make a circle.",
+            "sent2": "He bends down to tie his shoelaces.",
+            "sent3": "The tree bends gracefully in the wind.",
+            "sent4": "Time bends our memories like a river reshaping its course.",
+            "sent5": "The artist bends the light to create beautiful shadows."
         },
         {
             "definition": "A curved or angular deviation from a straight line",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The road has many sharp bends.",
+            "sent2": "The river flows around a bend in the valley.",
+            "sent3": "The bend in the path led to a hidden garden.",
+            "sent4": "The bend of her smile brightened the room.",
+            "sent5": "The bend of the mountain obscured the view beyond."
         },
         {
             "definition": "A force that causes something to curve",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The strong wind creates a bend in the flagpole.",
+            "sent2": "The weight of the book creates a bend in the shelf.",
+            "sent3": "The bend of the magnet pulls the metal closer.",
+            "sent4": "Love is the invisible bend that draws hearts together.",
+            "sent5": "The bend of gravity keeps the planets in orbit."
         }
     ]
 }

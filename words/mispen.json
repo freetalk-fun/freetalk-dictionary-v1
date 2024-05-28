@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Mispen (verb): to incorrectly perceive or understand something",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She mispens the directions and gets lost easily.",
+            "sent2": "It is easy to mispen someone's intentions if you don't communicate clearly.",
+            "sent3": "He mispens the situation and thinks his cat is a dog.",
+            "sent4": "The fog mispens the view, making everything appear blurry.",
+            "sent5": "The funhouse mirrors mispen reality, distorting shapes and sizes."
         },
         {
             "definition": "Mispen (noun): a mistake or error in perception or understanding",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Making a mispen can lead to confusion and misunderstandings.",
+            "sent2": "She realized her mispen only after the meeting had ended.",
+            "sent3": "The mispen in the report caused delays in the project.",
+            "sent4": "His mispen was like wearing glasses with the wrong prescription.",
+            "sent5": "The mispen in the map led them to the wrong destination."
         }
     ]
 }

@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Make (someone or something) late or slow.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The heavy traffic delayed the bus from arriving on time.",
+            "sent2": "The train was delayed due to mechanical issues.",
+            "sent3": "The snail delayed its journey to enjoy the scenery along the way.",
+            "sent4": "Her procrastination delayed her success like a stubborn obstacle in her path.",
+            "sent5": "The storm delayed the flight, leaving passengers stranded at the airport."
         },
         {
             "definition": "Postpone or defer.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "They decided to delay the meeting until next week.",
+            "sent2": "The event was delayed because of bad weather.",
+            "sent3": "The student delayed studying for the exam until the last minute.",
+            "sent4": "The decision to delay the project had long-term consequences.",
+            "sent5": "The company had to delay the product launch due to production issues."
         }
     ]
 }

@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Store away in hiding or for future use.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I cached my favorite toy under the bed.",
+            "sent2": "She cached her savings in a secret jar.",
+            "sent3": "The squirrel cached nuts in the tree hollow, but forgot where.",
+            "sent4": "He cached his memories in a mental vault, locked away from the world.",
+            "sent5": "The pirate cached his treasure on a deserted island, marked by an 'X'."
         },
         {
             "definition": "A hidden storage space for items.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The explorer found a hidden cache of ancient artifacts.",
+            "sent2": "The spy discovered a secret cache of documents in the wall.",
+            "sent3": "The cache of snacks in the pantry mysteriously disappeared overnight.",
+            "sent4": "She stumbled upon a cache of old letters in the attic, revealing family secrets.",
+            "sent5": "The cache of supplies in the bunker sustained them during the storm."
         }
     ]
 }

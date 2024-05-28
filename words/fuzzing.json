@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Fuzzing: The process of testing software by inputting random data to find vulnerabilities.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "During fuzzing, the program is tested with random inputs.",
+            "sent2": "Security experts use fuzzing to identify weaknesses in software.",
+            "sent3": "The computer scientist chuckled as she imagined fuzzing making the software go haywire.",
+            "sent4": "In the world of coding, fuzzing is like a detective uncovering hidden bugs.",
+            "sent5": "The concept of fuzzing is like shining a bright light on software flaws."
         },
         {
             "definition": "Fuzzing: The act of making something blurry or indistinct.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The artist created a painting with fuzzing around the edges for a dreamy effect.",
+            "sent2": "The fog outside the window was causing fuzzing of the streetlights.",
+            "sent3": "The magician used fuzzing to make the rabbit disappear in a cloud of confusion.",
+            "sent4": "Her memories of that day were like a picture with fuzzing around the edges, unclear and hazy.",
+            "sent5": "The old photograph had a nostalgic charm with its gentle fuzzing of colors."
         },
         {
             "definition": "Fuzzing: A technique used in computer security to discover coding errors.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The IT team employed fuzzing to catch any hidden bugs in the system.",
+            "sent2": "Fuzzing is an essential step in ensuring the safety of online transactions.",
+            "sent3": "The hacker attempted to bypass the security measures, but the fuzzing caught them off guard.",
+            "sent4": "In the digital realm, fuzzing acts as a vigilant guardian against cyber threats.",
+            "sent5": "The company invested in fuzzing to fortify their defenses against potential breaches."
         }
     ]
 }

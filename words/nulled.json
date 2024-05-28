@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To make null or void.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She nulled the contract by tearing it up.",
+            "sent2": "The judge nulled the decision due to new evidence.",
+            "sent3": "The magician nulled the disappearing act by revealing the hidden compartment.",
+            "sent4": "The storm nulled all plans for the outdoor event.",
+            "sent5": "The erase button on the computer keyboard nulled the mistake instantly."
         },
         {
             "definition": "Having no legal force or effect.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The nulled agreement was no longer binding.",
+            "sent2": "The nulled passport was not accepted at the border.",
+            "sent3": "The nulled parking ticket made him feel lucky.",
+            "sent4": "The nulled warranty left the customer unprotected.",
+            "sent5": "The nulled membership card was useless at the store."
         },
         {
             "definition": "To cancel or invalidate.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He nulled the subscription before the trial period ended.",
+            "sent2": "The company nulled the faulty product return.",
+            "sent3": "The student nulled the wrong answer with a correction.",
+            "sent4": "The chef nulled the burnt dish and started over.",
+            "sent5": "The teacher nulled the quiz results due to a mistake in grading."
         }
     ]
 }

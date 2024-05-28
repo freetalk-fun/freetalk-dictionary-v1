@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Warn or signal to be prepared for danger or an emergency.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The loud siren was alerting everyone to evacuate the building.",
+            "sent2": "The lifeguard blew the whistle, alerting the swimmers to get out of the water.",
+            "sent3": "The barking dog was alerting the family of the approaching visitor.",
+            "sent4": "The dark clouds gathering in the sky were alerting us to an incoming storm.",
+            "sent5": "The flashing lights were alerting drivers to slow down for the construction ahead."
         },
         {
             "definition": "The act of making someone aware of a potential threat or problem.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The alerting of the students about the fire drill was done through the intercom.",
+            "sent2": "Her quick thinking and alerting of the authorities prevented a major disaster.",
+            "sent3": "The cat's meowing was an amusing way of alerting its owner to feed it.",
+            "sent4": "The red flags on the beach were alerting beachgoers of dangerous currents.",
+            "sent5": "The loud alarm was an alerting that the store was closing soon."
         }
     ]
 }

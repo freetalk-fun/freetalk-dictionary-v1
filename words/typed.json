@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To write or input text on a typewriter or computer.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She typed a letter to her friend on the computer.",
+            "sent2": "He typed his essay on the typewriter.",
+            "sent3": "The cat accidentally typed a jumble of letters on the keyboard.",
+            "sent4": "Her fingers danced across the keys as she typed her thoughts.",
+            "sent5": "The sound of typing filled the room as she worked diligently."
         },
         {
             "definition": "Past tense of type.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The typed document was neatly organized in the folder.",
+            "sent2": "She found an old typed letter in the attic.",
+            "sent3": "The typed notes were easy to read and understand.",
+            "sent4": "His typed report stood out among the handwritten ones.",
+            "sent5": "The typed words on the screen brought back memories of the past."
         }
     ]
 }

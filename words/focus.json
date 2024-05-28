@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "The center of interest or activity.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "In the painting, the artist made the flower the focus of the artwork.",
+            "sent2": "The teacher's focus during the lesson was on multiplication.",
+            "sent3": "The focus of the party was the delicious cake that everyone enjoyed.",
+            "sent4": "Her bright smile was the focus of the room, lighting up the whole space.",
+            "sent5": "The bright red balloon was the focus of the children's attention at the party."
         },
         {
             "definition": "To concentrate attention or effort.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "During the test, I need to focus on answering each question carefully.",
+            "sent2": "She needed to focus on finishing her homework before going out to play.",
+            "sent3": "I tried to focus on studying, but my cat kept distracting me by playing with my pencil.",
+            "sent4": "As the deadline approached, she had to focus all her energy on completing the project.",
+            "sent5": "The athlete needed to focus on his breathing to maintain his stamina during the race."
         },
         {
             "definition": "To adjust the focus of a lens or optical instrument.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The photographer needed to focus the camera lens to capture a clear image.",
+            "sent2": "He carefully focused the binoculars to get a better view of the distant mountains.",
+            "sent3": "She tried to focus the microscope, but it took a few tries to get the image sharp.",
+            "sent4": "The astronomer adjusted the telescope to focus on a specific star in the night sky.",
+            "sent5": "To take a clear picture, make sure to focus the camera lens on the subject before clicking."
         }
     ]
 }

@@ -3,19 +3,39 @@
     "meanings": [
         {
             "definition": "A portable light source typically consisting of a stick with a flaming end.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I used a torch to find my way in the dark cave.",
+            "sent2": "The hiker carried a torch to light up the trail at night.",
+            "sent3": "The torch flickered as I walked through the spooky forest.",
+            "sent4": "Her determination was a torch guiding her through tough times.",
+            "sent5": "The torch's glow revealed hidden treasures in the ancient ruins."
         },
         {
             "definition": "To set fire to something using a torch.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He decided to torch the old pile of leaves in the backyard.",
+            "sent2": "The arsonist planned to torch the abandoned building.",
+            "sent3": "She accidentally torched her hair while trying to light a candle.",
+            "sent4": "The sun's rays seemed to torch the fields with their intense heat.",
+            "sent5": "The dragon's breath could easily torch anything in its path."
         },
         {
             "definition": "A long stick with a flame at one end used for illumination or signaling.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The scout carried a torch to signal for help in the wilderness.",
+            "sent2": "The torch on the ship helped guide sailors through the night.",
+            "sent3": "The magician's trick involved pulling a rabbit out of a torch.",
+            "sent4": "Her passion for music was like a torch lighting up the stage.",
+            "sent5": "The torch's glow cast eerie shadows on the cave walls."
         },
         {
             "definition": "To burn or destroy something with a torch.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The criminal planned to torch the evidence before fleeing.",
+            "sent2": "The firefighters had to torch the old building to prevent the fire from spreading.",
+            "sent3": "He accidentally torched his notes while trying to light a candle.",
+            "sent4": "The intense heat seemed to torch the fragile flowers in the garden.",
+            "sent5": "The anger in his eyes could easily torch any hope of reconciliation."
         }
     ]
 }

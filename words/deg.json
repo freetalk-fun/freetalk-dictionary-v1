@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A unit of measurement for angles, equal to 1/360th of a full rotation.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "She measured the angle in degrees using a protractor.",
+            "sent2": "The circle is divided into 360 degrees.",
+            "sent3": "Why did the triangle go to school? To get its degrees!",
+            "sent4": "Her smile spread across her face in a 180-degree arc.",
+            "sent5": "The thermometer showed a scorching 100 degrees outside."
         },
         {
             "definition": "To remove impurities or dirt from something.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She used a cloth to deg the stains from the table.",
+            "sent2": "It is important to deg your hands before eating.",
+            "sent3": "Why did the broom break up with the mop? It couldn't handle the deg!",
+            "sent4": "Her laughter seemed to deg the tension in the room.",
+            "sent5": "The soap was able to deg the grease off the dishes effectively."
         },
         {
             "definition": "To decrease in size, amount, or intensity.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The company had to deg its workforce due to financial difficulties.",
+            "sent2": "The music gradually began to deg in volume.",
+            "sent3": "Why did the balloon refuse to fly? It was afraid of heights degging!",
+            "sent4": "His enthusiasm seemed to deg as the project progressed.",
+            "sent5": "The colors of the sunset started to deg into the horizon."
         }
     ]
 }

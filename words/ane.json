@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "One",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I have only one apple left in the basket.",
+            "sent2": "She picked up one book from the shelf.",
+            "sent3": "The teacher asked the students to bring one pencil each.",
+            "sent4": "The lonely tree stood as the only one in the field.",
+            "sent5": "The detective found only one clue at the crime scene."
         },
         {
             "definition": "A single one",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "He found a single coin on the sidewalk.",
+            "sent2": "The child held a single balloon in her hand.",
+            "sent3": "The chef added a single cherry on top of the cake.",
+            "sent4": "The old house had a single window overlooking the garden.",
+            "sent5": "The explorer discovered a single footprint in the sand."
         },
         {
-            "definition": "A suffix meaning \"related to\" or \"derived from\"",
-            "pos": "noun"
+            "definition": "A suffix meaning 'related to' or 'derived from'",
+            "pos": "noun",
+            "sent1": "The word 'Germane' contains the suffix 'ane'.",
+            "sent2": "In 'Urbane', the 'ane' signifies sophistication.",
+            "sent3": "The term 'Humane' includes the 'ane' suffix for compassion.",
+            "sent4": "The scientist explained that 'Ultramarine' has 'ane' indicating beyond the sea.",
+            "sent5": "The artist used 'Cubane' in the painting, showing its geometric nature."
         }
     ]
 }

@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To remove errors or defects from (a computer program)",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She debugs the code to fix any mistakes.",
+            "sent2": "He always debugs his programs before submitting them.",
+            "sent3": "The programmer debugs the code with a determined look on her face.",
+            "sent4": "Debugging the program is like finding a needle in a haystack.",
+            "sent5": "After she debugs the code, it runs smoothly without any issues."
         },
         {
             "definition": "To identify and eliminate errors or defects in (a system or process)",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He debugs the system to ensure it functions correctly.",
+            "sent2": "The IT specialist debugs the network to improve its performance.",
+            "sent3": "Debugging the process turned out to be easier than expected.",
+            "sent4": "She debugs the system with precision and expertise.",
+            "sent5": "The team debugs the process to streamline operations and increase efficiency."
         }
     ]
 }

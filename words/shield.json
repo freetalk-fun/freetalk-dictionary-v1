@@ -3,19 +3,39 @@
     "meanings": [
         {
             "definition": "A broad piece of armor made of rigid material and carried on the arm for protection in hand-to-hand combat.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The knight raised his shield to block the enemy's attack.",
+            "sent2": "The shield on the soldier's arm gleamed in the sunlight.",
+            "sent3": "The shield looked like a giant metal cookie protecting the warrior.",
+            "sent4": "Her smile was her shield against the world's cruelty.",
+            "sent5": "The shield bore the scars of many battles, a testament to its strength."
         },
         {
             "definition": "A protective plate or screen on machinery or equipment.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The machine's shield prevented sparks from escaping.",
+            "sent2": "The shield on the computer protected it from dust and debris.",
+            "sent3": "The shield on the robot was like a shiny shield for a tiny knight.",
+            "sent4": "Her laughter was a shield against the monotony of the office.",
+            "sent5": "The shield on the car's engine kept it safe from harm."
         },
         {
             "definition": "To protect or defend from harm, danger, or attack.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She shielded her eyes from the bright sun with her hand.",
+            "sent2": "The umbrella shielded him from the rain during the storm.",
+            "sent3": "He shielded his friend from the embarrassing situation by making a joke.",
+            "sent4": "Her love shielded him from the harsh realities of life.",
+            "sent5": "The tree shielded the house from the strong winds."
         },
         {
             "definition": "To prevent something undesirable from affecting or harming.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The firewall shielded the computer from viruses.",
+            "sent2": "The sunscreen shielded her skin from the harmful UV rays.",
+            "sent3": "He shielded his ears from the loud music by wearing headphones.",
+            "sent4": "Her positive attitude shielded her from negativity.",
+            "sent5": "The mask shielded his identity from prying eyes."
         }
     ]
 }

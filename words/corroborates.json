@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To confirm or give support to (a statement, theory, or finding)",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The witness corroborates the suspect's alibi.",
+            "sent2": "The DNA evidence corroborates the victim's testimony.",
+            "sent3": "The detective's hunch corroborates the security footage.",
+            "sent4": "The data from the experiment corroborates the hypothesis.",
+            "sent5": "The expert's analysis corroborates the initial conclusion."
         },
         {
             "definition": "To strengthen or make more certain by providing additional evidence or proof",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The new information corroborates the existing data.",
+            "sent2": "The detailed report corroborates the witness's account.",
+            "sent3": "The unexpected results corroborate the scientist's excitement.",
+            "sent4": "The additional witness testimony corroborates the case against the suspect.",
+            "sent5": "The supportive comments corroborate the speaker's confidence."
         }
     ]
 }

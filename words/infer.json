@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To deduce or conclude from evidence or reasoning.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I can infer from the footprints that a dog was here.",
+            "sent2": "She could infer from the dark clouds that it might rain soon.",
+            "sent3": "He tried to infer from the messy room that a tornado had passed through.",
+            "sent4": "The detective could infer from the fingerprints who the culprit was.",
+            "sent5": "By the look on her face, I could infer that she was upset."
         },
         {
             "definition": "To guess or speculate based on available information.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Based on the empty cookie jar, I can infer that my brother ate all the cookies.",
+            "sent2": "She will infer from the closed blinds that her roommate is still sleeping.",
+            "sent3": "I infer from the loud music that there must be a party next door.",
+            "sent4": "The teacher could infer from the unfinished homework that the students had a busy weekend.",
+            "sent5": "From the long line outside the store, I could infer that they were having a sale."
         }
     ]
 }

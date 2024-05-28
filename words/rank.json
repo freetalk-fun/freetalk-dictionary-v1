@@ -3,19 +3,39 @@
     "meanings": [
         {
             "definition": "A position in a hierarchy.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "In the army, the general holds a high rank.",
+            "sent2": "She worked hard to climb the ranks in her company.",
+            "sent3": "The cat believed he held the highest rank in the household.",
+            "sent4": "Among the flowers, the sunflower held the rank of tallest.",
+            "sent5": "The king's crown symbolized his rank and authority."
         },
         {
             "definition": "Strong and unpleasant in smell.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The rank smell of rotten eggs filled the room.",
+            "sent2": "The garbage left out for days had a very rank odor.",
+            "sent3": "The skunk sprayed a rank scent to protect itself.",
+            "sent4": "The old cheese had a rank aroma that made everyone cringe.",
+            "sent5": "The gym locker room had a rank stench after a long day of practice."
         },
         {
             "definition": "A line or row of people or things.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The students stood in a single rank during the assembly.",
+            "sent2": "The soldiers marched in perfect ranks on the parade ground.",
+            "sent3": "The books on the shelf were arranged in a neat rank.",
+            "sent4": "The ducks swam in a straight rank across the pond.",
+            "sent5": "The trees in the orchard were planted in a row and formed a rank."
         },
         {
             "definition": "To have a particular position in a list of people or things based on quality, importance, etc.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Her performance in the competition helped her rank first.",
+            "sent2": "The restaurant consistently ranks high in customer satisfaction.",
+            "sent3": "The cat tried to rank itself above the dog in the household hierarchy.",
+            "sent4": "The new movie quickly ranked as the most-watched film of the year.",
+            "sent5": "The athlete's dedication allowed him to rank among the top competitors in the world."
         }
     ]
 }

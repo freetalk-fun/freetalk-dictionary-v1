@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To make an incorrect guess.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She misguesses the answer on the quiz.",
+            "sent2": "He often misguesses the number of jellybeans in the jar.",
+            "sent3": "The magician misguesses the card every time, making the audience laugh.",
+            "sent4": "Her intuition misguesses the outcome of the game like a broken compass.",
+            "sent5": "The detective's misguesses led him down the wrong path in the investigation."
         },
         {
             "definition": "Incorrect guesses.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Their misguesses about the weather caused them to pack the wrong clothes.",
+            "sent2": "The game show contestant's misguesses cost him the grand prize.",
+            "sent3": "The misguesses in the riddle made it even more challenging to solve.",
+            "sent4": "His misguesses in the treasure hunt left him empty-handed.",
+            "sent5": "The teacher could easily spot the misguesses in the students' multiple-choice answers."
         }
     ]
 }

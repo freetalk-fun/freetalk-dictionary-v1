@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A person's name written in a distinctive way as a form of identification.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "My signature is unique to me and helps people know who I am.",
+            "sent2": "Please put your signature at the bottom of the page to confirm your identity.",
+            "sent3": "I pretended to be a detective and signed my name with a fancy signature.",
+            "sent4": "Her signature style of writing stood out like a colorful painting in a black-and-white world.",
+            "sent5": "The artist's signature on the painting was so beautiful that it became a work of art itself."
         },
         {
             "definition": "A distinctive pattern, product, or characteristic by which someone or something can be identified.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The logo on the box is the company's signature design.",
+            "sent2": "The scent of fresh cookies baking in the oven is a signature of Grandma's house.",
+            "sent3": "The cat's signature meow always sounded like a tiny trumpet.",
+            "sent4": "The mountain range's signature silhouette against the sunset was breathtaking.",
+            "sent5": "The actor's signature move in the dance routine wowed the audience every time."
         },
         {
             "definition": "To sign or authorize a document with one's signature.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Please remember to signature the contract before submitting it.",
+            "sent2": "He will signature the agreement to make it official.",
+            "sent3": "I had to signature so many papers that my hand started to ache.",
+            "sent4": "Her decision to signature the letter sealed her fate in the company.",
+            "sent5": "The CEO's decision to signature the deal marked a new chapter for the business."
         }
     ]
 }

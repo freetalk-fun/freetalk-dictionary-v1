@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Displayed or affixed in a public place for public notice or advertisement.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The posted sign warned about the upcoming event.",
+            "sent2": "The bulletin board was covered with posted flyers.",
+            "sent3": "The posted notice about the lost cat made everyone laugh.",
+            "sent4": "The posted announcement caught everyone's attention.",
+            "sent5": "The bright red posted sign was impossible to miss."
         },
         {
             "definition": "Sent or submitted for consideration or approval.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She posted her application for the job yesterday.",
+            "sent2": "The letter was posted to the editor for review.",
+            "sent3": "He posted his crazy idea to see what would happen.",
+            "sent4": "The email was posted to the entire team for feedback.",
+            "sent5": "They posted their project proposal before the deadline."
         },
         {
             "definition": "Published or shared on a website or social media platform.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The posted photo received many likes on social media.",
+            "sent2": "Her blog post was widely shared and commented on.",
+            "sent3": "The posted video of the cat dancing went viral.",
+            "sent4": "The posted article sparked a heated online discussion.",
+            "sent5": "The posted content was engaging and informative."
         }
     ]
 }

@@ -3,19 +3,39 @@
     "meanings": [
         {
             "definition": "A stupid person",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "That dope over there keeps forgetting his keys.",
+            "sent2": "Don't listen to that dope; he doesn't know what he's talking about.",
+            "sent3": "The dope thought the moon was a giant cookie.",
+            "sent4": "She felt like a dope after realizing she had been using the wrong password all along.",
+            "sent5": "The image of a dope wearing a crown stuck in her mind."
         },
         {
             "definition": "A drug, typically marijuana",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "He got caught with dope in his backpack.",
+            "sent2": "Some people use dope for medicinal purposes.",
+            "sent3": "The catnip was so potent, the cat acted like it was high on dope.",
+            "sent4": "The aroma of freshly baked cookies filled the room, masking the smell of dope.",
+            "sent5": "The police found a hidden stash of dope in the basement."
         },
         {
             "definition": "Information or data",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "She shared the latest dope on the upcoming party.",
+            "sent2": "The detective gathered all the dope to solve the case.",
+            "sent3": "The gossip column always has the juiciest dope on celebrities.",
+            "sent4": "The hacker managed to steal all the dope from the company's servers.",
+            "sent5": "The teacher provided the students with all the dope they needed for the project."
         },
         {
             "definition": "Excellent or outstanding",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "That was a dope movie we watched last night.",
+            "sent2": "She did a dope job on her presentation.",
+            "sent3": "The cake was so dope that everyone asked for the recipe.",
+            "sent4": "His dance moves were so dope, he won the competition.",
+            "sent5": "The view from the top of the mountain was absolutely dope."
         }
     ]
 }

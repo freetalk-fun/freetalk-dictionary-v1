@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Issue a ticket to (someone)",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The officer ticketed the car parked in the no-parking zone.",
+            "sent2": "She ticketed the passengers before they boarded the train.",
+            "sent3": "The mischievous squirrel ticketed all the nuts in the garden for fun.",
+            "sent4": "The teacher ticketed the students who were late to class as a reminder to be punctual.",
+            "sent5": "The parking attendant ticketed every car without a valid permit."
         },
         {
             "definition": "Having a ticket or tickets",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The ticketed passengers waited in line to board the plane.",
+            "sent2": "She felt relieved knowing she was ticketed for the concert.",
+            "sent3": "The ticketed guests enjoyed the exclusive access to the event.",
+            "sent4": "The ticketed attendees eagerly awaited the start of the show.",
+            "sent5": "The ticketed travelers had their boarding passes ready for inspection."
         },
         {
             "definition": "Mark with a ticket",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The inspector ticketed the items for clearance at the airport.",
+            "sent2": "She ticketed the products with the correct prices for the sale.",
+            "sent3": "The chef playfully ticketed the dishes with imaginary prices for fun.",
+            "sent4": "The librarian ticketed the borrowed books with return dates.",
+            "sent5": "The gardener ticketed the plants for identification in the botanical garden."
         }
     ]
 }

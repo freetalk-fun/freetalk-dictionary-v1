@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Remove material from the surface of (a solid body) by vaporization, chipping, or other erosive processes.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The laser ablates the metal surface.",
+            "sent2": "The dentist ablates the decayed part of the tooth.",
+            "sent3": "The sun ablates the snow, making it disappear.",
+            "sent4": "Her words ablate his confidence, leaving him unsure.",
+            "sent5": "The sandpaper ablates the rough edges, making them smooth."
         },
         {
             "definition": "Cause to undergo ablation.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The doctor ablates the tumor to help the patient.",
+            "sent2": "The teacher ablates the confusion by explaining clearly.",
+            "sent3": "The chef ablates the ingredients to create a delicious dish.",
+            "sent4": "His actions ablate any doubts about his sincerity.",
+            "sent5": "The rain ablates the dirt, revealing a clean path."
         },
         {
             "definition": "The loss of material from the surface of a solid body as a result of vaporization, chipping, or other erosive processes.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The ablation of the ice caps is concerning for climate change.",
+            "sent2": "The spacecraft experiences ablation during reentry into the atmosphere.",
+            "sent3": "The ablation of the cake left crumbs everywhere.",
+            "sent4": "The ablation of the rock face revealed ancient carvings.",
+            "sent5": "The ablation of the paint exposed the original color of the wall."
         }
     ]
 }

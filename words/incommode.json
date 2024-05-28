@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To cause inconvenience or discomfort to",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Carrying heavy bags can incommode your arms.",
+            "sent2": "Please do not incommode others by leaving your belongings in the hallway.",
+            "sent3": "The unexpected rain incommoded our picnic plans.",
+            "sent4": "His sudden arrival incommoded the carefully planned surprise party.",
+            "sent5": "The broken elevator incommodes residents on the upper floors."
         },
         {
             "definition": "An inconvenience or discomfort",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Running out of milk was an incommode during breakfast.",
+            "sent2": "The flight delay caused a major incommode for the passengers.",
+            "sent3": "Forgetting his umbrella was a small incommode on an otherwise sunny day.",
+            "sent4": "The power outage was an unexpected incommode during the important presentation.",
+            "sent5": "The lack of parking spaces is a daily incommode for employees."
         }
     ]
 }

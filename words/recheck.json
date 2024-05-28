@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To check again for accuracy or correctness.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I need to recheck my math homework to make sure I didn't make any mistakes.",
+            "sent2": "After finishing the puzzle, she decided to recheck her work to ensure everything was in its right place.",
+            "sent3": "He had to recheck the recipe multiple times to avoid turning his cookies into rocks.",
+            "sent4": "The detective had to recheck the evidence to uncover the hidden truth.",
+            "sent5": "Before submitting the report, it's crucial to recheck all the facts and figures for accuracy."
         },
         {
             "definition": "A second or subsequent check for accuracy or correctness.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The teacher's recheck of the test revealed a few errors that needed correction.",
+            "sent2": "As a final step, the system performs a recheck to ensure all data is accurate.",
+            "sent3": "The recheck of the inventory confirmed that all items were accounted for.",
+            "sent4": "The mechanic's recheck of the car's engine revealed the source of the problem.",
+            "sent5": "The recheck of the document highlighted some discrepancies that needed further investigation."
         }
     ]
 }

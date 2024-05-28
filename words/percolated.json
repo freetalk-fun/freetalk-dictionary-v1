@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "(verb) to filter gradually through a porous surface or substance",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The coffee percolated through the filter slowly.",
+            "sent2": "The rainwater percolated through the soil, nourishing the plants.",
+            "sent3": "The gossip percolated through the office, causing excitement among the employees.",
+            "sent4": "Her laughter percolated through the room, filling it with joy.",
+            "sent5": "The aroma of freshly percolated coffee filled the kitchen, enticing everyone to wake up."
         },
         {
             "definition": "(adjective) filtered or strained through a porous substance",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The percolated coffee had a rich flavor.",
+            "sent2": "The percolated water was clear and pure.",
+            "sent3": "She wore a percolated dress made of delicate lace.",
+            "sent4": "The percolated sunlight filtered through the leaves, creating a dappled effect on the ground.",
+            "sent5": "The percolated air in the forest was fresh and invigorating."
         },
         {
             "definition": "(noun) the result of a liquid filtering through a porous substance",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The percolated liquid collected at the bottom of the container.",
+            "sent2": "He studied the percolated residue left behind after the experiment.",
+            "sent3": "The chef used the percolated sauce to enhance the flavor of the dish.",
+            "sent4": "The percolated mixture of flavors created a unique taste sensation.",
+            "sent5": "The percolated essence of the herbs infused the broth with a delightful aroma."
         }
     ]
 }

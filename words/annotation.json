@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A note added to a text, book, or diagram providing explanation or comment.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I wrote an annotation in my book to help me understand the story better.",
+            "sent2": "The teacher asked us to add an annotation to our essays to explain our reasoning.",
+            "sent3": "My friend left a funny annotation in my textbook, making me laugh during class.",
+            "sent4": "Her annotations in the margins of the document shed light on its hidden meanings.",
+            "sent5": "The colorful annotations in the textbook made studying more enjoyable."
         },
         {
             "definition": "The action of annotating text or a diagram.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "During the lecture, the professor explained the importance of annotation in studying.",
+            "sent2": "Her quick annotation of the map helped us navigate through the city easily.",
+            "sent3": "I tried to do the annotation dance while studying, but it was more distracting than helpful.",
+            "sent4": "The annotation of the blueprint revealed the architect's creative process.",
+            "sent5": "His annotation of the painting highlighted the artist's attention to detail."
         }
     ]
 }

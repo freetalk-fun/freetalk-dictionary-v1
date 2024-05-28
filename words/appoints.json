@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Decide on and fix a time or date for (an event or action)",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Mom appoints the meeting for tomorrow.",
+            "sent2": "The teacher appoints the exam for next week.",
+            "sent3": "The cat appoints her nap time right after lunch.",
+            "sent4": "The sun appoints its appearance at dawn.",
+            "sent5": "The clock appoints the start of the class with its loud chime."
         },
         {
             "definition": "Assign a job or role to (someone)",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The manager appoints Sarah as the team leader.",
+            "sent2": "The captain appoints different tasks to each crew member.",
+            "sent3": "The clown appoints the monkey as the assistant juggler.",
+            "sent4": "The chef appoints the spices to enhance the flavor.",
+            "sent5": "The director appoints the lead actor for the main role in the play."
         },
         {
             "definition": "Name officially or choose to hold a position",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The president appoints the new ambassador.",
+            "sent2": "The board appoints a new CEO for the company.",
+            "sent3": "The wizard appoints the frog as the royal pet.",
+            "sent4": "The artist appoints the color blue to represent tranquility.",
+            "sent5": "The queen appoints the knight to protect the kingdom."
         }
     ]
 }

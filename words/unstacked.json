@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Not arranged in a stack.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The books were unstacked on the floor.",
+            "sent2": "The unstacked plates were scattered across the table.",
+            "sent3": "The unstacked toys made the room look messy.",
+            "sent4": "Her unstacked schedule left her feeling disorganized.",
+            "sent5": "The unstacked chairs created a sense of disorder in the room."
         },
         {
             "definition": "To remove items from a stack.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She unstacked the boxes to find her missing keys.",
+            "sent2": "Please unstack the cups before washing them.",
+            "sent3": "He unstacked the cards in a swift motion.",
+            "sent4": "The magician unstacked the cups to reveal a hidden coin.",
+            "sent5": "The worker unstacked the pallets with ease."
         }
     ]
 }

@@ -3,19 +3,39 @@
     "meanings": [
         {
             "definition": "A piece of old cloth",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "She used a rag to clean the table.",
+            "sent2": "The beggar wrapped himself in a rag to keep warm.",
+            "sent3": "The rag on the floor looked like a tiny blanket for a mouse.",
+            "sent4": "The flag fluttered in the wind, torn and tattered like a rag.",
+            "sent5": "The old man's clothes were nothing but rags, hanging loosely on his frame."
         },
         {
             "definition": "To clean or wipe with a rag",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He decided to rag the spilled milk off the floor.",
+            "sent2": "She carefully ragged the dust off the antique furniture.",
+            "sent3": "The mischievous toddler tried to rag the mirror, leaving streaks everywhere.",
+            "sent4": "The storm raged on, ragging the windows with raindrops.",
+            "sent5": "The maid would rag the windows until they sparkled in the sunlight."
         },
         {
             "definition": "A newspaper, especially a tabloid",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "She picked up the rag to read the latest gossip.",
+            "sent2": "The rag had sensational headlines that caught everyone's attention.",
+            "sent3": "The rag always had the juiciest celebrity stories.",
+            "sent4": "The rag was filled with scandalous tales of the rich and famous.",
+            "sent5": "The tabloid rag was known for its bold and eye-catching covers."
         },
         {
             "definition": "To criticize harshly",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The coach would often rag the players for their mistakes.",
+            "sent2": "She didn't mean to rag on her friend's outfit, but it was hard to hold back.",
+            "sent3": "The teacher would rag on the students who didn't complete their homework.",
+            "sent4": "The boss continued to rag the employee for their repeated errors.",
+            "sent5": "He would always find something to rag about, never offering a kind word."
         }
     ]
 }

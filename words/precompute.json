@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Calculate or compute in advance.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I will precompute the results before the meeting.",
+            "sent2": "It is helpful to precompute the expenses for the upcoming project.",
+            "sent3": "Why don't we precompute the dinner menu for the week?",
+            "sent4": "She likes to precompute her schedule to avoid last-minute stress.",
+            "sent5": "The students were asked to precompute the answers to the math problems for homework."
         },
         {
             "definition": "To perform a computation before it is actually needed.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Before running the program, the software will precompute the necessary data.",
+            "sent2": "The system can precompute the values to speed up the process.",
+            "sent3": "I decided to precompute the shopping list to save time at the store.",
+            "sent4": "The robot's AI can precompute the best route to avoid obstacles.",
+            "sent5": "The app will precompute the recommendations based on your preferences."
         }
     ]
 }

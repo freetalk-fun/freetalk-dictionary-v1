@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A person who competes against another in a contest or conflict.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The soccer team's opponents played very well in the match.",
+            "sent2": "The opponents in the debate presented strong arguments.",
+            "sent3": "The opponents in the race all wore funny hats.",
+            "sent4": "The chess opponents moved their pieces strategically.",
+            "sent5": "The opponents in the boxing ring were evenly matched."
         },
         {
             "definition": "Something that is positioned against or opposite something else.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The light switch has two opponents: on and off.",
+            "sent2": "The magnet's opponents are the north and south poles.",
+            "sent3": "The seesaw's opponents were a teddy bear and a toy car.",
+            "sent4": "The coin's opponents are heads and tails.",
+            "sent5": "The seesaw's opponents were perfectly balanced."
         }
     ]
 }

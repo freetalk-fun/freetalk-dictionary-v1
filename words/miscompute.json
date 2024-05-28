@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To calculate incorrectly.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I miscompute the total when adding up the numbers.",
+            "sent2": "Be careful not to miscompute the final score on the test.",
+            "sent3": "It's easy to miscompute when you're tired and not paying attention.",
+            "sent4": "Her mind tends to miscompute numbers like a broken calculator.",
+            "sent5": "The consequences of a miscompute can lead to big mistakes."
         },
         {
             "definition": "An incorrect calculation.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The miscompute in the budget caused confusion among the team.",
+            "sent2": "He discovered a miscompute in the financial report that needed correction.",
+            "sent3": "The miscompute in the recipe turned the cake into a disaster.",
+            "sent4": "The miscompute in the map led us in the wrong direction.",
+            "sent5": "She found the miscompute amusing after realizing her error."
         }
     ]
 }

@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To restrict a variable to discrete values rather than a continuous range.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I can quantise the number of candies I eat each day to only three.",
+            "sent2": "The teacher decided to quantise the acceptable answers to only yes or no.",
+            "sent3": "I tried to quantise the amount of time I spend on my phone, but it's hard!",
+            "sent4": "She managed to quantise her emotions into happy or sad categories.",
+            "sent5": "He tried to quantise his thoughts into simple ideas, but it was challenging."
         },
         {
             "definition": "To measure or express the quantity of something in discrete units.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Let's quantise the amount of sugar needed for the recipe to one cup.",
+            "sent2": "Scientists often quantise data to make it easier to analyze.",
+            "sent3": "I decided to quantise my savings into jars labeled for different expenses.",
+            "sent4": "She tried to quantise her love for him, but it was immeasurable.",
+            "sent5": "The artist tried to quantise the colors in the painting, but it lacked depth."
         }
     ]
 }

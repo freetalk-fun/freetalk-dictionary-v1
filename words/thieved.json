@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To steal (verb)",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He thieved a cookie from the jar.",
+            "sent2": "The thief thieved money from the bank.",
+            "sent3": "The mischievous raccoon thieved shiny objects from the campsite.",
+            "sent4": "Her eyes thieved glances at the tempting display.",
+            "sent5": "The pirate thieved treasure from the unsuspecting ships."
         },
         {
             "definition": "Stolen (adjective)",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "She found her thieved necklace in the lost and found.",
+            "sent2": "The thieved car was recovered by the police.",
+            "sent3": "The cat proudly paraded its thieved toy mouse around the house.",
+            "sent4": "The thieved painting was returned to the museum after years of mystery.",
+            "sent5": "The thieved jewels sparkled in the moonlight, catching everyone's eye."
         }
     ]
 }

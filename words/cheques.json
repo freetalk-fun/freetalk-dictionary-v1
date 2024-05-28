@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A written order to a bank to pay a stated sum from the drawer's account to the payee.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I gave the bank a cheque to pay for my groceries.",
+            "sent2": "She received a cheque as a gift for her birthday.",
+            "sent3": "The cheque for the concert tickets made her smile.",
+            "sent4": "His cheque for loyalty was unwavering.",
+            "sent5": "The cheque fluttered in the wind as it was handed over."
         },
         {
             "definition": "A method of payment using a written order to transfer money from one account to another.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "He prefers using cheques for large transactions.",
+            "sent2": "The company only accepts cheques for membership fees.",
+            "sent3": "The cheque danced across the table as it was passed around.",
+            "sent4": "Her trust was like a cheque, easily transferred.",
+            "sent5": "The cheque slid smoothly into the deposit slot."
         },
         {
             "definition": "To inspect or verify something.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He cheques the documents before submitting them.",
+            "sent2": "She always cheques her work for errors.",
+            "sent3": "The detective chequed the suspect's alibi.",
+            "sent4": "His intuition chequed out to be correct.",
+            "sent5": "She chequed the facts meticulously before presenting them."
         }
     ]
 }

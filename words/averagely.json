@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "In an average manner.",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "She ran averagely in the race, not too fast or too slow.",
+            "sent2": "He sings averagely, not exceptionally well but not poorly either.",
+            "sent3": "The magician performed averagely, neither wowing the audience nor disappointing them.",
+            "sent4": "The car moved averagely through the traffic, blending in with the other vehicles.",
+            "sent5": "The student scored averagely on the test, right in the middle of the class."
         },
         {
             "definition": "To calculate the average of a set of numbers.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She averagely calculated the scores of her classmates for the project.",
+            "sent2": "He averagely computed the total sales for the month.",
+            "sent3": "The accountant averagely averaged the expenses for the quarterly report.",
+            "sent4": "The teacher averagely averaged the grades of the students for the semester.",
+            "sent5": "The scientist averagely averaged the data points for the research study."
         },
         {
             "definition": "Typical or usual.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "It was an averagely warm day for this time of year.",
+            "sent2": "She had an averagely busy schedule, with a few meetings and some free time.",
+            "sent3": "The cake was averagely delicious, nothing extraordinary but still enjoyable.",
+            "sent4": "He lived in an averagely sized house in the suburbs.",
+            "sent5": "The movie was averagely entertaining, not a blockbuster but not a flop either."
         }
     ]
 }

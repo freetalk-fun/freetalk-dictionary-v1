@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "past tense of win",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Yesterday, she won the race and got a shiny medal.",
+            "sent2": "He won the lottery and became very happy.",
+            "sent3": "The cat won the staring contest against the dog.",
+            "sent4": "Her smile won over the hearts of everyone in the room.",
+            "sent5": "The team's hard work finally won them the championship trophy."
         },
         {
             "definition": "to be victorious or successful in a competition or game",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The team won the soccer match with a last-minute goal.",
+            "sent2": "She won the spelling bee by correctly spelling every word.",
+            "sent3": "The squirrel won the acorn-hunting game against the chipmunk.",
+            "sent4": "His determination won him the title of chess champion.",
+            "sent5": "The student won the math competition by solving all the problems quickly."
         },
         {
             "definition": "to achieve victory or success in a struggle or conflict",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "After a long debate, she won the argument with a strong point.",
+            "sent2": "The country won its independence after years of fighting.",
+            "sent3": "The little ant won the battle against the big grasshopper.",
+            "sent4": "His kindness and patience won him the trust of his colleagues.",
+            "sent5": "The underdog team won the match against the champions, surprising everyone."
         }
     ]
 }

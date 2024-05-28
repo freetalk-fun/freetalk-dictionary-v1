@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Increase in speed or activity",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The car's rev was so high that it zoomed past us.",
+            "sent2": "The sudden rev in the factory's production surprised everyone.",
+            "sent3": "The rev in the playground was so fast that the children couldn't keep up.",
+            "sent4": "Her energy level had a rev like a rocket taking off.",
+            "sent5": "The rev of the music made everyone start dancing."
         },
         {
             "definition": "One complete turn of a machine or engine",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "With one rev of the engine, the car started moving.",
+            "sent2": "The motorcycle's rev indicated it was ready to go.",
+            "sent3": "The rev of the blender mixed the ingredients perfectly.",
+            "sent4": "The rev of the drill echoed through the workshop.",
+            "sent5": "The rev of the fan kept the room cool."
         },
         {
             "definition": "To increase the speed or activity of something",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He had to rev up the engine to climb the steep hill.",
+            "sent2": "The coach told the team to rev their efforts for the final game.",
+            "sent3": "She decided to rev up her study routine before the exam.",
+            "sent4": "The company needed to rev its marketing strategies to attract more customers.",
+            "sent5": "The teacher tried to rev up the class by introducing a fun activity."
         }
     ]
 }

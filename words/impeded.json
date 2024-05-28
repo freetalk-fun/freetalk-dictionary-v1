@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Delay or prevent (someone or something) by obstructing them",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The fallen tree impeded our path through the forest.",
+            "sent2": "The heavy traffic impeded our journey to the airport.",
+            "sent3": "The mischievous squirrel impeded the delivery truck by stealing the nuts.",
+            "sent4": "Her fear of failure impeded her progress like a heavy weight on her shoulders.",
+            "sent5": "The thick fog impeded visibility, making it hard to see more than a few feet ahead."
         },
         {
             "definition": "Hinder or block (progress or movement)",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The construction on the road impeded the flow of traffic.",
+            "sent2": "The broken elevator impeded our ascent to the top floor.",
+            "sent3": "The tangled shoelaces impeded his sprint to the finish line.",
+            "sent4": "The strict rules impeded their creativity, stifling their innovative ideas.",
+            "sent5": "The massive boulder impeded the river's natural course, causing it to change direction."
         },
         {
             "definition": "Create difficulty for (someone or something) in achieving a goal",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The lack of resources impeded their efforts to complete the project on time.",
+            "sent2": "The language barrier impeded communication between the two groups.",
+            "sent3": "The persistent rain impeded their picnic plans, forcing them to stay indoors.",
+            "sent4": "The old injury impeded his performance on the field, affecting his ability to run.",
+            "sent5": "The thick mud impeded their progress, causing them to move slowly through the obstacle course."
         }
     ]
 }

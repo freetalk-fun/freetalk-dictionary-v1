@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A fixed regular payment, typically paid on a daily or weekly basis, made by an employer to an employee.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "She received her weekly wage on Friday.",
+            "sent2": "The company increased the hourly wage for all employees.",
+            "sent3": "His wage was so small, he couldn't even buy a candy bar.",
+            "sent4": "The wage he earned was a drop in the bucket compared to his expenses.",
+            "sent5": "The wage he earned barely covered his rent, let alone other expenses."
         },
         {
             "definition": "Carry on (a war or campaign).",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The army decided to wage a fierce battle against the enemy.",
+            "sent2": "They planned to wage a peaceful protest for their rights.",
+            "sent3": "He wanted to wage war against the noisy neighbors playing loud music.",
+            "sent4": "She felt like she had to wage a constant battle against procrastination.",
+            "sent5": "The team was ready to wage a strategic campaign to win the championship."
         },
         {
             "definition": "Engage in (a war or campaign).",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The country chose to wage a diplomatic war instead of a military one.",
+            "sent2": "They decided to wage a social media campaign to raise awareness.",
+            "sent3": "He would often wage a friendly competition with his brother.",
+            "sent4": "She felt the need to wage a personal battle against self-doubt.",
+            "sent5": "The students were eager to wage a debate on the topic of climate change."
         }
     ]
 }

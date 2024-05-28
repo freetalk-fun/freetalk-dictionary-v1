@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To cause pain or discomfort",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The loud noise ails my ears.",
+            "sent2": "The sharp rock ails my foot.",
+            "sent3": "The spicy food ails my tongue.",
+            "sent4": "The dark room ails my eyes.",
+            "sent5": "The heavy backpack ails my shoulders."
         },
         {
             "definition": "To be unwell or suffer from an illness",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She ails from a cold.",
+            "sent2": "He ails with a fever.",
+            "sent3": "The cat ails from a stomachache.",
+            "sent4": "The plant ails from lack of sunlight.",
+            "sent5": "The old dog ails with arthritis."
         }
     ]
 }

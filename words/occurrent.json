@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Happening or taking place",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The occurrent rain made the roads slippery.",
+            "sent2": "The occurrent party was a great success.",
+            "sent3": "The occurrent squirrel stole my sandwich!",
+            "sent4": "Her smile was an occurrent ray of sunshine in my day.",
+            "sent5": "The occurrent thunderstorm shook the windows with its power."
         },
         {
             "definition": "An event or incident that occurs",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The occurrent of the car crash caused a traffic jam.",
+            "sent2": "The police are investigating the occurrent at the bank.",
+            "sent3": "The occurrent of the cat chasing its tail was quite amusing.",
+            "sent4": "The occurrent of the sunrise painted the sky with colors.",
+            "sent5": "The unexpected occurrent of the power outage left everyone in darkness."
         }
     ]
 }

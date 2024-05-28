@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A written or printed work consisting of words.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I read a text about animals in the library.",
+            "sent2": "The teacher asked us to analyze the text for our homework.",
+            "sent3": "The text on the menu made me hungry for pizza.",
+            "sent4": "Her words were a comforting text during a difficult time.",
+            "sent5": "The text describing the sunset was so vivid, I felt like I was there."
         },
         {
             "definition": "To send a text message.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I will text you the address before we meet.",
+            "sent2": "She texted her friend to let her know she was running late.",
+            "sent3": "I accidentally texted my mom instead of my friend.",
+            "sent4": "He texted his boss to ask for a day off.",
+            "sent5": "Remember to text me when you arrive safely."
         },
         {
             "definition": "The main body of a written work.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The text of the book was filled with suspense.",
+            "sent2": "The author spent months perfecting the text of his novel.",
+            "sent3": "The text of the play was full of twists and turns.",
+            "sent4": "She studied the text of the speech before delivering it.",
+            "sent5": "The text of the article was informative and engaging."
         }
     ]
 }

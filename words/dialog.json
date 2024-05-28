@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A conversation between two or more people.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "During the dialog, they discussed their favorite books.",
+            "sent2": "The dialog between the friends was filled with laughter and joy.",
+            "sent3": "The dialog at the party was so lively that even the shyest person joined in.",
+            "sent4": "The dialog between the siblings was like a dance, each taking turns to speak.",
+            "sent5": "In the quiet room, the dialog between the teacher and student was the only sound."
         },
         {
             "definition": "A literary work in the form of a conversation between characters.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The play was a beautiful dialog between the protagonist and antagonist.",
+            "sent2": "The novel's dialog revealed the true feelings of the main characters.",
+            "sent3": "The dialog in the book was so engaging that it felt like the characters were real.",
+            "sent4": "The dialog in the movie was like music, each line harmonizing with the next.",
+            "sent5": "The dialog in the story painted a vivid picture of the characters' emotions."
         },
         {
             "definition": "To engage in conversation or dialogue.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "They decided to dialog about their future plans over coffee.",
+            "sent2": "Let's dialog about the project during our next meeting.",
+            "sent3": "The two friends dialogued about everything under the sun for hours.",
+            "sent4": "She dialogued with her boss to clarify the new project requirements.",
+            "sent5": "The team dialogued to find a solution to the problem they were facing."
         }
     ]
 }

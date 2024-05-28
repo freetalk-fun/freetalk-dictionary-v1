@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "The property of a mathematical operation or physical theory that ensures that the sum of probabilities of all possible outcomes is equal to 1.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Understanding unitarity helps us know the total probability of all outcomes.",
+            "sent2": "In quantum mechanics, unitarity is crucial for calculating probabilities accurately.",
+            "sent3": "The party planner joked that unitarity was like making sure all guests get exactly one slice of cake.",
+            "sent4": "Unitarity in statistics is like having a perfectly balanced scale where all probabilities add up to one.",
+            "sent5": "The concept of unitarity is like a mathematical safety net ensuring nothing gets lost in probability calculations."
         },
         {
             "definition": "The condition of a matrix being unitary, meaning its conjugate transpose is equal to its inverse.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The unitarity of the matrix guarantees a specific relationship between its conjugate transpose and inverse.",
+            "sent2": "Mathematicians study unitarity to understand the unique properties of certain matrices.",
+            "sent3": "The chef compared the unitarity of the recipe to perfectly balancing all ingredients for a delicious dish.",
+            "sent4": "Unitarity in linear algebra is like finding a magical mirror that reflects the matrix perfectly.",
+            "sent5": "The beauty of unitarity in matrices is like a puzzle where every piece fits perfectly to reveal the whole picture."
         }
     ]
 }

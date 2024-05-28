@@ -3,19 +3,39 @@
     "meanings": [
         {
             "definition": "Opposite or contrary in position, direction, order, or effect.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The reverse side of the coin is shiny.",
+            "sent2": "The reverse gear in a car helps it move backwards.",
+            "sent3": "It was a reverse decision to wear shorts in the snow.",
+            "sent4": "Her mood took a reverse turn after the good news.",
+            "sent5": "The reverse path led us to a hidden garden."
         },
         {
             "definition": "Turn something the other way around or upside down.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Please reverse the picture so it faces the wall.",
+            "sent2": "I need to reverse the cake to frost the bottom.",
+            "sent3": "He tried to reverse his shirt to avoid a stain.",
+            "sent4": "She had to reverse her thinking to solve the puzzle.",
+            "sent5": "The magician will reverse the card to reveal your choice."
         },
         {
             "definition": "Go back in position or direction.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Let's reverse and head back to the store.",
+            "sent2": "The hiker had to reverse to find the right trail.",
+            "sent3": "The cat decided to reverse and return home.",
+            "sent4": "She had to reverse her steps to find her lost keys.",
+            "sent5": "The boat will reverse to dock at the pier."
         },
         {
             "definition": "Change to an opposite or adverse condition.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The weather can quickly reverse from sunny to stormy.",
+            "sent2": "He didn't want to reverse his luck by breaking a mirror.",
+            "sent3": "She accidentally reversed her good mood by spilling coffee.",
+            "sent4": "The decision to skip breakfast could reverse his energy levels.",
+            "sent5": "The peaceful protest could reverse into chaos if not managed well."
         }
     ]
 }

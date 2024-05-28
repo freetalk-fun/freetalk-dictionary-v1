@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To give a wrong title to.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She mistitled the book as 'The Adventures of a Cat' instead of 'The Adventures of a Dog'.",
+            "sent2": "The librarian mistitled the magazine as 'National Geographic' when it was actually 'Time'.",
+            "sent3": "The teacher mistitled the student's drawing as a horse when it was clearly a dinosaur.",
+            "sent4": "The chef mistitled the dish as 'Spicy Chicken' when it tasted more like 'Mild Tofu'.",
+            "sent5": "The museum curator mistitled the painting, causing confusion among the visitors."
         },
         {
             "definition": "Incorrectly titled.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The mistitled document led to confusion among the team members.",
+            "sent2": "The mistitled file was lost in the sea of paperwork on the desk.",
+            "sent3": "The mistitled movie poster featured the wrong actors' names, creating a humorous mix-up.",
+            "sent4": "The mistitled book cover caught the attention of readers for all the wrong reasons.",
+            "sent5": "The mistitled song became a hit for its unintentional irony."
         }
     ]
 }

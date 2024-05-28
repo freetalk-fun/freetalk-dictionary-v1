@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A device or algorithm that maps input values from a continuous range to a discrete set of output values.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The quantizer converted the music volume into specific levels.",
+            "sent2": "The digital camera uses a quantizer to translate colors into digital values.",
+            "sent3": "The quantizer at the factory turned the production speed into a game of steps.",
+            "sent4": "Her mind worked like a quantizer, breaking down complex ideas into simple blocks.",
+            "sent5": "The quantizer acted like a traffic light, organizing the flow of information into distinct signals."
         },
         {
             "definition": "A person or thing that quantizes.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The music producer was a skilled quantizer, adjusting sound levels with precision.",
+            "sent2": "The scientist became a quantizer of data, organizing information into clear categories.",
+            "sent3": "The quantizer in the kitchen turned chaotic recipes into orderly cooking steps.",
+            "sent4": "Her words were like a quantizer, simplifying complex concepts for easy understanding.",
+            "sent5": "The quantizer in the classroom sorted students into groups based on their skills."
         }
     ]
 }

@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "The opposition to the flow of alternating current in a circuit, caused by inductance or capacitance.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The reactances in the circuit slowed down the current flow.",
+            "sent2": "The technician measured the reactances to understand the circuit better.",
+            "sent3": "The reactances in the circuit decided to take a break, causing a power outage.",
+            "sent4": "The reactances were like stubborn roadblocks preventing the current from flowing smoothly.",
+            "sent5": "Understanding reactances is crucial for designing efficient electrical systems."
         },
         {
             "definition": "The measure of this opposition, expressed in ohms.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The high reactances indicated a significant impedance in the circuit.",
+            "sent2": "The reactances were calculated to be 50 ohms, affecting the circuit performance.",
+            "sent3": "The reactances were so high that they started a competition for the most resistance.",
+            "sent4": "The reactances acted like toll booths, slowing down the current flow.",
+            "sent5": "Measuring reactances accurately is essential for proper circuit analysis."
         }
     ]
 }

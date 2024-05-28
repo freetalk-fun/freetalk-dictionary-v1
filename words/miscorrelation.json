@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A lack of correlation or connection between two things.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The miscorrelation between his actions and his words was evident.",
+            "sent2": "The scientist studied the miscorrelation between temperature and plant growth.",
+            "sent3": "The miscorrelation between his outfit and the party theme was quite amusing.",
+            "sent4": "The miscorrelation between her smile and her eyes was striking.",
+            "sent5": "The miscorrelation between the map and the actual location made the journey confusing."
         },
         {
             "definition": "To fail to establish a relationship or connection between two variables.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She miscorrelated the data, leading to inaccurate results.",
+            "sent2": "The researcher tried not to miscorrelate the findings with personal bias.",
+            "sent3": "He accidentally miscorrelated the names of the twins, causing confusion.",
+            "sent4": "The detective miscorrelated the evidence, leading to a wrongful arrest.",
+            "sent5": "The teacher warned the students not to miscorrelate cause and effect in their experiments."
         }
     ]
 }

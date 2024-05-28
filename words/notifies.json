@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Inform someone of something, typically in a formal or official manner.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The teacher notifies the students about the upcoming test.",
+            "sent2": "She notifies her boss when she completes a project.",
+            "sent3": "The talking parrot notifies the family when someone is at the door.",
+            "sent4": "The alarm clock notifies me that it's time to wake up.",
+            "sent5": "The flashing light notifies the driver that the train is approaching."
         },
         {
             "definition": "To give notice or make known.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The app notifies users of new messages.",
+            "sent2": "He notifies his neighbors before having a party.",
+            "sent3": "The cat notifies its owner by meowing loudly for food.",
+            "sent4": "The smoke detector notifies us of a possible fire.",
+            "sent5": "The weather forecast notifies people of an incoming storm."
         }
     ]
 }

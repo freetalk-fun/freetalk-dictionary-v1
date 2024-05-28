@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "In a way that involves or serves as a heuristic.",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "She solved the puzzle heuristically by trying different approaches.",
+            "sent2": "The scientist approached the problem heuristically, testing various hypotheses.",
+            "sent3": "The detective heuristically followed the clues to uncover the mystery.",
+            "sent4": "The explorer heuristically navigated through the dense forest of possibilities.",
+            "sent5": "Heuristically, she explored new ways to improve efficiency in the process."
         },
         {
             "definition": "Using or relating to a heuristic method.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The heuristically designed algorithm quickly found the optimal solution.",
+            "sent2": "The team used a heuristically guided approach to tackle the complex problem.",
+            "sent3": "The heuristically crafted plan led to unexpected but successful outcomes.",
+            "sent4": "Her heuristically developed strategy proved to be effective in the competition.",
+            "sent5": "The heuristically chosen path turned out to be the most efficient route."
         }
     ]
 }

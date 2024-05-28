@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To disturb the composure of; to make uneasy or anxious.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The loud noise unsettles the sleeping cat.",
+            "sent2": "The unexpected news unsettles her before the exam.",
+            "sent3": "The idea of a talking dog unsettles the children at the party.",
+            "sent4": "The dark clouds looming in the sky unsettle the peaceful atmosphere.",
+            "sent5": "The eerie silence in the abandoned house unsettles anyone who enters."
         },
         {
             "definition": "To cause to become disordered or disarranged.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The strong wind unsettles the neatly arranged papers on the desk.",
+            "sent2": "The mischievous toddler unsettles the carefully set table.",
+            "sent3": "The playful puppy unsettles the perfectly made bed.",
+            "sent4": "The earthquake unsettles the carefully stacked books on the shelf.",
+            "sent5": "The clumsy dancer unsettles the formation of the group."
         },
         {
             "definition": "To cause to be uncertain or in doubt.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The conflicting information unsettles his decision-making process.",
+            "sent2": "The mysterious letter unsettles her belief in coincidences.",
+            "sent3": "The magician's tricks unsettle the audience's perception of reality.",
+            "sent4": "The unexpected plot twist unsettles the viewers' predictions.",
+            "sent5": "The unanswered questions in the mystery novel unsettle the readers' assumptions."
         }
     ]
 }

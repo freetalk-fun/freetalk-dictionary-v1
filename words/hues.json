@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A color or shade",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The artist used various hues to paint the beautiful landscape.",
+            "sent2": "The rainbow displayed a spectrum of vibrant hues in the sky.",
+            "sent3": "The mischievous child mixed all the hues together and created a messy masterpiece.",
+            "sent4": "Her emotions were reflected in the changing hues of the sunset.",
+            "sent5": "The garden was a riot of hues, with flowers of every color imaginable."
         },
         {
             "definition": "To color or tint with a certain shade",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She carefully hues the walls of her room with a soft pink paint.",
+            "sent2": "The artist hues the canvas with bold strokes of blue and green.",
+            "sent3": "He accidentally hues his hair purple instead of black, much to his surprise.",
+            "sent4": "The setting sun hues the clouds with a warm orange glow.",
+            "sent5": "The dye slowly hues the fabric a deep, rich red color."
         }
     ]
 }

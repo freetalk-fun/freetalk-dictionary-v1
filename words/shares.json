@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A portion of something divided among a number of people.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "She received two shares of the cake at the party.",
+            "sent2": "The company's shares are divided among its employees.",
+            "sent3": "The shares of pizza were quickly claimed by the hungry kids.",
+            "sent4": "Her laughter was a share of joy in the room.",
+            "sent5": "The shares of sunlight peeked through the clouds."
         },
         {
             "definition": "To have a part in something with others.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He shares his toys with his little sister.",
+            "sent2": "They share the responsibility of taking care of the garden.",
+            "sent3": "The birds share the tree branches peacefully.",
+            "sent4": "The students share their ideas during group projects.",
+            "sent5": "She shares her umbrella with a stranger in the rain."
         },
         {
             "definition": "To tell someone about something.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She shares her exciting news with her best friend.",
+            "sent2": "He shares his thoughts on the book with the class.",
+            "sent3": "The cat shares its adventures with the curious dog.",
+            "sent4": "The author shares a tale of mystery and intrigue.",
+            "sent5": "The teacher shares knowledge with eager students."
         }
     ]
 }

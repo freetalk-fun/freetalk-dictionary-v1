@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A person who enters someone else's property without permission.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The trespasser was caught sneaking into the backyard.",
+            "sent2": "The homeowner called the police to report the trespasser.",
+            "sent3": "The trespasser accidentally wandered into the wrong yard and got lost.",
+            "sent4": "The curious cat was a trespasser in the neighbor's garden.",
+            "sent5": "The trespasser left footprints in the freshly mowed lawn."
         },
         {
             "definition": "To enter someone else's property without permission.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Do not trespass on private property or you may get in trouble.",
+            "sent2": "The sign clearly warns people not to trespass on this land.",
+            "sent3": "He decided to trespass into the restricted area just for fun.",
+            "sent4": "Her thoughts would often trespass into forbidden territories.",
+            "sent5": "The river trespassed its banks during the heavy rain."
         }
     ]
 }

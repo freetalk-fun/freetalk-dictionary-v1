@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A person who visits a place.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The visiter enjoyed exploring the museum.",
+            "sent2": "The visiter went to the zoo to see the animals.",
+            "sent3": "The friendly visiter brought a gift for the host.",
+            "sent4": "The curious visiter was like a sponge, absorbing all the new information.",
+            "sent5": "The young visiter's eyes widened in amazement at the sight of the waterfall."
         },
         {
             "definition": "To go to see or spend time with (someone) socially.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Let's visiter our neighbors this weekend.",
+            "sent2": "I plan to visiter my friend at the park tomorrow.",
+            "sent3": "We should visiter Aunt Mary for tea and cookies.",
+            "sent4": "The idea to visiter the new cafe popped into my head.",
+            "sent5": "She loves to visiter her grandparents and hear their stories."
         }
     ]
 }

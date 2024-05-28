@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A curved line or shape.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The rainbow formed a beautiful arc in the sky.",
+            "sent2": "The bridge was designed with a graceful arc.",
+            "sent3": "The clown made a silly arc with his balloon animals.",
+            "sent4": "Her smile created an arc of happiness across her face.",
+            "sent5": "The graceful arc of the dancer's arm captivated the audience."
         },
         {
             "definition": "A part of a circle.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The arc of the pizza slice was too big for him to finish.",
+            "sent2": "She measured the arc of the circle to calculate its circumference.",
+            "sent3": "The arc of the moon reminded him of a delicious pie slice.",
+            "sent4": "The arc of the rainbow seemed to connect the earth and the sky.",
+            "sent5": "The arc of the clock's hands marked the passing of time."
         },
         {
             "definition": "To move in a curved path.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The ball will arc through the air before landing in the basket.",
+            "sent2": "She watched the bird arc gracefully across the sky.",
+            "sent3": "The paper airplane arced beautifully before landing on the floor.",
+            "sent4": "His shot arced perfectly into the goal, scoring the winning point.",
+            "sent5": "The rocket arced upwards, leaving a trail of smoke behind."
         }
     ]
 }

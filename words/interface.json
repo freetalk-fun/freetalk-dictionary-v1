@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A point where two systems, subjects, organizations, etc., meet and interact.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The interface between the two departments allows for smooth communication.",
+            "sent2": "The interface of the computer software facilitates user interaction.",
+            "sent3": "At the interface of the two teams, collaboration blooms.",
+            "sent4": "The interface between art and science is where creativity thrives.",
+            "sent5": "The interface acts as a bridge connecting different parts of the organization."
         },
         {
             "definition": "A device or program enabling communication between two pieces of equipment or systems.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The technician fixed the interface connecting the printer and the computer.",
+            "sent2": "The USB interface allows data transfer between devices.",
+            "sent3": "The interface seemed to have a mind of its own, making the devices chat endlessly.",
+            "sent4": "The interface is like a translator, ensuring smooth communication between machines.",
+            "sent5": "The interface is the key to unlocking seamless connectivity between systems."
         },
         {
             "definition": "To interact with a system or device.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Users can interface with the software through a user-friendly interface.",
+            "sent2": "I need to interface with the new device to set it up properly.",
+            "sent3": "I tried to interface with the vending machine, but it didn't understand my request.",
+            "sent4": "She learned how to interface with the complex system after some training.",
+            "sent5": "It is important to interface carefully to avoid any technical issues."
         }
     ]
 }

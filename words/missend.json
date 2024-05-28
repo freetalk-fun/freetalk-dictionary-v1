@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To send (something) to the wrong recipient.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I missend the invitation to the party to my neighbor instead of my friend.",
+            "sent2": "She accidentally missend the important email to her colleague.",
+            "sent3": "The cat missend the mouse toy to the dog, causing confusion.",
+            "sent4": "The wind can sometimes missend the leaves to unexpected places.",
+            "sent5": "The postman's sleepy mind caused him to missend the package to the wrong address."
         },
         {
             "definition": "A letter or package that has been sent to the wrong recipient.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The missend ended up at the old house instead of the new one.",
+            "sent2": "Receiving a missend can be quite inconvenient for the intended recipient.",
+            "sent3": "The missend postcard brought unexpected joy to the wrong person.",
+            "sent4": "The missend package felt lost in the sea of wrongly delivered items.",
+            "sent5": "The missend letter traveled far before finding its way back to the sender."
         }
     ]
 }

@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A danger or risk.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Walking on thin ice can be a hazard.",
+            "sent2": "Construction sites have many hazards.",
+            "sent3": "The squirrel thought crossing the road was a hazard to its acorn collection.",
+            "sent4": "In the game of chess, sacrificing a pawn can be a strategic hazard.",
+            "sent5": "The dark clouds looming overhead were a visible hazard of an approaching storm."
         },
         {
             "definition": "To expose to danger or harm.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Ignoring warning signs can hazard your safety.",
+            "sent2": "Speeding on the highway can hazard lives.",
+            "sent3": "The cat decided to hazard a leap from the high shelf to the couch.",
+            "sent4": "She didn't want to hazard her reputation by associating with the troublemakers.",
+            "sent5": "The detective knew that confronting the suspect could hazard his cover."
         },
         {
             "definition": "A potential source of danger or harm.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Leaving the stove on is a hazard for starting a fire.",
+            "sent2": "Wild animals can be a hazard when hiking in the forest.",
+            "sent3": "The banana peel on the floor was a hazard for slipping.",
+            "sent4": "Lack of sleep can be a hazard to your health.",
+            "sent5": "The broken railing by the staircase was a hazard waiting to happen."
         }
     ]
 }

@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "The measurement or extent of something from end to end.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The length of the table is three feet.",
+            "sent2": "She measured the length of the room with a tape measure.",
+            "sent3": "The length of the line at the store made her reconsider shopping.",
+            "sent4": "The length of the journey seemed never-ending.",
+            "sent5": "The length of the snake startled the hikers on the trail."
         },
         {
             "definition": "The quality of being long.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The length of the movie made it hard to sit through.",
+            "sent2": "The length of the dress was perfect for the formal event.",
+            "sent3": "His explanation had a great length, but lacked clarity.",
+            "sent4": "The length of the queue at the amusement park was frustrating.",
+            "sent5": "The incredible length of the bridge amazed the engineers."
         },
         {
             "definition": "The amount of time something lasts.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The length of the meeting was unexpected.",
+            "sent2": "She was surprised by the length of the concert.",
+            "sent3": "The length of the movie made it feel like an eternity.",
+            "sent4": "The length of the delay caused frustration among the passengers.",
+            "sent5": "The remarkable length of the eclipse left spectators in awe."
         }
     ]
 }

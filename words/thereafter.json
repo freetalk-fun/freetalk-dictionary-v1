@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "After that time",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "She finished her homework and thereafter went to bed.",
+            "sent2": "He completed his chores, and thereafter he watched TV.",
+            "sent3": "After playing outside, the kids were tired, and thereafter they took a nap.",
+            "sent4": "The sun set, and thereafter the stars twinkled in the night sky.",
+            "sent5": "The rain stopped, and thereafter a rainbow appeared in the sky."
         },
         {
             "definition": "Following that",
-            "pos": "conjunction"
+            "pos": "conjunction",
+            "sent1": "She ate her breakfast, and thereafter she brushed her teeth.",
+            "sent2": "He finished his work, and thereafter he went for a walk.",
+            "sent3": "The cat chased the mouse, and thereafter it took a nap in the sun.",
+            "sent4": "The bell rang, and thereafter the students rushed out of the classroom.",
+            "sent5": "The dog barked, and thereafter it wagged its tail happily."
         },
         {
             "definition": "Subsequently",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "She planted the seeds and thereafter watered the garden.",
+            "sent2": "He bought groceries, and thereafter he cooked dinner.",
+            "sent3": "The mailman delivered the package, and thereafter the doorbell rang.",
+            "sent4": "The clock struck twelve, and thereafter the party ended.",
+            "sent5": "The thunder rumbled, and thereafter the rain poured down."
         }
     ]
 }

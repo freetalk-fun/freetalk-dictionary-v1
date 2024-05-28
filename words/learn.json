@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Gain or acquire knowledge or skill through study, experience, or being taught.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Children learn new things at school every day.",
+            "sent2": "I learn how to play the piano by practicing regularly.",
+            "sent3": "The cat learned that knocking over the vase was not a good idea.",
+            "sent4": "She learned the hard way that honesty is the best policy.",
+            "sent5": "Through hard work and dedication, he learned to speak fluent Spanish."
         },
         {
             "definition": "Commit to memory.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Students learn their multiplication tables to remember them easily.",
+            "sent2": "I learn my favorite poem so I can recite it from memory.",
+            "sent3": "The squirrel learned where it buried its acorns after a long search.",
+            "sent4": "She learned the song lyrics by heart after listening to it many times.",
+            "sent5": "By repeating the information, he learned the important dates for the history test."
         },
         {
             "definition": "Find out, discover, or realize.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "We learn that the store is closed on Sundays.",
+            "sent2": "I learn that my friend is moving away next month.",
+            "sent3": "The detective learned the identity of the mysterious caller.",
+            "sent4": "She learned the truth about her family history after reading old letters.",
+            "sent5": "Through careful observation, he learned the secret hiding spot of the treasure."
         }
     ]
 }

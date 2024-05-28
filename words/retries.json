@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To attempt to do something again after an initial failure.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She retries the puzzle after failing the first time.",
+            "sent2": "He always retries his math problems to get them right.",
+            "sent3": "The cat retries jumping on the counter but keeps missing.",
+            "sent4": "The flower retries blooming after a harsh storm.",
+            "sent5": "The student retries reading the paragraph until understanding it."
         },
         {
             "definition": "The act of trying to do something again after an initial failure.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "His retries at solving the puzzle paid off in the end.",
+            "sent2": "The retries in the game show his determination to win.",
+            "sent3": "The cake's retries to rise in the oven were unsuccessful.",
+            "sent4": "The plant's retries to grow taller were hindered by lack of sunlight.",
+            "sent5": "Her retries in the race showed her perseverance and grit."
         }
     ]
 }

@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To cause great damage or harm to something",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The storm will destroy the old barn.",
+            "sent2": "The fire can destroy a forest in minutes.",
+            "sent3": "The mischievous puppy tried to destroy my favorite shoes.",
+            "sent4": "The virus can destroy a computer's files without warning.",
+            "sent5": "The earthquake's power to destroy buildings is frightening."
         },
         {
             "definition": "To completely ruin or demolish something",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The wrecking ball will destroy the old building.",
+            "sent2": "Leaving food out can destroy its freshness quickly.",
+            "sent3": "The magician's trick seemed to destroy the playing card.",
+            "sent4": "The loud noise can destroy the peaceful atmosphere of the park.",
+            "sent5": "The toddler's tantrum has the power to destroy a calm moment."
         },
         {
             "definition": "To put an end to the existence of something",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The dictator sought to destroy any opposition to his rule.",
+            "sent2": "A single mistake can destroy a person's reputation.",
+            "sent3": "The superhero's mission is to destroy evil in the city.",
+            "sent4": "The final blow will destroy the villain's evil plans.",
+            "sent5": "The scientist's invention could destroy the world if misused."
         }
     ]
 }

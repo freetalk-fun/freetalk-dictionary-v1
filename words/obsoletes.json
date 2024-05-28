@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Cause (something) to become outdated or no longer in use.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Using old technology often obsoletes devices quickly.",
+            "sent2": "The new software update obsoletes the need for manual data entry.",
+            "sent3": "The invention of self-driving cars obsoletes the need for traditional driving lessons.",
+            "sent4": "The rise of digital photography obsoletes film cameras.",
+            "sent5": "Constant innovation in the tech industry obsoletes products faster than ever before."
         },
         {
             "definition": "No longer produced or used; out of date.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The obsolete computer system was unable to run modern software.",
+            "sent2": "The company decided to replace their obsolete machinery with newer models.",
+            "sent3": "His collection of obsolete gadgets was a quirky reminder of past trends.",
+            "sent4": "The abandoned factory stood as a monument to obsolete manufacturing practices.",
+            "sent5": "The obsolete fashion trend made a brief comeback on the runway."
         }
     ]
 }

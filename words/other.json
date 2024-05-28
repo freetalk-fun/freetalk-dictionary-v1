@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Used to refer to someone or something different or distinct from the one already mentioned.",
-            "pos": "pronoun"
+            "pos": "pronoun",
+            "sent1": "She wanted to try something different, so she chose the other option.",
+            "sent2": "I have one book, and I need to find the other one.",
+            "sent3": "The cat looked at the other cat in the mirror and got confused.",
+            "sent4": "His other self, the one he kept hidden, emerged in moments of anger.",
+            "sent5": "The other side of the mountain was covered in lush greenery."
         },
         {
             "definition": "An additional or further thing or person.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I have one pencil, but I need the other for my drawing.",
+            "sent2": "She bought one cookie for herself and another for her friend.",
+            "sent3": "The other in the pair of shoes was missing, leaving her with an odd set.",
+            "sent4": "The other of the twins was known for being more mischievous.",
+            "sent5": "He always kept an extra key in case he lost the other."
         },
         {
             "definition": "Different or alternative.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "She preferred the other route as it was less crowded.",
+            "sent2": "The other dress she tried on was too big for her.",
+            "sent3": "His other idea was to build a treehouse in the backyard.",
+            "sent4": "The other solution to the problem proved to be more effective.",
+            "sent5": "The other flavor of ice cream was a surprising delight."
         }
     ]
 }

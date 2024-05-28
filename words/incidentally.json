@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "By the way",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "Incidentally, I forgot to mention the meeting tomorrow.",
+            "sent2": "She mentioned, incidentally, that she would be late.",
+            "sent3": "Incidentally, the cat decided to join the meeting too.",
+            "sent4": "His smile, incidentally, lit up the entire room.",
+            "sent5": "The sun, incidentally, rose just as the meeting ended."
         },
         {
             "definition": "As a side note",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "As a side note, the project deadline has been extended.",
+            "sent2": "He added, incidentally, that he had completed the task.",
+            "sent3": "The squirrel, as a side note, stole a cookie from the table.",
+            "sent4": "Her laughter, as a side note, echoed through the room.",
+            "sent5": "The stars, as a side note, twinkled brightly in the night sky."
         },
         {
             "definition": "In passing",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "He mentioned the book, incidentally, while talking about movies.",
+            "sent2": "In passing, she remarked on the beautiful weather outside.",
+            "sent3": "The bird flew by, incidentally, dropping a feather on his head.",
+            "sent4": "The river flowed, in passing, through the heart of the city.",
+            "sent5": "The wind, in passing, whispered secrets to the trees."
         }
     ]
 }

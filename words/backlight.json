@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Illuminate (something) from behind.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She used a flashlight to backlight the photo for a cool effect.",
+            "sent2": "The photographer decided to backlight the subject to create a silhouette.",
+            "sent3": "The mischievous cat tried to backlight its own shadow with a tiny torch.",
+            "sent4": "The setting sun seemed to backlight the entire sky with a warm glow.",
+            "sent5": "The campfire flickered, backlighting the trees with dancing shadows."
         },
         {
             "definition": "A light source that illuminates from behind.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The theater stage had a powerful backlight for dramatic effect.",
+            "sent2": "The car had a sleek design with a subtle backlight for safety.",
+            "sent3": "The nightlight in the hallway acted as a comforting backlight for the children.",
+            "sent4": "The moon acted as a natural backlight for the nighttime landscape.",
+            "sent5": "The painting was enhanced by a hidden backlight that made the colors pop."
         },
         {
             "definition": "The light source that illuminates a screen from behind.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The tablet had a bright backlight that could be adjusted for reading.",
+            "sent2": "The TV screen had a uniform backlight for even brightness.",
+            "sent3": "The laptop's backlight suddenly flickered, causing a moment of panic.",
+            "sent4": "The phone's backlight was too dim, making it hard to see in daylight.",
+            "sent5": "The e-reader had a gentle backlight that was easy on the eyes for late-night reading."
         }
     ]
 }

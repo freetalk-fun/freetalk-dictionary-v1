@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A function from a mathematical object to itself.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The endomorphism of the circle maps the shape back onto itself.",
+            "sent2": "In mathematics, an endomorphism is a function that operates within the same mathematical object.",
+            "sent3": "The endomorphism of the mirror made it reflect its own reflection!",
+            "sent4": "Her creativity was an endomorphism, constantly feeding back into itself for new ideas.",
+            "sent5": "The endomorphism of the maze led the explorer right back to the starting point."
         },
         {
             "definition": "A linear transformation from a vector space to itself.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The endomorphism of the plane rotates the vectors within the same space.",
+            "sent2": "Linear algebra deals with endomorphisms that transform a vector space onto itself.",
+            "sent3": "The endomorphism of the rubber band twisted it into a knot all by itself!",
+            "sent4": "His leadership style was like an endomorphism, reshaping the team dynamics from within.",
+            "sent5": "The endomorphism of the river looped back on itself, creating a natural cycle."
         }
     ]
 }

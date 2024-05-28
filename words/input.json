@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Something that is put in.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The teacher asked for our input on the project.",
+            "sent2": "I need your input before I can finish this report.",
+            "sent3": "The input of chocolate chips into the cookie dough made it taste even better.",
+            "sent4": "Her input of creativity transformed the dull presentation into an engaging one.",
+            "sent5": "The input of sunlight through the window brightened up the room."
         },
         {
             "definition": "To enter data into a computer or other device.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Please input your password to access the system.",
+            "sent2": "Remember to input the correct information into the form.",
+            "sent3": "He tried to input his homework into the microwave instead of the computer.",
+            "sent4": "She input her emotions into the music she composed.",
+            "sent5": "The detective input the evidence into the database for analysis."
         },
         {
             "definition": "To contribute ideas or information.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Feel free to input any suggestions you have for the project.",
+            "sent2": "She always inputs valuable insights during our meetings.",
+            "sent3": "The parrot tried to input its opinion during the conversation.",
+            "sent4": "His input of humor lightened the mood in the room.",
+            "sent5": "The team input their combined knowledge to solve the problem efficiently."
         }
     ]
 }

@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To find agreeable or enjoyable",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She likes to read books in the park.",
+            "sent2": "He likes ice cream on hot days.",
+            "sent3": "The cat likes to nap in the sun.",
+            "sent4": "The flower likes the gentle touch of the breeze.",
+            "sent5": "The child likes the sound of laughter."
         },
         {
             "definition": "Similar to; in the same way as",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "She runs likes the wind, swift and free.",
+            "sent2": "He sings likes a bird, with joy in his heart.",
+            "sent3": "The river flows likes a ribbon through the valley.",
+            "sent4": "The leaves rustle likes whispers in the wind.",
+            "sent5": "The stars shine likes diamonds in the night sky."
         },
         {
             "definition": "Social media approval or acknowledgment",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Her post received many likes from friends.",
+            "sent2": "The video got thousands of likes on the platform.",
+            "sent3": "The cat's photo got more likes than expected.",
+            "sent4": "The meme generated a lot of likes and shares.",
+            "sent5": "The influencer's post got a record number of likes."
         }
     ]
 }

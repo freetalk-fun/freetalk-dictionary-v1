@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A substance that emits light when struck by electrons",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The phosphor on the screen glowed brightly when the electrons hit it.",
+            "sent2": "The watch dial was coated with phosphor, making it visible in the dark.",
+            "sent3": "The firefly's tail seemed to contain tiny phosphors, lighting up the night.",
+            "sent4": "Her smile lit up the room like a phosphor in the darkness.",
+            "sent5": "The phosphor in the glow stick made it shine like a tiny star."
         },
         {
             "definition": "A chemical element with the symbol P and atomic number 15",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Phosphor is an essential element for plant growth.",
+            "sent2": "The scientist studied the properties of phosphor in the laboratory.",
+            "sent3": "The magician's potion called for a pinch of phosphor for extra magic.",
+            "sent4": "His words had the impact of phosphor, leaving a lasting impression.",
+            "sent5": "The phosphor in the soil helped the crops thrive under the sun."
         },
         {
             "definition": "To coat or treat with phosphorus or a phosphorus compound",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She decided to phosphor the metal to prevent rusting.",
+            "sent2": "The artist carefully phosphored the canvas to create a special effect.",
+            "sent3": "The chef's secret recipe included a step to phosphor the meat before cooking.",
+            "sent4": "His kindness seemed to phosphor the atmosphere, making everyone feel warm.",
+            "sent5": "The sunlight seemed to phosphor the leaves, giving them a golden hue."
         }
     ]
 }

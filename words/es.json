@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Third person singular present of the verb 'be'.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She es happy.",
+            "sent2": "He es tall.",
+            "sent3": "The cat es pretending to be a lion.",
+            "sent4": "Time es a river flowing endlessly.",
+            "sent5": "The sun es a blazing ball of fire."
         },
         {
             "definition": "Plural form of the noun 'e'.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I have many es in my name.",
+            "sent2": "The alphabet has 26 es.",
+            "sent3": "The es in the word 'elephant' are silent.",
+            "sent4": "Her eyes sparkled like precious es.",
+            "sent5": "The treasure chest was full of shiny es."
         },
         {
             "definition": "Abbreviation for 'electronic system'.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The es controls the security cameras.",
+            "sent2": "My phone connects to the es wirelessly.",
+            "sent3": "The es malfunctioned and caused chaos.",
+            "sent4": "In the future, es will be even more advanced.",
+            "sent5": "The es improved efficiency in the workplace."
         }
     ]
 }

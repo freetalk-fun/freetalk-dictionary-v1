@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A small metal projectile shot from a firearm.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The police officer found a bullet at the crime scene.",
+            "sent2": "The bullet flew through the air and hit the target.",
+            "sent3": "I accidentally dropped a bullet in my cereal this morning.",
+            "sent4": "Her words were like bullets, piercing through his heart.",
+            "sent5": "The shiny bullet gleamed in the sunlight, ready to be fired."
         },
         {
             "definition": "A point or item in a list that indicates importance or separation.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Make sure to highlight the main points with a bullet.",
+            "sent2": "The bullet on the map marked the location of the treasure.",
+            "sent3": "I added a bullet to my shopping list for milk.",
+            "sent4": "His decision was the bullet that changed the course of history.",
+            "sent5": "The bullet on the sign caught my attention immediately."
         },
         {
             "definition": "A dot or symbol used in typography to separate items in a list.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The document had bullet points to organize the information.",
+            "sent2": "She used a bullet to separate each idea in her essay.",
+            "sent3": "The email had a bullet next to the important message.",
+            "sent4": "The bullet on the screen guided the audience through the presentation.",
+            "sent5": "The bullet in the text drew my eyes to the key details."
         }
     ]
 }

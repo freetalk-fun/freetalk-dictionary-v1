@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A quantity or number of things or people dealt with at the same time",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The bakery made several batches of cookies for the event.",
+            "sent2": "She divided the tasks into smaller batches to manage them better.",
+            "sent3": "The teacher had to handle a large batch of energetic students today.",
+            "sent4": "The team processed the data in batches, like a well-oiled machine.",
+            "sent5": "The factory produced batches of colorful candies, filling the room with sweetness."
         },
         {
             "definition": "A group of things or people dealt with at the same time",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The volunteers worked in batches to clean up the park.",
+            "sent2": "The company assigned different batches of employees to various projects.",
+            "sent3": "The children formed batches to play different games in the field.",
+            "sent4": "The chef organized the ingredients into batches for efficient cooking.",
+            "sent5": "The team of doctors treated patients in batches, ensuring no one was left waiting."
         },
         {
             "definition": "A quantity of material prepared or processed at one time",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The factory produced large batches of fabric for the new collection.",
+            "sent2": "The chef mixed the ingredients in small batches for the recipe.",
+            "sent3": "The students conducted experiments using small batches of chemicals.",
+            "sent4": "The artist painted in batches, completing sections of the mural at a time.",
+            "sent5": "The farmer harvested batches of ripe fruits from the orchard, ready for sale."
         }
     ]
 }

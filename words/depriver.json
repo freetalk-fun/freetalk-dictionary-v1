@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A person or thing that deprives someone of something.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The depriver of joy was the rainy weather.",
+            "sent2": "The teacher, a depriver of fun, banned toys in class.",
+            "sent3": "The depriver of cookies was the mischievous dog.",
+            "sent4": "The storm acted as a depriver of sunlight, casting darkness over the town.",
+            "sent5": "The strict rules were the depriver of freedom for the students."
         },
         {
             "definition": "To take something away from someone.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She tried to depriver him of his favorite toy.",
+            "sent2": "The thief would depriver people of their valuables in the night.",
+            "sent3": "The mischievous squirrel would depriver the birds of their seeds.",
+            "sent4": "The illness seemed to depriver her of energy and strength.",
+            "sent5": "The storm would depriver the trees of their leaves, leaving them bare."
         }
     ]
 }

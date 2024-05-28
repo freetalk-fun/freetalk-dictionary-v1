@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To move to a new place.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The family is relocating to a bigger house next month.",
+            "sent2": "She is relocating to a different city for her new job.",
+            "sent3": "The cat seems to be relocating its favorite toy all around the house.",
+            "sent4": "The idea of relocating to a tropical island sounds like a dream.",
+            "sent5": "The company is relocating its headquarters to a more central location for better access."
         },
         {
             "definition": "The act of moving to a new place.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The relocating of the office caused some disruption in the workflow.",
+            "sent2": "Her relocating to a different country was a big decision.",
+            "sent3": "The relocating of the penguins to a new exhibit was quite a spectacle.",
+            "sent4": "The relocating of the books from one shelf to another took hours.",
+            "sent5": "The relocating of the museum artifacts required careful planning and handling."
         }
     ]
 }

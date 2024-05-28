@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A request for a function to be executed after a certain event occurs.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "After the game, the coach made callbacks to the players who performed well.",
+            "sent2": "The callbacks for the job interviews will be scheduled next week.",
+            "sent3": "The callbacks for the pizza delivery were so quick, it felt like magic.",
+            "sent4": "Her smile was like callbacks, always brightening up the room after a long day.",
+            "sent5": "The callbacks for the emergency services were crucial during the storm."
         },
         {
             "definition": "A function that is passed as an argument to another function and is executed after a certain event occurs.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The programmer used callbacks to ensure the code ran smoothly.",
+            "sent2": "The callbacks in the software helped improve its efficiency.",
+            "sent3": "The callbacks in the program were like secret agents, waiting to be called into action.",
+            "sent4": "Her laughter echoed like callbacks, bringing joy to everyone around.",
+            "sent5": "The callbacks in the system were like hidden surprises, making everything work seamlessly."
         }
     ]
 }

@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Coinfects (verb): to infect simultaneously with two or more pathogens",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The mosquito coinfects the host with multiple diseases.",
+            "sent2": "The doctor explained how viruses can coinfect a person at the same time.",
+            "sent3": "The sneaky germs decided to coinfect the poor patient just for fun.",
+            "sent4": "Fear and anxiety coinfect his mind, making it hard to think clearly.",
+            "sent5": "The wildfire of illness coinfects the entire community, spreading rapidly."
         },
         {
             "definition": "Coinfects (noun): instances of simultaneous infection with two or more pathogens",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The hospital reported several coinfects cases this month.",
+            "sent2": "Researchers are studying the coinfects to understand their impact on health.",
+            "sent3": "The coinfects at the daycare caused quite a stir among the parents.",
+            "sent4": "The coinfects in the region are a major concern for public health officials.",
+            "sent5": "The coinfects in the wildlife population are affecting the ecosystem balance."
         }
     ]
 }

@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To lightly touch or tap with the hand.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She decided to pat the dog on its head.",
+            "sent2": "He likes to pat his pockets to check for his keys.",
+            "sent3": "The magician tried to pat the rabbit out of the hat.",
+            "sent4": "The chef had to pat the dough gently to make the perfect bread.",
+            "sent5": "The child learned to pat the clay to make a small bowl."
         },
         {
             "definition": "A light, gentle stroke with the hand.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "She gave the dog a pat on the back for being good.",
+            "sent2": "He felt comforted by the gentle pat on his shoulder.",
+            "sent3": "The cat enjoyed a pat on its head from the owner.",
+            "sent4": "The pat on the head made him feel appreciated.",
+            "sent5": "A pat on the back can show encouragement and support."
         },
         {
             "definition": "A small mass of something soft or light.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "She found a pat of butter on the kitchen counter.",
+            "sent2": "The chef added a pat of flour to the mixture.",
+            "sent3": "The artist used a pat of clay to create a small sculpture.",
+            "sent4": "A pat of snow fell from the tree branch.",
+            "sent5": "He noticed a pat of dust on the old bookshelf."
         }
     ]
 }

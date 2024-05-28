@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "An article or substance that is manufactured or refined for sale.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The local bakery sells a delicious product called bread.",
+            "sent2": "I bought a new cleaning product to use in my kitchen.",
+            "sent3": "The magician's hat seemed to be a product of endless surprises.",
+            "sent4": "Her creativity was a product of her vivid imagination.",
+            "sent5": "The artist's masterpiece was a stunning product of her talent."
         },
         {
             "definition": "The result or outcome of a process or action.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The successful launch of the new product brought in many customers.",
+            "sent2": "The final product of the experiment was unexpected.",
+            "sent3": "The product of their teamwork was a beautifully decorated room.",
+            "sent4": "His hard work was the product of his determination to succeed.",
+            "sent5": "The product of their collaboration was a groundbreaking invention."
         },
         {
             "definition": "A quantity obtained by multiplying quantities together.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The product of 5 and 4 is 20.",
+            "sent2": "Math class focused on calculating products of different numbers.",
+            "sent3": "The product of their ages was the total number of years they had lived.",
+            "sent4": "The product of the two measurements determined the final area of the room.",
+            "sent5": "The product of their efforts resulted in a successful outcome."
         }
     ]
 }

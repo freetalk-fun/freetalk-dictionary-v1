@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A minor malfunction or irregularity in a system.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The computer technician fixed the glitches in the software.",
+            "sent2": "The glitches in the game made it hard to play.",
+            "sent3": "The glitches in the TV remote made it change channels randomly.",
+            "sent4": "Her plan had a few glitches, but she managed to make it work.",
+            "sent5": "The glitches in the road caused the car to bump around."
         },
         {
             "definition": "A defect or imperfection.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The designer worked hard to eliminate all the glitches in the dress.",
+            "sent2": "The glitches in the mirror distorted her reflection.",
+            "sent3": "The glitches in the painting made it look like a modern art piece.",
+            "sent4": "His flawless appearance hid the glitches in his personality.",
+            "sent5": "The glitches in the diamond reduced its value significantly."
         },
         {
             "definition": "To experience a sudden malfunction or irregularity.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She glitches whenever she tries to open that file.",
+            "sent2": "The system glitches whenever too many users are online.",
+            "sent3": "He glitches at the worst possible moments, like during presentations.",
+            "sent4": "Their communication glitched, causing confusion among the team.",
+            "sent5": "The robot glitched and started moving in circles unexpectedly."
         }
     ]
 }

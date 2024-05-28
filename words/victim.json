@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A person harmed, injured, or killed as a result of a crime, accident, or other event.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The victim of the robbery lost all his money.",
+            "sent2": "The victim of the car accident was taken to the hospital.",
+            "sent3": "The victim of the prank realized it was just a joke.",
+            "sent4": "She felt like a victim of fate, always facing challenges.",
+            "sent5": "The victim's face showed the pain of their injuries."
         },
         {
             "definition": "A person who is tricked or duped.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The victim of the scam lost her life savings.",
+            "sent2": "He felt like a victim when he realized he had been lied to.",
+            "sent3": "The victim of the practical joke laughed along with everyone else.",
+            "sent4": "She was a victim of her own gullibility, falling for the same trick twice.",
+            "sent5": "The victim's expression showed disbelief at being deceived."
         },
         {
             "definition": "A living creature killed as a sacrifice.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The ancient ritual required a lamb as the victim.",
+            "sent2": "The victim in the ceremony was offered to the gods.",
+            "sent3": "The victim of the sacrifice was chosen for its purity.",
+            "sent4": "The victim's blood was spilled in the name of tradition.",
+            "sent5": "The victim's sacrifice was believed to bring blessings upon the community."
         }
     ]
 }

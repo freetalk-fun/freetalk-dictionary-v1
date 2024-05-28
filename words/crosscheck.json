@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Verify (information) by using an alternative source or method.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I always crosscheck the facts before writing my report.",
+            "sent2": "It is important to crosscheck the data to ensure its accuracy.",
+            "sent3": "I decided to crosscheck the recipe with my friend just to be sure.",
+            "sent4": "She likes to crosscheck her schedule with her phone calendar.",
+            "sent5": "Remember to crosscheck the address before sending the invitation."
         },
         {
             "definition": "A check or verification against another source or method.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The accountant performed a crosscheck to confirm the numbers.",
+            "sent2": "The crosscheck revealed a discrepancy in the records.",
+            "sent3": "The crosscheck between the two lists showed a mistake in the data entry.",
+            "sent4": "The crosscheck acted as a safety net to catch any errors.",
+            "sent5": "Make sure to do a crosscheck of the information before finalizing the report."
         }
     ]
 }

@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A person or thing that inhibits or restrains.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The strict teacher acted as an inhibiter of fun in the classroom.",
+            "sent2": "The loud noise was an inhibiter to my concentration.",
+            "sent3": "The rainy weather was an inhibiter to our outdoor plans.",
+            "sent4": "His fear of failure acted as an inhibiter to his ambitions.",
+            "sent5": "The red traffic light served as an inhibiter to our journey."
         },
         {
             "definition": "A substance that slows down or prevents a chemical reaction.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The preservative in the food acted as an inhibiter to spoilage.",
+            "sent2": "Adding lemon juice can be an inhibiter to browning of fruits.",
+            "sent3": "The cold temperature acted as an inhibiter to the chemical reaction.",
+            "sent4": "The sunscreen lotion acts as an inhibiter to harmful UV rays.",
+            "sent5": "The antioxidant in green tea is a natural inhibiter to oxidation."
         },
         {
             "definition": "A drug that blocks a biological process.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The doctor prescribed an inhibiter to lower the patient's blood pressure.",
+            "sent2": "The chemotherapy drug is an inhibiter to cancer cell growth.",
+            "sent3": "The allergy inhibiter helped relieve the symptoms quickly.",
+            "sent4": "The enzyme inhibiter blocked the harmful effects of the toxin.",
+            "sent5": "The insulin inhibiter is crucial for managing diabetes."
         }
     ]
 }

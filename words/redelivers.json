@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To deliver again",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The courier redelivers the package to the customer.",
+            "sent2": "She redelivers the lost items to their owners.",
+            "sent3": "The magician redelivers the vanished rabbit with a flourish.",
+            "sent4": "The teacher redelivers knowledge to her students like a precious gift.",
+            "sent5": "The postman redelivers the misplaced letter with a smile."
         },
         {
             "definition": "To give back",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He redelivers the borrowed book to the library.",
+            "sent2": "The kind neighbor redelivers the borrowed tools promptly.",
+            "sent3": "She redelivers the mistakenly taken umbrella to its owner.",
+            "sent4": "The honest person redelivers the lost wallet to its rightful owner.",
+            "sent5": "The responsible student redelivers the borrowed notes after class."
         },
         {
             "definition": "To return something to its original recipient",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The post office redelivers the undelivered package to the sender.",
+            "sent2": "The company redelivers the faulty product to the manufacturer.",
+            "sent3": "The restaurant redelivers the wrong order to the correct table.",
+            "sent4": "The courier redelivers the misplaced keys to the forgetful owner.",
+            "sent5": "The delivery person redelivers the missing package to the waiting customer."
         }
     ]
 }

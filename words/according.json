@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "As stated or indicated by someone.",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "She followed the instructions according to the manual.",
+            "sent2": "The students lined up according to their height.",
+            "sent3": "The cat meowed according to the rhythm of the music.",
+            "sent4": "The flowers bloomed according to the changing seasons.",
+            "sent5": "The clock ticked according to the passing minutes."
         },
         {
             "definition": "In agreement or conformity with something.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The report was written according to the guidelines.",
+            "sent2": "Her actions were always according to the rules.",
+            "sent3": "The cake turned out delicious according to the recipe.",
+            "sent4": "His behavior was unpredictable, not according to the norm.",
+            "sent5": "The painting was beautiful, according to the artist's vision."
         },
         {
             "definition": "In proportion or relation to something.",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "The amount of sugar in the recipe was adjusted according to taste.",
+            "sent2": "The prices vary according to demand.",
+            "sent3": "The car sped up according to the pressure on the gas pedal.",
+            "sent4": "Her mood changed according to the weather outside.",
+            "sent5": "The tree grew tall according to the nutrients in the soil."
         }
     ]
 }

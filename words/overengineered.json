@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Designed or constructed with excessive complexity or unnecessary features.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The overengineered machine had so many buttons that no one knew how to use it.",
+            "sent2": "The overengineered software was slow and confusing to navigate.",
+            "sent3": "The overengineered toaster had a hundred settings, but all anyone wanted was a simple 'on' button.",
+            "sent4": "Her overengineered plan for the party ended up causing more stress than joy.",
+            "sent5": "The overengineered bridge collapsed under its own weight due to too many unnecessary supports."
         },
         {
             "definition": "To design or construct something with more complexity or features than necessary.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He tends to overengineer his presentations with too many slides and animations.",
+            "sent2": "The team decided not to overengineer the project and focused on simplicity instead.",
+            "sent3": "She overengineered the cake by adding too many layers, making it unstable.",
+            "sent4": "Trying to overengineer every aspect of life can lead to unnecessary stress and complications.",
+            "sent5": "The company chose to overengineer the product, resulting in higher costs and longer development time."
         }
     ]
 }

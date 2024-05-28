@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "An educational talk given to a group of people, typically in a formal setting.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "During the lecture, the teacher explained the math problem step by step.",
+            "sent2": "The students attended the lecture on history in the school auditorium.",
+            "sent3": "The lecture about dinosaurs was so interesting that even the sleepy students perked up.",
+            "sent4": "Her lecture on environmental conservation planted seeds of awareness in the young minds.",
+            "sent5": "The professor's lecture on space exploration was out of this world!"
         },
         {
             "definition": "To give a talk or speech to someone in order to instruct or criticize them.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She will lecture the team on the importance of teamwork during the meeting.",
+            "sent2": "The coach decided to lecture the players on the importance of discipline in sports.",
+            "sent3": "After the messy room incident, Mom decided to lecture her kids on cleanliness.",
+            "sent4": "The boss continued to lecture the employees on the company's core values.",
+            "sent5": "The teacher lectured the students on the consequences of not completing their homework."
         }
     ]
 }

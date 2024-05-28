@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A situation in which no progress can be made due to a deadlock or obstruction.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The logjam in the traffic made everyone late for work.",
+            "sent2": "The logjam of ideas in the meeting prevented any decisions from being made.",
+            "sent3": "The logjam of toys in the playroom made it impossible to walk without tripping.",
+            "sent4": "The logjam of emails in my inbox felt like a mountain I couldn't climb.",
+            "sent5": "The logjam of fallen leaves in the gutter created a colorful but frustrating sight."
         },
         {
             "definition": "To cause a blockage or deadlock in a process or situation.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Please don't logjam the printer with too many print requests at once.",
+            "sent2": "His stubbornness tends to logjam any attempts at compromise.",
+            "sent3": "I accidentally logjammed the sink by letting food scraps go down the drain.",
+            "sent4": "Her absence logjammed the progress of the project, as she held crucial information.",
+            "sent5": "The fallen tree logjammed the river, creating a temporary barrier to the water flow."
         }
     ]
 }

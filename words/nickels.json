@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A United States coin worth five cents.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I found two nickels in my pocket.",
+            "sent2": "She used five nickels to buy a candy bar.",
+            "sent3": "The vending machine only accepted nickels, so I had to search for some.",
+            "sent4": "His smile was as bright as a shiny nickel.",
+            "sent5": "The sound of nickels clinking together is music to my ears."
         },
         {
             "definition": "To make a small cut or notch in.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He carefully nickels the paper to create a decorative edge.",
+            "sent2": "The tailor nickels the fabric before sewing it together.",
+            "sent3": "I accidentally nickels my finger while trying to open the package.",
+            "sent4": "The sculptor nickels away at the marble to reveal the statue within.",
+            "sent5": "The chef nickels the vegetables for garnish with precision."
         },
         {
             "definition": "To steal or pilfer.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The mischievous raccoon nickels food from the campsite.",
+            "sent2": "She always nickels pens from her coworkers' desks.",
+            "sent3": "The sneaky cat nickels socks and hides them under the bed.",
+            "sent4": "The pickpocket nickels wallets in crowded places.",
+            "sent5": "The pirate crew nickels treasures from unsuspecting ships."
         }
     ]
 }

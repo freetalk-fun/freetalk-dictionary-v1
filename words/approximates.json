@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To come close in quantity or quality",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The student's answer approximates the correct solution.",
+            "sent2": "The temperature outside approximates the forecasted high for the day.",
+            "sent3": "The cat's attempt to catch the laser pointer approximates a stealth mission.",
+            "sent4": "Her singing voice approximates that of a professional opera singer.",
+            "sent5": "The artist's brushwork approximates the style of a famous painter."
         },
         {
             "definition": "An estimate or rough calculation of a value",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The engineer provided an approximate of the project cost.",
+            "sent2": "The teacher asked the students to give an approximate of the number of books in the library.",
+            "sent3": "The child's guess of the number of candies in the jar was just an approximate.",
+            "sent4": "The detective made an approximate of the suspect's height based on the security footage.",
+            "sent5": "The doctor gave an approximate of the recovery time after the surgery."
         },
         {
             "definition": "Nearly accurate or correct",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The map was only an approximate representation of the hiking trail.",
+            "sent2": "The estimated time of arrival was just an approximate.",
+            "sent3": "The approximate weight of the pumpkin was written on the label.",
+            "sent4": "The scientist's theory was an approximate explanation of the phenomenon.",
+            "sent5": "The dress size she chose was only an approximate fit, but it worked well for the occasion."
         }
     ]
 }

@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A short, sharp sound made by a telegraph key",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The operator sent a series of dits to communicate the message.",
+            "sent2": "I heard the dit coming from the telegraph machine.",
+            "sent3": "The dit from the telegraph sounded like a tiny bird chirping.",
+            "sent4": "The dit echoed through the room, breaking the silence.",
+            "sent5": "The dit was so quick, it almost sounded like a click."
         },
         {
             "definition": "A small, insignificant detail or piece of information",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "She mentioned a dit about the upcoming event.",
+            "sent2": "The detective focused on every dit in the case.",
+            "sent3": "The dit about the missing cookie was finally revealed.",
+            "sent4": "In the grand scheme of things, that dit didn't matter much.",
+            "sent5": "Don't overlook any dit, no matter how small it seems."
         },
         {
             "definition": "To convey a message in Morse code using short signals",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He dits the SOS signal to call for help.",
+            "sent2": "They dits the coordinates to guide the rescue team.",
+            "sent3": "I tried to dits my name in Morse code, but it was a mess.",
+            "sent4": "The rhythmic ditting of the message was mesmerizing.",
+            "sent5": "She quickly dits the urgent message to her team."
         }
     ]
 }

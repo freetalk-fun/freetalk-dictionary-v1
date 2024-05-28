@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A punishment imposed for breaking a law or rule.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The referee gave a penalty for the foul.",
+            "sent2": "He had to pay a penalty for speeding.",
+            "sent3": "Getting a penalty for not finishing his vegetables made him pout.",
+            "sent4": "The penalty for cheating in the game was sitting out the next round.",
+            "sent5": "The penalty for arriving late to work was having to stay extra hours."
         },
         {
             "definition": "A disadvantage or loss incurred as a result of an action.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Missing the bus was a penalty for oversleeping.",
+            "sent2": "There was a penalty for not studying for the test.",
+            "sent3": "The penalty for forgetting his lunch was a grumbling stomach.",
+            "sent4": "The penalty of losing the game was disappointment.",
+            "sent5": "The penalty of not wearing sunscreen was a painful sunburn."
         },
         {
             "definition": "A fee or fine imposed for not following a contract or agreement.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "There was a penalty for canceling the reservation last minute.",
+            "sent2": "He had to pay a penalty for returning the equipment late.",
+            "sent3": "The penalty for breaking the rental agreement was an extra charge.",
+            "sent4": "The penalty for exceeding the data limit was an additional fee.",
+            "sent5": "The penalty for not paying the bill on time was a late fee."
         }
     ]
 }

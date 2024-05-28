@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "The possibility of something happening.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "There are good chances of rain tomorrow.",
+            "sent2": "She took her chances and applied for the job.",
+            "sent3": "The cat's chances of catching the laser pointer are slim.",
+            "sent4": "His chances of winning the lottery are like finding a needle in a haystack.",
+            "sent5": "The chances of finding a four-leaf clover are very rare."
         },
         {
             "definition": "An opportunity to do something.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I will take my chances and ask her out on a date.",
+            "sent2": "He was given a second chance to prove himself.",
+            "sent3": "The chance to travel the world came unexpectedly.",
+            "sent4": "She saw the job opening as her chance to start a new career.",
+            "sent5": "Winning the contest was his big chance to shine."
         },
         {
             "definition": "The probability of something occurring.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "What are the chances of winning the raffle?",
+            "sent2": "The chances of getting struck by lightning are very low.",
+            "sent3": "The chances of finding a parking spot in the city during rush hour are slim.",
+            "sent4": "The chances of the team winning the championship are high.",
+            "sent5": "The chances of the plan succeeding are uncertain."
         }
     ]
 }

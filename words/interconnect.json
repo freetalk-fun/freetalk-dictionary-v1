@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To connect or link two or more things together",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I interconnect my phone to the charger every night.",
+            "sent2": "The roads interconnect the different parts of the city.",
+            "sent3": "The puzzle pieces interconnect perfectly, creating a beautiful picture.",
+            "sent4": "Her ideas interconnect seamlessly, forming a cohesive argument.",
+            "sent5": "The train tracks interconnect, allowing trains to travel smoothly."
         },
         {
             "definition": "A connection or link between two or more things",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The interconnect between the two computers is fast.",
+            "sent2": "The interconnect of the pipes ensures water flows efficiently.",
+            "sent3": "The interconnect of friendship between them is strong.",
+            "sent4": "The interconnect of wires in the system is complex but reliable.",
+            "sent5": "The interconnect of roads in the city makes commuting easier."
         }
     ]
 }

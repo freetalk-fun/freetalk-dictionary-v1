@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "The objective form of the pronoun 'who', used as the object of a verb or preposition.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "She gave the gift to whomever asked for it first.",
+            "sent2": "Whomever you choose to invite, make sure they RSVP.",
+            "sent3": "The mysterious package was addressed to whomever finds it first.",
+            "sent4": "In the dark forest, whomever dares to venture will discover hidden treasures.",
+            "sent5": "The reward will go to whomever completes the challenge fastest."
         },
         {
             "definition": "Used to introduce a clause in which the subject is the person or people who are the object of a verb.",
-            "pos": "conjunction"
+            "pos": "conjunction",
+            "sent1": "Whomever wins the race will receive a prize.",
+            "sent2": "You can leave whenever you want, whomever you please.",
+            "sent3": "The chef will cook dinner, whomever shows up at the restaurant.",
+            "sent4": "Like a detective, she followed the clues to whomever committed the crime.",
+            "sent5": "The treasure map will lead you to whomever holds the key."
         }
     ]
 }

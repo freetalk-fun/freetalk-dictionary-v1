@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A tool used to remove lint from clothing.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I used a linter to clean the lint off my favorite sweater.",
+            "sent2": "The linter quickly removed all the lint from the fabric.",
+            "sent3": "The linter decided to go on strike, tired of always cleaning up after us.",
+            "sent4": "Her fingers worked like a linter, meticulously picking out every piece of lint.",
+            "sent5": "The linter hummed happily as it made the sweater look brand new."
         },
         {
             "definition": "A program that analyzes source code to flag potential errors.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The linter highlighted the errors in the code for easy fixing.",
+            "sent2": "Developers rely on a linter to catch mistakes in their programming.",
+            "sent3": "The linter program joked that it had a 'lintervention' with the code.",
+            "sent4": "The linter acted like a vigilant guard, catching any bugs trying to sneak in.",
+            "sent5": "Using the linter felt like having a second pair of eyes to spot errors."
         }
     ]
 }

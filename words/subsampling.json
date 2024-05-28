@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To sample a smaller portion of a larger sample.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I will subsample the candies to taste a few different flavors.",
+            "sent2": "Scientists often subsample the soil to study its composition.",
+            "sent3": "The chef decided to subsample the dishes to create a mini-tasting menu.",
+            "sent4": "She enjoys subsampling different genres of music to broaden her musical taste.",
+            "sent5": "Subsampling the books on the shelf, she picked out a few to read over the weekend."
         },
         {
             "definition": "The act of selecting a subset of data for analysis.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The subsampling of the survey results provided a representative data set.",
+            "sent2": "Researchers use subsampling to reduce the size of the dataset for faster processing.",
+            "sent3": "The subsampling of the ice cream flavors made it easier to choose a favorite.",
+            "sent4": "In the art class, the teacher used subsampling to focus on specific painting techniques.",
+            "sent5": "The subsampling of the photographs helped in creating a concise album of memories."
         }
     ]
 }

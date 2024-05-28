@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Absolutely nothing",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I searched the whole house, but found bupkis.",
+            "sent2": "He promised to help, but ended up giving me bupkis.",
+            "sent3": "When I asked for a raise, my boss offered me bupkis instead.",
+            "sent4": "The empty box contained bupkis but dust.",
+            "sent5": "The treasure hunt led to bupkis, just an empty chest."
         },
         {
             "definition": "Worthless",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The broken toy was bupkis to me.",
+            "sent2": "She realized the fake jewelry was bupkis.",
+            "sent3": "Trying to fix the old computer was bupkis, it never worked.",
+            "sent4": "His empty promises were bupkis, never fulfilled.",
+            "sent5": "The rusty key turned out to be bupkis, couldn't open anything."
         },
         {
             "definition": "Nonsense",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The story he told was bupkis, made no sense.",
+            "sent2": "She dismissed his excuses as bupkis.",
+            "sent3": "The cat wearing a hat was bupkis, cats don't wear hats!",
+            "sent4": "His explanation for being late was bupkis, pure fiction.",
+            "sent5": "The conspiracy theory was bupkis, just wild ideas."
         }
     ]
 }

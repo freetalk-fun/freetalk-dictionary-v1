@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A strong and unpleasant smell.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The stench of rotten eggs filled the room.",
+            "sent2": "The garbage had a terrible stench.",
+            "sent3": "The stench from the old shoes was so bad, we had to hold our noses.",
+            "sent4": "The stench of failure hung heavy in the air.",
+            "sent5": "The stench of the skunk was overpowering."
         },
         {
             "definition": "To emit a strong and unpleasant smell.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The garbage began to stench after a few days.",
+            "sent2": "The flowers stench in the hot sun.",
+            "sent3": "The cheese started to stench, making everyone gag.",
+            "sent4": "The fish stenched up the whole kitchen.",
+            "sent5": "The dirty laundry stenched up the entire room."
         }
     ]
 }

@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A large, heavy motor vehicle used for transporting goods or materials.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The trucks carried boxes of fruits to the market.",
+            "sent2": "The delivery trucks arrived at the warehouse early in the morning.",
+            "sent3": "The trucks lined up at the loading dock, eager to start their journey.",
+            "sent4": "The trucks rumbled through the night, their headlights piercing the darkness.",
+            "sent5": "The shiny red trucks stood out against the gray cityscape."
         },
         {
             "definition": "A small, wheeled platform used for moving heavy objects.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The workers used trucks to transport the heavy equipment across the factory floor.",
+            "sent2": "She wheeled the truck filled with books to the library shelves.",
+            "sent3": "The tiny toy truck struggled to carry the oversized marble.",
+            "sent4": "The old truck creaked under the weight of the furniture.",
+            "sent5": "The metal truck gleamed under the sunlight as it rolled along the sidewalk."
         },
         {
             "definition": "To convey by truck.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "They will truck the supplies to the construction site tomorrow.",
+            "sent2": "He trucks the goods from the warehouse to the store every week.",
+            "sent3": "She decided to truck the furniture across town instead of hiring a moving company.",
+            "sent4": "The company trucks the products to different cities for distribution.",
+            "sent5": "The farmer trucks the fresh produce to the market early in the morning."
         }
     ]
 }

@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Intensely focused or dense",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "She had a concentrated look on her face as she solved the puzzle.",
+            "sent2": "The juice was very concentrated, so we added water to dilute it.",
+            "sent3": "The cat's concentrated stare at the toy mouse was both cute and intense.",
+            "sent4": "The city's population was concentrated in the downtown area, bustling with activity.",
+            "sent5": "The teacher's concentrated effort helped the students understand the difficult concept."
         },
         {
             "definition": "To bring all efforts or resources to bear on a particular task or objective",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The team concentrated their energy on winning the championship.",
+            "sent2": "She concentrated on finishing her homework before going out to play.",
+            "sent3": "The chef concentrated on creating the perfect dish, ignoring all distractions.",
+            "sent4": "The students concentrated their study time on preparing for the exam.",
+            "sent5": "The workers concentrated their efforts on completing the project ahead of schedule."
         },
         {
             "definition": "To increase the strength or purity of a substance by removing or reducing the diluting agent",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The distillation process concentrated the alcohol in the solution.",
+            "sent2": "The company concentrated the flavor of the sauce by reducing the water content.",
+            "sent3": "The scientist concentrated the sample to analyze its components more effectively.",
+            "sent4": "The chef concentrated the broth to enhance its taste and aroma.",
+            "sent5": "The medication was concentrated to make it more potent and effective."
         }
     ]
 }

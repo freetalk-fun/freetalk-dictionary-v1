@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A person or thing that impacts.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The impacter, a heavy hammer, made a loud noise when it hit the metal.",
+            "sent2": "The impacter, a strong storm, caused damage to the houses in the area.",
+            "sent3": "The impacter, a mischievous squirrel, knocked over the bird feeder.",
+            "sent4": "The impacter, a determined student, made a lasting impression on the teacher.",
+            "sent5": "The impacter, a falling rock, created a large crater in the ground."
         },
         {
             "definition": "To have an effect or influence on something.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The loud music impacters my ability to concentrate on my homework.",
+            "sent2": "Her encouraging words impactered his decision to pursue his dream.",
+            "sent3": "The unexpected rain impacters the outdoor picnic, but everyone enjoyed the impromptu dance party.",
+            "sent4": "The new policy impacters the way we schedule our meetings.",
+            "sent5": "The positive attitude of the team impacters the overall morale of the office."
         },
         {
             "definition": "To collide forcefully with something.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The car impacters the wall, causing significant damage.",
+            "sent2": "The soccer ball impacters the goal post and bounces back into play.",
+            "sent3": "The clumsy waiter impacters the table, spilling drinks everywhere.",
+            "sent4": "The asteroid impacters the planet, leaving a massive crater.",
+            "sent5": "The waves impacters the shore, eroding the coastline over time."
         }
     ]
 }

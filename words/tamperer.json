@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A person who tampers with something.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The tamperer tried to fix the broken toy.",
+            "sent2": "The curious tamperer opened the old clock to see how it worked.",
+            "sent3": "The mischievous tamperer switched the labels on the jars in the pantry.",
+            "sent4": "Beware of the tamperer of hearts, for they may break what they touch.",
+            "sent5": "The tamperer's fingerprints were all over the evidence, leading to their capture."
         },
         {
             "definition": "To interfere with something in a harmful way.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Do not tamperer with the delicate machinery or it may break.",
+            "sent2": "The hacker attempted to tamperer with the company's database.",
+            "sent3": "The raccoon managed to tamperer with the trash can lid, causing a mess.",
+            "sent4": "She felt like someone had tamperered with her memories, distorting them.",
+            "sent5": "The storm's strong winds tamperered with the power lines, causing a blackout."
         }
     ]
 }

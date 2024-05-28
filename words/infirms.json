@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To make weak or feeble",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Lack of proper nutrition infirms the body over time.",
+            "sent2": "The illness infirms her ability to walk long distances.",
+            "sent3": "Trying to carry all the groceries in one trip infirms my arms!",
+            "sent4": "Constant exposure to harsh weather infirms the sturdy fence.",
+            "sent5": "The relentless heat infirms the once lush green plants."
         },
         {
             "definition": "To inform or give knowledge to",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She infirms her students about the upcoming test schedule.",
+            "sent2": "The news anchor infirms the public about the latest developments.",
+            "sent3": "The friendly librarian infirms visitors about the library's rules.",
+            "sent4": "The guide infirms the tourists about the historical significance of the monument.",
+            "sent5": "The teacher infirms the class about the importance of recycling."
         },
         {
             "definition": "To prove or establish as true",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The evidence presented in court infirms the defendant's innocence.",
+            "sent2": "The experiment results infirm the hypothesis proposed by the scientist.",
+            "sent3": "The DNA test infirms the suspect's claim of not being at the crime scene.",
+            "sent4": "The witness testimony infirms the accused's alibi.",
+            "sent5": "The data collected infirms the previous assumptions about the population trend."
         }
     ]
 }

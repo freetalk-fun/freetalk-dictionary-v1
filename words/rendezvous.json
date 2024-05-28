@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A meeting at an agreed time and place.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Let's have a rendezvous at the park tomorrow.",
+            "sent2": "The friends planned a rendezvous at the cafe for lunch.",
+            "sent3": "The secret agents' rendezvous at the library raised some eyebrows.",
+            "sent4": "Their rendezvous under the stars felt like a scene from a movie.",
+            "sent5": "The romantic rendezvous by the lake was unforgettable."
         },
         {
             "definition": "To meet at an agreed time and place.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "We will rendezvous at the corner of the street at 3 PM.",
+            "sent2": "Let's rendezvous at the entrance of the museum before the tour.",
+            "sent3": "The cats always rendezvous in the backyard for their daily playtime.",
+            "sent4": "The two teams will rendezvous on the field for the final match.",
+            "sent5": "The birds will rendezvous at the bird feeder every morning."
         }
     ]
 }

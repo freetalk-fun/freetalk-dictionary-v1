@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Though",
-            "pos": "conjunction"
+            "pos": "conjunction",
+            "sent1": "Tho it rained, we still had fun at the park.",
+            "sent2": "I wanted to go for a walk, tho it was getting dark outside.",
+            "sent3": "Tho I forgot my umbrella, I danced in the rain.",
+            "sent4": "The tree stood tall, tho the wind tried to bend it.",
+            "sent5": "Even tho the storm was fierce, the ship sailed on."
         },
         {
             "definition": "Even though",
-            "pos": "conjunction"
+            "pos": "conjunction",
+            "sent1": "I studied hard, tho the test was difficult.",
+            "sent2": "She smiled, even tho she was feeling sad inside.",
+            "sent3": "Even tho the cat knocked over the vase, we couldn't help but laugh.",
+            "sent4": "The sun shone brightly, even tho the clouds tried to hide it.",
+            "sent5": "Even tho the road was long, they kept walking towards their goal."
         },
         {
             "definition": "Although",
-            "pos": "conjunction"
+            "pos": "conjunction",
+            "sent1": "Although it was late, they decided to go for a swim.",
+            "sent2": "He wanted to buy the book, although he already had a copy at home.",
+            "sent3": "Although the cake looked burnt, it tasted delicious.",
+            "sent4": "The dog barked loudly, although no one was at the door.",
+            "sent5": "Although the mountain was steep, they climbed it with determination."
         }
     ]
 }

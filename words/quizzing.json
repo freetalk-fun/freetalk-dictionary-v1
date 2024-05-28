@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To ask someone questions to test their knowledge or understanding.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She enjoys quizzing her friends on trivia during game night.",
+            "sent2": "The teacher is quizzing the students on their math skills.",
+            "sent3": "While quizzing her brother, she accidentally asked him a trick question.",
+            "sent4": "The detective was quizzing the suspect, trying to uncover the truth.",
+            "sent5": "The scientist was quizzing the robot to see if it had learned the new information."
         },
         {
             "definition": "A short test or examination.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "He aced the history quiz by studying hard and preparing well.",
+            "sent2": "The students were nervous before the surprise quiz in class.",
+            "sent3": "The pop quiz caught the students off guard, but they did their best.",
+            "sent4": "The quiz at the end of the chapter was challenging but fair.",
+            "sent5": "She completed the quiz quickly and confidently, knowing the material well."
         }
     ]
 }

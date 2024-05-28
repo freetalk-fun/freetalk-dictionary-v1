@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A person who lacks skill or ability in a particular field.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The new employee was a jacklegs in the kitchen, often burning the food.",
+            "sent2": "The team had to replace the jacklegs with a skilled chef to improve the restaurant's quality.",
+            "sent3": "The jacklegs cook mistook salt for sugar, creating a salty cake.",
+            "sent4": "His attempt at fixing the car was that of a jacklegs trying brain surgery.",
+            "sent5": "The jacklegs painter left the walls streaked with paint, showing his lack of expertise."
         },
         {
             "definition": "To work or operate in a makeshift or unprofessional manner.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The mechanic had to jacklegs the broken engine temporarily until the parts arrived.",
+            "sent2": "She had to jacklegs her way through the presentation after forgetting her notes.",
+            "sent3": "He tried to jacklegs a solution together using duct tape and glue.",
+            "sent4": "The team had to jacklegs the project due to unexpected delays.",
+            "sent5": "The students had to jacklegs their science experiment with household items."
         }
     ]
 }

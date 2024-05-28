@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "The amount of space that a substance or object occupies.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The box took up so much volumes in the closet.",
+            "sent2": "The jar had a small volume, so it couldn't hold many marbles.",
+            "sent3": "The balloon animal had such a large volume that it filled the entire room!",
+            "sent4": "Her laughter echoed through the room, filling it with volumes of joy.",
+            "sent5": "The mountain of pillows created a cozy nook, adding volumes of comfort to the room."
         },
         {
             "definition": "A book forming part of a work or series.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The library had many volumes of the famous series.",
+            "sent2": "She borrowed the first volume of the fantasy series from the library.",
+            "sent3": "The volumes on the shelf seemed to whisper stories to each other.",
+            "sent4": "His mind was a volume of knowledge waiting to be explored.",
+            "sent5": "The worn-out volume held within its pages the secrets of generations past."
         },
         {
             "definition": "The amount of sound produced by a speaker or musical instrument.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The concert hall was filled with volumes of music.",
+            "sent2": "The speaker produced a low volume that was hard to hear.",
+            "sent3": "The cat's meow reached volumes that surprised everyone in the room.",
+            "sent4": "Her voice carried volumes of emotion that touched the audience.",
+            "sent5": "The orchestra played with such volumes that the audience was moved to tears."
         }
     ]
 }

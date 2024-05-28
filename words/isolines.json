@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A line on a map connecting points of equal value.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The isolines on the map show where the temperature is the same.",
+            "sent2": "I used isolines to find where the elevation is constant on the map.",
+            "sent3": "The isolines on the map looked like a colorful spider web.",
+            "sent4": "The isolines on the map were like threads weaving through the landscape.",
+            "sent5": "The isolines on the map made it easy to see where the river flows."
         },
         {
             "definition": "A line on a graph representing a constant value.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The isolines on the graph indicate where the function stays the same.",
+            "sent2": "We plotted isolines to show where the pressure remains constant.",
+            "sent3": "The isolines on the graph seemed to dance as the values stayed equal.",
+            "sent4": "The isolines on the graph acted like a fence, keeping the values in check.",
+            "sent5": "The isolines on the graph painted a clear picture of the data trend."
         }
     ]
 }

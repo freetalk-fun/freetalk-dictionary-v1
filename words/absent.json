@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Not present; missing",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The teacher was absent from school today.",
+            "sent2": "The book was found on the shelf, but the bookmark was absent.",
+            "sent3": "The party felt absent without any music playing.",
+            "sent4": "Her smile was absent, giving away her true feelings.",
+            "sent5": "The stars were absent from the night sky, hidden behind thick clouds."
         },
         {
             "definition": "To be away or not in a specific place",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He decided to absent himself from the meeting to avoid confrontation.",
+            "sent2": "The cat always tries to absent itself when it's time for a bath.",
+            "sent3": "The mischievous elf would often absent himself from chores by hiding in the garden.",
+            "sent4": "She wished she could absent herself from the boring lecture and go for a walk instead.",
+            "sent5": "The magician could mysteriously absent objects from one place and make them appear in another."
         },
         {
             "definition": "Showing a lack or deficiency",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "Her absent-minded behavior often led to forgetfulness.",
+            "sent2": "The old house had an eerie atmosphere, feeling absent of life.",
+            "sent3": "The cake tasted delicious but seemed absent of any chocolate flavor.",
+            "sent4": "His absent response to the question revealed his lack of interest.",
+            "sent5": "The painting looked beautiful but felt absent of emotion, lacking a personal touch."
         }
     ]
 }

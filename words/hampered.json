@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "hindered or impeded",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The heavy rain hampered our progress on the hike.",
+            "sent2": "The broken shoelace hampered his ability to run quickly.",
+            "sent3": "The mischievous squirrel hampered the picnic by stealing all the snacks.",
+            "sent4": "Her fear of failure hampered her dreams like a heavy weight on her shoulders.",
+            "sent5": "The thick fog hampered visibility, making it hard to see more than a few feet ahead."
         },
         {
             "definition": "restricted or limited",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The hampered access to the internet frustrated the students.",
+            "sent2": "The hampered budget meant they had to cut back on expenses.",
+            "sent3": "The hampered phone signal made it difficult to make calls.",
+            "sent4": "The hampered schedule left little time for relaxation.",
+            "sent5": "The hampered movement in the crowded room felt suffocating."
         },
         {
             "definition": "slowed down or obstructed",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The traffic jam hampered our journey to the airport.",
+            "sent2": "The tangled wires hampered the installation process.",
+            "sent3": "The playful puppy hampered the cleaning by scattering toys everywhere.",
+            "sent4": "The emotional baggage hampered his ability to trust others.",
+            "sent5": "The thick mud hampered the progress of the construction workers."
         }
     ]
 }

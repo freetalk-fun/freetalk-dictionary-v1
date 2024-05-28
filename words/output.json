@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "The amount of something produced by a person, machine, or industry.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The output of the factory has increased this month.",
+            "sent2": "The output of the printer is quite fast.",
+            "sent3": "The output of the bakery made everyone's mouths water.",
+            "sent4": "Her creativity was the output of a brilliant mind.",
+            "sent5": "The output of the engine was impressive, propelling the car forward smoothly."
         },
         {
             "definition": "The information produced by a computer.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The computer's output displayed the final results.",
+            "sent2": "The output of the software was a detailed report.",
+            "sent3": "The output of the computer surprised the user with unexpected data.",
+            "sent4": "His mind processed the information like an output from a computer.",
+            "sent5": "The output of the screen was clear and easy to read."
         },
         {
             "definition": "The power, energy, or work produced by a machine or system.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The output of the generator kept the lights on during the storm.",
+            "sent2": "The output of the solar panels was enough to run the entire house.",
+            "sent3": "The output of the machine hummed with energy.",
+            "sent4": "Her determination was the output that fueled her success.",
+            "sent5": "The output of the system was so efficient that it saved time and resources."
         }
     ]
 }

@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Used to indicate that the same words or numbers should be repeated.",
-            "pos": "conjunction"
+            "pos": "conjunction",
+            "sent1": "She asked for more ice cream, dittos, more cake.",
+            "sent2": "He loves to play basketball, dittos, soccer.",
+            "sent3": "The teacher said 'read the chapter again, dittos, answer the questions.'",
+            "sent4": "Her laughter echoed through the room, dittos, her joy.",
+            "sent5": "The waves crashed against the shore, dittos, the storm raged on."
         },
         {
             "definition": "The same as stated above or before.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The instructions were clear, and the dittos were easy to follow.",
+            "sent2": "She wore a red dress to the party, and dittos, to the wedding.",
+            "sent3": "His favorite color is blue, dittos, his room is painted blue.",
+            "sent4": "The melody of the song was catchy, dittos, the chorus was memorable.",
+            "sent5": "The aroma of fresh bread filled the kitchen, dittos, the smell of cinnamon."
         },
         {
             "definition": "A duplicate or copy.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "She made a dittos of the key in case she lost the original.",
+            "sent2": "The artist signed the painting and its dittos.",
+            "sent3": "He kept a dittos of the important document in a safe place.",
+            "sent4": "The backup files served as dittos in case of a computer crash.",
+            "sent5": "The twins looked so alike, they were like dittos of each other."
         }
     ]
 }

@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "The act of counting the number of people present.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "During the headcount, we made sure everyone was in the room.",
+            "sent2": "The headcount revealed that there were 20 students in the class.",
+            "sent3": "The headcount showed that we were missing one person, who was hiding in the closet.",
+            "sent4": "As the headcount continued, it felt like each number represented a unique story.",
+            "sent5": "The headcount was crucial for ensuring everyone's safety in case of an emergency."
         },
         {
             "definition": "The total number of people present.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The headcount at the event reached over a hundred attendees.",
+            "sent2": "The headcount confirmed that there were 50 guests at the party.",
+            "sent3": "The headcount for the concert was so high that they ran out of seats.",
+            "sent4": "The headcount of stars in the sky seemed infinite on that clear night.",
+            "sent5": "The headcount of animals in the zoo made it clear how diverse the collection was."
         },
         {
             "definition": "To count the number of people present.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "We need to headcount everyone before we can start the meeting.",
+            "sent2": "She will headcount the students as they enter the classroom.",
+            "sent3": "He decided to headcount the audience by asking them to raise their hands.",
+            "sent4": "The security guard had to headcount the visitors to ensure no one was left behind.",
+            "sent5": "The teacher asked the students to headcount themselves to see if anyone was missing."
         }
     ]
 }

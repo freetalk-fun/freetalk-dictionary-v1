@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A person or entity that has the power to impose an obligation.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The obligator, like a teacher, can assign homework.",
+            "sent2": "The obligator, such as a landlord, can require rent payment.",
+            "sent3": "The obligator, similar to a boss, can assign tasks.",
+            "sent4": "The obligator, akin to a judge, can enforce rules.",
+            "sent5": "The obligator, much like a parent, can set rules at home."
         },
         {
             "definition": "Something that obligates or binds.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Signing the contract made it an obligator for me to pay.",
+            "sent2": "The promise became an obligator for him to keep his word.",
+            "sent3": "The deadline was an obligator for her to finish the project.",
+            "sent4": "The oath served as an obligator for them to uphold their duties.",
+            "sent5": "The agreement acted as an obligator for us to follow the terms."
         }
     ]
 }

@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Defamed or slandered in writing",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The newspaper libeled the politician by printing false accusations.",
+            "sent2": "She was libeled in the magazine article, causing damage to her reputation.",
+            "sent3": "The tabloid libeled the celebrity by spreading lies about their personal life.",
+            "sent4": "The author felt libeled when his work was plagiarized without credit.",
+            "sent5": "The online post libeled the company, leading to a lawsuit for defamation."
         },
         {
             "definition": "Accused of wrongdoing in a public manner",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The libeled individual demanded a public apology for the false accusations.",
+            "sent2": "She felt embarrassed being the libeled subject of the gossip at school.",
+            "sent3": "The libeled student found humor in the exaggerated rumors about them.",
+            "sent4": "The libeled company faced a storm of negative publicity after the scandal broke.",
+            "sent5": "The libeled politician struggled to regain trust after the scandalous accusations."
         }
     ]
 }

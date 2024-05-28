@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A severe flood.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The deluge destroyed many homes in the town.",
+            "sent2": "The deluge caused the river to overflow its banks.",
+            "sent3": "The unexpected deluge turned the street into a river.",
+            "sent4": "The deluge of emotions overwhelmed her fragile heart.",
+            "sent5": "The deluge of tears washed away his sorrow."
         },
         {
             "definition": "To overwhelm with a great quantity of something.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The news of the accident deluged her with guilt.",
+            "sent2": "The company was deluged with orders after the sale.",
+            "sent3": "Her inbox was deluged with spam emails.",
+            "sent4": "The team was deluged with praise for their hard work.",
+            "sent5": "The teacher was deluged with questions from curious students."
         },
         {
             "definition": "A heavy rain.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The deluge outside made it impossible to see the road.",
+            "sent2": "We decided to stay indoors during the deluge.",
+            "sent3": "The sudden deluge caught us without umbrellas.",
+            "sent4": "The deluge of rain filled up the empty buckets in the yard.",
+            "sent5": "The deluge drummed on the roof, creating a soothing sound."
         }
     ]
 }

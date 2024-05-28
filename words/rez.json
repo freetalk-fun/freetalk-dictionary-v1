@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Reservation: a place set aside for a specific purpose",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I made a rez for dinner at the restaurant.",
+            "sent2": "The hotel rez was for a room with a view.",
+            "sent3": "The rez for the campsite was lost, so we had to find a new spot.",
+            "sent4": "His rez for the parking space was unwavering.",
+            "sent5": "The rez for the front row seats made the concert unforgettable."
         },
         {
             "definition": "Residence: a place where someone lives",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Their rez is a cozy house by the lake.",
+            "sent2": "The old mansion serves as a rez for many families.",
+            "sent3": "The cat claimed the shoebox as its rez.",
+            "sent4": "Her rez in the city felt like a bustling hive.",
+            "sent5": "The treehouse became their secret rez in the woods."
         },
         {
             "definition": "Resolution: a decision or determination to do something",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "His rez to exercise more led to a healthier lifestyle.",
+            "sent2": "The team made a rez to work harder for the championship.",
+            "sent3": "The rez to eat only vegetables lasted only a day.",
+            "sent4": "Her rez to learn a new language was met with enthusiasm.",
+            "sent5": "The rez to travel the world ignited a sense of adventure."
         }
     ]
 }

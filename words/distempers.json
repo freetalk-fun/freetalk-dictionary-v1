@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Distempers (noun): a derangement of the bodily functions",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The doctor diagnosed the patient with distempers after observing irregular bodily functions.",
+            "sent2": "The cat's distempers caused it to have trouble walking and eating.",
+            "sent3": "The circus clown joked that his distempers made him juggle like a clumsy elephant.",
+            "sent4": "The storm's arrival brought distempers to the peaceful town, disrupting daily life.",
+            "sent5": "The old book described a potion that could cure even the most severe distempers."
         },
         {
             "definition": "Distempers (verb): to disorder or derange",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The messy room distempers my sense of order and cleanliness.",
+            "sent2": "The loud noise distempers the peaceful atmosphere of the library.",
+            "sent3": "Trying to cook and watch TV at the same time always distempers my focus.",
+            "sent4": "The unexpected news distempers the carefully laid plans for the party.",
+            "sent5": "His constant interruptions distemper the flow of the conversation."
         }
     ]
 }

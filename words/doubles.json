@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To make or become twice as much or as many",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She doubles her savings every month.",
+            "sent2": "The recipe doubles the amount of sugar needed.",
+            "sent3": "The magician doubles the number of rabbits in his hat.",
+            "sent4": "His hard work doubles his chances of success.",
+            "sent5": "The snowstorm doubles the amount of snow on the ground overnight."
         },
         {
             "definition": "Two people or things of the same kind",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The twins are doubles and look exactly alike.",
+            "sent2": "In tennis, you need to find a partner for doubles matches.",
+            "sent3": "The two peas in a pod are like doubles in nature.",
+            "sent4": "The matching socks are perfect doubles in the drawer.",
+            "sent5": "The bookends on the shelf are a pair of doubles."
         },
         {
             "definition": "A hit in baseball that allows the batter to reach second base safely",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The player's powerful swing results in a doubles.",
+            "sent2": "The coach praised the batter for his well-executed doubles.",
+            "sent3": "The baseball announcer gets excited every time there's a doubles.",
+            "sent4": "The crowd cheers as the batter slides into second base after a doubles.",
+            "sent5": "The team celebrates each time a player hits a doubles."
         }
     ]
 }

@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To incorrectly name or identify someone or something.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She kept miscalling her friend by the wrong name.",
+            "sent2": "The teacher was miscalling the students during roll call.",
+            "sent3": "The parrot was miscalling the dog, thinking it was a cat.",
+            "sent4": "The faulty GPS was miscalling the streets, leading us in the wrong direction.",
+            "sent5": "The detective's habit of miscalling suspects made solving the case difficult."
         },
         {
             "definition": "A mistake in naming or identifying someone or something.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The miscalling of the patient's name caused confusion at the doctor's office.",
+            "sent2": "The miscalling of the winner's name at the award ceremony was embarrassing.",
+            "sent3": "The miscalling of the recipe ingredient made the dish taste strange.",
+            "sent4": "The miscalling of the rare bird species led to a mix-up in the wildlife database.",
+            "sent5": "The miscalling of historical events in the textbook confused the students."
         }
     ]
 }

@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "The object of a person's ambition or effort.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Her goals include becoming a doctor and helping others.",
+            "sent2": "He scored a goal in the soccer match.",
+            "sent3": "Setting goals helps keep us motivated and focused.",
+            "sent4": "Her goal of reaching the mountain top seemed impossible at first.",
+            "sent5": "The team celebrated when they achieved their goal of winning the championship."
         },
         {
             "definition": "The result or achievement toward which effort is directed.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The company's goals for the year were to increase sales by 20%.",
+            "sent2": "She reached her weight loss goal after months of hard work.",
+            "sent3": "His goal of finishing the race first was dashed when he tripped and fell.",
+            "sent4": "The goal of finding a cure for cancer drives many scientists in their research.",
+            "sent5": "The team celebrated reaching their fundraising goal for the charity event."
         },
         {
             "definition": "A specific aim or purpose.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Her goal for the project was to create a sustainable solution.",
+            "sent2": "The team discussed their goals for the upcoming season.",
+            "sent3": "His goal of learning a new language led him to enroll in classes.",
+            "sent4": "The goal of the meeting was to brainstorm ideas for the new campaign.",
+            "sent5": "Setting clear goals helps us stay on track and measure progress."
         }
     ]
 }

@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A transmission of data from a satellite or spacecraft to a receiving station on Earth.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The downlinks from the satellite provide us with important information.",
+            "sent2": "Scientists analyze the downlinks to understand the data sent from space.",
+            "sent3": "The downlinks were like messages from the stars, guiding us on Earth.",
+            "sent4": "The downlinks acted as a bridge between the satellite and the receiving station.",
+            "sent5": "The downlinks illuminated the screens with valuable data."
         },
         {
             "definition": "To transmit data from a satellite or spacecraft to a receiving station on Earth.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The satellite downlinks information to the Earth station for analysis.",
+            "sent2": "Engineers downlink data regularly to ensure smooth communication.",
+            "sent3": "The spacecraft downlinks with precision, like a skilled messenger.",
+            "sent4": "She downlinks the data swiftly, ensuring no delays in transmission.",
+            "sent5": "Downlinking the information is crucial for real-time monitoring."
         }
     ]
 }

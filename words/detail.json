@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A small part or item that is considered separately from the whole",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The toy had a tiny detail on its arm.",
+            "sent2": "The painting was full of intricate details.",
+            "sent3": "The detective noticed a small detail that cracked the case wide open.",
+            "sent4": "Her memory was like a puzzle with missing details.",
+            "sent5": "The jewelry designer paid attention to every detail to create a masterpiece."
         },
         {
             "definition": "To describe or explain something thoroughly and carefully",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She will detail the plan for the project tomorrow.",
+            "sent2": "Please detail your experience in the report.",
+            "sent3": "He decided to detail his day in a journal.",
+            "sent4": "The teacher detailed the instructions for the experiment.",
+            "sent5": "The scientist detailed the findings of the research in a paper."
         },
         {
             "definition": "To include or list all the small parts or features of something",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The manual will detail all the steps to assemble the furniture.",
+            "sent2": "Make sure to detail all the ingredients in the recipe.",
+            "sent3": "He will detail the components of the machine in the presentation.",
+            "sent4": "The brochure detailed the amenities of the resort.",
+            "sent5": "The architect detailed the specifications of the building in the blueprint."
         }
     ]
 }

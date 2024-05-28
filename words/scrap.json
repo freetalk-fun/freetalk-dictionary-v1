@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A small piece or fragment of something",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I found a tiny scrap of paper on the floor.",
+            "sent2": "She collected every scrap of fabric to make a quilt.",
+            "sent3": "The cat played with the scrap of yarn, thinking it was a mouse.",
+            "sent4": "His memories were like scattered scraps of paper, waiting to be put together.",
+            "sent5": "The old book was falling apart, with every scrap of page yellowed and fragile."
         },
         {
             "definition": "Discard or dispose of as no longer useful or desirable",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Please scrap the broken toy and get a new one.",
+            "sent2": "They decided to scrap the old car and buy a new one.",
+            "sent3": "He tried to scrap the idea of going out, but his friends convinced him otherwise.",
+            "sent4": "She had to scrap her original plan and come up with a new one at the last minute.",
+            "sent5": "The company had to scrap the project due to budget constraints."
         },
         {
             "definition": "A fight or quarrel, especially a minor one",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "There was a scrap between the two kids over a toy.",
+            "sent2": "The siblings often had scraps over who got to use the computer first.",
+            "sent3": "The playful scrap between the puppies turned into a chase around the yard.",
+            "sent4": "The scrap between the neighbors was quickly resolved with an apology.",
+            "sent5": "The small scrap between the students was settled by the teacher before it escalated."
         }
     ]
 }

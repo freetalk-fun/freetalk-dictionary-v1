@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A person killed or injured in a war or accident.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The hospital received many casualties after the car crash.",
+            "sent2": "The soldiers bravely fought, but there were casualties on both sides.",
+            "sent3": "The picnic became a casualty of the sudden rainstorm.",
+            "sent4": "In the battle of flavors, the spicy salsa was a casualty to the mild guacamole.",
+            "sent5": "The casualties of the earthquake left a lasting impact on the community."
         },
         {
             "definition": "A person or thing badly affected by an event or situation.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The business was a casualty of the economic downturn.",
+            "sent2": "The environment is often a casualty of industrial development.",
+            "sent3": "His favorite shirt became a casualty of the laundry mishap.",
+            "sent4": "Her trust in people was a casualty of the betrayal she experienced.",
+            "sent5": "The casualties of the storm included many damaged homes and fallen trees."
         }
     ]
 }

@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Make or cause to make a loud, sharp sound or series of such sounds as metal objects strike together.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The pots and pans clanked loudly in the kitchen.",
+            "sent2": "The blacksmith's hammer clanked against the anvil.",
+            "sent3": "The robot clanked around the room, scaring the cat.",
+            "sent4": "The chains clanked ominously in the dark dungeon.",
+            "sent5": "The old gate clanked shut, sealing off the garden."
         },
         {
             "definition": "A loud, sharp sound or series of such sounds as metal objects strike together.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The clank of the metal chains echoed through the alley.",
+            "sent2": "The loud clank of the metal door closing startled everyone.",
+            "sent3": "The clank of the pots and pans made a rhythmic beat in the kitchen.",
+            "sent4": "The sudden clank of the sword hitting the ground silenced the room.",
+            "sent5": "The clank of the gears turning signaled the start of the machine."
         }
     ]
 }

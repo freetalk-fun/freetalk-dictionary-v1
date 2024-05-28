@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A unit of linear measure equal to 5,280 feet.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I walked a mile to get to the store.",
+            "sent2": "The marathon runners had to run 26 miles.",
+            "sent3": "It felt like a mile to walk to the bus stop in the rain.",
+            "sent4": "The distance between them seemed like a mile, even though they were sitting at the same table.",
+            "sent5": "The old man pointed to the horizon and said, 'That's where the next town is, about a mile away.'"
         },
         {
             "definition": "A relatively great distance or extent.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The gap between the two buildings was a mile wide.",
+            "sent2": "She traveled a mile to visit her friend in the neighboring town.",
+            "sent3": "The line at the amusement park seemed like a mile long.",
+            "sent4": "The emotional distance between them was a mile, making it hard to communicate.",
+            "sent5": "The mountain range stretched for miles, disappearing into the clouds."
         }
     ]
 }

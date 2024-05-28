@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A proposition supporting or helping to support a conclusion.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The premise of the argument was that all students should have equal access to education.",
+            "sent2": "The detective based his theory on the premise that the suspect had a motive.",
+            "sent3": "The premise of the joke was that cats are afraid of cucumbers.",
+            "sent4": "Her success was built on the premise that hard work pays off.",
+            "sent5": "The premise of the story was that love conquers all obstacles."
         },
         {
             "definition": "A piece of land or building used for a particular purpose.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The new restaurant was built on the premise of an old bakery.",
+            "sent2": "The office building was constructed on the premise of an old factory.",
+            "sent3": "The premise of the park was to provide a peaceful retreat for the community.",
+            "sent4": "The premise of the farm was to grow organic vegetables.",
+            "sent5": "The premise of the school was to foster creativity and innovation."
         },
         {
             "definition": "A statement that is assumed to be true and from which a conclusion can be drawn.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The scientific study was based on the premise that water boils at 100 degrees Celsius.",
+            "sent2": "The legal argument relied on the premise that the defendant was innocent until proven guilty.",
+            "sent3": "The premise of the math problem was that all angles in a triangle add up to 180 degrees.",
+            "sent4": "The premise of the theory was that all living organisms require water to survive.",
+            "sent5": "The premise of the experiment was that plants grow towards sunlight for photosynthesis."
         }
     ]
 }

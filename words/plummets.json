@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To fall or drop straight down at a high speed.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The bird quickly plummets from the sky to catch its prey.",
+            "sent2": "The price of the stock plummets when bad news is announced.",
+            "sent3": "As the elevator cable snaps, the elevator plummets comically to the ground.",
+            "sent4": "Her heart plummets when she realizes she missed the last train home.",
+            "sent5": "The temperature plummets as the sun sets, signaling the start of a cold night."
         },
         {
             "definition": "A weight attached to a line used for determining the depth of water or for locating a position on the sea bed.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The fisherman used a heavy plummet to sink his fishing line deep into the water.",
+            "sent2": "The diver's equipment included a metal plummet to help her descend smoothly.",
+            "sent3": "The playful seal mistook the plummet for a toy and tried to play with it underwater.",
+            "sent4": "The ancient sailors relied on the accuracy of the plummet to navigate the treacherous waters.",
+            "sent5": "The archaeologist discovered a centuries-old plummet while exploring the sunken ship."
         }
     ]
 }

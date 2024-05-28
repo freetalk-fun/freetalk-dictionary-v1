@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Happening or taking place",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The occurring event was exciting for everyone.",
+            "sent2": "The party was an occurring event in our neighborhood.",
+            "sent3": "The occurring surprise made us all smile.",
+            "sent4": "The occurring sunset painted the sky in beautiful colors.",
+            "sent5": "The occurring thunderstorm was loud and frightening."
         },
         {
             "definition": "To be found or met with",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Rare flowers are occurring in the forest.",
+            "sent2": "Interesting facts are occurring in the research findings.",
+            "sent3": "The missing sock kept occurring in unexpected places.",
+            "sent4": "Challenges kept occurring on his path to success.",
+            "sent5": "New opportunities are occurring for growth and development."
         },
         {
             "definition": "To come into one's mind or thoughts",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The idea kept occurring to him during the meeting.",
+            "sent2": "Her name occurring in his thoughts brought a smile to his face.",
+            "sent3": "The solution finally occurred to him after hours of thinking.",
+            "sent4": "A brilliant plan occurred to her in a dream.",
+            "sent5": "The answer suddenly occurred to him while he was walking."
         }
     ]
 }

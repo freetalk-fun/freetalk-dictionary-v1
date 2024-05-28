@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To move quickly or with great haste.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She rushed to catch the bus before it left.",
+            "sent2": "The students rushed out of the classroom when the bell rang.",
+            "sent3": "The squirrel rushed to gather nuts before winter came.",
+            "sent4": "Time rushed by like a speeding train.",
+            "sent5": "The river rushed over the rocks, bubbling with energy."
         },
         {
             "definition": "Done quickly or without careful consideration.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "He made a rushed decision without thinking it through.",
+            "sent2": "The rushed painting lacked attention to detail.",
+            "sent3": "The rushed cake looked messy but tasted delicious.",
+            "sent4": "The rushed project ended up full of mistakes.",
+            "sent5": "Her rushed speech left out important information."
         },
         {
             "definition": "Feeling hurried or stressed.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "She felt rushed trying to finish all her tasks before the deadline.",
+            "sent2": "The rushed employee was always on edge.",
+            "sent3": "The rushed cat knocked things over in its haste.",
+            "sent4": "His rushed heartbeat signaled his anxiety.",
+            "sent5": "The rushed atmosphere in the room made everyone tense."
         }
     ]
 }

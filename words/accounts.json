@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A record or statement of financial transactions",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I keep all my money in my accounts.",
+            "sent2": "The accountant reviewed the company's accounts.",
+            "sent3": "The accounts were so messy, they looked like a jumbled puzzle.",
+            "sent4": "Her accounts were like a map of her spending habits.",
+            "sent5": "The accounts showed a clear picture of the company's financial health."
         },
         {
             "definition": "Consideration or regard for something as a possible case or instance",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "He took into accounts all the risks before making a decision.",
+            "sent2": "She gave careful accounts to every detail of the plan.",
+            "sent3": "His accounts for the project were thorough and well thought out.",
+            "sent4": "The accounts for potential problems were meticulously documented.",
+            "sent5": "The accounts for safety measures were of utmost importance."
         },
         {
             "definition": "To give a report or representation of something",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She accounts for all the missing items in the inventory.",
+            "sent2": "He accounts for the discrepancies in the budget report.",
+            "sent3": "The detective accounts for the suspect's alibi.",
+            "sent4": "The scientist accounts for the sudden change in the experiment results.",
+            "sent5": "The teacher accounts for the students' progress in the class."
         }
     ]
 }

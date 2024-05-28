@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A network protocol used to access and manage remote computers.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I used telnet to connect to the server and check the files.",
+            "sent2": "Telnet allows you to remotely control another computer over a network.",
+            "sent3": "Why did the computer go to therapy? It had trouble with its telnet connection!",
+            "sent4": "The telnet protocol acts like a virtual tunnel between two computers.",
+            "sent5": "Using telnet feels like reaching out and controlling a computer from afar."
         },
         {
             "definition": "To establish a connection using the telnet protocol.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I will telnet into the server to troubleshoot the issue.",
+            "sent2": "He telnetted into the mainframe to retrieve the data.",
+            "sent3": "Why did the internet break up with the telnet protocol? It couldn't handle the long-distance relationship!",
+            "sent4": "She telnetted her way through the network like a digital explorer.",
+            "sent5": "Telnetting into the system felt like stepping into a virtual doorway to another world."
         }
     ]
 }

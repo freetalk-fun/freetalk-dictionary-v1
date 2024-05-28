@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Prevents from happening",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Wearing a helmet precludes head injuries during biking.",
+            "sent2": "Rain precludes our picnic in the park.",
+            "sent3": "His fear of spiders precludes him from entering the basement.",
+            "sent4": "The locked gate precludes any unauthorized access to the garden.",
+            "sent5": "The early morning fog precludes a clear view of the sunrise."
         },
         {
             "definition": "Makes impossible",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Running out of gas precludes us from reaching the destination.",
+            "sent2": "The heavy snowfall precludes driving on the mountain roads.",
+            "sent3": "Her strict diet precludes her from enjoying desserts.",
+            "sent4": "The broken bridge precludes any further travel along the river.",
+            "sent5": "The loud noise precludes a peaceful night's sleep."
         },
         {
             "definition": "Excludes from consideration",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "His lack of experience precludes him from the job opportunity.",
+            "sent2": "The conflicting schedules preclude us from attending both events.",
+            "sent3": "The limited budget precludes a luxurious vacation this year.",
+            "sent4": "The strict rules preclude any exceptions to the policy.",
+            "sent5": "The closed sign precludes any customers from entering the store."
         }
     ]
 }

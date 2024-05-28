@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "The action or manner of functioning.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The functioning of the machine was smooth and efficient.",
+            "sent2": "I observed the functioning of the clock to understand how it worked.",
+            "sent3": "The functioning of the clown's act brought laughter to the audience.",
+            "sent4": "The functioning of a team is like a well-oiled machine, each part working in harmony.",
+            "sent5": "The functioning of a car engine is crucial for the vehicle to move forward."
         },
         {
             "definition": "The normal operation or behavior of something.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The functioning of the computer was flawless.",
+            "sent2": "Understanding the functioning of the ecosystem is important for conservation efforts.",
+            "sent3": "The functioning of the party was disrupted by the unexpected arrival of a celebrity.",
+            "sent4": "The functioning of a family can be compared to a delicate dance, each member playing a vital role.",
+            "sent5": "The functioning of a watch relies on its intricate mechanisms to keep time accurately."
         },
         {
             "definition": "To work or operate in a proper or expected way.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The new machine is functioning well after the repairs.",
+            "sent2": "I hope my phone starts functioning properly after the software update.",
+            "sent3": "The robot malfunctioned, but after fixing it, it started functioning again.",
+            "sent4": "Her brain was functioning at full capacity during the exam.",
+            "sent5": "The heart must keep functioning to pump blood throughout the body."
         }
     ]
 }

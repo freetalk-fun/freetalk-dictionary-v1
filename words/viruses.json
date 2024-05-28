@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "An infective agent that typically consists of a nucleic acid molecule in a protein coat, is too small to be seen by light microscopy, and is able to multiply only within the living cells of a host.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Viruses can only reproduce inside living cells.",
+            "sent2": "Scientists study viruses to understand how they infect organisms.",
+            "sent3": "The computer virus decided to take a break and infect the printer instead.",
+            "sent4": "Fear spread through the network like a virus, affecting every computer.",
+            "sent5": "The teacher used a virus analogy to explain how information spreads rapidly."
         },
         {
             "definition": "A harmful or corrupting influence.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The negative news had a virus-like effect on everyone's mood.",
+            "sent2": "Gossip can act as a virus, spreading rumors and causing harm.",
+            "sent3": "The idea of skipping work became a virus in the office.",
+            "sent4": "Doubt crept into her mind like a virus, infecting her thoughts.",
+            "sent5": "His toxic behavior was like a virus, poisoning the team's morale."
         }
     ]
 }

@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Delegate",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The depute attended the meeting on behalf of the manager.",
+            "sent2": "The company's depute handled all the paperwork efficiently.",
+            "sent3": "The depute sheepishly admitted to forgetting the important documents.",
+            "sent4": "She was the depute of the team, guiding them through the project.",
+            "sent5": "The depute's role was crucial in ensuring smooth communication within the department."
         },
         {
             "definition": "Appoint",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The manager will depute a new team leader next week.",
+            "sent2": "They depute someone to oversee the construction project.",
+            "sent3": "I depute you as the official taste tester for the event.",
+            "sent4": "The responsibility to depute a spokesperson fell on the CEO.",
+            "sent5": "The principal decided to depute the teacher as the head of the science department."
         },
         {
             "definition": "Assign",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The teacher will depute different tasks to each student.",
+            "sent2": "It is common for managers to depute specific duties to their team members.",
+            "sent3": "The chef deputed the preparation of desserts to the pastry chef.",
+            "sent4": "She deputed the responsibility of organizing the event to her assistant.",
+            "sent5": "The captain deputed the navigation of the ship to the experienced sailor."
         }
     ]
 }

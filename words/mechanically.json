@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "In a way that relates to machinery or tools.",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "The robot moved mechanically, following its programmed instructions.",
+            "sent2": "The mechanic fixed the car mechanically, using various tools.",
+            "sent3": "The toaster popped up the bread mechanically, surprising the sleepy cat.",
+            "sent4": "The clock ticked mechanically, marking the passage of time.",
+            "sent5": "The assembly line moved mechanically, producing hundreds of toys per hour."
         },
         {
             "definition": "In a way that is done automatically or without thought.",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "She mechanically pressed the snooze button on her alarm clock.",
+            "sent2": "He mechanically nodded in agreement without really listening.",
+            "sent3": "The dog mechanically wagged its tail when it heard the word 'treat'.",
+            "sent4": "The student mechanically recited the multiplication table without understanding.",
+            "sent5": "The cashier mechanically scanned each item at the checkout counter."
         },
         {
             "definition": "In a way that is related to the physical laws of motion and forces.",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "The ball rolled mechanically down the inclined plane.",
+            "sent2": "The pendulum swung mechanically back and forth in the physics lab.",
+            "sent3": "The toy car moved mechanically along the track, demonstrating Newton's laws.",
+            "sent4": "The satellite orbited the Earth mechanically, following its predetermined path.",
+            "sent5": "The dominoes fell mechanically in a chain reaction, illustrating momentum."
         }
     ]
 }

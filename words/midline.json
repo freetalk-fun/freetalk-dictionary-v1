@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "An imaginary line dividing something into two equal halves.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The artist carefully drew the midline of the painting to ensure symmetry.",
+            "sent2": "The midline of the road helps drivers stay in their lanes.",
+            "sent3": "The cake was cut along the midline, creating perfectly equal slices for everyone.",
+            "sent4": "The midline of the map divided the country into two distinct regions.",
+            "sent5": "The midline of the ruler marked the exact center point."
         },
         {
             "definition": "Situated in the middle of something.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The midline position of the chair made it easy to reach from all sides.",
+            "sent2": "The midline seat at the movie theater provided the best view of the screen.",
+            "sent3": "The midline table in the room was perfect for sharing snacks with friends.",
+            "sent4": "The midline location of the house made it convenient for all family members.",
+            "sent5": "The midline spot on the shelf was ideal for displaying the special vase."
         },
         {
             "definition": "A line that runs down the center of the body, dividing it into left and right halves.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The surgeon carefully followed the midline during the operation to avoid any mistakes.",
+            "sent2": "The midline of the body is crucial for maintaining balance and posture.",
+            "sent3": "The yoga instructor emphasized the importance of aligning with the midline for proper form.",
+            "sent4": "The dancer's movements were graceful as she stayed connected to her midline.",
+            "sent5": "The athlete focused on strengthening the muscles along the midline for better performance."
         }
     ]
 }

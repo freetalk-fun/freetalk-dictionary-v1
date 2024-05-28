@@ -3,19 +3,39 @@
     "meanings": [
         {
             "definition": "To mark or cut a surface with a sharp object",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She used a key to scratch her name on the tree trunk.",
+            "sent2": "The cat likes to scratch the furniture to sharpen its claws.",
+            "sent3": "I accidentally scratch my phone screen with my keys.",
+            "sent4": "The artist's words scratch at the surface of truth.",
+            "sent5": "The sound of the pencil scratching on paper filled the room."
         },
         {
             "definition": "A slight injury or mark on a surface",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The scratch on the car was barely noticeable.",
+            "sent2": "He got a scratch on his arm from playing outside.",
+            "sent3": "The scratch on the table looked like a smiley face.",
+            "sent4": "The scratch on the record made the music skip.",
+            "sent5": "The scratch on the mirror distorted the reflection."
         },
         {
             "definition": "To rub or scrape lightly",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She had to scratch the itch on her back.",
+            "sent2": "The puppy would scratch behind its ear with its paw.",
+            "sent3": "I scratch my head when I'm confused.",
+            "sent4": "The branches scratch against the window in the wind.",
+            "sent5": "The rough fabric scratch against her skin."
         },
         {
             "definition": "A starting point or beginning, especially in sports or competition",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The team will start from scratch in the next game.",
+            "sent2": "He built his career from scratch with hard work.",
+            "sent3": "The scratch of the race signaled the beginning.",
+            "sent4": "She started her painting from scratch, with a blank canvas.",
+            "sent5": "The scratch line on the track marked the starting point."
         }
     ]
 }

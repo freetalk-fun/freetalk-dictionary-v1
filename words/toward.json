@@ -3,19 +3,39 @@
     "meanings": [
         {
             "definition": "In the direction of.",
-            "pos": "preposition"
+            "pos": "preposition",
+            "sent1": "She walked toward the park.",
+            "sent2": "The cat ran toward the mouse.",
+            "sent3": "The wind blew the leaves toward the house.",
+            "sent4": "His speech was directed toward the audience.",
+            "sent5": "The compass needle pointed toward the north."
         },
         {
             "definition": "In relation to.",
-            "pos": "preposition"
+            "pos": "preposition",
+            "sent1": "Her feelings toward him changed over time.",
+            "sent2": "The teacher's attitude toward learning was positive.",
+            "sent3": "The road twisted and turned toward the mountains.",
+            "sent4": "His behavior toward his friends was kind.",
+            "sent5": "The map showed the city's location toward the coast."
         },
         {
             "definition": "Approaching.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The toward storm caused concern among the villagers.",
+            "sent2": "The toward train was visible in the distance.",
+            "sent3": "The toward deadline made everyone work faster.",
+            "sent4": "The toward darkness enveloped the forest.",
+            "sent5": "The toward figure in the fog seemed mysterious."
         },
         {
             "definition": "With the purpose of achieving.",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "She worked diligently toward her goal.",
+            "sent2": "He saved money toward buying a new car.",
+            "sent3": "The team collaborated effectively toward winning the game.",
+            "sent4": "They trained hard toward improving their skills.",
+            "sent5": "The students studied diligently toward passing the exam."
         }
     ]
 }

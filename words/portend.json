@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To serve as a sign or warning of something to come.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The dark clouds portend a storm approaching.",
+            "sent2": "The sudden drop in temperature may portend the arrival of winter.",
+            "sent3": "The howling wind seemed to portend a spooky ghost story.",
+            "sent4": "The silence in the room portended an impending argument.",
+            "sent5": "The distant sound of thunder portended a stormy night ahead."
         },
         {
             "definition": "To indicate or signify in advance.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The teacher's frown may portend a pop quiz later.",
+            "sent2": "The early morning traffic jam could portend a long day ahead.",
+            "sent3": "The flickering streetlight seemed to portend a power outage.",
+            "sent4": "The first drops of rain portended a heavy downpour.",
+            "sent5": "The chirping of birds portended the arrival of spring."
         }
     ]
 }

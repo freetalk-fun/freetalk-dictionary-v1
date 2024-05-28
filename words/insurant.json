@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A person or entity that is insured.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The insurant filed a claim after the accident.",
+            "sent2": "The insurant received compensation for the damages.",
+            "sent3": "The insurant was relieved to have coverage when the unexpected happened.",
+            "sent4": "Like a shield, the insurant's policy protected them from financial harm.",
+            "sent5": "The insurant's insurance gave them peace of mind in uncertain times."
         },
         {
             "definition": "Being covered by an insurance policy.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The insurant policy provided coverage for medical expenses.",
+            "sent2": "The insurant vehicle was repaired after the accident.",
+            "sent3": "The insurant cat had a special insurance plan for accidents involving yarn.",
+            "sent4": "The insurant umbrella shielded them from the rain and worries.",
+            "sent5": "The insurant coverage ensured they were protected in case of emergencies."
         }
     ]
 }

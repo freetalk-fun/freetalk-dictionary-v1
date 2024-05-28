@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To cause someone to feel upset or angry.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "His teasing was trigging her emotions.",
+            "sent2": "The loud noise was trigging the dog's fear.",
+            "sent3": "The prank was trigging, but they all laughed afterwards.",
+            "sent4": "The unexpected news trigged a storm of emotions within her.",
+            "sent5": "The movie scene was so intense, it felt like it was trigging my own anger."
         },
         {
             "definition": "The action of setting off a mechanism or device.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The trigging of the alarm alerted everyone in the building.",
+            "sent2": "He was responsible for the trigging of the fireworks display.",
+            "sent3": "The trigging of the confetti cannon was a big hit at the party.",
+            "sent4": "The trigging of the trap caught the mouse by surprise.",
+            "sent5": "The trigging of the car alarm startled the entire neighborhood."
         },
         {
             "definition": "A device or mechanism that is triggered.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The security camera was a trigging for the alarm system.",
+            "sent2": "The button on the remote control acted as the trigging for the toy car.",
+            "sent3": "The shiny red button was the trigging for the confetti explosion.",
+            "sent4": "The lever served as the trigging for the trap door.",
+            "sent5": "The red wire was the trigging for the fireworks show."
         }
     ]
 }

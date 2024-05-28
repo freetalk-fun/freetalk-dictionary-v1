@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A person connected with but not belonging to an organization or institution.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The extern helped with the event organization.",
+            "sent2": "The hospital extern greeted visitors at the entrance.",
+            "sent3": "The extern accidentally wore the company's uniform to the picnic.",
+            "sent4": "She felt like an extern in her own family, always on the outside looking in.",
+            "sent5": "The extern's friendly smile made everyone feel welcome."
         },
         {
             "definition": "A student at a college or university who is not a resident on the campus.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "As an extern, he commuted to campus every day.",
+            "sent2": "The extern attended classes but lived off-campus.",
+            "sent3": "The extern's dorm room was actually a cozy apartment nearby.",
+            "sent4": "She felt like an extern in the bustling campus life, observing from afar.",
+            "sent5": "The extern enjoyed the quiet evenings away from the dorms."
         },
         {
             "definition": "A variable or function that is defined outside a program or module.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The extern in the code accessed data from another source.",
+            "sent2": "The programmer used an extern to link two modules together.",
+            "sent3": "The extern seemed to have a mind of its own, jumping between functions.",
+            "sent4": "The extern acted like a bridge, connecting different parts of the program.",
+            "sent5": "The extern's role was crucial in maintaining data integrity."
         }
     ]
 }

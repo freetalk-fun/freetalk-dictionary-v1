@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A detective.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The sherlock solved the case quickly.",
+            "sent2": "The famous sherlock was known for his brilliant deductions.",
+            "sent3": "The little sherlock in the story found the missing toy.",
+            "sent4": "She has a sherlock-like ability to uncover secrets.",
+            "sent5": "The sherlock's magnifying glass revealed the hidden clue."
         },
         {
             "definition": "To investigate or solve a mystery.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Let's sherlock this strange noise in the attic.",
+            "sent2": "She decided to sherlock the disappearance of her favorite book.",
+            "sent3": "He sherlocked the missing sock and found it in the laundry basket.",
+            "sent4": "They sherlock every detail to crack the code.",
+            "sent5": "Sherlocking the riddle was like piecing together a puzzle."
         }
     ]
 }

@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Limits or boundaries",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The confines of the playground kept the children safe.",
+            "sent2": "The explorer ventured beyond the confines of the map.",
+            "sent3": "The squirrel's antics within the confines of the tree amused the onlookers.",
+            "sent4": "Her creativity knows no confines, reaching new heights every day.",
+            "sent5": "The confines of the maze seemed to shift and change, making escape impossible."
         },
         {
             "definition": "To keep within certain limits",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Please confine your toys to your room.",
+            "sent2": "The zookeeper needed to confine the animals during the storm.",
+            "sent3": "The magician confining the rabbit in the hat was a surprising twist.",
+            "sent4": "She felt confined by the rules, longing for freedom.",
+            "sent5": "The fence effectively confines the sheep to the pasture, preventing them from wandering."
         },
         {
             "definition": "To restrict or restrain",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The doctor advised him to confine his movements after the surgery.",
+            "sent2": "The police had to confine the suspect in a holding cell.",
+            "sent3": "The superhero's powers were confined by a mysterious force.",
+            "sent4": "Her fear of failure confined her from pursuing her dreams.",
+            "sent5": "The curse confined the prince to the form of a beast until true love broke the spell."
         }
     ]
 }

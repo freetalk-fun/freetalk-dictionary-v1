@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "One that uses something.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The user pressed the button to start the machine.",
+            "sent2": "The user of the phone made a call to a friend.",
+            "sent3": "The user accidentally turned on the wrong switch and caused a small explosion.",
+            "sent4": "She was a skilled user of words, able to craft beautiful poetry effortlessly.",
+            "sent5": "The user of the key unlocked the mysterious door to reveal a hidden treasure."
         },
         {
             "definition": "A person who uses a computer or other electronic device.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The user logged into the computer to check emails.",
+            "sent2": "The user scrolled through social media on their smartphone.",
+            "sent3": "The user tried to fix the computer by hitting it with a hammer, thinking it would help.",
+            "sent4": "He was a wizard with technology, a master user of all gadgets.",
+            "sent5": "The user of the tablet downloaded many useful apps for work and entertainment."
         },
         {
             "definition": "A person who takes illegal drugs.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The user was caught with drugs in their possession.",
+            "sent2": "The user struggled with addiction and sought help from a rehab center.",
+            "sent3": "The user mistakenly took the wrong pills and experienced strange side effects.",
+            "sent4": "She was a prisoner of the drugs, a slave to their power as a user.",
+            "sent5": "The user of the substance felt the effects slowly creeping in, altering reality around them."
         }
     ]
 }

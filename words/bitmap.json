@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "An array of bits that represents a graphic image.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I printed out a bitmap of a smiley face to decorate my notebook.",
+            "sent2": "The computer screen displayed a colorful bitmap of a landscape.",
+            "sent3": "My friend joked that his messy room looked like a bitmap of chaos.",
+            "sent4": "The artist's painting was a beautiful bitmap of nature's colors.",
+            "sent5": "The teacher used a bitmap to explain how computers store images."
         },
         {
             "definition": "A file format that stores digital images as a grid of pixels.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I saved the photo as a bitmap to preserve its quality.",
+            "sent2": "The website only accepts bitmap images for uploading.",
+            "sent3": "My computer glitched and turned the screen into a bitmap of random colors.",
+            "sent4": "The old camera saved pictures in a bitmap format, making them easy to edit.",
+            "sent5": "The graphic designer preferred using bitmap files for detailed images."
         }
     ]
 }

@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Make (a liquid) thinner or weaker by adding water or another solvent to it.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She dilutes the juice with water to make it less sweet.",
+            "sent2": "The chef dilutes the sauce to adjust the flavor.",
+            "sent3": "The magician dilutes the potion, but it still tastes like grape juice.",
+            "sent4": "His lies dilute the truth, making it hard to distinguish.",
+            "sent5": "The rain dilutes the paint, creating a watery mess on the canvas."
         },
         {
             "definition": "Make (something) weaker in force, content, or value by modifying it.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The addition of irrelevant details dilutes the impact of the story.",
+            "sent2": "The compromise dilutes the original purpose of the plan.",
+            "sent3": "His attempt to dilute the seriousness of the situation with humor backfired.",
+            "sent4": "The new policy dilutes the authority of the manager, causing confusion.",
+            "sent5": "The excessive use of adjectives dilutes the clarity of the message, making it hard to understand."
         }
     ]
 }

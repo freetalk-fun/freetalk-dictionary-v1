@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A punctuation mark (;) used to separate independent clauses in a sentence.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "In my essay, I used a semicolon to separate two complete thoughts.",
+            "sent2": "She loves to write; her stories are always captivating.",
+            "sent3": "The semicolon decided to take a break from connecting sentences and went on a vacation.",
+            "sent4": "The semicolon acts like a tiny bridge between two sentences, allowing them to stand together.",
+            "sent5": "The semicolon is like a tiny gate that keeps two sentences close but distinct."
         },
         {
             "definition": "A punctuation mark (;) used to separate items in a list when the items are complex or contain commas.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The grocery list included milk, eggs, and bread; the semicolon helped clarify the items.",
+            "sent2": "For the party, we needed balloons; cake, candles, and decorations; and music.",
+            "sent3": "The semicolon felt important when it got to separate the fancy items in the list.",
+            "sent4": "The semicolon in the list was like a traffic cop directing the flow of items.",
+            "sent5": "The semicolon in the list was like a spotlight, highlighting each item distinctly."
         }
     ]
 }

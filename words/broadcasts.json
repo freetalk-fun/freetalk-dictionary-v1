@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To transmit (a program or information) by radio or television",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The radio station broadcasts news every hour.",
+            "sent2": "She broadcasts her music show on the local TV channel.",
+            "sent3": "The squirrel broadcasted its message to the other animals in the forest.",
+            "sent4": "The lighthouse broadcasts its warning signal to ships in the night.",
+            "sent5": "The teacher broadcasts instructions to the students through the classroom speakers."
         },
         {
             "definition": "A program or information transmitted by radio or television.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I enjoy listening to broadcasts of old radio dramas.",
+            "sent2": "The live sports broadcast kept everyone entertained.",
+            "sent3": "The cat seemed fascinated by the broadcast of birds chirping on TV.",
+            "sent4": "The broadcast of the concert made me feel like I was there.",
+            "sent5": "The emergency broadcast alerted residents to take shelter from the storm."
         }
     ]
 }

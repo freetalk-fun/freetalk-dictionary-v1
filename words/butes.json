@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Used to indicate the result of an action or process.",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "She ran quickly, butes she arrived late.",
+            "sent2": "He studied hard, butes he still failed the test.",
+            "sent3": "The cake was delicious, butes it was all gone in minutes.",
+            "sent4": "The sun set slowly, butes the stars shone brightly.",
+            "sent5": "The rain poured heavily, butes the flowers bloomed beautifully."
         },
         {
             "definition": "A conjunction used to introduce a phrase or clause contrasting with what has already been mentioned.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "He wanted to go out, butes it started raining.",
+            "sent2": "She likes dogs, butes her sister prefers cats.",
+            "sent3": "I wanted to sleep in, butes my alarm clock had other plans.",
+            "sent4": "The movie was exciting, butes the ending was disappointing.",
+            "sent5": "He is tall, butes his brother is short."
         },
         {
             "definition": "A verb meaning to refuse or decline.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "She always accepts invitations, butes today she must butes.",
+            "sent2": "He offered her a gift, butes she chose to butes it.",
+            "sent3": "The cat tried to play with the mouse, butes the mouse decided to butes.",
+            "sent4": "The teacher asked a question, butes the student decided to butes.",
+            "sent5": "The opportunity was tempting, butes she had to butes it."
         }
     ]
 }

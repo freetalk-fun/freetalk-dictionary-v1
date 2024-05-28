@@ -3,19 +3,39 @@
     "meanings": [
         {
             "definition": "A small raised area on a surface.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I felt a bump on the road as we drove over it.",
+            "sent2": "The bump on his head was starting to swell.",
+            "sent3": "The bump on the table made it wobble slightly.",
+            "sent4": "The bump in the carpet tripped me up.",
+            "sent5": "The bump on the tree bark looked like a tiny hill."
         },
         {
             "definition": "A light blow or jolt.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "He gave the door a gentle bump with his hip to open it.",
+            "sent2": "The bump on the table made the glass of water shake.",
+            "sent3": "The bump on the headboard made a soft thud.",
+            "sent4": "The bump of the car hitting the curb startled us.",
+            "sent5": "The bump of the ball hitting the wall echoed in the room."
         },
         {
             "definition": "To move or travel with jerks or jolts.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The old car would bump along the bumpy road.",
+            "sent2": "The wagon bumped over the rocks in the path.",
+            "sent3": "The toy car would bump into the walls when he played with it.",
+            "sent4": "The boat bumped against the dock as it tried to moor.",
+            "sent5": "The horse-drawn carriage would bump over the cobblestone streets."
         },
         {
             "definition": "To collide with something.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The soccer ball would bump against the goalpost.",
+            "sent2": "The car bumped into the parked vehicle by accident.",
+            "sent3": "The shopping cart would bump into people's ankles in the crowded store.",
+            "sent4": "The branches would bump against the window during the storm.",
+            "sent5": "The bumper cars would bump into each other at the fair."
         }
     ]
 }

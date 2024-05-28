@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A faint or wavering light",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The glimmers of the fireflies lit up the night sky.",
+            "sent2": "The room was dark except for the glimmers of light coming through the window.",
+            "sent3": "The glimmers of hope in her eyes were like tiny stars in the night.",
+            "sent4": "Amidst the darkness, the glimmers of light guided them to safety.",
+            "sent5": "The glimmers of dawn signaled the start of a new day."
         },
         {
             "definition": "To shine faintly",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The distant stars glimmers in the night sky.",
+            "sent2": "The candle glimmers softly in the dimly lit room.",
+            "sent3": "The fireflies glimmers around the garden, creating a magical atmosphere.",
+            "sent4": "Her eyes glimmers with unshed tears, reflecting the moonlight.",
+            "sent5": "The lake glimmers under the sunlight, creating a beautiful shimmer."
         },
         {
             "definition": "To appear faintly or indistinctly",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The outline of the mountain glimmers in the distance.",
+            "sent2": "The memories of that day still glimmers in my mind.",
+            "sent3": "The ghostly figure glimmers at the edge of the forest, sending shivers down my spine.",
+            "sent4": "The truth began to glimmers through the lies she told.",
+            "sent5": "The hope for a better future glimmers on the horizon, giving us strength to carry on."
         }
     ]
 }

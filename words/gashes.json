@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A long, deep cut or wound",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The sharp rock caused painful gashes on his arm.",
+            "sent2": "She wrapped a bandage around the gashes to stop the bleeding.",
+            "sent3": "The mischievous kitten left tiny gashes on the sofa with its claws.",
+            "sent4": "The storm's fury left gashes in the earth, revealing its power.",
+            "sent5": "The warrior's armor protected him from the enemy's gashes in battle."
         },
         {
             "definition": "To make a long, deep cut in something",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He accidentally gashes the paper while trying to cut it straight.",
+            "sent2": "The chef carefully gashes the meat before marinating it.",
+            "sent3": "The gardener gashes the soil to plant the seeds deeply.",
+            "sent4": "The vandal's knife gashes the wooden fence in the park.",
+            "sent5": "The sculptor gashes the stone to create intricate patterns."
         }
     ]
 }

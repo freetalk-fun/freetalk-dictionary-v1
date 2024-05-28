@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "An animal that regulates its body temperature primarily by exchanging heat with its surroundings.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The lizard is an ectotherm, meaning it relies on the sun to warm up.",
+            "sent2": "The snake, an ectotherm, basks in the sun to regulate its body temperature.",
+            "sent3": "The ectotherm frog decided to sunbathe on a rock to warm up.",
+            "sent4": "Like an ectotherm, the lizard absorbs heat from the ground to stay warm.",
+            "sent5": "The ectotherm turtle slowly warms up under the heat of the sun."
         },
         {
             "definition": "A cold-blooded organism that relies on external sources of heat to regulate its body temperature.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The fish, an ectotherm, swims to warmer waters when it gets too cold.",
+            "sent2": "An ectotherm like a frog needs to find a sunny spot to warm up.",
+            "sent3": "The ectotherm lizard shivered in the cold, wishing for some sunlight.",
+            "sent4": "The ectotherm snake slithered closer to a heat source to regulate its body temperature.",
+            "sent5": "In the chilly morning, the ectotherm turtle seeks out a sunny patch to warm itself."
         }
     ]
 }

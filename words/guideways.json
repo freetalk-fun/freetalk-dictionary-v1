@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A track or path along which something moves or is guided.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The train smoothly glided along the guideways.",
+            "sent2": "The airport shuttle follows the guideways to reach the terminals.",
+            "sent3": "The playful squirrel hopped along the guideways, pretending to be a train conductor.",
+            "sent4": "The guideways of life lead us on different paths, sometimes intersecting unexpectedly.",
+            "sent5": "The guideways in the maze were painted bright yellow, making them easy to follow."
         },
         {
             "definition": "A system of tracks or paths for guiding the movement of vehicles or machinery.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The factory installed new guideways to improve the efficiency of their production line.",
+            "sent2": "The city's transportation network includes an intricate system of guideways for the trains.",
+            "sent3": "The robots in the sci-fi movie malfunctioned, causing chaos on the guideways.",
+            "sent4": "In the bustling city, the guideways of commerce intersected with the paths of daily commuters.",
+            "sent5": "The guideways in the warehouse were like a complex puzzle, guiding the forklifts to their destinations."
         }
     ]
 }

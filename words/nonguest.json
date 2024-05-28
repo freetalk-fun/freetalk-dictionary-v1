@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A person who is not a guest.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The hotel staff welcomed the nonguest with a smile.",
+            "sent2": "The nonguest sat quietly in the lobby, waiting for their friend.",
+            "sent3": "The nonguest accidentally walked into the wrong event and ended up in a wedding reception.",
+            "sent4": "In a sea of visitors, the nonguest stood out like a lone tree in a field.",
+            "sent5": "The nonguest wore a puzzled expression as they tried to find their way back to the conference room."
         },
         {
             "definition": "Not being a guest.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The nonguest parking spot was empty, as everyone else had parked in the main lot.",
+            "sent2": "The nonguest bathroom was clean and well-stocked for public use.",
+            "sent3": "The nonguest seating area was surprisingly comfortable for those waiting for their friends.",
+            "sent4": "The nonguest entrance led to a hidden garden behind the hotel.",
+            "sent5": "The nonguest section of the party had its own special decorations and treats."
         }
     ]
 }

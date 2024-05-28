@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To confuse or perplex",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The tricky riddle baffled the children.",
+            "sent2": "The complex math problem baffled the students.",
+            "sent3": "The magician's baffling trick left the audience in awe.",
+            "sent4": "Her sudden change in behavior baffled her friends.",
+            "sent5": "The mysterious disappearance of the key baffled everyone in the house."
         },
         {
             "definition": "Puzzling or difficult to understand",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The baffling mystery novel kept me guessing until the end.",
+            "sent2": "The baffling instructions on the package confused the customers.",
+            "sent3": "The baffling behavior of the cat made us laugh.",
+            "sent4": "The baffling logic behind his decision left us scratching our heads.",
+            "sent5": "The baffling painting in the gallery captured everyone's attention."
         }
     ]
 }

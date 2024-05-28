@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A meeting in which participants communicate via telephone or video conferencing.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "We had our weekly teleconferences to discuss the project.",
+            "sent2": "Teleconferences have become a common way for teams to collaborate remotely.",
+            "sent3": "During the teleconference, someone accidentally put their phone on mute and we couldn't hear them!",
+            "sent4": "The teleconference was like a virtual round table where everyone shared their ideas.",
+            "sent5": "The teleconference room was filled with voices from different locations, making it feel like a global gathering."
         },
         {
             "definition": "To participate in a meeting via telephone or video conferencing.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I will teleconference with the client tomorrow to discuss the proposal.",
+            "sent2": "She teleconferences with her team every morning to plan the day's tasks.",
+            "sent3": "The CEO teleconferenced from a tropical island, making us all jealous of his remote work setup.",
+            "sent4": "We teleconferenced with the overseas team, bridging the distance with technology.",
+            "sent5": "Teleconferencing allows us to connect instantly, no matter where we are in the world."
         }
     ]
 }

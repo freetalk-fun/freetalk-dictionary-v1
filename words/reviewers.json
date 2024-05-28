@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A person who writes critical appraisals of books, movies, etc.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The reviewers gave the movie a high rating.",
+            "sent2": "The reviewers at the newspaper write about new books.",
+            "sent3": "The reviewers were so impressed by the book, they couldn't stop talking about it.",
+            "sent4": "The reviewers' opinions can make or break a film's success.",
+            "sent5": "The reviewers' feedback helps others decide what to watch or read."
         },
         {
             "definition": "A group of people who evaluate or assess something.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The reviewers gathered to discuss the project's progress.",
+            "sent2": "The reviewers carefully examined each proposal before making a decision.",
+            "sent3": "The reviewers had a tough job, but they managed to finish on time.",
+            "sent4": "The reviewers' insights shed light on areas that needed improvement.",
+            "sent5": "The reviewers' feedback was crucial for the success of the event."
         }
     ]
 }

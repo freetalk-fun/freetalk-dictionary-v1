@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To some extent",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She somewhat understood the math problem.",
+            "sent2": "He somewhat enjoys playing soccer on weekends.",
+            "sent3": "The cat somewhat tolerated the new kitten's playful antics.",
+            "sent4": "His patience was somewhat like a ticking time bomb.",
+            "sent5": "The sun peeked out somewhat from behind the clouds."
         },
         {
             "definition": "In a small degree or measure",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "The dog was somewhat tired after the long walk.",
+            "sent2": "She felt somewhat nervous before her presentation.",
+            "sent3": "The cake was somewhat lopsided but still delicious.",
+            "sent4": "The stars shone somewhat dimly in the night sky.",
+            "sent5": "The music played somewhat softly in the background."
         },
         {
             "definition": "Moderately",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "He was somewhat hungry, so he made a sandwich.",
+            "sent2": "She dressed somewhat casually for the party.",
+            "sent3": "The movie was somewhat funny, but not hilarious.",
+            "sent4": "The flowers swayed somewhat gently in the breeze.",
+            "sent5": "The teacher spoke somewhat loudly to get the students' attention."
         }
     ]
 }

@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A liquid formed by condensation from a gas, such as water droplets on a cold surface.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The condensate on the window was clear and cold.",
+            "sent2": "After the steam cooled, it turned into condensate on the mirror.",
+            "sent3": "The condensate on the glass made funny shapes like a smiley face.",
+            "sent4": "The condensate clung to the window like tiny tears of the sky.",
+            "sent5": "The condensate sparkled in the morning light, like diamonds on the glass."
         },
         {
             "definition": "To change from a gas to a liquid state.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The warm air began to condensate into droplets on the cold metal.",
+            "sent2": "When the steam touched the cold surface, it started to condensate.",
+            "sent3": "The room was so humid that it seemed to condensate the air itself.",
+            "sent4": "Her words seemed to condensate in the chilly room, hanging in the air.",
+            "sent5": "The fog condensated on the leaves, making them glisten with moisture."
         }
     ]
 }

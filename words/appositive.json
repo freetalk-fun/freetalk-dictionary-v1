@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A word or phrase that renames or explains a noun.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The appositive, a descriptive word, adds more information about the noun.",
+            "sent2": "My friend, a talented artist, painted a beautiful picture.",
+            "sent3": "The cat, a fluffy creature, chased after the butterfly.",
+            "sent4": "Her smile, a ray of sunshine, brightened up the room.",
+            "sent5": "The mountain, a majestic giant, stood tall against the sky."
         },
         {
             "definition": "A noun or noun phrase that follows another noun to provide additional information.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The book, a classic novel, is on the shelf.",
+            "sent2": "My dog, a playful puppy, loves to run in the park.",
+            "sent3": "The cake, a delicious treat, disappeared in minutes.",
+            "sent4": "His car, a sleek sports car, zoomed past us on the highway.",
+            "sent5": "The tree, a tall oak, provided shade on hot days."
         },
         {
             "definition": "A construction in which a noun or noun phrase is placed next to another noun to explain or identify it.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The city, a bustling metropolis, never sleeps.",
+            "sent2": "My sister, a kind soul, always helps others in need.",
+            "sent3": "The flower, a delicate bloom, swayed in the breeze.",
+            "sent4": "His house, a cozy cottage, was surrounded by trees.",
+            "sent5": "The river, a winding stream, flowed through the valley."
         }
     ]
 }

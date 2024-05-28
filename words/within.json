@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Inside a particular area or space.",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "The toy was hidden within the box.",
+            "sent2": "She found her keys within her purse.",
+            "sent3": "The cat loves to play hide and seek within the house.",
+            "sent4": "His thoughts were racing within his mind.",
+            "sent5": "The treasure was buried within the cave."
         },
         {
             "definition": "Before the end of a particular period of time.",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "The cake will be ready within thirty minutes.",
+            "sent2": "He promised to finish the project within the week.",
+            "sent3": "The students completed the test within the hour.",
+            "sent4": "The train arrived within seconds of the scheduled time.",
+            "sent5": "The flowers will bloom within a few days."
         },
         {
             "definition": "In the range or scope of something.",
-            "pos": "preposition"
+            "pos": "preposition",
+            "sent1": "Her favorite book is within the library's collection.",
+            "sent2": "The answer lies within your grasp.",
+            "sent3": "The solution to the puzzle was right within reach.",
+            "sent4": "The truth was hidden within the lies.",
+            "sent5": "His talent was recognized within the industry."
         }
     ]
 }

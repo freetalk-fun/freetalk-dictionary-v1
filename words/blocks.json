@@ -3,19 +3,39 @@
     "meanings": [
         {
             "definition": "A solid piece of hard material, such as wood or stone, with flat sides.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I built a tower with colorful blocks.",
+            "sent2": "The construction worker carried heavy blocks to the site.",
+            "sent3": "The toddler giggled as the blocks tumbled down.",
+            "sent4": "Her heart felt like a stack of blocks, fragile and easily broken.",
+            "sent5": "The blocks clicked together, creating a satisfying sound."
         },
         {
             "definition": "A group of buildings bounded by four streets.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The city block had shops and apartments.",
+            "sent2": "We walked around the block to explore the neighborhood.",
+            "sent3": "The block party was filled with music and laughter.",
+            "sent4": "The block resembled a miniature village, bustling with activity.",
+            "sent5": "The block's architecture was a mix of modern and traditional styles."
         },
         {
             "definition": "To obstruct or impede movement or progress.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The fallen tree blocks the path in the forest.",
+            "sent2": "Please do not block the entrance with your car.",
+            "sent3": "The cat playfully blocks the doorway, demanding attention.",
+            "sent4": "His fear of failure blocks him from taking risks.",
+            "sent5": "The dark clouds block the sunlight, casting shadows over the field."
         },
         {
             "definition": "To prevent access to or from a place or area.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The security guard blocks unauthorized entry into the building.",
+            "sent2": "She used her body to block the door from closing.",
+            "sent3": "The snowstorm blocks the roads, trapping us inside.",
+            "sent4": "His stubbornness blocks any chance of compromise.",
+            "sent5": "The high fence blocks the view of the garden from the street."
         }
     ]
 }

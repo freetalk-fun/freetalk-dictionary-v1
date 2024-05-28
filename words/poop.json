@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Excrement",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The dog left a pile of poop on the grass.",
+            "sent2": "I stepped in some poop on the sidewalk.",
+            "sent3": "The poop in the litter box needed to be cleaned.",
+            "sent4": "The seagulls scavenged for food in the poop-filled garbage bin.",
+            "sent5": "The smell of poop filled the room, making everyone gag."
         },
         {
             "definition": "To defecate",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The baby will poop after eating.",
+            "sent2": "I need to poop before we leave the house.",
+            "sent3": "The bear decided to poop in the woods.",
+            "sent4": "The bird pooped on the car windshield.",
+            "sent5": "After holding it in for so long, she finally pooped with relief."
         },
         {
             "definition": "Nonsense or foolishness",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Don't listen to his poop, it's all made up.",
+            "sent2": "She laughed at the silly poop he was saying.",
+            "sent3": "The movie was full of poop, but it was still entertaining.",
+            "sent4": "His explanation was pure poop, not making any sense.",
+            "sent5": "The teacher dismissed his answer as complete poop."
         }
     ]
 }

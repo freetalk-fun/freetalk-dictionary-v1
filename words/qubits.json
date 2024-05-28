@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A unit of information in quantum computing, analogous to a bit in classical computing.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Quantum computers use qubits to store and process data.",
+            "sent2": "Scientists are researching ways to increase the efficiency of qubits in quantum computers.",
+            "sent3": "The qubits in the quantum computer had a party and exchanged information all night long.",
+            "sent4": "Her mind was a complex web of thoughts, each qubit representing a different idea.",
+            "sent5": "The qubits glowed with potential, ready to unlock the mysteries of the universe."
         },
         {
             "definition": "The basic unit of quantum information, representing a two-state quantum-mechanical system.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Each qubit can exist in a superposition of states, unlike classical bits.",
+            "sent2": "The qubits in the quantum system were entangled, affecting each other's states instantaneously.",
+            "sent3": "The mischievous qubits decided to play hide-and-seek in the quantum computer.",
+            "sent4": "His emotions were like qubits, constantly shifting between happiness and sadness.",
+            "sent5": "The teacher used colorful blocks to explain how qubits work in quantum mechanics."
         }
     ]
 }

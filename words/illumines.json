@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Light up or brighten.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The sun illumines the sky every morning.",
+            "sent2": "The lamp illumines the room, making it cozy.",
+            "sent3": "The firefly illumines the garden, creating a magical atmosphere.",
+            "sent4": "Her smile illumines the darkest of days.",
+            "sent5": "The lighthouse illumines the path for ships at sea."
         },
         {
             "definition": "To provide or shed light on something.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The flashlight illumines the path in the dark forest.",
+            "sent2": "The documentary illumines the history of the ancient civilization.",
+            "sent3": "The detective's investigation illumines the truth behind the mystery.",
+            "sent4": "The teacher's explanation illumines the complex topic for the students.",
+            "sent5": "The moon illumines the night with its gentle glow."
         },
         {
             "definition": "To make something clear or understandable.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The example illumines the concept for the students.",
+            "sent2": "The diagram illumines the steps of the scientific process.",
+            "sent3": "The analogy illumines the similarities between the two ideas.",
+            "sent4": "The tutorial video illumines the steps to create a beautiful painting.",
+            "sent5": "The mentor's guidance illumines the path to success."
         }
     ]
 }

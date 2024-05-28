@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Tomorrow",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "I will finish my homework morgen.",
+            "sent2": "We have a test morgen, so we need to study tonight.",
+            "sent3": "Forgetting my lunch at home today means I'll be hungry morgen!",
+            "sent4": "The excitement for the school trip is building up for morgen.",
+            "sent5": "The countdown to the weekend begins morgen."
         },
         {
             "definition": "Morning",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "In the morgen, the birds chirp happily.",
+            "sent2": "Every morgen, I enjoy a cup of coffee to start my day.",
+            "sent3": "The morgen sun peeked through the curtains, waking me up.",
+            "sent4": "The morgen dew glistened on the grass like tiny diamonds.",
+            "sent5": "The fresh scent of pancakes filled the morgen air."
         },
         {
             "definition": "A unit of land measurement in South Africa, equal to about 2 acres.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The farmer owned a vast land of several morgen.",
+            "sent2": "The plantation expanded by purchasing more morgen of land.",
+            "sent3": "The morgen measurement helped determine the farm's size accurately.",
+            "sent4": "Each morgen of the field was meticulously cultivated for crops.",
+            "sent5": "The morgen of land was divided among the siblings after their father's passing."
         }
     ]
 }

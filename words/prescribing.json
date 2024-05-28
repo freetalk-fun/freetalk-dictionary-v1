@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Recommend or authorize the use of (a medicine or treatment)",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The doctor is prescribing antibiotics for the infection.",
+            "sent2": "She is prescribing rest and plenty of fluids for her patient.",
+            "sent3": "The teacher is prescribing a daily dose of homework for her students.",
+            "sent4": "The chef is prescribing a pinch of salt to enhance the flavor.",
+            "sent5": "The coach is prescribing extra practice sessions to improve performance."
         },
         {
             "definition": "Lay down as a rule or guide",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The company policy prescribes a strict dress code for employees.",
+            "sent2": "The recipe prescribes exact measurements for the ingredients.",
+            "sent3": "The pirate captain prescribes a code of conduct for his crew.",
+            "sent4": "The law prescribes penalties for breaking the speed limit.",
+            "sent5": "The manual prescribes a step-by-step process for assembly."
         },
         {
             "definition": "Order or direct (someone) to do something",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The sergeant is prescribing the soldiers to stand at attention.",
+            "sent2": "The principal prescribed the students to maintain silence in the library.",
+            "sent3": "The parent prescribed the child to finish their homework before playing.",
+            "sent4": "The coach prescribed the team to focus on defense during practice.",
+            "sent5": "The supervisor prescribed the employees to complete the task by the end of the day."
         }
     ]
 }

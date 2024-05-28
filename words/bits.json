@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A small piece, part, or quantity of something",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "She ate tiny bits of chocolate throughout the day.",
+            "sent2": "The bird gathered small bits of straw to build its nest.",
+            "sent3": "The toddler's favorite game was picking up bits of colorful blocks.",
+            "sent4": "Her memories were like scattered bits of a puzzle waiting to be put together.",
+            "sent5": "The artist used different bits of fabric to create a unique quilt."
         },
         {
             "definition": "A short performance or routine, especially in comedy",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The comedian's bits had the audience laughing uncontrollably.",
+            "sent2": "She practiced her comedy bits in front of the mirror.",
+            "sent3": "The clown's bits always brought smiles to children's faces.",
+            "sent4": "His comedic bits were the highlight of the talent show.",
+            "sent5": "The actor's improv bits were always a hit with the crowd."
         },
         {
             "definition": "A unit of information in computing and digital communications, typically represented as a binary digit of 0 or 1",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The computer processed the data in bits and bytes.",
+            "sent2": "Each character in the code is represented by a series of bits.",
+            "sent3": "The robot communicated with the spaceship using binary bits.",
+            "sent4": "In the digital world, everything is broken down into bits of information.",
+            "sent5": "The encryption method converts messages into bits for secure transmission."
         }
     ]
 }

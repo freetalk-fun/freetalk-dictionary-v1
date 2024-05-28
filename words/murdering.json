@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "The act of unlawfully killing another person with intent.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The murder of the poor man was a tragic event.",
+            "sent2": "The police were investigating a murder in the neighborhood.",
+            "sent3": "The murder of the cake by the hungry children left crumbs everywhere.",
+            "sent4": "The murder of the peaceful night by the loud thunder was unexpected.",
+            "sent5": "The murder of the flowers by the frost was a sad sight."
         },
         {
             "definition": "To kill someone deliberately and unlawfully.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He was caught red-handed murdering the innocent victim.",
+            "sent2": "The criminal was arrested for murdering his business partner.",
+            "sent3": "She jokingly accused her friend of murdering her chances at winning the game.",
+            "sent4": "The storm was murdering the fragile trees with its strong winds.",
+            "sent5": "The chef was murdering the vegetables with his sharp knife skills."
         },
         {
             "definition": "The act of causing great harm or destruction to something.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The pollution was slowly murdering the river's ecosystem.",
+            "sent2": "The wildfire was murdering the forest, leaving behind a trail of destruction.",
+            "sent3": "The kids were playfully murdering the pinata at the birthday party.",
+            "sent4": "The loud music was murdering my concentration while studying.",
+            "sent5": "The virus was murdering the computer's operating system, causing it to crash."
         }
     ]
 }

@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A structure of bars or wires in which birds or animals are confined.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The bird sat quietly in its cage.",
+            "sent2": "The zookeeper cleaned the animal cages every morning.",
+            "sent3": "The mischievous monkey tried to pick the lock of its cage.",
+            "sent4": "Her fear of public speaking felt like being trapped in a cage of anxiety.",
+            "sent5": "The cage rattled as the lion paced back and forth."
         },
         {
             "definition": "A box or enclosed structure made of wires or bars used for confining birds or animals.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The pet store had colorful cages for the parrots.",
+            "sent2": "The rabbit hopped around happily in its cage.",
+            "sent3": "The squirrel managed to escape from its cage and caused chaos in the house.",
+            "sent4": "His mind felt like a cage, restricting his thoughts and creativity.",
+            "sent5": "The canary chirped melodiously in its golden cage."
         },
         {
             "definition": "To confine or imprison in or as in a cage.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The zookeeper had to cage the injured bird for its own safety.",
+            "sent2": "She felt caged in by her responsibilities.",
+            "sent3": "The magician caged himself as part of his disappearing act.",
+            "sent4": "His anger caged his true feelings, making it hard for others to understand him.",
+            "sent5": "The storm caged us indoors, unable to go outside and play."
         }
     ]
 }

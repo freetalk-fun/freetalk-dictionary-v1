@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "brought into existence",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The baby was born yesterday.",
+            "sent2": "She was born in a small town.",
+            "sent3": "The idea was born during a brainstorming session.",
+            "sent4": "His passion for music was born out of a childhood memory.",
+            "sent5": "The new project was born from a need for innovation."
         },
         {
             "definition": "having a natural ability or quality",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "She is a born leader among her friends.",
+            "sent2": "The artist is a born talent in painting.",
+            "sent3": "His born sense of humor always lightens the mood.",
+            "sent4": "The athlete's born speed makes him unbeatable.",
+            "sent5": "The born creativity of the writer shines in every story."
         },
         {
             "definition": "having a particular nationality or background",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "He is born in France and speaks French fluently.",
+            "sent2": "She is born to a family of musicians.",
+            "sent3": "The born Italian chef makes the best pasta in town.",
+            "sent4": "The born American citizen celebrates Independence Day.",
+            "sent5": "The born Chinese artist incorporates traditional elements in her work."
         }
     ]
 }

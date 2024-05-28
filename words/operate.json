@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To work or function",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The machine will operate smoothly if you follow the instructions.",
+            "sent2": "The computer needs electricity to operate properly.",
+            "sent3": "I tried to operate the toaster without plugging it in - it didn't work!",
+            "sent4": "Her brain seemed to operate like a well-oiled machine, processing information quickly.",
+            "sent5": "The car engine must operate efficiently to win the race."
         },
         {
             "definition": "To perform a surgical procedure",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The surgeon will operate on the patient's heart tomorrow.",
+            "sent2": "Doctors operate on patients in the operating room.",
+            "sent3": "The surgeon joked that he could operate blindfolded - but he didn't try it!",
+            "sent4": "The skilled surgeon's hands seemed to operate with precision and care.",
+            "sent5": "The medical team must operate swiftly to save the patient's life."
         },
         {
             "definition": "To control or manage a business or organization",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She will operate the new branch of the company in a different city.",
+            "sent2": "The CEO operates multiple companies successfully.",
+            "sent3": "The manager tried to operate the team like a strict dictator - it didn't go well.",
+            "sent4": "His mind seemed to operate like a strategic master, always making the right decisions.",
+            "sent5": "The leader must operate the organization with transparency and integrity."
         }
     ]
 }

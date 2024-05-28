@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Equal in value or standing",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The two teams were on par in terms of skill level.",
+            "sent2": "The siblings had a par share of toys.",
+            "sent3": "It was a par decision to split the last piece of cake.",
+            "sent4": "Her dedication to her work was on par with her passion for it.",
+            "sent5": "The par relationship between the two countries ensured peace."
         },
         {
             "definition": "The average score on a golf hole",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "He managed to score par on the difficult hole.",
+            "sent2": "The golfer's goal was to achieve par on every course.",
+            "sent3": "Scoring par felt like a victory for the beginner golfer.",
+            "sent4": "The par on the final hole determined the winner of the tournament.",
+            "sent5": "Achieving par required focus and skill on the golf course."
         },
         {
             "definition": "To hit a golf ball in the number of strokes considered standard",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She aimed to par the hole with precision.",
+            "sent2": "Players strive to par each round for a good score.",
+            "sent3": "Attempting to par the hole in one shot seemed impossible.",
+            "sent4": "He managed to par the course despite the challenging conditions.",
+            "sent5": "Par the ball smoothly to avoid obstacles on the course."
         }
     ]
 }

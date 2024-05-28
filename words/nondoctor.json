@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A person who is not a doctor.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "My neighbor is a nondoctor, but he knows a lot about plants.",
+            "sent2": "The nondoctor helped me fix my computer issue.",
+            "sent3": "The nondoctor tried to diagnose his cat's meowing as a sign of hunger.",
+            "sent4": "She may not be a doctor, but she's a nondoctor of great wisdom.",
+            "sent5": "The village relied on the nondoctor for all their health advice."
         },
         {
             "definition": "Not belonging to or associated with the medical profession.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The nondoctor advice was surprisingly helpful.",
+            "sent2": "She offered a nondoctor opinion on the best treatment for the flu.",
+            "sent3": "The nondoctor attire of the scientist raised some eyebrows at the hospital.",
+            "sent4": "His nondoctor approach to problem-solving brought fresh perspectives.",
+            "sent5": "The nondoctor perspective shed light on alternative treatments."
         }
     ]
 }

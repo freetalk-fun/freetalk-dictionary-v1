@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A crop that is grown on a large scale in a single area.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The farmer's monocrop of corn covered the entire field.",
+            "sent2": "The monocrop of wheat in the valley provided a bountiful harvest.",
+            "sent3": "The monocrop of sunflowers stood tall like a cheerful army in the sun.",
+            "sent4": "The endless rows of monocrop resembled a green carpet stretching to the horizon.",
+            "sent5": "The monocrop of soybeans swayed gently in the breeze, creating a sea of green."
         },
         {
             "definition": "To cultivate only one type of crop in a particular area.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Farmers often monocrop corn to maximize their yield.",
+            "sent2": "It is not sustainable to monocrop the same crop year after year.",
+            "sent3": "The decision to monocrop carrots in the garden led to an abundance of orange vegetables.",
+            "sent4": "She chose to monocrop tomatoes, resulting in a backyard filled with red fruits.",
+            "sent5": "The farmer decided to monocrop pumpkins this season, hoping for a successful harvest."
         }
     ]
 }

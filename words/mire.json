@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A stretch of swampy or boggy ground.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The explorers struggled to cross the mire without getting their boots wet.",
+            "sent2": "The farmer's cows grazed near the mire, enjoying the lush grass.",
+            "sent3": "The children pretended the mire was a magical swamp filled with hidden treasures.",
+            "sent4": "The mire of paperwork on his desk seemed never-ending.",
+            "sent5": "The mire was so thick that even the strongest horses couldn't pass through."
         },
         {
             "definition": "To cause to become stuck in mud.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The heavy rain mired the car in the muddy road.",
+            "sent2": "She accidentally mired her shoes in the wet clay while walking in the park.",
+            "sent3": "The clumsy puppy mired itself in the mud while trying to chase a squirrel.",
+            "sent4": "His careless actions mired the project in delays and setbacks.",
+            "sent5": "The construction truck got mired in the soft ground and needed a tow."
         },
         {
             "definition": "To involve or entangle in difficulties.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The new policy change mired the company in confusion and complaints.",
+            "sent2": "She didn't want to mire herself in unnecessary drama, so she stayed out of the argument.",
+            "sent3": "The detective's attempt to solve the case only seemed to mire him deeper in mysteries.",
+            "sent4": "The political scandal mired the candidate's reputation in controversy.",
+            "sent5": "The decision to cut costs ended up miring the company in legal troubles."
         }
     ]
 }

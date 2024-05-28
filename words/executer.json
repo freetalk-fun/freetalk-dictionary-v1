@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A person who carries out a task or duty.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The executer completed the project on time.",
+            "sent2": "The executer followed the instructions carefully.",
+            "sent3": "The executer made sure everything was done perfectly.",
+            "sent4": "She was the executer of the team, ensuring success.",
+            "sent5": "The executer's efficiency impressed everyone."
         },
         {
             "definition": "A device or program that performs a specific function or task.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The robotic executer efficiently sorted the items.",
+            "sent2": "The automatic executer processed the data quickly.",
+            "sent3": "The electronic executer never made mistakes.",
+            "sent4": "The digital executer revolutionized the industry.",
+            "sent5": "The mechanical executer operated flawlessly."
         },
         {
             "definition": "To put into effect or carry out a plan or action.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She will executer the new strategy tomorrow.",
+            "sent2": "He executer his duties with dedication.",
+            "sent3": "They executer the plan with precision.",
+            "sent4": "The team will executer the project efficiently.",
+            "sent5": "The leader executer the decision swiftly."
         }
     ]
 }

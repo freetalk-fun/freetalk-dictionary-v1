@@ -3,19 +3,39 @@
     "meanings": [
         {
             "definition": "Nothing",
-            "pos": "pronoun"
+            "pos": "pronoun",
+            "sent1": "She searched the room, but found naught.",
+            "sent2": "There was naught left in the empty jar.",
+            "sent3": "The magician waved his wand, and poof! Naught remained.",
+            "sent4": "In the vast desert, the traveler saw naught but endless sand.",
+            "sent5": "The dark cave held naught but echoes of his footsteps."
         },
         {
             "definition": "Zero",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "He scored naught in the first round of the game.",
+            "sent2": "The digital clock displayed naught on the screen.",
+            "sent3": "The baker realized he had added naught sugar to the recipe.",
+            "sent4": "The old map showed naught but uncharted waters beyond.",
+            "sent5": "The scale read naught pounds after he stepped off."
         },
         {
             "definition": "Worthless",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The broken watch was now naught but a useless trinket.",
+            "sent2": "His promises turned out to be naught but empty words.",
+            "sent3": "The fake gemstone was revealed to be naught but glass.",
+            "sent4": "The faded painting was deemed naught by the art critic.",
+            "sent5": "The torn ticket was naught more than a piece of paper."
         },
         {
             "definition": "Failure",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Despite his efforts, the project ended in naught.",
+            "sent2": "The athlete felt defeated as his score showed naught.",
+            "sent3": "The ambitious plan led to naught but disappointment.",
+            "sent4": "The broken bridge resulted in naught but chaos.",
+            "sent5": "The abandoned ship was left to drift into naught."
         }
     ]
 }

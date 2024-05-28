@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Used to urge silence.",
-            "pos": "interjection"
+            "pos": "interjection",
+            "sent1": "Sh! Be quiet in the library.",
+            "sent2": "Sh, don't disturb the sleeping baby.",
+            "sent3": "Sh! The surprise party is a secret.",
+            "sent4": "The sun sets with a gentle sh.",
+            "sent5": "Sh! The ninja moves in silence."
         },
         {
             "definition": "A sound made to show disapproval or disagreement.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The audience let out a loud sh of disapproval.",
+            "sent2": "I heard a sh from the back of the room.",
+            "sent3": "The cat gave a little sh when I petted it.",
+            "sent4": "The wind whispered with a soft sh.",
+            "sent5": "The teacher's sh stopped the argument."
         },
         {
             "definition": "To move quickly and suddenly.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The rabbit will sh away from danger.",
+            "sent2": "I saw the squirrel sh up the tree.",
+            "sent3": "The ball sh across the field.",
+            "sent4": "Her thoughts sh from one idea to another.",
+            "sent5": "The car will sh to a stop."
         }
     ]
 }

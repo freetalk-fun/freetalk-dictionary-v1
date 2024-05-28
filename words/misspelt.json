@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Incorrectly spelled.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The teacher noticed the misspelt words in the student's essay.",
+            "sent2": "She felt embarrassed when she saw the misspelt name on her test paper.",
+            "sent3": "The sign with the misspelt words made everyone giggle as they walked by.",
+            "sent4": "Her misspelt address led the delivery person to the wrong house.",
+            "sent5": "The misspelt label on the jar confused her about its contents."
         },
         {
             "definition": "Past tense of misspell.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He misspelt the word 'receive' as 'recieve' in his homework.",
+            "sent2": "They realized they had misspelt the company name on the presentation slides.",
+            "sent3": "The magician's spell went wrong because he misspelt a crucial word.",
+            "sent4": "She felt frustrated when she misspelt her password for the third time.",
+            "sent5": "The author accidentally misspelt the main character's name throughout the book."
         }
     ]
 }

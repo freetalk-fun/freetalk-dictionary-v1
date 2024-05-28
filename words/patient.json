@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A person receiving medical treatment.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The patient waited quietly in the doctor's office.",
+            "sent2": "The nurse helped the patient to the examination room.",
+            "sent3": "The patient joked with the receptionist while waiting.",
+            "sent4": "The patient's recovery was as slow as a snail's pace.",
+            "sent5": "The patient's smile brightened the hospital room."
         },
         {
             "definition": "Able to accept or tolerate delays, problems, or suffering without becoming annoyed or anxious.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "She remained patient despite the long wait at the bus stop.",
+            "sent2": "The teacher praised the student for being patient during the test.",
+            "sent3": "The patient cat calmly watched the birds outside.",
+            "sent4": "The patient gardener nurtured the plants with care.",
+            "sent5": "His patient attitude helped him succeed in difficult situations."
         },
         {
             "definition": "A person under medical care or treatment.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The doctor checked on the patient in the hospital bed.",
+            "sent2": "The patient followed the prescribed medication schedule.",
+            "sent3": "The patient's family brought flowers to cheer them up.",
+            "sent4": "The patient's journey to recovery was like climbing a mountain.",
+            "sent5": "The patient's gratitude towards the medical staff was evident."
         }
     ]
 }

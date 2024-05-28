@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To take an impression of the unique pattern of ridges on a person's fingertip for identification purposes.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The detective fingerprinted the suspect to solve the case.",
+            "sent2": "After the crime, the police fingerprinted everyone at the scene.",
+            "sent3": "The mischievous cat tried to fingerprint the cookie jar.",
+            "sent4": "The artist's brush fingerprinted the canvas with vibrant colors.",
+            "sent5": "The snowflakes fingerprinted the ground with delicate patterns."
         },
         {
             "definition": "Having been identified or verified through the process of fingerprinting.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The fingerprinted document was accepted as valid.",
+            "sent2": "The fingerprinted employee could access the secure area.",
+            "sent3": "The fingerprinted cake was confirmed to be delicious.",
+            "sent4": "The fingerprinted key unlocked the mysterious box.",
+            "sent5": "The fingerprinted passport allowed smooth travel."
         }
     ]
 }

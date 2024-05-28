@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "In a lower position than",
-            "pos": "preposition"
+            "pos": "preposition",
+            "sent1": "The cat hid beneath the table.",
+            "sent2": "The treasure was buried beneath the ground.",
+            "sent3": "The keys were beneath the pile of papers all along.",
+            "sent4": "Her true feelings lay beneath her calm exterior.",
+            "sent5": "The truth beneath the surface was finally revealed."
         },
         {
             "definition": "Below in rank or importance",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The humble man knew his worth lay beneath his title.",
+            "sent2": "The assistant worked diligently despite her beneath role.",
+            "sent3": "The cat's beneath status in the house didn't bother him.",
+            "sent4": "The beneath employees were often overlooked for promotions.",
+            "sent5": "His beneath position in society never defined his character."
         },
         {
             "definition": "Hidden or covered by something",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The treasure map revealed a beneath cave entrance.",
+            "sent2": "The beneath trapdoor led to a secret room.",
+            "sent3": "The cat's beneath hiding spot was finally discovered.",
+            "sent4": "The beneath message was written in invisible ink.",
+            "sent5": "The beneath compartment held the missing key."
         }
     ]
 }

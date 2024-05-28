@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Showed clearly",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She demonstrated how to solve the math problem step by step.",
+            "sent2": "The teacher demonstrated the correct way to hold a pencil.",
+            "sent3": "The magician demonstrated a simple trick with a coin.",
+            "sent4": "The experiment demonstrated the effects of gravity on objects.",
+            "sent5": "The video tutorial demonstrated the process of making a paper airplane clearly."
         },
         {
             "definition": "Proved with evidence",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The demonstrated facts left no doubt about the outcome.",
+            "sent2": "The demonstrated results of the study were conclusive.",
+            "sent3": "The detective found demonstrated clues at the crime scene.",
+            "sent4": "The demonstrated truth was undeniable in the court case.",
+            "sent5": "The demonstrated data supported the scientist's hypothesis."
         },
         {
             "definition": "Displayed effectively",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "The product was demonstrated beautifully in the advertisement.",
+            "sent2": "She demonstrated the dance moves gracefully on stage.",
+            "sent3": "The fireworks demonstrated brightly in the night sky.",
+            "sent4": "The new software was demonstrated smoothly during the presentation.",
+            "sent5": "The artist demonstrated her skills skillfully during the art show."
         }
     ]
 }

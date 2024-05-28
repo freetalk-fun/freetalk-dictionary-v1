@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Past tense of 'be'",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Yesterday, we were playing in the park.",
+            "sent2": "They were happy to see their friends.",
+            "sent3": "If I were a superhero, I would fly everywhere!",
+            "sent4": "The stars in the sky were like diamonds twinkling above.",
+            "sent5": "The old house creaked as if it were alive."
         },
         {
             "definition": "Second person singular and plural past tense of 'be'",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "You were at the store earlier.",
+            "sent2": "Were you able to finish your homework?",
+            "sent3": "If we were cats, we would nap all day.",
+            "sent4": "The waves were whispering secrets to the shore.",
+            "sent5": "The forest felt as if it were watching us."
         },
         {
             "definition": "Used to indicate a hypothetical or desirable situation",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "If we were rich, we would travel the world.",
+            "sent2": "They were to arrive early, but got delayed.",
+            "sent3": "The cake disappeared as if it were magic!",
+            "sent4": "Her laughter filled the room as if it were music.",
+            "sent5": "The colors of the sunset were like a painting in the sky."
         }
     ]
 }

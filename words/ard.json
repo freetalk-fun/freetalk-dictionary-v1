@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Hard or difficult",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The math problem was ard for me to solve.",
+            "sent2": "Running a marathon is ard but rewarding.",
+            "sent3": "It was ard trying to juggle all the tasks at once.",
+            "sent4": "The journey through the dense forest was ard, like a test of endurance.",
+            "sent5": "The icy wind made the climb up the mountain ard and treacherous."
         },
         {
             "definition": "A suffix denoting a person who is characterized by a specific quality or action",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The wizard was known as a wiz-ard for his magical abilities.",
+            "sent2": "The cow-ard ran away from the loud noise in fear.",
+            "sent3": "The cake-ard always brought delicious treats to the party.",
+            "sent4": "The wiz-ard of the forest could communicate with animals.",
+            "sent5": "The cow-ard of the group always avoided confrontations."
         }
     ]
 }

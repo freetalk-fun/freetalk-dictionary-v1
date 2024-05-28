@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A substance produced by or used in a chemical process.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The scientist mixed different chemicals to create a new compound.",
+            "sent2": "The factory stored various chemicals in labeled containers.",
+            "sent3": "The chemical spilled on the floor, creating a colorful mess.",
+            "sent4": "Their friendship was like a chemical reaction, always changing and evolving.",
+            "sent5": "The smell of the chemical lingered in the air long after the experiment."
         },
         {
             "definition": "Relating to chemistry or the interactions of substances.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "She conducted a chemical experiment in the laboratory.",
+            "sent2": "The students learned about different chemical reactions in class.",
+            "sent3": "His chemical jokes always made everyone laugh during the lecture.",
+            "sent4": "The city skyline at night had a magical, almost chemical glow.",
+            "sent5": "The chemical properties of the substance were carefully analyzed by the researchers."
         }
     ]
 }

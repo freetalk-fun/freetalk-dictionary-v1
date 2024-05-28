@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "The plural form of the noun 'mouse', referring to small rodents.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "In the field, we saw many mouses scurrying around looking for food.",
+            "sent2": "The farmer's cat caught a mouse, but the mouses in the barn remained hidden.",
+            "sent3": "The mischievous cat tried to chase the mouses, but they were too quick for it.",
+            "sent4": "The old house was so quiet that even the slightest sound of mouses could be heard.",
+            "sent5": "The children were excited to see the mouses playing in the garden."
         },
         {
             "definition": "The third person singular form of the verb 'mouse', meaning to move a cursor on a computer screen.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "She carefully mouses over the icons on her computer to find the right file.",
+            "sent2": "He always mouses quickly to click on the links he wants to open.",
+            "sent3": "The cat tried to help by mousing over the screen with its paw, causing chaos.",
+            "sent4": "The teacher mouses around the screen to highlight important information for the students.",
+            "sent5": "The child learned to mouse efficiently to navigate through the educational games."
         }
     ]
 }

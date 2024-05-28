@@ -3,19 +3,39 @@
     "meanings": [
         {
             "definition": "Used to indicate a function or purpose",
-            "pos": "preposition"
+            "pos": "preposition",
+            "sent1": "I use a spoon as a tool to eat soup.",
+            "sent2": "She works as a teacher at the school.",
+            "sent3": "He tried to use a shoe as a phone, but it didn't work.",
+            "sent4": "The umbrella acted as a shield against the rain.",
+            "sent5": "The key served as a solution to the locked door."
         },
         {
             "definition": "In the same way or manner",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "She sings as beautifully as a bird.",
+            "sent2": "He runs as fast as a cheetah.",
+            "sent3": "The cat meowed as if asking for food.",
+            "sent4": "The wind howled as if angry at the trees.",
+            "sent5": "The river flowed as smoothly as silk."
         },
         {
             "definition": "In the role or function of",
-            "pos": "preposition"
+            "pos": "preposition",
+            "sent1": "He will act as the leader of the team.",
+            "sent2": "She dressed as a pirate for the costume party.",
+            "sent3": "The dog barked as the protector of the house.",
+            "sent4": "The actor performed as the villain in the play.",
+            "sent5": "The candle served as the source of light in the dark room."
         },
         {
             "definition": "To the same degree or extent",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She loves him as much as she loves ice cream.",
+            "sent2": "He worries about his grades as his parents do.",
+            "sent3": "The tree grew as tall as the house.",
+            "sent4": "The river flooded as high as the bridge.",
+            "sent5": "The sun shone as brightly as a diamond."
         }
     ]
 }

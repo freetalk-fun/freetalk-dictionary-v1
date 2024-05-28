@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To set to a starting value or condition.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She initialized the game by pressing the start button.",
+            "sent2": "The computer program needs to be initialized before it can run.",
+            "sent3": "The chef initialized the ingredients for the recipe, making sure everything was ready.",
+            "sent4": "The teacher initialized the students' minds with an engaging question.",
+            "sent5": "He initialized the conversation with a friendly greeting, setting a positive tone."
         },
         {
             "definition": "To prepare for operation.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Before the race, the athletes initialized their equipment to ensure everything was working properly.",
+            "sent2": "The technician initialized the system before running the diagnostic tests.",
+            "sent3": "The team initialized their strategy, ready to tackle the upcoming challenge.",
+            "sent4": "She initialized her plan, making sure every detail was in place.",
+            "sent5": "The pilot initialized the pre-flight checklist, ensuring a safe takeoff."
         }
     ]
 }

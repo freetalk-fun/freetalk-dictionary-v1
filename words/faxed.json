@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Send (a document) by fax.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I faxed the contract to the office.",
+            "sent2": "She faxed the report to her boss.",
+            "sent3": "The cat accidentally faxed a paw print to the wrong number.",
+            "sent4": "His words were faxed across the room, reaching everyone instantly.",
+            "sent5": "The urgent message was faxed with lightning speed."
         },
         {
             "definition": "Transmit (a document) electronically using a fax machine.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "They faxed the important papers to the client.",
+            "sent2": "We need to fax the signed agreement to the head office.",
+            "sent3": "The robot faxed a birthday card to its inventor.",
+            "sent4": "Her thoughts were faxed to him without a single word spoken.",
+            "sent5": "The image was faxed with perfect clarity."
         },
         {
             "definition": "The past tense of 'fax'.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Yesterday, I received a faxed document.",
+            "sent2": "The faxed message was clear and easy to read.",
+            "sent3": "The detective found a faxed clue at the crime scene.",
+            "sent4": "His memories were like faded faxed pages from the past.",
+            "sent5": "The faxed paper held secrets of a bygone era."
         }
     ]
 }

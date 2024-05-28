@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To suggest or indicate indirectly",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She didn't say it, but her smile implied that she was happy.",
+            "sent2": "His raised eyebrow implied doubt about the plan.",
+            "sent3": "The cat's purring could imply contentment.",
+            "sent4": "The dark clouds imply an approaching storm.",
+            "sent5": "The teacher's frown seemed to imply disapproval."
         },
         {
             "definition": "To involve or entail necessarily",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Eating too much junk food can imply health problems.",
+            "sent2": "Skipping breakfast may imply a lack of energy later in the day.",
+            "sent3": "His messy room could imply a busy schedule.",
+            "sent4": "The broken window implies a need for repairs.",
+            "sent5": "The empty fridge implies a need for groceries."
         },
         {
             "definition": "To express indirectly or subtly",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Her eyes implied sadness even though she smiled.",
+            "sent2": "The painting implied a sense of mystery and wonder.",
+            "sent3": "His silence could imply agreement with the decision.",
+            "sent4": "The music implied a feeling of nostalgia and longing.",
+            "sent5": "The flowers implied a message of love and appreciation."
         }
     ]
 }

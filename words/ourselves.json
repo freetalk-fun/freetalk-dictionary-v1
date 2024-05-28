@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Used by us or for us.",
-            "pos": "preposition"
+            "pos": "preposition",
+            "sent1": "We made the decision by ourselves.",
+            "sent2": "We need to take care of ourselves.",
+            "sent3": "We accidentally locked ourselves out of the house.",
+            "sent4": "We found ourselves lost in the unfamiliar city.",
+            "sent5": "We must rely on ourselves to succeed."
         },
         {
             "definition": "Our own selves.",
-            "pos": "pronoun"
+            "pos": "pronoun",
+            "sent1": "We should be proud of ourselves.",
+            "sent2": "We can trust ourselves to do the right thing.",
+            "sent3": "We surprised ourselves with how well we did on the test.",
+            "sent4": "We sometimes need to push ourselves out of our comfort zones.",
+            "sent5": "We know ourselves better than anyone else."
         }
     ]
 }

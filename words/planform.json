@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "The shape or outline of an object viewed from above.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The planform of the house looked like a rectangle from the sky.",
+            "sent2": "The architect sketched the planform of the garden on paper.",
+            "sent3": "The planform of the cake was so perfect that it seemed too good to eat.",
+            "sent4": "The planform of the city resembled a sprawling spiderweb of streets.",
+            "sent5": "From the plane, the planform of the island appeared like a tiny speck in the vast ocean."
         },
         {
             "definition": "A diagram or drawing showing the layout or arrangement of something.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The planform displayed the seating arrangement in the auditorium.",
+            "sent2": "She studied the planform of the museum to understand the exhibit locations.",
+            "sent3": "The planform of the board game confused the players with its intricate paths.",
+            "sent4": "The planform of the city map guided tourists to popular landmarks.",
+            "sent5": "The planform of the garden blueprint revealed the placement of each plant and flower."
         },
         {
             "definition": "To design or create a planform for a specific purpose.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The engineer will planform the layout of the new building.",
+            "sent2": "They decided to planform the seating arrangement for the event.",
+            "sent3": "She will planform the schedule for the upcoming project.",
+            "sent4": "The team will planform the strategy for the marketing campaign.",
+            "sent5": "He carefully planformed the design of the website to ensure user-friendly navigation."
         }
     ]
 }

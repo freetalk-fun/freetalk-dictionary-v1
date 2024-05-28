@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A word or group of words that specifies, identifies, or quantifies a noun or noun phrase.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The determiner 'the' specifies a particular noun.",
+            "sent2": "In the sentence, 'this book,' 'this' is a determiner indicating a specific book.",
+            "sent3": "The determiner 'some' decided to quantify the number of cookies.",
+            "sent4": "Her frequent use of determiners painted a clear picture of her writing style.",
+            "sent5": "The determiner 'each' made the concept of individuality stand out in the sentence."
         },
         {
             "definition": "A modifier that indicates the reference of a noun or noun phrase in context.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The determiner 'that' points to a specific noun in the paragraph.",
+            "sent2": "She used the determiner 'these' to show the proximity of the objects.",
+            "sent3": "The determiner 'my' playfully claimed ownership of the toy.",
+            "sent4": "His choice of determiners guided the reader through the complex text.",
+            "sent5": "The determiner 'any' left the noun's identity open to interpretation."
         },
         {
             "definition": "A word that introduces a noun and limits or clarifies it in some way.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The determiner 'a' introduces a singular noun.",
+            "sent2": "Using the determiner 'many' gives a sense of quantity to the noun.",
+            "sent3": "The determiner 'several' decided to limit the options available.",
+            "sent4": "Her collection of determiners added depth to her poetry.",
+            "sent5": "The determiner 'this' clarified which book she was referring to."
         }
     ]
 }

@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A loud noise",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The thunder made a lound that shook the windows.",
+            "sent2": "The concert was filled with lound music that made everyone dance.",
+            "sent3": "The cat knocked over the vase with a lound crash.",
+            "sent4": "The applause was a lound wave of appreciation.",
+            "sent5": "The firework made a lound explosion in the night sky."
         },
         {
             "definition": "To make a loud noise",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Please do not lound your music late at night.",
+            "sent2": "The children love to lound their laughter in the playground.",
+            "sent3": "The car alarm continued to lound annoyingly.",
+            "sent4": "His voice lounded through the empty hallways.",
+            "sent5": "The drums lound loudly during the performance."
         },
         {
             "definition": "Loudly",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "She spoke lound to be heard over the crowd.",
+            "sent2": "The alarm clock rang lound in the early morning.",
+            "sent3": "The teacher reminded the students to read lound and clear.",
+            "sent4": "The wind howled lound outside the cabin.",
+            "sent5": "The fireworks exploded lound in the sky."
         }
     ]
 }

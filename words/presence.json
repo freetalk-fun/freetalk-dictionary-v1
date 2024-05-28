@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "The state or fact of existing, occurring, or being present in a particular place.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Her presence in the room was comforting to everyone.",
+            "sent2": "The presence of the sun made the day brighter.",
+            "sent3": "His absence made his presence felt even more.",
+            "sent4": "The presence of laughter filled the air with joy.",
+            "sent5": "The presence of the mountain loomed large over the valley."
         },
         {
             "definition": "The impressive manner or appearance of a person.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "His commanding presence demanded attention from all.",
+            "sent2": "The actor's presence on stage captivated the audience.",
+            "sent3": "Her presence at the party made heads turn.",
+            "sent4": "The presence of confidence radiated from her every move.",
+            "sent5": "The presence of elegance in her dress was undeniable."
         },
         {
             "definition": "A person or thing that is present in a particular place.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The security guard's presence ensured safety in the building.",
+            "sent2": "The presence of the statue added beauty to the park.",
+            "sent3": "The cat's presence on the couch surprised the dog.",
+            "sent4": "The presence of the old oak tree provided shade in the garden.",
+            "sent5": "The presence of the teacher in the classroom brought order to the students."
         }
     ]
 }

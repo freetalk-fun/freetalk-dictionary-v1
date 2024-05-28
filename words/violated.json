@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Break or fail to comply with (a rule or agreement)",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He violated the school rules by running in the hallway.",
+            "sent2": "The driver violated the speed limit and got a ticket.",
+            "sent3": "She violated the no talking during the test rule by whispering to her friend.",
+            "sent4": "The hacker violated the security protocols and accessed confidential information.",
+            "sent5": "The athlete violated the doping regulations and faced a suspension."
         },
         {
             "definition": "Treat with disrespect or disregard for personal boundaries",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The bully violated the student's personal space by pushing him.",
+            "sent2": "The rude customer violated the waitress's boundaries by making inappropriate comments.",
+            "sent3": "He violated the 'keep off the grass' sign by walking all over the lawn.",
+            "sent4": "The paparazzi violated the celebrity's privacy by taking photos through the window.",
+            "sent5": "The intruder violated the homeowner's property by trespassing into the backyard."
         },
         {
             "definition": "Desecrate or profane (something sacred)",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The vandals violated the church by spray painting graffiti on its walls.",
+            "sent2": "The treasure hunters violated the ancient tomb by digging up artifacts.",
+            "sent3": "He violated the museum's 'do not touch' sign by handling the delicate artifact.",
+            "sent4": "The pranksters violated the solemn atmosphere of the memorial with their loud laughter.",
+            "sent5": "The disrespectful tourists violated the sacred temple by littering on its grounds."
         }
     ]
 }

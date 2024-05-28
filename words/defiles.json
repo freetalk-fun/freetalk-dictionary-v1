@@ -3,23 +3,48 @@
     "meanings": [
         {
             "definition": "To make unclean or impure",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Leaving trash on the beach defiles the natural beauty of the shore.",
+            "sent2": "Spilling ink on the white shirt defiles its cleanliness.",
+            "sent3": "Accidentally stepping on the cake defiles its perfect frosting.",
+            "sent4": "The graffiti defiles the blank wall like a scar on a beautiful face.",
+            "sent5": "The oil spill defiles the clear water, turning it murky and dirty."
         },
         {
             "definition": "To violate the purity or sanctity of",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Breaking the ancient vase defiles its historical significance.",
+            "sent2": "Disrespecting the sacred temple defiles its spiritual aura.",
+            "sent3": "Playing loud music during a quiet ceremony defiles the solemn atmosphere.",
+            "sent4": "The act of vandalism defiles the peaceful park like a dark cloud over a sunny day.",
+            "sent5": "The act of defacing the monument defiles the memory of those who fought for freedom."
         },
         {
             "definition": "To corrupt or spoil",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Adding too much salt defiles the taste of the soup.",
+            "sent2": "Neglecting to water the plants defiles their health and beauty.",
+            "sent3": "The spoiled milk defiles the freshness of the refrigerator.",
+            "sent4": "The virus defiles the computer system like a thief in the night.",
+            "sent5": "The negative comments defile the positive atmosphere of the meeting."
         },
         {
             "definition": "A narrow passage or gorge",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The hikers had to pass through a dark defile to reach the hidden waterfall.",
+            "sent2": "The army had to navigate through the rocky defile to reach the enemy's camp.",
+            "sent3": "The narrow defile between the two mountains felt like a secret pathway.",
+            "sent4": "The defile was so narrow that only one person could pass through at a time.",
+            "sent5": "The ancient map marked the treacherous defile as a dangerous route for travelers."
         },
         {
             "definition": "A narrow passage or gorge that restricts movement",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The soldiers were ambushed in the narrow defile by the enemy forces.",
+            "sent2": "The caravan had to carefully maneuver through the steep defile in the mountains.",
+            "sent3": "The explorers found themselves trapped in the deep defile with no way out.",
+            "sent4": "The narrow defile acted as a natural barrier, preventing easy access to the valley.",
+            "sent5": "The hidden village was nestled in the secluded defile, away from prying eyes."
         }
     ]
 }

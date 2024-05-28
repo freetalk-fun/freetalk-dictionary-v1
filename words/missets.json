@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Missets (verb): Fails to hit or reach a target.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The baseball player missets the ball during practice.",
+            "sent2": "She often missets the bullseye when throwing darts.",
+            "sent3": "The archer missets the target and hits the tree instead.",
+            "sent4": "His aim missets the mark, like a wayward arrow in the wind.",
+            "sent5": "The basketball player's shot missets the hoop by inches."
         },
         {
             "definition": "Missets (noun): Mistakes or errors in judgment or action.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Making missets in calculations can lead to wrong answers.",
+            "sent2": "She realized her missets in the report after it was submitted.",
+            "sent3": "The chef's missets in the recipe turned the cake into a disaster.",
+            "sent4": "His repeated missets in decision-making cost him the promotion.",
+            "sent5": "Learning from our missets is important for personal growth."
         }
     ]
 }

@@ -3,19 +3,39 @@
     "meanings": [
         {
             "definition": "Unable to do something",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The injured bird cannot fly.",
+            "sent2": "She is sad because she cannot go to the party.",
+            "sent3": "The sleepy cat cannot catch the fast mouse.",
+            "sent4": "The broken clock cannot tell time anymore.",
+            "sent5": "The locked door cannot be opened without a key."
         },
         {
             "definition": "Can't",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "He cannot swim in the deep pool.",
+            "sent2": "They cannot attend the meeting tomorrow.",
+            "sent3": "The dog cannot bark loudly in the library.",
+            "sent4": "The plant cannot grow without sunlight.",
+            "sent5": "The phone cannot function without a charged battery."
         },
         {
             "definition": "Not able to",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The tired child cannot stay awake any longer.",
+            "sent2": "The old car cannot start in the cold weather.",
+            "sent3": "The shy student cannot speak in front of the class.",
+            "sent4": "The broken umbrella cannot keep the rain off.",
+            "sent5": "The empty jar cannot hold any more cookies."
         },
         {
             "definition": "Impossible to",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "It cannot rain indoors.",
+            "sent2": "The sun cannot shine at night.",
+            "sent3": "The fish cannot climb trees.",
+            "sent4": "The stone cannot float on water.",
+            "sent5": "The pen cannot write without ink."
         }
     ]
 }

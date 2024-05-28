@@ -3,19 +3,21 @@
     "meanings": [
         {
             "definition": "To clean or clear a surface with a broom or brush.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I will sweep the floor after dinner.",
+            "sent2": "She likes to sweep the porch every morning.",
+            "sent3": "The cat tried to help me sweep, but ended up playing with the broom.",
+            "sent4": "His speech seemed to sweep away all doubts and fears.",
+            "sent5": "The wind began to sweep the fallen leaves across the yard."
         },
         {
             "definition": "To move swiftly and smoothly in a particular direction.",
-            "pos": "verb"
-        },
-        {
-            "definition": "An act of cleaning or clearing a surface with a broom or brush.",
-            "pos": "noun"
-        },
-        {
-            "definition": "A wide-ranging search or survey.",
-            "pos": "noun"
+            "pos": "verb",
+            "sent1": "The dancer will sweep across the stage gracefully.",
+            "sent2": "The clouds seemed to sweep across the sky on a windy day.",
+            "sent3": "The superhero can sweep in and save the day in an instant.",
+            "sent4": "Her words seemed to sweep through the room, leaving everyone in awe.",
+            "sent5": "The river will sweep around the bend and continue its journey."
         }
     ]
 }

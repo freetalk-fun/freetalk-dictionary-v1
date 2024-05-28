@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Away from a place or position",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "She ran offs quickly from the scary noise.",
+            "sent2": "The cat jumped offs the table.",
+            "sent3": "The squirrel scampered offs playfully from the chasing dog.",
+            "sent4": "The leaves swirled offs in the autumn wind.",
+            "sent5": "The rocket blasted offs into space."
         },
         {
             "definition": "To kill or cause harm to",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The hunter offs the deer for food.",
+            "sent2": "The virus can offs many people if not controlled.",
+            "sent3": "The villain plotted to offs the hero in the movie.",
+            "sent4": "The poison slowly offs the plant.",
+            "sent5": "The assassin offs the target with precision."
         },
         {
             "definition": "A feeling of annoyance or resentment",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "She couldn't hide her offs towards her noisy neighbor.",
+            "sent2": "His offs towards his boss grew stronger each day.",
+            "sent3": "The child's offs towards broccoli was evident at dinner.",
+            "sent4": "The student's offs towards homework was palpable.",
+            "sent5": "The team's offs towards the referee was clear after the bad call."
         }
     ]
 }

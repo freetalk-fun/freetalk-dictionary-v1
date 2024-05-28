@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "and",
-            "pos": "conjunction"
+            "pos": "conjunction",
+            "sent1": "I like apples et oranges.",
+            "sent2": "She likes to read et write.",
+            "sent3": "Let's go to the park et play!",
+            "sent4": "The sun et the moon are both in the sky.",
+            "sent5": "He is tall et she is short."
         },
         {
             "definition": "past tense of eat",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Yesterday, I et a delicious sandwich.",
+            "sent2": "The cat et the fish quickly.",
+            "sent3": "The cookie et the cake at the party.",
+            "sent4": "The fire et through the forest.",
+            "sent5": "She et the entire pizza by herself."
         }
     ]
 }

@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Remove or obliterate (something) by striking or crossing out.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She deleted the wrong answer from her paper.",
+            "sent2": "Please make sure to delete any unnecessary files from the computer.",
+            "sent3": "The magician 'deleted' the rabbit from the hat, much to the audience's surprise.",
+            "sent4": "His anger 'deleted' any chance of a peaceful resolution.",
+            "sent5": "The storm 'deleted' all traces of the sandcastle from the beach."
         },
         {
             "definition": "To erase or remove data or information from a computer or electronic device.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He accidentally deleted his important presentation.",
+            "sent2": "Remember to always double-check before hitting delete on your files.",
+            "sent3": "The computer 'deleted' all the files just as the deadline approached, causing panic in the office.",
+            "sent4": "The virus 'deleted' all the data on the hard drive, leaving it empty and useless.",
+            "sent5": "The delete button 'deleted' the entire paragraph with one click."
         }
     ]
 }

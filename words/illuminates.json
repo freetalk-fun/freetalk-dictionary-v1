@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To light up or brighten",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The lamp illuminates the room.",
+            "sent2": "The sun illuminates the sky every morning.",
+            "sent3": "The firefly illuminates the garden with its tiny light.",
+            "sent4": "Her smile illuminates the darkest of days.",
+            "sent5": "The lighthouse illuminates the path for ships at sea."
         },
         {
             "definition": "To make clear or understandable",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The teacher illuminates the difficult concept for the students.",
+            "sent2": "His explanation illuminates the confusion surrounding the topic.",
+            "sent3": "The map illuminates the route to the hidden treasure.",
+            "sent4": "The detective's findings illuminates the mystery of the missing keys.",
+            "sent5": "The guide illuminates the history of the ancient ruins."
         },
         {
             "definition": "To decorate with lights or colors",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "They illuminate the Christmas tree with colorful lights.",
+            "sent2": "The city illuminates the streets with festive decorations during holidays.",
+            "sent3": "The party illuminates the night with bright lanterns and candles.",
+            "sent4": "The stage illuminates with dazzling lights during the performance.",
+            "sent5": "The garden illuminates with fairy lights for the evening event."
         }
     ]
 }

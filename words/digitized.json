@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Convert (data or information) into digital form.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I digitized my old photos by scanning them into my computer.",
+            "sent2": "The library digitized their collection of rare books for online access.",
+            "sent3": "It was quite a task to digitize all the handwritten notes from the meeting.",
+            "sent4": "She digitized her thoughts into a blog post for everyone to read.",
+            "sent5": "The company digitized their entire filing system, making it much easier to search for documents."
         },
         {
             "definition": "Represent (an object or image) by generating a series of numbers that describe its shape or position.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The 3D printer digitized the model into a file for printing.",
+            "sent2": "The satellite digitized the terrain below into detailed maps.",
+            "sent3": "He jokingly said he could digitize his messy room into a neat diagram.",
+            "sent4": "Her memory digitized the scene into a vivid mental image.",
+            "sent5": "The artist digitized the landscape, capturing every detail in the painting."
         }
     ]
 }

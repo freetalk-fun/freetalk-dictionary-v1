@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A multiplexer is a device that combines multiple signals into one signal for transmission.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The mux in our TV helps us watch different channels on one screen.",
+            "sent2": "The technician installed a new mux to improve the signal quality.",
+            "sent3": "I wonder how the tiny mux can fit so many signals together!",
+            "sent4": "The multiplexer acts like a traffic cop, directing all the signals into one lane.",
+            "sent5": "The mux is like a magic box that merges all the signals seamlessly."
         },
         {
             "definition": "To mux is to combine multiple signals into one signal for transmission.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "We need to mux the audio and video feeds before broadcasting.",
+            "sent2": "The software allows you to mux different data streams efficiently.",
+            "sent3": "I accidentally muxed the wrong channels together, creating a funny mix-up.",
+            "sent4": "She has the ability to mux words and music into beautiful poetry.",
+            "sent5": "Muxing requires precision to ensure all signals merge perfectly."
         }
     ]
 }

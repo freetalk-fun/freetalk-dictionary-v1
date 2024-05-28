@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "The action of illuminating or state of being illuminated.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The room was filled with soft illumination from the lamp.",
+            "sent2": "The streetlights provided the necessary illumination for the dark alley.",
+            "sent3": "The cat seemed to enjoy the illumination of the sunbeam on the carpet.",
+            "sent4": "Her smile brought an illumination to his face, brightening up his day.",
+            "sent5": "The fireworks display created a stunning illumination in the night sky."
         },
         {
             "definition": "A source of light.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The candle served as a warm illumination during the power outage.",
+            "sent2": "The lighthouse beam acted as a guiding illumination for ships at sea.",
+            "sent3": "The fireflies provided a magical illumination in the garden at night.",
+            "sent4": "The city skyline was a beautiful illumination against the dark horizon.",
+            "sent5": "The flashlight beam offered a narrow but bright illumination in the cave."
         },
         {
             "definition": "Clarification or explanation.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The teacher's illustration provided much-needed illumination on the complex topic.",
+            "sent2": "The detailed diagram offered clear illumination on how the machine worked.",
+            "sent3": "His humorous analogy brought an unexpected illumination to the serious discussion.",
+            "sent4": "The sudden realization was like a burst of bright illumination in her mind.",
+            "sent5": "The expert's presentation gave valuable illumination on the latest research findings."
         }
     ]
 }

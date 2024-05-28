@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "The outer covering of a seed or fruit",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The hull of the apple protected the seeds inside.",
+            "sent2": "She peeled the orange to reveal the juicy hull.",
+            "sent3": "The squirrel mistook the hull of the acorn for a tiny hat.",
+            "sent4": "The hull of the watermelon split open, revealing the red flesh inside.",
+            "sent5": "The hull of the coconut was tough and fibrous."
         },
         {
             "definition": "The main body of a ship",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The hull of the ship was painted blue.",
+            "sent2": "The sailors repaired the hull after it was damaged in the storm.",
+            "sent3": "The pirates searched the hull for hidden treasures.",
+            "sent4": "The hull of the ship creaked as it sailed through the rough seas.",
+            "sent5": "The hull of the boat was sturdy and reliable."
         },
         {
             "definition": "To remove the outer covering of a seed or fruit",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She carefully hulled the strawberries for the salad.",
+            "sent2": "The chef hulled the avocado before slicing it.",
+            "sent3": "He accidentally hulled the cherry while trying to pit it.",
+            "sent4": "The farmer hulled the corn to prepare it for cooking.",
+            "sent5": "They hulled the peas to use in the soup."
         }
     ]
 }

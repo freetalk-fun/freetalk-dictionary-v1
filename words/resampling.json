@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To sample again, especially in a statistical context.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "After analyzing the data, we decided to resample to ensure accuracy.",
+            "sent2": "Researchers often resample to validate their findings.",
+            "sent3": "The statistician joked that he needed to resample because his first attempt was a 'data disaster'.",
+            "sent4": "In the world of statistics, resampling is like taking a second look through a different lens.",
+            "sent5": "Resampling is like hitting the refresh button on your data analysis."
         },
         {
             "definition": "The act of selecting a new sample from an existing set of data.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The resampling of the population helped in drawing accurate conclusions.",
+            "sent2": "In research, resampling is crucial for obtaining representative data.",
+            "sent3": "The resampling process felt like picking candies from a jar without looking.",
+            "sent4": "Resampling is like reshuffling a deck of cards to get a new perspective on the data.",
+            "sent5": "The resampling technique is a powerful tool in statistical analysis."
         }
     ]
 }

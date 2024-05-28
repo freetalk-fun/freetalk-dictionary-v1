@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "The state of being strikingly different from something else.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The contrast between the black cat and the white cat was very noticeable.",
+            "sent2": "The artist used a lot of contrast in his painting to make it more interesting.",
+            "sent3": "It was funny to see the contrast between the tiny puppy and the huge dog.",
+            "sent4": "The contrast of the bright sun against the dark storm clouds was breathtaking.",
+            "sent5": "The teacher used a lot of contrast in the lesson to help the students understand better."
         },
         {
             "definition": "To compare in order to show differences.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Let's contrast the two options to see which one is better.",
+            "sent2": "She likes to contrast different styles of music to appreciate their uniqueness.",
+            "sent3": "I will contrast the prices of the two stores before deciding where to buy.",
+            "sent4": "His calm demeanor contrasted sharply with her loud and energetic personality.",
+            "sent5": "The chef likes to contrast flavors to create exciting dishes."
         },
         {
             "definition": "A difference or dissimilarity between things.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "There was a clear contrast between the two candidates' policies.",
+            "sent2": "The contrast in temperature between day and night was quite extreme.",
+            "sent3": "The contrast in size between the elephant and the mouse was comical.",
+            "sent4": "The contrast in opinions led to a lively debate among the group.",
+            "sent5": "The contrast in colors made the painting stand out."
         }
     ]
 }

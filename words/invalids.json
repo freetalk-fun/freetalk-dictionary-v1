@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A person made weak or disabled by illness or injury.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The hospital had a special ward for invalids who needed extra care.",
+            "sent2": "She visited the invalids at the nursing home every Sunday.",
+            "sent3": "The invalids at the rehab center were determined to get stronger.",
+            "sent4": "Her spirit soared despite her body feeling like an invalids.",
+            "sent5": "The invalids in the support group shared stories of hope and resilience."
         },
         {
             "definition": "Not valid or legally acceptable.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The expired coupon was considered invalids by the cashier.",
+            "sent2": "His argument was deemed invalids by the judge.",
+            "sent3": "Trying to use an invalids credit card would not work at the store.",
+            "sent4": "The contract became invalids once the terms were breached.",
+            "sent5": "The ticket was invalids after the event had passed."
         },
         {
             "definition": "To make someone or something invalid.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He accidentally invalids the warranty by opening the device.",
+            "sent2": "The judge warned the lawyer not to try to invalids the evidence.",
+            "sent3": "She didn't want to invalids his feelings, so she chose her words carefully.",
+            "sent4": "The storm threatened to invalids their travel plans.",
+            "sent5": "The hacker's goal was to invalids the security system and gain access."
         }
     ]
 }

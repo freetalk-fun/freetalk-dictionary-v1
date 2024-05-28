@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A person or thing that causes damage or harm to something.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The reckless driver was an impairer of road safety.",
+            "sent2": "The bully at school was known as the impairer of happiness.",
+            "sent3": "The mischievous squirrel became an impairer of the bird feeder's peace.",
+            "sent4": "The storm acted as an impairer, leaving destruction in its wake.",
+            "sent5": "The virus spread quickly, acting as a silent impairer of health."
         },
         {
             "definition": "To weaken or damage something.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Lack of sleep can impairer your ability to focus.",
+            "sent2": "The rust on the metal impairered its strength over time.",
+            "sent3": "The magician's spell seemed to impairer the enemy's movements.",
+            "sent4": "The constant exposure to sunlight impairered the color of the curtains.",
+            "sent5": "The loud noise impairered her hearing temporarily."
         }
     ]
 }

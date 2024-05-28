@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "a return phone call",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "After leaving a message, I received a callback from the company.",
+            "sent2": "I missed the callback from my doctor's office, so I had to call them back.",
+            "sent3": "I was so surprised to get a callback from the radio station after winning a contest.",
+            "sent4": "Her promise of a callback was like a ray of sunshine on a cloudy day.",
+            "sent5": "The callback from the casting director made her day brighter."
         },
         {
             "definition": "a function passed as an argument to another function",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "In JavaScript, you can pass a callback to handle asynchronous tasks.",
+            "sent2": "The callback function updates the user interface based on user input.",
+            "sent3": "It's like giving a secret code to the function through the callback.",
+            "sent4": "The callback acts as a messenger between different parts of the program.",
+            "sent5": "Using a callback simplifies the process of handling events in programming."
         },
         {
             "definition": "a feature in computer programming where a function is executed after another function completes",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The callback ensures that the next function runs only after the current one finishes.",
+            "sent2": "By using a callback, you can control the flow of execution in your code.",
+            "sent3": "It's like having a digital assistant waiting for the callback to start working.",
+            "sent4": "The callback is like a helpful reminder to execute the next task.",
+            "sent5": "With callbacks, you can create powerful sequences of actions in programming."
         }
     ]
 }

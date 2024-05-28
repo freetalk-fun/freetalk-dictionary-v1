@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A device or instrument used to detect something, such as a metal detector.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The detectors at the airport help find hidden objects in luggage.",
+            "sent2": "The security guards rely on detectors to keep the airport safe.",
+            "sent3": "The metal detector beeped loudly, surprising everyone in line.",
+            "sent4": "Her intuition acted like a detector, warning her of potential danger.",
+            "sent5": "The detectors hummed softly, indicating the presence of metal nearby."
         },
         {
             "definition": "A person or thing that detects, such as a smoke detector.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Smoke detectors are essential for early fire detection in homes.",
+            "sent2": "The detector in the kitchen alerted them to the burning toast.",
+            "sent3": "The smoke detector seemed to have a sense of humor, going off whenever someone cooked bacon.",
+            "sent4": "His dog was like a detector, always able to sense his mood before anyone else.",
+            "sent5": "The smoke detector's shrill sound pierced the silence, signaling danger."
         }
     ]
 }

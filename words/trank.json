@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "trank (verb): to administer a sedative or tranquilizer to someone",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The nurse will trank the patient before the surgery.",
+            "sent2": "The doctor tranks the anxious dog before grooming.",
+            "sent3": "The sleepy cat asked the vet to trank it for a nap.",
+            "sent4": "The zookeeper had to trank the escaped tiger to safely return it to its enclosure.",
+            "sent5": "The calming music tranked the baby to sleep peacefully."
         },
         {
             "definition": "trank (noun): a sedative or tranquilizer medication",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The vet prescribed a trank for the nervous dog.",
+            "sent2": "She always keeps a trank in her first aid kit for emergencies.",
+            "sent3": "The trank helped the anxious cat relax during the thunderstorm.",
+            "sent4": "The trank was the only way to calm the agitated elephant at the zoo.",
+            "sent5": "The trank quickly eased the patient's anxiety before the procedure."
         }
     ]
 }

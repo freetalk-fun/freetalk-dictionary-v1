@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "One of two identical things produced at the same time or by the same process.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I found a duplicate of my favorite toy in the toy store.",
+            "sent2": "The printer accidentally made a duplicate of the document.",
+            "sent3": "It was funny to see a duplicate of my friend's drawing, they must have the same artistic style.",
+            "sent4": "The two trees in the garden looked like duplicates, as if they were twins.",
+            "sent5": "The detective found a duplicate key at the crime scene, which helped solve the mystery."
         },
         {
             "definition": "To make an identical copy of something.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I will duplicate this important document for safekeeping.",
+            "sent2": "She used a photocopier to duplicate the recipe for everyone.",
+            "sent3": "The magician tried to duplicate the coin trick but failed hilariously.",
+            "sent4": "Her ability to duplicate complex dance moves amazed the audience.",
+            "sent5": "The artist wanted to duplicate the painting, so she carefully studied the original."
         },
         {
             "definition": "To be identical or nearly identical to something else.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The new dress design seems to duplicate the style of the famous designer.",
+            "sent2": "The counterfeit watch was made to duplicate the expensive brand.",
+            "sent3": "The twins often dress alike, unintentionally duplicating each other's outfits.",
+            "sent4": "His handwriting was so neat that it almost duplicated a printed font.",
+            "sent5": "The software was able to duplicate the image perfectly, making it hard to tell the difference."
         }
     ]
 }

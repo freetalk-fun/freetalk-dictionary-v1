@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A soft object used to support or pad a seat or back.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I placed a cushion on the chair for extra comfort.",
+            "sent2": "The couch had colorful cushions that matched the curtains.",
+            "sent3": "The cushion fell off the chair and landed on the cat, making it jump.",
+            "sent4": "Her laughter was a cushion against the harsh reality of the situation.",
+            "sent5": "The cushion felt like a fluffy cloud under my tired body."
         },
         {
             "definition": "To soften the effect of an impact or blow.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He used his hand to cushion the fall of the fragile vase.",
+            "sent2": "The helmet helped cushion the cyclist's head during the accident.",
+            "sent3": "The pillow cushioned the blow, making it less painful than expected.",
+            "sent4": "Her kind words cushioned the disappointment of not winning the game.",
+            "sent5": "The thick carpet cushioned his steps, making them soundless."
         },
         {
             "definition": "To provide financial security or protection.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Saving money can cushion you from unexpected expenses.",
+            "sent2": "Insurance can cushion individuals from financial loss in emergencies.",
+            "sent3": "Investing wisely can cushion your finances for the future.",
+            "sent4": "Having multiple sources of income can cushion you from economic downturns.",
+            "sent5": "A strong emergency fund can cushion you during tough times."
         }
     ]
 }

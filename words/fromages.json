@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Cheese",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I love to eat fromages with crackers.",
+            "sent2": "The fromages at the store looked delicious.",
+            "sent3": "The mouse snuck into the kitchen to steal some fromages.",
+            "sent4": "The fromages on the pizza melted perfectly.",
+            "sent5": "The smell of fromages filled the room."
         },
         {
             "definition": "Cheeses",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "She bought a variety of fromages for the party.",
+            "sent2": "The fromages from different countries tasted unique.",
+            "sent3": "The chef created a new dish using exotic fromages.",
+            "sent4": "The market had a special sale on imported fromages.",
+            "sent5": "The platter was filled with colorful fromages."
         },
         {
             "definition": "Of or relating to cheese",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The fromages festival showcased various cheese dishes.",
+            "sent2": "Her favorite dish had a rich fromages sauce.",
+            "sent3": "The fromages aroma wafted through the kitchen.",
+            "sent4": "The fromages industry is booming in this region.",
+            "sent5": "The fromages board was a hit at the party."
         }
     ]
 }

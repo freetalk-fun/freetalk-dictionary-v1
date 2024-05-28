@@ -3,23 +3,48 @@
     "meanings": [
         {
             "definition": "Physically in contact with and supported by a surface.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The book is on the table.",
+            "sent2": "The cat is on the roof.",
+            "sent3": "The sleepy puppy fell asleep on the warm blanket.",
+            "sent4": "The stars shone brightly on the dark night sky.",
+            "sent5": "The colorful painting hung on the white wall."
         },
         {
             "definition": "Expressing the situation of being supported by or in contact with something.",
-            "pos": "preposition"
+            "pos": "preposition",
+            "sent1": "The cup is on the saucer.",
+            "sent2": "The keys are on the hook.",
+            "sent3": "The butterfly landed gently on the flower.",
+            "sent4": "Her happiness rested on his kind words.",
+            "sent5": "The success of the project depends on teamwork."
         },
         {
             "definition": "Indicating the location of something.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The red house is on the corner.",
+            "sent2": "The park is on the other side of the street.",
+            "sent3": "The lost toy was found on the shelf.",
+            "sent4": "The sun sets on the horizon.",
+            "sent5": "The store is on the main road."
         },
         {
             "definition": "In the process of being carried out or performed.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The project is on schedule.",
+            "sent2": "The concert is on tonight.",
+            "sent3": "The cake is on its way to being baked.",
+            "sent4": "The play is on at the theater.",
+            "sent5": "The meeting is on for tomorrow."
         },
         {
             "definition": "Used to indicate the state of being in operation or in effect.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The lights are on in the room.",
+            "sent2": "The air conditioner is on in the summer.",
+            "sent3": "The alarm clock went off, but the radio is still on.",
+            "sent4": "The computer is on, but the screen is blank.",
+            "sent5": "The fan is on to cool the room."
         }
     ]
 }

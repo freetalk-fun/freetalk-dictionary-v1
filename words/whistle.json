@@ -3,19 +3,39 @@
     "meanings": [
         {
             "definition": "A clear, high-pitched sound made by forcing breath through a small hole between one's lips or teeth.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The referee blew the whistle to start the game.",
+            "sent2": "I heard the whistle of the train as it approached the station.",
+            "sent3": "The whistle of the kettle signaled that the water was boiling.",
+            "sent4": "The whistle of the wind through the trees was soothing.",
+            "sent5": "The loud whistle of the teapot made everyone jump."
         },
         {
             "definition": "A device used to produce a loud, shrill sound by forcing air or steam through a small opening.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The lifeguard used a whistle to alert swimmers of danger.",
+            "sent2": "The coach's whistle signaled the end of practice.",
+            "sent3": "The whistle around the referee's neck was shiny and new.",
+            "sent4": "The whistle of the kettle drowned out the conversation.",
+            "sent5": "The loud whistle of the train echoed through the station."
         },
         {
             "definition": "To make a high-pitched sound by forcing breath through one's lips or teeth.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I like to whistle while I work around the house.",
+            "sent2": "The birds outside my window whistle every morning.",
+            "sent3": "She tried to whistle a tune, but it came out all wrong.",
+            "sent4": "The wind seemed to whistle through the cracks in the window.",
+            "sent5": "The kettle began to whistle on the stove."
         },
         {
             "definition": "To produce a loud, shrill sound by forcing air or steam through a small opening.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The kettle started to whistle as the water boiled.",
+            "sent2": "The pressure cooker began to whistle, indicating it was ready.",
+            "sent3": "The wind outside seemed to whistle through the trees.",
+            "sent4": "The teapot started to whistle on the stove.",
+            "sent5": "The referee will whistle if there is a foul during the game."
         }
     ]
 }

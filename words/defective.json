@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Having a defect or flaw.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The defective toy had a broken wheel.",
+            "sent2": "The car was returned to the dealership because it was defective.",
+            "sent3": "The defective umbrella couldn't keep the rain out, so it was used as a sunshade instead.",
+            "sent4": "Her plan was as defective as a leaky bucket, unable to hold any water.",
+            "sent5": "The defective phone screen was so cracked that it looked like a spiderweb."
         },
         {
             "definition": "A person or thing with a defect or flaw.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The company recalled the defectives to fix the issue.",
+            "sent2": "The defective in the machine caused it to malfunction.",
+            "sent3": "The defective in the group always brought a unique perspective to discussions.",
+            "sent4": "She felt like a defective in a world of perfection, but she embraced her flaws.",
+            "sent5": "The defective in the painting was a small smudge that added character to the artwork."
         }
     ]
 }

@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To feed on grass in a field.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The cows grazed peacefully in the meadow.",
+            "sent2": "The horses grazed on the lush green pasture.",
+            "sent3": "The sheep grazed so much that they had full bellies.",
+            "sent4": "The deer grazed the land, leaving a trail of nibbled grass behind.",
+            "sent5": "As the sun set, the goats grazed under the shade of the trees."
         },
         {
             "definition": "To touch lightly in passing.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The butterfly grazed the flower petals with its delicate wings.",
+            "sent2": "The bird grazed the water's surface as it flew low over the lake.",
+            "sent3": "The kitten grazed the curtain with its whiskers as it played.",
+            "sent4": "His fingertips grazed her hand, sending a shiver down her spine.",
+            "sent5": "The breeze grazed my cheek, bringing a refreshing coolness on a hot day."
         },
         {
             "definition": "To scrape or scratch the surface of something.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She accidentally grazed her knee against the rough wall.",
+            "sent2": "The car grazed the side of the building, leaving a mark.",
+            "sent3": "The cat grazed the furniture with its claws, leaving tiny scratches.",
+            "sent4": "The hiker's boots grazed the rocky path, causing small pebbles to scatter.",
+            "sent5": "The skateboard grazed the edge of the ramp, creating a thrilling moment of balance."
         }
     ]
 }

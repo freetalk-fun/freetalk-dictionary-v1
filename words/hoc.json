@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "This",
-            "pos": "pronoun"
+            "pos": "pronoun",
+            "sent1": "Hoc is mine.",
+            "sent2": "She gave hoc to me.",
+            "sent3": "He pretended to be hoc.",
+            "sent4": "The lost toy was hoc.",
+            "sent5": "Hoc is always nearby."
         },
         {
             "definition": "Here",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "Come hoc now.",
+            "sent2": "I will be hoc soon.",
+            "sent3": "Let's go hoc and there.",
+            "sent4": "The treasure is hidden hoc.",
+            "sent5": "Look hoc for the answer."
         },
         {
             "definition": "This point",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "At this hoc, we turn left.",
+            "sent2": "The hoc is where we meet.",
+            "sent3": "She marked the hoc with a flag.",
+            "sent4": "The highest hoc is the summit.",
+            "sent5": "The crucial hoc is the key."
         }
     ]
 }

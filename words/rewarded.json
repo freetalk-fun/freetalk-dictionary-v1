@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Given something in recognition of one's service, effort, or achievement.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The trophy was a rewarded for her hard work.",
+            "sent2": "The certificate was a reward for his excellent performance.",
+            "sent3": "The medal she received was a rewarded for being the best player.",
+            "sent4": "The bonus was a rewarded for exceeding sales targets.",
+            "sent5": "The scholarship was a rewarded for her academic success."
         },
         {
             "definition": "To give something in recognition of one's service, effort, or achievement.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She rewarded her students with stickers for completing their homework.",
+            "sent2": "The company rewarded its employees with a bonus for their hard work.",
+            "sent3": "He rewarded himself with a piece of cake after finishing his workout.",
+            "sent4": "The coach rewarded the team with a pizza party for winning the championship.",
+            "sent5": "The teacher rewarded the class with extra recess for good behavior."
         }
     ]
 }

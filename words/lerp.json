@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To move or progress in a smooth, continuous manner.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The cat will lerp across the room.",
+            "sent2": "She likes to lerp gracefully on the dance floor.",
+            "sent3": "The toy car decided to lerp slowly to tease the dog.",
+            "sent4": "Time seemed to lerp forward as they enjoyed the moment.",
+            "sent5": "The river lerped gently downstream, carrying fallen leaves with it."
         },
         {
             "definition": "A linear interpolation between two values.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The software uses lerp to calculate smooth transitions.",
+            "sent2": "In math class, we learned about the concept of lerp.",
+            "sent3": "The lerp between the colors created a beautiful gradient.",
+            "sent4": "The artist used lerp to blend the shades seamlessly.",
+            "sent5": "The lerp in the graph showed a gradual change in temperature over time."
         }
     ]
 }

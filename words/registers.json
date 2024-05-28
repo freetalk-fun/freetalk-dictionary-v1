@@ -3,19 +3,39 @@
     "meanings": [
         {
             "definition": "An official list or record, especially one for keeping track of information.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The teacher checked the attendance registers to see who was absent.",
+            "sent2": "The hospital keeps detailed registers of all patient admissions.",
+            "sent3": "The registers of the school library were so old, they looked like ancient scrolls.",
+            "sent4": "Her eyes were like registers, capturing every detail of the scene before her.",
+            "sent5": "The registers of the town hall were filled with historical records dating back centuries."
         },
         {
             "definition": "To enter or record information in an official list or record.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Please make sure to registers your name at the front desk.",
+            "sent2": "The secretary registers all incoming mail in the logbook.",
+            "sent3": "The cat tried to registers its paw prints on the wet cement.",
+            "sent4": "His words seemed to registers in her mind long after he had spoken.",
+            "sent5": "The cashier quickly registers the total amount of the purchase on the cash register."
         },
         {
             "definition": "To adjust or regulate the operation of a device or system.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He carefully registers the thermostat to keep the room warm.",
+            "sent2": "The mechanic needs to registers the engine to improve its performance.",
+            "sent3": "The robot tried to registers its movements to avoid bumping into walls.",
+            "sent4": "Her soothing voice seemed to registers the tension in the room.",
+            "sent5": "The conductor registers the speed of the train to ensure a safe journey."
         },
         {
             "definition": "To show a particular quality or characteristic.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "His smile registers genuine happiness.",
+            "sent2": "The artist's style registers a sense of freedom and creativity.",
+            "sent3": "The cake registers a perfect balance of sweetness and flavor.",
+            "sent4": "The music registers a sense of nostalgia and longing.",
+            "sent5": "Her eyes registers a deep sense of sorrow and regret."
         }
     ]
 }

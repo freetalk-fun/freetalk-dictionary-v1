@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "The act or process of calculating or determining something",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "My teacher explained the computation of our math problem step by step.",
+            "sent2": "The computation of the total cost took longer than expected.",
+            "sent3": "During the computation of my expenses, I realized I spent too much on snacks.",
+            "sent4": "The computation of her emotions was complex, like solving a puzzle.",
+            "sent5": "The precise computation of the recipe's ingredients made the dish delicious."
         },
         {
             "definition": "A result of calculating or determining something",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The final computation showed that we had enough money to buy the tickets.",
+            "sent2": "Her computation of the measurements was accurate.",
+            "sent3": "The unexpected computation of the test scores left the students pleasantly surprised.",
+            "sent4": "The computation of his efforts resulted in a successful project.",
+            "sent5": "The computation of the distance between the two cities was crucial for planning the road trip."
         }
     ]
 }

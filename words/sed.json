@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Past tense of 'sit'",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Yesterday, I sed on the bench at the park.",
+            "sent2": "I sed down on the chair to rest my legs.",
+            "sent3": "The tired cat sed on the warm blanket and fell asleep.",
+            "sent4": "As the sun set, the old man sed on the porch, reminiscing about his youth.",
+            "sent5": "The children sed in a circle, listening intently to the storyteller."
         },
         {
             "definition": "Abbreviation for 'sediment'",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The river carried sed downstream, leaving behind rich soil.",
+            "sent2": "After the storm, the lake was filled with sed at the bottom.",
+            "sent3": "The archaeologists carefully sifted through the sed to find ancient artifacts.",
+            "sent4": "Over time, the layers of sed formed a beautiful pattern in the rock.",
+            "sent5": "The sed settled at the bottom of the glass, creating a murky layer."
         },
         {
             "definition": "Abbreviation for 'sedative'",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The doctor prescribed a sed to help the patient relax before the surgery.",
+            "sent2": "She took a sed before the flight to calm her nerves.",
+            "sent3": "The anxious dog was given a sed to help him sleep through the night.",
+            "sent4": "The soothing music acted as a natural sed for the troubled mind.",
+            "sent5": "The gentle waves lapping against the shore had a sedative effect on the beachgoers."
         }
     ]
 }

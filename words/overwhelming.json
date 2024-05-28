@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Very great in amount or intensity",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The amount of homework was overwhelming for the students.",
+            "sent2": "The storm's overwhelming force knocked down trees.",
+            "sent3": "The overwhelming smell of fresh cookies made everyone hungry.",
+            "sent4": "The overwhelming heat of the desert made it hard to breathe.",
+            "sent5": "The overwhelming joy of winning the game brought tears to their eyes."
         },
         {
             "definition": "Defeat completely",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The army planned to overwhelming their enemy in battle.",
+            "sent2": "The boxer's powerful punch overwhelming his opponent.",
+            "sent3": "The chess player used a surprising move to overwhelming his opponent.",
+            "sent4": "The virus overwhelming the body's immune system.",
+            "sent5": "The floodwaters overwhelming the small town, causing widespread damage."
         },
         {
             "definition": "Cause someone to feel strong emotion",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The touching movie scene overwhelming the audience with emotion.",
+            "sent2": "The unexpected news overwhelming her with happiness.",
+            "sent3": "The surprise party overwhelming him with excitement.",
+            "sent4": "The beautiful sunset overwhelming them with awe.",
+            "sent5": "The heartfelt letter overwhelming her with gratitude."
         }
     ]
 }

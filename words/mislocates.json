@@ -2,12 +2,22 @@
     "term": "mislocates",
     "meanings": [
         {
-            "definition": "Mislocates: to place or position incorrectly",
-            "pos": "verb"
+            "definition": "to place or position incorrectly",
+            "pos": "verb",
+            "sent1": "She mislocates her keys often, causing delays in leaving the house.",
+            "sent2": "The robot mislocates objects due to a programming error.",
+            "sent3": "The magician mislocates the rabbit, making the audience laugh.",
+            "sent4": "His sense of direction mislocates like a broken compass in a storm.",
+            "sent5": "The map mislocates the treasure, leading the adventurers astray."
         },
         {
-            "definition": "Mislocates: incorrectly placed or positioned",
-            "pos": "adjective"
+            "definition": "incorrectly placed or positioned",
+            "pos": "adjective",
+            "sent1": "The mislocates book was hard to find on the shelf.",
+            "sent2": "The mislocates sign confused the visitors at the museum.",
+            "sent3": "The mislocates puzzle pieces made completing the picture a challenge.",
+            "sent4": "Her mislocates chair wobbled on the uneven floor.",
+            "sent5": "The mislocates painting hung crookedly on the wall."
         }
     ]
 }

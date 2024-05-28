@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Any one out of all possible options",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "You can choose whichever you like from the menu.",
+            "sent2": "I will take whichever book you recommend.",
+            "sent3": "The cat can sleep in whichever box it pleases.",
+            "sent4": "The treasure could be hidden in whichever corner of the room.",
+            "sent5": "Whichever path you take, make sure it leads you to happiness."
         },
         {
             "definition": "Used to introduce a choice between two or more alternatives",
-            "pos": "conjunction"
+            "pos": "conjunction",
+            "sent1": "You can have tea or coffee, whichever you prefer.",
+            "sent2": "She can go to the park or stay home, whichever she decides.",
+            "sent3": "I will dance at the party, whichever song plays.",
+            "sent4": "He will be happy, whichever team wins the game.",
+            "sent5": "Whichever way the wind blows, we will face it together."
         }
     ]
 }

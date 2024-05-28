@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "An entry recording a sum owed",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I made a debit in my ledger for the money I owe.",
+            "sent2": "The accountant recorded the debit in the financial statement.",
+            "sent3": "The debit in my account made me realize I need to budget better.",
+            "sent4": "The debit in my balance sheet highlighted my outstanding debts.",
+            "sent5": "The debit in my records stood out as a reminder of my financial obligations."
         },
         {
             "definition": "To remove money from an account",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I need to debit $50 from my savings for the bill.",
+            "sent2": "Remember to debit the correct amount when making a withdrawal.",
+            "sent3": "I accidentally debited too much and now my account is empty.",
+            "sent4": "She had to debit her account to pay for the unexpected expense.",
+            "sent5": "The cashier will debit your account for the purchase you made."
         },
         {
             "definition": "A payment made or owed",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The monthly debit for my car loan is due tomorrow.",
+            "sent2": "I received a notification about the upcoming debit from my bank.",
+            "sent3": "The unexpected debit caught me off guard this month.",
+            "sent4": "The automatic debit for my subscription renewed without any issues.",
+            "sent5": "I always check my bank statement for any unusual debits."
         }
     ]
 }

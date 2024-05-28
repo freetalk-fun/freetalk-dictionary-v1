@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Convert (an image or graphic) into pixels for display on a screen.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She was rasterising the picture to show it on the computer.",
+            "sent2": "The designer spent hours rasterising the logo for the website.",
+            "sent3": "When the artist tried rasterising the painting, it looked like a bunch of tiny squares!",
+            "sent4": "The process of rasterising the image transformed it into a digital mosaic.",
+            "sent5": "Rasterising the photo made each detail sharp and clear on the monitor."
         },
         {
             "definition": "The process of converting vector graphics into raster graphics.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The rasterising of the design enhanced its quality for printing.",
+            "sent2": "During the rasterising, the image lost its scalability but gained detail.",
+            "sent3": "The sudden rasterising of the illustration surprised the graphic designer.",
+            "sent4": "The rasterising of the logo turned it into a fixed-size image.",
+            "sent5": "The artist's rasterising of the artwork made it suitable for digital use."
         }
     ]
 }

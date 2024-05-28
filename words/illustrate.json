@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To provide visual representation or explanation.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She used colorful drawings to illustrate her story.",
+            "sent2": "The teacher used a whiteboard to illustrate the math problem.",
+            "sent3": "The artist tried to illustrate a banana wearing sunglasses.",
+            "sent4": "Her smile illustrated her happiness better than any words could.",
+            "sent5": "The fireworks in the sky illustrated a beautiful display of colors."
         },
         {
             "definition": "To clarify or make something clear by using examples or pictures.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The diagram will illustrate how the machine works.",
+            "sent2": "Can you illustrate your point with a real-life example?",
+            "sent3": "The chef tried to illustrate a recipe using only emojis.",
+            "sent4": "His actions illustrate his dedication to the cause.",
+            "sent5": "The map will illustrate the route we need to take for our road trip."
         }
     ]
 }

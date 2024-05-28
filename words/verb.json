@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A word used to describe an action, state, or occurrence.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "In the sentence, the word 'run' is a verb.",
+            "sent2": "She quickly understood the meaning of the verb 'jump'.",
+            "sent3": "The verb 'swim' always reminds me of summer days at the pool.",
+            "sent4": "His actions spoke louder than any verb could.",
+            "sent5": "The verb 'eat' makes me think of delicious food."
         },
         {
             "definition": "To express an action, state, or occurrence.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I verb my thoughts through writing.",
+            "sent2": "They verb their love through acts of kindness.",
+            "sent3": "The cat decided to verb its displeasure by knocking over a vase.",
+            "sent4": "Her smile could verb more than any words ever could.",
+            "sent5": "The wind seemed to verb through the trees, whispering secrets."
         }
     ]
 }

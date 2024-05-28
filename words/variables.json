@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Able or likely to vary or change",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The weather in spring is very variables.",
+            "sent2": "Her mood was variables throughout the day.",
+            "sent3": "The cat's interest in the toy was variables, now it's playing, now it's sleeping.",
+            "sent4": "The artist used a variables color palette to create a dynamic painting.",
+            "sent5": "The variables nature of the stock market makes it unpredictable."
         },
         {
             "definition": "A quantity that can assume any of a set of values",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "In math class, we learned about different variables in equations.",
+            "sent2": "The variables in the experiment were carefully controlled.",
+            "sent3": "The chef added variables amounts of spice to the dish, making it unique.",
+            "sent4": "Her emotions were like variables in a mathematical equation, always changing.",
+            "sent5": "The variables in the study allowed for a range of outcomes."
         },
         {
             "definition": "A symbol representing a quantity that can vary",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The scientist used variables to represent unknown values in the formula.",
+            "sent2": "In programming, variables are used to store changing data.",
+            "sent3": "The magician waved his wand, chanting variables incantations.",
+            "sent4": "Her smile was like a variables, changing with each passing moment.",
+            "sent5": "The variables in the equation made it challenging to solve."
         }
     ]
 }

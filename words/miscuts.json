@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To cut or shape (something) incorrectly or badly.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She always miscuts the paper when trying to make origami.",
+            "sent2": "The tailor miscuts the fabric, causing the dress to fit poorly.",
+            "sent3": "The chef miscuts the vegetables, turning them into funny shapes.",
+            "sent4": "His attempt to fix the shelf miscuts the wood, leaving it uneven.",
+            "sent5": "The barber miscuts the hair, resulting in an uneven haircut."
         },
         {
             "definition": "A piece of film or tape that has been cut or damaged during production.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The director was frustrated when he discovered several miscuts in the final edit.",
+            "sent2": "The editor had to fix the miscuts in the film before it could be released.",
+            "sent3": "The miscuts in the movie made the characters' actions seem confusing.",
+            "sent4": "The miscuts in the tape caused the audio to skip in certain parts.",
+            "sent5": "The miscuts in the film were noticeable to the audience during the screening."
         }
     ]
 }

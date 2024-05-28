@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Contaminate or pollute",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The dirty water will taint the clean stream.",
+            "sent2": "It is important not to taint the food with harmful bacteria.",
+            "sent3": "I accidentally taint the soup with too much salt, making it inedible.",
+            "sent4": "The negative news seemed to taint the atmosphere of the room.",
+            "sent5": "The graffiti taints the beauty of the historic building."
         },
         {
             "definition": "A trace of a bad or undesirable quality",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "There was a taint of dishonesty in his explanation.",
+            "sent2": "The taint of corruption lingered in the government.",
+            "sent3": "The taint of burnt popcorn filled the room after a kitchen mishap.",
+            "sent4": "The taint of jealousy colored her words with bitterness.",
+            "sent5": "The taint of smoke clung to his clothes after the bonfire."
         },
         {
             "definition": "To affect with a trace of something bad or undesirable",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "His negative attitude can taint the whole team.",
+            "sent2": "Gossip can easily taint someone's reputation.",
+            "sent3": "The mischievous cat managed to taint the freshly painted wall.",
+            "sent4": "The scandal taints the image of the company.",
+            "sent5": "The false accusation taints the trust between friends."
         }
     ]
 }

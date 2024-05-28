@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To change direction suddenly",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The car swerved to avoid hitting the animal.",
+            "sent2": "The driver swerved to avoid a pothole on the road.",
+            "sent3": "The squirrel swerved comically to dodge the falling acorn.",
+            "sent4": "Her thoughts swerved from the meeting to her upcoming vacation.",
+            "sent5": "The skateboarder swerved gracefully around the obstacle."
         },
         {
             "definition": "To turn aside abruptly from a straight line or course",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The cyclist swerved to avoid the pedestrian on the sidewalk.",
+            "sent2": "The airplane swerved to avoid a flock of birds.",
+            "sent3": "The cat swerved playfully to chase after the laser pointer.",
+            "sent4": "His speech swerved into a tangent about his favorite movie.",
+            "sent5": "The river swerved sharply around the bend."
         }
     ]
 }

@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A rough calculation or guess.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "My estimate of how many jellybeans are in the jar was way off.",
+            "sent2": "The teacher asked the students to make an estimate of the distance between two cities.",
+            "sent3": "I made an estimate of how many cookies I could eat in one sitting, and it was too many.",
+            "sent4": "Her estimate of the time it would take to finish the project was surprisingly accurate.",
+            "sent5": "The estimate of the cost for the repair was higher than expected."
         },
         {
             "definition": "To roughly calculate or guess the value, number, quantity, or extent of something.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I estimate that it will take us about an hour to reach the destination.",
+            "sent2": "She estimated the number of balloons needed for the party to be around fifty.",
+            "sent3": "The detective tried to estimate the height of the suspect based on the door frame.",
+            "sent4": "He estimated the amount of paint required for the room by eyeing the walls.",
+            "sent5": "The chef estimated the cooking time for the roast by the color of the meat."
         }
     ]
 }

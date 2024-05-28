@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To slow down or reduce speed.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The car decelerates when approaching a red light.",
+            "sent2": "She decelerates her bike before making a sharp turn.",
+            "sent3": "The snail decelerates to enjoy the view of the garden.",
+            "sent4": "Time seems to decelerate when waiting for something exciting.",
+            "sent5": "The parachute decelerates the skydiver's fall, ensuring a safe landing."
         },
         {
             "definition": "Slowing down or reducing speed.",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "The car moves decelerates on the icy road.",
+            "sent2": "She skated decelerates to avoid crashing into the wall.",
+            "sent3": "The sloth climbs decelerates up the tree, taking its time.",
+            "sent4": "The music gradually decelerates, creating a calming effect.",
+            "sent5": "The airplane decelerates smoothly before landing on the runway."
         }
     ]
 }

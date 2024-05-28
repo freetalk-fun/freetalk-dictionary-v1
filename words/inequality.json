@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "The condition of being unequal.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The inequality in the distribution of toys caused a dispute among the children.",
+            "sent2": "There is a noticeable inequality in the salaries of employees at the company.",
+            "sent3": "The inequality in the number of cookies each person received at the party led to some playful teasing.",
+            "sent4": "The inequality in the amount of sunlight the plants received resulted in uneven growth.",
+            "sent5": "The stark inequality in the sizes of the houses made the neighborhood look unbalanced."
         },
         {
             "definition": "Lack of equality in opportunity or treatment.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The inequality in access to education is a pressing issue in many communities.",
+            "sent2": "The campaign aims to address the inequality faced by marginalized groups in society.",
+            "sent3": "The inequality in the availability of snacks at the party made some guests feel left out.",
+            "sent4": "The inequality in the distribution of resources highlighted the need for fair policies.",
+            "sent5": "The stark inequality in healthcare access was evident in the long wait times at the clinic."
         },
         {
             "definition": "A difference in size, degree, or circumstances.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "There was an inequality in the heights of the students in the class.",
+            "sent2": "The inequality in the temperatures between day and night was quite significant.",
+            "sent3": "The inequality in the number of pages each student had to read for homework was surprising.",
+            "sent4": "The inequality in the colors of the flowers created a beautiful contrast in the garden.",
+            "sent5": "The stark inequality in the sizes of the waves made surfing challenging for beginners."
         }
     ]
 }

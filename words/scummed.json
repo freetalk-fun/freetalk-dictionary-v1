@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Covered with scum",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The pond water looked dirty and scummed.",
+            "sent2": "The bathtub was scummed after not being cleaned for weeks.",
+            "sent3": "The scummed surface of the soup made it unappetizing.",
+            "sent4": "The scummed windows blocked the sunlight from entering the room.",
+            "sent5": "The scummed layer on the pond was thick and unpleasant to touch."
         },
         {
             "definition": "To remove scum from",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She scummed the surface of the soup before serving it.",
+            "sent2": "The maid scummed the bathtub until it sparkled.",
+            "sent3": "He scummed the kitchen counter with a sponge.",
+            "sent4": "The chef scummed the top of the stew to make it look more appetizing.",
+            "sent5": "They scummed the oil off the surface of the soup with a ladle."
         },
         {
             "definition": "To become covered with scum",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Over time, the water in the vase scummed and turned green.",
+            "sent2": "If you leave the milk out too long, it will scummed.",
+            "sent3": "The pond scummed quickly due to the warm weather.",
+            "sent4": "The bathtub scummed up after a few days of not being cleaned.",
+            "sent5": "The pot scummed as the liquid evaporated, leaving behind residue."
         }
     ]
 }

@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Proven to be genuine or true",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The signature on the document was authenticated by the expert.",
+            "sent2": "The certificate came with an authenticated stamp to show its validity.",
+            "sent3": "The detective authenticated the suspect's alibi with solid evidence.",
+            "sent4": "Her smile authenticated her happiness more than any words could.",
+            "sent5": "The ancient artifact's age was authenticated by carbon dating."
         },
         {
             "definition": "Verified as legitimate or valid",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The website required an authenticated login to access sensitive information.",
+            "sent2": "The authenticated ticket allowed entry into the exclusive event.",
+            "sent3": "The magician's hat seemed to have an authenticated rabbit inside!",
+            "sent4": "His actions authenticated his loyalty to the team.",
+            "sent5": "The official stamp authenticated the document as genuine."
         }
     ]
 }

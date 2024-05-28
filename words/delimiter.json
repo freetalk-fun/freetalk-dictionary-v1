@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A character or sequence of characters used to separate and distinguish items within a data set.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The comma is a common delimiter in CSV files.",
+            "sent2": "The delimiter in this dataset is a semicolon.",
+            "sent3": "The delimiter decided to take a break from separating data.",
+            "sent4": "The delimiter acted like a traffic cop, directing the flow of information.",
+            "sent5": "The delimiter is like a gatekeeper, ensuring each item enters the dataset correctly."
         },
         {
             "definition": "A symbol or character used to mark the beginning or end of a section of text.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The quotation marks serve as a delimiter for the dialogue.",
+            "sent2": "The delimiter at the end of the paragraph is a period.",
+            "sent3": "The delimiter at the start of the story was a bolded word.",
+            "sent4": "The delimiter was like a flag signaling the start of a new section.",
+            "sent5": "The delimiter is like a bookmark, indicating where the text begins or ends."
         },
         {
             "definition": "A punctuation mark used to separate elements in a list or series.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The colon is a common delimiter in time expressions.",
+            "sent2": "The delimiter between the items is a hyphen.",
+            "sent3": "The delimiter between the words decided to dance.",
+            "sent4": "The delimiter functioned like a gate, allowing only one element through at a time.",
+            "sent5": "The delimiter is like a bridge, connecting each element in the list."
         }
     ]
 }

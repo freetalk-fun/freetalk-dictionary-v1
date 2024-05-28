@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Superlative form of 'fly'",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The fliest bird in the sky was the fastest.",
+            "sent2": "The blue jay was the fliest bird in the forest.",
+            "sent3": "The fliest butterfly in the garden danced gracefully in the sunlight.",
+            "sent4": "Her kite soared high like the fliest bird in the air.",
+            "sent5": "The superhero's cape billowed behind him like the fliest flag in the wind."
         },
         {
             "definition": "Superlative form of 'flee'",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "When danger approached, she fliest away to safety.",
+            "sent2": "The rabbit fliest from the fox to avoid being caught.",
+            "sent3": "The squirrel fliest up the tree when the dog barked loudly.",
+            "sent4": "He fliest from his responsibilities like a bird escaping its cage.",
+            "sent5": "The deer fliest through the forest, leaving the predator far behind."
         }
     ]
 }

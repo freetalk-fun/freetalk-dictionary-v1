@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Change or cause to change in form, character, or function",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She converts the old shed into a cozy reading nook.",
+            "sent2": "He converts sunlight into electricity using solar panels.",
+            "sent3": "The magician converts a hat into a rabbit, much to the audience's delight.",
+            "sent4": "Time converts memories into stories we tell ourselves.",
+            "sent5": "The artist converts emotions into beautiful paintings that touch the soul."
         },
         {
             "definition": "A person who has been persuaded to change their religious faith or other beliefs",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "My friend Sarah is a recent convert to Buddhism.",
+            "sent2": "The preacher welcomed the new convert with open arms.",
+            "sent3": "The convert joked that they used to be a 'non-believer' in coffee until they tried a latte.",
+            "sent4": "She was a convert to the idea of meditation after experiencing its calming effects.",
+            "sent5": "The convert found solace in their new beliefs, feeling a sense of peace."
         },
         {
             "definition": "A person who has been converted to another purpose or use",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The old factory was now a convert into a trendy art gallery.",
+            "sent2": "He was a convert of his garage into a home gym.",
+            "sent3": "The convert of the spare room into a home office made working from home much more enjoyable.",
+            "sent4": "The backyard shed was a convert into a cozy guest cottage for visitors.",
+            "sent5": "The convert of the abandoned building into a community center brought new life to the neighborhood."
         }
     ]
 }

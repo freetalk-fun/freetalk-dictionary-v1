@@ -3,23 +3,48 @@
     "meanings": [
         {
             "definition": "A band of material worn around the neck.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "She wore a shiny collar with a bell attached.",
+            "sent2": "The dog's collar had his name and phone number on it.",
+            "sent3": "The cat thought the collar was a new toy to play with.",
+            "sent4": "The collar of the shirt hugged his neck like a protective shield.",
+            "sent5": "The collar felt snug and comforting against her skin."
         },
         {
             "definition": "To seize or detain someone.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The police officer had to collar the thief before he could escape.",
+            "sent2": "He tried to collar the runaway horse in the field.",
+            "sent3": "She jokingly threatened to collar her friend for being late again.",
+            "sent4": "The security guard managed to collar the shoplifter before he left the store.",
+            "sent5": "The cowboy skillfully collared the calf during the rodeo competition."
         },
         {
             "definition": "To arrest or apprehend someone.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The detective planned to collar the suspect at the train station.",
+            "sent2": "The police officer collared the criminal after a long chase.",
+            "sent3": "The kids played a game of tag where they had to collar each other.",
+            "sent4": "The undercover agent collared the spy without raising any suspicion.",
+            "sent5": "The superhero managed to collar the villain before he could escape."
         },
         {
             "definition": "To stop or restrain someone.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She had to collar her friend to prevent him from running into danger.",
+            "sent2": "The coach had to collar the player to calm him down during the game.",
+            "sent3": "The teacher had to collar the students to maintain order in the classroom.",
+            "sent4": "The bouncer collared the troublemaker before things escalated further.",
+            "sent5": "The parent had to collar the child to keep them from wandering off in the park."
         },
         {
             "definition": "To take control or responsibility for something.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He decided to collar the project and ensure its success.",
+            "sent2": "The manager had to collar the situation before it spiraled out of control.",
+            "sent3": "She had to collar the household chores while her parents were away.",
+            "sent4": "The team leader collared the new task with enthusiasm and determination.",
+            "sent5": "The captain collared the responsibility of leading the team to victory."
         }
     ]
 }

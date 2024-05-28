@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "The property of a relation that holds when it can be applied to three elements such that if it can be applied to the first two elements, it can also be applied to the second and third elements.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Understanding transitivity in math means if A is related to B and B is related to C, then A is related to C.",
+            "sent2": "In logic, transitivity helps us make conclusions based on the relationships between different elements.",
+            "sent3": "The transitivity of the relationship between cats and mice led to a comical chase around the house.",
+            "sent4": "The transitivity of trust is like a chain - once broken, it's hard to mend.",
+            "sent5": "The transitivity of heat transfer can be seen in how warmth spreads from a hot cup of tea to your hands."
         },
         {
             "definition": "The quality of being transitive, especially in grammar or logic.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The transitivity of verbs in English helps us understand the relationships between different parts of a sentence.",
+            "sent2": "Grammar rules rely on the transitivity of verbs to determine sentence structure.",
+            "sent3": "The transitivity of the teacher's instructions left the students confused but entertained.",
+            "sent4": "In logic, the transitivity of statements allows us to draw valid conclusions from given premises.",
+            "sent5": "The transitivity of emotions can be complex, as feelings often influence one another in unexpected ways."
         }
     ]
 }

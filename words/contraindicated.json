@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To make something inadvisable or unsuitable",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Eating ice cream before bed is contraindicated for a good night's sleep.",
+            "sent2": "Running in the rain is contraindicated due to the slippery conditions.",
+            "sent3": "It's contraindicated to wear a swimsuit in the snow!",
+            "sent4": "For a successful hike, it's contraindicated to carry a heavy backpack.",
+            "sent5": "Ignoring safety warnings is contraindicated when using power tools."
         },
         {
             "definition": "Not recommended or advised",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "Wearing sandals in the snow is contraindicated.",
+            "sent2": "Skipping breakfast is contraindicated for a healthy start to the day.",
+            "sent3": "It's contraindicated to bring a beach umbrella to a movie theater.",
+            "sent4": "His contraindicated decision to swim in shark-infested waters led to trouble.",
+            "sent5": "Wearing sunglasses at night is contraindicated for clear vision."
         },
         {
             "definition": "To indicate that a particular treatment or procedure should not be used",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The doctor contraindicated surgery for the patient's minor injury.",
+            "sent2": "In certain cases, antibiotics are contraindicated for viral infections.",
+            "sent3": "It would be contraindicated to use a flamethrower to light birthday candles.",
+            "sent4": "The teacher contraindicated using calculators during the math test.",
+            "sent5": "For this condition, exercise is contraindicated until further evaluation."
         }
     ]
 }

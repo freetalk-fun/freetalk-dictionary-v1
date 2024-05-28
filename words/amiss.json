@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Not right; wrong.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "Something seems amiss with the puzzle piece.",
+            "sent2": "It is amiss to cheat on a test.",
+            "sent3": "The clown's amiss shoe made everyone laugh.",
+            "sent4": "Her amiss decision led to a chain of unfortunate events.",
+            "sent5": "The dark clouds signaled something amiss in the sky."
         },
         {
             "definition": "In a mistaken or inappropriate way.",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "She looked at the map amiss and got lost.",
+            "sent2": "He took the criticism amiss and felt hurt.",
+            "sent3": "The robot danced amiss to the music.",
+            "sent4": "The student's answer was amiss, like a broken clock.",
+            "sent5": "The cat meowed amiss, confusing its owner."
         },
         {
             "definition": "In a faulty or imperfect way.",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "The clock ticked amiss, skipping a beat.",
+            "sent2": "The machine was functioning amiss due to a loose screw.",
+            "sent3": "The cake baked amiss, but still tasted good.",
+            "sent4": "His plan went amiss like a ship without a compass.",
+            "sent5": "The painting hung amiss on the crooked wall."
         }
     ]
 }

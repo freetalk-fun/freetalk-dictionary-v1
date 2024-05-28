@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "In a manner showing lack of skill or ability.",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "He performed the task incompetently, making many mistakes.",
+            "sent2": "She spoke incompetently during the presentation, stumbling over her words.",
+            "sent3": "The magician incompetently pulled a rabbit out of his hat, but it turned out to be a rubber duck.",
+            "sent4": "The detective incompetently followed the wrong suspect, leading to a comical mix-up.",
+            "sent5": "The chef incompetently burned the dish, creating a cloud of smoke in the kitchen."
         },
         {
             "definition": "In a way that is not capable or qualified.",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "The employee answered the phone incompetently, giving incorrect information to the caller.",
+            "sent2": "The driver navigated the busy streets incompetently, causing a traffic jam.",
+            "sent3": "The robot tried to dance incompetently, moving in a jerky and awkward manner.",
+            "sent4": "The student attempted the experiment incompetently, resulting in a small explosion.",
+            "sent5": "The actor delivered his lines incompetently, forgetting his cues and lines on stage."
         }
     ]
 }

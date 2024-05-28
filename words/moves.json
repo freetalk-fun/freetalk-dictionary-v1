@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To change position or go from one place to another.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The cat moves quickly across the room.",
+            "sent2": "She moves her chair closer to the table.",
+            "sent3": "The toy car moves so fast, it's like a little race car!",
+            "sent4": "Time moves like a river, always flowing forward.",
+            "sent5": "The dancer's graceful moves captivated the audience."
         },
         {
             "definition": "To take action or make a decision.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He moves to help whenever someone is in need.",
+            "sent2": "The team moves swiftly to implement the new strategy.",
+            "sent3": "Her moves to organize the event were impressive.",
+            "sent4": "The CEO's bold moves transformed the company.",
+            "sent5": "The detective's moves led to solving the case."
         },
         {
             "definition": "An act or gesture made to express a feeling or intention.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "His moves showed his gratitude towards her.",
+            "sent2": "The politician's moves were carefully calculated.",
+            "sent3": "The penguin's cute moves made everyone smile.",
+            "sent4": "Her moves on the dance floor were full of emotion.",
+            "sent5": "The player's strategic moves surprised the opponent."
         }
     ]
 }

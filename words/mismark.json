@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To mark incorrectly or inaccurately.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I mismark the answer on my test and got it wrong.",
+            "sent2": "Please be careful not to mismark the boxes with the wrong labels.",
+            "sent3": "During the game, I accidentally mismark the score and caused confusion.",
+            "sent4": "Her laughter seemed to mismark the seriousness of the situation.",
+            "sent5": "The artist's shaky hand would often mismark the canvas with unintended strokes."
         },
         {
             "definition": "A mark that is incorrect or inaccurate.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The mismark on the map led us in the wrong direction.",
+            "sent2": "He noticed a mismark on the document that needed correction.",
+            "sent3": "The mismark on the ruler made the measurements all wrong.",
+            "sent4": "The old building bore the mismark of time with its faded paint.",
+            "sent5": "The mismark on the wall indicated where the painting should hang."
         }
     ]
 }

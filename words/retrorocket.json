@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A rocket engine that is used to slow down a spacecraft or missile by firing in the direction opposite to its motion.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The retrorocket on the spaceship helped it stop safely.",
+            "sent2": "The retrorocket was crucial for the spacecraft's landing.",
+            "sent3": "The retrorocket decided to take a break after working hard all day.",
+            "sent4": "The retrorocket roared to life, pushing the spacecraft back.",
+            "sent5": "With a deafening roar, the retrorocket slowed the missile's descent."
         },
         {
             "definition": "To slow down a spacecraft or missile by firing a retrorocket.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The pilot had to retrorocket to land smoothly.",
+            "sent2": "They retrorocketed just in time to avoid a collision.",
+            "sent3": "The astronaut retrorocketed playfully during training.",
+            "sent4": "Her decision to retrorocket saved the mission from disaster.",
+            "sent5": "He retrorocketed with precision, impressing the control team."
         }
     ]
 }

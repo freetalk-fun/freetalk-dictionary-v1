@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A thick, solid piece of something",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "She bit into the chocolate bar and tasted the sweet chunks.",
+            "sent2": "The soup was filled with delicious vegetable chunks.",
+            "sent3": "The cat played with the yarn, unraveling it into messy chunks.",
+            "sent4": "His heart felt like it was breaking into tiny emotional chunks.",
+            "sent5": "The rocks in the cave formed rough, jagged chunks."
         },
         {
             "definition": "A large amount or portion of something",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "He ate a huge chunk of the cake at the party.",
+            "sent2": "The company invested a significant chunk of money in research.",
+            "sent3": "The kids were thrilled to receive a big chunk of candy on Halloween.",
+            "sent4": "Her schedule was filled with a massive chunk of meetings.",
+            "sent5": "The storm clouds covered a vast chunk of the sky."
         },
         {
             "definition": "To break or divide into large pieces or chunks",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She carefully chunks the vegetables before adding them to the stew.",
+            "sent2": "The lumberjack chunks the logs with precision and strength.",
+            "sent3": "He chunks the clay into different shapes for his pottery project.",
+            "sent4": "The demolition crew will chunk the old building into manageable pieces.",
+            "sent5": "The chef chunks the meat for the stir-fry, ensuring even cooking."
         }
     ]
 }

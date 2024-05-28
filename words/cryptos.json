@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Hidden or secret",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The treasure map led us to a cryptos cave filled with hidden gems.",
+            "sent2": "She kept her diary in a cryptos drawer under her bed.",
+            "sent3": "The cryptos surprise party was a success, and everyone had a great time.",
+            "sent4": "His cryptos smile gave away his excitement about the surprise.",
+            "sent5": "The cryptos message was written in invisible ink, waiting to be revealed."
         },
         {
             "definition": "Cryptocurrency",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Investing in cryptos can be risky but rewarding.",
+            "sent2": "He bought some cryptos to diversify his investment portfolio.",
+            "sent3": "The thief tried to steal the cryptos, but the security system caught him.",
+            "sent4": "The value of cryptos soared, making many investors happy.",
+            "sent5": "She used cryptos to make online purchases securely and anonymously."
         },
         {
             "definition": "Cryptography",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The spy used advanced cryptos to encode his secret messages.",
+            "sent2": "Studying cryptos helps in understanding secure communication methods.",
+            "sent3": "The cryptos class was challenging but fascinating.",
+            "sent4": "The ancient cryptos techniques were still effective in protecting information.",
+            "sent5": "The book explained the history and importance of cryptos in modern technology."
         }
     ]
 }

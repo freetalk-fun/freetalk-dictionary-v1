@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A chemical element with the symbol S and atomic number 16.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Sulphur is an element found in nature.",
+            "sent2": "The scientist studied the properties of sulphur in the lab.",
+            "sent3": "The smell of sulphur in the air reminded me of rotten eggs.",
+            "sent4": "Her anger was like sulphur, burning everything in its path.",
+            "sent5": "The bright yellow colour of sulphur made it easy to identify."
         },
         {
             "definition": "A yellow crystalline solid with a strong odor, used in making matches and gunpowder.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The sulphur in the match head helped ignite the flame.",
+            "sent2": "The miners extracted sulphur from deep underground.",
+            "sent3": "The chef accidentally added too much sulphur to the dish, creating a foul smell.",
+            "sent4": "The sulphur scent lingered in the room long after the fireworks had ended.",
+            "sent5": "The pungent smell of sulphur filled the air near the volcano."
         },
         {
             "definition": "To treat or impregnate with sulphur.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Farmers sulphur their crops to protect them from pests.",
+            "sent2": "The old book recommended sulphuring the wine barrels for preservation.",
+            "sent3": "She joked that she would sulphur her shoes to keep them fresh forever.",
+            "sent4": "The idea of sulphuring the clothes to repel moths seemed strange but effective.",
+            "sent5": "The tradition of sulphuring the well water was passed down for generations."
         }
     ]
 }

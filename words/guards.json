@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A person who protects or keeps watch over someone or something.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The guards at the palace ensure the safety of the royal family.",
+            "sent2": "The security guards patrolled the museum to prevent theft.",
+            "sent3": "The guards at the zoo had to chase after a mischievous monkey.",
+            "sent4": "The thick walls acted as guards against the harsh winter winds.",
+            "sent5": "The guards stood tall and vigilant at the entrance, ready to defend."
         },
         {
             "definition": "A device or piece of equipment used to protect or cover something.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The phone case serves as a guard to protect the screen.",
+            "sent2": "The goalie's gloves are important guards in soccer.",
+            "sent3": "The umbrella acted as a guard against the rain during the storm.",
+            "sent4": "The password is a guard that keeps your information safe.",
+            "sent5": "The fence acts as a guard to keep the garden safe from animals."
         },
         {
             "definition": "To watch over or protect someone or something.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The dog guards the house while the family is away.",
+            "sent2": "She guards her little brother when they play in the park.",
+            "sent3": "The cat guards the fishbowl, eyeing the swimming fish.",
+            "sent4": "The knight guards the castle with unwavering loyalty.",
+            "sent5": "The lifeguard guards the pool, ensuring everyone's safety."
         }
     ]
 }

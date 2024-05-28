@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A small, simple, single-story building",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The old man built a hut in the woods.",
+            "sent2": "The hut by the lake looked cozy and inviting.",
+            "sent3": "The squirrel found the tiny hut amusing and explored it curiously.",
+            "sent4": "In the vast desert, the hut stood like a lone island in a sea of sand.",
+            "sent5": "The hut's thatched roof and wooden walls made it a quaint shelter."
         },
         {
             "definition": "To live in a hut",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The hermit chose to hut in the mountains away from the city.",
+            "sent2": "They decided to hut by the beach for the summer.",
+            "sent3": "It might be fun to hut in a treehouse for a change.",
+            "sent4": "She dreams of hutting in a cabin deep in the forest one day.",
+            "sent5": "The nomadic tribe would hut wherever they found suitable land."
         },
         {
             "definition": "To shelter in a hut",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "During the storm, we had to hut in the small cabin for safety.",
+            "sent2": "The travelers huted in the makeshift shelter until the rain stopped.",
+            "sent3": "Let's hut in the hut until the sun comes out again.",
+            "sent4": "The lost hiker was grateful to hut in the hunter's cabin overnight.",
+            "sent5": "The animals sought to hut in the warm barn during the cold winter nights."
         }
     ]
 }

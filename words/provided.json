@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "On the condition or understanding that",
-            "pos": "preposition"
+            "pos": "preposition",
+            "sent1": "You can go outside, provided you wear your coat.",
+            "sent2": "You can play with your toys, provided you clean them up afterward.",
+            "sent3": "The cat will only come inside, provided you give it treats.",
+            "sent4": "The car will start, provided you turn the key in the ignition.",
+            "sent5": "You can have dessert, provided you finish your vegetables first."
         },
         {
             "definition": "Supply with what is needed or required",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She provided snacks for the party.",
+            "sent2": "The teacher provided pencils for the students.",
+            "sent3": "The kind neighbor provided help when the car broke down.",
+            "sent4": "The store provided fresh produce for the customers.",
+            "sent5": "The company provided training for the new employees."
         },
         {
             "definition": "Furnish or supply (someone) with something",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The hotel provided towels for the guests.",
+            "sent2": "The restaurant provided menus for the customers.",
+            "sent3": "The library provided books for the community.",
+            "sent4": "The school provided laptops for the students.",
+            "sent5": "The hospital provided care for the patients."
         }
     ]
 }

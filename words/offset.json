@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To counterbalance or compensate for something",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She tried to offset her carbon footprint by planting trees.",
+            "sent2": "Eating a healthy breakfast can help offset the effects of a late night.",
+            "sent3": "The cat tried to offset its weight by sitting on the other side of the scale.",
+            "sent4": "His kindness offset the harsh words spoken by his colleague.",
+            "sent5": "The extra exercise offset the indulgent dessert she had."
         },
         {
             "definition": "A position or value that is used as a starting point for comparison",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The teacher used the average score as an offset for grading the tests.",
+            "sent2": "The zero point on the ruler serves as the offset for measuring length.",
+            "sent3": "The offset on the map helped them locate the hidden treasure.",
+            "sent4": "The old building served as an offset for the new skyscraper.",
+            "sent5": "The offset in the equation helped solve the math problem."
         },
         {
             "definition": "A printing technique where ink is transferred from a plate to a rubber blanket before being printed on paper",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The offset in the printing process ensures a clear image on the paper.",
+            "sent2": "The magazine used offset printing for high-quality images.",
+            "sent3": "The mischievous student accidentally spilled ink on the offset.",
+            "sent4": "The offset technique revolutionized the speed of printing newspapers.",
+            "sent5": "The artist preferred offset for its precise color reproduction."
         }
     ]
 }

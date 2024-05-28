@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A point where two systems, subjects, organizations, etc., meet and interact.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The interfaces between the different departments allow for smooth communication.",
+            "sent2": "The interfaces of the computer program enable users to navigate easily.",
+            "sent3": "At the company picnic, the interfaces between the sales team and the marketing team led to some unexpected collaborations.",
+            "sent4": "The garden fence serves as an interface between the yard and the neighboring property.",
+            "sent5": "The bridge acts as an interface between the two sides of the river, connecting them seamlessly."
         },
         {
             "definition": "To connect or interact with another system or device.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She interfaces her smartphone with her smartwatch to receive notifications.",
+            "sent2": "The new software interfaces well with existing programs in the office.",
+            "sent3": "The robot interfaces with the control panel to perform various tasks around the house.",
+            "sent4": "The music player seamlessly interfaces with the car's audio system.",
+            "sent5": "The smart home system interfaces with multiple devices to create a connected environment."
         }
     ]
 }

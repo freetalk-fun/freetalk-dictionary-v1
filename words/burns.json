@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Burns (noun): Injuries to the skin caused by heat, electricity, chemicals, or radiation.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "After touching the hot stove, she suffered painful burns on her hand.",
+            "sent2": "The firefighter quickly treated the burns on the victim's arm.",
+            "sent3": "The chef accidentally gave the dish some unexpected burns, making it extra crispy.",
+            "sent4": "The burns of betrayal left scars that were not visible but deeply felt.",
+            "sent5": "The sunburns on his shoulders were a painful reminder of forgetting sunscreen."
         },
         {
             "definition": "Burns (verb): To be on fire or to cause something to be on fire.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The candle burns brightly in the dark room.",
+            "sent2": "He carefully burns the pile of leaves in the backyard.",
+            "sent3": "The campfire burns cheerfully, providing warmth and light.",
+            "sent4": "Her passion for music burns like a flame that never goes out.",
+            "sent5": "The anger burns inside him, fueling his determination to succeed."
         },
         {
             "definition": "Burns (noun): Scottish poet Robert Burns.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "In literature class, they discussed the works of Burns.",
+            "sent2": "The library had a special section dedicated to the poems of Burns.",
+            "sent3": "At the poetry slam, a student recited a humorous piece inspired by Burns.",
+            "sent4": "The words of Burns ignited a love for poetry in many hearts.",
+            "sent5": "The legacy of Burns continues to inspire aspiring writers around the world."
         }
     ]
 }

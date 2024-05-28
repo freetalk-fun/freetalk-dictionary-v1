@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Moves from a lower position to a higher one",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The sun rises in the east every morning.",
+            "sent2": "The hot air balloon rises slowly into the sky.",
+            "sent3": "As the bread dough rises in the oven, it grows bigger and fluffier.",
+            "sent4": "Hope rises like a phoenix from the ashes of despair.",
+            "sent5": "The tide rises, covering the sandy shore with water."
         },
         {
             "definition": "Increases in amount or level",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The price of houses rises as demand increases.",
+            "sent2": "The excitement rises as the concert date approaches.",
+            "sent3": "Laughter rises in the room as the comedian tells a joke.",
+            "sent4": "The tension rises between the two rival teams on the field.",
+            "sent5": "The temperature rises, making the day hotter and more uncomfortable."
         },
         {
             "definition": "The act of getting out of bed in the morning",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Her morning routine includes multiple snoozes before she finally rises.",
+            "sent2": "A loud alarm clock ensures that he never misses his morning rises.",
+            "sent3": "The cat's meows serve as a gentle reminder for her morning rises.",
+            "sent4": "His morning rises are always accompanied by a strong cup of coffee.",
+            "sent5": "The early bird's rises allow him to catch the first worm of the day."
         }
     ]
 }

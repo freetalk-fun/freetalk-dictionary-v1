@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Direct or guide (something or someone) in a particular direction or toward a particular object.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The teacher vectored the students towards the library for their research project.",
+            "sent2": "The pilot vectored the plane towards the runway for landing.",
+            "sent3": "The GPS vectored the lost hiker back to the main trail.",
+            "sent4": "Her strong intuition vectored her decisions towards success.",
+            "sent5": "The lighthouse vectored ships safely through the stormy night."
         },
         {
             "definition": "Adjust or adapt (the direction or focus of something) to a particular purpose or goal.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She vectored her study schedule to focus more on math before the exam.",
+            "sent2": "The coach vectored the team's strategy to counter the opponent's strong offense.",
+            "sent3": "The chef vectored the recipe to include healthier ingredients without losing flavor.",
+            "sent4": "His determination vectored his career path towards entrepreneurship.",
+            "sent5": "The artist vectored her painting style to reflect the changing seasons."
         }
     ]
 }

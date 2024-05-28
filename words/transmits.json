@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To send or convey from one person or place to another.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The radio tower transmits music to the entire town.",
+            "sent2": "The phone transmits your voice to the person on the other end.",
+            "sent3": "The magical wand transmits happiness wherever it goes.",
+            "sent4": "Her smile transmits warmth to everyone she meets.",
+            "sent5": "The lighthouse transmits light to guide ships safely to shore."
         },
         {
             "definition": "To pass on or spread (a disease, infection, etc.).",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Mosquitoes can transmit malaria to humans through their bites.",
+            "sent2": "Coughing and sneezing can transmit the flu virus to others.",
+            "sent3": "The sneezing teddy bear transmits giggles to everyone around.",
+            "sent4": "Gossip can transmit rumors faster than wildfire.",
+            "sent5": "The wind can transmit pollen from one flower to another, aiding in pollination."
         },
         {
             "definition": "To broadcast or send out (signals, messages, etc.).",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The TV station transmits news updates to viewers across the country.",
+            "sent2": "The satellite transmits data to the research center in real-time.",
+            "sent3": "The mischievous parrot transmits secret messages to its bird friends.",
+            "sent4": "The lighthouse transmits signals to warn ships of dangerous rocks.",
+            "sent5": "The radio tower transmits emergency alerts to keep the community safe."
         }
     ]
 }

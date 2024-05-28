@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "removed or taken away",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She withdrew the money from her bank account.",
+            "sent2": "He withdrew his hand from the hot stove quickly.",
+            "sent3": "The magician withdrew the rabbit from the hat to the audience's amazement.",
+            "sent4": "The sun slowly withdrew its light as the day turned into night.",
+            "sent5": "The teacher withdrew the privilege of recess from the misbehaving students."
         },
         {
             "definition": "shy or reserved",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The withdrawn student preferred reading alone during lunch.",
+            "sent2": "She appeared withdrawn and quiet in social gatherings.",
+            "sent3": "The withdrawn cat hid under the bed whenever guests visited.",
+            "sent4": "His withdrawn nature made it challenging for him to make new friends.",
+            "sent5": "The withdrawn child found solace in painting and drawing."
         },
         {
             "definition": "no longer involved or participating",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "After the argument, he became withdrawn from the group activities.",
+            "sent2": "She felt withdrawn from the project after her ideas were dismissed.",
+            "sent3": "The withdrawn employee decided to focus on personal projects instead.",
+            "sent4": "The withdrawn member of the team chose to work independently.",
+            "sent5": "Feeling withdrawn from the conversation, she decided to leave the room."
         }
     ]
 }

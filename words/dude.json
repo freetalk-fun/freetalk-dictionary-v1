@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A man",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "That dude is tall.",
+            "sent2": "The dude is walking his dog.",
+            "sent3": "Hey dude, nice hat!",
+            "sent4": "The dude stood like a mountain among the crowd.",
+            "sent5": "I saw a dude with a huge beard."
         },
         {
             "definition": "A person of a specified kind",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The dude in the red shirt is my friend.",
+            "sent2": "She's the kind of dude who loves adventure.",
+            "sent3": "The dude with the funny glasses made me laugh.",
+            "sent4": "He's a dude with a heart of gold.",
+            "sent5": "I met a dude who can juggle five balls at once."
         },
         {
             "definition": "An exclamation of disbelief or surprise",
-            "pos": "interjection"
+            "pos": "interjection",
+            "sent1": "Dude, that's amazing!",
+            "sent2": "Oh dude, I can't believe it!",
+            "sent3": "Dude, did you see that magic trick?",
+            "sent4": "Dude, the sunset looks unreal!",
+            "sent5": "Wow, dude, that's a huge burger!"
         }
     ]
 }

@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To stop moving or operating",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The car will halt at the red light.",
+            "sent2": "Please halt your bike before crossing the street.",
+            "sent3": "The squirrel tried to halt its acorn rolling down the hill.",
+            "sent4": "The sudden rainstorm made the outdoor concert halt.",
+            "sent5": "The teacher's loud shout made the noisy classroom halt instantly."
         },
         {
             "definition": "A temporary stop or interruption",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The train came to a sudden halt at the station.",
+            "sent2": "We had to make a halt during our long road trip.",
+            "sent3": "The halt in the soccer game was due to heavy rain.",
+            "sent4": "The unexpected halt in production caused delays in delivery.",
+            "sent5": "The soldier's quick halt saved him from stepping on a hidden trap."
         }
     ]
 }

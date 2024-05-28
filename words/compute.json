@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To determine or calculate something",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I need to compute the total cost of my groceries.",
+            "sent2": "She likes to compute the answer before checking her work.",
+            "sent3": "Trying to compute how many cookies I can eat without getting a stomachache.",
+            "sent4": "Her mind raced to compute the best route to take in the maze.",
+            "sent5": "I always compute the distance to the nearest gas station before a road trip."
         },
         {
             "definition": "To process data using a computer",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The supercomputer can compute complex calculations in seconds.",
+            "sent2": "They compute large amounts of data to generate accurate weather forecasts.",
+            "sent3": "The robot paused to compute the most efficient way to complete the task.",
+            "sent4": "The computer hummed softly as it worked to compute the algorithm.",
+            "sent5": "I watch in amazement as the machine computes the intricate patterns."
         }
     ]
 }

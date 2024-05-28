@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "By way of",
-            "pos": "preposition"
+            "pos": "preposition",
+            "sent1": "I reached the park via the shortcut.",
+            "sent2": "She traveled to Paris via train.",
+            "sent3": "The cat reached the top shelf via a clever jump.",
+            "sent4": "His message reached her heart via a heartfelt letter.",
+            "sent5": "The treasure was found via a hidden map."
         },
         {
             "definition": "Through",
-            "pos": "preposition"
+            "pos": "preposition",
+            "sent1": "The sunlight filtered in via the window.",
+            "sent2": "She navigated the forest via the winding path.",
+            "sent3": "The magician disappeared via a puff of smoke.",
+            "sent4": "The river flowed swiftly via the narrow channel.",
+            "sent5": "The secret passage was revealed via a hidden lever."
         },
         {
             "definition": "Using",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He fixed the broken chair via a hammer and nails.",
+            "sent2": "She cooked dinner via her grandmother's recipe.",
+            "sent3": "The detective solved the case via careful deduction.",
+            "sent4": "The artist created a masterpiece via vibrant colors.",
+            "sent5": "The team won the game via strong teamwork."
         }
     ]
 }

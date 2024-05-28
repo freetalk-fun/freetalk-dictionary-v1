@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Not including; excluding.",
-            "pos": "preposition"
+            "pos": "preposition",
+            "sent1": "Everyone is invited to the party, excepting Tom.",
+            "sent2": "I like all fruits excepting bananas.",
+            "sent3": "The zoo welcomed all animals excepting the invisible ones.",
+            "sent4": "The garden was filled with colorful flowers, excepting the wilting ones.",
+            "sent5": "The teacher praised all students excepting the ones who didn't complete their homework."
         },
         {
             "definition": "With the exception of.",
-            "pos": "preposition"
+            "pos": "preposition",
+            "sent1": "The store is open every day excepting Sundays.",
+            "sent2": "I enjoy all sports excepting basketball.",
+            "sent3": "The chef used all ingredients excepting the secret spice.",
+            "sent4": "The library had every book imaginable, excepting the rare ones.",
+            "sent5": "The team won every game excepting the final one of the season."
         }
     ]
 }

@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To make (text) bold.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She enjoys **boldfacing** important information in her notes.",
+            "sent2": "Please remember to **boldface** the title for emphasis.",
+            "sent3": "The teacher's **boldfacing** of the key terms made studying easier.",
+            "sent4": "His confident speech **boldfaced** the importance of teamwork.",
+            "sent5": "The artist's brush **boldfacing** the canvas created a striking effect."
         },
         {
             "definition": "The act of emphasizing or highlighting text by making it bold.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The **boldfacing** of the heading made it stand out.",
+            "sent2": "In the document, the **boldfacing** helped draw attention to key points.",
+            "sent3": "The **boldfacing** of the menu items made them easier to read.",
+            "sent4": "Her smile was like a **boldfacing** in the crowd of frowns.",
+            "sent5": "The neon sign's **boldfacing** made it visible from far away."
         }
     ]
 }

@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To indicate or suggest without being explicitly stated",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Her smile implies that she is happy.",
+            "sent2": "His silence implies consent.",
+            "sent3": "The wagging tail of the dog implies excitement.",
+            "sent4": "The dark clouds imply an approaching storm.",
+            "sent5": "The teacher's nod implies approval."
         },
         {
             "definition": "To involve or entail as a necessary circumstance or consequence",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Eating too much implies feeling sick later.",
+            "sent2": "Skipping breakfast implies hunger by mid-morning.",
+            "sent3": "His messy room implies a busy schedule.",
+            "sent4": "The broken glass implies a recent accident.",
+            "sent5": "The unfinished homework implies consequences tomorrow."
         }
     ]
 }

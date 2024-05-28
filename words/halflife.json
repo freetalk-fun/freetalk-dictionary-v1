@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "The time required for half of the atoms of a radioactive substance to undergo decay.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The halflife of the radioactive element was measured in days.",
+            "sent2": "The scientist studied the halflife of the substance in the lab.",
+            "sent3": "The halflife of the radioactive material seemed to take forever to pass.",
+            "sent4": "The halflife of the element ticked away like a slow, steady clock.",
+            "sent5": "The concept of halflife made the decay process easier to understand."
         },
         {
             "definition": "The time required for half of a quantity of a substance to undergo a specified process or reaction.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The halflife of the medication was shorter than expected.",
+            "sent2": "The halflife of the chemical reaction was crucial for the experiment.",
+            "sent3": "The halflife of the solution made the scientists scratch their heads in confusion.",
+            "sent4": "The halflife of the substance was like a race against time.",
+            "sent5": "Understanding the halflife of the substance was key to the experiment's success."
         }
     ]
 }

@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "The point or position at an equal distance from the edges or ends of something.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "She placed the toy car in the middle of the room.",
+            "sent2": "The cake had chocolate frosting in the middle layer.",
+            "sent3": "The cat sat in the middle of the dog bed, claiming it as her own.",
+            "sent4": "The middle of the storm was calm, surrounded by chaos.",
+            "sent5": "The middle of the forest was filled with tall trees and chirping birds."
         },
         {
             "definition": "The central part or point of something.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The middle of the movie was the most exciting part.",
+            "sent2": "The middle of the sandwich had extra cheese.",
+            "sent3": "The middle of the argument was when they both started laughing.",
+            "sent4": "Her smile was like the warm middle of a sunny day.",
+            "sent5": "The middle of the maze held the hidden treasure."
         },
         {
             "definition": "To place in the center or between two things.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She asked him to middle the vase between the candles.",
+            "sent2": "He decided to middle the chair between the two windows.",
+            "sent3": "The chef tried to middle the sauce just right for the dish.",
+            "sent4": "His words seemed to middle the tension in the room.",
+            "sent5": "The artist wanted to middle the colors to create a harmonious painting."
         }
     ]
 }

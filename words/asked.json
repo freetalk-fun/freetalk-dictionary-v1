@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To inquire about something by speaking or writing.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She asked her teacher for help with the math problem.",
+            "sent2": "He asked the librarian where to find the book he needed.",
+            "sent3": "The curious cat asked the birds outside why they could fly.",
+            "sent4": "The flowers in the garden asked the sun for more warmth.",
+            "sent5": "The detective asked the suspect for their alibi."
         },
         {
             "definition": "To request something from someone.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The child asked his parents for a new toy.",
+            "sent2": "She asked the waiter for a glass of water.",
+            "sent3": "The puppy asked the owner for a tasty treat.",
+            "sent4": "The student asked the teacher for extra time to finish the assignment.",
+            "sent5": "The customer asked the salesperson for a refund."
         },
         {
             "definition": "To pose a question to someone.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The journalist asked the politician about their plans for the future.",
+            "sent2": "He asked his friend if they wanted to go to the movies.",
+            "sent3": "The squirrel asked the rabbit if they knew where to find nuts.",
+            "sent4": "The student asked the professor for clarification on the assignment.",
+            "sent5": "The explorer asked the guide for directions to the hidden cave."
         }
     ]
 }

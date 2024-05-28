@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "In a higher position than something else.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The shelf above the table is empty.",
+            "sent2": "The painting hangs above the fireplace.",
+            "sent3": "The cat climbed above the tree to escape the dog.",
+            "sent4": "Her grades are above average in math class.",
+            "sent5": "The clouds above the city turned pink at sunset."
         },
         {
             "definition": "More than a certain amount or level.",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "The temperature is above normal for this time of year.",
+            "sent2": "She scored above the passing mark on the test.",
+            "sent3": "He ate above his usual amount of cookies at the party.",
+            "sent4": "The music was playing above the acceptable volume.",
+            "sent5": "The excitement in the room was above what she had expected."
         },
         {
             "definition": "Written or discussed earlier in a text.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The above paragraph explains the main idea.",
+            "sent2": "Please refer to the above section for more details.",
+            "sent3": "The above statement contradicts what was said before.",
+            "sent4": "The above information is crucial for understanding the topic.",
+            "sent5": "The above introduction sets the tone for the entire book."
         }
     ]
 }

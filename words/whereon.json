@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "On which",
-            "pos": "preposition"
+            "pos": "preposition",
+            "sent1": "The shelf, whereon the books are placed, is sturdy.",
+            "sent2": "She pointed to the spot whereon the treasure was buried.",
+            "sent3": "The cat sat on the chair whereon the dog usually naps.",
+            "sent4": "The tree, whereon the swing hangs, provides shade in the garden.",
+            "sent5": "The table, whereon the vase sits, wobbles slightly."
         },
         {
             "definition": "On what",
-            "pos": "preposition"
+            "pos": "preposition",
+            "sent1": "Tell me whereon you base your decision.",
+            "sent2": "I wonder whereon he relies for his information.",
+            "sent3": "The mystery novel reveals whereon the detective found the clue.",
+            "sent4": "The map shows whereon the treasure is hidden.",
+            "sent5": "Do you know whereon the secret passage leads?"
         },
         {
             "definition": "On which occasion",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "The party whereon we met was unforgettable.",
+            "sent2": "He spoke eloquently at the event whereon he received the award.",
+            "sent3": "The play was staged on the night whereon the theater was packed.",
+            "sent4": "The day whereon the storm hit, we stayed indoors.",
+            "sent5": "The moment whereon she realized the truth changed everything."
         }
     ]
 }

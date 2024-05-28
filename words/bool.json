@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A data type with two possible values, true or false.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "In programming, a bool can only be either true or false.",
+            "sent2": "The bool in the code indicates whether the condition is met or not.",
+            "sent3": "The bool was feeling indecisive today, so it chose both true and false at the same time.",
+            "sent4": "Her smile was like a bool, either bright and genuine or completely absent.",
+            "sent5": "The concept of a bool is as simple as a light switch - on or off, no in-between."
         },
         {
             "definition": "To determine the truth or validity of something.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I need to bool the statement before making a decision.",
+            "sent2": "She will bool the data to ensure its accuracy.",
+            "sent3": "The detective decided to bool the suspect's alibi by checking security footage.",
+            "sent4": "His intuition seemed to bool the answer before any evidence was presented.",
+            "sent5": "The scientist will bool the hypothesis through rigorous experimentation."
         }
     ]
 }

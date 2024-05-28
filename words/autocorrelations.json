@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "The correlation of a signal with a delayed copy of itself.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Scientists study autocorrelations to understand how a signal relates to its own delayed version.",
+            "sent2": "In statistics, autocorrelations help analyze how a signal correlates with its own past values.",
+            "sent3": "The autocorrelations of the signal were so similar, it was like looking at a reflection in a mirror.",
+            "sent4": "The concept of autocorrelations is like a signal playing hide and seek with its own shadow.",
+            "sent5": "Autocorrelations can be visualized as a signal holding hands with its past self."
         },
         {
             "definition": "The correlation of a signal with itself at different points in time.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Autocorrelations show how a signal changes its correlation with itself over time.",
+            "sent2": "Economists use autocorrelations to analyze how a signal's correlation evolves across different time periods.",
+            "sent3": "The autocorrelations of the stock market signal were like a rollercoaster ride through time.",
+            "sent4": "In a way, autocorrelations are like a signal reminiscing about its past correlations.",
+            "sent5": "Visualizing autocorrelations is like watching a signal dance through various time points."
         }
     ]
 }

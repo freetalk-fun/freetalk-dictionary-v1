@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "The amount of work done or the number of items produced by a system in a given period of time.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The throughputs of the factory increased after implementing new machinery.",
+            "sent2": "The throughputs of the bakery determine its efficiency in making bread.",
+            "sent3": "The throughputs of the toy assembly line were so high that the robots had to work overtime.",
+            "sent4": "Her throughputs in completing puzzles were like a well-oiled machine.",
+            "sent5": "The throughputs of the student in solving math problems were impressive."
         },
         {
             "definition": "The rate at which data is processed or transferred through a computer or communication system.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The throughputs of the internet connection affect the speed of downloading files.",
+            "sent2": "The throughputs of the server determine how quickly information can be accessed.",
+            "sent3": "The throughputs of the email system were so slow that messages took hours to send.",
+            "sent4": "His throughputs in coding were as fast as lightning, impressing his colleagues.",
+            "sent5": "The throughputs of the printer were so high that it finished printing in seconds."
         }
     ]
 }

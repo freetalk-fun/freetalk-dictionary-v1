@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A mistake.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "She realized her error and corrected the wrong answer.",
+            "sent2": "Making an error in math can lead to the wrong solution.",
+            "sent3": "The error in the recipe made the cake taste like soap.",
+            "sent4": "His error in judgment cost him the game.",
+            "sent5": "The error on the sign caused confusion for the drivers."
         },
         {
             "definition": "A deviation from accuracy or correctness.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The error in the measurement was due to a faulty tool.",
+            "sent2": "The error in the report changed the outcome of the experiment.",
+            "sent3": "The error in the painting gave it a unique charm.",
+            "sent4": "The error in the map led us in the wrong direction.",
+            "sent5": "The error in the clock caused us to be late for the meeting."
         },
         {
             "definition": "A belief or action that is misguided or wrong.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Her error in thinking led to a misunderstanding.",
+            "sent2": "Committing an error in judgment can have serious consequences.",
+            "sent3": "The error in his decision made everyone laugh.",
+            "sent4": "The error in his reasoning became clear after further investigation.",
+            "sent5": "The error in his speech caused confusion among the audience."
         }
     ]
 }

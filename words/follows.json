@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Go or come after (a person or thing proceeding ahead)",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The dog follows the cat around the yard.",
+            "sent2": "She always follows her big brother to school.",
+            "sent3": "The mischievous squirrel follows the bird to learn how to fly.",
+            "sent4": "Success follows hard work like a shadow.",
+            "sent5": "The detective follows the clues to solve the mystery."
         },
         {
             "definition": "Accept the authority, guidance, or leadership of",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The students follow the teacher's instructions in class.",
+            "sent2": "It is important to follow the rules of the game.",
+            "sent3": "The cat pretends to follow the mouse's orders.",
+            "sent4": "In times of uncertainty, it is wise to follow a trusted mentor.",
+            "sent5": "The soldiers follow their commander's orders without question."
         },
         {
             "definition": "Happen or occur afterward or as a result",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "After the rain, a rainbow follows in the sky.",
+            "sent2": "If you study hard, success will follow.",
+            "sent3": "The laughter of children follows a good joke.",
+            "sent4": "With determination, achievement follows failure.",
+            "sent5": "The smell of fresh cookies follows baking in the oven."
         }
     ]
 }

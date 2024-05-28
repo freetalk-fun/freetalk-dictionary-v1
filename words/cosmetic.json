@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A product or substance used to enhance or alter the appearance of the face or body.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "She applied a cosmetic to her cheeks before going out.",
+            "sent2": "The store had a wide variety of cosmetics for sale.",
+            "sent3": "The cosmetic made her look like a glamorous movie star.",
+            "sent4": "Her smile was like a cosmetic, brightening up the room.",
+            "sent5": "The cosmetic transformed her appearance completely."
         },
         {
             "definition": "Relating to the use of cosmetics.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "She bought a cosmetic bag to store all her makeup.",
+            "sent2": "The cosmetic industry is always evolving with new trends.",
+            "sent3": "His cosmetic skills were put to the test for the theater production.",
+            "sent4": "The sunset painted the sky in a cosmetic array of colors.",
+            "sent5": "The room had a cosmetic mirror that magnified every detail."
         },
         {
             "definition": "Superficial or concerned only with surface appearance.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "Her interest in fashion was purely cosmetic.",
+            "sent2": "The changes were merely cosmetic and did not address the real issue.",
+            "sent3": "The cosmetic changes to the building were met with mixed reactions.",
+            "sent4": "His smile was cosmetic, hiding the pain he felt inside.",
+            "sent5": "The cosmetic improvements to the park made it more inviting."
         }
     ]
 }

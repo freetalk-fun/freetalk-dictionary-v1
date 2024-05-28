@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Movement from one place to another.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The bird's migration was long and tiring.",
+            "sent2": "The migration of people to the city increased every year.",
+            "sent3": "The migration of ants into the kitchen was quite the surprise.",
+            "sent4": "The migration of clouds across the sky painted a beautiful picture.",
+            "sent5": "The migration of fish in the river was a sight to behold."
         },
         {
             "definition": "A seasonal movement of animals from one region to another.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The wildebeest migration in Africa is a spectacular sight.",
+            "sent2": "The migration of butterflies in the fall is a natural wonder.",
+            "sent3": "The migration of penguins to warmer climates seemed like a vacation.",
+            "sent4": "The migration of geese overhead filled the sky with life.",
+            "sent5": "The migration of whales along the coast was a majestic display."
         },
         {
             "definition": "The process of moving data or software from one system to another.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The migration of files to the new computer was seamless.",
+            "sent2": "The data migration to the cloud saved a lot of space.",
+            "sent3": "The software migration caused a few glitches but was successful overall.",
+            "sent4": "The migration of information between devices was quick and efficient.",
+            "sent5": "The migration of programs to the updated version was necessary for security reasons."
         }
     ]
 }

@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Used to express hesitation or uncertainty.",
-            "pos": "interjection"
+            "pos": "interjection",
+            "sent1": "Er, I'm not sure if I can make it to the party.",
+            "sent2": "She said, 'Er, I think I left my keys at home.'",
+            "sent3": "Er, do you think we should try the new restaurant?",
+            "sent4": "His answer was filled with 'er' as he tried to come up with an excuse.",
+            "sent5": "The student hesitated with an 'er' before answering the question."
         },
         {
             "definition": "A person or thing that erases.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The er quickly removed the mistake from the paper.",
+            "sent2": "She used the er to correct the spelling error.",
+            "sent3": "The er was always in demand during exams.",
+            "sent4": "His mind was like an er, wiping away memories he wanted to forget.",
+            "sent5": "The er sat on the desk, ready to fix any errors."
         },
         {
             "definition": "A suffix used to form nouns denoting persons from the object of their occupation or labor.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The baker was known as a baker-er in the town.",
+            "sent2": "She became a teacher-er after completing her degree.",
+            "sent3": "The farmer-er tended to the crops with care.",
+            "sent4": "He was a writer-er, crafting stories late into the night.",
+            "sent5": "The doctor-er saved lives every day at the hospital."
         }
     ]
 }

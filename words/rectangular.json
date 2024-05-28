@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Having the shape of a rectangle.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The table had a rectangular top.",
+            "sent2": "The room was decorated with rectangular rugs.",
+            "sent3": "The rectangular cake looked like a giant book.",
+            "sent4": "Her rectangular glasses framed her face perfectly.",
+            "sent5": "The rectangular swimming pool shimmered in the sunlight."
         },
         {
             "definition": "A rectangle or something in the shape of a rectangle.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "He drew a rectangular on the paper.",
+            "sent2": "The painting featured colorful rectangulars.",
+            "sent3": "The rectangular of land was perfect for a garden.",
+            "sent4": "The building's design resembled a stack of rectangulars.",
+            "sent5": "She stacked the rectangulars neatly on the shelf."
         }
     ]
 }

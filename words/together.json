@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "In or into one gathering, group, mass, or place.",
-            "pos": "preposition"
+            "pos": "preposition",
+            "sent1": "Let's sit together on the bench.",
+            "sent2": "The family ate dinner together at the table.",
+            "sent3": "The toys were all thrown together in a messy pile.",
+            "sent4": "The colorful flowers bloomed together in the garden.",
+            "sent5": "The students worked together to solve the math problem."
         },
         {
             "definition": "In or into a unified or coherent whole.",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "The team worked together to win the game.",
+            "sent2": "The ingredients blend together to make a delicious soup.",
+            "sent3": "The music notes harmonize together beautifully.",
+            "sent4": "The puzzle pieces fit together perfectly.",
+            "sent5": "The colors mix together to create a new shade."
         },
         {
             "definition": "At the same time; simultaneously.",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "The fireworks exploded together in the night sky.",
+            "sent2": "The dancers moved together in perfect sync.",
+            "sent3": "The alarm clocks rang together, waking everyone up.",
+            "sent4": "The birds chirped together at dawn.",
+            "sent5": "The friends laughed together at the funny movie."
         }
     ]
 }

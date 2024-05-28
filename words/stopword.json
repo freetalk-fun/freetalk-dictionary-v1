@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A word that is excluded from a search engine's index because it is considered too common or irrelevant.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "In the search results, the 'and' is a common stopword that is often ignored.",
+            "sent2": "When searching for specific information, the stopword 'the' is usually not helpful.",
+            "sent3": "The stopword 'is' decided to take a break from being overused in search queries.",
+            "sent4": "The stopword 'the' stood out like a sore thumb in the sea of keywords.",
+            "sent5": "Remember, a stopword like 'and' can greatly impact search results."
         },
         {
             "definition": "A word that is ignored by a computer program when analyzing text for specific patterns or information.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The program quickly skipped over the stopword 'not' while scanning the document.",
+            "sent2": "When analyzing data, the stopword 'but' can sometimes be overlooked.",
+            "sent3": "The stopword 'nevertheless' decided to play hide and seek with the program.",
+            "sent4": "The stopword 'however' danced around the main keywords in the text.",
+            "sent5": "The importance of a stopword like 'or' cannot be underestimated in text analysis."
         }
     ]
 }

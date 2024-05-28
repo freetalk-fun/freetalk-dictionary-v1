@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "(adjective) strict, precise, and exacting",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The teacher had stringent rules about homework deadlines.",
+            "sent2": "The company has stringent quality control measures in place.",
+            "sent3": "The stringent referee made sure all players followed the rules to the letter.",
+            "sent4": "Her stringent diet allowed no room for indulgence.",
+            "sent5": "The stringent security checks at the airport made the passengers feel safe."
         },
         {
             "definition": "(adverb) in a strict or precise manner",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "She followed the recipe stringent to ensure the cake turned out perfectly.",
+            "sent2": "He managed the project stringent, checking every detail meticulously.",
+            "sent3": "The magician performed his tricks stringent, leaving the audience in awe.",
+            "sent4": "The artist painted the portrait stringent, capturing every feature flawlessly.",
+            "sent5": "The athlete trained stringent to improve his performance."
         }
     ]
 }

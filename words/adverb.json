@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A word or phrase that modifies or qualifies an adjective, verb, or other adverb.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "She quickly ran to the store, where 'quickly' is an adverb describing how she ran.",
+            "sent2": "He spoke softly, using an adverb to describe the volume of his voice.",
+            "sent3": "The adverb 'happily' danced around the sentence, adding joy to its meaning.",
+            "sent4": "Her laughter echoed adverbially, filling the room with happiness.",
+            "sent5": "The adverb 'carefully' tiptoed through the sentence, ensuring precision in its message."
         },
         {
             "definition": "In a manner that is characteristic of an adverb.",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "She answered the question adverb, showing her understanding clearly.",
+            "sent2": "He ran adverb down the street, just like in a race.",
+            "sent3": "The cat meowed adverb, mimicking the sound of a car engine.",
+            "sent4": "The wind howled adverb, like a ghost in the night.",
+            "sent5": "The water flowed adverb, smoothly and without interruption."
         }
     ]
 }

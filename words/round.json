@@ -3,19 +3,39 @@
     "meanings": [
         {
             "definition": "Shaped like a circle or sphere",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The moon looks round in the sky.",
+            "sent2": "The table has a round top.",
+            "sent3": "The round cookie jar sat on the kitchen counter.",
+            "sent4": "Her face lit up with a round smile.",
+            "sent5": "The round balloon floated gracefully in the air."
         },
         {
             "definition": "A circular object or shape",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "She found a shiny round coin on the ground.",
+            "sent2": "The wheel on the bike is perfectly round.",
+            "sent3": "The kids played catch with a round ball in the park.",
+            "sent4": "The sun set behind the round hill.",
+            "sent5": "The artist painted a beautiful round on the canvas."
         },
         {
             "definition": "To make something into a circle or sphere",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She likes to round the edges of the paper.",
+            "sent2": "Please round the dough into small balls.",
+            "sent3": "He decided to round the cake for a special occasion.",
+            "sent4": "The sculptor will round the marble into a statue.",
+            "sent5": "The potter will round the clay into a vase."
         },
         {
             "definition": "To move in a circular direction",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The dancers round the stage gracefully.",
+            "sent2": "The car will round the corner slowly.",
+            "sent3": "The birds round in the sky before landing.",
+            "sent4": "The river will round the bend ahead.",
+            "sent5": "The wind will round the leaves in the garden."
         }
     ]
 }

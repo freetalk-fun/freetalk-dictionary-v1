@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A short, sharp sound made by pressing a button or switch.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The computer mouse makes a click when you press the button.",
+            "sent2": "I heard a click when I turned off the light switch.",
+            "sent3": "The click of the door closing behind him startled the cat.",
+            "sent4": "The click of the lock echoed through the empty hallway.",
+            "sent5": "The click of the camera captured the perfect moment."
         },
         {
             "definition": "A metric unit of distance equal to 0.621371 miles.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The car traveled several clicks before reaching the gas station.",
+            "sent2": "The signpost showed the distance in clicks to the next town.",
+            "sent3": "She joked that she could run a few clicks faster than him.",
+            "sent4": "The marathon runner pushed through the last few clicks to the finish line.",
+            "sent5": "The map indicated the distance in clicks to the mountain peak."
         },
         {
             "definition": "A metric unit of frequency equal to one kilohertz.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The radio station broadcasts at a frequency of a thousand clicks.",
+            "sent2": "The technician adjusted the equipment to receive the signal at 5 clicks.",
+            "sent3": "The scientist measured the clicks emitted by the device for the experiment.",
+            "sent4": "The radar detected the enemy aircraft at multiple clicks away.",
+            "sent5": "The submarine used sonar to detect the clicks of marine life nearby."
         }
     ]
 }

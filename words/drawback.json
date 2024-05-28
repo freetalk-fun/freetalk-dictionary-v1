@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A disadvantage or problem that makes something less effective or desirable.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "One drawback of the new phone is its short battery life.",
+            "sent2": "The main drawback of living in the countryside is the lack of public transportation.",
+            "sent3": "The drawback of having a pet hamster is constantly cleaning its cage.",
+            "sent4": "The drawback of procrastination is the stress it causes when deadlines approach.",
+            "sent5": "The drawback of eating too much candy is getting a stomach ache."
         },
         {
             "definition": "A feature that restricts or limits the scope or extent of something.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The lack of internet connection is a major drawback of camping in remote areas.",
+            "sent2": "In some video games, a drawback of using a certain weapon is its slow reload time.",
+            "sent3": "The drawback of having a secret hideout is that it can be hard to find when you need it.",
+            "sent4": "The drawback of a small car is its limited seating capacity.",
+            "sent5": "The drawback of a short pencil is that it becomes difficult to use when it gets too small."
         }
     ]
 }

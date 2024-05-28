@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A device used for determining direction, typically consisting of a magnetized needle that points to the magnetic north.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The hiker used a compass to find the way back to the campsite.",
+            "sent2": "The captain relied on the compass to navigate the ship through the storm.",
+            "sent3": "The lost explorer thought his compass was playing a trick on him.",
+            "sent4": "Her moral compass always guided her towards making the right decisions.",
+            "sent5": "The compass needle quivered as it settled on the correct direction."
         },
         {
             "definition": "An instrument for drawing circles and arcs.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The student used a compass to draw a perfect circle for the art project.",
+            "sent2": "The architect's compass helped in creating precise blueprints for the building.",
+            "sent3": "The compass slipped from the artist's hand, creating a messy design on the paper.",
+            "sent4": "Her compass traced a beautiful arc on the canvas, capturing the essence of the sunset.",
+            "sent5": "The compass point left a clear mark on the paper as it drew a circle."
         },
         {
             "definition": "To go around (something) in a circular course.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The dog likes to compass around the tree in the backyard.",
+            "sent2": "The dancer will compass gracefully around the stage during the performance.",
+            "sent3": "The children decided to compass around the playground for fun.",
+            "sent4": "The river seemed to compass around the mountain, creating a natural barrier.",
+            "sent5": "The car will compass around the block before finding a parking spot."
         }
     ]
 }

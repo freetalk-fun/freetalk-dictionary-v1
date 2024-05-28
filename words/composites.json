@@ -3,19 +3,39 @@
     "meanings": [
         {
             "definition": "Made up of various parts or elements",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The toy car was a composite model, with wheels from one set and a body from another.",
+            "sent2": "The team's success was a result of their composite efforts, combining skills from different players.",
+            "sent3": "The composite puzzle pieces fit together perfectly, creating a beautiful picture.",
+            "sent4": "Her outfit was a composite of different patterns and colors, making her stand out in the crowd.",
+            "sent5": "The composite flavors of the dish blended harmoniously, creating a unique taste experience."
         },
         {
             "definition": "A material made by combining two or more different substances",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The new aircraft is built using advanced composites for increased durability.",
+            "sent2": "The artist used composites of metal and glass to create a stunning sculpture.",
+            "sent3": "The chef experimented with composites of spices to create a new signature dish.",
+            "sent4": "The composite material used in the construction industry is known for its strength and flexibility.",
+            "sent5": "The company specializes in producing composites for various industrial applications."
         },
         {
             "definition": "A number that is the product of two or more numbers",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The number 24 is a composite of 3 and 8, as it can be divided by both.",
+            "sent2": "In math class, we learned how to identify prime numbers and composites.",
+            "sent3": "The composite of 6 and 4 is 24, showing the relationship between the numbers.",
+            "sent4": "The student solved the math problem by finding the composite of the given numbers.",
+            "sent5": "The composite number 30 has multiple factors, unlike prime numbers."
         },
         {
             "definition": "A work of art that combines different materials or techniques",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The artist's latest creation is a composite of painting and sculpture, showcasing her versatility.",
+            "sent2": "The gallery featured a collection of composites by local artists, each with a unique style.",
+            "sent3": "The composite artwork caught the eye of many visitors, who admired its creativity.",
+            "sent4": "The museum curator explained the significance of using composites in modern art.",
+            "sent5": "The composite masterpiece was a blend of traditional and contemporary artistic elements."
         }
     ]
 }

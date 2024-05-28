@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A brief stay during a journey.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "During our road trip, we made a quick stopoff at the gas station to refuel.",
+            "sent2": "The airport was our final destination, but we had a short stopoff in Chicago.",
+            "sent3": "The unexpected stopoff at the ice cream parlor made the kids very happy.",
+            "sent4": "His visit to the library was just a quick stopoff on his way to the bookstore.",
+            "sent5": "The cozy cafe became our favorite stopoff spot on the way home."
         },
         {
             "definition": "To make a brief stay during a journey.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "We will stopoff at the park for a picnic before continuing our hike.",
+            "sent2": "She likes to stopoff at the beach to watch the sunset on her way home.",
+            "sent3": "Let's stopoff at the market to grab some fresh fruits for the road.",
+            "sent4": "The train will stopoff briefly at the next station before heading to the final destination.",
+            "sent5": "I always stopoff at the flower shop to buy a bouquet for my mom on Mother's Day."
         }
     ]
 }

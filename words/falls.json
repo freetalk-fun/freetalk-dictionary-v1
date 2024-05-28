@@ -3,19 +3,39 @@
     "meanings": [
         {
             "definition": "Moves downward under the force of gravity.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The leaf falls from the tree.",
+            "sent2": "The rain falls gently on the roof.",
+            "sent3": "The cat falls off the table and lands on its feet.",
+            "sent4": "As the sun sets, darkness falls over the land.",
+            "sent5": "The snow falls softly, covering the ground in white."
         },
         {
             "definition": "A decrease in value or amount.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The falls in temperature signal the arrival of winter.",
+            "sent2": "The falls in stock prices worried investors.",
+            "sent3": "The falls in candy prices made the children happy.",
+            "sent4": "With the falls in attendance, the event was not as crowded.",
+            "sent5": "The falls in sales led to a decrease in revenue for the company."
         },
         {
             "definition": "A waterfall or cascade.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The majestic falls created a beautiful rainbow.",
+            "sent2": "The powerful falls echoed through the valley.",
+            "sent3": "The tourist took a boat ride to see the falls up close.",
+            "sent4": "The falls provided a refreshing mist on a hot day.",
+            "sent5": "The thundering falls could be heard from miles away."
         },
         {
             "definition": "The season of the year between summer and winter.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "During the falls, the leaves change color.",
+            "sent2": "In the falls, people enjoy pumpkin spice lattes.",
+            "sent3": "The falls bring cooler weather and cozy sweaters.",
+            "sent4": "Many animals prepare for hibernation in the falls.",
+            "sent5": "The falls are a time for harvest festivals and apple picking."
         }
     ]
 }

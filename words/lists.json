@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A series of names or items written or printed together in a meaningful grouping.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "My teacher gave us a list of books to read over the summer.",
+            "sent2": "I always make a grocery list before going to the store.",
+            "sent3": "The list of ingredients for the recipe was longer than I expected.",
+            "sent4": "Her list of accomplishments was as long as a river.",
+            "sent5": "The list of rules was posted on the wall for everyone to see."
         },
         {
             "definition": "To write down a series of names or items in a meaningful grouping.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She lists her favorite movies in a notebook.",
+            "sent2": "I need to list all the tasks I have to do today.",
+            "sent3": "He lists his excuses for being late every morning.",
+            "sent4": "The teacher lists the homework assignments on the board.",
+            "sent5": "The chef lists the ingredients needed for the dish on the menu."
         }
     ]
 }

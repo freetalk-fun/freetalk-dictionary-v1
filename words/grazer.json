@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "One who grazes on grass or other vegetation.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The cow is a grazer that munches on grass in the field.",
+            "sent2": "The sheep is a grazer that enjoys eating green plants.",
+            "sent3": "The hungry grazer happily nibbled on the fresh grass.",
+            "sent4": "The deer moved through the meadow like a silent grazer, consuming the lush vegetation.",
+            "sent5": "The rabbit, a small grazer, hopped around the garden, sampling different plants."
         },
         {
             "definition": "An animal that feeds on grass or other vegetation.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The horse, a grazer, peacefully grazed in the pasture.",
+            "sent2": "The cow, a common grazer, spends most of its time eating grass.",
+            "sent3": "The hungry grazer sheepishly eyed the lush greenery.",
+            "sent4": "The goat, a persistent grazer, never seems to tire of munching on plants.",
+            "sent5": "The bunny, a small grazer, hopped from one patch of grass to another."
         },
         {
             "definition": "A person or animal that eats small amounts of food throughout the day.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The grazer squirrel stored nuts in its cheeks for later.",
+            "sent2": "The grazer bird pecked at seeds scattered on the ground.",
+            "sent3": "The office grazer snacked on nuts and fruits all day long.",
+            "sent4": "The grazer cat lazily nibbled on kibbles throughout the afternoon.",
+            "sent5": "The grazer child enjoyed snacking on small bites of fruit and cheese."
         }
     ]
 }

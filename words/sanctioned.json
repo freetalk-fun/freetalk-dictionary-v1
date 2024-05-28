@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Give official permission or approval for (an action)",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The teacher sanctioned the field trip for the students.",
+            "sent2": "The city council sanctioned the new construction project.",
+            "sent3": "The cat sanctioned the dog's attempt to steal its food.",
+            "sent4": "The queen sanctioned the knight's quest to slay the dragon.",
+            "sent5": "The principal sanctioned the school dance, much to the students' delight."
         },
         {
             "definition": "A threatened penalty for disobeying a law or rule",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The parking ticket served as a sanction for illegal parking.",
+            "sent2": "The company faced sanctions for violating environmental regulations.",
+            "sent3": "The silly hat became a playful sanction for being late to the party.",
+            "sent4": "The red card in soccer acts as a visible sanction for serious fouls.",
+            "sent5": "The loud alarm was a clear sanction for breaking the curfew."
         }
     ]
 }

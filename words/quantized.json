@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Divide into small, uniform units.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She quantized the candies into equal portions for each child.",
+            "sent2": "The teacher quantized the crayons into sets of five for the students.",
+            "sent3": "He quantized the puzzle pieces, making sure each group had the same number.",
+            "sent4": "The chef quantized the ingredients, ensuring each dish had the perfect balance.",
+            "sent5": "The artist quantized the colors, creating a harmonious palette for the painting."
         },
         {
             "definition": "Restrict a variable to discrete values.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The game quantized the player's choices to specific paths.",
+            "sent2": "The software quantized the settings to predefined options.",
+            "sent3": "She quantized her wardrobe choices to only black and white outfits.",
+            "sent4": "The rules quantized the movements of the pieces on the board.",
+            "sent5": "The system quantized the inputs, allowing only certain commands to be executed."
         },
         {
             "definition": "Measure or express in terms of quantities.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He quantized the ingredients for the recipe, following each measurement carefully.",
+            "sent2": "The scientist quantized the data to analyze the results accurately.",
+            "sent3": "She quantized her time, allocating specific hours for each task.",
+            "sent4": "The economist quantized the market trends to predict future outcomes.",
+            "sent5": "The teacher quantized the students' progress, tracking their improvement over time."
         }
     ]
 }

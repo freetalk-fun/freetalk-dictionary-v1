@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Attempting to find or obtain",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She was seeking her lost cat all over the neighborhood.",
+            "sent2": "The detective was seeking clues to solve the mystery.",
+            "sent3": "The kids were seeking treasure in the backyard, pretending to be pirates.",
+            "sent4": "His heart was seeking answers to the questions that haunted him.",
+            "sent5": "The explorer was seeking new lands beyond the horizon."
         },
         {
             "definition": "Looking for",
-            "pos": "preposition"
+            "pos": "preposition",
+            "sent1": "She walked through the forest seeking the hidden waterfall.",
+            "sent2": "The traveler was seeking a place to rest after a long journey.",
+            "sent3": "The cat was seeking warmth under the cozy blanket on the couch.",
+            "sent4": "The student was seeking knowledge in the pages of the old book.",
+            "sent5": "The chef was seeking inspiration for a new recipe in the bustling market."
         },
         {
             "definition": "Trying to achieve or accomplish",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The ambitious entrepreneur was seeking success in his new business venture.",
+            "sent2": "The determined athlete was seeking victory in the upcoming competition.",
+            "sent3": "The curious scientist was seeking answers to the mysteries of the universe.",
+            "sent4": "The creative artist was seeking recognition for her unique paintings.",
+            "sent5": "The passionate activist was seeking change in the community through her actions."
         }
     ]
 }

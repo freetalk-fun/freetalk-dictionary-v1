@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A person who designs buildings and advises in their construction.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The architect drew detailed plans for the new school building.",
+            "sent2": "The architect is meeting with the construction team to discuss the project.",
+            "sent3": "The architect accidentally used the wrong measurements, creating a comical design.",
+            "sent4": "She was the architect of her own success, carefully crafting each step of her career.",
+            "sent5": "The architect's vision transformed the city skyline, leaving a lasting impact."
         },
         {
             "definition": "To plan or create something skillfully.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She will architect the layout of the garden to maximize sunlight exposure.",
+            "sent2": "They are working together to architect a new marketing strategy for the company.",
+            "sent3": "He tried to architect a surprise party for his friend but ended up revealing the plan by mistake.",
+            "sent4": "Her creativity allowed her to architect a beautiful solution to the complex problem.",
+            "sent5": "The team will architect a unique experience for the event attendees, focusing on every detail."
         }
     ]
 }

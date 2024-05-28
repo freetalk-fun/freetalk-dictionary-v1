@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A person who shows the way to others.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The guides at the zoo led us to see the lions.",
+            "sent2": "The mountain guides helped the hikers reach the summit.",
+            "sent3": "The guides in the maze kept getting lost themselves!",
+            "sent4": "Her kindness acted as a guide, leading others to do good.",
+            "sent5": "The scoutmaster was a reliable guide for the young campers."
         },
         {
             "definition": "A book or manual that gives information or instructions.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The travel guides provided details about the city's attractions.",
+            "sent2": "She referred to the cooking guide to learn new recipes.",
+            "sent3": "The guide on fixing cars was written in a funny font.",
+            "sent4": "His notebook became a guide, teaching him the ways of the forest.",
+            "sent5": "The user manual served as a helpful guide for setting up the device."
         },
         {
             "definition": "Something that directs or influences behavior or decisions.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "His conscience acted as a moral guide in difficult situations.",
+            "sent2": "The principles of honesty were his guiding light.",
+            "sent3": "The guide of peer pressure led them to make poor choices.",
+            "sent4": "The compass was a reliable guide in the vast wilderness.",
+            "sent5": "The wise words of his grandfather served as a guide for life's challenges."
         }
     ]
 }

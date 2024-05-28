@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Weaken or damage",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Lack of sleep impairs your focus.",
+            "sent2": "Using a cracked phone screen impairs its functionality.",
+            "sent3": "Eating ice cream before dinner impairs your appetite.",
+            "sent4": "The storm impairs the roof's ability to keep out rain.",
+            "sent5": "The fog impairs visibility on the road, making driving dangerous."
         },
         {
             "definition": "Diminish in quality or ability",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Skipping meals impairs your health.",
+            "sent2": "Ignoring feedback can impair your performance.",
+            "sent3": "Wearing sunglasses indoors impairs your vision.",
+            "sent4": "Procrastination impairs your chances of success.",
+            "sent5": "The noise impairs the quality of the music concert."
         }
     ]
 }

@@ -3,19 +3,39 @@
     "meanings": [
         {
             "definition": "Free from error; accurate",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The teacher gave a correct answer to the math problem.",
+            "sent2": "It is important to have the correct information before making a decision.",
+            "sent3": "The cat made a correct guess about where the mouse was hiding.",
+            "sent4": "Her intuition was so correct, it was like she could see the future.",
+            "sent5": "The correct path to the treasure was hidden in the old map."
         },
         {
             "definition": "To make right; adjust",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Please correct the spelling mistake in this sentence.",
+            "sent2": "He corrected his mistake by apologizing to his friend.",
+            "sent3": "The robot corrected its course after bumping into the wall.",
+            "sent4": "She corrected the painting by adding more colors to it.",
+            "sent5": "The chef had to correct the seasoning of the soup before serving it."
         },
         {
             "definition": "To remove the errors or mistakes from",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The editor will correct any grammar mistakes in your essay.",
+            "sent2": "She corrected the wrong address on the package before sending it out.",
+            "sent3": "The computer program corrected the errors in the code automatically.",
+            "sent4": "He corrected the wrong calculation in the report before submitting it.",
+            "sent5": "The teacher corrected the spelling errors in the students' homework."
         },
         {
             "definition": "To punish or discipline for errors",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The coach corrected the player for not following the team's strategy.",
+            "sent2": "Parents correct their children when they misbehave.",
+            "sent3": "The judge corrected the defendant for speaking out of turn.",
+            "sent4": "The teacher corrected the student for talking during the test.",
+            "sent5": "The boss corrected the employee for making a mistake in the report."
         }
     ]
 }

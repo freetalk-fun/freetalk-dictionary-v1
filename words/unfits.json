@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Make someone or something unsuitable or unfit for a particular purpose.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The rain unfits the playground for playing.",
+            "sent2": "She unfits the dress by tearing it.",
+            "sent3": "The mischievous squirrel unfits the bird feeder by tipping it over.",
+            "sent4": "His absence unfits the team puzzle, leaving a missing piece.",
+            "sent5": "The spilled juice unfits the white carpet, staining it permanently."
         },
         {
             "definition": "Not having the necessary qualities or skills for a particular role or task.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The broken toy is unfits for playing.",
+            "sent2": "She felt unfits for the advanced math class.",
+            "sent3": "The sleepy cat looked unfits for catching mice.",
+            "sent4": "The wilted flower seemed unfits for the vibrant bouquet.",
+            "sent5": "The rusty key was unfits for opening the lock, getting stuck."
         }
     ]
 }

@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A flat paper container with a sealable flap, used for enclosing a letter or document.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I sealed the envelope with a stamp and sent it in the mail.",
+            "sent2": "The envelope contained a birthday card from my grandma.",
+            "sent3": "The envelope felt like a surprise waiting to be opened.",
+            "sent4": "Her smile was like a sealed envelope, hiding her true feelings.",
+            "sent5": "The envelope crinkled as I carefully opened it, revealing the letter inside."
         },
         {
             "definition": "The outer covering or boundary of something.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The thick fog enveloped the entire town in a mysterious haze.",
+            "sent2": "The darkness of night enveloped the forest, making it hard to see.",
+            "sent3": "The warm blanket enveloped me in a cozy embrace.",
+            "sent4": "His love enveloped her like a protective shield.",
+            "sent5": "The aroma of freshly baked cookies enveloped the kitchen, making my mouth water."
         },
         {
             "definition": "To wrap or enclose something completely.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She carefully enveloped the fragile vase in bubble wrap before packing it.",
+            "sent2": "The fog began to envelop the entire city, causing low visibility.",
+            "sent3": "I tried to envelop my little brother in a big bear hug.",
+            "sent4": "His words seemed to envelop her in a sense of comfort and understanding.",
+            "sent5": "The warm sunlight enveloped the garden, bringing life to the flowers and plants."
         }
     ]
 }

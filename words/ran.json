@@ -3,19 +3,39 @@
     "meanings": [
         {
             "definition": "past tense of run",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Yesterday, I ran to catch the bus.",
+            "sent2": "She ran quickly to the finish line.",
+            "sent3": "The squirrel ran past me with my snack!",
+            "sent4": "Time ran out like a river flowing swiftly.",
+            "sent5": "The children ran around the playground, full of energy."
         },
         {
             "definition": "moved swiftly on foot",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "She ran fast to the store.",
+            "sent2": "The dog ran happily in the park.",
+            "sent3": "The wind ran through the trees, making them sway.",
+            "sent4": "The news ran quickly through the small town.",
+            "sent5": "The river ran swiftly after the heavy rain."
         },
         {
             "definition": "operated or managed",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He ran his own business successfully.",
+            "sent2": "She ran the meeting efficiently.",
+            "sent3": "The robot ran out of batteries and stopped moving.",
+            "sent4": "The team ran the project smoothly to completion.",
+            "sent5": "The teacher ran the classroom with kindness and authority."
         },
         {
             "definition": "extended in a particular direction",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The road ran straight through the forest.",
+            "sent2": "The river ran deep and wide.",
+            "sent3": "The line for the new movie ran around the block.",
+            "sent4": "Her hair ran long down her back.",
+            "sent5": "The fence ran along the edge of the property."
         }
     ]
 }

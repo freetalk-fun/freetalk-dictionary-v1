@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A question, especially one addressed to an official or organization.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I had a query about my tax return, so I called the IRS for help.",
+            "sent2": "She submitted a query to the customer service department regarding her order.",
+            "sent3": "The query to the city council about the new park design left everyone puzzled.",
+            "sent4": "His query to the principal about the school rules shed light on the situation.",
+            "sent5": "The query to the museum curator revealed fascinating historical facts."
         },
         {
             "definition": "A request for information.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The student's query for more details on the assignment was promptly answered by the teacher.",
+            "sent2": "He sent a query to the library asking for the availability of the book he needed.",
+            "sent3": "Her query for the secret recipe of the famous dish was met with laughter.",
+            "sent4": "The query for the missing keys led to a thorough search of the house.",
+            "sent5": "The query for the weather forecast was essential for planning the outdoor event."
         },
         {
             "definition": "To ask a question about something.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She decided to query the professor about the upcoming exam schedule.",
+            "sent2": "The detective queried the witness about the events leading up to the crime.",
+            "sent3": "He playfully queried his friend about the strange hat he was wearing.",
+            "sent4": "The journalist queried the politician on the controversial policy decision.",
+            "sent5": "The curious child queried her parents about the stars in the night sky."
         }
     ]
 }

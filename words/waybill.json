@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A document that lists the goods being transported and gives details about the shipment.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The waybill showed all the items in the delivery.",
+            "sent2": "Please include the waybill with the package for shipping.",
+            "sent3": "The waybill decided to take a vacation from all the shipping.",
+            "sent4": "Her memory was like a waybill, listing every detail of the event.",
+            "sent5": "The waybill, like a detective's notebook, held all the clues to the shipment."
         },
         {
             "definition": "To provide a waybill for a shipment.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "They waybill the cargo before sending it off.",
+            "sent2": "Remember to waybill the goods before they leave the warehouse.",
+            "sent3": "The cat tried to waybill its toy mouse, thinking it was a shipment.",
+            "sent4": "His words waybill the emotions hidden beneath the surface.",
+            "sent5": "She waybills each package with care, ensuring nothing gets lost in transit."
         }
     ]
 }

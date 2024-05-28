@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To measure or estimate incorrectly.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She mismeasured the ingredients for the cake and it turned out too salty.",
+            "sent2": "The tailor mismeasured the length of the pants, making them too short.",
+            "sent3": "The carpenter mismeasured the wood and ended up with a wonky table.",
+            "sent4": "His mismeasured steps led him off the path and into the bushes.",
+            "sent5": "The scientist's mismeasured data skewed the results of the experiment."
         },
         {
             "definition": "Incorrectly measured or estimated.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The mismeasured table was too big for the room.",
+            "sent2": "She realized the mismeasured rug didn't fit the space as planned.",
+            "sent3": "The mismeasured map led them in circles during the hike.",
+            "sent4": "His mismeasured expectations left him disappointed.",
+            "sent5": "The mismeasured wall made the room feel cramped."
         }
     ]
 }

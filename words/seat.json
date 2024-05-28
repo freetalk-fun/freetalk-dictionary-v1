@@ -3,19 +3,39 @@
     "meanings": [
         {
             "definition": "A piece of furniture designed for sitting on.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The wooden seat in the park was perfect for resting.",
+            "sent2": "She found a comfortable seat by the window in the cafe.",
+            "sent3": "The seat at the picnic table seemed to be whispering 'sit here'.",
+            "sent4": "His throne was a seat of power and authority.",
+            "sent5": "The seat on the swing swayed gently in the breeze."
         },
         {
             "definition": "A place or space occupied by something.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The front seat of the car was reserved for the driver.",
+            "sent2": "The empty seat at the table was waiting for its occupant.",
+            "sent3": "The seat of the bicycle was missing, making it impossible to ride.",
+            "sent4": "The seat of government was located in the capital city.",
+            "sent5": "The seat on the bus was warm from the previous passenger."
         },
         {
             "definition": "To cause to sit down.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Please seat yourself at the dining table for dinner.",
+            "sent2": "The teacher asked the students to seat themselves in a circle.",
+            "sent3": "He tried to seat the cat in the tiny dollhouse chair for fun.",
+            "sent4": "The hostess will seat you at your table shortly.",
+            "sent5": "The flight attendant will seat you in the emergency exit row."
         },
         {
             "definition": "To be entitled to a particular position or status.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "After years of hard work, she finally seated herself as the CEO.",
+            "sent2": "He was seated as the head of the committee due to his expertise.",
+            "sent3": "The young prince was seated as the ruler of the kingdom.",
+            "sent4": "The champion was seated as the best player in the league.",
+            "sent5": "She was seated as the winner of the prestigious award."
         }
     ]
 }

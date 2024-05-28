@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To adjust or adapt for a particular purpose or situation.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She was tunning the radio to find her favorite station.",
+            "sent2": "He spent hours tunning his speech for the presentation.",
+            "sent3": "The chef was tunning the recipe to make it spicier.",
+            "sent4": "The mechanic was tunning the engine to improve its performance.",
+            "sent5": "Tunning the settings on the camera made the photos look much better."
         },
         {
             "definition": "The act of making something more effective or efficient.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Regular maintenance is essential for the tunning of the machinery.",
+            "sent2": "The tunning of the process led to significant cost savings.",
+            "sent3": "The tunning of the schedule made everyone finish work early.",
+            "sent4": "The tunning of the system resulted in faster processing times.",
+            "sent5": "The tunning of the algorithm improved the accuracy of the results."
         },
         {
             "definition": "The process of fine-tuning or adjusting a musical instrument.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The musician spent hours tunning his guitar before the concert.",
+            "sent2": "Tunning the piano is crucial for a beautiful sound.",
+            "sent3": "The tunning of the violin made it sound like a different instrument.",
+            "sent4": "The tunning of the drums created a perfect rhythm.",
+            "sent5": "The tunning of the trumpet made it sound clear and bright."
         }
     ]
 }

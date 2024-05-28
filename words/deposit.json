@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To put or set down, especially for safekeeping",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I will deposit the book on the shelf.",
+            "sent2": "Please deposit your dirty clothes in the laundry basket.",
+            "sent3": "The squirrel tried to deposit the acorn in the wrong tree.",
+            "sent4": "She felt like she needed to deposit her worries in a mental vault.",
+            "sent5": "The teacher asked the students to deposit their homework in the bin."
         },
         {
             "definition": "A sum of money placed in a bank account",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I made a deposit of $20 at the bank.",
+            "sent2": "Her grandmother gave her a deposit for her college fund.",
+            "sent3": "The piggy bank was full of shiny deposits.",
+            "sent4": "His kindness was a deposit of goodwill in the community.",
+            "sent5": "The treasure hunter found a hidden deposit of gold coins."
         },
         {
             "definition": "A layer or mass of a substance that has been left behind by a natural process",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The river left a deposit of sand on the shore.",
+            "sent2": "The cave was filled with mineral deposits.",
+            "sent3": "The cat left a deposit of fur on the couch.",
+            "sent4": "The storm left a deposit of snow on the mountain.",
+            "sent5": "The volcano's eruption created a deposit of ash on the ground."
         }
     ]
 }

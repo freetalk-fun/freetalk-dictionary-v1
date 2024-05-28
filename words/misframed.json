@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To frame incorrectly or inaccurately.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She misframed the picture by placing it upside down.",
+            "sent2": "The carpenter misframed the door, causing it to not close properly.",
+            "sent3": "The artist misframed the painting, making it look like a jumbled mess.",
+            "sent4": "His words misframed the situation, distorting the truth.",
+            "sent5": "The photographer misframed the shot, cutting off the subject's head."
         },
         {
             "definition": "Incorrectly or inaccurately framed.",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "The mirror hung misframed on the wall.",
+            "sent2": "The painting was displayed misframed in the gallery.",
+            "sent3": "He walked misframed through the doorway, bumping into the frame.",
+            "sent4": "The photo was printed misframed, cutting off half of the image.",
+            "sent5": "The glasses sat misframed on her face, crooked and askew."
         }
     ]
 }

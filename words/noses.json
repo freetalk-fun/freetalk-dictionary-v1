@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "The plural form of the noun 'nose', referring to the part of the face used for smelling and breathing.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Dogs use their noses to sniff out treats.",
+            "sent2": "She wrinkled her nose when she smelled the stinky cheese.",
+            "sent3": "The detective's nose led him straight to the missing cookie jar.",
+            "sent4": "The bloodhound's nose was like a GPS for finding lost items.",
+            "sent5": "The clown's red nose was the highlight of the circus show."
         },
         {
             "definition": "The third person singular form of the verb 'to nose', meaning to push or move forward with the nose.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The horse gently noses the gate to open it.",
+            "sent2": "The curious cat noses around in the garden.",
+            "sent3": "The puppy noses the ball playfully across the room.",
+            "sent4": "The rabbit noses its way through the tall grass.",
+            "sent5": "The toddler noses the toy car along the floor with delight."
         },
         {
             "definition": "The third person singular form of the verb 'to nose', meaning to detect or search for something by smell.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The bear noses the air, searching for food.",
+            "sent2": "The chef noses the soup to check if it's ready.",
+            "sent3": "The robot noses around the room looking for the lost key.",
+            "sent4": "The bloodhound noses out the trail of the escaped convict.",
+            "sent5": "The explorer noses out the rare flower hidden in the jungle."
         }
     ]
 }

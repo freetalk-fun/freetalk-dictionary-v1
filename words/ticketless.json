@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Without a ticket",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "She traveled ticketless on the bus.",
+            "sent2": "He entered the concert ticketless and had to buy one at the door.",
+            "sent3": "The magician performed his tricks ticketless, making everyone wonder how he did it.",
+            "sent4": "The student's mind wandered ticketless during the boring lecture.",
+            "sent5": "The bird flew ticketless through the open sky, feeling truly free."
         },
         {
             "definition": "Lacking a ticket",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The ticketless passenger was asked to leave the train.",
+            "sent2": "The ticketless event caused chaos at the entrance.",
+            "sent3": "The ticketless traveler tried to sneak into the movie theater.",
+            "sent4": "The ticketless party had to wait outside the venue.",
+            "sent5": "The ticketless journey left them stranded at the station."
         }
     ]
 }

@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To get or bring back something",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She retrieved her lost keys from the couch.",
+            "sent2": "The dog retrieved the ball during the game.",
+            "sent3": "He retrieved the forgotten umbrella just in time for the rain.",
+            "sent4": "The memories of childhood were retrieved by the old photograph.",
+            "sent5": "The detective retrieved the crucial evidence from the crime scene."
         },
         {
             "definition": "To find and bring back something",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The librarian retrieved the book from the shelf for the student.",
+            "sent2": "The search team retrieved the missing hiker from the forest.",
+            "sent3": "She retrieved the recipe from the old cookbook for the family dinner.",
+            "sent4": "The explorer retrieved the ancient artifact from the depths of the cave.",
+            "sent5": "The fisherman retrieved the big catch from the deep sea."
         },
         {
             "definition": "To recover or regain something",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He retrieved his strength after a good night's sleep.",
+            "sent2": "The patient retrieved quickly after the surgery.",
+            "sent3": "She retrieved her confidence after the setback.",
+            "sent4": "The team retrieved their lead in the final minutes of the game.",
+            "sent5": "The company retrieved its reputation with the successful product launch."
         }
     ]
 }

@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A piece of cloth worn to cover the head and face.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "She wore a white veil on her wedding day.",
+            "sent2": "The bride's veil flowed behind her as she walked down the aisle.",
+            "sent3": "The mischievous child played peek-a-boo with the veil.",
+            "sent4": "The fog acted like a veil, hiding the city from view.",
+            "sent5": "The magician made the dove disappear behind a veil."
         },
         {
             "definition": "To cover or conceal with or as if with a veil.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The dancer veiled her face with a scarf during the performance.",
+            "sent2": "Dark clouds veiled the moon, casting shadows on the ground.",
+            "sent3": "The spy veiled his true intentions behind a friendly smile.",
+            "sent4": "Emotions veiled in secrecy can lead to misunderstandings.",
+            "sent5": "The artist veiled the portrait to create a sense of mystery."
         },
         {
             "definition": "A covering that conceals or disguises.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The mist acted as a veil, hiding the mountain peak.",
+            "sent2": "The hacker used multiple layers of encryption as a digital veil.",
+            "sent3": "The comedian's jokes served as a veil to his true feelings.",
+            "sent4": "The politician's promises were just a veil for his hidden agenda.",
+            "sent5": "The mask served as a veil to protect the doctor from germs."
         }
     ]
 }

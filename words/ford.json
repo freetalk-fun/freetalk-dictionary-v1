@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A shallow place in a river or stream where one can cross on foot or by vehicle.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The hikers crossed the ford carefully.",
+            "sent2": "The car drove through the ford without any issues.",
+            "sent3": "The ford was so shallow that even a child could wade through it.",
+            "sent4": "The ford acted as a natural bridge over the stream.",
+            "sent5": "The ford was a convenient shortcut for the travelers."
         },
         {
             "definition": "To cross a river or stream at a shallow place.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The explorers decided to ford the river to reach the other side.",
+            "sent2": "She forded the stream confidently, knowing it was not too deep.",
+            "sent3": "The family had to ford the river to get to the picnic spot on the other side.",
+            "sent4": "He forded the stream swiftly, eager to continue his journey.",
+            "sent5": "Fording the river was a thrilling adventure for the group of friends."
         }
     ]
 }

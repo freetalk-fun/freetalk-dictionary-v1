@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "In a different way or manner",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "She could alternatively take the bus to work.",
+            "sent2": "You can choose to walk or alternatively ride a bike.",
+            "sent3": "He decided to cook dinner alternatively by using the microwave.",
+            "sent4": "The artist painted the landscape alternatively with bold strokes.",
+            "sent5": "The students could alternatively study together to prepare for the exam."
         },
         {
             "definition": "As an alternative or choice",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "If you don't like tea, you can alternatively have coffee.",
+            "sent2": "You can alternatively watch a movie instead of going out.",
+            "sent3": "She packed a sandwich alternatively in case she got hungry later.",
+            "sent4": "The store offers a refund or alternatively store credit.",
+            "sent5": "You can alternatively wear a sweater if you feel cold."
         },
         {
             "definition": "On the other hand",
-            "pos": "conjunction"
+            "pos": "conjunction",
+            "sent1": "She loves ice cream; alternatively, he prefers cake.",
+            "sent2": "I enjoy reading; alternatively, my brother likes playing video games.",
+            "sent3": "He wanted to go out; alternatively, she wanted to stay in.",
+            "sent4": "The team could win the game; alternatively, they could lose.",
+            "sent5": "She might arrive early; alternatively, she might be late."
         }
     ]
 }

@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "The act of interrupting or causing a break in a process or activity.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The sudden interruption during the movie surprised everyone.",
+            "sent2": "Please do not talk during the lesson to avoid any interruption.",
+            "sent3": "The cat's playful interruption of the meeting made everyone smile.",
+            "sent4": "Her laughter was an interruption to the silence of the room.",
+            "sent5": "The loud noise outside was a jarring interruption to the peaceful evening."
         },
         {
             "definition": "A temporary or brief pause or stop in something ongoing.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The power outage caused an interruption in the live broadcast.",
+            "sent2": "Let's take a short interruption before continuing with the game.",
+            "sent3": "The unexpected interruption in the music added a fun twist to the party.",
+            "sent4": "The interruption in the rain brought out a rainbow in the sky.",
+            "sent5": "The phone call was a welcome interruption during the boring meeting."
         }
     ]
 }

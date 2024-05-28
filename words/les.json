@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Not as much as",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "She ate les candy than her brother.",
+            "sent2": "He runs les quickly than his friends.",
+            "sent3": "The squirrel was les interested in the acorn than the nut.",
+            "sent4": "Her voice was les loud than the thunder.",
+            "sent5": "The sun shines les brightly on a cloudy day."
         },
         {
             "definition": "A unit of currency in Latvia",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "He exchanged his euros for les.",
+            "sent2": "The shop only accepted les for payment.",
+            "sent3": "The traveler found a rare coin worth les.",
+            "sent4": "In Latvia, les is the common currency.",
+            "sent5": "She saved up les for her trip to Latvia."
         },
         {
             "definition": "A suffix denoting a plural form of a word",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The word 'apples' uses les to show more than one.",
+            "sent2": "In Spanish, 'amigos' uses les to indicate friends.",
+            "sent3": "The cats' meows sounded like les of a choir.",
+            "sent4": "The trees' leaves rustled with les in the wind.",
+            "sent5": "The children's laughter echoed with les in the playground."
         }
     ]
 }

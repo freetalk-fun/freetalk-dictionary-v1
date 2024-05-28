@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A measure of disorder or randomness in a system",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The entropy of the room increased as the children played and scattered their toys everywhere.",
+            "sent2": "Scientists use entropy to describe how chaotic a system is.",
+            "sent3": "The entropy of my desk is so high that I can never find anything on it!",
+            "sent4": "As the party went on, the entropy of the living room reached a peak with streamers and confetti everywhere.",
+            "sent5": "The entropy of the forest after the storm was a sight to behold, with fallen trees and branches scattered in every direction."
         },
         {
             "definition": "Lack of order or predictability; gradual decline into disorder",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The entropy in the classroom was evident as the students moved around chaotically.",
+            "sent2": "Over time, the entropy of the old building led to its crumbling and decay.",
+            "sent3": "Trying to organize my closet felt like battling against the entropy of my clothes.",
+            "sent4": "The entropy of the city streets at night gave them a mysterious and unpredictable vibe.",
+            "sent5": "The entropy of the abandoned house was so high that even the walls seemed to be crumbling into disorder."
         }
     ]
 }

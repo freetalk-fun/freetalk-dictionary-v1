@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To suggest that a particular treatment or procedure should not be used because it may be harmful or ineffective.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The doctor contraindicates the use of antibiotics for a viral infection.",
+            "sent2": "The warning label contraindicates mixing alcohol with this medication.",
+            "sent3": "His silly antics contraindicate taking him seriously.",
+            "sent4": "The stormy weather contraindicates a picnic in the park.",
+            "sent5": "The red traffic light contraindicates driving through the intersection."
         },
         {
             "definition": "To indicate that a certain condition or factor makes a particular treatment or procedure inadvisable.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The patient's age contraindicates surgery as a viable option.",
+            "sent2": "The presence of allergies contraindicates using that skincare product.",
+            "sent3": "His fear of heights contraindicates climbing the tall ladder.",
+            "sent4": "The loud noise contraindicates a peaceful atmosphere.",
+            "sent5": "The heavy rain contraindicates going for a walk outside."
         }
     ]
 }

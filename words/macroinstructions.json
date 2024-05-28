@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A single instruction that expands into a set of instructions to perform a particular task.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Following the macroinstructions, the robot completed the task efficiently.",
+            "sent2": "The programmer created macroinstructions to simplify the complex coding process.",
+            "sent3": "The macroinstructions seemed to have a mind of their own, making the task look easy.",
+            "sent4": "Her detailed macroinstructions were like a map guiding the computer through the task.",
+            "sent5": "The macroinstructions were like magic spells, transforming into actions before our eyes."
         },
         {
             "definition": "A set of instructions that are defined and used in a computer program to simplify coding.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The team relied on the macroinstructions to write the program efficiently.",
+            "sent2": "Using macroinstructions saved time during the coding process.",
+            "sent3": "The macroinstructions danced across the screen, making coding look like a breeze.",
+            "sent4": "In the world of coding, macroinstructions were the superheroes saving time and effort.",
+            "sent5": "The simplicity of macroinstructions made coding feel like a fun puzzle to solve."
         }
     ]
 }

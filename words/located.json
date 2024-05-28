@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Situated in a particular place.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The cozy cafe is located on the corner of the street.",
+            "sent2": "The library is located near the park.",
+            "sent3": "The sleepy cat located itself on the sunny windowsill.",
+            "sent4": "Her smile was located in her eyes, shining brightly.",
+            "sent5": "The hidden treasure was located deep within the cave."
         },
         {
             "definition": "To find the exact position of something.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The detective located the missing key under the bed.",
+            "sent2": "I located my lost phone by calling it.",
+            "sent3": "The magician located the rabbit in his hat unexpectedly.",
+            "sent4": "She located the source of the sound in the old attic.",
+            "sent5": "The explorer located the ancient ruins using a map."
         },
         {
             "definition": "To establish oneself in a particular place.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The new family located themselves in the quiet neighborhood.",
+            "sent2": "He located his business in the bustling city center.",
+            "sent3": "The adventurous squirrel located its nest in the tall tree.",
+            "sent4": "She located her favorite spot in the park for reading.",
+            "sent5": "The nomadic tribe located near the flowing river for fresh water."
         }
     ]
 }

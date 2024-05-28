@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To point out or show something",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The arrow indicates the direction to go.",
+            "sent2": "Her finger indicates the correct answer on the map.",
+            "sent3": "The flashing neon sign indicates the best place to eat in town.",
+            "sent4": "The rising sun indicates the start of a new day.",
+            "sent5": "The teacher's smile indicates approval of your work."
         },
         {
             "definition": "To suggest or imply something",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "His tone of voice indicates he is not happy.",
+            "sent2": "The dark clouds indicate that it might rain soon.",
+            "sent3": "The empty cookie jar indicates someone has been snacking.",
+            "sent4": "The loud music indicates there is a party next door.",
+            "sent5": "The long line at the store indicates a sale is happening."
         },
         {
             "definition": "To serve as a sign or signal of something",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The red light indicates it is not safe to cross the street.",
+            "sent2": "The sudden drop in temperature indicates winter is coming.",
+            "sent3": "The loud roar of the crowd indicates a goal has been scored.",
+            "sent4": "The chirping of birds indicates the arrival of spring.",
+            "sent5": "The ringing phone indicates someone is calling."
         }
     ]
 }

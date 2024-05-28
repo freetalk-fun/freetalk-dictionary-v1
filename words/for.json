@@ -3,23 +3,48 @@
     "meanings": [
         {
             "definition": "Used to indicate the purpose or reason for something.",
-            "pos": "preposition"
+            "pos": "preposition",
+            "sent1": "She went to the store for milk.",
+            "sent2": "He is studying for his exam.",
+            "sent3": "The cat meowed for attention.",
+            "sent4": "The sunflower turned for sunlight.",
+            "sent5": "The detective searched for clues."
         },
         {
             "definition": "Used to indicate the recipient or beneficiary of an action.",
-            "pos": "pronoun"
+            "pos": "pronoun",
+            "sent1": "I made this cake for you.",
+            "sent2": "They are giving the award for her.",
+            "sent3": "The dog barked for him to play.",
+            "sent4": "The tree provides shade for them.",
+            "sent5": "The teacher explained the lesson for us."
         },
         {
             "definition": "Used to indicate a duration of time.",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "She waited for hours.",
+            "sent2": "They practiced singing for days.",
+            "sent3": "The clock ticked for minutes.",
+            "sent4": "The baby slept for hours.",
+            "sent5": "The movie played for hours."
         },
         {
             "definition": "Used to indicate a goal or objective.",
-            "pos": "preposition"
+            "pos": "preposition",
+            "sent1": "He ran for the finish line.",
+            "sent2": "She worked hard for a promotion.",
+            "sent3": "The squirrel jumped for the acorn.",
+            "sent4": "The athlete trained for the competition.",
+            "sent5": "The student studied for good grades."
         },
         {
             "definition": "Used to indicate a relationship or connection.",
-            "pos": "preposition"
+            "pos": "preposition",
+            "sent1": "She cares for her plants.",
+            "sent2": "They are responsible for the project.",
+            "sent3": "The magnet attracts metal for science.",
+            "sent4": "The bridge connects two cities for travel.",
+            "sent5": "The siblings look out for each other."
         }
     ]
 }

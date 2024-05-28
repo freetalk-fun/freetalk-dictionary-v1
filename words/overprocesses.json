@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To process excessively or too much.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She overprocesses the dough, making it tough and dry.",
+            "sent2": "He always overprocesses his photos, making them look unnatural.",
+            "sent3": "The machine overprocesses the paper, turning it into confetti.",
+            "sent4": "Her mind overprocesses every little detail, causing unnecessary stress.",
+            "sent5": "The factory overprocesses the food, stripping it of its natural flavor."
         },
         {
             "definition": "The act of processing something excessively.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The overprocesses of the data led to confusion among the team.",
+            "sent2": "His overprocesses of paperwork slowed down the entire project.",
+            "sent3": "The overprocesses of the machine made it malfunction and break down.",
+            "sent4": "The overprocesses of information overwhelmed the system's capacity.",
+            "sent5": "The overprocesses of the ingredients resulted in a bland dish."
         }
     ]
 }

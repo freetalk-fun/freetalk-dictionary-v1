@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Without",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "She walked through the forest sans fear.",
+            "sent2": "He completed the puzzle sans any help.",
+            "sent3": "The magician performed his tricks sans a wand.",
+            "sent4": "The room was filled with silence, sans any noise.",
+            "sent5": "The garden bloomed beautifully, sans any weeds."
         },
         {
             "definition": "Excluding",
-            "pos": "preposition"
+            "pos": "preposition",
+            "sent1": "Everyone is invited to the party, sans Tom.",
+            "sent2": "The team won the game, sans their star player.",
+            "sent3": "The recipe calls for all ingredients, sans the salt.",
+            "sent4": "The group photo was taken, sans the photographer.",
+            "sent5": "The package arrived, sans the missing item."
         },
         {
             "definition": "Apart from",
-            "pos": "preposition"
+            "pos": "preposition",
+            "sent1": "She enjoys all sports, sans swimming.",
+            "sent2": "The bookshelf held all genres, sans mystery novels.",
+            "sent3": "The buffet had a variety of dishes, sans seafood.",
+            "sent4": "The park had many attractions, sans the carousel.",
+            "sent5": "The museum displayed various artifacts, sans ancient relics."
         }
     ]
 }

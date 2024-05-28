@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To take place",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The party will happen at the park.",
+            "sent2": "It will happen tomorrow.",
+            "sent3": "Let's make it happen!",
+            "sent4": "The magic show will happen in your backyard.",
+            "sent5": "The concert will happen under the stars."
         },
         {
             "definition": "To occur",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Accidents happen unexpectedly.",
+            "sent2": "It can happen at any moment.",
+            "sent3": "Don't worry, it will happen soon.",
+            "sent4": "Ideas can happen in the most unexpected places.",
+            "sent5": "The change will happen gradually."
         },
         {
             "definition": "To come to pass",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The meeting will happen as planned.",
+            "sent2": "It happened just as she predicted.",
+            "sent3": "How did that happen?",
+            "sent4": "The miracle happened in an instant.",
+            "sent5": "The transformation will happen over time."
         }
     ]
 }

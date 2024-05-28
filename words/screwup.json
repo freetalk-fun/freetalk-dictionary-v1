@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A person who makes a mistake or messes up.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The new employee was a real screwup in the office.",
+            "sent2": "Don't worry, everyone makes a screwup now and then.",
+            "sent3": "The screwup at the party spilled juice all over the floor.",
+            "sent4": "Being a screwup in the kitchen, she managed to burn toast.",
+            "sent5": "The teacher pointed out the screwup in the math homework."
         },
         {
             "definition": "To make a mistake or error.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I always seem to screwup when I try to fix things.",
+            "sent2": "If you rush, you might screwup the entire project.",
+            "sent3": "He managed to screwup the simplest task by overthinking it.",
+            "sent4": "Her attempt to bake a cake ended in a massive screwup.",
+            "sent5": "Try not to screwup the presentation by speaking too fast."
         },
         {
             "definition": "A mistake or error.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The small screwup in the report caused confusion.",
+            "sent2": "Making a screwup in the budget can have serious consequences.",
+            "sent3": "The screwup in the recipe turned the cake green.",
+            "sent4": "His decision to take a shortcut was a major screwup.",
+            "sent5": "The screwup in the schedule led to chaos in the office."
         }
     ]
 }

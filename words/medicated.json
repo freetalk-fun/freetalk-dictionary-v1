@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Treated with medicine or drugs.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The medicated patient felt better after taking the prescribed pills.",
+            "sent2": "The medicated cat quickly recovered from its illness.",
+            "sent3": "The medicated dog happily wagged its tail after the vet visit.",
+            "sent4": "The medicated plants grew stronger and healthier in the sunlight.",
+            "sent5": "The medicated lotion soothed the irritated skin effectively."
         },
         {
             "definition": "Administered medication to.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The nurse medicated the patient with the prescribed dosage.",
+            "sent2": "The doctor medicated the child to alleviate the pain.",
+            "sent3": "The pharmacist medicated the customer with the correct medication.",
+            "sent4": "The veterinarian medicated the injured bird with care.",
+            "sent5": "The caregiver medicated the elderly woman with compassion and expertise."
         }
     ]
 }

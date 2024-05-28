@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "relating to or written in capital letters",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The teacher asked the students to write their names in UPPERCASE letters.",
+            "sent2": "In the title of the book, the author used UPPERCASE text for emphasis.",
+            "sent3": "The cat tried to type in UPPERCASE on the keyboard but kept hitting the wrong keys.",
+            "sent4": "Her excitement was like an UPPERCASE exclamation mark at the end of a sentence.",
+            "sent5": "The UPPERCASE words on the sign caught everyone's attention immediately."
         },
         {
             "definition": "a capital letter",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The password must contain at least one UPPERCASE letter for security.",
+            "sent2": "In the alphabet, 'A' is an example of an UPPERCASE letter.",
+            "sent3": "The detective found a mysterious note with an UPPERCASE 'X' at the bottom.",
+            "sent4": "His signature always included an UPPERCASE 'J' that stood out.",
+            "sent5": "The logo of the company featured a bold UPPERCASE 'C' in the center."
         }
     ]
 }

@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Undergoes a transformation or change in form",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The caterpillar morphs into a butterfly.",
+            "sent2": "The tadpole morphs into a frog.",
+            "sent3": "The pumpkin morphs into a carriage for Cinderella.",
+            "sent4": "Her confidence morphs her into a fearless leader.",
+            "sent5": "The chrysalis morphs the caterpillar into a beautiful butterfly."
         },
         {
             "definition": "A sequence of images that represent gradual changes in shape or form",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The animation shows the morphs from one shape to another.",
+            "sent2": "The artist created a series of morphs to illustrate the transformation.",
+            "sent3": "The morphs in the movie were so realistic, they made me laugh.",
+            "sent4": "The morphs in the video game were like magic on the screen.",
+            "sent5": "The morphs in the presentation captivated the audience with their smooth transitions."
         },
         {
             "definition": "A distinct physical form or variety within a species",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The bird with bright feathers is a unique morph within its species.",
+            "sent2": "The new flower discovered is a rare morph of the common species.",
+            "sent3": "The purple potato is a fun morph of the regular white ones.",
+            "sent4": "The black sheep of the family is a rebellious morph in their group.",
+            "sent5": "The giant panda is a beloved morph of the bear family."
         }
     ]
 }

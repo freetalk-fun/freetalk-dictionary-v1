@@ -3,19 +3,39 @@
     "meanings": [
         {
             "definition": "A device that explodes with great force",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The bomb exploded loudly in the field.",
+            "sent2": "The bomb was carefully disarmed by the experts.",
+            "sent3": "The cartoon character tried to juggle a bomb, causing chaos.",
+            "sent4": "Her laughter was like a bomb, spreading joy everywhere.",
+            "sent5": "The bomb's impact shook the entire neighborhood."
         },
         {
             "definition": "A complete failure",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The party turned out to be a bomb with no guests showing up.",
+            "sent2": "The movie was a bomb at the box office, receiving poor reviews.",
+            "sent3": "His attempt at cooking turned into a bomb, burning the dish.",
+            "sent4": "The project's failure was a bomb, disappointing everyone involved.",
+            "sent5": "Her joke fell flat like a bomb, leaving an awkward silence."
         },
         {
             "definition": "To attack with bombs",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The military decided to bomb the enemy's stronghold.",
+            "sent2": "The planes were sent to bomb the enemy's positions.",
+            "sent3": "He jokingly threatened to bomb his friend's video game score.",
+            "sent4": "Her words seemed to bomb his confidence, leaving him speechless.",
+            "sent5": "The protesters planned to bomb the government building with leaflets."
         },
         {
             "definition": "To fail spectacularly",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The magician's trick bombed in front of the audience.",
+            "sent2": "Her stand-up comedy routine bombed, receiving no laughs.",
+            "sent3": "His attempt to impress her with a joke bombed, making her cringe.",
+            "sent4": "The new product launch bombed, leading to huge losses.",
+            "sent5": "His plan to skip studying and still pass the test bombed miserably."
         }
     ]
 }

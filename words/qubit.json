@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A unit of information in quantum computing, analogous to a bit in classical computing.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "In quantum computing, a qubit can hold more information than a classical bit.",
+            "sent2": "Scientists use qubits to perform complex calculations in quantum computers.",
+            "sent3": "I heard a qubit joke today - it was superposition hilarious!",
+            "sent4": "Her mind was like a qubit, constantly in a state of uncertainty.",
+            "sent5": "The qubit's ability to exist in multiple states simultaneously is mind-boggling."
         },
         {
             "definition": "The basic unit of quantum information, representing a superposition of 0 and 1.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "A qubit can be both 0 and 1 at the same time in quantum information.",
+            "sent2": "The qubit's superposition allows for quantum entanglement to occur.",
+            "sent3": "The qubit was feeling indecisive today, so it chose to be both 0 and 1.",
+            "sent4": "His thoughts were like qubits, entangled in a web of possibilities.",
+            "sent5": "The qubit's dual nature makes it a fundamental building block of quantum computing."
         }
     ]
 }

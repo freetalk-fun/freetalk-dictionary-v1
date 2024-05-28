@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A subdivision of an IP network.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The subnet allows for better organization of the network.",
+            "sent2": "I need to check the settings for the subnet on our network.",
+            "sent3": "The subnet threw a party and invited all the devices.",
+            "sent4": "The subnet is like a neighborhood where each house represents a different device.",
+            "sent5": "The subnet is like a small community within the larger network."
         },
         {
             "definition": "To divide a network into smaller parts.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "We will subnet the network to improve its efficiency.",
+            "sent2": "It is important to subnet the network for security reasons.",
+            "sent3": "I tried to subnet the network, but ended up confusing everyone.",
+            "sent4": "She subnetted the network with precision, like a skilled architect.",
+            "sent5": "Subnetting the network is like creating separate neighborhoods for different devices."
         }
     ]
 }

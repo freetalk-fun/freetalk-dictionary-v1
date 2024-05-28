@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "One who complies with rules or requests.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The complier always follows the teacher's instructions.",
+            "sent2": "The new student is a diligent complier with the school's dress code.",
+            "sent3": "The complier made sure to finish all their homework before bedtime.",
+            "sent4": "She was a dedicated complier, never missing a deadline.",
+            "sent5": "The complier's commitment to following the rules was commendable."
         },
         {
             "definition": "A software program that translates source code written in a high-level programming language into machine code.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The computer science student used a complier to convert their code into executable files.",
+            "sent2": "The complier helped streamline the development process by automating code translation.",
+            "sent3": "The quirky complier software had a habit of adding emojis to the output.",
+            "sent4": "The complier worked tirelessly behind the scenes, turning lines of code into functional programs.",
+            "sent5": "Using the complier made the complex coding language more accessible to beginners."
         }
     ]
 }

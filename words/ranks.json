@@ -3,19 +3,39 @@
     "meanings": [
         {
             "definition": "A row or line of people or things.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The soldiers stood in ranks during the parade.",
+            "sent2": "The students lined up in ranks for the school assembly.",
+            "sent3": "The ranks of colorful flowers in the garden looked like a rainbow.",
+            "sent4": "The ranks of books on the shelf seemed to be having a meeting.",
+            "sent5": "The ranks of trees along the path created a beautiful natural corridor."
         },
         {
             "definition": "A position in a hierarchy.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "She quickly rose through the ranks to become a manager.",
+            "sent2": "The CEO held the highest rank in the company.",
+            "sent3": "In the world of insects, the ant queen holds the highest rank.",
+            "sent4": "The rank of captain in the army carries great responsibility.",
+            "sent5": "His dedication earned him a high rank in the organization."
         },
         {
             "definition": "To arrange in a row or line.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She ranks the books on the shelf by genre.",
+            "sent2": "The teacher asked the students to rank themselves in order of height.",
+            "sent3": "He decided to rank his collection of stamps from smallest to largest.",
+            "sent4": "The chef carefully ranked the spices in the kitchen.",
+            "sent5": "The librarian will rank the new books on the shelves tomorrow."
         },
         {
             "definition": "To have a particular position in a hierarchy.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He ranks as the top scorer in the basketball team.",
+            "sent2": "The professor ranks among the most respected in the university.",
+            "sent3": "The cat thinks it ranks higher than the dog in the household hierarchy.",
+            "sent4": "The artist's work ranks with the best in the gallery.",
+            "sent5": "Her performance ranks as one of the finest in the history of the theater."
         }
     ]
 }

@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A person or thing that brings about a result or change.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The effecter of the experiment was the new fertilizer.",
+            "sent2": "The teacher was the effecter of positive change in the students' behavior.",
+            "sent3": "The mischievous effecter of chaos turned out to be a playful puppy.",
+            "sent4": "Her smile was the effecter of joy in the room.",
+            "sent5": "The effecter of the decision was evident in the improved sales numbers."
         },
         {
             "definition": "To bring about or accomplish.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She hoped to effecter a positive change in the community.",
+            "sent2": "The team worked together to effecter their goal of winning the championship.",
+            "sent3": "The magician tried to effecter a rabbit out of the hat but failed comically.",
+            "sent4": "His speech was able to effecter a sense of unity among the audience.",
+            "sent5": "The rain effectered a sense of calm over the garden."
         }
     ]
 }

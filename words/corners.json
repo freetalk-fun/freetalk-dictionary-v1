@@ -3,19 +3,39 @@
     "meanings": [
         {
             "definition": "The point where two converging lines meet.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I placed the book at the corners of the table.",
+            "sent2": "The cat likes to hide in the corners of the room.",
+            "sent3": "The spider spun its web in the corners of the ceiling.",
+            "sent4": "Her eyes darted to the corners of the room, searching for any movement.",
+            "sent5": "The treasure was hidden in the dark corners of the cave."
         },
         {
             "definition": "A place or angle where two or more sides or edges meet.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The box was damaged at the corners during shipping.",
+            "sent2": "She sat at the corners of the table to have a better view.",
+            "sent3": "The children played tag, running around the corners of the playground.",
+            "sent4": "The old house had ivy growing around the corners of the windows.",
+            "sent5": "The artist focused on capturing the light hitting the corners of the building."
         },
         {
             "definition": "A position of advantage or control.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "He strategically placed himself at the corners of the chessboard.",
+            "sent2": "The team's captain led them to victory from the corners of the field.",
+            "sent3": "She always managed to find herself in the best corners of the room during meetings.",
+            "sent4": "The spy observed the meeting from the corners of the room, unnoticed.",
+            "sent5": "The detective knew that the key to solving the case lay in the dark corners of the suspect's past."
         },
         {
             "definition": "To force (someone) into a difficult or inescapable position.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The negotiator tried to corners the suspect into confessing.",
+            "sent2": "The cat corners the mouse in the kitchen, ready to pounce.",
+            "sent3": "She cleverly corners her opponents in debates with well-researched arguments.",
+            "sent4": "The villain corners the hero on the edge of the cliff, laughing triumphantly.",
+            "sent5": "The storm corners the ship, leaving the crew with no escape route."
         }
     ]
 }

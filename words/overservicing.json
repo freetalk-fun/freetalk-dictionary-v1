@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Provide more service than necessary or requested.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The mechanic tends to overservice my car, always recommending unnecessary repairs.",
+            "sent2": "I hope the restaurant doesn't overservice us with too many appetizers before our main course.",
+            "sent3": "The barber accidentally overserviced my haircut, leaving me with a much shorter style than I wanted.",
+            "sent4": "She overserviced her presentation with too many slides, overwhelming the audience with information.",
+            "sent5": "The hotel staff's eagerness to overservice their guests led to unnecessary expenses for the management."
         },
         {
             "definition": "Excessive or unnecessary servicing.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The overservicing of the car resulted in a hefty bill for repairs.",
+            "sent2": "The overservicing of the lawn equipment led to unnecessary wear and tear.",
+            "sent3": "The overservicing of the air conditioning unit caused it to break down sooner than expected.",
+            "sent4": "The overservicing of the computer system caused it to slow down due to unnecessary programs.",
+            "sent5": "The overservicing of the customers with constant follow-up calls annoyed them rather than helped."
         }
     ]
 }

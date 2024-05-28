@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To be unsuccessful in achieving one's goal.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He fails to score a goal in the game.",
+            "sent2": "She often fails to complete her homework on time.",
+            "sent3": "The clown fails to juggle the balls, making everyone laugh.",
+            "sent4": "His old car fails to start in the cold winter mornings.",
+            "sent5": "The student fails to pass the test despite studying hard."
         },
         {
             "definition": "To neglect to do something.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She fails to water the plants, causing them to wither.",
+            "sent2": "He fails to lock the door before leaving the house.",
+            "sent3": "The chef fails to add salt to the soup, making it taste bland.",
+            "sent4": "The detective fails to follow up on a crucial lead in the case.",
+            "sent5": "The teacher fails to collect the homework assignments from the students."
         },
         {
             "definition": "To break down; stop functioning.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The old computer fails to turn on after many attempts.",
+            "sent2": "His phone fails to connect to the internet in the area with poor signal.",
+            "sent3": "The blender fails to blend the ingredients smoothly, leaving lumps in the mixture.",
+            "sent4": "The relationship fails to work out due to constant misunderstandings.",
+            "sent5": "The clock fails to chime at the correct hour, confusing everyone."
         }
     ]
 }

@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A diagrammatic representation of an area.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I used a map to find my way to the park.",
+            "sent2": "The map showed all the streets in the city.",
+            "sent3": "The map looked like a colorful puzzle of roads.",
+            "sent4": "Her mind was a map of memories, each one leading to a different place.",
+            "sent5": "The map in the book made the adventure seem real."
         },
         {
             "definition": "To plan or delineate in detail.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Let's map out our route before we start the journey.",
+            "sent2": "She mapped the project timeline on a whiteboard.",
+            "sent3": "I tried to map out my day, but unexpected things kept happening.",
+            "sent4": "His detailed plan mapped every step of the process.",
+            "sent5": "Mapping the strategy ahead of time saved us a lot of trouble."
         },
         {
             "definition": "To make a map of.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "We need to map the new hiking trail through the forest.",
+            "sent2": "The explorer mapped the uncharted territory.",
+            "sent3": "I'll map the layout of the garden to plan where to plant flowers.",
+            "sent4": "She mapped the constellations in the night sky with a laser pointer.",
+            "sent5": "Mapping the river's path was a challenging but rewarding task."
         }
     ]
 }

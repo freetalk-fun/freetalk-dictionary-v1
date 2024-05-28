@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Providing light or brightness.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The illuminating sun warmed the earth.",
+            "sent2": "The room was bright and illuminating with the new lightbulb.",
+            "sent3": "The fireflies danced in an illuminating display of light.",
+            "sent4": "Her smile was like an illuminating beacon in the dark room.",
+            "sent5": "The fireworks painted the night sky with an illuminating glow."
         },
         {
             "definition": "Making something clearer or easier to understand.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The teacher's explanation was illuminating for the students.",
+            "sent2": "The book club discussion was illuminating and insightful.",
+            "sent3": "The magician's trick was so confusing that it became illuminating.",
+            "sent4": "Her words were like an illuminating torch in the fog of confusion.",
+            "sent5": "The map was an illuminating guide through the maze of information."
         }
     ]
 }

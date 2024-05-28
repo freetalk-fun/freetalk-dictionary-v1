@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A safety device that breaks an electric circuit if the current exceeds a certain level.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The fuses in the electrical panel protect the house from fires.",
+            "sent2": "Make sure to check the fuses regularly to ensure they are working properly.",
+            "sent3": "The fuses in the circuit box decided to take a break when the power surged.",
+            "sent4": "When overloaded, the fuses sacrifice themselves to prevent damage to the appliances.",
+            "sent5": "The fuses are like silent guardians, ready to act when danger approaches."
         },
         {
             "definition": "To blend or join together by melting.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She fuses the ingredients together to create a delicious soup.",
+            "sent2": "The artist fuses different colors to form a beautiful painting.",
+            "sent3": "The chocolate fuses with the warm milk to make a tasty drink.",
+            "sent4": "His words fuses with her heart, creating a bond that can't be broken.",
+            "sent5": "The metal fuses under extreme heat, forming a strong bond."
         },
         {
             "definition": "To become mixed or blended together.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The flavors fuse together to create a unique taste in the dish.",
+            "sent2": "As the music plays, the notes fuse harmoniously in the air.",
+            "sent3": "The colors on the canvas fuse in a mesmerizing pattern.",
+            "sent4": "Their ideas fuse seamlessly, leading to a successful collaboration.",
+            "sent5": "The scents of the flowers fuse in the garden, creating a delightful aroma."
         }
     ]
 }

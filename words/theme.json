@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "The subject of a piece of writing, speech, artwork, etc.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The theme of the story was friendship.",
+            "sent2": "The author explored the theme of love in her novel.",
+            "sent3": "The theme of the play was so clear, even the youngest audience member understood.",
+            "sent4": "In the painting, the theme of nature was depicted with vibrant colors.",
+            "sent5": "The theme of courage shone brightly throughout the book."
         },
         {
             "definition": "A recurring idea or motif in a work of art or literature.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The theme of nature appeared in every chapter of the book.",
+            "sent2": "The movie's theme of redemption left a lasting impact on the viewers.",
+            "sent3": "The theme of cats wearing hats made the children giggle uncontrollably.",
+            "sent4": "Her dress was a theme of elegance and grace at the ball.",
+            "sent5": "The theme of perseverance echoed through the poem, inspiring all who read it."
         }
     ]
 }

@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "The outer surface or structure of something",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The exterior of the house was painted a bright blue.",
+            "sent2": "The exterior of the car was shiny and clean.",
+            "sent3": "The exterior of the cake was decorated with colorful frosting.",
+            "sent4": "The exterior of the forest seemed to glow in the sunlight.",
+            "sent5": "The exterior of the book had a beautiful illustration on the cover."
         },
         {
             "definition": "Situated on or relating to the outside of something",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "She admired the exterior walls of the castle.",
+            "sent2": "The exterior door was painted red.",
+            "sent3": "The exterior view from the window was breathtaking.",
+            "sent4": "His exterior demeanor was calm despite the chaos inside.",
+            "sent5": "The exterior temperature was perfect for a picnic."
         },
         {
             "definition": "The external appearance or aspect of something",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The car's sleek exterior caught everyone's attention.",
+            "sent2": "The building's exterior was modern and impressive.",
+            "sent3": "The exterior of the situation seemed dire, but there was hope.",
+            "sent4": "Her exterior confidence masked her inner doubts.",
+            "sent5": "The exterior of the mountain was covered in snow, creating a stunning view."
         }
     ]
 }

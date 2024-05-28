@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To wash (clothes, linens, etc.)",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She laundered her favorite dress before the party.",
+            "sent2": "Every weekend, she laundered all the family's clothes.",
+            "sent3": "The mischievous puppy decided to help by laundering the muddy towels in the garden.",
+            "sent4": "The rain laundered the city streets, leaving them fresh and clean.",
+            "sent5": "The gentle stream laundered the pebbles, making them sparkle in the sunlight."
         },
         {
             "definition": "To transfer illegally obtained money through a series of transactions to conceal its origins",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The criminals laundered the money through fake businesses.",
+            "sent2": "Authorities discovered a scheme to launder millions of dollars through offshore accounts.",
+            "sent3": "In a bizarre twist, the magician claimed he could launder money with a magic trick.",
+            "sent4": "The complex web of transactions laundered the funds, making them untraceable.",
+            "sent5": "The underground network laundered cash like a river flowing through hidden channels."
         },
         {
             "definition": "Clean money obtained through illegal activities",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The detective found a stash of laundered money in the criminal's hideout.",
+            "sent2": "The authorities seized the laundered cash during the raid.",
+            "sent3": "The comedian joked about a bank robber who accidentally used laundered money at a laundromat.",
+            "sent4": "The concept of laundered money in movies often involves high-stakes heists.",
+            "sent5": "The businessman unknowingly used laundered money to buy a luxury car."
         }
     ]
 }

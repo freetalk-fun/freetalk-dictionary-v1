@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A sudden, brief burst of sound or light.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The loud pells of thunder startled the children.",
+            "sent2": "The fireworks created colorful pells in the night sky.",
+            "sent3": "During the movie, the unexpected pells of laughter made everyone giggle.",
+            "sent4": "The pells of applause filled the auditorium, showing appreciation.",
+            "sent5": "The pells of the alarm clock woke me up abruptly."
         },
         {
             "definition": "To strike with force.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He pells the nail into the wood with a hammer.",
+            "sent2": "The blacksmith pells the hot metal to shape it.",
+            "sent3": "She pells the ball with all her might, sending it flying far away.",
+            "sent4": "The boxer pells his opponent with a powerful punch.",
+            "sent5": "The chef pells the garlic to release its flavor into the dish."
         },
         {
             "definition": "A spell or period of time.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "After a busy day, she took a short pells to relax.",
+            "sent2": "During the exam, students had a limited pells to complete each section.",
+            "sent3": "The magician cast a pells to make the rabbit disappear.",
+            "sent4": "The long pells of rain finally stopped, bringing out the sun.",
+            "sent5": "The pells of silence in the library allowed for peaceful studying."
         }
     ]
 }

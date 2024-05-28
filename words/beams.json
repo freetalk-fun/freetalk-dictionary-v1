@@ -3,19 +3,39 @@
     "meanings": [
         {
             "definition": "A long piece of timber or metal used in construction.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The beams supported the roof of the house.",
+            "sent2": "The sun's beams shone through the window.",
+            "sent3": "The mischievous squirrel used the beams as balance beams.",
+            "sent4": "Her laughter beamed like rays of sunshine.",
+            "sent5": "The sturdy beams stood tall like giants in the forest."
         },
         {
             "definition": "A radiant or bright light.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The lighthouse's beams guided ships safely to shore.",
+            "sent2": "The moonlight beams illuminated the dark night.",
+            "sent3": "The disco ball reflected colorful beams across the dance floor.",
+            "sent4": "Her smile beamed with happiness, lighting up the room.",
+            "sent5": "The fireworks sent beams of light shooting into the sky."
         },
         {
             "definition": "To smile broadly.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She beams with joy whenever she sees her friends.",
+            "sent2": "The child beamed with pride after winning the race.",
+            "sent3": "The clown beamed at the audience, spreading cheer.",
+            "sent4": "His face beamed like a beacon of happiness in the room.",
+            "sent5": "The bride beamed at her groom as she walked down the aisle."
         },
         {
             "definition": "To emit or transmit a signal.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The lighthouse beams signals to warn ships of danger.",
+            "sent2": "The radio tower beams out music to listeners far and wide.",
+            "sent3": "The alien spaceship beamed messages to Earth in a strange language.",
+            "sent4": "The satellite beams data back to Earth from space.",
+            "sent5": "The flashlight beamed a bright light into the dark cave."
         }
     ]
 }

@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Fail to function properly",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The old clock would malfunction and stop ticking.",
+            "sent2": "My computer tends to malfunction when it gets too hot.",
+            "sent3": "During the play, the robot actor would malfunction and start dancing uncontrollably.",
+            "sent4": "The plan seemed to malfunction like a broken machine, causing chaos.",
+            "sent5": "The car's engine would suddenly malfunction, leaving us stranded on the highway."
         },
         {
             "definition": "A failure to function properly",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The malfunction of the printer delayed the project completion.",
+            "sent2": "The spaceship's malfunction led to a critical system shutdown.",
+            "sent3": "The malfunction of the popcorn machine caused a hilarious popcorn explosion.",
+            "sent4": "The malfunction of communication devices created a barrier between the teams.",
+            "sent5": "The malfunction of the elevator made everyone take the stairs, causing a traffic jam."
         }
     ]
 }

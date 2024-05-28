@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To equip with electrodes.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The scientist electroed the machine for the experiment.",
+            "sent2": "She electroed the patient before starting the medical procedure.",
+            "sent3": "The robot was excited to be electroed for the first time.",
+            "sent4": "His words electroed the audience, sparking their interest.",
+            "sent5": "The lightning electroed the sky, illuminating the night."
         },
         {
             "definition": "To treat with electricity.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The electrician electroed the faulty wire to fix it.",
+            "sent2": "They electroed the old building to restore power.",
+            "sent3": "The toaster was surprised to be electroed so early in the morning.",
+            "sent4": "Her smile electroed his heart, filling him with warmth.",
+            "sent5": "The storm electroed the city, causing power outages everywhere."
         },
         {
             "definition": "Having electrodes.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The electroed helmet monitored brain activity during the test.",
+            "sent2": "The electroed vest helped track the athlete's heart rate.",
+            "sent3": "The robot felt stylish with its electroed arms and legs.",
+            "sent4": "Her electroed outfit made her stand out at the party.",
+            "sent5": "The electroed device buzzed with energy, ready for use."
         }
     ]
 }

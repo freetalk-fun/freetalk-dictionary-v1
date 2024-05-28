@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A basic unit of syntactic analysis consisting of a head and its dependents.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "In the sentence, the tagmeme is the main word that everything else depends on.",
+            "sent2": "The tagmeme in this sentence is 'dog' because all the other words describe it.",
+            "sent3": "The tagmeme threw a party, and all the other words showed up!",
+            "sent4": "The tagmeme stood tall like a leader, with its dependents following closely behind.",
+            "sent5": "Imagine the tagmeme as the king of the sentence, ruling over all the other words."
         },
         {
             "definition": "A group of words that functions as a single unit in a sentence.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "This tagmeme is like a team of words working together to convey a message.",
+            "sent2": "The tagmeme 'once upon a time' sets the stage for many stories.",
+            "sent3": "The tagmeme and its word buddies always stick together in a sentence.",
+            "sent4": "The tagmeme is the superstar of the sentence, shining brighter than the rest.",
+            "sent5": "Picture the tagmeme as a squad, marching through the sentence with unity."
         }
     ]
 }

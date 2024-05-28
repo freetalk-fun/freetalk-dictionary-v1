@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "In what way or manner",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "She showed me how to tie my shoes.",
+            "sent2": "I wonder how the flowers grow so beautifully.",
+            "sent3": "He asked me how many cookies I could eat in one minute.",
+            "sent4": "The magician amazed the audience with how he made the rabbit disappear.",
+            "sent5": "I will demonstrate how to bake a cake step by step."
         },
         {
             "definition": "To what extent",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I will see how fast I can run to the finish line.",
+            "sent2": "Let's find out how far the store is from here.",
+            "sent3": "She questioned how many books she could read in a day.",
+            "sent4": "His dedication showed how much he cared for his family.",
+            "sent5": "I will test how strong this bridge is by walking across it."
         },
         {
             "definition": "The way or manner in which",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I like the how of his storytelling.",
+            "sent2": "The how of her painting technique fascinated me.",
+            "sent3": "The children giggled at the how of his dance moves.",
+            "sent4": "The mystery lies in the how of the crime scene.",
+            "sent5": "The scientist explained the intricate how of the chemical reaction."
         }
     ]
 }

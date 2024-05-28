@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Accept that (something) is true or exists.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I believe the sun is hot.",
+            "sent2": "She believes in magic.",
+            "sent3": "The cat believes the vacuum is a monster!",
+            "sent4": "His heart believes in love.",
+            "sent5": "They believe in ghosts at night."
         },
         {
             "definition": "Have faith or confidence in (something or someone).",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I believe my friend will come.",
+            "sent2": "She believes in her abilities.",
+            "sent3": "The dog believes the mailman is a friend.",
+            "sent4": "His smile believes in happiness.",
+            "sent5": "They believe in each other's dreams."
         },
         {
             "definition": "Feel sure that (something) is true or will happen.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I believe it will rain today.",
+            "sent2": "She believes the bus will be late.",
+            "sent3": "The squirrel believes the acorn will grow into a tree.",
+            "sent4": "His intuition believes in the future.",
+            "sent5": "They believe the stars will guide them home."
         }
     ]
 }

@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To bear the weight of something",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The strong pillars supporting the roof held up the entire structure.",
+            "sent2": "I am supporting the heavy box with both hands to prevent it from falling.",
+            "sent3": "The chair decided to take a break from supporting people and went on strike.",
+            "sent4": "Her unwavering love was like a foundation supporting me through tough times.",
+            "sent5": "The bridge's cables were supporting the weight of the passing cars."
         },
         {
             "definition": "To give assistance or encouragement to someone or something",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She is always there supporting her friends when they need help.",
+            "sent2": "The coach is supporting the team by motivating them to do their best.",
+            "sent3": "The puppy was supporting its owner by bringing them a toy to play with.",
+            "sent4": "His words of encouragement were like a warm hug supporting her during the tough times.",
+            "sent5": "The teacher is supporting the students by providing extra help after school."
         },
         {
             "definition": "Providing evidence or justification for something",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The supporting documents confirmed the accuracy of the report.",
+            "sent2": "The witness gave supporting testimony in court to prove the defendant's innocence.",
+            "sent3": "The detective found a supporting clue that cracked the case wide open.",
+            "sent4": "The data analysis provided supporting evidence for the research findings.",
+            "sent5": "The additional information served as a supporting argument for the proposal."
         }
     ]
 }

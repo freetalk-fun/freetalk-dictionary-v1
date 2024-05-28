@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Food",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I love to eat chow for dinner.",
+            "sent2": "The dog's favorite chow is chicken and rice.",
+            "sent3": "The picnic basket was full of delicious chow.",
+            "sent4": "The aroma of freshly cooked chow filled the kitchen.",
+            "sent5": "Grandma's homemade chow always warms my heart."
         },
         {
             "definition": "To eat",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Let's chow down on some pizza tonight.",
+            "sent2": "After playing outside, the kids were ready to chow.",
+            "sent3": "The hungry bear decided to chow on some berries.",
+            "sent4": "The team chowed on sandwiches before the big game.",
+            "sent5": "I chow quickly when I'm really hungry."
         },
         {
             "definition": "A meal",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "We had a delicious chow at the new restaurant.",
+            "sent2": "The family gathered for a special chow on Thanksgiving.",
+            "sent3": "The astronaut's space chow was surprisingly tasty.",
+            "sent4": "The campers cooked a hearty chow over the fire.",
+            "sent5": "The royal feast was a grand chow fit for a king."
         }
     ]
 }

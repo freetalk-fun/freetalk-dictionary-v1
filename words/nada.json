@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Nothing",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "She found nada in her pocket.",
+            "sent2": "There was nada left in the jar.",
+            "sent3": "The magician pulled a rabbit out of his hat, but it turned into nada!",
+            "sent4": "His promises were like building castles in the air, leading to nada.",
+            "sent5": "The dark cave revealed nothing but nada."
         },
         {
             "definition": "Zero",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "He scored nada in the game.",
+            "sent2": "The temperature dropped to nada overnight.",
+            "sent3": "The bank account showed zero balance, nada to spend.",
+            "sent4": "The field was empty, zero signs of life, just nada.",
+            "sent5": "The clock struck twelve, marking the start of nada."
         },
         {
             "definition": "Not at all",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "She was interested in the topic, but nada understood.",
+            "sent2": "He tried to fix the issue, but nada worked.",
+            "sent3": "The cat pretended to be a lion, but nada fooled the mice.",
+            "sent4": "The storm raged outside, but inside the house, it was calm, nada disturbed.",
+            "sent5": "The secret remained hidden, nada revealed to the curious eyes."
         }
     ]
 }

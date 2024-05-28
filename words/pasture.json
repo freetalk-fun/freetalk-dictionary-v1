@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Land covered with grass or other plants suitable for feeding animals.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The cows happily grazed in the lush pasture.",
+            "sent2": "The horses enjoy roaming freely in the green pasture.",
+            "sent3": "The sheep had a picnic in the grassy pasture.",
+            "sent4": "The pasture was a buffet for the hungry goats.",
+            "sent5": "The pasture stretched out like a soft, green carpet for the animals."
         },
         {
             "definition": "To graze or feed in a pasture.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The cows pasture in the field every afternoon.",
+            "sent2": "We often pasture our sheep in the meadow nearby.",
+            "sent3": "The horses decided to pasture in the backyard today.",
+            "sent4": "The goats pasture peacefully under the shade of the tree.",
+            "sent5": "The animals happily pasture on the fresh grass under the sun."
         },
         {
             "definition": "An area of land used for grazing animals.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The farmer's pasture is vast and green.",
+            "sent2": "The rancher's pasture is where the cattle roam.",
+            "sent3": "The pasture behind the house is a playground for the animals.",
+            "sent4": "The pasture is like a giant salad bowl for the hungry livestock.",
+            "sent5": "The animals gather in the pasture for their daily feast."
         }
     ]
 }

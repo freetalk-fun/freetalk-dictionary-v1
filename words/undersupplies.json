@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To provide an insufficient amount of supplies.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The store undersupplies the customers with groceries.",
+            "sent2": "The company often undersupplies the workers with uniforms.",
+            "sent3": "The forgetful chef undersupplies the recipe with salt, making the dish bland.",
+            "sent4": "The leaky faucet undersupplies the sink with water, causing a slow drip.",
+            "sent5": "The lazy student undersupplies their project with effort, resulting in a low grade."
         },
         {
             "definition": "A shortage of necessary items.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The undersupplies of masks led to a health risk in the community.",
+            "sent2": "The undersupplies of pencils made it difficult for the students to take notes.",
+            "sent3": "The camping trip faced undersupplies of food, causing everyone to ration their meals.",
+            "sent4": "The undersupplies of fuel left the town stranded without transportation.",
+            "sent5": "The undersupplies of medicine created a crisis in the hospital."
         }
     ]
 }

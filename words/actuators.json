@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A device that moves or controls a mechanism or system.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The actuators in the robot arm help it move smoothly.",
+            "sent2": "The engineer installed new actuators in the machine to improve its performance.",
+            "sent3": "The mischievous cat accidentally activated the actuators, causing the robot to dance.",
+            "sent4": "Her words acted as actuators, propelling him to take action.",
+            "sent5": "The bright red actuators stood out against the dark machinery."
         },
         {
             "definition": "A component of a machine that is responsible for moving or controlling a mechanism.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The actuators in the car engine regulate fuel flow.",
+            "sent2": "Make sure to check the actuators regularly to ensure the machine functions properly.",
+            "sent3": "The playful puppy chewed on the actuators, causing the machine to malfunction.",
+            "sent4": "His smile acted like actuators, controlling the mood of the room.",
+            "sent5": "The rusty actuators struggled to move the heavy door."
         },
         {
             "definition": "A part that causes a machine or system to operate or function.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Without actuators, the device would be unable to function.",
+            "sent2": "The technician replaced the faulty actuators to restore the system's operation.",
+            "sent3": "The curious child pressed the actuators, starting the machine unexpectedly.",
+            "sent4": "Her encouragement acted as actuators, driving him to succeed.",
+            "sent5": "The tiny actuators hummed as they powered the entire system."
         }
     ]
 }

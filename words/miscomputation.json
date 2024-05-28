@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "An incorrect calculation or computation.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The miscomputation in the budget led to financial problems.",
+            "sent2": "Her miscomputation of the recipe resulted in a burnt cake.",
+            "sent3": "The miscomputation of the number of guests made for a comical mix-up at the party.",
+            "sent4": "His miscomputation of time turned the meeting into a chaotic mess.",
+            "sent5": "The miscomputation of the distance made the journey longer than expected."
         },
         {
             "definition": "To calculate or compute incorrectly.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I always miscomputation the total when adding up numbers.",
+            "sent2": "She miscomputations the measurements and ends up with ill-fitting clothes.",
+            "sent3": "He miscomputations the time it takes to get ready every morning, making him late.",
+            "sent4": "The machine miscomputations the data, leading to errors in the final report.",
+            "sent5": "They miscomputation the angles in the design, causing the structure to collapse."
         }
     ]
 }

@@ -2,12 +2,22 @@
     "term": "arrestants",
     "meanings": [
         {
-            "definition": "Arrestants: People who have been arrested.",
-            "pos": "noun"
+            "definition": "People who have been arrested.",
+            "pos": "noun",
+            "sent1": "The police took the arrestants to the station for questioning.",
+            "sent2": "The judge released the arrestants on bail until their trial.",
+            "sent3": "The arrestants in the courtroom whispered nervously to each other.",
+            "sent4": "The arrestants' families waited anxiously outside the police station.",
+            "sent5": "The news reported the arrestants' names and charges to the public."
         },
         {
-            "definition": "Arrestants: Things that prevent or stop movement or progress.",
-            "pos": "noun"
+            "definition": "Things that prevent or stop movement or progress.",
+            "pos": "noun",
+            "sent1": "The fallen tree branches acted as arrestants on the hiking trail.",
+            "sent2": "The heavy traffic on the highway was a major arrestant for commuters.",
+            "sent3": "The sudden rain became an unexpected arrestant to our outdoor plans.",
+            "sent4": "The technical issues were a significant arrestant to the project's completion.",
+            "sent5": "The lack of funding proved to be a major arrestant to the research study."
         }
     ]
 }

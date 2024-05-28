@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A mark indicating that an item in a list has been noted, verified, or completed.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I always put checkmarks next to the tasks I finish.",
+            "sent2": "The teacher put checkmarks next to the correct answers.",
+            "sent3": "The checkmarks on the paper made me feel accomplished.",
+            "sent4": "Her smile was like a row of bright checkmarks on a dark page.",
+            "sent5": "The checkmarks stood out like stars in the night sky."
         },
         {
             "definition": "To mark with a checkmark.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Please checkmarks the boxes that apply to you.",
+            "sent2": "She carefully checkmarks each item on the list.",
+            "sent3": "He checkmarks the boxes with such precision, it's like a work of art.",
+            "sent4": "The sun checkmarks the path through the sky every day.",
+            "sent5": "The chef checkmarks the ingredients before starting to cook."
         },
         {
             "definition": "To verify or confirm something.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I need to checkmarks if the information is accurate.",
+            "sent2": "They will checkmarks your identity before letting you in.",
+            "sent3": "The detective checkmarks the alibi with a magnifying glass.",
+            "sent4": "Her intuition always checkmarks the right decision.",
+            "sent5": "The scientist checkmarks the results to ensure they are reliable."
         }
     ]
 }

@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A condition that must exist or be fulfilled before something else can happen.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Having enough money is a precondition for buying a new car.",
+            "sent2": "The safety inspection is a precondition before starting the construction project.",
+            "sent3": "For the birthday party to be a success, a fun theme is a precondition.",
+            "sent4": "Good communication is a precondition for a healthy relationship.",
+            "sent5": "Understanding the rules is a precondition for playing the game."
         },
         {
             "definition": "To establish a condition that must be fulfilled before something else can happen.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The company will precondition the contract with specific terms.",
+            "sent2": "Before the event, they will precondition the venue for safety.",
+            "sent3": "She tried to precondition her mind for the challenging task ahead.",
+            "sent4": "The coach will precondition the players for the intense match.",
+            "sent5": "To succeed, you must precondition yourself for hard work and dedication."
         }
     ]
 }

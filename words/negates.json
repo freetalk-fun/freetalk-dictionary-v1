@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Nullify or make ineffective",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Adding sugar to the coffee negates the bitterness.",
+            "sent2": "Using a password negates unauthorized access.",
+            "sent3": "Eating a salad negates the guilt of having a dessert.",
+            "sent4": "Her smile negates any worries in the room.",
+            "sent5": "The umbrella negates the raindrops from touching me."
         },
         {
             "definition": "Deny the existence or truth of",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The suspect's alibi negates his involvement in the crime.",
+            "sent2": "Science negates the idea of a flat Earth.",
+            "sent3": "His excuse negates the need for further explanation.",
+            "sent4": "Her laughter negates any sadness in the room.",
+            "sent5": "The flashlight negates the darkness in the cave."
         },
         {
             "definition": "Cancel out or neutralize",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The positive and negative charges negate each other.",
+            "sent2": "Taking medicine can negate the effects of a cold.",
+            "sent3": "His enthusiasm negates any doubts about the project.",
+            "sent4": "Her kindness negates any negativity around her.",
+            "sent5": "The music negates the silence in the room."
         }
     ]
 }

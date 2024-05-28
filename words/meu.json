@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A possessive pronoun used to indicate ownership or belonging.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "This is meu book.",
+            "sent2": "The dog chewed on meu bone.",
+            "sent3": "Meu, where did you find that treasure?",
+            "sent4": "Her smile was meu sunshine on a rainy day.",
+            "sent5": "The old house had a mysterious air, as if it held meu secrets within its walls."
         },
         {
             "definition": "A noun referring to a type of Brazilian stew.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I love to cook meu for my family.",
+            "sent2": "The restaurant served a delicious bowl of meu.",
+            "sent3": "The aroma of meu filled the kitchen, making everyone's stomachs growl.",
+            "sent4": "The meu was a warm hug in a bowl on a cold evening.",
+            "sent5": "The traditional recipe for meu has been passed down for generations in my family."
         },
         {
             "definition": "An interjection expressing surprise or disbelief.",
-            "pos": "interjection"
+            "pos": "interjection",
+            "sent1": "Meu! I can't believe you did that!",
+            "sent2": "Meu, that was unexpected!",
+            "sent3": "Meu, did you see that cat jump so high?",
+            "sent4": "The magician pulled a rabbit out of his hat, and the audience exclaimed, 'Meu!'",
+            "sent5": "Meu, the fireworks lit up the night sky in a dazzling display."
         }
     ]
 }

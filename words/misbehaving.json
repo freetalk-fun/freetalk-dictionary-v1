@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Behaving badly or improperly.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The misbehaving child was scolded by the teacher.",
+            "sent2": "The puppy was misbehaving by chewing on the furniture.",
+            "sent3": "The misbehaving squirrel stole all the nuts from the other animals.",
+            "sent4": "The misbehaving storm caused chaos in the city.",
+            "sent5": "The misbehaving alarm clock refused to stop ringing."
         },
         {
             "definition": "To behave badly or improperly.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She always misbehaves during class and disrupts the lesson.",
+            "sent2": "The dog misbehaved by digging up the garden.",
+            "sent3": "The cat misbehaved by knocking over the vase of flowers.",
+            "sent4": "The car misbehaved by refusing to start in the morning.",
+            "sent5": "The children misbehaved at the birthday party and caused a mess."
         }
     ]
 }

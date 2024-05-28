@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "to fix or mend something that is broken or damaged",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I will repair my bike after it got a flat tire.",
+            "sent2": "The mechanic will repair the car's engine tomorrow.",
+            "sent3": "I tried to repair my broken umbrella with duct tape, but it didn't work well.",
+            "sent4": "Her kindness helped repair the friendship that was damaged by a misunderstanding.",
+            "sent5": "The skilled craftsman could repair any broken pottery with ease."
         },
         {
             "definition": "the act of fixing or mending something that is broken or damaged",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The repair of the leaky roof was completed before the storm.",
+            "sent2": "The repair of the old bridge took longer than expected.",
+            "sent3": "The repair of the broken vase turned into a fun family project.",
+            "sent4": "The repair of the relationship between the two countries was a delicate process.",
+            "sent5": "The repair of the torn book pages was done with care to preserve the text."
         }
     ]
 }

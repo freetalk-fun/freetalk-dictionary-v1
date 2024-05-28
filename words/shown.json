@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Displayed or exhibited",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The bright colors on the painting were clearly shown.",
+            "sent2": "The art gallery displayed the shown artwork beautifully.",
+            "sent3": "The shy artist was surprised to see his work being shown to a large audience.",
+            "sent4": "The stars in the night sky shown brightly, lighting up the darkness.",
+            "sent5": "The detailed map shown the different hiking trails in the park."
         },
         {
             "definition": "Past tense of show",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Yesterday, she shown her new dance routine to her friends.",
+            "sent2": "The magician shown a spectacular trick to the amazed audience.",
+            "sent3": "The cat shown off its hunting skills by catching a toy mouse.",
+            "sent4": "The sun shown through the clouds, signaling the start of a new day.",
+            "sent5": "The documentary shown the impact of climate change on polar bears."
         }
     ]
 }

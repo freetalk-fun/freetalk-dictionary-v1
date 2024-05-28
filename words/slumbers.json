@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Sleeps",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The cat slumbers peacefully on the windowsill.",
+            "sent2": "She always slumbers deeply after a long day at work.",
+            "sent3": "The bear slumbers through the winter, dreaming of sunny days.",
+            "sent4": "Time slumbers on, never stopping for anyone.",
+            "sent5": "The old tree slumbers, its roots reaching deep into the earth."
         },
         {
             "definition": "Sleep",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "His slumbers were filled with pleasant dreams.",
+            "sent2": "The baby's slumbers were interrupted by a loud noise.",
+            "sent3": "The cat's slumbers were disturbed by a playful kitten.",
+            "sent4": "The deep slumbers of the forest were broken by the chirping of birds.",
+            "sent5": "In the peaceful slumbers of night, the world seemed still and quiet."
         },
         {
             "definition": "To be in a state of sleep",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The entire household slumbers at this late hour.",
+            "sent2": "As the night deepens, the town slumbers under the starry sky.",
+            "sent3": "The city slumbers, unaware of the bustling nightlife in the neighboring town.",
+            "sent4": "The village slumbers peacefully, wrapped in the silence of the night.",
+            "sent5": "Nature slumbers, preparing for the awakening of a new day."
         }
     ]
 }

@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A person who writes literary or journalistic works for someone else who is named as the author.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The ghostwriter helped the famous author write her new book.",
+            "sent2": "The ghostwriter's name was not on the cover of the novel.",
+            "sent3": "The ghostwriter and the author had a secret collaboration.",
+            "sent4": "The ghostwriter's words breathed life into the author's story.",
+            "sent5": "The ghostwriter's identity remained hidden behind the author's fame."
         },
         {
             "definition": "To write (a literary or journalistic work) for someone else who is named as the author.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She ghostwrites articles for busy executives.",
+            "sent2": "He ghostwrote the bestselling novel under a pseudonym.",
+            "sent3": "The author asked her friend to ghostwrite her autobiography as a joke.",
+            "sent4": "The songwriter ghostwrites lyrics for famous singers.",
+            "sent5": "They hired a ghostwriter to pen their memoirs in secret."
         }
     ]
 }

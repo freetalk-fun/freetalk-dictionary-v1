@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "The arrangement of lights to achieve a particular effect.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The stage lighting highlighted the actors' faces.",
+            "sent2": "The room's lighting was too dim for reading comfortably.",
+            "sent3": "The party lighting made the dance floor look like a disco.",
+            "sent4": "The soft lighting in the restaurant created a cozy atmosphere.",
+            "sent5": "The colorful lighting at the concert mesmerized the audience."
         },
         {
             "definition": "The equipment used to provide light in a room or building.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The new lighting fixtures brightened up the office space.",
+            "sent2": "The street lighting helped pedestrians navigate safely at night.",
+            "sent3": "The fancy lighting in the store made the products shine.",
+            "sent4": "The emergency lighting in the building guided people to exits.",
+            "sent5": "The outdoor lighting illuminated the garden beautifully."
         },
         {
             "definition": "The act of igniting something.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The matchstick was used for the lighting of the campfire.",
+            "sent2": "The faulty wiring caused a fire due to improper lighting.",
+            "sent3": "The magician's trick involved the lighting of a candle with magic.",
+            "sent4": "The quick lighting of the fuse set off the fireworks display.",
+            "sent5": "The lighting of the stove signaled the start of cooking dinner."
         }
     ]
 }

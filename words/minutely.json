@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "In great detail or very small increments.",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "She examined the painting minutely, noticing every tiny brushstroke.",
+            "sent2": "The scientist observed the specimen minutely under the microscope.",
+            "sent3": "The detective scrutinized the crime scene minutely, looking for any overlooked clues.",
+            "sent4": "Her eyes scanned the document minutely, searching for any errors.",
+            "sent5": "He listened minutely to every word of the lecture, absorbing all the information."
         },
         {
             "definition": "Occurring every minute.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The minutely scheduled train arrived precisely at 9:00 AM.",
+            "sent2": "The minutely timed clock chimed every 60 seconds.",
+            "sent3": "The minutely planned event ran smoothly without any delays.",
+            "sent4": "The minutely set alarm beeped at the exact minute it was supposed to.",
+            "sent5": "The minutely occurring meteor shower was a breathtaking sight to behold."
         },
         {
             "definition": "Done with great attention to detail.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The artist's minutely painted masterpiece captivated all who saw it.",
+            "sent2": "The architect designed the building with minutely crafted features.",
+            "sent3": "The chef prepared the dish with minutely selected ingredients for the perfect flavor.",
+            "sent4": "The tailor sewed the dress with minutely stitched seams for a flawless fit.",
+            "sent5": "The gardener tended to the plants with minutely trimmed leaves for a neat appearance."
         }
     ]
 }

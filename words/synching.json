@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Synchronize: to cause to occur or operate at the same time or rate",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I am synching my phone with my computer to transfer files.",
+            "sent2": "The dancers were synching their movements to the music.",
+            "sent3": "The chef was synching the timing of the dishes to create a perfect meal.",
+            "sent4": "The team members were synching their efforts to achieve a common goal.",
+            "sent5": "The conductor was synching the orchestra to create a harmonious performance."
         },
         {
             "definition": "Synchronization: the act or process of synchronizing",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The synching of the clocks ensured everyone was on time.",
+            "sent2": "The synchronization of the traffic lights improved the flow of cars.",
+            "sent3": "The synchronization of the dance moves made the performance captivating.",
+            "sent4": "The synchronization of the team's actions led to a successful project.",
+            "sent5": "The synchronization of the gears made the machine run smoothly."
         },
         {
             "definition": "Synchronized: happening at the same time or rate",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The synchronized swimmers moved gracefully in perfect harmony.",
+            "sent2": "The synchronized clocks showed the exact same time.",
+            "sent3": "The synchronized clapping of the audience added to the excitement.",
+            "sent4": "The synchronized heartbeats of the runners showed their unity.",
+            "sent5": "The synchronized movements of the dancers mesmerized the audience."
         }
     ]
 }

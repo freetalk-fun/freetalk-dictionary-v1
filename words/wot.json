@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To know or be aware of something.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I wot the answer to the question.",
+            "sent2": "She wots the way to the park.",
+            "sent3": "Do you wot where the missing sock went?",
+            "sent4": "The detective wots the culprit's identity.",
+            "sent5": "He wots the secret code to unlock the door."
         },
         {
             "definition": "Used to express surprise or disbelief.",
-            "pos": "interjection"
+            "pos": "interjection",
+            "sent1": "Wot! How did that happen?",
+            "sent2": "Wot, that's incredible news!",
+            "sent3": "Wot, you actually won the lottery?",
+            "sent4": "Wot, I can't believe my eyes!",
+            "sent5": "Wot, that's a shocking revelation!"
         }
     ]
 }

@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To associate or keep company with others.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She companied with her friends at the park.",
+            "sent2": "The siblings companied each other to the store.",
+            "sent3": "The cat companied with the dog in the backyard.",
+            "sent4": "The stars companied the moon in the night sky.",
+            "sent5": "The birds companied the hiker on the trail."
         },
         {
             "definition": "A group of people or animals gathered together.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The company of friends enjoyed a picnic in the park.",
+            "sent2": "A company of ants marched in a straight line.",
+            "sent3": "The company of birds chirped loudly in the trees.",
+            "sent4": "The company of clouds covered the sky.",
+            "sent5": "The company of students worked on a project together."
         }
     ]
 }

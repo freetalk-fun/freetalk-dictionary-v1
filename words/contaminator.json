@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A person or thing that contaminates.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The contaminator spilled oil into the river.",
+            "sent2": "The factory's waste pipe was the contaminator of the nearby water source.",
+            "sent3": "The mischievous raccoon was the contaminator of the picnic food.",
+            "sent4": "His negative attitude acted as a contaminator, spreading discontent among the team.",
+            "sent5": "The contaminator, like a shadow, followed wherever pollution lurked."
         },
         {
             "definition": "To make impure or unsuitable by contact or mixture with something unclean, bad, etc.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Please do not contaminator the clean water with dirt.",
+            "sent2": "The virus can easily contaminator surfaces if proper hygiene is not maintained.",
+            "sent3": "The prankster tried to contaminator the cookie jar with a fake spider.",
+            "sent4": "Negative thoughts can contaminator your mind like a dark cloud.",
+            "sent5": "The careless actions of the hiker could contaminator the pristine forest with litter."
         }
     ]
 }

@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "An underground passage",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The miners dug tunnels to reach the precious gems.",
+            "sent2": "The subway train traveled through the dark tunnel.",
+            "sent3": "The sneaky rabbit used the tunnel to escape from the fox.",
+            "sent4": "Her thoughts flowed through the tunnel of her mind, seeking clarity.",
+            "sent5": "The tunnel was so narrow that only one person could pass through at a time."
         },
         {
             "definition": "To make a tunnel",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The construction workers tunnels through the mountain for the new road.",
+            "sent2": "The ants tunneled through the soft soil to build their nest.",
+            "sent3": "The kids pretended to tunnel through the snow in their backyard.",
+            "sent4": "The roots of the tree tunneled deep into the ground in search of water.",
+            "sent5": "The mole tunneled swiftly through the earth, leaving a trail behind."
         },
         {
             "definition": "To move through a tunnel",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The train tunnels under the city to reach the next station.",
+            "sent2": "The cars tunneled through the traffic to get to the concert on time.",
+            "sent3": "The swimmer tunneled through the water with graceful strokes.",
+            "sent4": "The hikers tunneled through the dense forest, following the trail.",
+            "sent5": "The spaceship tunneled through the atmosphere, heading towards the moon."
         }
     ]
 }

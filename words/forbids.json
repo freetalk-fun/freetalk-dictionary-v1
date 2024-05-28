@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To command not to do something.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Mom forbids me from eating cookies before dinner.",
+            "sent2": "The sign forbids parking in this area.",
+            "sent3": "The mischievous cat forbids the dog from entering its territory.",
+            "sent4": "The storm forbids any outdoor activities with its heavy rain.",
+            "sent5": "The teacher forbids talking during the test to maintain silence."
         },
         {
             "definition": "To prohibit or prevent.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The rules forbid running in the hallways.",
+            "sent2": "The lock on the gate forbids unauthorized entry.",
+            "sent3": "The broken umbrella forbids any protection from the rain.",
+            "sent4": "The closed road forbids any passage through the town.",
+            "sent5": "The guard forbids anyone without a pass from entering the building."
         }
     ]
 }

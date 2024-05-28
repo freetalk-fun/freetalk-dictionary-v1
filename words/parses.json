@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Analyzes a sentence into its parts and describes their syntactic roles.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The teacher parses the complex sentence to show the different parts.",
+            "sent2": "She parses the data to understand its meaning.",
+            "sent3": "The detective parses the clues to solve the mystery.",
+            "sent4": "The scientist parses the DNA strands to uncover hidden patterns.",
+            "sent5": "He carefully parses each word to grasp the sentence's structure."
         },
         {
             "definition": "Examines or analyzes closely.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The researcher parses the results to draw meaningful conclusions.",
+            "sent2": "He parses the evidence to find the truth.",
+            "sent3": "The chef parses the recipe to create a delicious dish.",
+            "sent4": "She parses the painting to understand the artist's technique.",
+            "sent5": "The student parses the text to comprehend its deeper meaning."
         },
         {
             "definition": "Divides a sentence into its grammatical elements.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The linguist parses the sentence to identify its components.",
+            "sent2": "He parses the paragraph to analyze its structure.",
+            "sent3": "The computer program parses the code to execute the commands.",
+            "sent4": "She parses the legal document to extract key information.",
+            "sent5": "The analyst parses the financial report to interpret the data."
         }
     ]
 }

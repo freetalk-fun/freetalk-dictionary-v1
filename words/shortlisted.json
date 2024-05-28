@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A list of selected candidates for a job, prize, etc.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The shortlisted candidates were all very qualified for the position.",
+            "sent2": "The company will announce the shortlisted names next week.",
+            "sent3": "The shortlisted group had to complete a challenging obstacle course for fun.",
+            "sent4": "Being on the shortlist felt like being part of an exclusive club.",
+            "sent5": "The shortlisted individuals stood out from the rest with their impressive skills."
         },
         {
             "definition": "To select or nominate for a shortlist.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The hiring manager shortlisted three candidates for the final interview.",
+            "sent2": "She shortlisted her favorite books to read over the summer.",
+            "sent3": "He shortlisted his friends for a surprise party at the park.",
+            "sent4": "The coach shortlisted the top players for the championship game.",
+            "sent5": "They shortlisted the best movies to watch during the weekend."
         }
     ]
 }

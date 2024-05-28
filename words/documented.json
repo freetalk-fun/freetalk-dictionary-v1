@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Record in written or electronic form",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She documented her research findings in a notebook.",
+            "sent2": "The librarian documented the borrowed books in the system.",
+            "sent3": "The detective documented the clues like a secret agent.",
+            "sent4": "His memories were documented in the pages of his journal.",
+            "sent5": "The historian documented the ancient artifacts with care."
         },
         {
             "definition": "Support with evidence",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The witness documented the crime scene with photos.",
+            "sent2": "The data scientist documented her analysis with charts.",
+            "sent3": "The chef documented the delicious recipe with a video.",
+            "sent4": "The lawyer documented the case with compelling testimonies.",
+            "sent5": "The scientist documented the theory with solid experiments."
         },
         {
             "definition": "Prove with documentation",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He documented his innocence with clear alibis.",
+            "sent2": "The student documented her hard work with detailed notes.",
+            "sent3": "The explorer documented the new species like a modern-day explorer.",
+            "sent4": "The artist documented the creative process with captivating videos.",
+            "sent5": "The researcher documented the breakthrough with thorough reports."
         }
     ]
 }

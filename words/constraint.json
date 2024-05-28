@@ -3,19 +3,39 @@
     "meanings": [
         {
             "definition": "A limitation or restriction",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The budget was a constraint on our plans.",
+            "sent2": "Traffic congestion is a common constraint in big cities.",
+            "sent3": "Trying to fit into my old jeans is a funny constraint after the holidays.",
+            "sent4": "Her fear of failure acted as a constraint on her ambitions.",
+            "sent5": "The heavy chains around his wrists were a vivid constraint on his freedom."
         },
         {
             "definition": "Something that restricts or limits",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Lack of time is a major constraint for students.",
+            "sent2": "Physical disabilities can be a significant constraint in daily life.",
+            "sent3": "The stubborn jar lid became a challenging constraint in the kitchen.",
+            "sent4": "The high walls acted as a constraint on their escape.",
+            "sent5": "The locked door was a clear constraint to their progress."
         },
         {
             "definition": "A factor that restricts or limits",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Weather conditions can be a constraint for outdoor events.",
+            "sent2": "Financial resources are a key constraint in project planning.",
+            "sent3": "The broken elevator was an unexpected constraint during the move.",
+            "sent4": "The lack of experience acted as a constraint on their success.",
+            "sent5": "The strict rules were a constant constraint on their behavior."
         },
         {
             "definition": "A condition that restricts or limits",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The deadline was a tight constraint for the team.",
+            "sent2": "The language barrier can be a significant constraint in communication.",
+            "sent3": "The rainy weather posed a sudden constraint on their picnic plans.",
+            "sent4": "The heavy workload acted as a constraint on their free time.",
+            "sent5": "The maze of corridors was a confusing constraint in the building."
         }
     ]
 }

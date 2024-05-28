@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "past tense of keep",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Yesterday, I kept my promise to help my friend.",
+            "sent2": "She kept her room tidy by putting away her toys.",
+            "sent3": "The squirrel kept forgetting where it buried its acorns!",
+            "sent4": "His words of wisdom kept ringing in my ears long after he left.",
+            "sent5": "The lighthouse keeper kept watch over the stormy sea, guiding ships to safety."
         },
         {
             "definition": "maintained in a particular state or condition",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The well-kept garden was a sight to behold.",
+            "sent2": "She always wore a neat and well-kept uniform to school.",
+            "sent3": "The cat's fur was so well-kept, it looked like silk.",
+            "sent4": "The old house had a well-kept secret hidden in its walls.",
+            "sent5": "The well-kept secret finally came to light, surprising everyone."
         },
         {
             "definition": "retained possession of",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He kept his childhood toy as a cherished memory.",
+            "sent2": "She kept the key to the treasure chest hidden in her pocket.",
+            "sent3": "The magician kept pulling rabbits out of his hat, to everyone's amazement.",
+            "sent4": "The old man kept a watchful eye on the children playing in the park.",
+            "sent5": "The explorer kept a journal of his adventures, documenting every detail."
         }
     ]
 }

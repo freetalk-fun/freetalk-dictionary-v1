@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "past tense and past participle of make",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Yesterday, I made a cake for my friend's birthday.",
+            "sent2": "She made a beautiful painting for the art show.",
+            "sent3": "The magician made a rabbit appear out of thin air.",
+            "sent4": "His words made her heart skip a beat.",
+            "sent5": "The chef made a delicious meal that everyone enjoyed."
         },
         {
             "definition": "created or formed by combining materials or parts",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The tailor displayed a made-to-order suit in the window.",
+            "sent2": "The students admired the handmade decorations in the classroom.",
+            "sent3": "The robot costume was a made creation of wires and metal.",
+            "sent4": "The cake was a made masterpiece of sugar and flour.",
+            "sent5": "The house was a made structure of bricks and wood."
         }
     ]
 }

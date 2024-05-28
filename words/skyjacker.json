@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A person who hijacks an aircraft in flight.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The skyjacker demanded to be taken to a different country.",
+            "sent2": "The authorities captured the skyjacker before he could escape.",
+            "sent3": "The skyjacker tried to hijack the plane but ended up locked in the cockpit.",
+            "sent4": "The skyjacker's plan to take control of the aircraft crashed and burned.",
+            "sent5": "Passengers on the plane will never forget the face of the skyjacker."
         },
         {
             "definition": "To hijack an aircraft in flight.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The criminal attempted to skyjacker the plane but was stopped by the pilot.",
+            "sent2": "Authorities worked quickly to prevent anyone from trying to skyjacker the aircraft.",
+            "sent3": "The movie plot involved a group of friends trying to skyjacker a plane for an adventure.",
+            "sent4": "The hacker managed to skyjacker the plane's communication system remotely.",
+            "sent5": "The spy's mission was to skyjacker the plane and retrieve the secret documents."
         }
     ]
 }

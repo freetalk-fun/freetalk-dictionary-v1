@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Not transparent or translucent",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The windows were opaques, blocking the view outside.",
+            "sent2": "The glass of the vase was opaques, hiding the flowers inside.",
+            "sent3": "The magician's trick involved turning a clear glass into opaques, surprising the audience.",
+            "sent4": "Her emotions were like opaques curtains, concealing her true feelings.",
+            "sent5": "The fog was so thick and opaques that it was impossible to see through."
         },
         {
             "definition": "A substance that is not transparent or translucent",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The artist used opaques to create a beautiful painting with vibrant colors.",
+            "sent2": "The laboratory had various opaques for conducting experiments.",
+            "sent3": "The chef added opaques to the recipe, giving it a unique texture.",
+            "sent4": "The treasure chest was filled with opaques, hinting at valuable contents inside.",
+            "sent5": "The museum displayed ancient opaques used by civilizations long ago."
         },
         {
             "definition": "To make something opaque",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She opaques the glass by applying a layer of paint.",
+            "sent2": "The builder opaques the windows to provide privacy to the residents.",
+            "sent3": "The scientist opaques the solution to prevent light from passing through.",
+            "sent4": "The artist opaques the canvas before starting the painting.",
+            "sent5": "He opaques the room by drawing the curtains tightly."
         }
     ]
 }

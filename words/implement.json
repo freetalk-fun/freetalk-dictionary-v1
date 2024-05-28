@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A tool or utensil used for a particular purpose.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I used the implement to fix the broken chair.",
+            "sent2": "The chef's favorite implement in the kitchen is a sharp knife.",
+            "sent3": "The spoon, a common implement, decided to take a break from stirring.",
+            "sent4": "Her creativity was an implement that sculpted beautiful stories.",
+            "sent5": "The hammer, a sturdy implement, pounded the nail into the wood."
         },
         {
             "definition": "To put a decision, plan, agreement, etc. into effect.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The team will implement the new strategy next week.",
+            "sent2": "It is important to implement safety measures in the workplace.",
+            "sent3": "The idea to implement a nap time at work was met with cheers.",
+            "sent4": "She implemented her study schedule like a well-oiled machine.",
+            "sent5": "The teacher implemented a fun game to teach math concepts effectively."
         },
         {
             "definition": "To fulfill or carry out.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He will implement the plan to clean up the park.",
+            "sent2": "The company promised to implement changes for better customer service.",
+            "sent3": "The cat decided to implement its plan for world domination.",
+            "sent4": "She implemented her promise to visit the elderly neighbor every week.",
+            "sent5": "The athlete implemented a strict training regimen to improve performance."
         }
     ]
 }

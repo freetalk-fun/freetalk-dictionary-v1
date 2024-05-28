@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Adjective: left unfinished or incomplete",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The puzzle was stickit, missing a crucial piece.",
+            "sent2": "She left her painting stickit, with the background untouched.",
+            "sent3": "The cake was stickit without the frosting, looking quite plain.",
+            "sent4": "The garden was stickit, lacking the colorful flowers it needed.",
+            "sent5": "The story felt stickit, with the ending abruptly missing."
         },
         {
             "definition": "Verb: to fail to follow through on a commitment or promise",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He always stickit when it came to helping with chores.",
+            "sent2": "She promised to call but stickit, leaving her friend waiting.",
+            "sent3": "The cat stickit on catching the mouse, much to the mouse's relief.",
+            "sent4": "The student stickit on studying for the test, leading to a low grade.",
+            "sent5": "The team stickit on their strategy, resulting in a loss."
         }
     ]
 }

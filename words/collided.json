@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To come into violent contact with another object.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The car collided with the tree.",
+            "sent2": "The two cars collided at the intersection.",
+            "sent3": "The soccer ball collided with the goal post, making a loud noise.",
+            "sent4": "The ideas collided in his mind, creating confusion.",
+            "sent5": "The waves collided against the rocks, sending spray into the air."
         },
         {
             "definition": "To clash or conflict.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Their opinions collided during the meeting.",
+            "sent2": "The two teams collided on the field, resulting in a heated argument.",
+            "sent3": "His red shirt collided with the green pants, creating an interesting fashion statement.",
+            "sent4": "The different cultures collided, leading to a beautiful fusion of traditions.",
+            "sent5": "The loud music collided with the peaceful atmosphere of the library."
         }
     ]
 }

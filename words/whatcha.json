@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Contraction of \"what are you\"",
-            "pos": "contraction"
+            "pos": "contraction",
+            "sent1": "Whatcha going to do after school?",
+            "sent2": "Whatcha doing this weekend?",
+            "sent3": "Whatcha gonna wear to the party?",
+            "sent4": "Whatcha think about that new movie?",
+            "sent5": "Whatcha eating for lunch today?"
         },
         {
             "definition": "Contraction of \"what have you\"",
-            "pos": "conjunction"
+            "pos": "conjunction",
+            "sent1": "Tell me whatcha seen at the store.",
+            "sent2": "I'll bring snacks, whatcha think?",
+            "sent3": "Whatcha been up to lately?",
+            "sent4": "Let me know whatcha find in the attic.",
+            "sent5": "Whatcha got in your bag there?"
         }
     ]
 }

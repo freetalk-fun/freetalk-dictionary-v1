@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "happening by chance",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The meeting was coincidentally scheduled on the same day as the holiday party.",
+            "sent2": "It was coincidentally sunny on the day of the outdoor event.",
+            "sent3": "The cat and dog coincidentally wore matching bow ties to the party.",
+            "sent4": "The coincidentally colored balloons made the room feel festive.",
+            "sent5": "The coincidentally placed flowers brightened up the room."
         },
         {
             "definition": "occurring at the same time by accident",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The coincidentally timed fireworks display lit up the night sky.",
+            "sent2": "Their coincidentally matching outfits made them stand out in the crowd.",
+            "sent3": "The coincidentally synchronized dance moves impressed the audience.",
+            "sent4": "The coincidentally aligned stars created a beautiful pattern in the sky.",
+            "sent5": "The coincidentally timed arrival of the train saved them from waiting in the rain."
         },
         {
             "definition": "by coincidence",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "She coincidentally ran into her old friend at the grocery store.",
+            "sent2": "They coincidentally chose the same restaurant for lunch.",
+            "sent3": "Coincidentally, they both ordered the exact same dessert.",
+            "sent4": "Coincidentally, they ended up sitting next to each other on the bus.",
+            "sent5": "The two friends coincidentally arrived at the park at the same time."
         }
     ]
 }

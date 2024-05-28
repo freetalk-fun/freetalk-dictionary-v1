@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To pull or drag with effort or force.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The workers had to haul the heavy boxes up the stairs.",
+            "sent2": "I haul the trash out every evening.",
+            "sent3": "The little dog tried to haul the huge bone, but it was too heavy for him.",
+            "sent4": "She had to haul herself out of bed after a long night of studying.",
+            "sent5": "The fishermen haul in their nets full of fish at the break of dawn."
         },
         {
             "definition": "A quantity of something that has been stolen or is illegal.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The police found a haul of stolen goods in the suspect's house.",
+            "sent2": "The thieves made off with a valuable haul from the museum.",
+            "sent3": "The pirates celebrated their latest haul of treasure on the deserted island.",
+            "sent4": "The smugglers were caught with a massive haul of contraband at the border.",
+            "sent5": "The detectives were impressed by the size of the criminal's haul."
         },
         {
             "definition": "The distance traveled or to be traveled.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The truck driver had a long haul ahead of him to reach the next city.",
+            "sent2": "The marathon runner completed the grueling haul through the mountains.",
+            "sent3": "The family planned a road trip with a short haul to the beach.",
+            "sent4": "The astronaut's mission involved a lengthy haul to reach the space station.",
+            "sent5": "The hikers were exhausted after the steep haul to the mountain peak."
         }
     ]
 }

@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To subtract or take away from a total.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I deducted five dollars from my allowance to buy a toy.",
+            "sent2": "She deducted the cost of the damaged item from the final bill.",
+            "sent3": "The mischievous elf deducted all the chocolate from the cookie jar.",
+            "sent4": "His absence deducted some joy from the party.",
+            "sent5": "The teacher deducted points for incorrect answers on the test."
         },
         {
             "definition": "To derive by reasoning or inference.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "From the clues given, I deducted that it was his birthday.",
+            "sent2": "She deducted the answer from the information provided in the article.",
+            "sent3": "The detective deducted the culprit's identity from the footprints.",
+            "sent4": "Her smile deducted her true feelings about the situation.",
+            "sent5": "The scientist deducted the conclusion from the experiment results."
         },
         {
             "definition": "To withhold or remove from salary or wages.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The company deducted taxes from my paycheck.",
+            "sent2": "She deducted the cost of the uniform from his salary.",
+            "sent3": "The boss deducted the fine for tardiness from her wages.",
+            "sent4": "The unexpected deduction deducted from his monthly earnings.",
+            "sent5": "The accountant deducted the insurance premium from the employee's pay."
         }
     ]
 }

@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A statement or assertion that expresses a judgment or opinion.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The teacher made a proposition about the best book to read.",
+            "sent2": "I disagree with your proposition that cats are better than dogs.",
+            "sent3": "His proposition that ice cream is a vegetable was met with laughter.",
+            "sent4": "Her proposition that time is a rubber band stretched everyone's imagination.",
+            "sent5": "The proposition that laughter is contagious is widely accepted."
         },
         {
             "definition": "A plan or scheme proposed for consideration.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The company presented a proposition for a new marketing strategy.",
+            "sent2": "Let's discuss the proposition to renovate the office space.",
+            "sent3": "The proposition to replace all chairs with bean bags raised eyebrows.",
+            "sent4": "His proposition to turn the office into a jungle sparked creativity.",
+            "sent5": "The proposition to have a weekly pizza party was a hit with the team."
         },
         {
             "definition": "The act of proposing or suggesting something.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Her proposition of a team outing was well-received.",
+            "sent2": "I appreciate your proposition to improve our workflow.",
+            "sent3": "His proposition to have a nap time at work was met with skepticism.",
+            "sent4": "The proposition of a dress code change caused a stir in the office.",
+            "sent5": "The proposition of a potluck lunch brought smiles to everyone's faces."
         }
     ]
 }

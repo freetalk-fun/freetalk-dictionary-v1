@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Incorrectly attributes something to someone or something else.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She misattributes her success to luck.",
+            "sent2": "He often misattributes his sister's belongings to his own.",
+            "sent3": "The detective misattributes the crime to the wrong suspect, causing confusion.",
+            "sent4": "The historian misattributes the famous quote to the wrong author.",
+            "sent5": "The teacher misattributes the student's improvement to her own teaching methods."
         },
         {
             "definition": "Wrongly assigns credit or blame to someone or something.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The manager misattributes the team's success to his leadership alone.",
+            "sent2": "She misattributes the delicious recipe to her grandmother.",
+            "sent3": "The comedian misattributes the audience's laughter to his jokes, but it was the funny props.",
+            "sent4": "The politician misattributes the economic growth to his policies, ignoring external factors.",
+            "sent5": "The scientist misattributes the discovery to luck, not years of hard work."
         }
     ]
 }

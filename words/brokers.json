@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A person who buys and sells goods or assets for others.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The brokers helped me find a buyer for my old car.",
+            "sent2": "The brokers at the market were busy trading stocks.",
+            "sent3": "The brokers joked about selling ice to penguins.",
+            "sent4": "She was a broker of smiles, always making people happy.",
+            "sent5": "The brokers in the market shouted their prices loudly."
         },
         {
             "definition": "A firm or company that acts as an intermediary in financial transactions.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "My uncle works at a brokerage firm as one of the brokers.",
+            "sent2": "The brokers at the bank helped clients with their investments.",
+            "sent3": "The brokers had a meeting to discuss the latest stock trends.",
+            "sent4": "The brokerage company was a bridge between investors and opportunities.",
+            "sent5": "The brokers' office was always filled with the sound of ringing phones."
         },
         {
             "definition": "To arrange or negotiate (a deal or transaction) between parties.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I will broker a deal between the two companies.",
+            "sent2": "She brokers agreements that benefit both sides.",
+            "sent3": "The siblings decided to broker a peace treaty over dinner.",
+            "sent4": "He managed to broker a compromise between the conflicting parties.",
+            "sent5": "The negotiator brokered a successful contract for the team."
         }
     ]
 }

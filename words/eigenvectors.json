@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A vector that remains unchanged in direction when a linear transformation is applied to it.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The eigenvectors of the matrix stayed pointing in the same direction after the transformation.",
+            "sent2": "Mathematicians use eigenvectors to understand how vectors behave under different transformations.",
+            "sent3": "The eigenvectors were like arrows that refused to change their aim, no matter what.",
+            "sent4": "In the world of mathematics, eigenvectors are the steadfast guides that never lose their way.",
+            "sent5": "Imagine eigenvectors as unwavering compass needles, always pointing north."
         },
         {
             "definition": "A vector that is associated with a square matrix and satisfies a certain equation.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The square matrix had eigenvectors that satisfied a specific mathematical condition.",
+            "sent2": "Linear algebra students learn how to find eigenvectors for different matrices.",
+            "sent3": "The eigenvectors and the square matrix had a secret code language only they understood.",
+            "sent4": "The relationship between the square matrix and its eigenvectors was like a dance with perfect choreography.",
+            "sent5": "The eigenvectors and the square matrix were inseparable partners in the mathematical tango."
         }
     ]
 }

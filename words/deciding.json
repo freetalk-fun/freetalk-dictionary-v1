@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To make a choice or come to a conclusion",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She was deciding between two ice cream flavors.",
+            "sent2": "I am deciding whether to go for a walk or stay home.",
+            "sent3": "The cat was deciding if it should chase the laser pointer or take a nap.",
+            "sent4": "The sun deciding to hide behind the clouds made the day feel gloomy.",
+            "sent5": "The student spent hours deciding on the perfect topic for the essay."
         },
         {
             "definition": "Serving as the final factor in making a decision",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The weather was the deciding factor in canceling the picnic.",
+            "sent2": "His deciding vote determined the outcome of the election.",
+            "sent3": "The deciding cookie in the jar was the last one left.",
+            "sent4": "The deciding goal in the game secured their victory.",
+            "sent5": "The deciding moment came when she found the lost key."
         }
     ]
 }

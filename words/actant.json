@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A person or thing that performs an action or takes part in an event.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The brave knight was the main actant in the battle against the dragon.",
+            "sent2": "The detective acted as the key actant in solving the mystery.",
+            "sent3": "The mischievous squirrel unexpectedly became the actant in the picnic chaos.",
+            "sent4": "The sun, as the actant of warmth, embraced the earth with its rays.",
+            "sent5": "The actant, a diligent student, diligently studied for the exam."
         },
         {
             "definition": "A participant in a narrative or story.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The princess was an important actant in the fairy tale.",
+            "sent2": "The villain played a crucial actant role in the plot twist.",
+            "sent3": "The actant, a talking cat, added humor to the story.",
+            "sent4": "The storm acted as a powerful actant, changing the course of events.",
+            "sent5": "The actant, a magical ring, held the key to the adventure."
         }
     ]
 }

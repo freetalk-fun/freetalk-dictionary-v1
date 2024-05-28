@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A device or piece of equipment used to remove impurities or particles from a substance.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The coffee filter caught the grounds, leaving a smooth brew.",
+            "sent2": "He cleaned the fish tank filter to keep the water clear for the fish.",
+            "sent3": "The air filter in the vacuum cleaner decided it needed a vacation.",
+            "sent4": "Her mind acted as a filter, letting in only positive thoughts.",
+            "sent5": "The car's oil filter worked tirelessly to keep the engine running smoothly."
         },
         {
             "definition": "To pass through a filter to remove impurities or particles.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She had to filter the muddy water to make it safe to drink.",
+            "sent2": "The coffee is filtered to ensure there are no coffee grounds in the cup.",
+            "sent3": "He tried to filter out the bad jokes from his friend's repertoire.",
+            "sent4": "The sunlight filtered through the leaves, creating a beautiful pattern on the ground.",
+            "sent5": "She used a sieve to filter the flour for the cake, making it smooth and lump-free."
         },
         {
             "definition": "To use a filter to limit or refine information or results.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She needed to filter the search results to find the most relevant information.",
+            "sent2": "The software can filter out spam emails from reaching your inbox.",
+            "sent3": "He tried to filter his thoughts before speaking to avoid saying something hurtful.",
+            "sent4": "The artist used a red filter to give the painting a warm and cozy feel.",
+            "sent5": "The noise-canceling headphones filter out background noise, allowing you to focus on your music."
         }
     ]
 }

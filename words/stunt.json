@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A feat displaying unusual skill or daring, especially one performed in public.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The circus performer executed a daring stunt on the tightrope.",
+            "sent2": "The action movie star performed a dangerous stunt for the film.",
+            "sent3": "The clown's silly stunt made everyone laugh at the circus.",
+            "sent4": "Her ability to juggle multiple tasks at once was a real stunt of talent.",
+            "sent5": "The skateboarder's stunt off the ramp was unforgettable."
         },
         {
             "definition": "To hinder the normal growth, development, or progress of.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Eating too much junk food can stunt your growth.",
+            "sent2": "The lack of sunlight can stunt the plant's growth.",
+            "sent3": "Procrastinating on your homework will only stunt your progress.",
+            "sent4": "Negative thoughts can stunt your personal development.",
+            "sent5": "Ignoring feedback can stunt your improvement in any skill."
         }
     ]
 }

@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A punctuation mark (,) used to separate items in a list or to indicate a pause in a sentence.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "In the grocery list, I need to buy apples, bananas, and oranges, separated by a comma.",
+            "sent2": "She paused, waiting for a response, before continuing with her story.",
+            "sent3": "The comma in the sentence decided to take a break after working so hard.",
+            "sent4": "The comma danced between the words, gracefully separating them.",
+            "sent5": "The comma stood out like a tiny soldier, dividing the list into neat sections."
         },
         {
             "definition": "A small, curved line used in writing and printing to separate parts of a sentence.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The teacher drew a comma on the board to show where the sentence should pause.",
+            "sent2": "The comma in cursive writing adds a touch of elegance to the text.",
+            "sent3": "The comma on the page seemed to wink at the reader, hinting at a secret.",
+            "sent4": "The comma on the typewriter clicked softly, dividing the words with precision.",
+            "sent5": "The comma on the paper curled like a tiny snail, guiding the reader through the sentence."
         }
     ]
 }

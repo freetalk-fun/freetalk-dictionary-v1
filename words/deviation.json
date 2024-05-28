@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "The action of departing from an established course or norm.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The sudden deviation from the hiking trail led us into the forest.",
+            "sent2": "The ship made a slight deviation from its planned route to avoid a storm.",
+            "sent3": "The deviation from the recipe resulted in a surprisingly delicious cake.",
+            "sent4": "His unconventional approach to painting was a refreshing deviation from traditional styles.",
+            "sent5": "The deviation of the river created a beautiful waterfall."
         },
         {
             "definition": "The amount by which a single measurement differs from a fixed value.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The thermometer showed a deviation of two degrees from the normal temperature.",
+            "sent2": "The scientist noted a significant deviation in the experiment results.",
+            "sent3": "The deviation in the scale readings caused confusion among the researchers.",
+            "sent4": "The deviation in the stock prices indicated a fluctuating market.",
+            "sent5": "The deviation in the speedometer reading alerted the driver to a potential issue."
         },
         {
             "definition": "A noticeable difference from what is expected or usual.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Her unique fashion sense always includes a deviation from the current trends.",
+            "sent2": "The sudden deviation in his behavior raised concerns among his friends.",
+            "sent3": "The deviation in the test scores surprised the entire class.",
+            "sent4": "The deviation in the weather pattern disrupted the usual climate of the region.",
+            "sent5": "The deviation in the road design caused confusion among the drivers."
         }
     ]
 }

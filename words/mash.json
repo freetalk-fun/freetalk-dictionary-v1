@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Crushed or ground food, especially potatoes",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I made a delicious potato mash for dinner.",
+            "sent2": "The chef prepared a creamy mash to accompany the steak.",
+            "sent3": "The fluffy mash on top of the shepherd's pie was irresistible.",
+            "sent4": "The mash of flavors in the stew created a comforting meal.",
+            "sent5": "The smooth potato mash melted in my mouth."
         },
         {
             "definition": "To crush or squeeze something into a soft mass",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She used a fork to mash the avocado for guacamole.",
+            "sent2": "Please mash the bananas before adding them to the batter.",
+            "sent3": "He tried to mash all his clothes into a tiny suitcase for the trip.",
+            "sent4": "The wrestler managed to mash his opponent to the ground.",
+            "sent5": "The heavy rock could easily mash the fragile flower beneath it."
         },
         {
             "definition": "A mixture of malt or other ingredients with water, heated to convert starches into fermentable sugars",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The brewer carefully monitored the temperature of the mash.",
+            "sent2": "The brewery produced a high-quality mash for brewing beer.",
+            "sent3": "The playful puppy jumped into the mash and left paw prints everywhere.",
+            "sent4": "The aroma of the mash filled the air during the brewing process.",
+            "sent5": "The bubbling mash indicated that fermentation was underway."
         }
     ]
 }

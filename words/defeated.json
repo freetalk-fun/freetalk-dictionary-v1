@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Overcome in a contest or conflict",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The team defeated their opponents in the soccer match.",
+            "sent2": "She defeated the chess champion in a thrilling match.",
+            "sent3": "Despite their best efforts, the squirrels defeated the bird feeder's defenses.",
+            "sent4": "The sun defeated the darkness as it rose over the horizon.",
+            "sent5": "The hero's determination defeated all obstacles in his path."
         },
         {
             "definition": "Beaten in a game or battle",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The defeated army retreated from the battlefield.",
+            "sent2": "The defeated boxer showed sportsmanship in defeat.",
+            "sent3": "The defeated team still celebrated their effort with ice cream.",
+            "sent4": "The defeated castle stood as a reminder of past battles.",
+            "sent5": "The defeated player learned valuable lessons from the loss."
         },
         {
             "definition": "Frustrated or thwarted in achieving a goal",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The defeated student struggled with the difficult math problem.",
+            "sent2": "She felt defeated after failing to reach the mountain peak.",
+            "sent3": "The defeated chef's souffle collapsed in the oven.",
+            "sent4": "The defeated explorer turned back at the sight of the raging river.",
+            "sent5": "The defeated candidate accepted the election results gracefully."
         }
     ]
 }

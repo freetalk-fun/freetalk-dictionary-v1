@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A person who compiles information or data.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The compilers at the library organize books and magazines.",
+            "sent2": "The compilers at the office gather statistics for the report.",
+            "sent3": "The compilers at the newspaper office accidentally mixed up the headlines.",
+            "sent4": "She was a compiler of family recipes, blending flavors like a chef.",
+            "sent5": "The compilers of the encyclopedia meticulously gathered facts for each entry."
         },
         {
             "definition": "Software that translates high-level programming languages into machine code.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Programmers rely on compilers to convert their code into executable programs.",
+            "sent2": "The new version of the compiler improved the efficiency of the software development process.",
+            "sent3": "The compiler decided to take a break in the middle of translating the code.",
+            "sent4": "The compiler worked tirelessly, transforming lines of code into functional applications.",
+            "sent5": "Using the compiler felt like having a personal code translator at your fingertips."
         }
     ]
 }

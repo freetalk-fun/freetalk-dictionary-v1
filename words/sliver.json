@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A small, thin piece of something, especially wood or metal.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "She found a sliver of glass on the floor.",
+            "sent2": "The carpenter used a sliver of wood to fix the table.",
+            "sent3": "As she ate her sandwich, a sliver of pickle fell onto her plate.",
+            "sent4": "The moon cast a sliver of light through the window.",
+            "sent5": "The sliver of cake was just enough to satisfy her sweet tooth."
         },
         {
             "definition": "To cut or break into small, thin pieces.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He carefully slivered the carrot for the salad.",
+            "sent2": "She slivered the paper into tiny pieces for the art project.",
+            "sent3": "The chef slivered the almonds with precision for the dessert.",
+            "sent4": "The wind can sliver a tree branch during a storm.",
+            "sent5": "She watched as he slivered the cheese for the party platter."
         },
         {
             "definition": "To move smoothly and quickly through a narrow space.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The snake can sliver through the grass without making a sound.",
+            "sent2": "The eel can sliver through the water effortlessly.",
+            "sent3": "The cat tried to sliver through the crack in the door but got stuck.",
+            "sent4": "The skier can sliver through the trees with grace and speed.",
+            "sent5": "The mouse managed to sliver through the tiny hole in the wall to escape the cat."
         }
     ]
 }

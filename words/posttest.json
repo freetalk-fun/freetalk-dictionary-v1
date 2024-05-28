@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A test administered after completion of a training program to assess knowledge or skills.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "After finishing the course, the students took a posttest to show what they learned.",
+            "sent2": "The teacher gave a posttest to evaluate how well the students understood the material.",
+            "sent3": "The posttest results revealed that everyone had mastered the content.",
+            "sent4": "Taking the posttest was like shining a light on their progress throughout the training.",
+            "sent5": "The posttest was the final step to demonstrate their new skills."
         },
         {
             "definition": "To administer a test after completion of a training program.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The instructor will posttest the students to measure their understanding.",
+            "sent2": "Teachers often posttest their students to gauge their learning outcomes.",
+            "sent3": "The students were surprised when the teacher decided to posttest them on a Friday.",
+            "sent4": "Posttesting the participants will help determine the effectiveness of the training program.",
+            "sent5": "She will posttest the group to ensure they have grasped the concepts."
         }
     ]
 }

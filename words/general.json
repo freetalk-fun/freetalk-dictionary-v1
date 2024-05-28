@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A commander of an army or military unit.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The general led his troops into battle.",
+            "sent2": "The general made strategic decisions for the army.",
+            "sent3": "The general joked with the soldiers before the mission.",
+            "sent4": "The general's presence on the battlefield was like a guiding light.",
+            "sent5": "The general's orders were clear and decisive."
         },
         {
             "definition": "A statement or principle that applies to a whole group or category.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The general rule is to always be kind to others.",
+            "sent2": "In general, people prefer sunny weather over rain.",
+            "sent3": "The general idea behind the project was to promote teamwork.",
+            "sent4": "The general principle of honesty should always be upheld.",
+            "sent5": "The general consensus was that the plan needed improvement."
         },
         {
             "definition": "Not specific or detailed; overall or approximate.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "She gave a general overview of the project during the meeting.",
+            "sent2": "The general feeling in the room was one of excitement.",
+            "sent3": "His general approach to cooking was to experiment with flavors.",
+            "sent4": "The general mood of the party was festive and lively.",
+            "sent5": "The general appearance of the house was neat and tidy."
         }
     ]
 }

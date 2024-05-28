@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A unit of distance equal to three feet.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "He measured the room using leeps to determine its size.",
+            "sent2": "The sign indicated that the next exit was two leeps away.",
+            "sent3": "The leeps on the map helped us estimate how far we had traveled.",
+            "sent4": "The leeps between the trees marked the path through the forest.",
+            "sent5": "She paced out the leeps to measure the length of the hallway."
         },
         {
             "definition": "To jump or spring a long distance.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The athlete leeps over the hurdle effortlessly.",
+            "sent2": "The rabbit leeps across the field to escape the fox.",
+            "sent3": "The kangaroo leeps joyfully in the open field.",
+            "sent4": "The dancer leeps gracefully across the stage.",
+            "sent5": "He leeps over the puddle to avoid getting his shoes wet."
         },
         {
             "definition": "To sleep lightly or briefly.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "After a tiring day, she leeps on the couch for a quick nap.",
+            "sent2": "The baby leeps peacefully in the crib, dreaming sweetly.",
+            "sent3": "The cat leeps lazily in the sunbeam, enjoying a catnap.",
+            "sent4": "He leeps for a few minutes before waking up refreshed.",
+            "sent5": "The traveler leeps on the train to rest during the journey."
         }
     ]
 }

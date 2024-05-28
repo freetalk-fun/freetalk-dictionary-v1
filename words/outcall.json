@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A visit or appointment made by a service provider to a client's location.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The massage therapist scheduled an outcall to the customer's house.",
+            "sent2": "The plumber offers outcall services for emergencies.",
+            "sent3": "The outcall by the pizza delivery guy was faster than expected.",
+            "sent4": "Her outcall to the doctor's office saved her time and hassle.",
+            "sent5": "The outcall from the tech support team resolved the issue efficiently."
         },
         {
             "definition": "To make a call or visit to a client's location for business purposes.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The sales representative will outcall the potential client tomorrow.",
+            "sent2": "She outcalls her regular customers to maintain good relationships.",
+            "sent3": "He outcalls his clients with a friendly tone to build rapport.",
+            "sent4": "Outcalling clients is an essential part of the job for many professionals.",
+            "sent5": "The company outcalls its clients to offer exclusive deals."
         }
     ]
 }

@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A small lie or untruth",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "She told a fib about eating all the cookies.",
+            "sent2": "It's not nice to tell fibs to your friends.",
+            "sent3": "The fib about the missing homework made everyone laugh.",
+            "sent4": "His fib about being a secret agent was quickly exposed.",
+            "sent5": "The fib spread like wildfire through the school."
         },
         {
             "definition": "To tell a small lie or untruth",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He didn't want to fib, but he didn't want to hurt her feelings.",
+            "sent2": "Kids sometimes fib to avoid getting in trouble.",
+            "sent3": "She decided to fib about her age to get into the movie.",
+            "sent4": "The politician continued to fib about his involvement in the scandal.",
+            "sent5": "Fibbing only leads to more trouble in the end."
         }
     ]
 }

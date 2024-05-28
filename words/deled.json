@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To delete or remove something",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She deled the unnecessary files from her computer.",
+            "sent2": "He deled the old messages to free up space.",
+            "sent3": "The cat deled the toy mouse under the couch.",
+            "sent4": "The eraser deled the mistake on the paper.",
+            "sent5": "The broom deled the dust bunnies in the corner."
         },
         {
             "definition": "Past tense of delete",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Yesterday, she deled the outdated contacts.",
+            "sent2": "He deled the incorrect entry from the database.",
+            "sent3": "The chef deled the burnt toast before serving.",
+            "sent4": "The undo button deled the last action.",
+            "sent5": "The student deled the wrong answer and wrote the correct one."
         }
     ]
 }

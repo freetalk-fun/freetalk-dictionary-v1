@@ -3,23 +3,48 @@
     "meanings": [
         {
             "definition": "To guide or direct",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The tour guide leads the group through the museum.",
+            "sent2": "The teacher leads the students in a science experiment.",
+            "sent3": "The dog leads its owner to the park every morning.",
+            "sent4": "Her passion for music leads her to pursue a career in singing.",
+            "sent5": "The lighthouse beacon leads ships safely to shore."
         },
         {
             "definition": "To be in charge or command",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The captain leads the crew during the storm.",
+            "sent2": "The CEO leads the company with confidence.",
+            "sent3": "The superhero leads the fight against evil villains.",
+            "sent4": "His charisma leads people to follow his leadership.",
+            "sent5": "The general leads the troops into battle."
         },
         {
             "definition": "To be ahead of others in a race or competition",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The fastest runner leads the marathon from the start.",
+            "sent2": "The champion boxer leads in the final round.",
+            "sent3": "The clever fox leads the race against the other animals.",
+            "sent4": "Her determination leads her to victory in the competition.",
+            "sent5": "The skilled chess player leads the match with strategic moves."
         },
         {
             "definition": "A piece of information that may help solve a crime",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The detective found a lead that could crack the case.",
+            "sent2": "The witness provided a lead to the police about the suspect.",
+            "sent3": "The mysterious note turned out to be a false lead.",
+            "sent4": "The missing key was a crucial lead in solving the mystery.",
+            "sent5": "The fingerprint was a valuable lead in identifying the culprit."
         },
         {
             "definition": "A metal used in pencils",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The artist prefers leads that produce smooth lines in drawings.",
+            "sent2": "The mechanical pencil requires a lead refill.",
+            "sent3": "The student accidentally broke the lead of the pencil.",
+            "sent4": "The carpenter sharpens the lead before marking measurements.",
+            "sent5": "The architect uses a lead holder for precise sketching."
         }
     ]
 }

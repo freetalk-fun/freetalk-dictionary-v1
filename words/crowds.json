@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A large number of people gathered together.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The crowds cheered loudly at the football game.",
+            "sent2": "The crowds filled the streets during the parade.",
+            "sent3": "The crowds at the concert were so excited, they started dancing in unison.",
+            "sent4": "The crowds of shoppers flooded the mall like a sea of eager buyers.",
+            "sent5": "The crowds waiting outside the store were like a colorful mosaic of people."
         },
         {
             "definition": "To gather in large numbers.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "People crowds around the street performer to watch his magic tricks.",
+            "sent2": "We crowds around the bonfire to stay warm on the chilly night.",
+            "sent3": "The kids crowds around the ice cream truck, eager for a sweet treat.",
+            "sent4": "Dark clouds crowds in the sky, signaling an impending storm.",
+            "sent5": "The birds crowds together on the wire, chirping happily in the morning."
         }
     ]
 }

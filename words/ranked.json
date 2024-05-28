@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Having a position in a hierarchy or scale",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The top three students were ranked based on their test scores.",
+            "sent2": "She was ranked as the best player on the team.",
+            "sent3": "The cat ranked itself as the ruler of the house, sitting on the highest shelf.",
+            "sent4": "In the world of birds, the eagle is ranked as the king of the sky.",
+            "sent5": "The ranked list of countries by population made it easy to see which was the most populous."
         },
         {
             "definition": "To assign a position in a hierarchy or scale",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The judges ranked the dancers based on their performance.",
+            "sent2": "I will rank the books on the shelf according to their genres.",
+            "sent3": "The chef decided to rank the vegetables by color, creating a rainbow salad.",
+            "sent4": "She ranked her favorite songs in a playlist, starting with the most loved.",
+            "sent5": "The teacher ranked the students' projects from best to worst for the class to see."
         },
         {
             "definition": "To be placed in a particular position in a hierarchy or scale",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The new movie ranked high in the box office this weekend.",
+            "sent2": "After the competition, she ranked first in the overall standings.",
+            "sent3": "The cat managed to rank itself above the dog in the household hierarchy.",
+            "sent4": "His dedication to his work ranked him among the top employees in the company.",
+            "sent5": "The rare flower ranked among the most beautiful in the garden."
         }
     ]
 }

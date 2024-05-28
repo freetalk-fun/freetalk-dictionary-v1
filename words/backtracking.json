@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "The act of retracing one's steps or reconsidering previous decisions.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "After getting lost in the forest, the hiker used backtracking to find the trail again.",
+            "sent2": "The detective's backtracking led him to the crucial piece of evidence he had missed before.",
+            "sent3": "The backtracking in the maze of mirrors made the clown look like he was dancing with his reflection.",
+            "sent4": "Her backtracking through the conversation revealed the misunderstanding that had caused the argument.",
+            "sent5": "The backtracking of the river's flow showed how it had changed course over time."
         },
         {
             "definition": "A method used in computer science to solve problems by trying different solutions and then going back to try another if the first one fails.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The programmer used backtracking to find the bug in the code and fix it efficiently.",
+            "sent2": "When faced with a complex algorithm, the student applied backtracking to reach the correct solution.",
+            "sent3": "The backtracking of the computer program made it seem like it was playing a game of trial and error.",
+            "sent4": "Her approach to problem-solving was like a backtracking algorithm, always exploring new possibilities.",
+            "sent5": "The backtracking strategy helped the team navigate through the maze of data to reach the desired outcome."
         }
     ]
 }

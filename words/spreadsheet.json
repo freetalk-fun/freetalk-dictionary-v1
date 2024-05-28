@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A computer program used for storing, organizing, and manipulating data in rows and columns.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I used a spreadsheet to keep track of my expenses.",
+            "sent2": "She opened the spreadsheet to update the sales figures.",
+            "sent3": "The spreadsheet helped me find errors in my calculations.",
+            "sent4": "Her mind worked like a spreadsheet, neatly arranging thoughts.",
+            "sent5": "The colorful spreadsheet made data easy to understand."
         },
         {
             "definition": "A document or file created using a spreadsheet program.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The spreadsheet contained all the project details.",
+            "sent2": "He emailed the spreadsheet to the team for review.",
+            "sent3": "I accidentally deleted the important spreadsheet.",
+            "sent4": "The spreadsheet was a treasure trove of information.",
+            "sent5": "The spreadsheet printed out perfectly for the meeting."
         },
         {
             "definition": "To create or work with a spreadsheet.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I will spreadsheet the data for the presentation.",
+            "sent2": "She likes to spreadsheet early in the morning.",
+            "sent3": "Let's spreadsheet our plans for the weekend.",
+            "sent4": "He decided to spreadsheet his thoughts to clear his mind.",
+            "sent5": "They spreadsheeted efficiently to finish the project on time."
         }
     ]
 }

@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "relating to or acting as a cause",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The causal factor in the experiment was the temperature.",
+            "sent2": "The scientist studied the causal relationship between smoking and lung cancer.",
+            "sent3": "The causal link between eating ice cream and feeling cold is quite obvious.",
+            "sent4": "Her laughter had a causal effect on everyone's mood, brightening the room instantly.",
+            "sent5": "The causal connection between lack of sleep and poor concentration is well-known."
         },
         {
             "definition": "indicating a cause or reason",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The detective looked for causal evidence to solve the mystery.",
+            "sent2": "The storm clouds were a causal sign of the approaching bad weather.",
+            "sent3": "His constant yawning was a causal clue that he was tired.",
+            "sent4": "The teacher's stern look was a causal warning to the misbehaving students.",
+            "sent5": "The broken window was a causal indication of a possible break-in."
         },
         {
             "definition": "involving a cause or reason",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The causal explanation for the traffic jam was a car accident.",
+            "sent2": "Her decision to resign was causal to the company's restructuring.",
+            "sent3": "The causal discussion about the movie's plot left everyone confused.",
+            "sent4": "The causal analysis of the problem revealed multiple contributing factors.",
+            "sent5": "The causal debate over the budget cuts lasted for hours."
         }
     ]
 }

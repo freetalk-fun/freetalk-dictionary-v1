@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A small burrowing mammal with long ears and a short tail.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The rabbit hopped into its burrow to hide from the fox.",
+            "sent2": "I saw a rabbit in the garden this morning.",
+            "sent3": "The rabbit and the squirrel had a race to see who could dig the fastest.",
+            "sent4": "Her curiosity made her as alert as a rabbit in a field of carrots.",
+            "sent5": "The rabbit's fluffy tail twitched as it listened for danger."
         },
         {
             "definition": "To move quickly or hurriedly.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The child tried to rabbit across the finish line first.",
+            "sent2": "I need to rabbit to the store before it closes.",
+            "sent3": "The squirrel watched the rabbit dart around the yard with amusement.",
+            "sent4": "Time seemed to rabbit by as she rushed to finish her project.",
+            "sent5": "The wind made the leaves on the trees rabbit in the breeze."
         }
     ]
 }

@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To look at all parts of something carefully in order to detect some feature.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She scanned the map to find the hidden treasure.",
+            "sent2": "The security guard scanned the crowd for any suspicious activity.",
+            "sent3": "He scanned the room for his lost keys, only to find them in his pocket.",
+            "sent4": "Her eyes scanned the horizon, searching for any sign of land.",
+            "sent5": "The scientist scanned the microscope slide for any signs of bacteria."
         },
         {
             "definition": "To examine closely or quickly.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The detective scanned the evidence for any clues.",
+            "sent2": "She scanned the document before signing it.",
+            "sent3": "He scanned the menu, trying to decide what to order.",
+            "sent4": "The teacher scanned the students' work to check for errors.",
+            "sent5": "The doctor scanned the X-ray to look for any fractures."
         },
         {
             "definition": "To pass over quickly or lightly.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She scanned the book to get an overview of the plot.",
+            "sent2": "The manager scanned the report before the meeting.",
+            "sent3": "He scanned the email, missing the important attachment.",
+            "sent4": "The bird scanned the field for any movement before landing.",
+            "sent5": "The athlete scanned the competition before the race."
         }
     ]
 }

@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To suggest or endorse something as being good or suitable.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I recommend this book for you to read.",
+            "sent2": "I always recommend this restaurant to my friends.",
+            "sent3": "I recommend wearing a clown nose to the party for fun.",
+            "sent4": "She recommended taking the scenic route for a more enjoyable drive.",
+            "sent5": "The doctor recommended drinking plenty of water for a speedy recovery."
         },
         {
             "definition": "To advise or counsel someone to do something.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I recommend you study for the test tomorrow.",
+            "sent2": "The teacher recommended that we review the material before the exam.",
+            "sent3": "I recommend wearing sunglasses to look cool.",
+            "sent4": "He recommended taking a deep breath to calm down.",
+            "sent5": "The coach recommended practicing every day to improve your skills."
         }
     ]
 }

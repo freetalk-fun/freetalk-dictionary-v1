@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Nothing",
-            "pos": "pronoun"
+            "pos": "pronoun",
+            "sent1": "She searched everywhere, but found nil.",
+            "sent2": "He had nil interest in the topic.",
+            "sent3": "The magician waved his wand, and poof! Nil remained.",
+            "sent4": "In the vast desert, the oasis was a welcome sight, a beacon of life in a sea of nil.",
+            "sent5": "The empty room echoed with nil sound."
         },
         {
             "definition": "Zero",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The score stood at nil to nil.",
+            "sent2": "He had nil dollars left in his pocket.",
+            "sent3": "The fridge was empty, containing nil food.",
+            "sent4": "The abandoned house had nil signs of life.",
+            "sent5": "The clock struck midnight, and all was nil."
         },
         {
             "definition": "Nonexistent",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The mythical creature was said to be nil in reality.",
+            "sent2": "The ghostly figure appeared out of nil air.",
+            "sent3": "The detective searched for clues but found nil evidence.",
+            "sent4": "Her hopes of winning the lottery were crushed when she checked her ticket and found it to be nil.",
+            "sent5": "The dream faded away, leaving only a feeling of nilness."
         }
     ]
 }

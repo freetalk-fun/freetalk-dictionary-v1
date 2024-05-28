@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "An invoice sent before the actual billing for goods or services.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The company received a prebill for the shipment of goods.",
+            "sent2": "I always review the prebill carefully before making the payment.",
+            "sent3": "The prebill arrived early, making the accountant's day a little brighter.",
+            "sent4": "The prebill was like a sneak peek into the upcoming expenses.",
+            "sent5": "The prebill was a reminder of the pending financial transaction."
         },
         {
             "definition": "To create or send an invoice before the final billing process.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "They decided to prebill the client to expedite the payment.",
+            "sent2": "It is common practice to prebill for services rendered in advance.",
+            "sent3": "The company chose to prebill to stay ahead of the financial game.",
+            "sent4": "She prebilled the customer to ensure prompt settlement of accounts.",
+            "sent5": "Prebilling allows for better cash flow management in the business."
         }
     ]
 }

@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Consisting of or involving only one part or element",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The puzzle was so simplex that even a child could solve it.",
+            "sent2": "The design was kept simplex to maintain its elegance.",
+            "sent3": "The recipe was so simplex that it only required two ingredients.",
+            "sent4": "Her outfit was a perfect example of a simplex style.",
+            "sent5": "The instructions were written in a very simplex manner for easy understanding."
         },
         {
             "definition": "A single unit or component",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The car engine is a complex system made up of many simplex parts.",
+            "sent2": "The phone charger is a crucial simplex for charging your device.",
+            "sent3": "The toolbox contained various tools, each serving as a simplex for different tasks.",
+            "sent4": "In the game, the key is a simplex needed to unlock the next level.",
+            "sent5": "The heart is a vital simplex in the human body, responsible for pumping blood."
         },
         {
             "definition": "A basic geometric figure formed by joining three or more points in a straight line",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The triangle is a common example of a simplex in geometry.",
+            "sent2": "The architect used a simplex to demonstrate the concept of a pyramid.",
+            "sent3": "The artist's painting featured a colorful simplex as the focal point.",
+            "sent4": "The constellation was formed by connecting stars in a simplex pattern.",
+            "sent5": "The logo design was based on a simplex to convey a sense of unity."
         }
     ]
 }

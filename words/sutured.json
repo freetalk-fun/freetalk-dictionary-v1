@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To stitch together edges of a wound or incision.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The doctor carefully sutured the cut on the patient's arm.",
+            "sent2": "She sutured the torn fabric back together.",
+            "sent3": "The clumsy tailor sutured the sleeve to the wrong side of the shirt!",
+            "sent4": "Her words sutured the broken relationship between the two friends.",
+            "sent5": "The needle deftly sutured the torn paper, making it whole again."
         },
         {
             "definition": "Stitched together with a suture.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The sutured wound healed nicely.",
+            "sent2": "The sutured fabric was as good as new.",
+            "sent3": "The sutured seam held up even after multiple washes.",
+            "sent4": "The sutured edges of the book cover gave it a neat finish.",
+            "sent5": "The sutured area on the quilt was almost invisible."
         },
         {
             "definition": "The act of suturing.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The quick sutured helped close the wound.",
+            "sent2": "She learned the art of sutured during her medical training.",
+            "sent3": "The patient was grateful for the skillful sutured performed by the surgeon.",
+            "sent4": "The intricate sutured was a testament to the surgeon's expertise.",
+            "sent5": "The delicate sutured was done with precision and care."
         }
     ]
 }

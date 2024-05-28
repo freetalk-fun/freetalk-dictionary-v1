@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Deoxyribonucleic acid: a self-replicating material present in nearly all living organisms as the main constituent of chromosomes.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The scientist studied the dna of the cells under the microscope.",
+            "sent2": "The dna of a person determines many of their physical traits.",
+            "sent3": "The detective found a clue in the dna left at the crime scene.",
+            "sent4": "In the library of life, dna is the book that holds all the secrets.",
+            "sent5": "The teacher used a model to explain how dna carries genetic information."
         },
         {
             "definition": "DNA: abbreviation for deoxyribonucleic acid, the carrier of genetic information.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The lab technician analyzed the DNA samples to identify the suspect.",
+            "sent2": "DNA testing can reveal important details about a person's ancestry.",
+            "sent3": "The DNA abbreviation was confusing to the new student in biology class.",
+            "sent4": "In the world of genetics, DNA is like a roadmap guiding our traits.",
+            "sent5": "The documentary explained how DNA plays a crucial role in inheritance."
         }
     ]
 }

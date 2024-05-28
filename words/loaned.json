@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "past tense of loan",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Yesterday, I loaned my friend a book.",
+            "sent2": "She loaned me her umbrella when it started raining.",
+            "sent3": "The library loaned out so many books that they ran out of space!",
+            "sent4": "He loaned his expertise to the project, making it a success.",
+            "sent5": "The teacher loaned her patience to the struggling student, helping them learn."
         },
         {
             "definition": "provided temporarily",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "She loaned her car to me for the weekend.",
+            "sent2": "The shop loaned out tools to customers for free.",
+            "sent3": "The hotel loaned extra towels to the guests for their pool day.",
+            "sent4": "The company loaned laptops to employees during the conference.",
+            "sent5": "The neighbor loaned a ladder to help with the home repairs."
         },
         {
             "definition": "borrowed",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I loaned a pen from my classmate for the test.",
+            "sent2": "She loaned a dress from her sister for the party.",
+            "sent3": "He loaned a bike from the rental shop for the weekend.",
+            "sent4": "The library loaned a rare book from another institution for the exhibit.",
+            "sent5": "They loaned a recipe from a famous chef for the cooking competition."
         }
     ]
 }

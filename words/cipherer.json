@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A person who encodes or decodes secret messages.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The cipherer carefully decoded the secret message.",
+            "sent2": "The spy hired a skilled cipherer to encrypt his messages.",
+            "sent3": "The cipherer chuckled as he cracked the code with ease.",
+            "sent4": "She was like a human cipherer, unraveling the mystery effortlessly.",
+            "sent5": "The young cipherer's eyes lit up with excitement as he deciphered the hidden message."
         },
         {
             "definition": "To encode or decode secret messages.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She will cipherer the message before sending it.",
+            "sent2": "The detective needed to cipherer the cryptic note to solve the case.",
+            "sent3": "He always enjoys cipherering messages for fun.",
+            "sent4": "The old map seemed to cipherer a tale of lost treasure.",
+            "sent5": "The ancient scroll held secrets waiting to be cipherered by the expert."
         }
     ]
 }

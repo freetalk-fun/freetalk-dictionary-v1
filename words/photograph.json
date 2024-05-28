@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A picture made using a camera, in which an image is focused onto light-sensitive material and then made visible and permanent by chemical treatment.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I have a photograph of my family on the wall.",
+            "sent2": "She keeps a photograph of her dog in her wallet.",
+            "sent3": "The photograph of the cat wearing sunglasses always makes me smile.",
+            "sent4": "His words painted a vivid photograph of the bustling city.",
+            "sent5": "The photograph of the sunset was so beautiful it felt like a dream."
         },
         {
             "definition": "To take a photograph of (someone or something).",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I will photograph the flowers in the garden.",
+            "sent2": "He likes to photograph nature during his hikes.",
+            "sent3": "I accidentally photographed my own shadow instead of the sunset.",
+            "sent4": "Her memory captured the moment like a photograph.",
+            "sent5": "The artist's words were able to photograph the scene in my mind."
         }
     ]
 }

@@ -3,23 +3,48 @@
     "meanings": [
         {
             "definition": "past tense of draw",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Yesterday, I drew a cat on my notebook.",
+            "sent2": "She drew a beautiful landscape during art class.",
+            "sent3": "The teacher drew a smiley face on the test paper.",
+            "sent4": "His words drew a clear picture of the situation.",
+            "sent5": "The artist drew a masterpiece with just a pencil."
         },
         {
             "definition": "to pull or drag something",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He drew the heavy box across the room.",
+            "sent2": "The horse drew the carriage down the street.",
+            "sent3": "The magnet drew the metal paperclips towards it.",
+            "sent4": "The strong wind drew the kite high up in the sky.",
+            "sent5": "She drew the curtains closed to block out the sunlight."
         },
         {
             "definition": "to sketch or create a picture",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The child drew a funny monster on the paper.",
+            "sent2": "He drew a portrait of his friend for her birthday.",
+            "sent3": "The artist drew a cartoon character with big eyes.",
+            "sent4": "She drew a map to show the way to the park.",
+            "sent5": "They drew a colorful rainbow in the sky with chalk."
         },
         {
             "definition": "to attract or bring in",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The delicious smell of cookies drew me into the kitchen.",
+            "sent2": "The bright lights of the city drew tourists from all over.",
+            "sent3": "The interesting book title drew her to pick it up and read.",
+            "sent4": "The catchy tune drew a crowd to the street performer.",
+            "sent5": "The promise of adventure drew them to explore the mysterious cave."
         },
         {
             "definition": "to extract or obtain from a source",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She drew water from the well to quench her thirst.",
+            "sent2": "The detective drew information from the witness about the crime.",
+            "sent3": "He drew inspiration from nature for his new painting.",
+            "sent4": "The chef drew flavors from different cuisines to create a unique dish.",
+            "sent5": "The researcher drew data from various studies to support the theory."
         }
     ]
 }

@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Causing harm or damage",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The storm had a detrimental effect on the crops.",
+            "sent2": "Using harmful chemicals can be detrimental to the environment.",
+            "sent3": "The mischievous squirrel's detrimental plan to steal all the nuts backfired.",
+            "sent4": "The detrimental impact of the pandemic on small businesses was devastating.",
+            "sent5": "The detrimental consequences of skipping regular exercise are evident in his health."
         },
         {
             "definition": "Something that causes harm or damage",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Avoiding detriments to your health is important.",
+            "sent2": "The factory's pollution was a detriment to the nearby river.",
+            "sent3": "The mischievous squirrel's plan turned out to be a funny detriment to his own stash of nuts.",
+            "sent4": "The detriments of smoking on one's health are well-known.",
+            "sent5": "The detriments of procrastination became clear when he missed the deadline."
         }
     ]
 }

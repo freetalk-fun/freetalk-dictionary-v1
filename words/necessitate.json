@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To make something necessary",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Not having an umbrella will necessitate finding shelter when it rains.",
+            "sent2": "Studying hard will necessitate good grades in school.",
+            "sent3": "Forgetting your lunch at home will necessitate a creative solution.",
+            "sent4": "His reckless driving necessitated a serious conversation about safety.",
+            "sent5": "The broken lock necessitated a quick repair to secure the house."
         },
         {
             "definition": "To require or compel",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The new law will necessitate stricter regulations for businesses.",
+            "sent2": "The doctor's orders necessitate taking the medication daily.",
+            "sent3": "His loud snoring necessitated separate bedrooms for the couple.",
+            "sent4": "The unexpected snowstorm necessitated a change of plans for the picnic.",
+            "sent5": "Her absence from the meeting necessitated a delay in the decision-making process."
         },
         {
             "definition": "To involve as a necessary condition",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Being on time will necessitate catching the early bus.",
+            "sent2": "The project's success necessitates teamwork and collaboration.",
+            "sent3": "His love for spicy food necessitated carrying a bottle of water everywhere.",
+            "sent4": "The fragile nature of the glass necessitated careful handling.",
+            "sent5": "The complexity of the task necessitated detailed instructions for completion."
         }
     ]
 }

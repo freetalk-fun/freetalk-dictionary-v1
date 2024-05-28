@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "past tense of pay",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Yesterday, I paid for my groceries at the store.",
+            "sent2": "She paid the bill at the restaurant after dinner.",
+            "sent3": "The cat paid for its mischief by knocking over the vase.",
+            "sent4": "The sun paid its daily dues by painting the sky with vibrant colors.",
+            "sent5": "The student paid attention in class to learn new things."
         },
         {
             "definition": "receiving money for work or a service",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "After finishing the job, he received his paid wages.",
+            "sent2": "She was happy to see her hard work reflected in her paid salary.",
+            "sent3": "The paid worker enjoyed the fruits of his labor with a smile.",
+            "sent4": "The paid service was worth every penny for its quality.",
+            "sent5": "The paid job provided a sense of accomplishment and satisfaction."
         },
         {
             "definition": "settled a debt or obligation",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He paid his friend back the money he owed.",
+            "sent2": "She paid off her loan in full to the bank.",
+            "sent3": "The squirrel paid its nut debt to the tree with extra acorns.",
+            "sent4": "The rain paid the parched earth with life-giving water.",
+            "sent5": "The kind gesture paid off in the form of gratitude and friendship."
         }
     ]
 }

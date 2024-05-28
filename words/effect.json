@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A change that is a result or consequence of an action or other cause.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The loud music had a noticeable effect on my mood.",
+            "sent2": "The medicine had a positive effect on her health.",
+            "sent3": "The effect of the magician's trick left the audience in awe.",
+            "sent4": "The effect of her words lingered in his mind long after she had left.",
+            "sent5": "The sudden rain had a refreshing effect on the dry plants."
         },
         {
             "definition": "The power to produce a result; influence.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The teacher's words had a strong effect on the students' behavior.",
+            "sent2": "The butterfly effect demonstrates how small actions can have big effects.",
+            "sent3": "The effect of the cat's meow was irresistible to the little girl.",
+            "sent4": "The effect of her smile was like a ray of sunshine on a gloomy day.",
+            "sent5": "The calming effect of the ocean waves helped her relax."
         },
         {
             "definition": "To bring about; accomplish.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She hoped to effect positive changes in her community.",
+            "sent2": "The new policy will effect significant improvements in the company.",
+            "sent3": "The team worked together to effect a successful outcome.",
+            "sent4": "His speech effectively effected a change in public opinion.",
+            "sent5": "The leader's vision will effect a transformation in the organization."
         }
     ]
 }

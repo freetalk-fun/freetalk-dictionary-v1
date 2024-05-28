@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A person who breaks a rule or law.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The infractor was caught stealing from the store.",
+            "sent2": "The police officer arrested the infractor for speeding.",
+            "sent3": "The mischievous infractor tried to sneak extra cookies from the jar.",
+            "sent4": "The infractor of the no-parking rule found a ticket on their car.",
+            "sent5": "The school principal warned the infractor about the consequences of cheating."
         },
         {
             "definition": "To violate or breach a rule or law.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Drivers who infract the speed limit risk getting fined.",
+            "sent2": "Please do not infract the school's no-cellphone policy.",
+            "sent3": "I accidentally infracted the library's quiet rule by dropping a book.",
+            "sent4": "The company policy clearly states that employees should not infract safety regulations.",
+            "sent5": "It is important to understand the consequences of infracting the law."
         }
     ]
 }

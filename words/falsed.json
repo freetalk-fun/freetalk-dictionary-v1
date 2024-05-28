@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To make false or untrue.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He falsed his age to get into the movie.",
+            "sent2": "She falsed her address on the form.",
+            "sent3": "The magician falsed the audience with his disappearing act.",
+            "sent4": "The news report falsed the reality of the situation.",
+            "sent5": "The witness falsed his testimony under pressure."
         },
         {
             "definition": "To deceive or mislead.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The con artist falsed his identity to steal money.",
+            "sent2": "She falsed her intentions to avoid trouble.",
+            "sent3": "The prankster falsed his friend into believing a funny story.",
+            "sent4": "The mirage falsed the travelers into thinking they saw an oasis.",
+            "sent5": "The scammer falsed the email to trick people into giving personal information."
         },
         {
             "definition": "Not genuine or authentic.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The falsed painting was quickly identified as a forgery.",
+            "sent2": "Her falsed smile didn't fool anyone.",
+            "sent3": "The falsed designer bag looked real from afar.",
+            "sent4": "His falsed promises left a trail of disappointment.",
+            "sent5": "The falsed documents were rejected by the authorities."
         }
     ]
 }

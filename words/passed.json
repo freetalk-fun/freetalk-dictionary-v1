@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Moved past or beyond something",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The car passed the red traffic light quickly.",
+            "sent2": "I passed by the park on my way to school.",
+            "sent3": "The rabbit passed the tortoise in the race.",
+            "sent4": "Time passed like a river flowing steadily.",
+            "sent5": "The wind passed through the open window, carrying the scent of flowers."
         },
         {
             "definition": "Transferred something to someone else",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She passed the ball to her teammate during the game.",
+            "sent2": "I passed the book to my friend after finishing it.",
+            "sent3": "The magician passed the wand to the audience member.",
+            "sent4": "The torch was passed from runner to runner in the relay race.",
+            "sent5": "The tradition of passing down family recipes continued for generations."
         },
         {
             "definition": "Succeeded in an exam or test",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He passed the math test with flying colors.",
+            "sent2": "She passed her driving exam on the first try.",
+            "sent3": "The student passed the quiz despite not studying.",
+            "sent4": "The team passed the final challenge to win the competition.",
+            "sent5": "After hours of studying, she finally passed the difficult exam."
         }
     ]
 }

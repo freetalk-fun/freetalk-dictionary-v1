@@ -3,23 +3,48 @@
     "meanings": [
         {
             "definition": "A person who manages or looks after something.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The zookeeper fed the animals every day.",
+            "sent2": "The keeper of the keys made sure all doors were locked at night.",
+            "sent3": "The keeper of the garden accidentally watered the fake plants.",
+            "sent4": "She was the keeper of secrets, never revealing what she knew.",
+            "sent5": "As the keeper of the lighthouse, he ensured ships stayed safe from the rocks."
         },
         {
             "definition": "A person who guards or protects something.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The security guard is the keeper of the museum artifacts.",
+            "sent2": "The keeper of the forest protected the endangered species from harm.",
+            "sent3": "The keeper of the treasure chest pretended to be a fearsome pirate.",
+            "sent4": "She was the keeper of the ancient ruins, preserving their history.",
+            "sent5": "The keeper of the peace ensured that everyone followed the rules."
         },
         {
             "definition": "A person who is responsible for taking care of something.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The babysitter is the keeper of the children while their parents are away.",
+            "sent2": "The keeper of the garden tended to the plants with care.",
+            "sent3": "The keeper of the cookies had to resist eating them all.",
+            "sent4": "She was the keeper of the family traditions, passing them down through generations.",
+            "sent5": "The keeper of the time capsule ensured it was buried safely for future generations."
         },
         {
             "definition": "A person who is in charge of a sports team.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The coach is the keeper of the soccer team's strategy.",
+            "sent2": "The keeper of the basketball team trained the players rigorously.",
+            "sent3": "The keeper of the chess club always had a winning move up his sleeve.",
+            "sent4": "She was the keeper of the track team's records, inspiring new athletes.",
+            "sent5": "The keeper of the swim team motivated everyone to give their best in every race."
         },
         {
             "definition": "A device or container used for storing or preserving something.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The cookie jar is the keeper of all the sweet treats.",
+            "sent2": "The thermos is the keeper of hot soup on a cold day.",
+            "sent3": "The freezer is the keeper of ice cream, always ready for a scoop.",
+            "sent4": "She was the keeper of the family recipes, ensuring they were passed down.",
+            "sent5": "The safe is the keeper of valuable documents and precious jewels."
         }
     ]
 }

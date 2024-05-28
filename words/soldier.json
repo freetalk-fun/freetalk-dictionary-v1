@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A person who serves in an army.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The brave soldier fought for his country.",
+            "sent2": "The soldier wore a uniform and carried a gun.",
+            "sent3": "The soldier joked with his comrades during a break.",
+            "sent4": "She stood strong like a soldier in the face of adversity.",
+            "sent5": "The soldier's loyalty was unwavering."
         },
         {
             "definition": "To serve as a soldier.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He decided to soldier on despite the challenges.",
+            "sent2": "They soldiered through the harsh winter conditions.",
+            "sent3": "I will soldier through this pile of homework.",
+            "sent4": "She soldiered on, determined to reach the finish line.",
+            "sent5": "The team will soldier forward with determination."
         },
         {
             "definition": "To continue on through difficulty or danger.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Despite the storm, they soldiered on towards their goal.",
+            "sent2": "She soldiered through the tough times with a smile.",
+            "sent3": "The little ant soldiered on, carrying a heavy load.",
+            "sent4": "He soldiered through the forest, undeterred by the darkness.",
+            "sent5": "The hiker had to soldier through the rough terrain."
         }
     ]
 }

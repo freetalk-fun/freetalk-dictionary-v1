@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A person or thing acting or serving in place of another.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "In the play, one of the actors was unable to perform, so the substitutes took over.",
+            "sent2": "During the soccer game, the coach called in substitutes to replace tired players.",
+            "sent3": "The substitute teacher accidentally walked into the wrong classroom and started teaching math instead of English.",
+            "sent4": "The cardboard cutout of the celebrity was a poor substitute for the real person at the event.",
+            "sent5": "Having a backup generator is a good substitute for when the power goes out."
         },
         {
             "definition": "To use or add in place of: substitute sugar for honey.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I had to substitutes butter with margarine in the recipe because I ran out.",
+            "sent2": "When baking, you can substitute applesauce for oil to make the dish healthier.",
+            "sent3": "The chef decided to substitute salt with sugar in the dish, creating a surprisingly sweet flavor.",
+            "sent4": "She had to substitute her usual route with a detour due to road construction.",
+            "sent5": "In emergencies, you can substitute a flashlight for a candle to provide light."
         },
         {
             "definition": "To replace (one or more elements or groups in a compound) by other elements or groups.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The chemist needed to substitutes chlorine for fluorine in the experiment.",
+            "sent2": "When making a salad, you can substitute spinach for lettuce for a different taste.",
+            "sent3": "The student tried to substitute the difficult question with an easier one during the test.",
+            "sent4": "The mechanic had to substitute the old engine parts with new ones to fix the car.",
+            "sent5": "You can substitute almond milk for regular milk in recipes if you are lactose intolerant."
         }
     ]
 }

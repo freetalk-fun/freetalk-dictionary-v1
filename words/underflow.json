@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A condition in which a computer program attempts to store a number that is smaller than the minimum value that the data type can represent.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The underflow caused the program to crash.",
+            "sent2": "The computer displayed an error message due to underflow.",
+            "sent3": "The tiny number got lost in the underflow chaos.",
+            "sent4": "The underflow problem was like trying to fit an elephant in a matchbox.",
+            "sent5": "The underflow glitch made the data disappear into a black hole."
         },
         {
             "definition": "The act of flowing or overflowing beneath something.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The underflow of water created a hidden stream.",
+            "sent2": "The underflow of lava was dangerous beneath the surface.",
+            "sent3": "The underflow of ants under the picnic blanket surprised everyone.",
+            "sent4": "The underflow of emotions beneath his calm exterior was unexpected.",
+            "sent5": "The underflow of secrets beneath the facade was finally revealed."
         }
     ]
 }

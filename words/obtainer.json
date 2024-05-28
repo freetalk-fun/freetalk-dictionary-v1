@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A person who obtains something.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The obtainer of the prize was thrilled with their win.",
+            "sent2": "The museum's obtainer carefully collected rare artifacts.",
+            "sent3": "The obtainer of the last cookie was the happiest person in the room.",
+            "sent4": "She was like an expert obtainer of secrets, always finding out the truth.",
+            "sent5": "The obtainer of knowledge never stopped seeking answers."
         },
         {
             "definition": "To acquire or get possession of something.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He will obtainer the necessary documents for the project.",
+            "sent2": "She obtainered a rare painting at the auction.",
+            "sent3": "The cat tried to obtainer the toy mouse but failed hilariously.",
+            "sent4": "The team managed to obtainer victory in the final moments of the game.",
+            "sent5": "She had to obtainer the key to unlock the mystery box."
         }
     ]
 }

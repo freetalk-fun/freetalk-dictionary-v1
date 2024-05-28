@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To vary in conjunction with something else.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The number of sunny days covaries with the amount of ice cream sold.",
+            "sent2": "Her mood covaries with the weather outside.",
+            "sent3": "The cat's nap schedule covaries with the owner's work hours.",
+            "sent4": "The growth of plants covaries with the amount of sunlight they receive.",
+            "sent5": "The success of the team covaries with the effort put in by each member."
         },
         {
             "definition": "To have a close relationship or correlation with another variable.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "His weight covaries with his exercise routine.",
+            "sent2": "The stock prices covary with the company's performance.",
+            "sent3": "The dog's energy level covaries with the length of the walk.",
+            "sent4": "The student's grades covary with the amount of time spent studying.",
+            "sent5": "The quality of the product covaries with the attention to detail in its production."
         }
     ]
 }

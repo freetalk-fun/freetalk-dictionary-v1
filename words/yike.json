@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To startle or frighten suddenly.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The loud noise from the fireworks did yike the dog.",
+            "sent2": "The unexpected thunderstorm yiked the children playing outside.",
+            "sent3": "I didn't mean to yike you when I jumped out from behind the door.",
+            "sent4": "The horror movie yiked me so much that I couldn't sleep.",
+            "sent5": "The sudden clap of thunder yiked the entire neighborhood."
         },
         {
             "definition": "A sudden sharp pain or twinge.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "She felt a yike in her ankle after twisting it on the hike.",
+            "sent2": "The yike in his back made him wince in pain.",
+            "sent3": "The yike in my tooth reminded me to schedule a dentist appointment.",
+            "sent4": "The yike in her side was a sign that she needed to rest.",
+            "sent5": "The yike in his knee told him a storm was coming."
         },
         {
             "definition": "An exclamation of surprise or alarm.",
-            "pos": "interjection"
+            "pos": "interjection",
+            "sent1": "Yike! I almost dropped my phone!",
+            "sent2": "Yike, that was a close call!",
+            "sent3": "Yike, I forgot to turn off the stove!",
+            "sent4": "Yike! Look at the size of that spider!",
+            "sent5": "Yike! Did you see that shooting star?"
         }
     ]
 }

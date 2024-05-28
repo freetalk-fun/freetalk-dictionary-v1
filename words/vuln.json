@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Vulnerable: susceptible to physical or emotional harm",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The small child felt vuln when left alone in the dark.",
+            "sent2": "It is important to protect vuln animals from predators.",
+            "sent3": "The fluffy puppy looked vuln trying to climb the stairs.",
+            "sent4": "Her heart felt vuln after the breakup, like fragile glass.",
+            "sent5": "The old bridge was so vuln that even a gentle breeze could make it sway."
         },
         {
             "definition": "Vulnerability: the state of being exposed to harm or attack",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The team discussed the vuln of their system to cyber attacks.",
+            "sent2": "Showing vulnerability can sometimes lead to stronger relationships.",
+            "sent3": "His fear of spiders was a funny vuln in an otherwise brave man.",
+            "sent4": "The castle's vulnerability was its isolated location on the hilltop.",
+            "sent5": "The vulnerability of the ship's hull made the crew anxious during the storm."
         },
         {
             "definition": "Vulnerably: in a way that is susceptible to harm or attack",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "She walked vuln through the dark alley, clutching her bag tightly.",
+            "sent2": "The child played vulnerably near the edge of the pool.",
+            "sent3": "The cat stared vulnerably at the closed door, wanting to go outside.",
+            "sent4": "The old house stood vulnerably at the edge of the cliff, facing the strong winds.",
+            "sent5": "The flower petals swayed vulnerably in the gentle breeze, ready to fall at any moment."
         }
     ]
 }

@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Used to indicate a direction or location, as in \"auf dem Tisch\" (on the table).",
-            "pos": "preposition"
+            "pos": "preposition",
+            "sent1": "The cat jumped auf the chair.",
+            "sent2": "The book is auf the shelf.",
+            "sent3": "The keys were hiding auf the bed.",
+            "sent4": "Her eyes focused auf the horizon.",
+            "sent5": "The sun set auf the mountains."
         },
         {
             "definition": "Used to indicate a state of being or action, as in \"auf sein\" (to be on).",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She will auf the stage tonight.",
+            "sent2": "The light is auf in the room.",
+            "sent3": "The idea auf in his mind suddenly.",
+            "sent4": "His heart auf with joy.",
+            "sent5": "The music auf in the air."
         },
         {
             "definition": "Used to indicate a time frame, as in \"auf morgen\" (until tomorrow).",
-            "pos": "preposition"
+            "pos": "preposition",
+            "sent1": "We have to wait auf the weekend.",
+            "sent2": "The event is scheduled auf next month.",
+            "sent3": "He procrastinated auf the deadline.",
+            "sent4": "Time slipped away auf the clock.",
+            "sent5": "The flowers will bloom auf spring."
         }
     ]
 }

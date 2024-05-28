@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "An optical instrument designed to make distant objects appear nearer.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I used a telescope to see the stars up close.",
+            "sent2": "The astronomer peered through the telescope to study the planets.",
+            "sent3": "When I looked through the telescope backward, everything seemed tiny!",
+            "sent4": "Her eyes were like a telescope, zooming in on every detail.",
+            "sent5": "The telescope revealed the hidden beauty of the night sky."
         },
         {
             "definition": "To collapse or fold in on itself.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The old chair began to telescope down as I sat on it.",
+            "sent2": "He watched the table telescope into a compact size for storage.",
+            "sent3": "The umbrella decided to telescope shut just as it started raining.",
+            "sent4": "The collapsing building seemed to telescope into a pile of rubble.",
+            "sent5": "The spy's antenna telescope down quickly to avoid detection."
         }
     ]
 }

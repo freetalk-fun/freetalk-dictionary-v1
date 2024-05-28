@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A person who proposes something.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The proposer suggested a new idea for the project.",
+            "sent2": "The proposer at the meeting shared their proposal with the team.",
+            "sent3": "The proposer jokingly suggested having a pizza party every day.",
+            "sent4": "She was the proposer of the plan that saved the company from bankruptcy.",
+            "sent5": "As the proposer of the charity event, he worked tirelessly to make it a success."
         },
         {
             "definition": "To put forward for consideration or acceptance.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He will proposer his plan to the board of directors tomorrow.",
+            "sent2": "She decided to proposer a new policy to improve customer satisfaction.",
+            "sent3": "The students will proposer a fun idea for the school talent show.",
+            "sent4": "The chef will proposer a unique dish for the menu next month.",
+            "sent5": "They proposer a compromise to resolve the disagreement peacefully."
         }
     ]
 }

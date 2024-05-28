@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Subjected to trial or examination",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The new software was tested thoroughly before being released to the public.",
+            "sent2": "The parachute was tested for safety before the skydiver jumped.",
+            "sent3": "The chef tested a new recipe for chocolate cake, but it turned out to be a disaster.",
+            "sent4": "Her patience was tested like never before during the long wait at the doctor's office.",
+            "sent5": "The bridge's strength was tested by the heavy trucks crossing over it."
         },
         {
             "definition": "Proven or tried",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The veteran firefighter was tested in many dangerous situations.",
+            "sent2": "The medicine had been tested and found to be effective against the virus.",
+            "sent3": "The detective's skills were tested when faced with a puzzling case.",
+            "sent4": "Her loyalty to the team was tested when she was offered a better position elsewhere.",
+            "sent5": "The athlete's endurance was tested during the marathon race."
         },
         {
             "definition": "To administer a test or examination",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The teacher tested the students on their knowledge of multiplication.",
+            "sent2": "The doctor tested the patient's reflexes to check for any neurological issues.",
+            "sent3": "The scientist tested the hypothesis by conducting a series of experiments.",
+            "sent4": "She tested the microphone before the presentation to ensure it was working properly.",
+            "sent5": "The mechanic tested the car's brakes to make sure they were functioning correctly."
         }
     ]
 }

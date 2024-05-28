@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A small rodent with a pointed snout and long tail.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The mouse scurried across the field, searching for food.",
+            "sent2": "I saw a cute mouse in the pet store today.",
+            "sent3": "The mouse peeked out from behind the wall, looking for cheese.",
+            "sent4": "She was as quiet as a mouse during the surprise party.",
+            "sent5": "The tiny mouse nibbled on the crumbs left on the table."
         },
         {
             "definition": "A device used to move a cursor on a computer screen.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I need to buy a new mouse for my computer.",
+            "sent2": "The wireless mouse makes it easy to navigate the screen.",
+            "sent3": "The cat thought the computer mouse was a real animal to chase.",
+            "sent4": "Her fingers danced across the mouse to control the game.",
+            "sent5": "The mouse stopped working, so I had to use the touchpad instead."
         },
         {
             "definition": "To move quietly and stealthily.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She tried to mouse around the house without waking anyone.",
+            "sent2": "The spy needed to mouse through the dark hallway undetected.",
+            "sent3": "He decided to mouse into the room to surprise his friends.",
+            "sent4": "The ninja would mouse through the shadows to reach his target.",
+            "sent5": "The cat tried to mouse up to the bird feeder without being seen."
         }
     ]
 }

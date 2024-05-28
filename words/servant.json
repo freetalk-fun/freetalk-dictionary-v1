@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A person who performs duties for others, especially a domestic worker.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The servant cleaned the house every day.",
+            "sent2": "The servant served dinner to the family.",
+            "sent3": "The servant accidentally spilled water while mopping the floor.",
+            "sent4": "She was a loyal servant to her elderly employer.",
+            "sent5": "The servant's dedication to her job was truly admirable."
         },
         {
             "definition": "A device or piece of software that performs a specific function for another device or program.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The smart speaker acted as a virtual servant, answering questions and playing music.",
+            "sent2": "The virtual assistant on the phone was a helpful servant for organizing tasks.",
+            "sent3": "The coffee machine, a faithful servant, brewed the perfect cup every morning.",
+            "sent4": "The GPS navigation system was a reliable servant during the road trip.",
+            "sent5": "The robot vacuum cleaner proved to be a diligent servant in keeping the floors clean."
         }
     ]
 }

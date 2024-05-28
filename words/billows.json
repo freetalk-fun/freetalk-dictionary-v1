@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A large undulating mass of something, typically cloud, smoke, or steam.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The billows of smoke rose high into the sky.",
+            "sent2": "The dark storm clouds formed billows above us.",
+            "sent3": "The magician made shapes out of the billows of smoke.",
+            "sent4": "The billows of steam from the kettle enveloped the room.",
+            "sent5": "The billows of cloud looked like giant cotton candy in the sky."
         },
         {
             "definition": "(of fabric) Fill with air and swell outwards.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The curtains billow in the breeze coming through the window.",
+            "sent2": "The sails billow as the wind fills them, propelling the boat forward.",
+            "sent3": "Her dress billowed out behind her as she ran through the field.",
+            "sent4": "The flag billowed proudly in the wind atop the mountain.",
+            "sent5": "The hot air balloon billowed as it slowly ascended into the sky."
         }
     ]
 }

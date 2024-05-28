@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A soothing ointment or balm used to relieve pain or promote healing.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "She applied a salve to her sunburn to ease the pain.",
+            "sent2": "The herbal salve helped heal the cut on his finger.",
+            "sent3": "The salve worked like magic on her chapped lips.",
+            "sent4": "His kind words were a salve to her wounded heart.",
+            "sent5": "The cooling salve brought instant relief to his sore muscles."
         },
         {
             "definition": "To soothe or heal with a salve.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He tried to salve her hurt feelings with an apology.",
+            "sent2": "The nurse gently salved the patient's burns with a soothing cream.",
+            "sent3": "His attempt to salve the situation only made it worse.",
+            "sent4": "Her comforting words salved his worried mind.",
+            "sent5": "The apology was meant to salve the tension between them."
         }
     ]
 }

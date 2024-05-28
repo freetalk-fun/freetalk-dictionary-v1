@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To restore compressed data to its original size or format.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I need to uncompress this file to see its contents.",
+            "sent2": "The software can uncompress the zipped folder for you.",
+            "sent3": "Trying to uncompress a file without the right tool is like opening a jar without a lid.",
+            "sent4": "Her laughter seemed to uncompress the tension in the room.",
+            "sent5": "The magician's trick was to uncompress a large object from a tiny box."
         },
         {
             "definition": "Not compressed; in an uncompressed state.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The image file is in an uncompressed format for better quality.",
+            "sent2": "Make sure the video is saved in an uncompressed format for editing.",
+            "sent3": "The balloon looked uncompress as it slowly deflated.",
+            "sent4": "The room felt uncompress after all the clutter was removed.",
+            "sent5": "The fresh air outside felt uncompress compared to the stuffy room."
         }
     ]
 }

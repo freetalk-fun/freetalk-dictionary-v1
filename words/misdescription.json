@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A description that is inaccurate or incorrect.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The misdescription of the painting led to confusion.",
+            "sent2": "The misdescription in the report caused misunderstandings.",
+            "sent3": "The misdescription of the recipe made everyone laugh.",
+            "sent4": "Her misdescription of the event painted a false picture.",
+            "sent5": "The misdescription of the monster made it seem scarier than it was."
         },
         {
             "definition": "To describe something inaccurately or incorrectly.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He tends to misdescription situations when retelling stories.",
+            "sent2": "Please do not misdescription the facts during the presentation.",
+            "sent3": "She misdescriptioned the plot of the movie, making it sound like a comedy.",
+            "sent4": "His misdescription of the storm made it seem like a raging beast.",
+            "sent5": "They misdescriptioned the size of the fish they caught, making it sound enormous."
         }
     ]
 }

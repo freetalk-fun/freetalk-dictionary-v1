@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Not clear or distinct; indistinct",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The picture was blurred, making it hard to see.",
+            "sent2": "Her memory of the event was blurred by time.",
+            "sent3": "The artist intentionally blurred the colors to create a dreamy effect.",
+            "sent4": "The boundary between reality and fantasy was blurred in the movie.",
+            "sent5": "The fog blurred the outline of the trees, creating a mystical scene."
         },
         {
             "definition": "To make or become unclear or less distinct",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The rain blurred the ink on the paper.",
+            "sent2": "Tears blurred her vision as she cried.",
+            "sent3": "The magician's trick blurred the line between illusion and reality.",
+            "sent4": "Time seemed to blur as they lost themselves in conversation.",
+            "sent5": "The speed of the car blurred the scenery outside the window."
         }
     ]
 }

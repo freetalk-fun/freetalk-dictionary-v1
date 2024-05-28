@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To apply pressure to (verb)",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She pressurises the bottle to open it.",
+            "sent2": "He pressurises the brakes to slow down the car.",
+            "sent3": "The chef pressurises the dough to make it rise.",
+            "sent4": "The coach pressurises the team to perform their best.",
+            "sent5": "The doctor pressurises the wound to stop the bleeding."
         },
         {
             "definition": "To subject to pressure or stress (verb)",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The tight deadline pressurises the employees to finish the project.",
+            "sent2": "Financial difficulties can pressurise a family.",
+            "sent3": "The noisy neighbors pressurise the peaceful atmosphere of the neighborhood.",
+            "sent4": "The upcoming exam pressurises the students to study harder.",
+            "sent5": "The constant criticism pressurises her self-esteem."
         }
     ]
 }

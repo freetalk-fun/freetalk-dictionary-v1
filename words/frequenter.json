@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A person who visits a place often.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The park frequenter enjoyed feeding the ducks every day.",
+            "sent2": "The coffee shop frequenter always orders the same drink.",
+            "sent3": "The library frequenter accidentally fell asleep while reading a book.",
+            "sent4": "The gym frequenter's dedication is like a shining beacon to others.",
+            "sent5": "The movie theater frequenter knows all the best seats in the house."
         },
         {
             "definition": "To visit a place often.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She frequenter the bakery to buy fresh bread for breakfast.",
+            "sent2": "They frequenter the beach every weekend to relax.",
+            "sent3": "He frequenter the ice cream shop even in the winter.",
+            "sent4": "The cat frequenter the garden to chase butterflies.",
+            "sent5": "We frequenter the park for our daily walks."
         }
     ]
 }

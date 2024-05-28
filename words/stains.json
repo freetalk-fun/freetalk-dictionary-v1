@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A discoloration or mark caused by a foreign substance.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The coffee stains on the table were difficult to remove.",
+            "sent2": "She tried to clean the ink stains from her shirt.",
+            "sent3": "The ketchup stains on his face made him look like a messy eater.",
+            "sent4": "The emotional stains of the past lingered in her heart.",
+            "sent5": "The wine stains on the carpet were a vivid reminder of the party."
         },
         {
             "definition": "To mark or discolor with something that is not easily removed.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He accidentally stains his shirt with mustard.",
+            "sent2": "The mud stains on the floor were from his shoes.",
+            "sent3": "She stains her hands with paint while working on the art project.",
+            "sent4": "The lies he told would forever stains his reputation.",
+            "sent5": "The betrayal stains their friendship with mistrust."
         }
     ]
 }

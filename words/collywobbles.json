@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A feeling of discomfort in the stomach, often accompanied by nausea or anxiety.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The spicy food gave me collywobbles.",
+            "sent2": "She couldn't sleep due to the collywobbles in her stomach.",
+            "sent3": "The thought of the upcoming test gave him collywobbles.",
+            "sent4": "The roller coaster ride left her with collywobbles in her stomach.",
+            "sent5": "The collywobbles before a performance are common among actors."
         },
         {
             "definition": "To feel nervous or anxious.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He collywobbles before giving a speech.",
+            "sent2": "She always collywobbles before meeting new people.",
+            "sent3": "The cat collywobbles when it hears thunder.",
+            "sent4": "The dark forest path made him collywobbles with fear.",
+            "sent5": "The collywobbles made her hesitate before taking the leap."
         },
         {
             "definition": "To have a stomachache.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Eating too much ice cream can collywobbles you.",
+            "sent2": "He collywobbles after eating the expired food.",
+            "sent3": "The collywobbles from the food poisoning were unbearable.",
+            "sent4": "The bumpy car ride collywobbles her stomach.",
+            "sent5": "The collywobbles kept him up all night."
         }
     ]
 }

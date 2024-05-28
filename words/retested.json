@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Test again to check previous results.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She retested the experiment to make sure it was correct.",
+            "sent2": "The teacher retested the students on their spelling words.",
+            "sent3": "He retested the cake in the oven to avoid burning it.",
+            "sent4": "The detective retested the evidence to uncover any mistakes.",
+            "sent5": "The doctor retested the patient's blood sample for accuracy."
         },
         {
             "definition": "Subject to a second examination to confirm accuracy.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The retested results showed the same outcome as before.",
+            "sent2": "The retested product met the quality standards.",
+            "sent3": "The retested puzzle seemed even more challenging the second time.",
+            "sent4": "The retested theory proved to be true after further analysis.",
+            "sent5": "The retested data provided more reliable information for the study."
         }
     ]
 }

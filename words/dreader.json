@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A person who dreads something.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The dreader hesitated before entering the haunted house.",
+            "sent2": "The dreader's fear of spiders made them avoid the basement.",
+            "sent3": "The dreader's friends teased them about their fear of heights.",
+            "sent4": "The dreader's anxiety about the upcoming exam loomed over them like a dark cloud.",
+            "sent5": "The dreader's fear of public speaking was so intense, they felt physically ill."
         },
         {
             "definition": "Causing fear or anxiety.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The dark forest had a dreader atmosphere as the sun set.",
+            "sent2": "The stormy weather created a dreader mood among the campers.",
+            "sent3": "The dreader movie kept the audience on the edge of their seats.",
+            "sent4": "The haunted house had a dreader effect on visitors than expected.",
+            "sent5": "The eerie silence in the abandoned house grew dreader with each passing minute."
         }
     ]
 }

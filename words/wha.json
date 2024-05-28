@@ -2,12 +2,13 @@
     "term": "wha",
     "meanings": [
         {
-            "definition": "Used to express surprise or confusion.",
-            "pos": "interjection"
-        },
-        {
             "definition": "A question asking for information or clarification.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Can you answer my wha?",
+            "sent2": "Wha is your favorite color?",
+            "sent3": "I have a wha about the homework.",
+            "sent4": "Her eyes held a wha that begged for an answer.",
+            "sent5": "The detective's wha led to a breakthrough in the case."
         }
     ]
 }

@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Showing the signs of age; old-fashioned or out-of-date.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The jacket he wore was very dated, with large shoulder pads.",
+            "sent2": "Her hairstyle looked dated compared to the modern trends.",
+            "sent3": "The old computer was so dated, it could barely run any new software.",
+            "sent4": "His taste in music was so dated, he only listened to vinyl records.",
+            "sent5": "The antique shop was full of dated furniture from the 1960s."
         },
         {
             "definition": "To determine or note the time of an event or object.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She dated the letter by writing the exact day on it.",
+            "sent2": "The archaeologist dated the artifacts to the Roman era.",
+            "sent3": "He tried to date the ancient manuscript but found it challenging.",
+            "sent4": "The scientist used carbon dating to accurately date the fossil.",
+            "sent5": "The historian was able to date the painting to the Renaissance period."
         },
         {
             "definition": "To go on a date with someone.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "They dated for a few months before deciding to be just friends.",
+            "sent2": "She agreed to date him after getting to know him better.",
+            "sent3": "He asked her out to date, but she politely declined.",
+            "sent4": "They planned to date at the new restaurant in town.",
+            "sent5": "The couple decided to date exclusively after a few weeks of seeing each other."
         }
     ]
 }

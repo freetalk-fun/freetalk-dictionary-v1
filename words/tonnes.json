@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A unit of weight equal to 1,000 kilograms.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The shipment weighed several tonnes.",
+            "sent2": "The farmer harvested tonnes of potatoes this season.",
+            "sent3": "I accidentally ordered tonnes of cat food online!",
+            "sent4": "Her love for him weighed tonnes on her heart.",
+            "sent5": "The elephant weighed as much as several tonnes."
         },
         {
             "definition": "A large amount or number.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "There were tonnes of people at the concert.",
+            "sent2": "She had tonnes of fun at the party.",
+            "sent3": "I have tonnes of homework to do tonight.",
+            "sent4": "The news hit her like tonnes of bricks.",
+            "sent5": "The bakery produced tonnes of bread daily."
         }
     ]
 }

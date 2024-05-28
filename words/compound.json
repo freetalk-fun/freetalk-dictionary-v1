@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A thing that is composed of two or more separate elements.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The scientist studied the chemical compound in the lab.",
+            "sent2": "The compound consisted of various metals and minerals.",
+            "sent3": "The compound of flavors in the dish created a unique taste.",
+            "sent4": "Her artwork was a compound of colors that blended beautifully.",
+            "sent5": "The compound of sounds in the symphony was mesmerizing."
         },
         {
             "definition": "A substance formed by the chemical combination of two or more elements.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The pharmacist mixed the compound for the patient's medication.",
+            "sent2": "The compound reacted with the acid to produce a new substance.",
+            "sent3": "The compound of ingredients in the recipe made a delicious cake.",
+            "sent4": "The compound of gases in the atmosphere affects our climate.",
+            "sent5": "The compound of chemicals in the solution created a reaction."
         },
         {
             "definition": "To make something bad worse by adding to it.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She didn't mean to compound the problem by forgetting her keys.",
+            "sent2": "His procrastination only served to compound his stress levels.",
+            "sent3": "Trying to fix the leak without proper tools would only compound the issue.",
+            "sent4": "The delay in delivery will compound the already tight schedule.",
+            "sent5": "His lack of attention to detail would compound the errors in the report."
         }
     ]
 }

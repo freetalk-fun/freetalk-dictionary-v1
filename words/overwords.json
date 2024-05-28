@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Words or phrases that are repeated excessively in speech or writing.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The teacher's overuse of overwords made the lecture boring.",
+            "sent2": "The book was filled with overwords, making it difficult to read.",
+            "sent3": "The comedian's routine about overwords had the audience laughing.",
+            "sent4": "Her essay was like a forest of overwords, dense and hard to navigate.",
+            "sent5": "The overwords in the speech echoed in the room, leaving a lasting impression."
         },
         {
             "definition": "To speak or write too much or too long.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He tends to overwords when he gets nervous during presentations.",
+            "sent2": "She always overwords in her emails, making them hard to follow.",
+            "sent3": "The politician would overwords during debates, causing some eye rolls.",
+            "sent4": "His stories would overwords like a river overflowing its banks.",
+            "sent5": "The professor would overwords in lectures, putting students to sleep."
         },
         {
             "definition": "To exceed the limit of words allowed.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I accidentally overwords the essay by a hundred words.",
+            "sent2": "She tends to overwords in her reports, needing to edit them down.",
+            "sent3": "The student would overwords in the assignment, needing to cut back.",
+            "sent4": "His speech would overwords like a balloon expanding beyond capacity.",
+            "sent5": "The writer would overwords the article, needing to trim it for publication."
         }
     ]
 }

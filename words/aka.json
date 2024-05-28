@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Also known as",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "My friend, aka John, is coming over for dinner.",
+            "sent2": "She is a talented singer, aka a musician.",
+            "sent3": "I always forget my keys, aka my forgetful habit.",
+            "sent4": "The sun, aka the golden orb in the sky, was setting beautifully.",
+            "sent5": "The cat, aka the fluffy feline, purred contentedly."
         },
         {
             "definition": "Alias",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The criminal used an alias, aka a fake name, to hide his identity.",
+            "sent2": "The spy had multiple aliases, aka different identities, for each mission.",
+            "sent3": "The magician, aka the master of illusions, amazed the audience with his tricks.",
+            "sent4": "The superhero, aka the caped crusader, fought against injustice in the city.",
+            "sent5": "The hacker, aka the digital ghost, left no trace of their intrusion."
         }
     ]
 }

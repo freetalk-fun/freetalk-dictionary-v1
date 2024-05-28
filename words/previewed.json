@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To view or inspect in advance",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I previewed the new movie before it came out.",
+            "sent2": "She previewed the document to check for errors.",
+            "sent3": "The detective previewed the crime scene for clues.",
+            "sent4": "The teacher previewed the upcoming lesson to prepare.",
+            "sent5": "He previewed the map before starting the journey."
         },
         {
             "definition": "A showing of a film, play, or other form of entertainment before it is released or shown to the public",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The previewed movie was only for special guests.",
+            "sent2": "We attended the previewed of the new play last night.",
+            "sent3": "The previewed event had exclusive access for VIPs.",
+            "sent4": "The previewed screening received positive feedback.",
+            "sent5": "I got tickets to the previewed of the upcoming concert."
         }
     ]
 }

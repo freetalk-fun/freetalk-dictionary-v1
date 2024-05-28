@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Going to",
-            "pos": "preposition"
+            "pos": "preposition",
+            "sent1": "I'm gonna the park later.",
+            "sent2": "She's gonna visit her grandma tomorrow.",
+            "sent3": "Are you gonna the store after work?",
+            "sent4": "The sun is gonna set soon.",
+            "sent5": "The train is gonna arrive at 3 o'clock sharp."
         },
         {
             "definition": "Intend to",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He's gonna study for the test.",
+            "sent2": "I'm gonna bake cookies this weekend.",
+            "sent3": "She's gonna clean her room, finally!",
+            "sent4": "They're gonna conquer the mountain.",
+            "sent5": "We're gonna finish the puzzle together."
         },
         {
             "definition": "Will",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The 'will' in your sentence is gonna.",
+            "sent2": "His gonna is strong in this matter.",
+            "sent3": "The gonna of fate cannot be changed.",
+            "sent4": "The gonna of the people shall prevail.",
+            "sent5": "The gonna of the future is uncertain."
         }
     ]
 }

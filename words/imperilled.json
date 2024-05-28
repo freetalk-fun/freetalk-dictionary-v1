@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "In danger or at risk",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The small boat was imperilled by the stormy waves.",
+            "sent2": "The imperilled hiker was rescued by the search team.",
+            "sent3": "The imperilled kitten got stuck in a tree and needed help.",
+            "sent4": "The imperilled city faced the threat of a natural disaster.",
+            "sent5": "The imperilled butterfly struggled to find a safe place to rest."
         },
         {
             "definition": "To put in danger or at risk",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The reckless actions imperilled the fragile ecosystem.",
+            "sent2": "She imperilled her own safety by walking alone in the dark alley.",
+            "sent3": "The mischievous squirrel imperilled the picnic by stealing all the food.",
+            "sent4": "His careless behavior imperilled the success of the project.",
+            "sent5": "The villain's plan imperilled the lives of innocent civilians."
         }
     ]
 }

@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A barren area of land with little or no vegetation.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The camel traveled through the hot desert.",
+            "sent2": "The desert is a dry and sandy place.",
+            "sent3": "I wouldn't want to get lost in a desert without water!",
+            "sent4": "Her heart felt like a desert, empty and desolate.",
+            "sent5": "The desert stretched out endlessly under the scorching sun."
         },
         {
             "definition": "To abandon or leave someone or something.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He decided to desert his old car and buy a new one.",
+            "sent2": "Please don't desert me in this unfamiliar place.",
+            "sent3": "The sandwich was so delicious, I couldn't desert it halfway.",
+            "sent4": "The soldier felt guilty when he had to desert his injured comrade.",
+            "sent5": "I promised not to desert you, no matter what happens."
         },
         {
             "definition": "Deserve or be worthy of something.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "After all his hard work, he truly does desert the promotion.",
+            "sent2": "She doesn't desert the praise for her beautiful artwork.",
+            "sent3": "Even though the cake was tempting, I knew I didn't desert the calories.",
+            "sent4": "The dedicated team truly does desert the championship trophy.",
+            "sent5": "Her kindness and generosity truly do desert recognition and gratitude."
         }
     ]
 }

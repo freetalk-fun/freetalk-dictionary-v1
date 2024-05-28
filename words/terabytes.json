@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A unit of digital information storage equal to 1 trillion bytes.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "My new computer has a hard drive with several terabytes of storage space.",
+            "sent2": "The external hard drive I bought can hold up to two terabytes of data.",
+            "sent3": "I never realized how many terabytes of photos I had until I tried to organize them all.",
+            "sent4": "Her knowledge on the subject was like having terabytes of information at her fingertips.",
+            "sent5": "The company's server can store terabytes of data, making it a reliable choice for our needs."
         },
         {
             "definition": "The amount of digital information that can be stored on a device or system, typically measured in terabytes.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The new smartphone boasts a storage capacity of 256 terabytes.",
+            "sent2": "When I upgraded my laptop, I made sure it had enough terabytes for all my files.",
+            "sent3": "I joked that my brain must have terabytes of useless information stored in it.",
+            "sent4": "The library's digital archive contains terabytes of historical documents.",
+            "sent5": "The scientist's research project required terabytes of data to be processed accurately."
         }
     ]
 }

@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Having a hole or holes.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The holed bucket leaked water.",
+            "sent2": "The holed socks needed mending.",
+            "sent3": "The holed boat struggled to stay afloat.",
+            "sent4": "The holed roof let in sunlight like a sieve.",
+            "sent5": "The holed net caught fewer fish than before."
         },
         {
             "definition": "To make a hole or holes in.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He holed the paper with a puncher.",
+            "sent2": "The golfer holed the ball in one shot.",
+            "sent3": "She holed the wall accidentally with a hammer.",
+            "sent4": "The miner holed the rock to find a gem.",
+            "sent5": "The carpenter holed the wood for a perfect fit."
         },
         {
             "definition": "To hide in a hole or similar place.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The rabbit holed up in its burrow.",
+            "sent2": "The criminal holed in a remote cabin.",
+            "sent3": "The cat holed under the bed during the storm.",
+            "sent4": "The spy holed in a safe house for weeks.",
+            "sent5": "The explorer holed in a cave to avoid the storm."
         }
     ]
 }

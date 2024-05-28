@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Evidence or argument that proves something to be false.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The scientist presented a disproof of the theory.",
+            "sent2": "The disproof of the claim was clear and undeniable.",
+            "sent3": "The magician's trick was a clever disproof of reality.",
+            "sent4": "Her smile was a disproof of his doubts.",
+            "sent5": "The disproof shattered their beliefs like glass."
         },
         {
             "definition": "To prove something to be false.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He tried to disproof the conspiracy theory with facts.",
+            "sent2": "She disproofed the myth with solid evidence.",
+            "sent3": "The detective disproofed the suspect's alibi with video footage.",
+            "sent4": "His actions disproofed his earlier statements.",
+            "sent5": "The experiment disproofed the hypothesis beyond doubt."
         }
     ]
 }

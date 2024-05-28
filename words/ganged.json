@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A group of people working together, especially in criminal activities.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The ganged of robbers planned the heist carefully.",
+            "sent2": "The police arrested the ganged responsible for the burglary.",
+            "sent3": "The ganged of friends decided to play a prank on their teacher.",
+            "sent4": "The ganged of students in the debate team argued their case convincingly.",
+            "sent5": "The ganged of chefs worked together to prepare a delicious meal."
         },
         {
             "definition": "To form a group or alliance.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The students ganged together to protest against the new school rule.",
+            "sent2": "The countries ganged up to fight against the common enemy.",
+            "sent3": "The animals ganged to protect themselves from the predator.",
+            "sent4": "The workers ganged to demand better working conditions.",
+            "sent5": "The kids ganged to build a fort in the backyard."
         },
         {
             "definition": "To arrange in a group or series.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She ganged the books on the shelf according to their genres.",
+            "sent2": "The mechanic ganged the tools neatly in the toolbox.",
+            "sent3": "He ganged the toys in a row before organizing them by color.",
+            "sent4": "The artist ganged the paintings on the wall for the exhibition.",
+            "sent5": "The teacher ganged the students in pairs for the group project."
         }
     ]
 }

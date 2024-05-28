@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Dirty or stained",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The soiled shirt had mud stains all over it.",
+            "sent2": "She washed the soiled dishes after dinner.",
+            "sent3": "The soiled puppy left paw prints all over the clean floor.",
+            "sent4": "The soiled walls of the old house told stories of neglect and time.",
+            "sent5": "The soiled snow looked gray and sad under the cloudy sky."
         },
         {
             "definition": "To make dirty or stained",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Please do not soiled your clothes while playing outside.",
+            "sent2": "He accidentally soiled the carpet with spilled juice.",
+            "sent3": "The mischievous toddler soiled his hands with paint during art class.",
+            "sent4": "The rain soiled the freshly washed car, leaving dirty streaks.",
+            "sent5": "The careless hiker soiled the trail by leaving trash behind."
         }
     ]
 }

@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "The whole amount; the sum of all parts.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The total of my toys is ten.",
+            "sent2": "What is the total of all the numbers?",
+            "sent3": "I accidentally spilled paint on the total of my collection.",
+            "sent4": "Her smile lit up the room, the total of happiness.",
+            "sent5": "The total of the treasure chest gleamed in the sunlight."
         },
         {
             "definition": "To add up; to combine all parts to get a final sum.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Let's total the numbers to find the answer.",
+            "sent2": "I will total the scores to see who won.",
+            "sent3": "I tried to total the ingredients, but I lost count.",
+            "sent4": "The team's effort will total into a successful project.",
+            "sent5": "She will total the expenses to create a budget."
         },
         {
             "definition": "To destroy completely; to annihilate.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The storm will total the fragile house.",
+            "sent2": "The fire will total the entire forest if not contained.",
+            "sent3": "I accidentally hit the gas instead of the brake and totaled the car.",
+            "sent4": "The superhero's powers can total any evil plan.",
+            "sent5": "The dragon's fiery breath can total entire villages."
         }
     ]
 }

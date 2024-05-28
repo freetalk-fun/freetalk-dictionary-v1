@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To believe or consider to be responsible for something",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She credited her friend for helping her with the project.",
+            "sent2": "I credited my brother with breaking the vase.",
+            "sent3": "The detective credited the cat for solving the mystery.",
+            "sent4": "The teacher credited the student for the creative solution.",
+            "sent5": "He credited his lucky charm for winning the game."
         },
         {
             "definition": "To give recognition or acknowledgment to someone for their work or actions",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The boss credited Sarah for her hard work on the project.",
+            "sent2": "The company credited the employees for their dedication.",
+            "sent3": "The comedian credited the audience for the laughter.",
+            "sent4": "The coach credited the team for their victory.",
+            "sent5": "The author credited the inspiration for the novel to her travels."
         },
         {
             "definition": "To add money to an account or balance as a payment or deposit",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I credited my account with the bonus I received.",
+            "sent2": "The bank credited the interest to the savings account.",
+            "sent3": "The shopkeeper credited the customer's account for the returned item.",
+            "sent4": "The company credited the payment to the supplier.",
+            "sent5": "She credited her account with the money she earned from the sale."
         }
     ]
 }

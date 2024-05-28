@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A large, aggressive, and carnivorous mammal native to Africa and Asia.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The mongo roared loudly in the jungle.",
+            "sent2": "I saw a mongo at the zoo last week.",
+            "sent3": "The mongo tried to climb a tree but failed comically.",
+            "sent4": "Her temper was like a mongo, fierce and untamed.",
+            "sent5": "The mongo's sharp teeth gleamed in the sunlight."
         },
         {
             "definition": "A type of database program that stores data in a flexible, schema-free format.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "We use a mongo to manage our company's data.",
+            "sent2": "The IT department is implementing a new mongo system.",
+            "sent3": "The mongo made organizing information look easy.",
+            "sent4": "Her mind was a vast mongo, storing memories effortlessly.",
+            "sent5": "The mongo efficiently handled the massive amount of data."
         },
         {
             "definition": "A slang term for a foolish or stupid person.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Don't be a mongo and forget your keys again.",
+            "sent2": "He always acts like a mongo when he's nervous.",
+            "sent3": "The mongo tripped over his own shoelaces.",
+            "sent4": "Her ex-boyfriend was a real mongo, always causing trouble.",
+            "sent5": "The class clown was known for his mongo antics."
         }
     ]
 }

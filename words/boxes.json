@@ -3,19 +3,39 @@
     "meanings": [
         {
             "definition": "A container typically made of wood or cardboard, used for storing or transporting items.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I carried my books in the boxes.",
+            "sent2": "The delivery man placed the package in the boxes.",
+            "sent3": "The cat jumped into the empty boxes and played hide-and-seek.",
+            "sent4": "Her memories were like boxes stacked neatly in her mind.",
+            "sent5": "The boxes in the attic held treasures from the past."
         },
         {
             "definition": "A square or rectangular area on a page or screen for entering information or displaying content.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Please type your name in the boxes provided.",
+            "sent2": "The website layout had multiple boxes for different sections.",
+            "sent3": "The boxes on the form seemed to dance as I filled them out.",
+            "sent4": "His mind was like a series of interconnected boxes, each holding a different thought.",
+            "sent5": "The TV screen was divided into colorful boxes showing different channels."
         },
         {
             "definition": "To put into a box or enclosed space.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She boxes up her old toys for donation.",
+            "sent2": "He boxes the fragile items carefully before moving.",
+            "sent3": "The magician boxes up the rabbit and makes it disappear.",
+            "sent4": "His emotions were boxed away, hidden from everyone.",
+            "sent5": "The chef boxes the leftovers for the customer to take home."
         },
         {
             "definition": "To participate in a boxing match.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He boxes at the gym to stay fit.",
+            "sent2": "She boxes with her trainer to improve her skills.",
+            "sent3": "The robots were programmed to box in the ring for entertainment.",
+            "sent4": "Life sometimes feels like we are boxing against unseen opponents.",
+            "sent5": "The two friends decided to box for fun in the backyard."
         }
     ]
 }

@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Test again to check previous results.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She decided to retest the experiment to make sure the data was accurate.",
+            "sent2": "The teacher is retesting the students on their knowledge of multiplication tables.",
+            "sent3": "After failing the first time, he knew he had to retest to improve his score.",
+            "sent4": "The athlete is retesting his limits to see how much he has improved.",
+            "sent5": "The scientist is retesting the hypothesis to confirm the findings."
         },
         {
             "definition": "The act of conducting a test again.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The retesting of the samples revealed consistent results.",
+            "sent2": "The retesting of the product showed no significant changes.",
+            "sent3": "The retesting process can sometimes be tedious but is necessary for accuracy.",
+            "sent4": "The retesting of the theory led to new discoveries.",
+            "sent5": "The retesting of the equipment ensured its reliability."
         }
     ]
 }

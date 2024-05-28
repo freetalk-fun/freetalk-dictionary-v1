@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To look through or explore for something",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She searches for her lost keys every morning.",
+            "sent2": "The detective searches the crime scene for clues.",
+            "sent3": "The cat searches the house for the elusive mouse.",
+            "sent4": "His eyes searches the crowd for a familiar face.",
+            "sent5": "The explorer searches the jungle for hidden treasures."
         },
         {
             "definition": "The act of looking for something",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Her searches for the missing book were unsuccessful.",
+            "sent2": "The searches for the lost dog intensified as night fell.",
+            "sent3": "The searches of the children for the hidden Easter eggs were filled with excitement.",
+            "sent4": "The searches of the rescue team were tireless in their efforts to find the stranded hikers.",
+            "sent5": "The searches of the archaeologists uncovered ancient artifacts buried beneath the sand."
         },
         {
             "definition": "An attempt to find something",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "His searches for a new job led to multiple interviews.",
+            "sent2": "The searches for a solution to the problem continued late into the night.",
+            "sent3": "The searches for the perfect gift for her mother were proving challenging.",
+            "sent4": "Their searches for the missing piece of the puzzle were finally successful.",
+            "sent5": "The searches for the hidden treasure map were filled with excitement and anticipation."
         }
     ]
 }

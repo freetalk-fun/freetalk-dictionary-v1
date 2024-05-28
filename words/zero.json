@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "The numerical symbol 0 representing the absence of quantity or magnitude.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I have zero apples in my bag.",
+            "sent2": "The temperature outside is zero degrees.",
+            "sent3": "I felt like a zero when I forgot my lines in the school play.",
+            "sent4": "Her mind was a blank canvas, a zero waiting to be filled with ideas.",
+            "sent5": "The empty field stretched out before us, a vast zero of possibilities."
         },
         {
             "definition": "The point on a scale or graph where the value is equal to zero.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The graph intersects at zero on the x-axis.",
+            "sent2": "The scale starts at zero and goes up to ten.",
+            "sent3": "The zero on the scale seemed to be winking at me mischievously.",
+            "sent4": "In the world of numbers, zero is the ultimate balancing act.",
+            "sent5": "The point where the lines meet is a mathematical zero, a precise moment of equilibrium."
         },
         {
             "definition": "The lowest possible amount or degree.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I have zero tolerance for bullies.",
+            "sent2": "His chances of winning are close to zero.",
+            "sent3": "The chances of finding a unicorn in the backyard are zero to none.",
+            "sent4": "In the realm of fairness, zero is the baseline for equality.",
+            "sent5": "The darkness enveloped the room, reducing visibility to zero."
         }
     ]
 }

@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A symbol used in search queries to represent any sequence of characters",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "When searching for a file, you can use a wildcard like '*' to find all similar names.",
+            "sent2": "The wildcard '?' can stand for any letter in a search term.",
+            "sent3": "I tried to find the document using a wildcard, but ended up with too many results!",
+            "sent4": "Her mind was a wildcard, full of unpredictable thoughts and ideas.",
+            "sent5": "The wildcard symbol made the search process much easier to understand."
         },
         {
             "definition": "A player or team that has not been seeded or ranked in a tournament",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The wildcard entry surprised everyone by reaching the finals.",
+            "sent2": "The wildcard team defeated the reigning champions in a thrilling match.",
+            "sent3": "The wildcard player became the unexpected hero of the tournament.",
+            "sent4": "Her underdog story turned her into a wildcard to watch out for.",
+            "sent5": "The wildcard's victory was a true underdog story that inspired many."
         },
         {
             "definition": "A variable that can be used to represent any value in programming",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "In programming, a wildcard can stand in for any number or text.",
+            "sent2": "The programmer used a wildcard to simplify the code and make it more flexible.",
+            "sent3": "The wildcard in the code seemed to have a mind of its own, changing values unexpectedly.",
+            "sent4": "His coding style was like a wildcard, always surprising his colleagues with innovative solutions.",
+            "sent5": "The wildcard function allowed the program to adapt to different inputs seamlessly."
         }
     ]
 }

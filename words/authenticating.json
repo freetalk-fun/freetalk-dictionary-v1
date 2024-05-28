@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To prove or show to be true or genuine",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She was authenticating the painting by checking the artist's signature.",
+            "sent2": "The website requires authenticating your email address before you can access certain features.",
+            "sent3": "The detective was authenticating the suspect's alibi with security camera footage.",
+            "sent4": "The old photograph served as a way of authenticating the family's history.",
+            "sent5": "Authenticating the document with a stamp made it official."
         },
         {
             "definition": "To confirm the identity or validity of",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The fingerprint scanner was authenticating the employee's entry into the building.",
+            "sent2": "Please authenticate your identity by answering the security questions.",
+            "sent3": "The parrot was authenticating the visitor by mimicking their voice.",
+            "sent4": "The key card is used for authenticating access to restricted areas.",
+            "sent5": "Authenticating the signature on the contract was crucial for legal purposes."
         },
         {
             "definition": "To provide evidence or support for the truth or accuracy of",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The scientist was authenticating his theory with experimental data.",
+            "sent2": "Witnesses were authenticating the defendant's alibi during the trial.",
+            "sent3": "The cat was authenticating the mouse's innocence by catching the real culprit.",
+            "sent4": "The DNA test was authenticating the biological relationship between the siblings.",
+            "sent5": "Authenticating the facts with reliable sources is essential for research papers."
         }
     ]
 }

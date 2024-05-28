@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Lessen or moderate the impact of something",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She buffered the harsh criticism by focusing on the positive feedback.",
+            "sent2": "The medication buffered the pain, making it more bearable.",
+            "sent3": "He buffered the awkward situation with a joke to lighten the mood.",
+            "sent4": "Her smile buffered the sadness in the room, bringing a sense of warmth.",
+            "sent5": "The umbrella buffered the rain, keeping her dry and comfortable."
         },
         {
             "definition": "To provide a protective barrier",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The sunscreen buffered her skin from the harmful effects of the sun.",
+            "sent2": "The thick walls buffered the noise from outside, creating a peaceful environment.",
+            "sent3": "The fence buffered the garden from the strong winds, preserving the delicate flowers.",
+            "sent4": "His friendship acted as a buffer, protecting her from negativity.",
+            "sent5": "The helmet buffered his head from the impact, preventing injury."
         },
         {
             "definition": "To store data temporarily before transferring it to another location",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The computer buffered the video before playing it smoothly.",
+            "sent2": "The app buffered the music to ensure uninterrupted playback.",
+            "sent3": "The cloud service buffered the files for easy access from any device.",
+            "sent4": "The server buffered the data, ready to transfer it to the backup system.",
+            "sent5": "The device buffered the information, preparing it for quick transmission."
         }
     ]
 }

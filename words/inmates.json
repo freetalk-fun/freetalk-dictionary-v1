@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A person confined in an institution such as a prison or hospital.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The inmates gathered in the common area for lunch.",
+            "sent2": "The inmates were given new uniforms to wear.",
+            "sent3": "The inmates joked about their favorite prison food.",
+            "sent4": "The inmates' laughter echoed through the prison walls.",
+            "sent5": "The inmates' faces showed signs of hopelessness and despair."
         },
         {
             "definition": "To hold as a prisoner.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The guards inmates the criminal after the trial.",
+            "sent2": "The police inmates the suspect in a high-security cell.",
+            "sent3": "The judge decided to inmates the thief for further questioning.",
+            "sent4": "The authorities inmates the fugitive before the escape attempt.",
+            "sent5": "The detective inmates the culprit with solid evidence."
         }
     ]
 }

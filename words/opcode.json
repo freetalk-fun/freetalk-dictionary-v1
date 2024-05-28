@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A code that identifies a specific operation in computer programming.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "In the program, the opcode tells the computer what action to perform.",
+            "sent2": "The opcode for adding two numbers is different from the one for subtracting them.",
+            "sent3": "I tried to write a funny story where the characters only communicated using opcodes.",
+            "sent4": "The opcode is like the conductor of an orchestra, directing each part of the program to play its role.",
+            "sent5": "Remember, the opcode is the key that unlocks the computer's actions."
         },
         {
             "definition": "A binary code that represents a specific instruction in machine language.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The processor reads the opcode to know what task to execute next.",
+            "sent2": "Each opcode corresponds to a particular action the computer can take.",
+            "sent3": "I accidentally spilled coffee on the paper with the opcodes, and now the computer is confused!",
+            "sent4": "The opcode is like a secret language that only the computer can understand.",
+            "sent5": "The opcode is the magic spell that makes the computer do its tricks."
         }
     ]
 }

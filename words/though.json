@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "However; nevertheless.",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "She was tired, though she kept working.",
+            "sent2": "I wanted to go outside, though it was raining.",
+            "sent3": "The cat tried to catch the mouse, though it was just a toy.",
+            "sent4": "His smile was bright, though his eyes showed sadness.",
+            "sent5": "The old tree stood tall, though its branches were bare."
         },
         {
             "definition": "Despite the fact that; although.",
-            "pos": "conjunction"
+            "pos": "conjunction",
+            "sent1": "He went for a run, though it was late at night.",
+            "sent2": "She studied hard, though the exam was difficult.",
+            "sent3": "The cake looked delicious, though it tasted terrible.",
+            "sent4": "The sun was shining, though the air was chilly.",
+            "sent5": "The dog wagged its tail, though it was scared of thunder."
         },
         {
             "definition": "Even though; even if.",
-            "pos": "conjunction"
+            "pos": "conjunction",
+            "sent1": "I will go to the party, though I have work to do.",
+            "sent2": "She smiled, though she was feeling sad inside.",
+            "sent3": "The car was old, though it ran smoothly.",
+            "sent4": "The book was long, though it kept me engaged.",
+            "sent5": "He laughed, though the joke wasn't funny."
         }
     ]
 }

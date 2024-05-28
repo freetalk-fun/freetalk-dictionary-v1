@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Require something because it is essential or very important.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She needs help with her homework.",
+            "sent2": "He needs to eat breakfast before school.",
+            "sent3": "The cat needs a hat to be a cool cat.",
+            "sent4": "His car needs a tune-up to run smoothly.",
+            "sent5": "The plant needs sunlight to grow tall and strong."
         },
         {
             "definition": "A lack of the basic necessities of life, such as food, shelter, and clothing.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The homeless shelter provides for the needs of those in need.",
+            "sent2": "She donated clothes to help meet the needs of the community.",
+            "sent3": "The penguin's need for a tuxedo was quite amusing.",
+            "sent4": "The city's needs were like a puzzle waiting to be solved.",
+            "sent5": "The needs of the hungry children were heartbreakingly clear."
         }
     ]
 }

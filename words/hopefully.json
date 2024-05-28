@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "In a hopeful manner",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "She smiled hopefully as she waited for the test results.",
+            "sent2": "I am hopefully looking forward to the weekend.",
+            "sent3": "The little girl looked hopefully at the sky, waiting for the rain to stop.",
+            "sent4": "The flowers in the garden bloomed hopefully after the rain.",
+            "sent5": "The student raised her hand hopefully, hoping to be called on by the teacher."
         },
         {
             "definition": "It is hoped that",
-            "pos": "conjunction"
+            "pos": "conjunction",
+            "sent1": "Hopefully, the weather will be nice for our picnic.",
+            "sent2": "We packed extra snacks, hopefully to avoid getting hungry on the hike.",
+            "sent3": "The team worked hard, hopefully to win the championship.",
+            "sent4": "The package arrived on time, hopefully without any damage.",
+            "sent5": "The new project was launched, hopefully to increase sales for the company."
         }
     ]
 }

@@ -3,19 +3,39 @@
     "meanings": [
         {
             "definition": "A strong, unpleasant smell.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The pong from the garbage can was unbearable.",
+            "sent2": "I wrinkled my nose at the pong coming from the old socks.",
+            "sent3": "The pong in the room was so bad, we had to open all the windows.",
+            "sent4": "The pong of rotten eggs filled the kitchen, making me gag.",
+            "sent5": "The pong of the skunk spray lingered in the air for hours."
         },
         {
             "definition": "A loud, resonant sound.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The pong of the church bells echoed through the town.",
+            "sent2": "The pong of the gong signaled the start of the ceremony.",
+            "sent3": "The pong of the drum reverberated in the concert hall.",
+            "sent4": "The pong of the thunder shook the windows.",
+            "sent5": "The pong of the fireworks filled the night sky with color."
         },
         {
             "definition": "To emit a strong, unpleasant smell.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The garbage can ponged after sitting in the sun all day.",
+            "sent2": "The socks ponged so badly, I had to wash them twice.",
+            "sent3": "The room ponged with the smell of dirty laundry.",
+            "sent4": "The kitchen ponged with the stench of spoiled milk.",
+            "sent5": "The bathroom ponged of mildew and mold."
         },
         {
             "definition": "To make a loud, resonant sound.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The church bells ponged loudly on Sunday mornings.",
+            "sent2": "The gong ponged as the martial arts class began.",
+            "sent3": "The drum ponged rhythmically in the music studio.",
+            "sent4": "The thunder ponged ominously in the distance.",
+            "sent5": "The fireworks ponged brightly in the night sky."
         }
     ]
 }

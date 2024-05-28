@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Half of something.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "She ate a hauf of the cookie.",
+            "sent2": "He shared a hauf of his sandwich with his friend.",
+            "sent3": "The hauf of the cake mysteriously disappeared before the party.",
+            "sent4": "The hauf moon shone brightly in the night sky.",
+            "sent5": "The hauf glass was filled with water, reflecting the sunlight."
         },
         {
             "definition": "To divide something into two equal parts.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She decided to hauf the pizza to share with her sister.",
+            "sent2": "He carefully haufed the apple to share with his brother.",
+            "sent3": "The magician haufed the rope into two pieces, surprising the audience.",
+            "sent4": "The chef skillfully haufed the cake for equal portions.",
+            "sent5": "The teacher asked the students to hauf the paper into two parts for the activity."
         },
         {
             "definition": "A Scottish dialect term for 'half'.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "In Scotland, they often use the word 'hauf' instead of 'half'.",
+            "sent2": "The recipe called for a hauf cup of sugar, following the Scottish tradition.",
+            "sent3": "The hauf of the tartan scarf was made of wool.",
+            "sent4": "She wore a hauf smile on her face, showing only half of her happiness.",
+            "sent5": "The hauf moon reminded him of his Scottish heritage."
         }
     ]
 }

@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Acting with each other",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "The two friends played games interactively.",
+            "sent2": "The students engaged interactively during the group project.",
+            "sent3": "The robots danced interactively at the tech fair.",
+            "sent4": "The colors on the screen seemed to interactively blend together.",
+            "sent5": "The audience clapped interactively to the beat of the music."
         },
         {
             "definition": "Involving the actions or input of a user",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The educational app offers interactive quizzes for students.",
+            "sent2": "The interactive map allowed users to explore different locations.",
+            "sent3": "The interactive kitchen gadget made cooking more fun.",
+            "sent4": "The interactive website responded to the user's clicks instantly.",
+            "sent5": "The interactive book had pop-ups and hidden surprises for readers."
         },
         {
             "definition": "Capable of acting on or influencing each other",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The chemicals in the experiment were interactive.",
+            "sent2": "The interactive devices communicated seamlessly with each other.",
+            "sent3": "The interactive toys seemed to have a mind of their own.",
+            "sent4": "The interactive elements in the game affected the outcome.",
+            "sent5": "The interactive sensors detected movement and reacted accordingly."
         }
     ]
 }

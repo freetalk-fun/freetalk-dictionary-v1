@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A person who commits burglary.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The burglar broke into the house and stole valuable items.",
+            "sent2": "The police caught the burglar red-handed as he was trying to escape.",
+            "sent3": "The burglar accidentally tripped over a toy and fell on his face.",
+            "sent4": "The burglar's shadow crept along the wall like a silent thief in the night.",
+            "sent5": "The image of the burglar's mask haunted the homeowner's dreams."
         },
         {
             "definition": "To commit burglary.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He decided to burglarize the empty house down the street.",
+            "sent2": "The thief successfully burglarized several homes before being caught.",
+            "sent3": "The mischievous raccoon seemed to burglarize the bird feeder every night.",
+            "sent4": "The storm seemed to burglarize the peace and quiet of the neighborhood.",
+            "sent5": "The darkness of night provided the perfect cover for him to burglarize the store."
         }
     ]
 }

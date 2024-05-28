@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To begin incorrectly or poorly.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She misstarted the race by tripping at the starting line.",
+            "sent2": "He misstarted the project by not reading the instructions carefully.",
+            "sent3": "The chef misstarted the recipe by adding salt instead of sugar.",
+            "sent4": "The musician misstarted the song, but quickly recovered with a smooth transition.",
+            "sent5": "The student misstarted the essay with a confusing introduction."
         },
         {
             "definition": "To make a false start or mistake in starting something.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The car misstarted a few times before finally turning on.",
+            "sent2": "She misstarted her speech by forgetting her opening lines.",
+            "sent3": "The robot misstarted and bumped into the wall before moving forward.",
+            "sent4": "The clock misstarted and struck the wrong hour.",
+            "sent5": "The computer misstarted and displayed an error message."
         }
     ]
 }

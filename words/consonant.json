@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A basic speech sound in which the breath is at least partly obstructed.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The word 'cat' starts with a consonant.",
+            "sent2": "She pronounced the consonant 'b' clearly.",
+            "sent3": "The consonant 's' whispered secrets to the vowels.",
+            "sent4": "In the word 'silence,' the consonant holds back the vowels like a dam.",
+            "sent5": "The consonant 'm' hummed softly in the background."
         },
         {
             "definition": "In agreement or harmony with something.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "Their opinions were consonant on the matter.",
+            "sent2": "The music was consonant with the peaceful setting.",
+            "sent3": "The colors of the painting were consonant with nature's palette.",
+            "sent4": "Her actions were as consonant as a melody in a symphony.",
+            "sent5": "The two friends' thoughts were consonant like a duet in perfect harmony."
         }
     ]
 }

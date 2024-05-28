@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To show or exhibit",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She will display her artwork at the school fair.",
+            "sent2": "The museum will display the ancient artifacts next month.",
+            "sent3": "The magician will display his tricks at the birthday party.",
+            "sent4": "The peacock displays its colorful feathers to attract a mate.",
+            "sent5": "The fireworks display lit up the night sky with bursts of color."
         },
         {
             "definition": "A public exhibition or demonstration",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The science fair had an impressive display of student projects.",
+            "sent2": "The parade featured a grand display of marching bands and floats.",
+            "sent3": "The holiday display at the mall was a festive sight for shoppers.",
+            "sent4": "The protest included a peaceful display of signs and banners.",
+            "sent5": "The art gallery showcased a stunning display of modern paintings."
         },
         {
             "definition": "A device or screen for showing information or images",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The new smartphone has a high-resolution display for clear viewing.",
+            "sent2": "The digital billboard provides a bright display of advertisements.",
+            "sent3": "The smartwatch display makes it easy to track your fitness goals.",
+            "sent4": "The computer monitor offers a sharp display of graphics and text.",
+            "sent5": "The museum exhibit includes an interactive display for visitors to explore."
         }
     ]
 }

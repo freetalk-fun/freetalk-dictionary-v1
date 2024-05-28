@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Remove gas from (a substance)",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The scientist degasses the liquid to make it pure.",
+            "sent2": "The machine degasses the fuel before it is used in the engine.",
+            "sent3": "The chef degasses the dough to prevent it from rising too much.",
+            "sent4": "The vacuum cleaner degasses the air in the room, leaving it fresh and clean.",
+            "sent5": "The filter degasses the water, making it safe to drink."
         },
         {
             "definition": "Release gas from (a substance)",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The volcano degasses magma during an eruption.",
+            "sent2": "The fermentation process degasses carbon dioxide as a byproduct.",
+            "sent3": "The balloon degasses helium slowly, causing it to sink.",
+            "sent4": "The plant degasses oxygen, which is essential for human survival.",
+            "sent5": "The chemical reaction degasses harmful fumes into the atmosphere."
         }
     ]
 }

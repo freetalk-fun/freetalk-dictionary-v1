@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Move quickly.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The rabbit was zipping across the field.",
+            "sent2": "I saw a car zipping down the highway.",
+            "sent3": "The squirrel was zipping around the tree, trying to find its acorn.",
+            "sent4": "Time was zipping by as we enjoyed our day at the park.",
+            "sent5": "The wind was zipping through the trees, creating a soothing sound."
         },
         {
             "definition": "Fasten or close with a zipper.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She was zipping up her jacket to stay warm.",
+            "sent2": "He quickly zipped his bag before leaving.",
+            "sent3": "The magician zipped up his cape before the show.",
+            "sent4": "The astronaut zipped up the spacesuit before the mission.",
+            "sent5": "The child was zipping up the tent for the camping trip."
         },
         {
             "definition": "Compress files for storage or transmission.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I am zipping the folder to send it via email.",
+            "sent2": "She zipped the photos to save space on her computer.",
+            "sent3": "The student was zipping the documents to upload them to the cloud.",
+            "sent4": "He zipped the files to make them easier to transfer.",
+            "sent5": "The software zipped the files automatically for faster sharing."
         }
     ]
 }

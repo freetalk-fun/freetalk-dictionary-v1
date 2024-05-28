@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A sudden blow or thrust with the fist.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "He delivered a powerful punchout to the opponent's jaw.",
+            "sent2": "The boxer's punchout knocked his opponent to the ground.",
+            "sent3": "The clown's punchout accidentally hit his own nose during the performance.",
+            "sent4": "Her words were like a verbal punchout, leaving him speechless.",
+            "sent5": "The sound of the punchout echoed through the boxing ring."
         },
         {
             "definition": "A device used to cut out a hole or shape in a material.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The carpenter used a punchout to create precise holes in the wood.",
+            "sent2": "The leatherworker's punchout made perfect circles in the leather.",
+            "sent3": "The chef's punchout tool made cookie-cutting a breeze in the kitchen.",
+            "sent4": "Her creativity was a punchout, shaping new ideas effortlessly.",
+            "sent5": "The punchout left a clean cut in the paper, ready for binding."
         },
         {
             "definition": "To clock out of work using a time clock.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "After finishing his shift, he had to punchout on the time clock.",
+            "sent2": "Employees punchout at the end of their workday to record their hours.",
+            "sent3": "The robot worker would punchout precisely at 5 p.m. every day.",
+            "sent4": "She felt a sense of freedom every time she punchedout from work.",
+            "sent5": "The sound of the time clock signaled the end of the day as workers punchout."
         }
     ]
 }

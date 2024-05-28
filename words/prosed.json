@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To write or speak in a dull, matter-of-fact manner.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She prosed on about the weather, putting everyone to sleep.",
+            "sent2": "He prosed through the presentation, barely keeping his audience's attention.",
+            "sent3": "The teacher prosed on and on, making the students wish for a more exciting topic.",
+            "sent4": "His speech prosed along like a slow-moving river, lacking any excitement.",
+            "sent5": "The meeting prosed on for hours, with no end in sight."
         },
         {
             "definition": "To convert into prose.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She prosed the poem into a simple story for the children to understand.",
+            "sent2": "He prosed the lyrics of the song into a short story for the magazine.",
+            "sent3": "The writer prosed the dialogue into a novel, adding depth to the characters.",
+            "sent4": "The playwright prosed the play into a screenplay for the movie adaptation.",
+            "sent5": "The student prosed the historical document into a modern language for easier reading."
         },
         {
             "definition": "The ordinary form of spoken or written language, without metrical structure.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "His writing was clear and simple, just plain prosed without any fancy language.",
+            "sent2": "The speech was full of prosed, making it easy for everyone to understand.",
+            "sent3": "The book was written in a prosed style, making it accessible to a wide audience.",
+            "sent4": "The article was prosed, lacking any poetic elements but delivering the information effectively.",
+            "sent5": "The conversation was prosed, focusing on facts and details rather than emotions."
         }
     ]
 }

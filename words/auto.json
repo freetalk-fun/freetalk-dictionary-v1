@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Self",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "She always puts others before herself.",
+            "sent2": "He needs to take care of himself first.",
+            "sent3": "The mirror reflected her true self back at her.",
+            "sent4": "His self-confidence shone through in his presentation.",
+            "sent5": "Knowing oneself is the key to happiness."
         },
         {
             "definition": "Automatic",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The doors closed automatically behind him.",
+            "sent2": "The machine was set to run automatically every hour.",
+            "sent3": "The automatic response to danger kicked in without him realizing.",
+            "sent4": "Her smile was like an automatic reaction to his jokes.",
+            "sent5": "The system worked like a well-oiled automatic machine."
         },
         {
             "definition": "Automobile",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "He drove his auto to work every day.",
+            "sent2": "The auto broke down on the highway.",
+            "sent3": "The auto's horn honked loudly in the traffic jam.",
+            "sent4": "Her dream car was a sleek red auto.",
+            "sent5": "The auto's engine roared to life as he turned the key."
         }
     ]
 }

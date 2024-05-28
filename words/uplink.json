@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A connection from a ground-based transmitter to a satellite or spacecraft.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The uplink sends information from Earth to the satellite.",
+            "sent2": "The uplink is crucial for communication with space stations.",
+            "sent3": "The uplink made sure the satellite knew where to go.",
+            "sent4": "The uplink acted as a bridge between the ground and the spacecraft.",
+            "sent5": "The uplink link between the transmitter and the satellite was strong."
         },
         {
             "definition": "To transmit data or signals from a ground-based station to a satellite or spacecraft.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "We need to uplink the data to the satellite for analysis.",
+            "sent2": "The team will uplink the instructions to the spacecraft shortly.",
+            "sent3": "I uplink the message to the satellite, hoping it gets there safely.",
+            "sent4": "She uplinks the information smoothly to the space station.",
+            "sent5": "Up-linking the signal was the final step before launch."
         }
     ]
 }

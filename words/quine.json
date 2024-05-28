@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A person who is identical with another in every respect.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Tom and Jerry are like quines, they both love pizza and cartoons.",
+            "sent2": "The twins dressed alike and acted alike, making them quines in the eyes of everyone.",
+            "sent3": "It was amusing to see the two dogs behave like quines, even wagging their tails in sync.",
+            "sent4": "Their synchronized dance moves made them look like quines on the dance floor.",
+            "sent5": "The mirror image twins were the perfect example of quines, even their laughter sounded the same."
         },
         {
             "definition": "A computer program that takes its own source code as input and produces a copy of its own source code as output.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The quine program was so clever, it could replicate itself without any external help.",
+            "sent2": "Programmers were amazed by the simplicity and complexity of the quine code.",
+            "sent3": "The quine program seemed to be playing a game of 'copycat' with itself.",
+            "sent4": "The quine code was like a digital mirror, reflecting itself endlessly.",
+            "sent5": "The quine software was a digital marvel, creating its own clone with precision and accuracy."
         }
     ]
 }

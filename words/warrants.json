@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Justify or necessitate (a certain course of action)",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "His behavior warrants further investigation by the authorities.",
+            "sent2": "The evidence warrants a closer look at the case.",
+            "sent3": "The unusual circumstances warranted a second look.",
+            "sent4": "Her dedication to the project warrants recognition.",
+            "sent5": "The severity of the storm warrants immediate action."
         },
         {
             "definition": "Guarantee or promise",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The warranty on the product warrants its quality.",
+            "sent2": "His reputation as an honest person is a strong warrant of trust.",
+            "sent3": "The written guarantee serves as a warrant for the purchase.",
+            "sent4": "Her sincere apology was a warrant of her regret.",
+            "sent5": "The certificate of authenticity acts as a warrant for the artwork's value."
         },
         {
             "definition": "Legal document authorizing an action or search",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The police officer presented a search warrant to enter the premises.",
+            "sent2": "The judge signed the warrant for the arrest of the suspect.",
+            "sent3": "The warrant allowed the authorities to search the property.",
+            "sent4": "The warrant specified the details of the authorized action.",
+            "sent5": "The warrant was issued by the court for the search operation."
         }
     ]
 }

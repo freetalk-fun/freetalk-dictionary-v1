@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To be without something that is needed or desired.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The hungry child lacks food for dinner.",
+            "sent2": "She lacks the skills needed for the job.",
+            "sent3": "The squirrel lacks nuts for its winter stash.",
+            "sent4": "His argument lacks substance like a balloon without air.",
+            "sent5": "The garden lacks water, causing the plants to wither."
         },
         {
             "definition": "To be deficient or missing in something essential.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The old car lacks proper maintenance.",
+            "sent2": "The team lacks unity in their approach.",
+            "sent3": "The joke lacks humor, falling flat with the audience.",
+            "sent4": "Her painting lacks color, appearing dull and lifeless.",
+            "sent5": "The clock lacks a battery, so it doesn't tick."
         }
     ]
 }

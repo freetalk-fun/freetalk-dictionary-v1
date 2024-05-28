@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A severe headache typically affecting one side of the head and accompanied by nausea and sensitivity to light and sound.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "She couldn't go to the party because her migraines were too painful.",
+            "sent2": "His migraines often made it hard for him to concentrate at work.",
+            "sent3": "The migraines decided to visit her right before her important presentation.",
+            "sent4": "The migraines were like tiny hammers pounding on the inside of her skull.",
+            "sent5": "The migraines felt like a storm brewing in her head, ready to unleash its fury."
         },
         {
             "definition": "To move from one place to another, especially in search of work or better living conditions.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "They had to migrate to the city for better job opportunities.",
+            "sent2": "The birds migrate south for the winter to find warmer weather.",
+            "sent3": "The family decided to migrate to a new neighborhood for a fresh start.",
+            "sent4": "The students migrate to the library during exam season for a quiet study space.",
+            "sent5": "The ants migrate in search of food, forming long lines across the ground."
         }
     ]
 }

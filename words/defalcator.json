@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A person who embezzles funds.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The defalcator stole money from the company.",
+            "sent2": "The defalcator was caught red-handed with the stolen cash.",
+            "sent3": "The defalcator tried to hide the missing money in a fake plant.",
+            "sent4": "The defalcator's actions left a black mark on the company's reputation.",
+            "sent5": "The defalcator's greed knew no bounds as they siphoned off funds."
         },
         {
             "definition": "To embezzle funds.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He defalcated a large sum of money from the business.",
+            "sent2": "She defalcated funds over a long period without getting caught.",
+            "sent3": "The accountant defalcated funds to buy a fancy car.",
+            "sent4": "The fraudster defalcated funds like a magician making money disappear.",
+            "sent5": "The employee defalcated funds with such precision that no one suspected a thing."
         }
     ]
 }

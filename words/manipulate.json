@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Handle or control with skill",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She can manipulate the clay into beautiful shapes.",
+            "sent2": "He knows how to manipulate the tools to fix the car.",
+            "sent3": "The magician can manipulate objects in surprising ways.",
+            "sent4": "Her fingers seem to manipulate the piano keys effortlessly.",
+            "sent5": "Watch closely as he manipulates the strings of the puppet."
         },
         {
             "definition": "Influence or control in a clever or unscrupulous way",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The politician's manipulative tactics were exposed.",
+            "sent2": "She saw through his manipulative behavior and stayed cautious.",
+            "sent3": "The manipulative salesman tried to convince her to buy unnecessary items.",
+            "sent4": "His manipulative ways eventually led to his downfall.",
+            "sent5": "Beware of the manipulative intentions behind his friendly smile."
         },
         {
             "definition": "Alter or present (data) in a way that is misleading",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "They tried to manipulate the statistics to show false results.",
+            "sent2": "It is unethical to manipulate data to support a biased argument.",
+            "sent3": "The student tried to manipulate the experiment results to impress the teacher.",
+            "sent4": "The company was caught manipulating financial records to deceive investors.",
+            "sent5": "Be careful not to manipulate the evidence to fit your theory."
         }
     ]
 }

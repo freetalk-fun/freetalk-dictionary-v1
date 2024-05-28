@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Not valid or legally binding.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The teacher marked the answer as invalid because it was incorrect.",
+            "sent2": "The judge declared the contract invalid due to missing signatures.",
+            "sent3": "The invalid ticket couldn't get the person into the concert.",
+            "sent4": "Her excuse for being late was as invalid as a broken compass.",
+            "sent5": "The invalid passport was useless for traveling abroad."
         },
         {
             "definition": "A person made weak or disabled by illness or injury.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The nurse helped the invalid patient get out of bed.",
+            "sent2": "The invalid needed assistance walking to the doctor's office.",
+            "sent3": "The invalid joked about racing in a wheelchair.",
+            "sent4": "She felt like an invalid ship lost at sea without her crutches.",
+            "sent5": "The invalid's smile brightened up the hospital room."
         }
     ]
 }

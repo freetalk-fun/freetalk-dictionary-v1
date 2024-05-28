@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "(adjective) having a physical or mental condition that limits movements, senses, or activities",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The disabled boy needed a wheelchair to move around.",
+            "sent2": "She works with disabled children to help them learn and grow.",
+            "sent3": "The disabled puppy tried to chase its tail but kept falling over.",
+            "sent4": "The disabled car sputtered and stalled on the side of the road.",
+            "sent5": "The disabled astronaut floated weightlessly in space, unable to feel gravity."
         },
         {
             "definition": "(verb) to make unable or unfit for a particular task or purpose",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The storm disabled the power lines, leaving the town in darkness.",
+            "sent2": "He disabled the alarm system before entering the building.",
+            "sent3": "The mischievous squirrel disabled the bird feeder, causing chaos among the birds.",
+            "sent4": "The hacker disabled the security cameras, allowing them to sneak inside undetected.",
+            "sent5": "The virus disabled the computer, rendering it useless for work."
         }
     ]
 }

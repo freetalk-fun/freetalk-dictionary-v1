@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Papes (noun): papers or documents",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I need to organize my papes for the presentation.",
+            "sent2": "The teacher handed out the papes for us to review.",
+            "sent3": "The cat knocked over the stack of papes, creating a mess.",
+            "sent4": "Her desk was overflowing with papes, like a mini paper mountain.",
+            "sent5": "The papes rustled as she flipped through them, making a soft sound."
         },
         {
             "definition": "Papes (verb): to gather or organize papers",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I have to papes all these documents before the meeting.",
+            "sent2": "She papes her notes meticulously to stay organized.",
+            "sent3": "He tried to papes the scattered papers, but they kept slipping from his grasp.",
+            "sent4": "The librarian papes the books on the shelves with precision.",
+            "sent5": "The students quickly papes their assignments before the bell rings."
         },
         {
             "definition": "Papes (adjective): relating to papers or documents",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The papes folder is on the top shelf.",
+            "sent2": "She bought a new papes organizer for her desk.",
+            "sent3": "The papes trail led them to the missing report.",
+            "sent4": "His papes expertise made him the go-to person for filing.",
+            "sent5": "The papes work required attention to detail and accuracy."
         }
     ]
 }

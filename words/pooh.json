@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "An exclamation used to express disgust or contempt.",
-            "pos": "interjection"
+            "pos": "interjection",
+            "sent1": "Pooh! That food looks gross.",
+            "sent2": "Oh pooh! I dropped my ice cream.",
+            "sent3": "Pooh! I can't believe you ate that.",
+            "sent4": "The smell was so bad, I could only say 'pooh!'",
+            "sent5": "The garbage was so stinky, all I could say was 'pooh!'"
         },
         {
             "definition": "A childish term for feces.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The baby's diaper was full of pooh.",
+            "sent2": "I accidentally stepped in pooh at the park.",
+            "sent3": "The dog left a surprise of pooh in the yard.",
+            "sent4": "The pooh in the toilet was not flushed.",
+            "sent5": "The smell of pooh filled the room."
         },
         {
             "definition": "To express disdain or disbelief.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She would always pooh at his silly jokes.",
+            "sent2": "I could only pooh at the ridiculous statement.",
+            "sent3": "He poohed at the idea of eating bugs.",
+            "sent4": "The audience began to pooh at the magician's tricks.",
+            "sent5": "I had to pooh at the absurdity of the situation."
         }
     ]
 }

@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Speak very softly using one's breath rather than one's throat, especially for secrecy or privacy.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She whispered the secret to her friend.",
+            "sent2": "They always whisper during the movie.",
+            "sent3": "The cat whispered to the mouse, 'Let's be friends.'",
+            "sent4": "The wind whispered through the trees, sharing its secrets.",
+            "sent5": "The teacher whispered the answer to the shy student."
         },
         {
             "definition": "A soft or low sound made by whispering.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The whisper in the room was barely audible.",
+            "sent2": "I heard a whisper coming from the corner.",
+            "sent3": "The whisper of the leaves in the breeze sounded like a secret.",
+            "sent4": "The whisper of the stream soothed my mind.",
+            "sent5": "The whisper of the wind carried messages from afar."
         },
         {
             "definition": "A rumor or piece of gossip.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The whisper about the new student spread quickly.",
+            "sent2": "She overheard a whisper about a surprise party.",
+            "sent3": "The whisper of the town was about the mayor's secret hobby.",
+            "sent4": "The whisper of scandal caused quite a stir.",
+            "sent5": "The whisper of gossip reached every ear in the office."
         }
     ]
 }

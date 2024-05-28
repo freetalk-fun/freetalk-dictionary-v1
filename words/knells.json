@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A sound made by a bell, especially when rung solemnly for a death or funeral.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The knells of the church bell echoed through the quiet village.",
+            "sent2": "The mournful knells of the bell signaled the passing of a beloved elder.",
+            "sent3": "The spooky movie used the knells of the bell to create a chilling atmosphere.",
+            "sent4": "As the sun set, the knells of the bell seemed to toll for the end of the day.",
+            "sent5": "The haunting knells of the bell lingered in the air, leaving a sense of loss."
         },
         {
             "definition": "To ring a bell slowly and solemnly.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She knells the bell gently to signal the start of the ceremony.",
+            "sent2": "The church bells knells softly on Sunday mornings.",
+            "sent3": "He knells the bell with a steady hand, creating a peaceful rhythm.",
+            "sent4": "The old man knells the bell with reverence, honoring tradition.",
+            "sent5": "The knight knells the bell to announce his arrival in the kingdom."
         },
         {
             "definition": "To announce or proclaim something, often in a mournful or ominous way.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The dark clouds knells the coming storm.",
+            "sent2": "The town crier knells the news of the king's passing.",
+            "sent3": "The owl's hoots knells the arrival of night in the forest.",
+            "sent4": "The distant thunder knells the approaching danger.",
+            "sent5": "The howling wind knells the secrets of the ancient castle."
         }
     ]
 }

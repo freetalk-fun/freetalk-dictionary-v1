@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A punctuation mark (;) used to separate independent clauses in a sentence.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I used semicolons to separate the clauses in my writing assignment.",
+            "sent2": "She always remembers to use semicolons when writing complex sentences.",
+            "sent3": "The semicolons at the party were the talk of the town, adding a touch of sophistication.",
+            "sent4": "Her use of semicolons was like a bridge connecting two separate ideas in her essay.",
+            "sent5": "The semicolons danced across the page, elegantly dividing the thoughts."
         },
         {
             "definition": "A punctuation mark (;) used to separate items in a list when the items themselves contain commas.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The grocery list included fruits; apples, oranges, and bananas; and vegetables.",
+            "sent2": "Remember to use semicolons when listing different categories; fruits, vegetables, and dairy.",
+            "sent3": "The semicolons in the recipe made the ingredients look like they were having a party.",
+            "sent4": "The semicolons acted as traffic lights, guiding the reader through the list smoothly.",
+            "sent5": "Her use of semicolons in the list made each item stand out distinctly."
         }
     ]
 }

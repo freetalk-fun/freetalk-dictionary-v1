@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A first or preliminary version of a device or product.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The engineer showed us the prototyped model of the new car.",
+            "sent2": "The company is working on improving the prototyped design of the smartphone.",
+            "sent3": "The team had a good laugh when the prototyped robot started dancing unexpectedly.",
+            "sent4": "Her room looked like a workshop with all the prototyped gadgets scattered around.",
+            "sent5": "The students were amazed by the intricate details of the prototyped spaceship."
         },
         {
             "definition": "To create a prototype of (a device or product).",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The company prototyped the new software before launching it to the public.",
+            "sent2": "She prototyped a new app that helps with time management.",
+            "sent3": "The inventor prototyped a machine that automatically feeds pets.",
+            "sent4": "He prototyped a solution that revolutionized the way we recycle.",
+            "sent5": "The team prototyped a faster way to assemble the product."
         }
     ]
 }

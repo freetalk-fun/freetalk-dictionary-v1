@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To fall or sink heavily",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I watched the tired dog slump onto the soft bed.",
+            "sent2": "After a long day, I could feel my body start to slump in exhaustion.",
+            "sent3": "The balloon, filled with too much air, began to slump sadly to the ground.",
+            "sent4": "The defeated boxer felt his shoulders slump as he realized he had lost the match.",
+            "sent5": "The heavy rain caused the roof to slump under its weight."
         },
         {
             "definition": "A sudden severe or prolonged fall in the price, value, or amount of something",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The stock market experienced a significant slump, causing panic among investors.",
+            "sent2": "During the economic downturn, there was a noticeable slump in property prices.",
+            "sent3": "The sudden slump in ice cream sales left the shop owner bewildered.",
+            "sent4": "The slump in attendance at the concert was unexpected by the organizers.",
+            "sent5": "The slump in demand for the product led to a decrease in production."
         },
         {
             "definition": "A period of substantial failure or decline",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The team's performance hit a slump after losing their star player.",
+            "sent2": "The company faced a financial slump due to poor management decisions.",
+            "sent3": "The slump in grades was a wake-up call for the struggling student.",
+            "sent4": "The artist experienced a creative slump before finding inspiration again.",
+            "sent5": "The slump in morale among employees affected productivity in the office."
         }
     ]
 }

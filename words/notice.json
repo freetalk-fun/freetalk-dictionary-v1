@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To become aware of something by seeing or hearing it.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I notice the bird singing outside my window.",
+            "sent2": "Did you notice the beautiful sunset yesterday?",
+            "sent3": "I notice the cat trying to catch its tail, it's quite amusing.",
+            "sent4": "Her smile was so bright, it was hard not to notice her happiness.",
+            "sent5": "The loud noise made it impossible not to notice the thunderstorm approaching."
         },
         {
             "definition": "A written or printed announcement.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The notice on the bulletin board announced the school play.",
+            "sent2": "Please read the notice about the upcoming event.",
+            "sent3": "The notice about the missing socks made everyone laugh.",
+            "sent4": "The notice on the door warned of the upcoming construction.",
+            "sent5": "The bright colors on the notice caught everyone's attention."
         },
         {
             "definition": "A formal declaration of one's intention to end an agreement or contract.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "He submitted the notice to terminate his lease early.",
+            "sent2": "The notice of resignation surprised everyone in the office.",
+            "sent3": "The notice to break up with his girlfriend was written in a funny way.",
+            "sent4": "Her silence was the notice that their friendship was over.",
+            "sent5": "The notice to cancel the event was met with disappointment by many."
         }
     ]
 }

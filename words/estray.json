@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "An animal found wandering at large or lost.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The farmer found an estray cow in his field.",
+            "sent2": "The shelter took in an estray dog found on the street.",
+            "sent3": "The estray goat seemed to be enjoying its solo adventure.",
+            "sent4": "The estray horse symbolized freedom to the young girl.",
+            "sent5": "The estray cat's meows echoed through the empty alleyway."
         },
         {
             "definition": "To wander or stray.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The curious cat liked to estray into the neighbor's garden.",
+            "sent2": "The hiker decided to estray from the main trail for a new view.",
+            "sent3": "The child's mind would often estray during boring lectures.",
+            "sent4": "Her thoughts would estray to distant lands when she stared at the horizon.",
+            "sent5": "The river's path seemed to estray aimlessly through the valley."
         }
     ]
 }

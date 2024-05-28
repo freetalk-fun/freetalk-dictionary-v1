@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A system of rules that a particular country or community recognizes as regulating the actions of its members and may enforce by the imposition of penalties.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The traffic law states that you must stop at a red light.",
+            "sent2": "The law requires everyone to pay taxes on their income.",
+            "sent3": "It's funny how the law of gravity always pulls things down.",
+            "sent4": "The law of supply and demand governs the prices in the market.",
+            "sent5": "Understanding the law of thermodynamics is crucial for studying energy."
         },
         {
             "definition": "A statement of fact, deduced from observation, to the effect that a particular natural or scientific phenomenon always occurs if certain conditions are present.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Scientists have proven the law of conservation of energy.",
+            "sent2": "The law of motion explains how objects move in space.",
+            "sent3": "It's amusing how the law of averages always seems to work out.",
+            "sent4": "The law of attraction suggests that like attracts like.",
+            "sent5": "Learning the law of inertia helps understand object behavior."
         }
     ]
 }

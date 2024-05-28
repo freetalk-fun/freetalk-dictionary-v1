@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A long, narrow mark or band.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The artist drew colorful lines on the paper.",
+            "sent2": "The lines on the road help drivers stay in their lanes.",
+            "sent3": "The mischievous child added extra lines to the drawing, making it a masterpiece.",
+            "sent4": "Her smile created lines of joy on her face.",
+            "sent5": "The lines of the zebra's stripes blended perfectly with the grass."
         },
         {
             "definition": "A row of people or things.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The lines of students waited patiently for their turn.",
+            "sent2": "The lines of books on the shelf were neatly organized.",
+            "sent3": "The lines of ants marched in perfect formation towards the picnic.",
+            "sent4": "The lines of trees in the forest created a beautiful pattern.",
+            "sent5": "The lines of cars at the drive-thru moved slowly but steadily."
         },
         {
             "definition": "A direction or path.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Follow the lines on the map to reach the treasure.",
+            "sent2": "The lines of the maze led to the center.",
+            "sent3": "The lines of the dance guided the performers gracefully across the stage.",
+            "sent4": "His speech followed the lines of logic, making it easy to understand.",
+            "sent5": "The lines of the river meandered through the valley, creating a scenic view."
         }
     ]
 }

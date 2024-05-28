@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To have a need for something.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I required a pencil to complete my homework.",
+            "sent2": "She always requires a cup of coffee in the morning.",
+            "sent3": "The cat required a warm spot by the window to nap comfortably.",
+            "sent4": "His plants required sunlight like a fish requires water.",
+            "sent5": "The car required a jumpstart to get going."
         },
         {
             "definition": "To demand as necessary or essential.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The teacher required all students to turn in their assignments on time.",
+            "sent2": "The job required him to work long hours.",
+            "sent3": "The recipe required precise measurements to turn out perfectly.",
+            "sent4": "The situation required quick thinking like a puzzle requires solving.",
+            "sent5": "The project required teamwork to be successful."
         },
         {
             "definition": "Necessary; essential.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "Water is a required element for all living things.",
+            "sent2": "A good night's sleep is required for a productive day.",
+            "sent3": "The required documents were missing, causing a delay.",
+            "sent4": "Patience is required in learning new skills like a key is required to open a door.",
+            "sent5": "Safety precautions are required to prevent accidents."
         }
     ]
 }

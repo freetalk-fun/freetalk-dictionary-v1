@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A system within a larger system",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The car's braking and engine are important subsystems.",
+            "sent2": "In a computer, the keyboard and monitor are separate subsystems.",
+            "sent3": "The kitchen's oven and refrigerator are like two friendly subsystems working together.",
+            "sent4": "The school's different departments function as interconnected subsystems.",
+            "sent5": "The human body's respiratory and circulatory systems are vital subsystems."
         },
         {
             "definition": "A part of a larger system that performs a specific function",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The cooling subsystems in a computer prevent overheating.",
+            "sent2": "The digestive subsystems break down food for absorption.",
+            "sent3": "The robot's cleaning and navigation subsystems have a unique partnership.",
+            "sent4": "The security subsystems in a building act as vigilant guards.",
+            "sent5": "The transportation subsystems in a city keep people moving efficiently."
         }
     ]
 }

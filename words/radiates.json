@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Emitting energy in the form of waves or particles",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The sun's radiates warmth to the Earth.",
+            "sent2": "The glowing stars in the sky have a radiates glow.",
+            "sent3": "The cozy fireplace had a radiates heat that made everyone feel snug.",
+            "sent4": "The smile on her face radiates happiness to everyone around.",
+            "sent5": "The colorful flowers radiates beauty in the garden."
         },
         {
             "definition": "To spread out from a central point",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The light radiates from the lamp in all directions.",
+            "sent2": "The sound of laughter radiates through the room.",
+            "sent3": "The scent of freshly baked cookies radiates from the kitchen.",
+            "sent4": "The excitement radiates from the children waiting for the ice cream truck.",
+            "sent5": "The news of the surprise party radiates through the school."
         },
         {
             "definition": "To give off rays of light or heat",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The sun radiates light that brightens up the day.",
+            "sent2": "The bonfire radiates warmth on a chilly evening.",
+            "sent3": "The cozy blanket radiates comfort on the couch.",
+            "sent4": "The lighthouse radiates light to guide ships safely.",
+            "sent5": "The heater radiates heat to keep the room cozy."
         }
     ]
 }

@@ -2,12 +2,22 @@
     "term": "trigraph",
     "meanings": [
         {
-            "definition": "A group of three letters representing a single sound, such as \"igh\" in \"sigh.\"",
-            "pos": "noun"
+            "definition": "A group of three letters representing a single sound, such as 'igh' in 'sigh.'",
+            "pos": "noun",
+            "sent1": "The word 'sigh' contains the trigraph 'igh'.",
+            "sent2": "In the word 'night', the trigraph 'igh' makes the 'ai' sound.",
+            "sent3": "When I saw the word 'trigraph', I couldn't help but think of 'sigh'.",
+            "sent4": "The trigraph 'igh' is like a secret code hidden within words.",
+            "sent5": "Learning about the trigraph 'igh' made spelling more interesting."
         },
         {
             "definition": "A sequence of three consecutive nucleotides in DNA or RNA that codes for a specific amino acid or signals the termination of protein synthesis.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Scientists study the trigraphs in DNA to understand genetic information.",
+            "sent2": "The trigraph 'ATG' is known as the start codon in DNA sequences.",
+            "sent3": "I dreamt that aliens communicated using trigraphs in their DNA.",
+            "sent4": "The trigraphs in DNA are like tiny keys that unlock the secrets of life.",
+            "sent5": "Understanding the trigraphs in DNA is crucial for genetic research."
         }
     ]
 }

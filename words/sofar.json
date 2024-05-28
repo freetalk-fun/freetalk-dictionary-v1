@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To the extent or degree indicated or understood.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She has only walked sofar today.",
+            "sent2": "He has not eaten sofar this morning.",
+            "sent3": "The cat has napped sofar, but now it's time to play.",
+            "sent4": "Her dedication to her studies has taken her sofar in her academic journey.",
+            "sent5": "The marathon runner has run sofar without stopping."
         },
         {
             "definition": "Up to this point or extent.",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "I have read sofar in the book.",
+            "sent2": "They have traveled sofar on their road trip.",
+            "sent3": "The cake has baked sofar, but it still needs more time in the oven.",
+            "sent4": "His savings have grown sofar, but he aims for more.",
+            "sent5": "The team has won every game sofar this season."
         }
     ]
 }

@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A person or entity with whom one has a financial transaction.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I made a deal with my counterparty to buy some apples.",
+            "sent2": "The bank serves as the counterparty in the loan agreement.",
+            "sent3": "My counterparty in the stock trade was a squirrel who wanted acorns instead of money.",
+            "sent4": "In the world of finance, your counterparty can be a dragon demanding gold instead of cash.",
+            "sent5": "The counterparty in the business deal turned out to be a talking cat with a briefcase."
         },
         {
             "definition": "The other party in a financial agreement or contract.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "She signed the contract with her counterparty, agreeing to the terms.",
+            "sent2": "The counterparty failed to fulfill their obligations in the deal.",
+            "sent3": "At the negotiation table, my counterparty insisted on being paid in seashells.",
+            "sent4": "The counterparty in the trade seemed like a shadowy figure, always one step ahead.",
+            "sent5": "When the deal went sour, the counterparty vanished into thin air, leaving only a puff of smoke."
         }
     ]
 }

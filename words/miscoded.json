@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Code incorrectly.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She miscoded the program and it crashed.",
+            "sent2": "He always double-checks to make sure he doesn't miscoded the data.",
+            "sent3": "The robot miscoded the commands and started dancing instead of cleaning.",
+            "sent4": "Her brain seemed to miscoded the signals, making her trip over her own feet.",
+            "sent5": "The consequences of miscoding can be costly and time-consuming."
         },
         {
             "definition": "To assign an incorrect code to something.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The cashier miscoded the item, causing confusion at the checkout.",
+            "sent2": "Make sure you don't miscoded the products when labeling them for shipping.",
+            "sent3": "The student miscoded the answers on the test, turning a pass into a fail.",
+            "sent4": "His mind seemed to miscoded the prices, always getting them wrong at the store.",
+            "sent5": "Miscoding can lead to misunderstandings and errors in the system."
         }
     ]
 }

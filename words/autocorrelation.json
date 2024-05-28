@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "The correlation of a signal with a delayed copy of itself.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Autocorrelation helps in finding patterns in a signal by comparing it with a delayed version of itself.",
+            "sent2": "Scientists use autocorrelation to analyze how a signal relates to a copy of itself that is shifted in time.",
+            "sent3": "I wonder if autocorrelation would work on my echo if I spoke to it in a cave.",
+            "sent4": "Autocorrelation is like looking at a reflection of a signal to see how similar it is to the original.",
+            "sent5": "The concept of autocorrelation is like having a twin signal that mirrors the original, revealing hidden details."
         },
         {
             "definition": "The correlation of a signal with itself at different points in time.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Autocorrelation is used to see how a signal at one time relates to itself at another time.",
+            "sent2": "In time series analysis, autocorrelation helps in understanding how a signal varies over different time points.",
+            "sent3": "If autocorrelation could talk, it would probably argue with itself about the best time to show up.",
+            "sent4": "Autocorrelation is like comparing memories of the same event at different times to see if they match.",
+            "sent5": "The idea of autocorrelation is like connecting dots between a signal's past and present to see the relationship."
         }
     ]
 }

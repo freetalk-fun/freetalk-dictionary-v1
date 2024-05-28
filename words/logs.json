@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A thick piece of tree trunk or branch, especially when cut for fuel or timber.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The lumberjack carried the heavy logs out of the forest.",
+            "sent2": "The fireplace crackled as the logs burned brightly.",
+            "sent3": "The mischievous squirrel used the logs as balance beams in the backyard.",
+            "sent4": "Her arms felt like logs after carrying the heavy groceries home.",
+            "sent5": "The logs stacked by the cabin created a cozy atmosphere on chilly evenings."
         },
         {
             "definition": "An official record of events or activities.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The historian studied the ancient logs to learn about past civilizations.",
+            "sent2": "The captain diligently kept logs of the ship's journey across the sea.",
+            "sent3": "The logs of the meeting mysteriously disappeared, causing chaos in the office.",
+            "sent4": "Her memory was like a well-organized log, storing every detail of the day.",
+            "sent5": "The logs of the court proceedings were meticulously maintained for future reference."
         },
         {
             "definition": "To enter something in an official record.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She logs each transaction carefully in the company's ledger.",
+            "sent2": "The detective logs the evidence found at the crime scene.",
+            "sent3": "He logs his daily exercise routine to track his progress.",
+            "sent4": "The teacher logs the students' grades in the online system for easy access.",
+            "sent5": "The scientist logs the experiment results in a detailed research journal."
         }
     ]
 }

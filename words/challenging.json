@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Testing one's abilities or skills",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The math competition was a challenging event for the students.",
+            "sent2": "She enjoys taking on challenging puzzles to improve her problem-solving skills.",
+            "sent3": "The challenging quiz made everyone scratch their heads in confusion.",
+            "sent4": "Life can be like a challenging obstacle course, full of unexpected twists and turns.",
+            "sent5": "The challenging task of climbing the mountain left them feeling accomplished and proud."
         },
         {
             "definition": "Difficult to deal with or overcome",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The challenging homework assignment took hours to complete.",
+            "sent2": "Running a marathon is a challenging but rewarding experience.",
+            "sent3": "The challenging customer made the salesperson's day more interesting.",
+            "sent4": "Overcoming the challenging situation made them stronger and more resilient.",
+            "sent5": "The challenging maze in the game required strategic thinking to navigate successfully."
         },
         {
             "definition": "Inviting competition or conflict",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The challenging sports match brought out the competitive spirit in the players.",
+            "sent2": "Debating can be challenging as it involves differing opinions and arguments.",
+            "sent3": "The challenging game of chess led to an intense battle of wits.",
+            "sent4": "The challenging race for the promotion created tension among colleagues.",
+            "sent5": "The challenging negotiation process required both parties to stand their ground."
         }
     ]
 }

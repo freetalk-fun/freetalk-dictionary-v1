@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A large number of people gathered together.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The crowd cheered loudly at the football game.",
+            "sent2": "The crowd at the concert was excited and energetic.",
+            "sent3": "The crowd waiting for ice cream was so big, it looked like a colorful sea.",
+            "sent4": "The crowd of stars in the night sky twinkled like diamonds.",
+            "sent5": "The crowd of colorful balloons filled the sky with joy."
         },
         {
             "definition": "To press closely together or into a small space.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Please do not crowd the doorway, let others pass.",
+            "sent2": "The passengers began to crowd into the train as it arrived.",
+            "sent3": "The toys in the box seemed to crowd together to make space for the new one.",
+            "sent4": "The thoughts in my mind started to crowd out all other distractions.",
+            "sent5": "The trees in the forest seemed to crowd together to share the sunlight."
         },
         {
             "definition": "To fill or occupy to the point of overflowing.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The books on the shelf started to crowd each other due to lack of space.",
+            "sent2": "The colorful decorations began to crowd the room, making it feel cozy.",
+            "sent3": "The toppings on the pizza seemed to crowd together, creating a delicious mess.",
+            "sent4": "The memories of the trip started to crowd my mind, making me smile.",
+            "sent5": "The flowers in the garden began to crowd each other, creating a beautiful display."
         }
     ]
 }

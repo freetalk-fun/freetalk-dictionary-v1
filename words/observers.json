@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "People who watch or notice something.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The observers at the game cheered loudly for their team.",
+            "sent2": "The wildlife observers spotted a rare bird in the forest.",
+            "sent3": "The observers at the party couldn't stop laughing at the magician's tricks.",
+            "sent4": "The security camera acted as a silent observer in the store.",
+            "sent5": "The young girl was a keen observer of nature, always curious about the world around her."
         },
         {
             "definition": "Devices or instruments used to monitor or track something.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The weather observers predicted a storm approaching the coast.",
+            "sent2": "The traffic observers detected heavy congestion on the highway.",
+            "sent3": "The fitness tracker was a helpful observer during the marathon.",
+            "sent4": "The satellite acted as a vigilant observer of Earth's weather patterns.",
+            "sent5": "The security cameras were reliable observers, ensuring the safety of the building."
         }
     ]
 }

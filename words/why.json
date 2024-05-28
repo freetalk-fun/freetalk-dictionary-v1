@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "For what reason or purpose.",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "She wondered why he was late.",
+            "sent2": "I don't know why she left early.",
+            "sent3": "The cat meowed loudly, wondering why its food bowl was empty.",
+            "sent4": "The flowers bloomed beautifully, showing why they were the garden's highlight.",
+            "sent5": "He explained why he needed to leave early in a clear and concise manner."
         },
         {
             "definition": "Used to introduce a question.",
-            "pos": "conjunction"
+            "pos": "conjunction",
+            "sent1": "Tell me why you are sad.",
+            "sent2": "I wonder why she didn't come to the party.",
+            "sent3": "The teacher asked the students why they hadn't completed their homework.",
+            "sent4": "The detective pondered why the suspect's alibi didn't add up.",
+            "sent5": "The child kept asking why the sky was blue, curious about the world around them."
         }
     ]
 }

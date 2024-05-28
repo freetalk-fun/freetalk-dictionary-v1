@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A number, especially one that forms part of official statistics or relates to the financial performance of a company.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The annual report showed a positive figure for the company's revenue.",
+            "sent2": "The figure of 100,000 employees was recorded in the official census.",
+            "sent3": "She jokingly asked if her bank account could magically show a higher figure.",
+            "sent4": "The figure of 50% market share loomed large in their business strategy.",
+            "sent5": "The figure of $1 million in profits was a milestone for the small business."
         },
         {
             "definition": "A person's bodily shape, especially that of a woman and when considered to be attractive.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Her elegant figure caught everyone's attention at the party.",
+            "sent2": "The mannequin displayed a slim figure in the store window.",
+            "sent3": "She playfully teased her friend about her figure after eating a whole pizza.",
+            "sent4": "Her figure glided gracefully across the dance floor.",
+            "sent5": "The figure of the model in the magazine seemed unrealistic to many."
         },
         {
             "definition": "A written or printed symbol representing a number.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The math textbook explained how to interpret each figure in the equations.",
+            "sent2": "The figure '7' was printed clearly on the classroom whiteboard.",
+            "sent3": "The crossword puzzle stumped her until she filled in the missing figure.",
+            "sent4": "The figure '2' on the sign indicated the number of items allowed in the store.",
+            "sent5": "The figure '5' on the dice determined his next move in the game."
         }
     ]
 }

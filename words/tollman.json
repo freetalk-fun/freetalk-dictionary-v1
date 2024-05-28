@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A person who collects tolls",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The tollman at the bridge collected money from drivers.",
+            "sent2": "The tollman sat in the small booth and took coins from passing cars.",
+            "sent3": "The tollman joked with drivers as he collected their tolls.",
+            "sent4": "The tollman stood like a gatekeeper, allowing passage only after receiving payment.",
+            "sent5": "The tollman's job was to stand by the road and ask for money from drivers."
         },
         {
             "definition": "A toll booth operator",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The tollman in the booth handed out tickets to drivers.",
+            "sent2": "Every morning, the tollman arrived early to open the toll booth.",
+            "sent3": "The tollman waved at the cars passing through his toll booth.",
+            "sent4": "The tollman's booth was like a tiny house by the side of the road.",
+            "sent5": "Drivers knew they had to stop and pay the tollman before continuing on their journey."
         }
     ]
 }

@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Hashing: the process of converting a given key into another value for indexing a location in a data structure.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "In computer science, hashing helps quickly find where data is stored.",
+            "sent2": "The hashing of passwords is crucial for security in online accounts.",
+            "sent3": "I tried to explain hashing to my cat, but he just meowed back.",
+            "sent4": "The teacher's explanation of hashing was like a secret code unraveling.",
+            "sent5": "The concept of hashing is like a treasure map leading to the right chest."
         },
         {
             "definition": "Hashing: to chop up or grind into small pieces.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She was hashing the vegetables for the soup.",
+            "sent2": "The chef was hashing the meat for the burger patties.",
+            "sent3": "The blender went crazy and started hashing everything in sight.",
+            "sent4": "The gardener was hashing the branches like a lumberjack.",
+            "sent5": "The machine was hashing the ice into fine snow for the slushies."
         }
     ]
 }

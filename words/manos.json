@@ -2,16 +2,31 @@
     "term": "manos",
     "meanings": [
         {
-            "definition": "Manos: hands",
-            "pos": "noun"
+            "definition": "hands",
+            "pos": "noun",
+            "sent1": "She washed her manos before dinner.",
+            "sent2": "He held the ball in his manos tightly.",
+            "sent3": "The cat tried to catch the laser pointer with its manos.",
+            "sent4": "The tree branches reached out like long, wooden manos.",
+            "sent5": "The artist's manos moved swiftly across the canvas, creating a masterpiece."
         },
         {
-            "definition": "Manos: of or relating to the hands",
-            "pos": "adjective"
+            "definition": "of or relating to the hands",
+            "pos": "adjective",
+            "sent1": "The gloves were designed for manos protection.",
+            "sent2": "Her manos movements were graceful and precise.",
+            "sent3": "The robot had special sensors for detecting manos gestures.",
+            "sent4": "The ancient statue depicted a mythical creature with manos wings.",
+            "sent5": "The doctor recommended a manos cream for dry skin."
         },
         {
-            "definition": "Manos: to handle or touch with the hands",
-            "pos": "verb"
+            "definition": "to handle or touch with the hands",
+            "pos": "verb",
+            "sent1": "She carefully manos the fragile vase.",
+            "sent2": "He gently manos the puppy's soft fur.",
+            "sent3": "The magician manos the deck of cards with skill.",
+            "sent4": "The mechanic manos the engine, diagnosing the issue.",
+            "sent5": "The chef manos the dough, preparing it for baking."
         }
     ]
 }

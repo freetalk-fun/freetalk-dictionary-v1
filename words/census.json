@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "An official count or survey of a population, typically recording various details of individuals.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The census revealed that the town had grown by 10% in the past year.",
+            "sent2": "The government conducts a census every ten years to gather population data.",
+            "sent3": "During the census, the mayor accidentally counted the same person twice!",
+            "sent4": "The census is like taking a snapshot of the entire town at once.",
+            "sent5": "Remember to participate in the census to ensure accurate representation of our community."
         },
         {
             "definition": "To conduct a census.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The government will census the population next month.",
+            "sent2": "It is important to census regularly to track changes in demographics.",
+            "sent3": "I will census the number of books in the library to update our records.",
+            "sent4": "She decided to census the number of birds in the park for her science project.",
+            "sent5": "Remember to census the data accurately to avoid errors in the report."
         }
     ]
 }

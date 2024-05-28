@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Partial or total darkness; dimness",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The room was filled with gloom as the lights flickered.",
+            "sent2": "The forest was shrouded in gloom as the sun set.",
+            "sent3": "Despite the gloom outside, the children played happily indoors.",
+            "sent4": "Her mind was a deep gloom, clouded with uncertainty.",
+            "sent5": "The gloom of the cave enveloped them in a blanket of darkness."
         },
         {
             "definition": "A state of melancholy or despondency",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "She couldn't shake off the gloom that hung over her after the bad news.",
+            "sent2": "The gloom in his eyes revealed the sadness he felt inside.",
+            "sent3": "Even in the gloom of the situation, she found a glimmer of hope.",
+            "sent4": "The gloom of winter seemed to seep into his very soul.",
+            "sent5": "The gloom of loneliness weighed heavily on her heart."
         },
         {
             "definition": "To make dark or dim",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The storm clouds gloomed the sky, blocking out the sun.",
+            "sent2": "She gloomed the room by drawing the curtains tightly.",
+            "sent3": "His attempt to gloom the painting with dark colors failed to capture the artist's vision.",
+            "sent4": "The shadows gloomed the alley, making it seem eerie and foreboding.",
+            "sent5": "The magician gloomed the stage before his grand entrance, adding to the mystery."
         }
     ]
 }

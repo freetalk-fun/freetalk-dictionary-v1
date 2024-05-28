@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A device or person that converts information into a code.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The encoder helped keep the secret message safe.",
+            "sent2": "The security system used an encoder to protect the data.",
+            "sent3": "The spy used an encoder to turn the message into a secret code.",
+            "sent4": "The encoder was like a secret keeper, transforming the information into a mysterious language.",
+            "sent5": "The encoder worked like a secret agent, disguising the message in a hidden code."
         },
         {
             "definition": "A device that converts a signal or data into a form that can be transmitted or stored.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The encoder changed the signal into a different format for transmission.",
+            "sent2": "The audio encoder converted the music into a digital file.",
+            "sent3": "The encoder turned the data into a language that the computer could understand.",
+            "sent4": "The encoder acted like a translator, changing the signal's language for transmission.",
+            "sent5": "The encoder functioned as a bridge, transforming the data into a format suitable for storage."
         }
     ]
 }

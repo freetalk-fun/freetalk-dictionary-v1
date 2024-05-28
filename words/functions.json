@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Perform a specific task or activity",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The robot functions by cleaning the floors automatically.",
+            "sent2": "My phone functions perfectly after the repair.",
+            "sent3": "The toaster suddenly functions as a music player, playing tunes instead of toasting bread.",
+            "sent4": "In the play, the clock functions as a symbol of passing time.",
+            "sent5": "The flashlight functions like a beacon in the dark, guiding us to safety."
         },
         {
             "definition": "A relationship or expression involving one or more variables",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Understanding how the heart functions is crucial for medical students.",
+            "sent2": "The mathematical functions in the equation determine the outcome.",
+            "sent3": "The friendship between the two functions smoothly, like a well-oiled machine.",
+            "sent4": "The music functions as a bridge between different cultures.",
+            "sent5": "The key functions as a tool to unlock hidden treasures."
         },
         {
             "definition": "A social or official gathering or ceremony",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The wedding functions will take place in the grand hall.",
+            "sent2": "The annual company functions are always well-attended.",
+            "sent3": "The birthday party functions turned into a surprise costume contest.",
+            "sent4": "The conference functions as a platform for sharing innovative ideas.",
+            "sent5": "The festival functions as a celebration of diversity and unity."
         }
     ]
 }

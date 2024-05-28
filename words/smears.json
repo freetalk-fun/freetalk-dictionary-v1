@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To spread or daub (a substance) thinly over a surface.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She smears butter on her toast every morning.",
+            "sent2": "The artist smears paint on the canvas to create a beautiful landscape.",
+            "sent3": "He accidentally smears ketchup on his shirt while trying to eat a hotdog.",
+            "sent4": "The rain smears the colors of the painting, creating a unique effect.",
+            "sent5": "The child smears mud on the walls while playing outside."
         },
         {
             "definition": "A mark or stain made by smearing.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "There was a smear of chocolate on her cheek from the dessert.",
+            "sent2": "The glass had a lipstick smear from someone's drink.",
+            "sent3": "The cat left a smear of paw prints on the freshly mopped floor.",
+            "sent4": "The smear of ink on the paper made the writing illegible.",
+            "sent5": "The detective found a smear of blood at the crime scene."
         },
         {
             "definition": "A false or damaging statement about someone.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The politician's opponent made a smear against his character.",
+            "sent2": "The tabloid published a smear about the celebrity's personal life.",
+            "sent3": "The comedian made a humorous smear about his own clumsiness.",
+            "sent4": "The smear of gossip spread quickly through the small town.",
+            "sent5": "The smear of lies tarnished his reputation in the community."
         }
     ]
 }

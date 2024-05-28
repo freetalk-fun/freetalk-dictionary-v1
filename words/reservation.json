@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "An arrangement in which something is held back or set aside for a specific purpose.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I made a reservation for a table at the restaurant.",
+            "sent2": "The park ranger had a reservation for the campsite.",
+            "sent3": "His reservation to save the last cookie for later was quickly forgotten.",
+            "sent4": "Her reservation to keep her feelings hidden finally broke.",
+            "sent5": "The reservation of the best seats for the concert made her evening unforgettable."
         },
         {
             "definition": "A feeling of doubt or uncertainty about something.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "She had a reservation about the safety of the old bridge.",
+            "sent2": "His reservation about the new project made him hesitant to join.",
+            "sent3": "Despite her reservation, she decided to try the exotic dish.",
+            "sent4": "The dark clouds cast a reservation over their picnic plans.",
+            "sent5": "The reservation in her voice revealed her uncertainty about the decision."
         },
         {
             "definition": "A formal request to secure accommodations or services in advance.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "He made a reservation for a hotel room for the weekend.",
+            "sent2": "The airline confirmed her reservation for the flight.",
+            "sent3": "His reservation for a massage turned into a relaxing experience.",
+            "sent4": "The reservation for the car rental was quick and easy.",
+            "sent5": "Making a reservation for the event ensured they had seats reserved."
         }
     ]
 }

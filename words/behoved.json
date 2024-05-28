@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "It was necessary or proper for someone to do something.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "It behoved him to study for the test.",
+            "sent2": "It behoved her to apologize for her mistake.",
+            "sent3": "It behoved the cat to chase the mouse, but it just yawned instead.",
+            "sent4": "The sun behoved to rise each morning, bringing light to the world.",
+            "sent5": "The knight felt it behoved him to protect the kingdom from the dragon."
         },
         {
             "definition": "It was a duty or responsibility for someone to do something.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The behoved of a student is to learn and grow.",
+            "sent2": "It is the behoved of a parent to care for their child.",
+            "sent3": "The behoved of the clown was to make people laugh, but he kept tripping instead.",
+            "sent4": "The behoved of the tree is to provide shade and oxygen for all creatures.",
+            "sent5": "In the play, the behoved of the hero was to save the princess from the evil sorcerer."
         }
     ]
 }

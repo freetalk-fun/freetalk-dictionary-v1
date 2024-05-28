@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To render incorrectly or inaccurately.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The artist misrendered the landscape by painting the sky green instead of blue.",
+            "sent2": "She misrendered the song lyrics by singing the wrong words.",
+            "sent3": "The chef misrendered the recipe by adding salt instead of sugar.",
+            "sent4": "His misrendered map led us to the wrong destination.",
+            "sent5": "The student misrendered the math problem, getting the incorrect answer."
         },
         {
             "definition": "Incorrectly rendered or represented.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The misrendered painting had the colors all mixed up.",
+            "sent2": "The misrendered document caused confusion among the readers.",
+            "sent3": "The misrendered photo made everyone look like they had funny faces.",
+            "sent4": "Her misrendered drawing looked like a strange creature.",
+            "sent5": "The misrendered sculpture appeared distorted and strange."
         }
     ]
 }

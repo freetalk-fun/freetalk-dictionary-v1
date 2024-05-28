@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Square or rectangular in shape",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The table had a quadrate top.",
+            "sent2": "The quadrate tile fit perfectly in the corner.",
+            "sent3": "The quadrate cake looked too perfect to eat.",
+            "sent4": "Her quadrate garden was meticulously organized.",
+            "sent5": "The quadrate window framed the view beautifully."
         },
         {
             "definition": "To divide into four equal parts",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She decided to quadrate the pizza for easy sharing.",
+            "sent2": "The chef needed to quadrate the ingredients before cooking.",
+            "sent3": "He tried to quadrate his time between work and hobbies.",
+            "sent4": "The teacher had to quadrate the class into groups for the project.",
+            "sent5": "The puzzle required him to quadrate the image to solve it."
         },
         {
             "definition": "A square or rectangular shape or object",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The room was a perfect quadrate.",
+            "sent2": "She admired the beauty of the quadrate painting.",
+            "sent3": "The quadrate of the bookshelf made it easy to fit in the corner.",
+            "sent4": "The quadrate of the mirror reflected the entire room.",
+            "sent5": "The quadrate of the table matched the room's decor."
         }
     ]
 }

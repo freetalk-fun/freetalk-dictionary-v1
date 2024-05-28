@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To confirm or substantiate the truth or accuracy of something.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The scientist validates his hypothesis by conducting experiments.",
+            "sent2": "The signature on the document validates its authenticity.",
+            "sent3": "The detective validates the suspect's alibi with security camera footage.",
+            "sent4": "Her success in the competition validates her dedication and hard work.",
+            "sent5": "The teacher validates the student's answer with a nod of approval."
         },
         {
             "definition": "To give official sanction, confirmation, or approval to something.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The judge validates the parking ticket for the visitor.",
+            "sent2": "The principal validates the students' achievements with certificates.",
+            "sent3": "The librarian validates the borrowed books for the library members.",
+            "sent4": "The supervisor validates the employee's time card for the week.",
+            "sent5": "The bank teller validates the customer's withdrawal slip."
         },
         {
             "definition": "To demonstrate or support the validity or correctness of something.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The data validates the conclusion drawn by the researcher.",
+            "sent2": "The experiment validates the theory proposed by the scientist.",
+            "sent3": "The photograph validates the witness's description of the event.",
+            "sent4": "The feedback from customers validates the quality of the product.",
+            "sent5": "The test results validate the student's understanding of the material."
         }
     ]
 }

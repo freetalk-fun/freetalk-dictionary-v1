@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "The series of directories and subdirectories that specify the location of a file or directory in a computer's file system.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The pathname of the document led us through different folders on the computer.",
+            "sent2": "I saved the file in a specific pathname to easily find it later.",
+            "sent3": "Trying to find the file in the maze of pathnames felt like a digital treasure hunt.",
+            "sent4": "The pathname acted as a digital map guiding us to the hidden file.",
+            "sent5": "The pathname resembled a trail of breadcrumbs, showing the way to the desired folder."
         },
         {
             "definition": "The specific location of a file or directory in a computer's file system.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "She copied the pathname of the folder to share it with her colleague.",
+            "sent2": "The pathname displayed at the top of the screen showed the file's exact location.",
+            "sent3": "The pathname seemed to play hide and seek as I searched for the file.",
+            "sent4": "The pathname was like a secret code unlocking the file's whereabouts.",
+            "sent5": "The pathname stood out like a signpost in the digital landscape, pointing to the file."
         }
     ]
 }

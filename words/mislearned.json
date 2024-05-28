@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To learn incorrectly or inaccurately.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She mislearned the math concept and struggled with the problems.",
+            "sent2": "He mislearned the historical date and got it wrong on the test.",
+            "sent3": "The student mislearned the foreign language word and accidentally insulted the teacher.",
+            "sent4": "The detective mislearned a crucial detail in the case, leading to a wrong conclusion.",
+            "sent5": "Mislearning the safety instructions could result in serious accidents."
         },
         {
             "definition": "Having learned something incorrectly or inaccurately.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The mislearned information caused confusion among the students.",
+            "sent2": "She felt embarrassed by her mislearned pronunciation of the word.",
+            "sent3": "The mislearned directions led them to the wrong destination, much to their amusement.",
+            "sent4": "His mislearned belief about the topic made him look foolish in front of his peers.",
+            "sent5": "The mislearned concept stuck in her mind, making it hard to correct."
         }
     ]
 }

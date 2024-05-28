@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Consisting of both letters and numbers.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The password must be alphameric, containing both letters and numbers.",
+            "sent2": "The student's ID code is alphameric, with a mix of letters and numbers.",
+            "sent3": "The alphabet and numbers had a party and created an alphameric cake.",
+            "sent4": "Her wardrobe was an alphameric mix of colorful dresses and numerical patterns.",
+            "sent5": "The computer system only accepted alphameric passwords for security reasons."
         },
         {
             "definition": "A character that is either a letter or a number.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "In the code, 'A' is an alphameric representing a letter.",
+            "sent2": "The license plate had an alphameric that was a mix of letters and numbers.",
+            "sent3": "The detective found a mysterious note with an alphameric that led to a hidden treasure.",
+            "sent4": "The crossword puzzle required filling in each box with an alphameric.",
+            "sent5": "The toy blocks had alphameric symbols that helped children learn letters and numbers."
         }
     ]
 }

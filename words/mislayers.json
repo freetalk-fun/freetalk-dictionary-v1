@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A person who mislays something.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The mislayers often forget where they put their keys.",
+            "sent2": "She is known as the mislayers in our group because she always loses her phone.",
+            "sent3": "The mislayers at the office have a habit of misplacing important documents.",
+            "sent4": "The mislayers in the library seem to make books disappear like magic.",
+            "sent5": "The mislayers in the family are always searching for their misplaced items."
         },
         {
             "definition": "To lose temporarily; misplace.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I mislay my glasses almost every morning.",
+            "sent2": "Please don't mislay the keys; we need them to open the door.",
+            "sent3": "He tends to mislay his homework right before it's due.",
+            "sent4": "The forgetful professor would mislay his notes before every lecture.",
+            "sent5": "Try not to mislay your umbrella on a rainy day."
         }
     ]
 }

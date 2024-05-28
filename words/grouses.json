@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Complain or grumble",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She grouses about having to do chores every day.",
+            "sent2": "He often grouses about the long lines at the grocery store.",
+            "sent3": "The cat groused at the closed door, wanting to go outside.",
+            "sent4": "The old car engine groused loudly before finally starting.",
+            "sent5": "The child groused all the way to school about not wanting to go."
         },
         {
             "definition": "A complaint or grievance",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "His constant grouses about the food made everyone unhappy.",
+            "sent2": "She wrote a letter to the manager expressing her grouse about the service.",
+            "sent3": "The grouse about the broken elevator was finally fixed after many complaints.",
+            "sent4": "The grouse from the customer led to improvements in the store's policies.",
+            "sent5": "The grouse in the suggestion box was taken seriously by the company."
         }
     ]
 }

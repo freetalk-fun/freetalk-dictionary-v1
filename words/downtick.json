@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A small decrease or decline in a price or value.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "After the downtick, the stock price fell by a tiny bit.",
+            "sent2": "The downtick in the housing market affected property values.",
+            "sent3": "The downtick in ice cream sales made the shop owner frown.",
+            "sent4": "Her mood took a downtick when she heard the bad news.",
+            "sent5": "The downtick in temperature signaled the start of winter."
         },
         {
             "definition": "To decrease or decline slightly.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I hope the fever will downtick soon.",
+            "sent2": "If we downtick our spending, we can save more money.",
+            "sent3": "The music volume had to downtick to avoid disturbing the neighbors.",
+            "sent4": "Her energy levels downtick in the afternoon.",
+            "sent5": "The number of attendees started to downtick as the event went on."
         }
     ]
 }

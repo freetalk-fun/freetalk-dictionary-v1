@@ -2,12 +2,22 @@
     "term": "sith",
     "meanings": [
         {
-            "definition": "Sith: a conjunction meaning \"since\" or \"because\"",
-            "pos": "conjunction"
+            "definition": "Sith: a conjunction meaning 'since' or 'because'",
+            "pos": "conjunction",
+            "sent1": "I am tired, sith I will go to bed early.",
+            "sent2": "She was happy, sith she received a gift.",
+            "sent3": "The cat meowed, sith it wanted food.",
+            "sent4": "The rain poured down, sith the clouds were dark.",
+            "sent5": "He ran fast, sith he was late for the bus."
         },
         {
             "definition": "Sith: a noun referring to a fictional order of dark side Force users in the Star Wars universe.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Luke Skywalker fought against the Sith.",
+            "sent2": "The Sith wielded red lightsabers.",
+            "sent3": "The Sith Lord laughed menacingly.",
+            "sent4": "The Sith's power was unmatched.",
+            "sent5": "The Jedi battled the Sith in an epic duel."
         }
     ]
 }

@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A literal is a basic unit of a programming language that represents a fixed value.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "In coding, programmers use literals like numbers or strings to assign specific values.",
+            "sent2": "The code snippet contains several literals such as 'Hello' and 123.",
+            "sent3": "When the computer saw the literal 'banana' in the code, it probably got hungry!",
+            "sent4": "The literals in the program acted like building blocks, forming the foundation of the software.",
+            "sent5": "Imagine literals as tiny, unchangeable puzzle pieces that fit perfectly into the code."
         },
         {
             "definition": "A literal is a word or phrase in its most basic form, without metaphor or exaggeration.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The author's writing style is straightforward, using literals to convey clear messages.",
+            "sent2": "She appreciated the literal meaning of the poem, free from hidden symbols.",
+            "sent3": "When he said 'I'm so hungry I could eat a horse,' he definitely wasn't being literal!",
+            "sent4": "Her words were like literals, direct and to the point, leaving no room for misinterpretation.",
+            "sent5": "The teacher explained the concept using literals, making it easy for everyone to understand."
         }
     ]
 }

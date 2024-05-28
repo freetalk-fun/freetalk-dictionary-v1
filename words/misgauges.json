@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Misgauges: to incorrectly measure or assess something",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She misgauges the distance and ends up taking a longer route.",
+            "sent2": "He often misgauges the amount of time it takes to complete a task.",
+            "sent3": "The robot misgauges the size of the box and tries to fit it in a smaller space.",
+            "sent4": "Her intuition rarely misgauges the true intentions of others.",
+            "sent5": "The weather app misgauges the temperature, leading people to dress inappropriately."
         },
         {
             "definition": "Misgauges: a plural noun referring to multiple incorrect measurements or assessments",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The misgauges in the experiment caused confusion among the researchers.",
+            "sent2": "The misgauges on the map led the hikers astray.",
+            "sent3": "The misgauges in the recipe resulted in a disastrous cake.",
+            "sent4": "The misgauges in the budget projections caused financial losses.",
+            "sent5": "The misgauges in the survey data skewed the results significantly."
         }
     ]
 }

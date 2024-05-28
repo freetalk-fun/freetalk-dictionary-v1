@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Serving as a sign or indication of a future event",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The dark clouds were a prognostic sign of the coming storm.",
+            "sent2": "Her sudden silence was a prognostic signal that something was wrong.",
+            "sent3": "The cat's loud meowing was a prognostic warning of her hunger.",
+            "sent4": "The old man's shaky hands were a prognostic of the approaching winter.",
+            "sent5": "The distant thunder was a prognostic of the impending rainstorm."
         },
         {
             "definition": "A forecast or prediction of a future event",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The weather forecast provided a useful prognostic for planning the picnic.",
+            "sent2": "The doctor's positive prognostic about the patient's recovery brought hope to the family.",
+            "sent3": "The fortune teller's prognostic about winning the lottery made everyone laugh.",
+            "sent4": "The economist's grim prognostic about the stock market caused panic among investors.",
+            "sent5": "The astrologer's detailed prognostic of the upcoming planetary alignment fascinated the audience."
         }
     ]
 }

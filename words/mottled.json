@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Marked with spots or blotches of different colors.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The cat had a mottled fur coat.",
+            "sent2": "The artist painted a mottled sky at sunset.",
+            "sent3": "The mottled cake looked like a colorful mosaic.",
+            "sent4": "Her mottled scarf added a touch of whimsy to her outfit.",
+            "sent5": "The mottled leaves on the tree created a beautiful pattern."
         },
         {
             "definition": "To mark with spots or blotches.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She mottled the paper with different paint colors.",
+            "sent2": "The rain mottled the sidewalk with puddles.",
+            "sent3": "He accidentally mottled his shirt with ink while writing.",
+            "sent4": "The artist mottled the canvas with bold strokes.",
+            "sent5": "The chef mottled the cake with swirls of frosting."
         }
     ]
 }

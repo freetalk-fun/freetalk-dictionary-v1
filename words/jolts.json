@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A sudden, sharp movement",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The roller coaster's unexpected jolts made me gasp.",
+            "sent2": "The earthquake caused the ground to jolt beneath our feet.",
+            "sent3": "The jolts in the road made the car bounce up and down comically.",
+            "sent4": "The sudden jolts of lightning lit up the dark sky.",
+            "sent5": "The jolts of the train were so strong that it felt like being pushed."
         },
         {
             "definition": "To move with a sudden, sharp movement",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The horse jolts forward when startled.",
+            "sent2": "She jolts awake from a bad dream.",
+            "sent3": "The chef jolts the pan to toss the ingredients in the air.",
+            "sent4": "The sudden noise jolts the cat out of its nap.",
+            "sent5": "The car jolts as it hits a pothole on the road."
         },
         {
             "definition": "A sudden shock or surprise",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The unexpected jolt of thunder made me jump.",
+            "sent2": "His resignation came as a jolt to the team.",
+            "sent3": "The jolt of realizing she forgot her keys made her rush back home.",
+            "sent4": "The news of the accident was a jolt to the entire community.",
+            "sent5": "The jolt of excitement when she won the prize was unforgettable."
         }
     ]
 }

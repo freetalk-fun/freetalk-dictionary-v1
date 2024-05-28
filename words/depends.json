@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To be determined by or based on something else",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The outcome of the experiment depends on the temperature of the water.",
+            "sent2": "My decision to go outside depends on whether it's raining or not.",
+            "sent3": "His success depends on the mood of his boss, which can be quite unpredictable.",
+            "sent4": "Her happiness depends on a delicate balance of work and play.",
+            "sent5": "The growth of the plant depends on the amount of sunlight it receives each day."
         },
         {
             "definition": "To rely on or be influenced by something else",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I depend on my alarm clock to wake me up in the morning.",
+            "sent2": "The team's success depends on each player doing their part.",
+            "sent3": "His cat depends on him for food and cuddles every day.",
+            "sent4": "The fragile ecosystem depends on the presence of certain key species.",
+            "sent5": "The outcome of the game depends on how well the players work together as a team."
         },
         {
             "definition": "To vary or change based on different factors",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The cost of the project depends on the materials used and the labor involved.",
+            "sent2": "Her mood depends on a combination of sleep, food, and exercise.",
+            "sent3": "The flavor of the soup depends on the amount of salt added.",
+            "sent4": "The outcome of the race depends on the weather conditions on the day.",
+            "sent5": "The color of the sky depends on the time of day and the weather."
         }
     ]
 }

@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To seek advice or information from someone",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She is consulting her teacher for help with the math problem.",
+            "sent2": "He is consulting a map to find the way to the park.",
+            "sent3": "The detective is consulting the witness to solve the mystery.",
+            "sent4": "The scientist is consulting his notes to confirm the experiment results.",
+            "sent5": "The hiker is consulting the trail map to avoid getting lost in the forest."
         },
         {
             "definition": "The business of giving expert advice to other professionals or companies",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The consulting firm helps businesses improve their strategies.",
+            "sent2": "She works in consulting and provides guidance to companies.",
+            "sent3": "The consulting industry is booming with new opportunities.",
+            "sent4": "The consulting company offers solutions to optimize productivity.",
+            "sent5": "His success in consulting has made him a sought-after expert in the field."
         }
     ]
 }

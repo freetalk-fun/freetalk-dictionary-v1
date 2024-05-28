@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "The fact or process of losing something or someone",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The loss of my favorite toy made me sad.",
+            "sent2": "She experienced a deep sense of loss after her pet ran away.",
+            "sent3": "Losing my keys was a real loss, but at least I found them in the end.",
+            "sent4": "The loss of innocence in the character's eyes was evident.",
+            "sent5": "The sudden loss of sunlight plunged the room into darkness."
         },
         {
             "definition": "The feeling of grief after losing something or someone",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Her loss of a close friend left her heartbroken.",
+            "sent2": "The loss of a loved one can be a difficult experience to cope with.",
+            "sent3": "Despite the loss of the game, the team remained in good spirits.",
+            "sent4": "The loss of a cherished possession felt like a piece of her heart was missing.",
+            "sent5": "The loss of a dream can be as painful as the loss of a person."
         },
         {
             "definition": "The amount by which something is lessened or diminished",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The loss of two points in the game put them behind.",
+            "sent2": "The financial loss was significant, but they were determined to recover.",
+            "sent3": "The loss of interest in the project was unexpected.",
+            "sent4": "The loss of momentum in the race cost him the lead.",
+            "sent5": "The loss of flavor in the dish was due to missing ingredients."
         }
     ]
 }

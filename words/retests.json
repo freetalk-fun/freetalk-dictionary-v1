@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Test taken again to check previous results.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "She had to take multiple retests to improve her grades.",
+            "sent2": "The teacher scheduled retests for students who were absent during the original exam.",
+            "sent3": "The retests piled up on her desk, reminding her of the importance of studying.",
+            "sent4": "The retests were like a second chance to show what she had learned.",
+            "sent5": "The thought of retests made her nervous but also motivated her to study harder."
         },
         {
             "definition": "To take a test again to confirm results.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He retests his knowledge before the final exam to ensure he is prepared.",
+            "sent2": "She retests her hypothesis to validate the experiment's outcome.",
+            "sent3": "The scientist retests the data to double-check for any errors.",
+            "sent4": "Repeating the experiment retests the accuracy of the initial findings.",
+            "sent5": "The athlete retests his speed to see if he has improved since last time."
         }
     ]
 }

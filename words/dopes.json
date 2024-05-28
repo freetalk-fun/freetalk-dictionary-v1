@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A stupid person",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "That guy over there is a real dopes.",
+            "sent2": "Don't listen to the dopes in the back of the class.",
+            "sent3": "The dopes at the party kept spilling their drinks.",
+            "sent4": "Her ex-boyfriend was a real dopes, always causing trouble.",
+            "sent5": "The dopes in the movie made everyone laugh with their silly antics."
         },
         {
             "definition": "To administer drugs to",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The doctor dopes the patient before surgery.",
+            "sent2": "Athletes should never dope to enhance performance.",
+            "sent3": "The coach accidentally dopes the wrong player with energy drink.",
+            "sent4": "She dopes her plants with fertilizer to help them grow.",
+            "sent5": "The detective suspects someone dopes the victim's drink with a sedative."
         },
         {
             "definition": "To add an impurity to a semiconductor to increase conductivity",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Engineers carefully dope the silicon to improve the chip's performance.",
+            "sent2": "It is essential to follow the correct procedure when you dope the semiconductor.",
+            "sent3": "The scientist accidentally dopes the wrong element into the compound.",
+            "sent4": "The technician dopes the material with boron to enhance its properties.",
+            "sent5": "The lab assistant dopes the sample with a trace amount of gold for testing purposes."
         }
     ]
 }

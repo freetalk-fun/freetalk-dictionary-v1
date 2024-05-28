@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "The foot of an animal, especially a quadruped, that has claws or nails.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The cat used its paw to bat at the toy mouse.",
+            "sent2": "The dog's paw left muddy prints on the floor.",
+            "sent3": "The playful kitten's paw accidentally knocked over the vase.",
+            "sent4": "The bear's massive paw swiped at the fish in the river.",
+            "sent5": "The rabbit's soft paw felt like velvet against my hand."
         },
         {
             "definition": "To touch or strike with a paw.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The lion will paw at the ground before pouncing.",
+            "sent2": "The horse pawed at the stable door impatiently.",
+            "sent3": "The curious raccoon pawed at the garbage can looking for food.",
+            "sent4": "The bear pawed at the beehive, trying to get to the honey inside.",
+            "sent5": "The cat pawed gently at my arm to get my attention."
         },
         {
             "definition": "To handle or manipulate clumsily.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She would paw through the pile of clothes searching for her favorite shirt.",
+            "sent2": "The toddler pawed at the buttons on the remote control.",
+            "sent3": "He tried to paw at the guitar strings but couldn't make a sound.",
+            "sent4": "The chef would paw at the dough, trying to get it just right.",
+            "sent5": "The monkey pawed at the banana, eager to peel it and take a bite."
         }
     ]
 }

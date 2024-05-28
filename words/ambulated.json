@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Walked",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She ambulated slowly around the park.",
+            "sent2": "The dog ambulated happily alongside its owner.",
+            "sent3": "The penguin ambulated gracefully on the ice.",
+            "sent4": "The elderly man ambulated with determination towards the finish line.",
+            "sent5": "The children ambulated in a line during the school field trip."
         },
         {
             "definition": "Moved from place to place",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The ambulated boxes were scattered all over the room.",
+            "sent2": "The ambulated furniture made the house feel cozy.",
+            "sent3": "The ambulated toys seemed to have a life of their own.",
+            "sent4": "The ambulated crowd filled the streets with excitement.",
+            "sent5": "The ambulated leaves created a colorful carpet in the garden."
         },
         {
             "definition": "Travelled on foot",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "They ambulated through the forest, enjoying the fresh air.",
+            "sent2": "The hikers ambulated up the mountain trail.",
+            "sent3": "The explorer ambulated through the jungle, discovering new species.",
+            "sent4": "The friends ambulated along the beach, collecting seashells.",
+            "sent5": "The family ambulated through the city, exploring all the landmarks."
         }
     ]
 }

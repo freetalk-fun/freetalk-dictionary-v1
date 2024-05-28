@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To bill again for a service or product.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The company rebilled the customer for the repair service.",
+            "sent2": "I rebilled the client for the consultation fee.",
+            "sent3": "The mechanic rebilled the car owner for the second repair.",
+            "sent4": "The restaurant rebilled the customer for the extra side dish.",
+            "sent5": "She rebilled the tenant for the overdue rent payment."
         },
         {
             "definition": "To send another bill for a previous transaction.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The utility company rebilled the customer for the electricity usage.",
+            "sent2": "The accountant rebilled the client for the tax preparation services.",
+            "sent3": "The online store rebilled the shopper for the delayed shipment.",
+            "sent4": "The hotel rebilled the guest for the room service charges.",
+            "sent5": "He rebilled the customer for the missed payment."
         }
     ]
 }

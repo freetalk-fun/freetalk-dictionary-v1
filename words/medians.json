@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A median is a strip of land dividing a road.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The medians on the highway help separate the lanes of traffic.",
+            "sent2": "Be careful when crossing the street, always use the median.",
+            "sent3": "The squirrel thought the median was a perfect place to stop and eat its acorn.",
+            "sent4": "The median stood like a green barrier between the two sides of the road.",
+            "sent5": "The flowers planted on the median added a touch of beauty to the busy street."
         },
         {
             "definition": "A median is a value that separates the higher half from the lower half of a data set.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "In statistics, the median helps us understand the middle value of a set.",
+            "sent2": "The median income of the group was used to determine their financial status.",
+            "sent3": "The median number of cookies each person ate at the party was surprisingly high.",
+            "sent4": "She found herself in the median of opinions, not fully agreeing with either side.",
+            "sent5": "The median line on the graph clearly showed where the data split into two halves."
         },
         {
             "definition": "Medians is the plural form of median.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "When discussing data, we often need to calculate medians to get a clearer picture.",
+            "sent2": "The teacher asked the students to find the medians of their test scores.",
+            "sent3": "The medians of the class were all different, showing a wide range of results.",
+            "sent4": "The medians of the roads in the city were all beautifully landscaped.",
+            "sent5": "The medians of the numbers were easy to identify once the data was sorted."
         }
     ]
 }

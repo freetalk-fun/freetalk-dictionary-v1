@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Ganofs (noun): a thief or swindler",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The ganofs stole my wallet when I wasn't looking.",
+            "sent2": "The police caught the ganofs red-handed during the robbery.",
+            "sent3": "The ganofs tried to trick the old man with a fake lottery ticket.",
+            "sent4": "Beware of the ganofs lurking in the shadows of the city.",
+            "sent5": "The ganofs wore disguises to blend in with the crowd and avoid detection."
         },
         {
             "definition": "Ganofs (verb): to steal or cheat",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She ganofs money from her unsuspecting friends to fund her gambling habit.",
+            "sent2": "The con artist ganofs valuable items from tourists at the busy market.",
+            "sent3": "He tried to ganofs his way out of paying for the damages he caused.",
+            "sent4": "The hacker ganofs sensitive information from the company's database.",
+            "sent5": "The pickpocket skillfully ganofs wallets from distracted pedestrians in the crowded street."
         }
     ]
 }

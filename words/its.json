@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Belonging to or associated with a thing previously mentioned or easily identified.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The cat washed its face with care.",
+            "sent2": "The tree lost its leaves in the fall.",
+            "sent3": "The robot tried to find its missing screw in the pile of junk.",
+            "sent4": "The old house creaked as its doors opened slowly.",
+            "sent5": "The baby bird chirped happily as its mother fed it worms."
         },
         {
             "definition": "Used to indicate possession, origin, or association.",
-            "pos": "preposition"
+            "pos": "preposition",
+            "sent1": "The bookshelf displayed its collection of novels proudly.",
+            "sent2": "The car skidded to a stop, its tires screeching on the pavement.",
+            "sent3": "The kite soared high in the sky, its tail fluttering in the wind.",
+            "sent4": "The necklace sparkled in the sunlight, its gems catching the light.",
+            "sent5": "The painting hung on the wall, its colors blending beautifully."
         }
     ]
 }

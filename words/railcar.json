@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A railroad car designed for carrying freight or passengers.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The railcar was filled with boxes of fresh vegetables.",
+            "sent2": "The railcar slowly moved along the tracks, transporting coal to the factory.",
+            "sent3": "The railcar decided to take a detour and ended up at the circus instead of the train station.",
+            "sent4": "Her mind was a railcar of memories, each one a different destination along the tracks of her life.",
+            "sent5": "The old, rusty railcar creaked and groaned as it carried its precious cargo through the mountains."
         },
         {
             "definition": "A vehicle that runs on rails, typically used for transporting goods or people.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The sleek railcar glided smoothly along the tracks, carrying passengers to their destination.",
+            "sent2": "The railcar was loaded with crates of oranges, ready to be shipped to the market.",
+            "sent3": "The mischievous raccoon hitched a ride on the railcar, hoping for an adventure.",
+            "sent4": "Her laughter echoed through the railcar, filling the space with joy and warmth.",
+            "sent5": "The railcar's wheels hummed a rhythmic tune as it sped through the countryside."
         }
     ]
 }

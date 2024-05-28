@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To stand for or symbolize something",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The flag represents our country.",
+            "sent2": "In the play, the red rose represents love.",
+            "sent3": "The talking bear represents happiness in the story.",
+            "sent4": "Her smile represents the sunshine on a rainy day.",
+            "sent5": "The key represents the answer to the mystery."
         },
         {
             "definition": "To act or speak on behalf of someone or something",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The lawyer represents the defendant in court.",
+            "sent2": "The student council president represents the student body.",
+            "sent3": "The robot represents the future of technology.",
+            "sent4": "The spokesperson represents the company at the press conference.",
+            "sent5": "The ambassador represents the country in foreign affairs."
         },
         {
             "definition": "To depict or portray something in a particular way",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The artist represents nature in her paintings.",
+            "sent2": "The advertisement represents the product as the best in the market.",
+            "sent3": "The caricature represents the politician in a funny light.",
+            "sent4": "The film represents the historical event with accuracy.",
+            "sent5": "The statue represents courage and strength."
         }
     ]
 }

@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To illuminate excessively.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The sun overlights the room, making it hard to see.",
+            "sent2": "The stadium lights overlight the entire field during night games.",
+            "sent3": "The flashlight overlighted the dark closet, revealing a hidden surprise.",
+            "sent4": "Her smile overlights the room, bringing warmth to everyone present.",
+            "sent5": "The neon sign overlights the street, attracting customers from afar."
         },
         {
             "definition": "To surpass in brightness.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The full moon overlights all the stars in the sky.",
+            "sent2": "The lighthouse beam overlights any other light on the coast.",
+            "sent3": "His enthusiasm overlights everyone else's excitement in the room.",
+            "sent4": "The fireworks overlight the night sky, painting it with vibrant colors.",
+            "sent5": "The diamond's sparkle overlights all other gems in the collection."
         },
         {
             "definition": "A light that is too bright.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The overlight in the room hurts my eyes.",
+            "sent2": "The streetlamp's overlight makes it hard to see the stars at night.",
+            "sent3": "The car's headlights overlight the road, making it look like daytime.",
+            "sent4": "The stage's overlight blinds the performers momentarily.",
+            "sent5": "The stadium's overlight floods the field with brightness during games."
         }
     ]
 }

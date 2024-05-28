@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To agree to give or allow (something requested) to",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I will grant you permission to go to the park.",
+            "sent2": "The teacher will grant an extension on the homework deadline.",
+            "sent3": "I will grant you three wishes, but be careful what you wish for!",
+            "sent4": "Her smile granted me the courage to speak up in class.",
+            "sent5": "The key to success is to grant yourself the freedom to make mistakes."
         },
         {
             "definition": "A sum of money given by an organization, especially a government, for a particular purpose",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "She received a grant to conduct research on endangered species.",
+            "sent2": "The government provided a grant to support small businesses during the pandemic.",
+            "sent3": "The grant for the new playground equipment made the children very happy.",
+            "sent4": "The grant was a lifeline for the struggling non-profit organization.",
+            "sent5": "The grant enabled the school to upgrade its technology infrastructure."
         }
     ]
 }

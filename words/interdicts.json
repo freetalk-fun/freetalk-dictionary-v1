@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To prohibit or forbid something",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The teacher interdicts running in the hallway.",
+            "sent2": "The sign clearly interdicts parking in this area.",
+            "sent3": "The mischievous elf interdicts eating cookies before dinner.",
+            "sent4": "The protective mother interdicts her child from watching scary movies.",
+            "sent5": "The security guard interdicts unauthorized personnel from entering the building."
         },
         {
             "definition": "An authoritative prohibition or decree",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The king's interdicts were obeyed by all the subjects.",
+            "sent2": "The interdicts from the council were taken very seriously.",
+            "sent3": "The interdicts against eating too much candy were ignored at the party.",
+            "sent4": "The interdicts of the judge were final and non-negotiable.",
+            "sent5": "The interdicts of the principal were posted on the school bulletin board."
         },
         {
             "definition": "A legal order restraining a person or entity",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The court issued an interdicts against the company's activities.",
+            "sent2": "The interdicts prevented the individual from leaving the country.",
+            "sent3": "The interdicts on the dog's barking made the neighborhood quiet.",
+            "sent4": "The interdicts on the construction site halted all work temporarily.",
+            "sent5": "The interdicts on the suspect's movements helped in the investigation."
         }
     ]
 }

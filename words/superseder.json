@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A person or thing that supersedes or replaces another.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The new manager became the superseder of the old one.",
+            "sent2": "The robot was designed to be a superseder for manual labor.",
+            "sent3": "The superhero's sidekick was a superseder of the villain's henchman.",
+            "sent4": "In the game of chess, the queen is the ultimate superseder of all other pieces.",
+            "sent5": "The crown prince was the designated superseder to the throne."
         },
         {
             "definition": "To replace or take the place of something or someone.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The digital clock will superseder the old analog one in the office.",
+            "sent2": "Technology continues to superseder traditional methods in many industries.",
+            "sent3": "The magician's trick seemed to superseder the laws of physics.",
+            "sent4": "The rising sun slowly supersedered the darkness of the night.",
+            "sent5": "The new software update will superseder the previous version."
         }
     ]
 }

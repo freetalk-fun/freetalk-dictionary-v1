@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A measure of the heaviness of an object.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The weight of the book was too much for the small child to carry.",
+            "sent2": "She checked the weight of the package before sending it.",
+            "sent3": "The weight of the situation made everyone laugh.",
+            "sent4": "The weight of responsibility on his shoulders was immense.",
+            "sent5": "The weight of the decision hung heavy in the air."
         },
         {
             "definition": "The force exerted on an object due to gravity.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The weight of the apple caused it to fall from the tree.",
+            "sent2": "The weight of the rock pulled it down to the ground.",
+            "sent3": "The weight of the balloon made it impossible to float.",
+            "sent4": "The weight of the anchor dragged the ship down.",
+            "sent5": "The weight of the planet kept the moon in orbit."
         },
         {
             "definition": "The amount or quantity of heaviness or mass.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The weight of the flour in the recipe was crucial.",
+            "sent2": "She measured the weight of the ingredients carefully.",
+            "sent3": "The weight of the elephant on the seesaw was unexpected.",
+            "sent4": "The weight of the snow on the roof caused it to collapse.",
+            "sent5": "The weight of the evidence convinced the jury."
         }
     ]
 }

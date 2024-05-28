@@ -3,23 +3,48 @@
     "meanings": [
         {
             "definition": "To such a great extent",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She wanted the toy so much that she saved up all her allowance.",
+            "sent2": "He ran so fast that he won the race easily.",
+            "sent3": "The ice cream was so tempting that she couldn't resist having a second scoop.",
+            "sent4": "His love for music was so deep that it flowed through every note he played.",
+            "sent5": "The mountain was so high that it seemed to touch the sky."
         },
         {
             "definition": "In the way or manner indicated",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "She walked so gracefully that everyone admired her.",
+            "sent2": "He spoke so softly that only those close to him could hear.",
+            "sent3": "The cat moved so stealthily that it caught the mouse by surprise.",
+            "sent4": "The wind howled so loudly that it drowned out all other sounds.",
+            "sent5": "The flowers bloomed so beautifully that they brightened up the whole garden."
         },
         {
             "definition": "Therefore",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "She forgot her umbrella, so she got wet in the rain.",
+            "sent2": "He studied hard, so he aced the exam.",
+            "sent3": "The cake was delicious, so they finished it in no time.",
+            "sent4": "The road was blocked, so they had to find an alternate route.",
+            "sent5": "The store was closed, so they went shopping elsewhere."
         },
         {
             "definition": "In order that",
-            "pos": "conjunction"
+            "pos": "conjunction",
+            "sent1": "She packed her bag early so she wouldn't forget anything.",
+            "sent2": "He set multiple alarms so he wouldn't oversleep.",
+            "sent3": "They left early so they could avoid the traffic.",
+            "sent4": "She saved money so she could buy a new bike.",
+            "sent5": "He practiced every day so he could improve his skills."
         },
         {
             "definition": "Very or extremely",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "She was so tired after the long hike.",
+            "sent2": "He was so happy to see his old friend.",
+            "sent3": "The movie was so boring that she fell asleep.",
+            "sent4": "The storm was so intense that it knocked down trees.",
+            "sent5": "The cake was so delicious that everyone asked for seconds."
         }
     ]
 }

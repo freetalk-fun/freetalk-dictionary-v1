@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A person sent or authorized to represent others, especially at a conference or meeting.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The delegates from different countries gathered to discuss important issues.",
+            "sent2": "The delegates voted on the new policy during the conference.",
+            "sent3": "The delegates had a lively debate about the best approach to solving the problem.",
+            "sent4": "She was like a delegate of peace, spreading harmony wherever she went.",
+            "sent5": "The delegates wore matching badges to show their unity."
         },
         {
             "definition": "To entrust a task or responsibility to another person.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He delegates the project to his capable team members.",
+            "sent2": "She always delegates the difficult tasks to her assistant.",
+            "sent3": "The boss decided to delegate the presentation to the new employee for practice.",
+            "sent4": "Delegating tasks effectively can lead to better time management.",
+            "sent5": "The teacher delegates different roles to students for group projects."
         },
         {
             "definition": "To assign or transfer power or authority to someone else.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The manager delegates decision-making authority to his team leaders.",
+            "sent2": "The president delegates certain responsibilities to the vice president.",
+            "sent3": "The king jokingly delegates his royal duties to his pet cat.",
+            "sent4": "She delegates the responsibility of organizing the event to her friend.",
+            "sent5": "Delegating authority can empower others to take initiative."
         }
     ]
 }

@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A person who rides horses in races.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The jocky rode the horse swiftly around the track.",
+            "sent2": "The jocky won the race by a close margin.",
+            "sent3": "The jocky and the horse made a great team on the racetrack.",
+            "sent4": "The jocky guided the horse like a skilled captain navigating a ship.",
+            "sent5": "The jocky's determination and skill shone brightly during the race."
         },
         {
             "definition": "To manipulate or maneuver something skillfully.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She tried to jocky the pieces into place on the puzzle.",
+            "sent2": "He jockied the car into the tight parking spot.",
+            "sent3": "The magician jockied the cards with finesse during the trick.",
+            "sent4": "She jockied her way through the crowded room to reach the exit.",
+            "sent5": "He jockied the conversation towards a more positive topic."
         },
         {
             "definition": "A person who is skilled in a particular activity or sport.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The chess jocky was unbeatable in every match.",
+            "sent2": "She was known as the swimming jocky in her school.",
+            "sent3": "The cooking jocky whipped up a delicious meal in no time.",
+            "sent4": "He was a jocky in the art of negotiation, always getting the best deals.",
+            "sent5": "The coding jocky could solve any programming problem thrown at them."
         }
     ]
 }

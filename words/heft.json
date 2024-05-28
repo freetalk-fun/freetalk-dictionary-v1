@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "The weight of something",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The heft of the book surprised the child.",
+            "sent2": "She felt the heft of the rock in her hand.",
+            "sent3": "The heft of the balloon made it impossible to float.",
+            "sent4": "The heft of responsibility weighed heavily on his shoulders.",
+            "sent5": "The heft of the hammer made it perfect for driving nails."
         },
         {
             "definition": "To lift or carry something heavy",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He tried to heft the box onto the shelf.",
+            "sent2": "She hefted the bag of groceries with ease.",
+            "sent3": "The little dog tried to heft the large bone.",
+            "sent4": "She hefted the burden of her mistakes with determination.",
+            "sent5": "He hefted the weight of his decision before making a choice."
         },
         {
             "definition": "To assess the weight of something by lifting it",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He paused to heft the watermelon before buying it.",
+            "sent2": "She hefted the suitcase to see if it was too heavy.",
+            "sent3": "The chef hefted the melon, trying to guess its ripeness.",
+            "sent4": "She hefted the package, feeling its contents shift.",
+            "sent5": "He hefted the axe, testing its balance before chopping wood."
         }
     ]
 }

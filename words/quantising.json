@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To restrict the number of possible values of a quantity, especially to a discrete set of values.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She is quantising the data to make it easier to analyze.",
+            "sent2": "The scientist is quantising the measurements to simplify the calculations.",
+            "sent3": "By quantising the options, she made the decision-making process more straightforward.",
+            "sent4": "Quantising the choices was like putting them into neat little boxes.",
+            "sent5": "The teacher quantised the grading system to make it fair for all students."
         },
         {
             "definition": "To approximate a continuous signal by a series of discrete values.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The computer is quantising the audio signal for better transmission.",
+            "sent2": "Quantising the image helped reduce the file size without losing quality.",
+            "sent3": "He joked that quantising his thoughts would make them easier to understand.",
+            "sent4": "Quantising the music was like turning a smooth melody into distinct notes.",
+            "sent5": "The artist quantised the colors in the painting to create a pixelated effect."
         }
     ]
 }

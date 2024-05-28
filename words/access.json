@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "The ability or right to approach, enter, or use something.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "She was granted access to the exclusive club.",
+            "sent2": "The keycard provides access to the building.",
+            "sent3": "Trying to access the cookie jar on the top shelf, the cat knocked it over.",
+            "sent4": "Her smile was the key that granted her access to his heart.",
+            "sent5": "The treasure map revealed the secret access to the hidden cave."
         },
         {
             "definition": "The means or opportunity to approach or enter a place or use something.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The bridge provides access to the other side of the river.",
+            "sent2": "The password gives you access to the online account.",
+            "sent3": "The squirrel found a clever way to access the bird feeder.",
+            "sent4": "His charm was the access to her inner circle of friends.",
+            "sent5": "The secret code granted them access to the underground bunker."
         },
         {
             "definition": "The act of obtaining or retrieving information or data from a computer or other source.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "He needed access to the database for his research.",
+            "sent2": "The login credentials allow access to the network.",
+            "sent3": "The cat walked across the keyboard, accidentally granting access to the files.",
+            "sent4": "Her intuition was the key to accessing the truth hidden in the data.",
+            "sent5": "The hacker used a backdoor to gain unauthorized access to the system."
         }
     ]
 }

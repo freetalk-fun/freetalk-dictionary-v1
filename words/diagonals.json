@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A straight line that connects two nonadjacent vertices of a polygon.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The diagonals of the shape intersect at the center.",
+            "sent2": "She drew the diagonals of the square to find its center.",
+            "sent3": "The mischievous cat walked along the diagonals of the rug, leaving paw prints everywhere.",
+            "sent4": "His path through the forest resembled the diagonals of a complex maze.",
+            "sent5": "The artist used bold strokes to represent the diagonals in her painting."
         },
         {
             "definition": "A line segment that joins two opposite corners of a square, rectangle, or other geometric shape.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The diagonals of the rectangle were equal in length.",
+            "sent2": "He measured the diagonals of the square to check for symmetry.",
+            "sent3": "The mischievous cat stretched out lazily along the diagonals of the rug.",
+            "sent4": "The road ahead seemed to stretch out like endless diagonals in the distance.",
+            "sent5": "The sunlight cast long shadows along the diagonals of the fence."
         }
     ]
 }

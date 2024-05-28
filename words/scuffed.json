@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To scrape or scratch a surface",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She scuffed the floor while moving the heavy furniture.",
+            "sent2": "The children scuffed their shoes while playing in the park.",
+            "sent3": "He scuffed the table accidentally while trying to rearrange the room.",
+            "sent4": "The cat scuffed the door with its claws, leaving marks behind.",
+            "sent5": "The worker scuffed the wall while carrying the ladder, leaving a visible scratch."
         },
         {
             "definition": "Worn or damaged from use",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The scuffed shoes showed signs of frequent walks in the woods.",
+            "sent2": "The scuffed edges of the book indicated it was well-loved.",
+            "sent3": "Her scuffed bag looked like it had been on many adventures.",
+            "sent4": "The scuffed paint on the old car gave it a rustic charm.",
+            "sent5": "The scuffed corners of the table revealed its age and history."
         },
         {
             "definition": "To drag one's feet while walking",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The tired hiker scuffed along the trail, eager to reach the campsite.",
+            "sent2": "The student scuffed his feet as he walked to the front of the class to present.",
+            "sent3": "She scuffed her way through the sand, leaving a trail behind her.",
+            "sent4": "The dog scuffed along the sidewalk, sniffing at every corner.",
+            "sent5": "The toddler scuffed happily in his new shoes, enjoying the sound it made."
         }
     ]
 }

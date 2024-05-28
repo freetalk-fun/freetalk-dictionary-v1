@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Used as a greeting or to attract someone's attention.",
-            "pos": "interjection"
+            "pos": "interjection",
+            "sent1": "Yo! How are you?",
+            "sent2": "Yo, what's up?",
+            "sent3": "Yo, did you see that bird?",
+            "sent4": "Yo, the sun is shining so brightly!",
+            "sent5": "Yo, listen carefully to what I'm about to say."
         },
         {
             "definition": "A slang term for 'you'.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Hey, yo, can you pass me that book?",
+            "sent2": "I need yo help with this math problem.",
+            "sent3": "Yo, where did yo go?",
+            "sent4": "Yo, you're the best friend ever!",
+            "sent5": "Yo, I appreciate yo kindness."
         },
         {
             "definition": "An exclamation of excitement or approval.",
-            "pos": "interjection"
+            "pos": "interjection",
+            "sent1": "Yo! That movie was amazing!",
+            "sent2": "Yo, that's awesome news!",
+            "sent3": "Yo, I just won a prize!",
+            "sent4": "Yo, the party was so much fun!",
+            "sent5": "Yo, I can't believe how good that cake tastes!"
         }
     ]
 }

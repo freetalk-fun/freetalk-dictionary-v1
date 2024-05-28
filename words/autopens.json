@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A device that automatically signs a person's name.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The autopens quickly signed the documents for the busy CEO.",
+            "sent2": "The autopens on the desk made signing papers much faster.",
+            "sent3": "The autopens decided to have a signing race just for fun.",
+            "sent4": "The autopens worked tirelessly, like a team of dedicated assistants.",
+            "sent5": "The autopens hummed as they efficiently signed each paper."
         },
         {
             "definition": "To sign one's name automatically using a machine.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She autopens her signature on all the letters before sending them out.",
+            "sent2": "He autopens the checks to save time during the busy season.",
+            "sent3": "The machine autopens with precision, never missing a beat.",
+            "sent4": "Her hand autopens the cards, but her heart adds a personal touch.",
+            "sent5": "The robot autopens with mechanical precision, never faltering."
         }
     ]
 }

@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A sequence of three nucleotides in a transfer RNA molecule that pairs with a complementary codon in messenger RNA during protein synthesis.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The anticodon helps the transfer RNA match with the messenger RNA.",
+            "sent2": "During protein synthesis, the anticodon finds its match in the messenger RNA.",
+            "sent3": "The anticodon and codon danced together in the protein synthesis party.",
+            "sent4": "Like a key fitting into a lock, the anticodon perfectly pairs with the messenger RNA codon.",
+            "sent5": "The anticodon acts like a puzzle piece, completing the messenger RNA sequence."
         },
         {
             "definition": "A specific sequence of three nucleotides in a transfer RNA molecule that corresponds to a specific amino acid.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Each anticodon is like a secret code for a specific amino acid.",
+            "sent2": "Scientists study how each anticodon links to a particular amino acid.",
+            "sent3": "The anticodon threw a party for its amino acid friends.",
+            "sent4": "In the language of proteins, the anticodon whispers the amino acid it represents.",
+            "sent5": "The anticodon acts as a messenger, delivering the amino acid message accurately."
         }
     ]
 }

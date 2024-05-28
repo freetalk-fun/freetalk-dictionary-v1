@@ -3,19 +3,39 @@
     "meanings": [
         {
             "definition": "A connection between two things.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The link between the two gears allowed them to turn together.",
+            "sent2": "The missing link in the investigation helped solve the case.",
+            "sent3": "The broken link in the chain caused the swing to fall down.",
+            "sent4": "Their friendship was like a strong link in a chain, unbreakable and reliable.",
+            "sent5": "The link between the teacher and student was evident in their close bond."
         },
         {
             "definition": "A ring or loop in a chain.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The shiny link on the necklace caught her eye.",
+            "sent2": "The weak link in the chain snapped under pressure.",
+            "sent3": "He pretended the link on his bracelet was a magic ring.",
+            "sent4": "The link in the chain held the swing securely in place.",
+            "sent5": "The link on the bracelet symbolized their eternal friendship."
         },
         {
             "definition": "To connect or join together.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I will link the two chains to make a longer one.",
+            "sent2": "The bridge will link the two towns across the river.",
+            "sent3": "She tried to link the puzzle pieces together, but some were missing.",
+            "sent4": "Their shared love for music linked them as friends for life.",
+            "sent5": "The internet helps link people from all around the world."
         },
         {
             "definition": "A URL or hyperlink on a webpage.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Click on the link to visit the website.",
+            "sent2": "The article had a broken link that led to an error page.",
+            "sent3": "She followed the link to a funny cat video.",
+            "sent4": "The link on the webpage directed users to the online store.",
+            "sent5": "The important link on the website led to valuable information."
         }
     ]
 }

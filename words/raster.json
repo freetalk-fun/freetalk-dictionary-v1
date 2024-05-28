@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A pattern of scanning lines that form the basis of a digital image.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The computer displayed the image using a raster of lines.",
+            "sent2": "The photograph was converted into a digital raster for editing.",
+            "sent3": "The artist joked that their painting looked like a colorful raster of lines.",
+            "sent4": "Her mind felt like a jumbled raster of thoughts, hard to make sense of.",
+            "sent5": "The teacher used a clear raster to explain how pixels create images."
         },
         {
             "definition": "A set of pixels arranged in a grid to represent an image.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The screen showed a detailed raster of tiny squares forming the picture.",
+            "sent2": "The graphic designer worked on adjusting the color values of the raster.",
+            "sent3": "The puzzle pieces fit together like a perfect raster of pixels.",
+            "sent4": "His memory was like a fragmented raster of images, hard to piece together.",
+            "sent5": "The artist carefully arranged each pixel in the raster to create a masterpiece."
         },
         {
             "definition": "To scan or convert an image into a raster format.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She needed to raster the old photograph to preserve it digitally.",
+            "sent2": "The software allowed users to easily raster images for online use.",
+            "sent3": "He decided to raster his sketches to share them with friends online.",
+            "sent4": "The scanner quickly rastered the document into a digital file.",
+            "sent5": "The photographer had to raster the film negatives to view the pictures on a computer."
         }
     ]
 }

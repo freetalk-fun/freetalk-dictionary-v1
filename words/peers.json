@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A person of the same age, status, or ability as another.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "My peers in class are my friends who are the same age as me.",
+            "sent2": "She enjoys playing games with her peers during recess.",
+            "sent3": "At the party, my peers and I all wore silly hats for fun.",
+            "sent4": "In the competition, he stood out among his peers like a shining star.",
+            "sent5": "During the field trip, my peers and I explored the forest together."
         },
         {
             "definition": "To look keenly or with difficulty at someone or something.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She peers through the window to see if her friend has arrived.",
+            "sent2": "The detective peers closely at the evidence to solve the case.",
+            "sent3": "The curious cat peers at the fish swimming in the bowl.",
+            "sent4": "The hiker peers into the distance, trying to spot the mountain peak.",
+            "sent5": "The scientist peers into the microscope to observe tiny cells."
         }
     ]
 }

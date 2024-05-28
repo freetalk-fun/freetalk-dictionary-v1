@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Employed for wages or salary",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The happy worker was hired to help with the job.",
+            "sent2": "The hired chef cooked delicious meals for the restaurant.",
+            "sent3": "The hired clown made everyone laugh at the party.",
+            "sent4": "The hired painter turned the plain walls into a colorful masterpiece.",
+            "sent5": "The hired gardener transformed the backyard into a beautiful garden."
         },
         {
             "definition": "Obtained the services of someone in return for payment",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The company hired a new employee to join the team.",
+            "sent2": "They hired a plumber to fix the leaky faucet in the kitchen.",
+            "sent3": "We hired a magician for the birthday party entertainment.",
+            "sent4": "The director hired talented actors for the upcoming movie.",
+            "sent5": "She hired a tutor to help her improve her math skills."
         }
     ]
 }

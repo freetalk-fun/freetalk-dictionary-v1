@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Not likely to give way or overturn; firmly fixed.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The table is stable on the floor.",
+            "sent2": "The chair felt stable under me.",
+            "sent3": "The stable tree refused to budge in the wind.",
+            "sent4": "Her stable personality kept the group calm.",
+            "sent5": "The old bridge stood stable despite the storm."
         },
         {
             "definition": "A building in which horses are kept.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The horses are in the stable.",
+            "sent2": "The stable smells like hay and animals.",
+            "sent3": "The stable was so full of horses, it looked like a zoo!",
+            "sent4": "The stable was a sanctuary for the tired horses.",
+            "sent5": "The stable door creaked open as the horses neighed."
         }
     ]
 }

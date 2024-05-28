@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Having a margin or border.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The marginated page had a colorful border around it.",
+            "sent2": "The notebook had marginated lines for writing.",
+            "sent3": "The marginated picture frame added a nice touch to the room.",
+            "sent4": "The marginated edge of the table resembled a picture frame.",
+            "sent5": "The marginated border made the document look more professional."
         },
         {
             "definition": "Marked with a margin.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The marginated paper had a clear boundary on all sides.",
+            "sent2": "The marginated book had space for notes on the sides.",
+            "sent3": "The marginated map helped us stay on track during the hike.",
+            "sent4": "The marginated field looked like a neatly organized grid from above.",
+            "sent5": "The marginated border highlighted the important information."
         },
         {
             "definition": "To provide with a margin.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She marginated the document before printing it.",
+            "sent2": "The teacher asked us to marginate our essays for better readability.",
+            "sent3": "He marginated the poster to make it stand out on the wall.",
+            "sent4": "The designer marginated the logo to give it a clean look.",
+            "sent5": "They marginated the text to ensure it fit neatly on the page."
         }
     ]
 }

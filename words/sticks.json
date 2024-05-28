@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A thin piece of wood that is used for various purposes.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I gathered some sticks to build a small fire in the backyard.",
+            "sent2": "The children played with sticks they found on the ground.",
+            "sent3": "The squirrel used a stick as a tool to reach the nuts on the tree.",
+            "sent4": "The artist used sticks to create a beautiful sculpture in the park.",
+            "sent5": "The sound of the wind rustling through the sticks in the forest was calming."
         },
         {
             "definition": "To adhere or cling to something.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The tape sticks to the paper to keep it in place.",
+            "sent2": "The wet shirt sticks to my skin after swimming.",
+            "sent3": "The label sticks to the jar even after multiple washes.",
+            "sent4": "Her words of encouragement always stick with me during tough times.",
+            "sent5": "The memory of that day sticks in my mind like a stubborn stain."
         },
         {
             "definition": "To put or place something in a particular location.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She sticks the note on the fridge to remind herself.",
+            "sent2": "He sticks the key in the lock and turns it to open the door.",
+            "sent3": "The chef sticks a toothpick in the cake to check if it's done.",
+            "sent4": "The gardener sticks the plant in the soil gently to avoid damaging the roots.",
+            "sent5": "The teacher sticks the star sticker on the student's homework as a reward."
         }
     ]
 }

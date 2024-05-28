@@ -3,19 +3,39 @@
     "meanings": [
         {
             "definition": "The edge or border of something.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "She drew a line along the margin of the paper.",
+            "sent2": "The cat walked along the margin of the garden.",
+            "sent3": "The squirrel peeked over the margin of the tree trunk.",
+            "sent4": "The waves crashed against the margin of the cliff.",
+            "sent5": "The margin of the lake sparkled in the sunlight."
         },
         {
             "definition": "An amount by which something is won or falls short.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "He won the game by a small margin.",
+            "sent2": "The team lost by a narrow margin.",
+            "sent3": "The margin of victory was unexpected.",
+            "sent4": "She missed the target by a wide margin.",
+            "sent5": "The margin of error was too high for accurate results."
         },
         {
             "definition": "The difference between the cost and the selling price of a product.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The company's profit margin increased this quarter.",
+            "sent2": "The margin on that product is very low.",
+            "sent3": "She calculated the margin for the new product.",
+            "sent4": "The margin for negotiation is slim.",
+            "sent5": "The margin for error in pricing must be minimized."
         },
         {
             "definition": "A blank space around the text on a page.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "She wrote notes in the margin of her textbook.",
+            "sent2": "The teacher made comments in the margin of the essay.",
+            "sent3": "The margin of the page was filled with doodles.",
+            "sent4": "He scribbled in the margin of the notebook.",
+            "sent5": "The margin of the document was left blank for additional notes."
         }
     ]
 }

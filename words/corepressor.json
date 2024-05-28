@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A substance that inhibits the expression of a gene.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The corepressor prevented the gene from being active.",
+            "sent2": "Scientists discovered a new corepressor that stops gene activity.",
+            "sent3": "The corepressor decided to take a break and stop the gene from working.",
+            "sent4": "Like a gatekeeper, the corepressor blocked the gene's expression.",
+            "sent5": "The corepressor acted like a gene traffic controller, halting its activity."
         },
         {
             "definition": "A protein that binds to a repressor and enhances its ability to bind to DNA.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The corepressor protein helped the repressor bind to DNA more effectively.",
+            "sent2": "Researchers identified a new corepressor that boosts DNA binding.",
+            "sent3": "The corepressor protein and the repressor teamed up to conquer DNA binding.",
+            "sent4": "Like a DNA magnet, the corepressor protein attracted the repressor.",
+            "sent5": "The corepressor protein acted as a DNA-binding assistant to the repressor."
         },
         {
             "definition": "A molecule that regulates gene expression by binding to a repressor protein.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The molecule acted as a corepressor, controlling gene expression through repressor binding.",
+            "sent2": "A specific corepressor molecule was found to modulate gene expression by binding to the repressor.",
+            "sent3": "The molecule corepressor and the repressor protein danced together to regulate gene expression.",
+            "sent4": "Like a gene conductor, the corepressor molecule directed the repressor in gene expression.",
+            "sent5": "The corepressor molecule functioned as a gene expression manager by binding to the repressor."
         }
     ]
 }

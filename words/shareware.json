@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Software that is distributed free of charge but requires payment for full use.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I downloaded some shareware to try out before deciding if I want to buy it.",
+            "sent2": "Many developers rely on shareware to make a living in the software industry.",
+            "sent3": "The shareware was like a sneak peek into the full version of the program.",
+            "sent4": "Using shareware is like tasting a sample before committing to the whole meal.",
+            "sent5": "The concept of shareware is similar to borrowing a book from the library."
         },
         {
             "definition": "To distribute software on a trial basis for free.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Developers often shareware their programs to attract more users.",
+            "sent2": "I will shareware the new app to gather feedback before the official release.",
+            "sent3": "He decided to shareware his game to build a community of players.",
+            "sent4": "She plans to shareware the software to gauge interest from potential customers.",
+            "sent5": "The company will shareware the application to test its functionality with a wider audience."
         }
     ]
 }

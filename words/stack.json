@@ -3,19 +3,39 @@
     "meanings": [
         {
             "definition": "A pile of objects placed one on top of another.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I saw a tall stack of books in the library.",
+            "sent2": "The stack of plates on the table was wobbling.",
+            "sent3": "The squirrel tried to build a stack of acorns taller than itself.",
+            "sent4": "Her achievements were like a stack of trophies, each one representing a milestone.",
+            "sent5": "The stack of colorful blocks looked like a mini tower."
         },
         {
             "definition": "A large quantity or number of something.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "There was a huge stack of paperwork on his desk.",
+            "sent2": "The stack of presents under the tree was impressive.",
+            "sent3": "She had a stack of unread books waiting for her attention.",
+            "sent4": "The stack of invitations for the event seemed never-ending.",
+            "sent5": "The stack of pancakes was taller than the plate."
         },
         {
             "definition": "To arrange objects in a pile.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Please stack the chairs neatly against the wall.",
+            "sent2": "He asked the kids to stack the building blocks after playing.",
+            "sent3": "The magician could stack cups in a way that seemed impossible.",
+            "sent4": "She managed to stack the logs for the campfire with precision.",
+            "sent5": "The chef would stack the plates in a pyramid shape before serving."
         },
         {
             "definition": "To arrange data in a specific order in computer memory.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The programmer needed to stack the code for better organization.",
+            "sent2": "It is important to stack the files correctly for easy access.",
+            "sent3": "The computer expert could stack data in a way that saved time.",
+            "sent4": "She would stack the images in the folder according to their size.",
+            "sent5": "The software allowed users to stack photos based on dates."
         }
     ]
 }

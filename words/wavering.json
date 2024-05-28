@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To sway to and fro",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The tree was wavering in the wind.",
+            "sent2": "She watched the flag wavering in the breeze.",
+            "sent3": "The wavering tree looked like it was dancing.",
+            "sent4": "His voice wavered like a candle flame in the wind.",
+            "sent5": "The boat's mast was wavering as the waves crashed against it."
         },
         {
             "definition": "To show indecision or hesitation",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He was wavering between two choices.",
+            "sent2": "She could see him wavering before making a decision.",
+            "sent3": "His wavering made everyone laugh at the meeting.",
+            "sent4": "Her confidence wavered like a flickering light.",
+            "sent5": "The student's wavering made it hard for him to choose a topic for his essay."
         },
         {
             "definition": "Unsteady or shaky in movement or opinion",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The old bridge was wavering under their weight.",
+            "sent2": "Her wavering belief in ghosts made her skeptical.",
+            "sent3": "The wavering table leg caused the glass to spill.",
+            "sent4": "His wavering commitment to the project was evident.",
+            "sent5": "The politician's wavering stance on the issue confused the voters."
         }
     ]
 }

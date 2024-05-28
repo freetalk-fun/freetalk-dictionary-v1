@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To determine or calculate something",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She computed the total cost of the groceries in her cart.",
+            "sent2": "The students computed the answer to the math problem together.",
+            "sent3": "He computed the number of balloons needed for the party and realized he had way too many.",
+            "sent4": "Her mind computed the risks involved before making a decision.",
+            "sent5": "The computer computed the fastest route to the destination."
         },
         {
             "definition": "To estimate or figure out something",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The detective computed the time of death based on the evidence.",
+            "sent2": "I computed that we would need at least ten more chairs for the event.",
+            "sent3": "She computed the number of jellybeans in the jar and was off by a mile.",
+            "sent4": "His heart computed the depth of his feelings for her.",
+            "sent5": "The old man computed the distance to the nearest town in his head."
         },
         {
             "definition": "To process data using a computer",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The supercomputer computed complex algorithms in seconds.",
+            "sent2": "The company computed the sales data to analyze the trends.",
+            "sent3": "The computer computed so fast, it seemed like magic to the little girl.",
+            "sent4": "Her brain computed the information at lightning speed.",
+            "sent5": "The machine computed the weather forecast for the week ahead."
         }
     ]
 }

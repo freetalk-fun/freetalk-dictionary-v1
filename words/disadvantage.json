@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "An unfavorable condition or circumstance that puts one at a disadvantage.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Having a disadvantage in height made it hard for him to reach the top shelf.",
+            "sent2": "She felt the disadvantage of not having studied for the test.",
+            "sent3": "It was a disadvantage for the tortoise to challenge the hare to a race.",
+            "sent4": "The lack of sleep was a heavy disadvantage during the important presentation.",
+            "sent5": "The broken leg was a visible disadvantage during the soccer match."
         },
         {
             "definition": "To cause harm or loss to.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He didn't want to disadvantage his team by making a careless mistake.",
+            "sent2": "The storm could disadvantage the crops if it continues for too long.",
+            "sent3": "She didn't mean to disadvantage her friend by forgetting their plans.",
+            "sent4": "The sudden change in weather could disadvantage the outdoor event.",
+            "sent5": "The delay in delivery would disadvantage the customer waiting for their package."
         }
     ]
 }

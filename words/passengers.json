@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A person who is traveling in a vehicle, such as a car, bus, or train.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The passengers on the bus chatted happily during the journey.",
+            "sent2": "The train conductor announced the arrival of the passengers at the station.",
+            "sent3": "The passengers on the carpool made jokes to pass the time.",
+            "sent4": "The passengers in the taxi shared stories of their day.",
+            "sent5": "The passengers in the crowded subway held onto the handrails tightly."
         },
         {
             "definition": "A person who is traveling on a ship or airplane.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The passengers on the cruise ship enjoyed the ocean view.",
+            "sent2": "The flight attendant welcomed the passengers aboard the plane.",
+            "sent3": "The passengers on the yacht waved at passing boats playfully.",
+            "sent4": "The passengers on the airplane felt the turbulence during the storm.",
+            "sent5": "The passengers on the hot air balloon marveled at the landscape below."
         }
     ]
 }

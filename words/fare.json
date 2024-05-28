@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "The money a passenger on public transportation has to pay.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I paid my fare for the bus ride.",
+            "sent2": "The fare for the train journey was reasonable.",
+            "sent3": "The fare for the ferry was so high, I almost swam across!",
+            "sent4": "Her fare for the taxi ride was like a small fortune.",
+            "sent5": "The fare for the subway was etched in my memory."
         },
         {
             "definition": "To perform in a specified way in a particular situation.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She will fare well in the upcoming exam.",
+            "sent2": "How did the team fare in the match?",
+            "sent3": "I wonder how the magician will fare with his new trick.",
+            "sent4": "The seedlings fared poorly in the dry soil.",
+            "sent5": "The ship fared through the storm bravely."
         },
         {
             "definition": "To get along or succeed.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I hope you fare better in your next attempt.",
+            "sent2": "How did the new student fare on the first day?",
+            "sent3": "The cat fared well with its new toy.",
+            "sent4": "The business fared profitably in the first quarter.",
+            "sent5": "She fared through the challenges with determination."
         }
     ]
 }

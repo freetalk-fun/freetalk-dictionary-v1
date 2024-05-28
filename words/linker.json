@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A person or thing that links.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The linker between the two chains was a small metal ring.",
+            "sent2": "The bridge acted as a linker between the two towns.",
+            "sent3": "The linker, a friendly squirrel, helped connect the forest to the meadow.",
+            "sent4": "Her smile was the linker that brought everyone together in the room.",
+            "sent5": "The old, rusty key served as the linker to unlock the mysterious chest."
         },
         {
             "definition": "A computer program that links one part of a program to another.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The linker software seamlessly connected the different modules of the application.",
+            "sent2": "The programmer used the linker to combine the code files into a single executable program.",
+            "sent3": "The linker program, named 'BridgeBuilder', was known for its efficiency.",
+            "sent4": "The linker acted like a magical thread weaving through the code, binding it all together.",
+            "sent5": "With a click of a button, the linker merged the code components into a functional software."
         }
     ]
 }

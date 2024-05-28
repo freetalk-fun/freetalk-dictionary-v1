@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To cause (a train or tram) to leave its tracks accidentally.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The heavy rain derailed the old train.",
+            "sent2": "The train derailed due to a broken track.",
+            "sent3": "The mischievous squirrel derailed the toy train set.",
+            "sent4": "Her sudden outburst derailed the meeting's progress.",
+            "sent5": "The unexpected news derailed his plans for the weekend."
         },
         {
             "definition": "To cause (a process or plan) to fail or go off course.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The last-minute changes derailed the project timeline.",
+            "sent2": "The financial crisis derailed their expansion plans.",
+            "sent3": "The noisy construction work derailed her concentration.",
+            "sent4": "His lack of preparation derailed the presentation.",
+            "sent5": "The sudden power outage derailed the online meeting."
         },
         {
             "definition": "To go off course or deviate from the original path.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The hiker derailed from the trail and got lost.",
+            "sent2": "The conversation derailed into a heated argument.",
+            "sent3": "The comedian's joke derailed into an unexpected punchline.",
+            "sent4": "Her mind derailed from the task at hand to future plans.",
+            "sent5": "The discussion derailed from the main topic to personal stories."
         }
     ]
 }

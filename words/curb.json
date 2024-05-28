@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A concrete border along the edge of a street.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The curb marked the boundary between the road and the sidewalk.",
+            "sent2": "She tripped on the curb while walking down the street.",
+            "sent3": "The curb seemed to challenge the skateboarder to jump over it.",
+            "sent4": "The curb stood like a silent guardian at the edge of the pavement.",
+            "sent5": "The bright yellow paint on the curb made it easy to spot from afar."
         },
         {
             "definition": "To restrain or control.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Please curb your enthusiasm during the meeting.",
+            "sent2": "He tried to curb his anger before speaking.",
+            "sent3": "The teacher had to curb the students' excitement about the upcoming field trip.",
+            "sent4": "She struggled to curb her impulse to buy more shoes.",
+            "sent5": "The coach worked hard to curb the team's tendency to argue on the field."
         },
         {
             "definition": "A check or restraint on something.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The new regulations acted as a curb on excessive spending.",
+            "sent2": "The curb on sugar intake helped improve his health.",
+            "sent3": "The curb on screen time for kids led to more outdoor activities.",
+            "sent4": "His fear of failure acted as a curb on his ambition.",
+            "sent5": "The strict deadline served as a curb on procrastination."
         }
     ]
 }

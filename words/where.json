@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "In or at what place.",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "Tell me where you live.",
+            "sent2": "I wonder where the keys are.",
+            "sent3": "Let's play a game where we hide and seek.",
+            "sent4": "Her eyes darted around, searching for where the noise came from.",
+            "sent5": "The treasure map led them to where the X marked the spot."
         },
         {
             "definition": "To what place or position.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Please show me where to put the book.",
+            "sent2": "I need to know where to find the nearest gas station.",
+            "sent3": "He asked the GPS where to turn next.",
+            "sent4": "She followed the map to where the buried treasure was hidden.",
+            "sent5": "The guide pointed out where to stand for the best view."
         },
         {
             "definition": "In what situation or position.",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "She was unsure where she stood in the competition.",
+            "sent2": "I don't know where I fit in this group.",
+            "sent3": "The cat looked confused, not sure where to jump next.",
+            "sent4": "His mind wandered to where he belonged in the grand scheme of things.",
+            "sent5": "The puzzle piece didn't know where it completed the picture."
         }
     ]
 }

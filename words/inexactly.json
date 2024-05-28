@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Not precisely or accurately",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "She answered the question inexactly, giving a rough estimate.",
+            "sent2": "He painted the picture inexactly, but it still captured the essence of the scene.",
+            "sent3": "The robot tried to mimic human emotions inexactly, resulting in some comical expressions.",
+            "sent4": "Her memory of the event was like a faded photograph, capturing only the main outlines inexactly.",
+            "sent5": "The old map showed the location of the treasure inexactly, leading the adventurers on a wild goose chase."
         },
         {
             "definition": "In a way that is not completely correct or detailed",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "The instructions were written inexactly, causing confusion among the students.",
+            "sent2": "He recounted the story inexactly, mixing up the characters' names.",
+            "sent3": "The comedian delivered the punchline inexactly, turning a joke into a confusing mess.",
+            "sent4": "Her explanation of the scientific theory was like a broken compass, pointing inexactly in all directions.",
+            "sent5": "The detective's theory about the crime pointed inexactly at the wrong suspect, leading to a wrongful arrest."
         }
     ]
 }

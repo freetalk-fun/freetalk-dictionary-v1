@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Marshy or swampy land.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The explorers trudged through the marish, their boots sinking into the wet ground.",
+            "sent2": "The wildlife in the marish thrived in the damp environment.",
+            "sent3": "The picnic in the marish turned into a soggy affair after the rain started.",
+            "sent4": "The marish stretched out before them like a vast, watery maze.",
+            "sent5": "The smell of decay hung heavy in the air of the marish."
         },
         {
             "definition": "Resembling or characteristic of a marsh.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The painter captured the marish landscape with its tall reeds and murky waters.",
+            "sent2": "The air was thick and humid, giving the room a marish feel.",
+            "sent3": "The marish color of the walls made the room seem cozy and inviting.",
+            "sent4": "Her hair was tangled and wild, like a marish thicket.",
+            "sent5": "The marish scent of the candle brought back memories of childhood adventures."
         },
         {
             "definition": "To make marshy or swampy.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The heavy rain would marish the once dry field, turning it into a muddy mess.",
+            "sent2": "The construction of the dam inadvertently marished the surrounding area.",
+            "sent3": "She playfully threatened to marish the garden by overwatering the plants.",
+            "sent4": "The floodwaters marished the landscape, leaving behind a scene of destruction.",
+            "sent5": "The developer's actions marished the natural beauty of the valley."
         }
     ]
 }

@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A statement or assertion made by someone.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "In the meeting, his dixit settled the debate.",
+            "sent2": "Her dixit was taken as the final decision.",
+            "sent3": "The cat's dixit was that it wanted more treats.",
+            "sent4": "His dixit echoed through the courtroom, silencing all.",
+            "sent5": "The teacher's dixit was to study for the upcoming test."
         },
         {
             "definition": "He/she said.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She dixit she would be late for the party.",
+            "sent2": "He dixit he needed more time to finish the project.",
+            "sent3": "The dog dixit it was time for a walk.",
+            "sent4": "The wind dixit secrets to the trees.",
+            "sent5": "The stars dixit stories to the night sky."
         }
     ]
 }

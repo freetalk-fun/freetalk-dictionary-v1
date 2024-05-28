@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To strike or propel with the foot",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He kicked the ball into the goal.",
+            "sent2": "She kicked the door to open it.",
+            "sent3": "The cat kicked the toy mouse around playfully.",
+            "sent4": "The wind kicked up the fallen leaves in swirls.",
+            "sent5": "The dancer kicked her leg high in the air during the performance."
         },
         {
             "definition": "To move or push with force",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The horse kicked its legs to run faster.",
+            "sent2": "He kicked the car to get it started.",
+            "sent3": "The child kicked the swing higher and higher.",
+            "sent4": "The storm kicked the waves against the shore.",
+            "sent5": "She kicked the rock out of the way with determination."
         },
         {
             "definition": "To end abruptly or forcefully",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The movie suddenly kicked off with an exciting scene.",
+            "sent2": "The meeting kicked out sooner than expected.",
+            "sent3": "His plan to surprise her kicked in perfectly.",
+            "sent4": "The engine kicked in just in time to save the day.",
+            "sent5": "The alarm kicked on, waking everyone up in a rush."
         }
     ]
 }

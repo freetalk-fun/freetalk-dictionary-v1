@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A scalar value that represents a characteristic of a matrix or operator.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The eigenvalue of the matrix determines its behavior.",
+            "sent2": "Mathematicians often study eigenvalues in linear algebra.",
+            "sent3": "Why did the matrix break up with the eigenvalue? It couldn't handle its scalar attitude!",
+            "sent4": "The eigenvalue is like the DNA of the matrix, defining its unique traits.",
+            "sent5": "Visualizing the eigenvalue as the matrix's fingerprint helps understand its identity."
         },
         {
             "definition": "A value for which a nontrivial solution exists to a linear equation involving a matrix or operator.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Finding the eigenvalue is crucial for solving the equation.",
+            "sent2": "The eigenvalue provides insight into the matrix's properties.",
+            "sent3": "The matrix and the eigenvalue went to couples therapy to solve their equation issues.",
+            "sent4": "In the world of matrices, the eigenvalue is the key that unlocks solutions.",
+            "sent5": "The eigenvalue is like a secret code that reveals the matrix's hidden solutions."
         }
     ]
 }

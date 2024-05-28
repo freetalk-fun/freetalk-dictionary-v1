@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A person or thing that reduces a shock or forms a barrier between incompatible or antagonistic persons or things.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The soft pillows acted as buffers between the two angry siblings.",
+            "sent2": "The car's bumpers serve as buffers in case of a collision.",
+            "sent3": "The fluffy dog acted as a buffer between the feuding cats, calming them down.",
+            "sent4": "Her kind words acted as a buffer, diffusing the tension in the room.",
+            "sent5": "The mediator played the role of a buffer, preventing further arguments."
         },
         {
             "definition": "A device or material used to reduce shock or friction.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The foam pads on the corners of the table act as buffers to prevent damage.",
+            "sent2": "The shock absorbers in the car are important buffers for a smooth ride.",
+            "sent3": "The soft fabric of the blanket acts as a buffer against the cold wind.",
+            "sent4": "The lubricant oil acts as a buffer, reducing friction between the moving parts.",
+            "sent5": "The protective case on the phone serves as a buffer, absorbing impact during falls."
         },
         {
             "definition": "To lessen or moderate the impact of something.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She tried to buffer the criticism by focusing on the positive aspects.",
+            "sent2": "Adding extra padding can buffer the impact of a fall.",
+            "sent3": "He tried to buffer the bad news with a joke, but it didn't work.",
+            "sent4": "The trees buffered the strong winds, protecting the house.",
+            "sent5": "Wearing a helmet can buffer against head injuries in case of accidents."
         }
     ]
 }

@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A person or thing that inflates.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The party entertainer brought an inflater to blow up the balloons.",
+            "sent2": "The tire inflater helped fix the flat tire quickly.",
+            "sent3": "The inflatable clown was a funny inflater at the circus.",
+            "sent4": "Her laughter was like an inflater, filling the room with joy.",
+            "sent5": "The air pump acted as a magical inflater, making the balloon grow bigger and bigger."
         },
         {
             "definition": "A software component that compresses data for storage or transmission.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The data storage system included an efficient inflater for file compression.",
+            "sent2": "The website uses an inflater to reduce the size of images for faster loading.",
+            "sent3": "The data inflater worked tirelessly to shrink the large files.",
+            "sent4": "The software's efficiency was like an inflater, making the data fit perfectly.",
+            "sent5": "The data inflater was a digital magician, making large files disappear into smaller ones."
         },
         {
             "definition": "A device used to inflate something, such as a tire or balloon.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The bicycle inflater helped pump air into the tires before the race.",
+            "sent2": "The balloon inflater made blowing up party decorations a breeze.",
+            "sent3": "The tire inflater was a lifesaver when the car had a flat on the highway.",
+            "sent4": "The balloon inflater was like a superhero, saving the party with inflated decorations.",
+            "sent5": "The tire inflater hummed as it worked, filling the tire with much-needed air."
         }
     ]
 }

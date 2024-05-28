@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "past tense of flee",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The rabbit fled from the fox.",
+            "sent2": "She quickly fled the scene of the accident.",
+            "sent3": "The butterfly fled the garden party when it started raining.",
+            "sent4": "The memories of her past mistakes constantly fled through her mind.",
+            "sent5": "The children fled the classroom when the fire alarm rang."
         },
         {
             "definition": "ran away from a place of danger",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The deer fled into the forest when it heard the hunter's footsteps.",
+            "sent2": "The villagers fled their homes during the flood.",
+            "sent3": "The cat fled from the vacuum cleaner as if it were a fierce predator.",
+            "sent4": "The students fled the cafeteria when the food fight broke out.",
+            "sent5": "The birds fled the tree as the storm approached."
         },
         {
             "definition": "escaped quickly",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "She fled down the street, trying to catch the bus.",
+            "sent2": "The thief fled swiftly from the scene of the crime.",
+            "sent3": "The squirrel fled up the tree to avoid the barking dog.",
+            "sent4": "The secret agent fled silently into the night.",
+            "sent5": "The cat fled gracefully across the garden, chasing a butterfly."
         }
     ]
 }

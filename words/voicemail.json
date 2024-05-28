@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A system for recording and storing voice messages left over the telephone when the recipient is unable to answer.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I listened to the voicemail my friend left me.",
+            "sent2": "Please leave a voicemail if I don't pick up the phone.",
+            "sent3": "The voicemail was full of funny sounds.",
+            "sent4": "Her voicemail was a digital diary of missed calls.",
+            "sent5": "The voicemail captured the urgency in her voice."
         },
         {
             "definition": "A recorded message left on a voicemail system.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I left a voicemail for my boss about the meeting.",
+            "sent2": "The voicemail from my mom made me smile.",
+            "sent3": "The voicemail sounded like a robot talking.",
+            "sent4": "His voicemail was a reminder of our conversation.",
+            "sent5": "The voicemail echoed in the empty room."
         }
     ]
 }

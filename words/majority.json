@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "The greater number or part; more than half.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "In the vote, the majority chose pizza over burgers.",
+            "sent2": "The majority of the students preferred playing outside.",
+            "sent3": "The majority of the cookies disappeared mysteriously overnight.",
+            "sent4": "The colorful balloons filled the room, a majority in shades of blue.",
+            "sent5": "The majority of the puzzle pieces fit perfectly together."
         },
         {
             "definition": "The amount by which a number exceeds half of the total.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "She won the game by a majority of ten points.",
+            "sent2": "The majority of the cake was eaten by the time I arrived.",
+            "sent3": "The majority of the books on the shelf were upside down.",
+            "sent4": "His laughter echoed through the room, a majority of joy in the air.",
+            "sent5": "The majority of the paint had dried by the time she finished painting."
         }
     ]
 }

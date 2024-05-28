@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "In spite of that; however.",
-            "pos": "conjunction"
+            "pos": "conjunction",
+            "sent1": "She wanted to go to the party; nevertheless, she stayed home to study.",
+            "sent2": "He was tired; nevertheless, he continued working on his project.",
+            "sent3": "The cat wanted to play outside; nevertheless, it decided to take a nap instead.",
+            "sent4": "The storm was fierce; nevertheless, the little boat sailed on bravely.",
+            "sent5": "The students were tired; nevertheless, they paid attention in class."
         },
         {
             "definition": "Nonetheless; notwithstanding.",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "She was afraid of heights; nevertheless, she climbed to the top of the mountain.",
+            "sent2": "He was busy with work; nevertheless, he found time to help his friend.",
+            "sent3": "The cake looked burnt; nevertheless, it tasted delicious.",
+            "sent4": "The road was long and winding; nevertheless, they reached their destination before sunset.",
+            "sent5": "The dog was small; nevertheless, it barked loudly to protect its owner."
         }
     ]
 }

@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A person who pockets something.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The sneaky pocketer stole my candy.",
+            "sent2": "The honest pocketer returned the lost wallet.",
+            "sent3": "The pocketer at the party kept taking all the snacks!",
+            "sent4": "Beware of the pocketer in disguise, ready to snatch your belongings.",
+            "sent5": "The notorious pocketer was finally caught by the police."
         },
         {
             "definition": "To put something in one's pocket.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I pocketered the shiny coin I found on the street.",
+            "sent2": "She pocketered the key before leaving the house.",
+            "sent3": "He pocketered the last cookie when no one was looking.",
+            "sent4": "The magician pocketered the rabbit out of thin air.",
+            "sent5": "The student quickly pocketered the cheat sheet during the exam."
         }
     ]
 }

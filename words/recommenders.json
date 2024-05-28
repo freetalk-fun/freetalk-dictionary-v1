@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A person who recommends something.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "My friend is one of the recommenders for good movies to watch.",
+            "sent2": "The recommenders at the bookstore always have great book suggestions.",
+            "sent3": "The recommenders at the restaurant were so insistent on trying the spicy dish.",
+            "sent4": "She was like a walking recommender, always pointing out the best deals.",
+            "sent5": "The recommenders in the group chat made choosing a restaurant so much easier."
         },
         {
             "definition": "A software tool that suggests or recommends items based on user preferences.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The online store's recommender helped me find the perfect gift.",
+            "sent2": "I rely on the recommender feature to discover new music I might like.",
+            "sent3": "The recommender algorithm surprised me with its quirky suggestions.",
+            "sent4": "The recommender function acted like a personal shopper, picking out ideal outfits.",
+            "sent5": "The recommender on the website made shopping for books a breeze."
         }
     ]
 }

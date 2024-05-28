@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Of or relating to heliometry.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The heliometric study focused on measuring sunlight.",
+            "sent2": "The heliometric equipment was used to observe the sun's brightness.",
+            "sent3": "The heliometric experiment accidentally measured the moon's glow instead.",
+            "sent4": "Her heliometric approach to photography captured the essence of light and shadow.",
+            "sent5": "The heliometric data revealed the true intensity of the sun's rays."
         },
         {
             "definition": "Measuring the sun's diameter or distance from the earth using a heliometer.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The scientist used a heliometric device to calculate the sun's size.",
+            "sent2": "Astronomers rely on heliometric measurements for solar research.",
+            "sent3": "During the eclipse, the heliometric tool helped determine the sun's position.",
+            "sent4": "The heliometric readings provided valuable insights into solar variations.",
+            "sent5": "The heliometric technique allowed for precise solar measurements."
         }
     ]
 }

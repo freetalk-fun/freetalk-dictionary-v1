@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "relating to or situated on the edge or periphery",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The peripheral areas of the city are less crowded.",
+            "sent2": "The house had a beautiful garden at its peripheral boundary.",
+            "sent3": "The squirrel found a peripheral spot on the tree to hide its acorns.",
+            "sent4": "Her peripheral vision caught a glimpse of movement in the bushes.",
+            "sent5": "The peripheral details of the painting added depth to the artwork."
         },
         {
             "definition": "an auxiliary device connected to a computer",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I need to buy a new peripheral for my computer.",
+            "sent2": "The printer is an essential peripheral for the office.",
+            "sent3": "The mouse and keyboard are peripheral devices for the computer.",
+            "sent4": "She plugged in the peripheral to transfer the files.",
+            "sent5": "The technician fixed the issue with the peripheral quickly."
         },
         {
             "definition": "a device that is used to input or output data from a computer",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The peripheral allows you to interact with the computer.",
+            "sent2": "Make sure all peripherals are properly connected before starting.",
+            "sent3": "The student forgot to bring their peripheral for the presentation.",
+            "sent4": "The peripheral malfunctioned during the important meeting.",
+            "sent5": "He upgraded his peripheral to improve his gaming experience."
         }
     ]
 }

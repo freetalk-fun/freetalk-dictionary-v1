@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Freedom from difficulty or effort",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "She felt a sense of ease after completing her homework.",
+            "sent2": "The cat lounged in the sun with ease.",
+            "sent3": "The ease with which he solved the puzzle amazed everyone.",
+            "sent4": "Her smile brought an ease to the tense room.",
+            "sent5": "The gentle breeze brought a feeling of ease to the hot day."
         },
         {
             "definition": "To make less difficult or severe",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He tried to ease her worries by reassuring her.",
+            "sent2": "Using a warm compress can help ease the pain.",
+            "sent3": "The kind words eased the tension in the room.",
+            "sent4": "His apology helped to ease the situation.",
+            "sent5": "Adding more water can ease the consistency of the dough."
         },
         {
             "definition": "To move or act with little effort or difficulty",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The dancer seemed to ease across the stage effortlessly.",
+            "sent2": "He tried to ease into the conversation without drawing attention.",
+            "sent3": "The cat eased its way through the narrow opening.",
+            "sent4": "The river eased its flow as it reached the flat plains.",
+            "sent5": "The car eased down the hill smoothly without any jerking movements."
         }
     ]
 }

@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A signal that comes before another signal.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The presignals of the approaching storm were dark clouds on the horizon.",
+            "sent2": "The traffic light changing to yellow is a presignals for drivers to slow down.",
+            "sent3": "The presignals of a surprise party can be hard to keep secret.",
+            "sent4": "The sudden drop in temperature was a presignals of the impending snowstorm.",
+            "sent5": "The chirping of birds in the morning serves as presignals of a new day."
         },
         {
             "definition": "To give a signal before something happens.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The coach presignals the start of the race with a whistle.",
+            "sent2": "She presignals her arrival by sending a text message.",
+            "sent3": "The dog presignals its excitement by wagging its tail.",
+            "sent4": "The teacher presignals the end of class by packing up her things.",
+            "sent5": "The alarm clock presignals the beginning of a new day with its loud ring."
         }
     ]
 }

@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A group of people working together to achieve a common goal.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The soccer team practiced hard to win the game.",
+            "sent2": "The team of doctors collaborated to save the patient's life.",
+            "sent3": "The team of chefs accidentally added too much salt to the soup.",
+            "sent4": "Their team was like a well-oiled machine, smoothly completing tasks.",
+            "sent5": "The team's unity and determination were truly inspiring."
         },
         {
             "definition": "Two or more animals working together as a unit.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The lionesses formed a team to hunt for food.",
+            "sent2": "The ants worked as a team to build their anthill.",
+            "sent3": "The team of squirrels comically tried to steal nuts from the bird feeder.",
+            "sent4": "The bees functioned as a team, each with a specific role in the hive.",
+            "sent5": "The team of dolphins swam gracefully in perfect synchronization."
         },
         {
             "definition": "To come together as a team.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "We need to team up to finish the project on time.",
+            "sent2": "Let's team together to clean up the park.",
+            "sent3": "The siblings decided to team up against their parents in a snowball fight.",
+            "sent4": "The birds teamed up to chase away the squirrel from their nest.",
+            "sent5": "The students teamed together to solve the challenging math problem."
         }
     ]
 }

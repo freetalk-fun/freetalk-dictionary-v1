@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Los - the plural form of the Spanish article \"el\" or \"la\"",
-            "pos": "article"
+            "pos": "article",
+            "sent1": "In the store, I bought los libros.",
+            "sent2": "She needed los zapatos for the party.",
+            "sent3": "The teacher said, 'Please bring los l\u00e1pices to class.'",
+            "sent4": "The chef added los ingredientes to the recipe.",
+            "sent5": "The sign said, 'Los perros deben estar con correa.'"
         },
         {
             "definition": "Los - a city in Nigeria",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I visited Los last summer.",
+            "sent2": "The people of Los are known for their hospitality.",
+            "sent3": "Have you ever been to Los? It's a bustling city.",
+            "sent4": "Los is like a hidden gem waiting to be discovered.",
+            "sent5": "The streets of Los were filled with music and laughter."
         },
         {
             "definition": "Los - a surname of German origin",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Mr. Smith's full name is John Los.",
+            "sent2": "The Los family has a long history in this town.",
+            "sent3": "I heard that the famous artist is a Los.",
+            "sent4": "The Los surname is well-respected in the community.",
+            "sent5": "The Los clan gathers every year for a reunion."
         }
     ]
 }

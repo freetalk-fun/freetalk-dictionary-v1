@@ -3,19 +3,39 @@
     "meanings": [
         {
             "definition": "An official list or record of names or items.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The school keeps a register of all the students' names.",
+            "sent2": "The register at the library helps keep track of borrowed books.",
+            "sent3": "The register of attendees at the party was accidentally left behind.",
+            "sent4": "Her face was a register of emotions, from joy to sorrow.",
+            "sent5": "The register of endangered species is crucial for conservation efforts."
         },
         {
             "definition": "To enter or record information in an official list or record.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Please register your name at the front desk.",
+            "sent2": "I need to register for the conference before the deadline.",
+            "sent3": "He tried to register the new data, but the system crashed.",
+            "sent4": "The sound of the bell seemed to register in her mind as a warning.",
+            "sent5": "Make sure to register your vote before the polls close."
         },
         {
             "definition": "To show or express a particular quality or emotion.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Her smile registered genuine happiness.",
+            "sent2": "His surprise registered clearly on his face.",
+            "sent3": "The dog's tail wagging wildly registered its excitement.",
+            "sent4": "The impact of the news finally registered in her mind.",
+            "sent5": "His words failed to register the seriousness of the situation."
         },
         {
             "definition": "A range or variety of a particular quality or characteristic.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The store offers a wide register of colors for the paint.",
+            "sent2": "The register of flavors in the ice cream shop is impressive.",
+            "sent3": "The register of skills required for the job was extensive.",
+            "sent4": "The register of scents in the garden was overwhelming.",
+            "sent5": "The register of emotions in the play resonated with the audience."
         }
     ]
 }

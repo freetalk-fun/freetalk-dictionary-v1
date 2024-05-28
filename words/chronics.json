@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "(noun) habitual or long-standing medical condition",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The hospital keeps a record of all the chronics they treat regularly.",
+            "sent2": "She has been dealing with her chronics for years.",
+            "sent3": "The chronics in the waiting room always bring their favorite magazines.",
+            "sent4": "His chronic back pain is like a constant companion.",
+            "sent5": "The doctor's office is filled with the chronics waiting for their appointments."
         },
         {
             "definition": "(adjective) relating to or characteristic of a chronic condition",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The chronic cough kept her up all night.",
+            "sent2": "Living with chronic pain can be challenging.",
+            "sent3": "The chronic alarm clock never seems to work properly.",
+            "sent4": "Her chronic lateness became a running joke among her friends.",
+            "sent5": "The chronic fatigue made it hard for him to focus at work."
         },
         {
             "definition": "(verb) to persist or continue for a long time",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "His bad habits chronics despite his efforts to change.",
+            "sent2": "The issue chronics even after multiple attempts to resolve it.",
+            "sent3": "The song's catchy tune chronics in my head all day.",
+            "sent4": "Her words chronic in my memory long after she spoke them.",
+            "sent5": "The smell of fresh bread chronic throughout the house, making everyone hungry."
         }
     ]
 }

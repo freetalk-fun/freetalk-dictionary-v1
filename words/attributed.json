@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Regard something as being caused by someone or something.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She attributed the loud noise to the thunderstorm outside.",
+            "sent2": "The detective attributed the crime to the suspect's fingerprints at the scene.",
+            "sent3": "The cat attributed the broken vase to the mischievous puppy.",
+            "sent4": "Her success can be attributed to her hard work and determination.",
+            "sent5": "The teacher attributed the students' improvement to their consistent practice."
         },
         {
             "definition": "Ascribe a work or remark to a particular author, artist, or speaker.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The famous painting was attributed to the renowned artist.",
+            "sent2": "The quote was wrongly attributed to the wrong historical figure.",
+            "sent3": "The chef jokingly attributed the delicious dish to his magic cooking skills.",
+            "sent4": "The success of the project can be attributed to the teamwork of the entire group.",
+            "sent5": "The mysterious poem was attributed to an anonymous writer."
         }
     ]
 }

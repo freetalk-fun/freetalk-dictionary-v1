@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Present or constitute (a problem, danger, or difficulty)",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The steep mountain path poses a challenge for hikers.",
+            "sent2": "The icy road poses a risk for drivers.",
+            "sent3": "The mischievous squirrel poses a puzzle for the birdwatcher.",
+            "sent4": "The old bridge poses a threat to safety.",
+            "sent5": "The dark clouds poses a looming storm on the horizon."
         },
         {
             "definition": "Assume a particular attitude or position in order to be photographed, painted, or drawn",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The model poses gracefully for the fashion shoot.",
+            "sent2": "The family poses together for a holiday photo.",
+            "sent3": "The statue poses playfully for the tourists' cameras.",
+            "sent4": "The actor poses dramatically for the movie poster.",
+            "sent5": "The athlete poses proudly with their medal."
         },
         {
             "definition": "A particular way of standing or sitting, usually adopted for effect or in order to be photographed",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Her elegant pose in the portrait captured her beauty.",
+            "sent2": "The superhero struck a heroic pose for the comic book cover.",
+            "sent3": "The statue's pose made it look like it was dancing.",
+            "sent4": "The yoga instructor demonstrated a challenging pose.",
+            "sent5": "The model's pose on the runway was captivating."
         }
     ]
 }

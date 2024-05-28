@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A diagram representing a tree structure",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The dendrogram showed how the branches of the tree structure connected.",
+            "sent2": "Scientists use dendrograms to illustrate complex tree structures.",
+            "sent3": "The dendrogram looked like a family tree for robots!",
+            "sent4": "The dendrogram's branches intertwined like a maze of connections.",
+            "sent5": "The dendrogram's layout made the tree structure easy to understand."
         },
         {
             "definition": "A visual representation of the relationships between data points in a hierarchical clustering algorithm",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The dendrogram displayed how data points were linked in the algorithm.",
+            "sent2": "Analyzing the dendrogram helps in understanding data relationships.",
+            "sent3": "The dendrogram seemed like a map of friendships between numbers!",
+            "sent4": "The dendrogram's connections resembled a web of information.",
+            "sent5": "The dendrogram's visualization clarified the data point relationships."
         }
     ]
 }

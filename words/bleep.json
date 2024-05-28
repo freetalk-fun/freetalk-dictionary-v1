@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A short, high-pitched sound or tone.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The microwave made a loud bleep when it finished heating.",
+            "sent2": "I heard a bleep coming from the alarm clock in the morning.",
+            "sent3": "The bleep of the oven timer startled the sleeping cat.",
+            "sent4": "The bleep of the digital watch marked the passing seconds.",
+            "sent5": "The bleep of the car horn echoed through the quiet street."
         },
         {
             "definition": "To censor or obscure offensive language in broadcasting.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The TV station had to bleep out the inappropriate words from the live show.",
+            "sent2": "They decided to bleep the curse words from the radio broadcast.",
+            "sent3": "The editor had to bleep the swear words from the documentary before airing it.",
+            "sent4": "The software automatically bleeps any profanity in the video.",
+            "sent5": "The radio host had to quickly bleep the caller's offensive language."
         },
         {
             "definition": "An expletive used to replace a swear word.",
-            "pos": "interjection"
+            "pos": "interjection",
+            "sent1": "When he stubbed his toe, he let out a loud bleep of frustration.",
+            "sent2": "Bleep! That was close!",
+            "sent3": "Bleep! I forgot my keys at home.",
+            "sent4": "She let out a bleep of surprise when she saw the mess in the kitchen.",
+            "sent5": "Bleep! I can't believe I missed the bus again."
         }
     ]
 }

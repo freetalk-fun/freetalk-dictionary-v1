@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A layer placed between two other layers.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The cake had a delicious cream interlayer.",
+            "sent2": "The interlayer of cheese added a savory touch to the lasagna.",
+            "sent3": "I accidentally put an interlayer of paper between my sandwich slices!",
+            "sent4": "The interlayer of fog made it hard to see the road ahead.",
+            "sent5": "The interlayer of ice on the windshield needed to be scraped off before driving."
         },
         {
             "definition": "To place a layer between two other layers.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She carefully interlayered the sheets of phyllo dough with butter.",
+            "sent2": "The chef interlayered the pasta with rich tomato sauce.",
+            "sent3": "He interlayered the clothes in his suitcase like a game of Tetris.",
+            "sent4": "The artist interlayered colors to create a beautiful painting.",
+            "sent5": "The construction worker interlayered bricks to build a sturdy wall."
         }
     ]
 }

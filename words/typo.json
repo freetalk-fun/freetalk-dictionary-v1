@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A typographical error.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I made a typo in my essay and misspelled a word.",
+            "sent2": "The book had a typo on page 10, where a letter was missing.",
+            "sent3": "The typo in the newspaper article changed 'cat' to 'rat'!",
+            "sent4": "Her email had a typo that turned 'meeting' into 'eating'.",
+            "sent5": "The important document had a typo that altered its meaning completely."
         },
         {
             "definition": "To make a typographical error.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I always seem to typo when I type too quickly.",
+            "sent2": "Be careful not to typo important information in the report.",
+            "sent3": "He managed to typo his own name on the form!",
+            "sent4": "She tends to typo more when she's tired and rushing.",
+            "sent5": "Try not to typo on the keyboard by hitting the wrong keys."
         }
     ]
 }

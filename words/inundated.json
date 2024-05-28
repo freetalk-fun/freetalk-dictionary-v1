@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "overwhelm with things or people to be dealt with",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "After the party, I felt inundated with dirty dishes to wash.",
+            "sent2": "She was inundated with homework assignments from all her classes.",
+            "sent3": "The cat looked inundated by the sudden influx of new toys.",
+            "sent4": "The emails inundated her inbox like a never-ending stream.",
+            "sent5": "The noise from the construction site inundated the peaceful neighborhood."
         },
         {
             "definition": "flood",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The town faced an inundated street after heavy rain.",
+            "sent2": "The river's inundated banks caused concern for nearby residents.",
+            "sent3": "The sudden influx of customers created an inundated situation at the store.",
+            "sent4": "The inundated area was a result of the overflowing dam.",
+            "sent5": "The inundated field turned into a temporary lake during the storm."
         },
         {
             "definition": "cover or overspread with water",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The heavy rain inundated the streets, causing traffic delays.",
+            "sent2": "The overflowing river inundated the surrounding fields.",
+            "sent3": "The leaky roof inundated the room with water during the storm.",
+            "sent4": "The sudden downpour inundated the garden, washing away the plants.",
+            "sent5": "The tsunami inundated the coastal town, leaving destruction in its wake."
         }
     ]
 }

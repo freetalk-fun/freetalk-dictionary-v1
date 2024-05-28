@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Fail to keep up with another or others in movement or development.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "During the race, I started to lag behind the other runners.",
+            "sent2": "The internet connection can lag when too many people are using it at once.",
+            "sent3": "I always lag behind in the game, but it's still fun to play.",
+            "sent4": "Her tiredness made her mind lag behind, unable to focus on the task at hand.",
+            "sent5": "The old car engine would lag when trying to accelerate quickly."
         },
         {
             "definition": "A period of time between one event or phenomenon and another.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "There was a lag between the lightning and the thunder during the storm.",
+            "sent2": "After pressing the button, there was a slight lag before the screen changed.",
+            "sent3": "The lag between the announcement and the actual event made everyone anxious.",
+            "sent4": "The lag in communication caused confusion among the team members.",
+            "sent5": "The lag in the video stream made it difficult to follow the presentation."
         }
     ]
 }

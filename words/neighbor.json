@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "a person living near or next door to the speaker or person referred to",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "My friendly neighbor always waves when I see him outside.",
+            "sent2": "I borrowed some sugar from my neighbor yesterday.",
+            "sent3": "My neighbor's cat thinks it owns the whole neighborhood!",
+            "sent4": "The relationship between a good book and its reader is like that of a neighbor and a friend.",
+            "sent5": "The neighbor's barking dog kept me up all night."
         },
         {
             "definition": "a person or place in relation to others near or next to it",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The grocery store is my favorite neighbor in the shopping plaza.",
+            "sent2": "The park is a peaceful neighbor to the bustling city streets.",
+            "sent3": "The loud music from the party was a neighbor to my quiet evening at home.",
+            "sent4": "In a crowded room, silence can be a welcome neighbor.",
+            "sent5": "The neighbor building's bright lights illuminated the dark alleyway."
         },
         {
             "definition": "to be situated next to or near something",
-            "pos": "preposition"
+            "pos": "preposition",
+            "sent1": "The school is located right next to the neighbor park.",
+            "sent2": "The coffee shop is conveniently situated near the neighbor bookstore.",
+            "sent3": "The cat sat on the windowsill, looking out at the neighbor garden.",
+            "sent4": "The old oak tree stood proudly beside its neighbor, the river.",
+            "sent5": "The cozy cabin nestled among the trees, a neighbor to the flowing stream."
         }
     ]
 }

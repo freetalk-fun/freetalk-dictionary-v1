@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A segment of a DNA or RNA molecule containing information coding for a protein or peptide sequence.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The exons in the DNA provide the instructions for making proteins.",
+            "sent2": "Scientists study exons to understand how proteins are produced.",
+            "sent3": "The exons in the genetic code are like recipes for proteins.",
+            "sent4": "Each exon is a vital piece of the genetic puzzle, like a key ingredient in a recipe.",
+            "sent5": "Imagine exons as tiny building blocks that create the blueprint for proteins."
         },
         {
             "definition": "A segment of a gene that is transcribed into messenger RNA and translated into a protein.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Messenger RNA carries the exons from the gene to produce proteins.",
+            "sent2": "Cells use exons to assemble the necessary proteins for various functions.",
+            "sent3": "The exons in the gene are like messengers delivering protein-making instructions.",
+            "sent4": "In a cell, exons act as translators converting genetic information into proteins.",
+            "sent5": "Visualize exons as messengers that relay genetic messages to create proteins."
         }
     ]
 }

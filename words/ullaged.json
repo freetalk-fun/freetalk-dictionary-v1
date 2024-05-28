@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "The amount by which a container falls short of being full.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I checked the ullaged of the bottle before pouring more liquid.",
+            "sent2": "The bartender measured the ullaged of the glass before filling it with beer.",
+            "sent3": "The picnic basket's ullaged was a surprise when we found it could hold more sandwiches.",
+            "sent4": "The empty chair at the table seemed to represent the ullaged of our group.",
+            "sent5": "The farmer's market vendor proudly displayed jars with no ullaged, filled to the brim with jam."
         },
         {
             "definition": "To measure the ullage of a container.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She ullaged the fuel tank before refilling it for the journey.",
+            "sent2": "The inspector ullaged each barrel to ensure accurate measurements.",
+            "sent3": "The curious child ullaged the toy box to see how many toys it could hold.",
+            "sent4": "The scientist ullaged the test tube with precision, avoiding any spills.",
+            "sent5": "The chef carefully ullaged the ingredients for the recipe, not wanting to waste any."
         },
         {
             "definition": "The empty space in a container.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The ullaged in the suitcase allowed for extra souvenirs to be brought back.",
+            "sent2": "The moving company calculated the ullaged in each box to optimize space in the truck.",
+            "sent3": "The refrigerator's ullaged seemed to shrink when we filled it with groceries.",
+            "sent4": "The attic's ullaged was quickly filled with old furniture and boxes.",
+            "sent5": "The backpacker was grateful for the ullaged in their backpack, making it easier to carry essentials."
         }
     ]
 }

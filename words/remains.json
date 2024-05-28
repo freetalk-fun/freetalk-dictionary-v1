@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "The parts left over after other parts have been removed, used, or destroyed.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The archaeologists found ancient remains of a civilization buried underground.",
+            "sent2": "The remains of the meal were scattered across the table after the feast.",
+            "sent3": "The remains of the cake mysteriously disappeared from the kitchen overnight.",
+            "sent4": "The remains of the old building stood as a reminder of the city's history.",
+            "sent5": "The remains of the shipwreck were visible just below the surface of the water."
         },
         {
             "definition": "The body of a deceased person.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The family gathered to mourn the remains of their loved one at the funeral.",
+            "sent2": "The cemetery was filled with the remains of those who had passed away.",
+            "sent3": "The ghostly figure claimed to be the remains of a former pirate captain.",
+            "sent4": "The remains of the ancient pharaoh were carefully preserved in the tomb.",
+            "sent5": "The forensic team examined the remains to determine the cause of death."
         },
         {
             "definition": "To continue to exist or be left after other parts have been removed or used.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The old castle remains a popular tourist attraction despite its age.",
+            "sent2": "After the storm passed, only a few scattered clouds remains in the sky.",
+            "sent3": "The mystery novel remains unfinished as the author struggles for inspiration.",
+            "sent4": "Her kindness remains a beacon of light in a world filled with darkness.",
+            "sent5": "The memory of their laughter remains etched in my mind."
         }
     ]
 }

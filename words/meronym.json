@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A word that denotes a part of something or a member of a whole.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "In the sentence, 'wheel is a meronym of car,' 'wheel' represents a part of the whole.",
+            "sent2": "The word 'finger' is a meronym for 'hand' because it represents a part of the whole.",
+            "sent3": "When discussing a tree, 'leaf' can be a meronym, showing a small part of the entire tree.",
+            "sent4": "In a puzzle, each piece is like a meronym, fitting together to form the complete picture.",
+            "sent5": "Imagine a meronym as a puzzle piece, essential for completing the whole picture."
         },
         {
             "definition": "A term that represents a larger concept or category.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The word 'animal' is a meronym for 'mammal' since it represents a broader category.",
+            "sent2": "When we say 'fruit,' it serves as a meronym for various types like apples and oranges.",
+            "sent3": "Thinking of 'vehicle' as a meronym, it encompasses cars, trucks, and bicycles.",
+            "sent4": "In a library, 'book' acts as a meronym, symbolizing the vast world of literature.",
+            "sent5": "Consider a meronym as a container holding many related ideas within its boundaries."
         }
     ]
 }

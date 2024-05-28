@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Up to this time or point",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "She had never been hereto so excited before.",
+            "sent2": "We have hereto always followed the same routine.",
+            "sent3": "The cat had hereto never caught a mouse, but today was different.",
+            "sent4": "The sun had hereto always set in the west, but today it rose in the east.",
+            "sent5": "His dedication hereto had never wavered, even in the face of adversity."
         },
         {
             "definition": "To this document or agreement",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Please sign your name hereto to finalize the contract.",
+            "sent2": "He attached the appendix hereto for your reference.",
+            "sent3": "The dog tried to chew on the paper hereto, thinking it was a treat.",
+            "sent4": "She glued the missing piece hereto, completing the puzzle.",
+            "sent5": "The signature hereto sealed their commitment to the deal."
         }
     ]
 }

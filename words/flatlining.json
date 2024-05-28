@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To show no activity or progress.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The plant's growth was flatlining, not getting any taller.",
+            "sent2": "The project's development was flatlining, stuck at the same stage for weeks.",
+            "sent3": "The race was so slow, it seemed like the runners were flatlining towards the finish line.",
+            "sent4": "Her enthusiasm for the subject was flatlining, showing no signs of improvement.",
+            "sent5": "The battery was flatlining, unable to power the device anymore."
         },
         {
             "definition": "The act of a heart rate or vital sign showing a flat line on a monitor.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The doctor noticed the patient's flatlining on the monitor and rushed to help.",
+            "sent2": "The nurse immediately responded to the flatlining on the patient's vital sign monitor.",
+            "sent3": "The flatlining on the screen made the medical team spring into action.",
+            "sent4": "The sudden flatlining on the monitor sent a wave of panic through the room.",
+            "sent5": "The continuous flatlining on the screen indicated a critical situation."
         }
     ]
 }

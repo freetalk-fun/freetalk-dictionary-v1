@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "An excessive and dangerous dose of a drug.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The hospital treated many patients for overdoses of medicine.",
+            "sent2": "She ended up in the emergency room due to multiple overdoses.",
+            "sent3": "The cartoon character comically suffered from overdoses of candy.",
+            "sent4": "His love for sweets was like an overdose, causing him to feel sick.",
+            "sent5": "The warning label reminded users to avoid overdoses for safety."
         },
         {
             "definition": "To take an excessive dose of a drug.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He accidentally overdoses on his medication sometimes.",
+            "sent2": "She warned him not to overdose on the painkillers.",
+            "sent3": "The movie character always seems to overdose on excitement.",
+            "sent4": "Her passion for fashion can sometimes make her feel like she overdoses on shopping.",
+            "sent5": "It's important to follow the instructions to avoid overdosing on medication."
         },
         {
             "definition": "To administer an excessive dose of a drug.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The nurse must never overdose patients with medication.",
+            "sent2": "Doctors are careful not to overdose their patients during treatment.",
+            "sent3": "The chef accidentally overdosed the dish with salt.",
+            "sent4": "The speaker overdosed the audience with too much information.",
+            "sent5": "It's crucial for caregivers to avoid overdosing patients with medication."
         }
     ]
 }

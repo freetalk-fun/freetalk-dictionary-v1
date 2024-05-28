@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A sudden intense feeling of fear",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The loud thunderstorm caused a fright in the little girl.",
+            "sent2": "The horror movie gave me a fright last night.",
+            "sent3": "The prankster jumped out and gave his friend a fright.",
+            "sent4": "The eerie silence in the haunted house sent a fright down my spine.",
+            "sent5": "The unexpected scream in the dark alley was a fright I won't forget."
         },
         {
             "definition": "To make someone afraid or anxious",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The sudden noise can frighten the birds away.",
+            "sent2": "The ghost stories always frighten the young campers.",
+            "sent3": "The mischievous cat loves to frighten the mice in the barn.",
+            "sent4": "The howling wind can frighten even the bravest of souls.",
+            "sent5": "The shadowy figure lurking in the corner can frighten anyone passing by."
         },
         {
             "definition": "To become afraid or anxious",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I start to fright when I hear strange noises at night.",
+            "sent2": "The child began to fright when left alone in the dark room.",
+            "sent3": "The puppy would fright at the sight of a vacuum cleaner.",
+            "sent4": "The thought of failing the test made him fright all night.",
+            "sent5": "The dark forest made the hiker fright with every rustle of leaves."
         }
     ]
 }

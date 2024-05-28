@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "An act of breaking or failing to observe a law, agreement, or code of conduct.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The company suffered a breach of contract when they failed to deliver the goods on time.",
+            "sent2": "The data breach exposed sensitive information to unauthorized users.",
+            "sent3": "It was a breach of trust when my friend shared my secret with everyone.",
+            "sent4": "The breach in security allowed hackers to access the system undetected.",
+            "sent5": "The breach in confidentiality led to a major scandal within the organization."
         },
         {
             "definition": "A gap in a wall, barrier, or defense, especially one made by an attacking army.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The soldiers found a breach in the castle wall and entered stealthily.",
+            "sent2": "The breach in the dam caused flooding in the nearby town.",
+            "sent3": "The breach in the fence allowed the dog to escape and roam the neighborhood.",
+            "sent4": "The breach in the levee resulted in widespread destruction during the storm.",
+            "sent5": "The breach in the wall was a strategic advantage for the invading army."
         }
     ]
 }

@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Used to introduce a nonrestrictive clause or phrase.",
-            "pos": "conjunction"
+            "pos": "conjunction",
+            "sent1": "The book, which was on the shelf, had a red cover.",
+            "sent2": "She couldn't decide which dress to wear to the party.",
+            "sent3": "The cat, which was actually a robot in disguise, meowed loudly.",
+            "sent4": "The stars, which danced in the night sky, mesmerized the onlookers.",
+            "sent5": "The old house, which creaked with every step, seemed haunted."
         },
         {
             "definition": "Used to ask about one or more items from a definite set.",
-            "pos": "pronoun"
+            "pos": "pronoun",
+            "sent1": "Which of the apples is the ripest?",
+            "sent2": "Tell me which movie you want to watch tonight.",
+            "sent3": "I wonder which of the clouds is the fluffiest.",
+            "sent4": "She pondered which path to take in the forest of decisions.",
+            "sent5": "Can you show me which button turns on the light?"
         }
     ]
 }

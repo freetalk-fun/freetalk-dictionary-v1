@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "(adjective) approaching a value or curve arbitrarily closely without actually reaching it",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The line was asymptotic to the curve, getting closer and closer without touching.",
+            "sent2": "The graph showed an asymptotic behavior as it neared the y-axis.",
+            "sent3": "The race between the tortoise and the hare was asymptotic, with the tortoise almost catching up at the end.",
+            "sent4": "Her progress in learning the new language was asymptotic, always improving but never quite fluent.",
+            "sent5": "The relationship between effort and success can be described as asymptotic, with diminishing returns over time."
         },
         {
             "definition": "(adverb) in a manner that approaches a value or curve arbitrarily closely without actually reaching it",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "The function behaved asymptotically as x approached infinity.",
+            "sent2": "She ran asymptotically close to the finish line, but never quite crossed it.",
+            "sent3": "The cat stalked the mouse asymptotically, always stopping just short of catching it.",
+            "sent4": "His patience wore thin asymptotically, reaching a breaking point slowly but surely.",
+            "sent5": "The music built up asymptotically to a crescendo, never quite reaching full volume."
         }
     ]
 }

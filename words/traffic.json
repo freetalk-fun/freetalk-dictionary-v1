@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "The movement of vehicles or people along roads or through a place.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "During rush hour, the traffic on the highway was very slow.",
+            "sent2": "The city center was bustling with pedestrian traffic.",
+            "sent3": "The traffic jam was so bad that even the birds had to wait.",
+            "sent4": "Her thoughts moved through her mind like a busy traffic intersection.",
+            "sent5": "The traffic noise outside made it hard to concentrate on reading."
         },
         {
             "definition": "The messages or data sent and received through a computer network.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The email traffic increased significantly after the announcement.",
+            "sent2": "The IT department monitored the network traffic for any unusual activity.",
+            "sent3": "The traffic of digital information never seemed to slow down.",
+            "sent4": "The data traffic flowed seamlessly between the servers.",
+            "sent5": "The sudden spike in web traffic crashed the website temporarily."
         },
         {
             "definition": "The illegal trade of goods, especially drugs.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Authorities cracked down on the traffic of illegal substances in the area.",
+            "sent2": "The police intercepted a major drug traffic operation.",
+            "sent3": "The undercover agent infiltrated the traffic ring to gather evidence.",
+            "sent4": "The traffic of contraband goods was a serious concern for law enforcement.",
+            "sent5": "The criminal organization's traffic network spanned across multiple cities."
         }
     ]
 }

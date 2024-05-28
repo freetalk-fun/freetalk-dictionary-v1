@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Bring the different elements of (a complex activity or organization) into a relationship that will ensure efficiency or harmony.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "We need to coordinate our schedules to meet for lunch.",
+            "sent2": "The team must coordinate their efforts to complete the project on time.",
+            "sent3": "Trying to coordinate a surprise party without anyone finding out is tricky.",
+            "sent4": "Her outfit perfectly coordinates with her shoes, creating a stylish look.",
+            "sent5": "The conductor's role is to coordinate the musicians to play in harmony."
         },
         {
             "definition": "A number that identifies a position relative to an axis.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The map showed the coordinates of the hidden treasure.",
+            "sent2": "The GPS uses coordinates to pinpoint your exact location.",
+            "sent3": "The coordinates on the graph revealed the intersection point.",
+            "sent4": "She followed the coordinates to find the buried time capsule.",
+            "sent5": "The coordinates of the star led the astronomers to a new discovery."
         }
     ]
 }

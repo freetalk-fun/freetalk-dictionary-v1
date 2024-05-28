@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To form a hypothesis.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I hypothesize that the sun will rise tomorrow.",
+            "sent2": "Scientists hypothesize to understand the world around them.",
+            "sent3": "Let's hypothesize that aliens love pizza!",
+            "sent4": "She likes to hypothesize about parallel universes.",
+            "sent5": "Can you hypothesize why the cat always sits on the window sill?"
         },
         {
             "definition": "To make an educated guess.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I hypothesize that the missing keys are under the couch.",
+            "sent2": "Students hypothesize the answer before conducting the experiment.",
+            "sent3": "I hypothesize that the dog ate my homework!",
+            "sent4": "He can hypothesize the outcome of the game just by watching the players warm up.",
+            "sent5": "Try to hypothesize the number of jellybeans in the jar without counting them."
         },
         {
             "definition": "To propose a theory.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The scientist will hypothesize a new explanation for the phenomenon.",
+            "sent2": "Researchers hypothesize different models to explain the data.",
+            "sent3": "Let's hypothesize that unicorns are real and hiding in the forest!",
+            "sent4": "She likes to hypothesize about the origins of ancient civilizations.",
+            "sent5": "Can you hypothesize a solution to the puzzle?"
         }
     ]
 }

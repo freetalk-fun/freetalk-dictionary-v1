@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Very large; huge.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The elephant was mega in size compared to the mouse.",
+            "sent2": "The mega cake towered over the other desserts on the table.",
+            "sent3": "The mega snowman in the yard made everyone smile.",
+            "sent4": "Her mega talent for painting amazed everyone who saw her work.",
+            "sent5": "The mega waves crashed against the shore with tremendous force."
         },
         {
             "definition": "Denoting a factor of one million (10^6).",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The company made a mega profit this year.",
+            "sent2": "The rocket traveled at mega speed towards the moon.",
+            "sent3": "The mega sale at the store attracted a huge crowd.",
+            "sent4": "His mega brain could solve any math problem in seconds.",
+            "sent5": "The mega jackpot prize was enough to change their lives forever."
         },
         {
             "definition": "A unit prefix in the metric system denoting a factor of one million (10^6).",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The scientist used mega to represent one million in his calculations.",
+            "sent2": "The computer had a storage capacity of several megabytes.",
+            "sent3": "She bought a dress online that cost a mega amount of money.",
+            "sent4": "The speed of light is often measured in megameters per second.",
+            "sent5": "The spaceship traveled at a mega velocity through space."
         }
     ]
 }

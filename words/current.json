@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Belonging to the present time; happening or being used or done now.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The current situation requires immediate action.",
+            "sent2": "The current weather forecast predicts rain.",
+            "sent3": "I can't believe how current my fashion choices are today!",
+            "sent4": "Her current mood is like a storm waiting to happen.",
+            "sent5": "The current news headline caught everyone's attention."
         },
         {
             "definition": "A flow of electricity through a conductor.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The current in the wire powers the light bulb.",
+            "sent2": "Be careful not to touch the electrical current.",
+            "sent3": "The mischievous squirrel got a shock from the current in the power line.",
+            "sent4": "The current surged through the circuit like a river of energy.",
+            "sent5": "The current flow was strong enough to light up the entire room."
         },
         {
             "definition": "A body of water or air moving in a definite direction.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The ocean current carried the boat swiftly.",
+            "sent2": "Swimmers should be cautious of strong currents.",
+            "sent3": "The playful otters rode the current downstream for fun.",
+            "sent4": "The current of wind lifted the kite high into the sky.",
+            "sent5": "The river current gently guided the leaves along its path."
         }
     ]
 }

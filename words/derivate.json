@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Something that is derived or obtained from a source",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The scientist studied the derivate of the experiment to understand its origin.",
+            "sent2": "The book is a derivate of the author's personal experiences.",
+            "sent3": "The derivate of the recipe was a delicious surprise for the chef.",
+            "sent4": "Her artwork was a colorful derivate of her emotions.",
+            "sent5": "The derivate of the equation was the key to solving the problem."
         },
         {
             "definition": "A financial instrument whose value is based on an underlying asset",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Investors closely monitor the derivate to predict market trends.",
+            "sent2": "The stock market offers various types of derivates for trading.",
+            "sent3": "The derivate seemed to have a mind of its own, fluctuating unexpectedly.",
+            "sent4": "The value of the derivate was like a rollercoaster ride, full of ups and downs.",
+            "sent5": "Understanding the derivate's value is crucial for successful investment."
         },
         {
             "definition": "To obtain or receive from a source",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She will derivate inspiration from nature for her next painting.",
+            "sent2": "Students can derivate knowledge from textbooks and lectures.",
+            "sent3": "He managed to derivate a solution from the complex problem.",
+            "sent4": "The detective had to derivate clues from the crime scene.",
+            "sent5": "It is important to derivate support from reliable sources in times of need."
         }
     ]
 }

@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A loud noise caused by the failure of fuel to ignite in the engine of a motor vehicle.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The mechanic heard a loud backfire when the car's engine failed to start.",
+            "sent2": "The unexpected backfire startled everyone in the parking lot.",
+            "sent3": "The backfire from the car sounded like a mini explosion.",
+            "sent4": "The backfire of the engine echoed through the quiet street.",
+            "sent5": "The sudden backfire made the driver jump in surprise."
         },
         {
             "definition": "A plan or action that has the opposite effect to what was intended.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The marketing campaign turned into a backfire when sales decreased.",
+            "sent2": "The prank was meant to be funny but ended up being a backfire.",
+            "sent3": "The surprise party for Sarah was a backfire as she hated surprises.",
+            "sent4": "The attempt to impress his boss turned into a backfire when he spilled coffee on him.",
+            "sent5": "The decision to skip breakfast was a backfire as he felt faint during the meeting."
         },
         {
             "definition": "To have the opposite effect to what was intended.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "His attempt to fix the leak backfired when he made it worse.",
+            "sent2": "The plan to surprise her backfired when she found out beforehand.",
+            "sent3": "Trying to be sneaky backfired on him when he got caught red-handed.",
+            "sent4": "The shortcut he took backfired, and he ended up getting lost.",
+            "sent5": "Her attempt to save time by skipping steps backfired, leading to mistakes."
         }
     ]
 }

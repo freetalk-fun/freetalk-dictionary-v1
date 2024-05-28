@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A part of a tree that grows out from the trunk.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The squirrel jumped from branch to branch in the tree.",
+            "sent2": "The bird built its nest on a sturdy branch.",
+            "sent3": "The mischievous cat tried to balance on a thin branch but fell off.",
+            "sent4": "The family tree's branches spread far and wide, connecting relatives.",
+            "sent5": "The autumn leaves painted the branches in vibrant colors."
         },
         {
             "definition": "A division or subdivision of a larger organization or system.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The local bank opened a new branch in the neighboring town.",
+            "sent2": "The company's marketing branch focuses on advertising strategies.",
+            "sent3": "The ice cream shop's new branch quickly became the favorite in town.",
+            "sent4": "The tech company's research branch developed innovative products.",
+            "sent5": "The bookstore's fantasy section is a popular branch among readers."
         },
         {
             "definition": "To diverge from the main route or line.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The river will branch off into smaller streams as it flows through the valley.",
+            "sent2": "I need to branch out and explore new hobbies.",
+            "sent3": "The road signs confused me, causing me to branch off onto the wrong path.",
+            "sent4": "Her ideas branch off from traditional methods, bringing fresh perspectives.",
+            "sent5": "The conversation started to branch into different topics, keeping us engaged."
         }
     ]
 }

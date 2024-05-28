@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "stopped briefly",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "The music played uninterrupted for hours.",
+            "sent2": "She interrupted her work to answer the phone.",
+            "sent3": "The cat interrupted its nap to chase a butterfly.",
+            "sent4": "The sun's rays interrupted the darkness of the night.",
+            "sent5": "The sudden noise interrupted the peaceful silence."
         },
         {
             "definition": "broken off",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The interrupted conversation left them confused.",
+            "sent2": "The interrupted movie made it hard to follow the plot.",
+            "sent3": "The interrupted puzzle was missing a piece.",
+            "sent4": "The interrupted bridge left a gap in the path.",
+            "sent5": "The interrupted line in the painting drew attention."
         },
         {
             "definition": "not continuous",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The interrupted sleep left her feeling tired.",
+            "sent2": "The interrupted road required a detour.",
+            "sent3": "The interrupted rain left puddles everywhere.",
+            "sent4": "The interrupted power supply caused inconvenience.",
+            "sent5": "The interrupted signal made the TV screen fuzzy."
         }
     ]
 }

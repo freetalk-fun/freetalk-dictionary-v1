@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To make a hole in or through something with a sharp object.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She pierced the paper with a pencil.",
+            "sent2": "The arrow pierced through the target.",
+            "sent3": "He accidentally pierced his sandwich with a straw.",
+            "sent4": "The truth pierced through her excuses like a sharp blade.",
+            "sent5": "The sound of the whistle pierced the silence of the night."
         },
         {
             "definition": "To penetrate or pass through something.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The sunlight pierced through the clouds.",
+            "sent2": "The bullet pierced the armor.",
+            "sent3": "His loud laughter pierced through the serious atmosphere.",
+            "sent4": "Her words pierced his heart like a dagger.",
+            "sent5": "The aroma of fresh bread pierced through the bakery."
         },
         {
             "definition": "Having a hole or opening made by piercing.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "She wore earrings with pierced holes.",
+            "sent2": "The pierced lid allowed steam to escape.",
+            "sent3": "The pierced balloon slowly deflated.",
+            "sent4": "The pierced envelope revealed a surprise inside.",
+            "sent5": "The pierced armor left him vulnerable to attack."
         }
     ]
 }

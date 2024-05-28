@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A sudden, urgent, usually unexpected occurrence or event requiring immediate action.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "During the storm, the family had to deal with multiple emergencies.",
+            "sent2": "The hospital is always prepared to handle emergencies like accidents and heart attacks.",
+            "sent3": "When the cat got stuck in the tree, it turned into a funny emergency for the fire department.",
+            "sent4": "The sudden power outage was an emergency that plunged the neighborhood into darkness.",
+            "sent5": "Learning first aid can help you be ready for emergencies and save lives."
         },
         {
             "definition": "A situation or state of affairs that poses a threat to life, health, property, or environment and requires immediate attention and resolution.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The firefighters rushed to the scene of the emergency to rescue the trapped workers.",
+            "sent2": "Preparing an emergency kit can help you stay safe during natural disasters.",
+            "sent3": "The cat knocking over the vase was a small emergency in the otherwise peaceful house.",
+            "sent4": "The pollution levels in the city reached an emergency point, prompting officials to take action.",
+            "sent5": "In case of emergencies, it's important to remain calm and follow safety procedures."
         }
     ]
 }

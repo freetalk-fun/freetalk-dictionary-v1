@@ -3,19 +3,39 @@
     "meanings": [
         {
             "definition": "A small piece of paper, fabric, plastic, or similar material attached to an object and giving information about it.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The label on the toy showed the price.",
+            "sent2": "She read the label on the medicine bottle.",
+            "sent3": "The label on the banana peel made her giggle.",
+            "sent4": "His reputation as a troublemaker was a label he couldn't shake.",
+            "sent5": "The label with the warning made her think twice."
         },
         {
             "definition": "A word or phrase that describes or identifies something or someone.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The label 'kind' suits him well.",
+            "sent2": "The label 'fragile' was written on the package.",
+            "sent3": "The label 'genius' made him blush.",
+            "sent4": "The label 'black sheep' felt heavy on her shoulders.",
+            "sent5": "The label 'winner' motivated her to keep going."
         },
         {
             "definition": "To attach a label to something.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She carefully labeled each box with its contents.",
+            "sent2": "He labeled the jars in the pantry for easy access.",
+            "sent3": "The kids labeled their toys to avoid mix-ups.",
+            "sent4": "She labeled her emotions to better understand them.",
+            "sent5": "He labeled the switches to avoid confusion."
         },
         {
             "definition": "To describe or categorize someone or something in a particular way.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "They labeled him as the class clown.",
+            "sent2": "She labeled the event as a success.",
+            "sent3": "He labeled the cat as a ninja in disguise.",
+            "sent4": "The media labeled her the new rising star.",
+            "sent5": "She labeled the day as one to remember."
         }
     ]
 }

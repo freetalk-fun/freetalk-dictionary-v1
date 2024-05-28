@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To subject (a structure) to a stress greater than that which will be imposed on it in use, in order to improve its performance.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The engineers decided to prestress the bridge to make it stronger.",
+            "sent2": "Contractors often prestress concrete beams to enhance their durability.",
+            "sent3": "The building was so stressed out, it needed a little extra prestress to keep it together.",
+            "sent4": "She felt like she needed to prestress her mind before the big exam.",
+            "sent5": "The coach prestressed the importance of teamwork to the players."
         },
         {
             "definition": "The stress applied to a structure before it is subjected to the service loads.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The prestress in the cables helped support the weight of the structure.",
+            "sent2": "Engineers carefully calculated the amount of prestress needed for the project.",
+            "sent3": "The prestress in the foundation gave the building a strong base to stand on.",
+            "sent4": "The prestress in the steel beams acted like a safety net for the entire structure.",
+            "sent5": "The prestress in the walls prevented any cracks from forming under pressure."
         }
     ]
 }

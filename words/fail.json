@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To be unsuccessful in achieving a goal or passing a test.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I fail to understand the math problem.",
+            "sent2": "If you don't study, you will fail the exam.",
+            "sent3": "I tried to bake a cake, but I fail at following recipes.",
+            "sent4": "Her plan to win the race began to fail as she grew tired.",
+            "sent5": "The rocket launch will fail if the countdown is not accurate."
         },
         {
             "definition": "To neglect to do something.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Please don't fail to water the plants while I'm away.",
+            "sent2": "If you fail to lock the door, the cat might escape.",
+            "sent3": "I always fail to check the weather forecast before going out.",
+            "sent4": "The detective could fail to notice a crucial clue in the investigation.",
+            "sent5": "If you fail to charge your phone, it will run out of battery."
         },
         {
             "definition": "To break down; cease to function.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The old car may fail to start in the cold weather.",
+            "sent2": "If the power goes out, the lights will fail to turn on.",
+            "sent3": "The robot might fail to operate if its batteries are low.",
+            "sent4": "The bridge could fail under the weight of too many cars.",
+            "sent5": "The clock will fail to tick if the mechanism is damaged."
         }
     ]
 }

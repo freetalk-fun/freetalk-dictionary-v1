@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A body of water such as a sea, ocean, lake, or river.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The boat sailed smoothly on the calm waters.",
+            "sent2": "The fisherman cast his line into the deep waters.",
+            "sent3": "The ducks happily paddled in the waters of the pond.",
+            "sent4": "Her eyes sparkled like the sun reflecting on the waters.",
+            "sent5": "The waters shimmered under the moonlight, creating a magical scene."
         },
         {
             "definition": "To pour water over or immerse in water.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She waters the plants every morning to help them grow.",
+            "sent2": "The gardener waters the garden with care.",
+            "sent3": "He waters the garden so much, the plants feel like they're in a rainforest.",
+            "sent4": "The rain waters the earth, bringing life to the dry land.",
+            "sent5": "The farmer waters the crops, ensuring a bountiful harvest."
         },
         {
             "definition": "The liquid that descends from the clouds as rain, forms streams, lakes, and seas, and is a major constituent of all living matter.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Without clean waters, life on Earth would not be possible.",
+            "sent2": "The sound of the rushing waters was soothing to her ears.",
+            "sent3": "The cat curiously watched the waters flow down the drain.",
+            "sent4": "Her laughter bubbled up like a spring of fresh waters.",
+            "sent5": "The waters of the river carried stories of the land through the ages."
         }
     ]
 }

@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "(of a verb) Taking both a direct object and an indirect object.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She gave him a book.",
+            "sent2": "He sent her a letter.",
+            "sent3": "The cat brought the mouse a gift.",
+            "sent4": "The teacher handed the student knowledge.",
+            "sent5": "The chef cooked the family a delicious meal."
         },
         {
             "definition": "Involving three participants, typically a subject, a direct object, and an indirect object.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The helpful man offered a lost child assistance.",
+            "sent2": "She received unexpected help from a kind stranger.",
+            "sent3": "The curious cat watched the playful dog chase a ball.",
+            "sent4": "The colorful painting caught the eye of every visitor.",
+            "sent5": "The cozy house provided shelter for the tired travelers."
         }
     ]
 }

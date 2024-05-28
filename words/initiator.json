@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A person or thing that initiates something.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The initiator of the project gathered everyone for a meeting.",
+            "sent2": "The teacher is the initiator of learning in the classroom.",
+            "sent3": "The initiator of the game forgot the rules and made everyone laugh.",
+            "sent4": "Her smile was the initiator of joy in the room.",
+            "sent5": "The initiator of change always faces challenges but never gives up."
         },
         {
             "definition": "A substance that starts a chemical reaction.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The chemist added the initiator to the solution to begin the reaction.",
+            "sent2": "The initiator in the experiment caused the liquid to change color.",
+            "sent3": "The initiator spilled on the table, creating a mini explosion of bubbles.",
+            "sent4": "The initiator mixed with the other chemicals like a spark in the darkness.",
+            "sent5": "The initiator's role in the reaction was crucial for the experiment's success."
         },
         {
             "definition": "A device that starts a process or action.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The remote control is the initiator for the TV to turn on.",
+            "sent2": "Pressing the button on the machine acts as the initiator for the production line.",
+            "sent3": "The initiator for the alarm clock was hidden by the mischievous cat.",
+            "sent4": "The key served as the initiator to unlock the mystery box.",
+            "sent5": "The initiator for the fireworks display was a simple switch that lit up the night sky."
         }
     ]
 }

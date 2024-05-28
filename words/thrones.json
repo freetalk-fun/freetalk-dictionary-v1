@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A ceremonial chair for a monarch or bishop.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The king sat proudly on his throne during the ceremony.",
+            "sent2": "The bishop's throne was adorned with intricate carvings.",
+            "sent3": "The mischievous child pretended to be a king and claimed the playground slide as his throne.",
+            "sent4": "In the game of chess, the queen protects the king on the throne.",
+            "sent5": "The throne gleamed in the sunlight, a symbol of power and authority."
         },
         {
             "definition": "The power, authority, or dignity of a sovereign.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The queen's throne symbolized her rule over the kingdom.",
+            "sent2": "The throne of the emperor was a seat of immense power.",
+            "sent3": "The cat acted as if it ruled the house, perched on the arm of the sofa like a tiny throne.",
+            "sent4": "The CEO's office was like a throne room, where decisions that shaped the company were made.",
+            "sent5": "The throne room echoed with the footsteps of those seeking an audience with the ruler."
         },
         {
             "definition": "To sit on a throne.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The prince thrones gracefully during royal events.",
+            "sent2": "She thrones with elegance and poise, embodying regal grace.",
+            "sent3": "The cat loves to throne on the windowsill, surveying its kingdom of the backyard.",
+            "sent4": "As the winner of the competition, he thrones on the champion's seat with pride.",
+            "sent5": "The actor thrones on the set, becoming the character with each scene."
         }
     ]
 }

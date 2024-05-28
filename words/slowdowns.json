@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A reduction in speed or pace.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The slowdowns in traffic made me late for work.",
+            "sent2": "The construction caused slowdowns on the highway.",
+            "sent3": "The snail's slowdowns were frustrating for the impatient rabbit.",
+            "sent4": "The economic slowdowns hit the country hard.",
+            "sent5": "The slowdowns in the marathon were unexpected and challenging for the runners."
         },
         {
             "definition": "A delay or interruption in progress.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The technical slowdowns in the system affected our productivity.",
+            "sent2": "The unexpected slowdowns in the project deadline caused stress.",
+            "sent3": "The turtle's slowdowns in the race were comical to watch.",
+            "sent4": "The slowdowns in communication led to misunderstandings.",
+            "sent5": "The server slowdowns disrupted the online services for customers."
         }
     ]
 }

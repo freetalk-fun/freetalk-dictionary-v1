@@ -3,19 +3,39 @@
     "meanings": [
         {
             "definition": "To thrust a pointed weapon into or through (someone or something)",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He stabs the knife into the target.",
+            "sent2": "She stabs the straw with a pencil to make a hole.",
+            "sent3": "The chef stabs the meat with a fork to check if it's cooked.",
+            "sent4": "The thunderstorm stabs the ground with lightning bolts.",
+            "sent5": "The dancer stabs the air with precise movements."
         },
         {
             "definition": "A sudden, sharp pain",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "She felt a stab in her side while running.",
+            "sent2": "The sudden stab in his arm made him wince.",
+            "sent3": "The spicy food gave him a stab of discomfort.",
+            "sent4": "The sad news was like a stab to her heart.",
+            "sent5": "The cold wind felt like tiny stabs on her skin."
         },
         {
             "definition": "An attempt to do something",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "His stab at painting resulted in a colorful mess.",
+            "sent2": "She made a stab at solving the puzzle but got stuck.",
+            "sent3": "The cat's stab at catching the laser pointer was amusing.",
+            "sent4": "Their stab at singing ended in laughter from the audience.",
+            "sent5": "The child's stab at tying shoelaces was a proud moment for the parents."
         },
         {
             "definition": "A wound made by stabbing",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The doctor treated the stab on his arm carefully.",
+            "sent2": "The police officer examined the stab on the victim's back.",
+            "sent3": "The character in the movie survived multiple stabs.",
+            "sent4": "The detective found evidence of a recent stab in the crime scene.",
+            "sent5": "The warrior ignored the minor stab and continued fighting."
         }
     ]
 }

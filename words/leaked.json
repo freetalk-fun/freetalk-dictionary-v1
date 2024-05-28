@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "(verb) To allow liquid or gas to escape through a hole or crack.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The water leaked from the pipe, creating a small puddle on the floor.",
+            "sent2": "The soda leaked out of the can when it was accidentally dropped.",
+            "sent3": "The juice leaked from the container, surprising everyone at the picnic.",
+            "sent4": "The air leaked slowly from the balloon, causing it to deflate.",
+            "sent5": "The oil leaked from the engine, leaving a trail behind the car."
         },
         {
             "definition": "(adjective) Information that has been disclosed without authorization.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The leaked document revealed sensitive information about the project.",
+            "sent2": "The leaked memo caused a stir among the employees.",
+            "sent3": "The leaked news spread quickly through the office, causing excitement.",
+            "sent4": "The leaked email contained details that were meant to be confidential.",
+            "sent5": "The leaked report exposed the company's internal workings."
         },
         {
             "definition": "(noun) An unauthorized release of information.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The leaked information led to a scandal within the organization.",
+            "sent2": "The leaked data compromised the security of the system.",
+            "sent3": "The leaked rumor caused chaos among the students.",
+            "sent4": "The leaked footage revealed the truth behind the incident.",
+            "sent5": "The leaked photo exposed the hidden reality of the situation."
         }
     ]
 }

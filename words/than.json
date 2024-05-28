@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Used to introduce the second element in a comparison.",
-            "pos": "conjunction"
+            "pos": "conjunction",
+            "sent1": "Apples are sweeter than lemons.",
+            "sent2": "She runs faster than her brother.",
+            "sent3": "I'd rather eat a shoe than do my homework.",
+            "sent4": "His smile shines brighter than the sun.",
+            "sent5": "Her laughter is louder than thunder."
         },
         {
             "definition": "Used in expressions introducing an exception or contrast.",
-            "pos": "conjunction"
+            "pos": "conjunction",
+            "sent1": "He would rather play outside than clean his room.",
+            "sent2": "She prefers tea rather than coffee.",
+            "sent3": "I'd rather swim in a pool of jelly than attend that boring meeting.",
+            "sent4": "His love for ice cream is stronger than his dislike for vegetables.",
+            "sent5": "Her excitement for the trip was greater than her fear of flying."
         }
     ]
 }

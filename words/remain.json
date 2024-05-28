@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Stay in the same place.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The cat will remain on the mat.",
+            "sent2": "Please remain seated until the bus stops.",
+            "sent3": "The toy car decided to remain still on the track.",
+            "sent4": "The old tree will remain rooted in the ground.",
+            "sent5": "The snowman will remain frozen in place."
         },
         {
             "definition": "Continue to exist.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "His legacy will remain in our hearts forever.",
+            "sent2": "The tradition of giving gifts will remain for generations.",
+            "sent3": "The rumor about the alien invasion will remain in town.",
+            "sent4": "The memory of her smile will remain etched in my mind.",
+            "sent5": "The stars will remain shining in the night sky."
         },
         {
             "definition": "Be left after others have gone.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Only a few cookies remain in the jar.",
+            "sent2": "The last slice of cake will remain for you.",
+            "sent3": "The lone sock will remain unmatched in the drawer.",
+            "sent4": "The final piece of the puzzle will remain unsolved.",
+            "sent5": "A single flower will remain in the garden."
         }
     ]
 }

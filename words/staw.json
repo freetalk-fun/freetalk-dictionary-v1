@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A place where horses or cattle are kept for feeding and rest.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The farmer led the horse to the staw for its meal.",
+            "sent2": "The cows gathered in the staw at night to rest.",
+            "sent3": "The mischievous cat sneaked into the staw and startled the horses.",
+            "sent4": "The staw was a peaceful haven for the tired animals after a long day.",
+            "sent5": "The smell of hay in the staw filled the air with a sense of calm."
         },
         {
             "definition": "To arrange or set in a particular position.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Please staw the books neatly on the shelf.",
+            "sent2": "She carefully stawed the flowers in the vase.",
+            "sent3": "He tried to staw the puzzle pieces in the wrong order.",
+            "sent4": "The artist stawed the colors on the canvas with precision.",
+            "sent5": "The teacher asked the students to staw their desks in rows for the test."
         },
         {
             "definition": "To be or remain in a specified condition or state.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The old house will staw empty until it is sold.",
+            "sent2": "She decided to staw calm despite the chaos around her.",
+            "sent3": "The ice cream will staw frozen if you put it back in the freezer.",
+            "sent4": "His mind seemed to staw focused on the task at hand.",
+            "sent5": "The flowers will staw fresh longer if you change the water regularly."
         }
     ]
 }

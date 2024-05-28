@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A subset of a ring that is itself a ring under the operations of addition and multiplication.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "In algebra class, we learned about a subring, which is like a smaller ring inside a bigger one.",
+            "sent2": "The subring of integers forms a complete ring structure within the set of real numbers.",
+            "sent3": "The subring decided to throw a party for the main ring to celebrate their mathematical unity.",
+            "sent4": "The subring shone brightly, like a tiny ring within a larger one, illuminating the beauty of mathematics.",
+            "sent5": "The concept of a subring is like finding a hidden gem within the realm of rings and operations."
         },
         {
             "definition": "To form a subring from a larger ring by taking a subset that is closed under addition and multiplication.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "We can subring the set of polynomials by selecting only those that remain closed under addition and multiplication.",
+            "sent2": "She subrings the matrix by choosing specific elements that maintain the ring properties.",
+            "sent3": "The mathematician decided to subring the complex numbers for a fun challenge.",
+            "sent4": "He subrings the group of functions, isolating those that create a new ring structure.",
+            "sent5": "Subringing the set of rational numbers can lead to interesting mathematical discoveries."
         }
     ]
 }

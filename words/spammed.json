@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Send the same message indiscriminately to (a large number of recipients) over the Internet.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He spammed his friends with the same joke over and over.",
+            "sent2": "The company spammed my inbox with promotional emails.",
+            "sent3": "The robot thought it was funny to spam the same question repeatedly.",
+            "sent4": "Her laughter spammed the room, contagious and loud.",
+            "sent5": "The rain spammed down on the roof, a steady drumbeat of sound."
         },
         {
             "definition": "Unsolicited electronic messages, typically advertising, sent in bulk.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I received so much spam in my email inbox.",
+            "sent2": "The spam filled up my junk folder quickly.",
+            "sent3": "The cat thought the spam emails were treats and tried to eat them.",
+            "sent4": "The spam was like a swarm of annoying insects buzzing around.",
+            "sent5": "The spam was a never-ending stream of unwanted messages."
         }
     ]
 }

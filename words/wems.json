@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A feeling of distress or unease.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The loud thunderstorm outside gave me wems.",
+            "sent2": "She couldn't sleep due to the wems in her stomach.",
+            "sent3": "The thought of spiders crawling on her made her wems intensify.",
+            "sent4": "The darkness of the cave filled him with wems.",
+            "sent5": "The eerie silence of the abandoned house sent shivers of wems down her spine."
         },
         {
             "definition": "To be in a state of distress or unease.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He wems whenever he has to speak in public.",
+            "sent2": "The uncertainty of the situation wems her greatly.",
+            "sent3": "The cat's mischievous behavior wems the dog.",
+            "sent4": "The looming deadline wems him to the core.",
+            "sent5": "The haunted house always wems visitors with its creaking floors and dark corners."
         },
         {
             "definition": "To cause distress or unease in someone.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The horror movie wems her younger brother.",
+            "sent2": "The unexpected news wems the entire family.",
+            "sent3": "His mischievous pranks never fail to wems his friends.",
+            "sent4": "The eerie silence of the forest wems even the bravest hiker.",
+            "sent5": "The ghost stories told around the campfire wems the campers as they listen intently."
         }
     ]
 }

@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Used to refer to all the individual items in a group without exception.",
-            "pos": "pronoun"
+            "pos": "pronoun",
+            "sent1": "Every student in the class raised their hand.",
+            "sent2": "She reads every book in the library.",
+            "sent3": "Every cookie in the jar mysteriously disappeared overnight.",
+            "sent4": "The stars twinkled like every diamond in the sky.",
+            "sent5": "The teacher checked every homework assignment meticulously."
         },
         {
             "definition": "Used to emphasize the individuality of each member of a specified group.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "She wore a different outfit every day of the week.",
+            "sent2": "Every person has a unique fingerprint.",
+            "sent3": "The cat had a different meow for every family member.",
+            "sent4": "Her laughter was as infectious as every smile in the room.",
+            "sent5": "The artist painted every petal on the flower with care."
         }
     ]
 }

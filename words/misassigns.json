@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To assign incorrectly or wrongly.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She often misassigns tasks to the wrong team members.",
+            "sent2": "The teacher misassigns the homework by mistake.",
+            "sent3": "The robot misassigns the colors and ends up painting a rainbow zebra.",
+            "sent4": "His tired mind misassigns reality, blending dreams with waking life.",
+            "sent5": "The detective's memory misassigns the suspect's face, leading to a mistaken arrest."
         },
         {
             "definition": "Incorrectly assigning or attributing something.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The misassigns in the report caused confusion among the team.",
+            "sent2": "She discovered the misassigns in the data analysis.",
+            "sent3": "The misassigns in the recipe made the cake taste like soap.",
+            "sent4": "The misassigns of blame created tension within the group.",
+            "sent5": "The misassigns of ownership led to a dispute over the valuable painting."
         }
     ]
 }

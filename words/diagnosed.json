@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Identify the nature of (an illness or other problem) by examination of the symptoms.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The doctor diagnosed the flu quickly.",
+            "sent2": "She was diagnosed with a cold last week.",
+            "sent3": "The detective diagnosed the case of the missing cookies.",
+            "sent4": "Her laughter diagnosed her happiness.",
+            "sent5": "The mechanic diagnosed the car trouble with a single glance."
         },
         {
             "definition": "Recognize (a disease or problem) by its symptoms.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The vet diagnosed the dog's illness.",
+            "sent2": "He was diagnosed with a broken arm after the fall.",
+            "sent3": "The chef diagnosed the burnt dinner as a culinary disaster.",
+            "sent4": "His smile diagnosed his excitement for the surprise.",
+            "sent5": "The teacher diagnosed the student's confusion and offered help."
         }
     ]
 }

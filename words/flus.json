@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Flus (noun): plural of flu",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "During the winter, many people catch flus.",
+            "sent2": "The doctor said that flus are contagious.",
+            "sent3": "The classroom was full of flus, making everyone sneeze.",
+            "sent4": "The flus spread through the office like wildfire.",
+            "sent5": "She avoided crowded places to stay away from flus."
         },
         {
             "definition": "Flus (verb): third person singular present of flu",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He flus when he is sick.",
+            "sent2": "She always flus when she has a fever.",
+            "sent3": "The cat flus whenever it gets a cold.",
+            "sent4": "The virus flus rapidly in the community.",
+            "sent5": "The flu bug flus easily from person to person."
         },
         {
             "definition": "Flus (adjective): comparative form of flu",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "This year's flu season seems flus than last year's.",
+            "sent2": "She felt flus after taking the medicine.",
+            "sent3": "The flus strain of the virus was more severe.",
+            "sent4": "His symptoms were flus than hers.",
+            "sent5": "The doctor recommended a stronger medication for the flus cases."
         }
     ]
 }

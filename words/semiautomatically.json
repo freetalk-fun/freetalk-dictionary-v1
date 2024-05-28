@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "In a manner that requires some manual operation in addition to automatic functioning.",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "He typed semiautomatically, pressing some keys by hand and letting the computer fill in the rest.",
+            "sent2": "The machine sewed semiautomatically, with the sewer guiding the fabric while the machine stitched.",
+            "sent3": "The robot danced semiautomatically, moving its arms manually but letting its legs move on their own.",
+            "sent4": "The car drove semiautomatically, with the driver steering but the cruise control maintaining speed.",
+            "sent5": "She cooked semiautomatically, chopping vegetables by hand and letting the food processor blend the ingredients."
         },
         {
             "definition": "With a mechanism that performs some of the tasks automatically.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The semiautomatically controlled door opened when someone approached.",
+            "sent2": "The semiautomatically operated camera adjusted its focus based on lighting conditions.",
+            "sent3": "The semiautomatically watering plant pot released water when the soil dried out.",
+            "sent4": "The semiautomatically adjusting chair reclined when the person leaned back.",
+            "sent5": "The semiautomatically sorting mailbox directed mail to different compartments based on addresses."
         }
     ]
 }

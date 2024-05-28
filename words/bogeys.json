@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "An unidentified aircraft or missile, especially one detected as a blip on a radar screen.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The military detected several bogeys on their radar screen.",
+            "sent2": "The radar operator spotted a bogey approaching from the north.",
+            "sent3": "The radar screen showed a bogey flying in circles, confusing everyone.",
+            "sent4": "The bogeys on the radar screen seemed to dance in a mysterious pattern.",
+            "sent5": "The blip of the bogey on the radar screen blinked erratically, causing concern."
         },
         {
             "definition": "A score of one over par on a hole in golf.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "She recorded a bogey on the scorecard for the 9th hole.",
+            "sent2": "Making a bogey on the last hole cost him the lead in the golf tournament.",
+            "sent3": "His bogey on the easy hole made his friends chuckle.",
+            "sent4": "The bogey on the scorecard felt like a missed opportunity for a birdie.",
+            "sent5": "Scoring a bogey on the final hole left a bitter taste in her mouth."
         },
         {
             "definition": "To score a bogey on a hole in golf.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He bogeys most of the holes due to his inconsistent putting.",
+            "sent2": "If you bogey this hole, you might lose the match.",
+            "sent3": "She always manages to bogey the toughest holes on the course.",
+            "sent4": "Bogeying the hole felt like a missed opportunity for a better score.",
+            "sent5": "Trying not to bogey the hole, he focused on his swing and aim."
         }
     ]
 }

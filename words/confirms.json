@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Establish the truth or correctness of (something previously believed or suspected).",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The scientist confirms the experiment results by repeating the tests.",
+            "sent2": "She confirms her flight reservation before heading to the airport.",
+            "sent3": "The detective confirms the suspect's alibi, solving the case.",
+            "sent4": "His smile confirms his happiness, shining brightly.",
+            "sent5": "The loud applause confirms the success of the performance."
         },
         {
             "definition": "Make a formal statement or announcement about the validity of (something).",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The company confirms the launch date of the new product.",
+            "sent2": "The school confirms the graduation requirements to the students.",
+            "sent3": "The mayor confirms the city's commitment to sustainability.",
+            "sent4": "The judge confirms the verdict, bringing closure to the trial.",
+            "sent5": "The news anchor confirms the breaking news with urgency."
         },
         {
             "definition": "Give approval or support to (someone or something).",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The manager confirms the employee's request for time off.",
+            "sent2": "The committee confirms the decision to fund the project.",
+            "sent3": "The parents confirm their child's choice of college with pride.",
+            "sent4": "The audience confirms their favorite contestant with cheers.",
+            "sent5": "The teacher confirms the student's answer with a nod."
         }
     ]
 }

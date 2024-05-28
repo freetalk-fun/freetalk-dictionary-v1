@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To say or write something as a comment or observation.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She remarked on the beautiful flowers in the garden.",
+            "sent2": "He always remarks on the weather when he visits.",
+            "sent3": "The cat remarked on the empty food bowl with a meow.",
+            "sent4": "The teacher remarked on the student's exceptional progress in math.",
+            "sent5": "The detective remarked on the suspicious behavior of the suspect."
         },
         {
             "definition": "A written or spoken comment or observation.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "His remark about the movie was insightful.",
+            "sent2": "She made a remark about the new company policy.",
+            "sent3": "The remark about the noisy neighbors made everyone laugh.",
+            "sent4": "The remark about the sunset being like a painting was poetic.",
+            "sent5": "The remark about the delicious cake made everyone hungry."
         }
     ]
 }

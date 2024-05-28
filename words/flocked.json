@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A group of animals, especially birds, that have gathered together.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The flocked of colorful birds flew across the sky.",
+            "sent2": "The park was filled with a flocked of ducks swimming in the pond.",
+            "sent3": "The noisy flocked of parrots chattered away in the trees.",
+            "sent4": "The flocked of seagulls descended upon the beach, looking for food.",
+            "sent5": "The flocked of geese honked loudly as they flew south for the winter."
         },
         {
             "definition": "Covered or decorated with a soft, raised material.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "She loved her flocked pillow for its softness.",
+            "sent2": "The flocked wallpaper added a touch of elegance to the room.",
+            "sent3": "The flocked blanket felt cozy and warm on the cold night.",
+            "sent4": "The flocked velvet dress shimmered under the lights.",
+            "sent5": "The flocked carpet felt luxurious underfoot."
         },
         {
             "definition": "To gather or move in a large group.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The tourists flocked to the famous landmark to take pictures.",
+            "sent2": "People flocked to the store for the big sale.",
+            "sent3": "The children flocked around the ice cream truck, eager for a treat.",
+            "sent4": "Fans flocked to the stadium to see their favorite team play.",
+            "sent5": "Birds flocked together in the evening before roosting for the night."
         }
     ]
 }

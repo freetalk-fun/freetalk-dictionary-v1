@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Convert (information or data) into a code.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I encoded my secret message to keep it safe.",
+            "sent2": "The software encoded the sensitive information for security purposes.",
+            "sent3": "I accidentally encoded my shopping list, now I can't read it!",
+            "sent4": "Her smile encoded a sense of warmth and kindness.",
+            "sent5": "The ancient map was encoded with mysterious symbols."
         },
         {
             "definition": "Represent (a message or information) in a particular way by converting it into a code.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The spy encoded the top-secret document before sending it.",
+            "sent2": "The encryption software can easily encode any text.",
+            "sent3": "I tried to encode my phone number, but now I can't remember it!",
+            "sent4": "His artwork encoded emotions that words could not express.",
+            "sent5": "The coded message was so well encoded that only the recipient could decipher it."
         },
         {
             "definition": "To put (a message) into code.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She carefully encoded the instructions for the treasure hunt.",
+            "sent2": "The ancient civilization used unique symbols to encode their history.",
+            "sent3": "I accidentally encoded my password, now I can't log in!",
+            "sent4": "His eyes encoded a silent plea for help.",
+            "sent5": "The encoded diary held secrets waiting to be unlocked."
         }
     ]
 }

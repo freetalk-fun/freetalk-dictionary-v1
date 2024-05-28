@@ -3,19 +3,39 @@
     "meanings": [
         {
             "definition": "Save: to rescue or preserve from harm, danger, or loss",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I will savs the kitten stuck in the tree.",
+            "sent2": "Firefighters savs people from burning buildings.",
+            "sent3": "The superhero used their powers to savs the city from destruction.",
+            "sent4": "Her quick thinking savs the day during the emergency.",
+            "sent5": "The lifeboat crew bravely savs the sailors from the stormy sea."
         },
         {
             "definition": "Save: except; but",
-            "pos": "conjunction"
+            "pos": "conjunction",
+            "sent1": "I like all fruits, savs bananas.",
+            "sent2": "She wanted to go out, savs she was feeling tired.",
+            "sent3": "I will eat everything on my plate, savs the broccoli.",
+            "sent4": "He enjoys all sports, savs basketball.",
+            "sent5": "I enjoy all colors, savs yellow."
         },
         {
             "definition": "Save: except for; but for",
-            "pos": "preposition"
+            "pos": "preposition",
+            "sent1": "Everyone came to the party, savs Sarah.",
+            "sent2": "I would have finished on time, savs the traffic jam.",
+            "sent3": "The team won every game, savs the final match.",
+            "sent4": "She aced all her exams, savs the last one.",
+            "sent5": "He loves all animals, savs snakes."
         },
         {
             "definition": "Save: with the exception of; except; but",
-            "pos": "preposition"
+            "pos": "preposition",
+            "sent1": "The park is open every day, savs Mondays.",
+            "sent2": "She likes all genres of music, savs heavy metal.",
+            "sent3": "He enjoys all foods, savs spicy dishes.",
+            "sent4": "The store sells all kinds of shoes, savs boots.",
+            "sent5": "I visit the library often, savs weekends."
         }
     ]
 }

@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "The hindmost part of an animal, especially when extended beyond the rest of the body.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The dog wagged its tail happily.",
+            "sent2": "The cat's tail twitched nervously.",
+            "sent3": "The squirrel tried to balance on its tail like a circus performer.",
+            "sent4": "The kite's tail helped it soar gracefully in the sky.",
+            "sent5": "The peacock proudly displayed its colorful tail feathers."
         },
         {
             "definition": "A long, narrow part extending from the back or base of something.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The comet had a bright tail trailing behind it.",
+            "sent2": "The kite's tail fluttered in the wind.",
+            "sent3": "The ribbon's tail got caught in the door and unraveled.",
+            "sent4": "The shooting star left a glowing tail in the night sky.",
+            "sent5": "The lizard dropped its tail to escape from the predator."
         },
         {
             "definition": "To follow or trail behind someone or something closely.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The puppy would tail its owner wherever she went.",
+            "sent2": "The detective decided to tail the suspect discreetly.",
+            "sent3": "The mischievous kids tried to tail their teacher during the field trip.",
+            "sent4": "The shadow seemed to tail him wherever he went, making him uneasy.",
+            "sent5": "The paparazzi attempted to tail the celebrity for an exclusive story."
         }
     ]
 }

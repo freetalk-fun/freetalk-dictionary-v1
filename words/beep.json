@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A short, high-pitched sound or tone.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The beep of the alarm clock woke me up.",
+            "sent2": "I heard a beep coming from the microwave.",
+            "sent3": "The beep of the car horn made everyone jump.",
+            "sent4": "The beep of the heart monitor was a constant reminder of life.",
+            "sent5": "The beep of the oven timer filled the kitchen with anticipation."
         },
         {
             "definition": "To make a short, high-pitched sound or tone.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I will beep the car horn to get their attention.",
+            "sent2": "The microwave will beep when the food is ready.",
+            "sent3": "The robot beeped happily after completing its task.",
+            "sent4": "The watch beeped, reminding me of the passing time.",
+            "sent5": "The phone beeped with each new message, keeping me informed."
         }
     ]
 }

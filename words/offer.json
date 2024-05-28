@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Present or proffer (something) for (someone) to accept or reject as desired.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I will offer you a cookie.",
+            "sent2": "She offered her help to the new student.",
+            "sent3": "The cat offered a toy mouse as a gift.",
+            "sent4": "The sun offered its warm rays to the chilly morning.",
+            "sent5": "He offered a kind smile to brighten her day."
         },
         {
             "definition": "An act of offering something for acceptance.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The offer of a free sample attracted many customers.",
+            "sent2": "She received a job offer from the company.",
+            "sent3": "The offer of a high-five was met with enthusiasm.",
+            "sent4": "The offer of friendship was like a warm hug.",
+            "sent5": "The generous offer made her day brighter."
         },
         {
             "definition": "An expression of readiness to do or give something if desired.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "His offer to help with the project was appreciated.",
+            "sent2": "The offer to babysit came at just the right time.",
+            "sent3": "The offer of a dance was unexpected but fun.",
+            "sent4": "Her offer to listen was like a soothing balm.",
+            "sent5": "The offer of a ride home was a relief after a long day."
         }
     ]
 }

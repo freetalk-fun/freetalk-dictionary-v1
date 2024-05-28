@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A person who attacks and robs ships at sea.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The pirate sailed the ocean in search of treasure.",
+            "sent2": "The pirate raised the Jolly Roger flag before boarding the ship.",
+            "sent3": "The pirate's parrot squawked loudly as they approached the merchant vessel.",
+            "sent4": "The pirate's eye patch added to his menacing appearance.",
+            "sent5": "The pirate's wooden leg thumped loudly on the deck."
         },
         {
             "definition": "To illegally copy and distribute copyrighted material.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He decided to pirate the movie instead of buying it.",
+            "sent2": "She was caught trying to pirate software online.",
+            "sent3": "The students joked that they would pirate the teacher's notes.",
+            "sent4": "Pirating music is against the law.",
+            "sent5": "The website warned against pirating movies."
         },
         {
             "definition": "To take something without permission or right.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The kids tried to pirate some cookies from the jar.",
+            "sent2": "She would often pirate her brother's toys without asking.",
+            "sent3": "He attempted to pirate a ride on his friend's bike.",
+            "sent4": "Pirating office supplies is not ethical.",
+            "sent5": "The squirrel managed to pirate some nuts from the bird feeder."
         }
     ]
 }

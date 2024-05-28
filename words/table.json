@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A piece of furniture with a flat top and one or more legs for eating, writing, or working.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The wooden table in the kitchen is where we eat our meals.",
+            "sent2": "She placed the dishes carefully on the table before serving dinner.",
+            "sent3": "The mischievous cat jumped onto the table and knocked over a glass of water.",
+            "sent4": "In the busy office, the table served as a hub for collaboration and discussions.",
+            "sent5": "The antique table in the living room had intricate carvings on its legs."
         },
         {
             "definition": "A set of data arranged in rows and columns for reference or analysis.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The sales team presented the quarterly numbers on a detailed table.",
+            "sent2": "Students used the table to compare the different variables in the experiment.",
+            "sent3": "The unexpected results on the data table left the researchers puzzled.",
+            "sent4": "The table of contents at the beginning of the book helped readers navigate easily.",
+            "sent5": "The periodic table organizes elements based on their properties and atomic numbers."
         },
         {
             "definition": "To postpone consideration of something.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Let's table the discussion about the budget until the next meeting.",
+            "sent2": "The team decided to table the decision on the new project proposal.",
+            "sent3": "The manager had to table the idea of expanding the business due to budget constraints.",
+            "sent4": "They agreed to table the debate on the controversial topic for a later date.",
+            "sent5": "The committee chose to table the motion until all members were present."
         }
     ]
 }

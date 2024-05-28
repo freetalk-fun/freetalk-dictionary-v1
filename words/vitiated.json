@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Spoiled or impaired in quality",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The vitiated milk had a sour smell.",
+            "sent2": "The vitiated fruit was mushy and unappetizing.",
+            "sent3": "The vitiated cake tasted like old socks.",
+            "sent4": "Her vitiated phone battery drained quickly.",
+            "sent5": "The vitiated water was murky and undrinkable."
         },
         {
             "definition": "Corrupted or made ineffective",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The vitiated plan led to chaos.",
+            "sent2": "His vitiated argument fell apart under scrutiny.",
+            "sent3": "The vitiated computer virus caused havoc.",
+            "sent4": "The vitiated relationship was beyond repair.",
+            "sent5": "The vitiated medicine had no healing power."
         },
         {
             "definition": "To impair the quality or efficiency of",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Neglecting maintenance can vitiate the machinery.",
+            "sent2": "His laziness vitiated his chances of success.",
+            "sent3": "Adding too much salt can vitiate the dish.",
+            "sent4": "The storm vitiated the structural integrity of the building.",
+            "sent5": "His lies vitiated the trust between them."
         }
     ]
 }

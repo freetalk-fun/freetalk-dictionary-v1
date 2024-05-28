@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "For a short period of time",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "She briefly glanced at the clock before returning to her work.",
+            "sent2": "The thunderstorm passed by briefly, leaving behind a rainbow.",
+            "sent3": "The squirrel briefly paused to steal a nut from the bird feeder.",
+            "sent4": "The shooting star streaked across the sky briefly, mesmerizing everyone.",
+            "sent5": "The candle flame flickered briefly before extinguishing."
         },
         {
             "definition": "In a concise manner",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "He explained the rules briefly before starting the game.",
+            "sent2": "The teacher summarized the lesson briefly for the students.",
+            "sent3": "The chef briefly tasted the soup to check the seasoning.",
+            "sent4": "The artist sketched the landscape briefly, capturing its essence.",
+            "sent5": "The CEO spoke briefly at the meeting, outlining the company's goals."
         },
         {
             "definition": "To give a summary or overview",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She briefly briefed the team on the upcoming project.",
+            "sent2": "The news anchor briefly summarized the day's events.",
+            "sent3": "The comedian briefly recapped the funny moments of the show.",
+            "sent4": "The historian briefly outlined the key events of the war.",
+            "sent5": "The manager briefly briefed the staff on the new policy changes."
         }
     ]
 }

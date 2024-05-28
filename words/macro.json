@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Very large in scale or scope.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The mountain range was a macro feature of the landscape.",
+            "sent2": "The company's macro strategy focused on long-term growth.",
+            "sent3": "The macro elephant towered over the other animals at the zoo.",
+            "sent4": "In the macro world of business, every decision has significant consequences.",
+            "sent5": "The macro impact of climate change is felt globally."
         },
         {
             "definition": "A setting on a camera that allows for close-up photography.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "To capture the intricate details, adjust the macro setting on the camera.",
+            "sent2": "The photographer used a macro lens to take stunning close-up shots.",
+            "sent3": "I accidentally switched to macro mode and ended up with extreme close-ups of my cat's fur.",
+            "sent4": "With the macro feature, you can focus on the smallest elements in the frame.",
+            "sent5": "The beauty of nature is revealed through the lens of a macro setting."
         },
         {
             "definition": "A programming language instruction that performs a sequence of operations.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The software developer wrote a complex macro to automate repetitive tasks.",
+            "sent2": "By using macros, the programmer streamlined the coding process.",
+            "sent3": "The computer glitch was caused by a faulty macro in the program.",
+            "sent4": "The macro executed flawlessly, completing the task in seconds.",
+            "sent5": "Learning to create macros can greatly enhance programming efficiency."
         }
     ]
 }

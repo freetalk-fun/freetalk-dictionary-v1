@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A young sheep",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The lamb frolicked in the meadow.",
+            "sent2": "The farmer raised many lambs on his farm.",
+            "sent3": "The lamb tried to play hide-and-seek with the other animals.",
+            "sent4": "The innocence of the lamb reminded her of her childhood.",
+            "sent5": "The fluffy white lamb was a delightful sight."
         },
         {
             "definition": "The flesh of a young sheep used as food",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "She cooked a delicious lamb stew for dinner.",
+            "sent2": "The restaurant served roasted lamb with mint sauce.",
+            "sent3": "The lamb dish was so tasty that it disappeared in minutes.",
+            "sent4": "The aroma of the cooking lamb filled the kitchen.",
+            "sent5": "The tender lamb melted in her mouth with each bite."
         },
         {
             "definition": "To give birth to a lamb",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The ewe will lamb in the spring.",
+            "sent2": "The farm animals watched as the sheep lambed in the barn.",
+            "sent3": "The sheep lambed right in the middle of the farmer's speech.",
+            "sent4": "The field echoed with the sounds of lambs being born.",
+            "sent5": "The shepherd helped the ewe lamb safely."
         }
     ]
 }

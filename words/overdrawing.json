@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To draw more money from a bank account than is available",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She accidentally overdraws her account when she forgets to check her balance.",
+            "sent2": "He tends to overdraw his account towards the end of the month.",
+            "sent3": "The squirrel overdraws its acorn savings account for winter.",
+            "sent4": "The river overdraws its banks during heavy rains.",
+            "sent5": "The artist overdraws the details in the painting, making it look unrealistic."
         },
         {
             "definition": "The act of drawing a picture with too much detail or shading",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Her overdrawing of the flower made it look messy instead of simple.",
+            "sent2": "The overdrawing of the landscape added depth and richness to the artwork.",
+            "sent3": "The overdrawing of the stick figure made it look like a complex robot.",
+            "sent4": "The overdrawing of the clouds in the sky gave the painting a dreamy feel.",
+            "sent5": "His overdrawing of the tree made it appear more lifelike and vibrant."
         },
         {
             "definition": "The process of creating an overdraft on a bank account",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "His frequent overdrawing led to hefty bank fees.",
+            "sent2": "The bank notifies customers of any overdrawing on their accounts.",
+            "sent3": "The overdrawing of the account caused a temporary financial hiccup.",
+            "sent4": "She learned her lesson about overdrawing after facing financial consequences.",
+            "sent5": "The overdrawing of the account left him in a tight spot until his next paycheck."
         }
     ]
 }

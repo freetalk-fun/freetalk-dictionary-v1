@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "The action of one object coming forcibly into contact with another.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The impacts of the two cars colliding caused a loud noise.",
+            "sent2": "The earthquake had significant impacts on the buildings in the city.",
+            "sent3": "The impacts of the basketball hitting the hoop made a funny sound.",
+            "sent4": "The impacts of the storm hitting the coast were devastating.",
+            "sent5": "The impacts of the hammer hitting the nail were clearly visible."
         },
         {
             "definition": "A marked effect or influence.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The positive impacts of exercise on health are well-documented.",
+            "sent2": "The new policy had immediate impacts on the company's profits.",
+            "sent3": "The impacts of eating too much cake can be quite amusing.",
+            "sent4": "The impacts of her words on him were like a powerful wave.",
+            "sent5": "The impacts of the decision were etched in everyone's memory."
         }
     ]
 }

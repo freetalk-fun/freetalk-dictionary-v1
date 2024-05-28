@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To insert or fix firmly into a surrounding mass",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She carefully implants the seeds into the soil.",
+            "sent2": "The dentist implants the artificial tooth into the patient's jaw.",
+            "sent3": "The robot mistakenly implants the wrong chip into its system.",
+            "sent4": "His words implant a sense of doubt in her mind.",
+            "sent5": "The idea of traveling to space implants itself in his imagination."
         },
         {
             "definition": "A device or material that is placed within the body for medical purposes",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The doctor recommends getting dental implants for missing teeth.",
+            "sent2": "The pacemaker is a common type of medical implant.",
+            "sent3": "The tiny implant helped monitor her heart rate, much to her relief.",
+            "sent4": "Her smile brightened after getting the dental implants.",
+            "sent5": "The implant slowly released medication into his bloodstream."
         }
     ]
 }

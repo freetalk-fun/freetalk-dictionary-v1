@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A word that denotes a constituent part or member of a larger whole.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "In the sentence, 'finger' is a meronyms for 'hand'.",
+            "sent2": "The word 'wheel' is a meronyms of 'car'.",
+            "sent3": "The puzzle piece was a meronyms for the missing section.",
+            "sent4": "Each brick in the wall acted as a meronyms of the entire structure.",
+            "sent5": "The leaf on the tree is a perfect example of a meronyms."
         },
         {
             "definition": "A word that is the opposite of a holonym.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The term 'finger' is a meronyms, unlike 'hand' which is a holonym.",
+            "sent2": "In the pair 'leaf' and 'tree', 'leaf' is a meronyms.",
+            "sent3": "The small piece of the puzzle was the meronyms, not the whole picture.",
+            "sent4": "The individual gear is a meronyms, while the machine is the holonym.",
+            "sent5": "The word 'petal' is a meronyms when compared to 'flower'."
         }
     ]
 }

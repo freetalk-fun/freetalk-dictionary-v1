@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A television show or movie that is broadcast again.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I watched a rerun of my favorite show last night.",
+            "sent2": "The rerun of the movie was even better the second time.",
+            "sent3": "The rerun of the show made me laugh just as much as the first time.",
+            "sent4": "Watching the rerun felt like visiting an old friend.",
+            "sent5": "The rerun brought back all the memories of watching it the first time."
         },
         {
             "definition": "To broadcast a television show or movie again.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "They will rerun the episode next week for those who missed it.",
+            "sent2": "I rerun the movie for my friends who hadn't seen it before.",
+            "sent3": "She decided to rerun the show to share it with her family.",
+            "sent4": "Rerunning the film allowed more people to enjoy it.",
+            "sent5": "The network will rerun the series for fans who want to watch it again."
         }
     ]
 }

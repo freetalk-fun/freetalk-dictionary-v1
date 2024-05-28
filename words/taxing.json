@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Causing difficulty or strain",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The long and taxing journey left him exhausted.",
+            "sent2": "The challenging puzzle was quite taxing for her.",
+            "sent3": "Trying to juggle all those tasks was truly taxing.",
+            "sent4": "The weight of his responsibilities felt as taxing as carrying a heavy load.",
+            "sent5": "The never-ending paperwork was a taxing burden on her shoulders."
         },
         {
             "definition": "Imposing a tax on",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The government decided to start taxing luxury items.",
+            "sent2": "They plan to tax the new property developments.",
+            "sent3": "The decision to tax sugary drinks caused quite a stir.",
+            "sent4": "The proposal to tax online purchases met with mixed reactions.",
+            "sent5": "The new law will tax all imported goods at a higher rate."
         },
         {
             "definition": "Demanding or requiring a lot of effort or energy",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The demanding project was mentally taxing for the team.",
+            "sent2": "Her taxing workout routine left her feeling accomplished.",
+            "sent3": "The idea of running a marathon seemed both exciting and taxing.",
+            "sent4": "The emotionally taxing movie left everyone in tears.",
+            "sent5": "The physically taxing hike up the mountain was worth the view at the top."
         }
     ]
 }

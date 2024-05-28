@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A person who edits written material for publication.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The editor carefully checked for any mistakes in the article.",
+            "sent2": "The editor made sure the book was ready to be printed.",
+            "sent3": "The editor found a funny typo in the story and fixed it.",
+            "sent4": "She was like an editor of life, making sure everything was in order.",
+            "sent5": "The editor's red pen marked all the errors in the document."
         },
         {
             "definition": "A program or software used for editing text or images.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I used the editor to crop the photo and adjust the colors.",
+            "sent2": "The editor allowed me to change the font and size of the text.",
+            "sent3": "The editor decided to randomly delete all the vowels in the text.",
+            "sent4": "The editor was a magic wand, transforming the image with a click.",
+            "sent5": "With the editor, I could make the picture look like a painting."
         }
     ]
 }

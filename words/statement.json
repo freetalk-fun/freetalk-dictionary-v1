@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A definite or clear expression of something in speech or writing.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "She made a statement about her favorite book during class.",
+            "sent2": "The witness gave a statement to the police about what he saw.",
+            "sent3": "The cat made a statement by knocking over the vase.",
+            "sent4": "His artwork was a statement of his inner emotions.",
+            "sent5": "The teacher's statement about the importance of reading stuck with me."
         },
         {
             "definition": "An official account of facts or opinions.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The government issued a statement regarding the new policy.",
+            "sent2": "The press release contained the company's official statement.",
+            "sent3": "The statement from the mayor caused quite a stir in the town.",
+            "sent4": "Her statement on the matter was clear and concise.",
+            "sent5": "The statement from the CEO reassured the employees about the future of the company."
         },
         {
             "definition": "A formal account of events or facts.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The witness provided a statement to the court about the incident.",
+            "sent2": "The historical document was a detailed statement of the events.",
+            "sent3": "The statement from the scientist explained the experiment step by step.",
+            "sent4": "His statement on the matter shed light on the situation.",
+            "sent5": "The statement in the newspaper clarified the misunderstanding."
         }
     ]
 }

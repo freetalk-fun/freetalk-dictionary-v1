@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To allow liquid or gas to escape through a hole or crack.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The faucet leaks water slowly.",
+            "sent2": "The tire leaks air when it is punctured.",
+            "sent3": "The old bucket leaks like a sieve!",
+            "sent4": "Her eyes leaked tears of joy.",
+            "sent5": "The roof leaks during heavy rain, causing a mess inside."
         },
         {
             "definition": "A hole or crack through which liquid or gas escapes.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "There is a leak in the pipe under the sink.",
+            "sent2": "The plumber fixed the leak in the ceiling.",
+            "sent3": "The leak in the boat made it look like a fountain.",
+            "sent4": "The leak in the dam caused a flood downstream.",
+            "sent5": "The leak in the balloon made it slowly deflate."
         },
         {
             "definition": "Information that is disclosed or revealed without authorization.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The leak about the new product spread quickly.",
+            "sent2": "The journalist published the leak about the scandal.",
+            "sent3": "The leak of the surprise party plan ruined the surprise!",
+            "sent4": "The leak of classified documents caused a stir.",
+            "sent5": "The leak of the exam answers led to consequences for the students."
         }
     ]
 }

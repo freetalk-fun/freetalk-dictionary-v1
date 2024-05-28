@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A reptile with a bony or leathery shell",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The turtles basked in the sun on the rock.",
+            "sent2": "I saw a group of turtles at the pond.",
+            "sent3": "Why did the turtles bring sunscreen to the beach?",
+            "sent4": "Her tough exterior was like a turtle's shell.",
+            "sent5": "The slow-moving turtles in the pond were a peaceful sight."
         },
         {
             "definition": "Move or swim slowly and awkwardly, like a turtle",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The old car turtles along the road.",
+            "sent2": "She turtles through the water during her swimming lessons.",
+            "sent3": "The snail challenged the turtle to a race to see who would turtle the slowest.",
+            "sent4": "Time seemed to turtle by as they waited for the bus.",
+            "sent5": "The caterpillar seemed to turtle its way across the leaf."
         }
     ]
 }

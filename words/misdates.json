@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Assign an incorrect date to (an event or document).",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She misdates the letter, thinking it was written yesterday.",
+            "sent2": "The historian often misdates important historical events.",
+            "sent3": "The detective misdates the crime scene, causing confusion in the investigation.",
+            "sent4": "His memory misdates the incident, making it seem more recent than it actually was.",
+            "sent5": "The librarian misdates the ancient manuscript, leading to a misunderstanding of its origins."
         },
         {
             "definition": "Be dated wrongly.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The old photograph misdates back to the early 1900s.",
+            "sent2": "The stone tablet misdates to a time before the kingdom existed.",
+            "sent3": "The clock misdates due to a mechanical error, showing the wrong time.",
+            "sent4": "Her diary entry misdates the day of the week, causing her to miss an important meeting.",
+            "sent5": "The tree's growth rings misdate its age, making it appear older than it really is."
         }
     ]
 }

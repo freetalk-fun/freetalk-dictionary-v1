@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "The quality, condition, or fact of being exact and accurate.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Her precision in solving math problems impressed the teacher.",
+            "sent2": "The watchmaker's precision in crafting tiny gears was remarkable.",
+            "sent3": "The chef's precision in cutting vegetables made them look like colorful jewels.",
+            "sent4": "His precision in timing the jump made him win the race by a hair.",
+            "sent5": "The surgeon's precision with the scalpel saved the patient's life."
         },
         {
             "definition": "The degree to which repeated measurements show the same result.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The scientist's experiment showed high precision in its results.",
+            "sent2": "The precision of the scale ensured accurate readings every time.",
+            "sent3": "The precision of the clock was so perfect that it never lost a second.",
+            "sent4": "The precision of the compass guided them safely through the dense forest.",
+            "sent5": "The precision of the ruler helped in drawing straight lines without errors."
         }
     ]
 }

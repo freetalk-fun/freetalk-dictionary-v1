@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A general summary or survey of a subject.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The teacher provided an overview of the lesson before starting.",
+            "sent2": "The book contains overviews of various historical events.",
+            "sent3": "The overview of the movie plot made everyone laugh.",
+            "sent4": "Her painting was an overview of the cityscape, capturing its essence.",
+            "sent5": "The travel brochure's overview of the destination was enticing."
         },
         {
             "definition": "To give a general review or summary of something.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She overviews the main points in her presentation.",
+            "sent2": "He overviews the project progress during the meeting.",
+            "sent3": "The comedian overviews the news in a hilarious way.",
+            "sent4": "His speech overviews the challenges we may face in the future.",
+            "sent5": "The guide overviews the tour itinerary for the visitors."
         }
     ]
 }

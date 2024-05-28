@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Cause physical pain or injury to",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Running into the wall can hurt your head.",
+            "sent2": "Falling off a bike can hurt your knee.",
+            "sent3": "It would hurt if you accidentally hit your toe on the table.",
+            "sent4": "The sharp words hurt more than any physical pain.",
+            "sent5": "The burn from the stove hurt like a fiery dragon's breath."
         },
         {
             "definition": "Feel pain or suffering",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "When you fall, it can hurt a lot.",
+            "sent2": "She hurt all over after the long hike.",
+            "sent3": "It would hurt to lose your favorite toy.",
+            "sent4": "His heart hurt as he watched the sad movie.",
+            "sent5": "The ache in her chest hurt like a heavy weight pressing down."
         },
         {
             "definition": "Damage or harm emotionally",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Being left out of the game can hurt a child's feelings.",
+            "sent2": "The harsh criticism hurt her confidence.",
+            "sent3": "It would hurt to hear such mean words from a friend.",
+            "sent4": "The betrayal hurt like a stab in the back.",
+            "sent5": "The emotional pain hurt more than any physical wound."
         }
     ]
 }

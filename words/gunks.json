@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A thick, sticky substance",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The gunk on the table was hard to clean.",
+            "sent2": "I accidentally stepped in some gunk on the sidewalk.",
+            "sent3": "The gunk on my hands made them stick together like glue.",
+            "sent4": "The gunk in the drain was like a stubborn enemy, refusing to budge.",
+            "sent5": "The gunk in the old pipes was so thick, it felt like trying to walk through mud."
         },
         {
             "definition": "To become clogged or coated with a sticky substance",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "If you don't clean the blender, it will gunk up.",
+            "sent2": "The gears of the machine gunked after being exposed to oil.",
+            "sent3": "The syrup started to gunk up the nozzle, making it hard to pour.",
+            "sent4": "The old engine gunked up with rust, refusing to start.",
+            "sent5": "Leaving the paintbrush in water caused it to gunk up with dried paint."
         },
         {
             "definition": "A messy or dirty area",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The garage was a gunk of tools and old boxes.",
+            "sent2": "After the party, the living room was a gunk of spilled drinks and snacks.",
+            "sent3": "The kids turned the backyard into a gunk of toys and mud.",
+            "sent4": "The attic was a gunk of forgotten treasures and dust.",
+            "sent5": "The abandoned house was a gunk of cobwebs and debris."
         }
     ]
 }

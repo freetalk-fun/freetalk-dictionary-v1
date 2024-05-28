@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "State as a fact; assert strongly and publicly.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She affirmed her belief in aliens to her friends.",
+            "sent2": "The witness affirmed that he saw the crime happen.",
+            "sent3": "He affirmed his love for pizza by ordering it every day.",
+            "sent4": "The roaring crowd affirmed their support for the team.",
+            "sent5": "The scientist affirmed the existence of a new species."
         },
         {
             "definition": "Offer emotional support or encouragement to someone.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She always affirms her friends when they feel down.",
+            "sent2": "The coach affirmed the player after a tough game.",
+            "sent3": "He affirmed his sister before her big presentation.",
+            "sent4": "The teacher affirmed the student's efforts in class.",
+            "sent5": "The parent affirmed the child's courage to try something new."
         },
         {
             "definition": "Confirm or ratify.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The judge affirmed the jury's decision.",
+            "sent2": "The signature on the document affirmed the agreement.",
+            "sent3": "He affirmed his attendance by RSVPing to the event.",
+            "sent4": "The company affirmed the contract with a handshake.",
+            "sent5": "The test results affirmed the doctor's diagnosis."
         }
     ]
 }

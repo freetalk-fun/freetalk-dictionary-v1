@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Reflexives: Pronouns that refer back to the subject of the sentence.",
-            "pos": "pronoun"
+            "pos": "pronoun",
+            "sent1": "She hurt herself with the knife.",
+            "sent2": "They saw themselves in the mirror.",
+            "sent3": "He reminded himself to study for the test.",
+            "sent4": "The cat groomed itself meticulously.",
+            "sent5": "The baby touched itself with curiosity."
         },
         {
             "definition": "Reflexives: Actions performed by an organism in response to a stimulus without conscious thought.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The sneeze was a reflexive action.",
+            "sent2": "His reflexives were quick and automatic.",
+            "sent3": "The dog's reflexives amused the children.",
+            "sent4": "The blinking of eyes is a reflexive action.",
+            "sent5": "The plant's reflexives to sunlight were fascinating."
         },
         {
             "definition": "Reflexives: Verbs that indicate an action done to oneself.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She always brushes herself before bed.",
+            "sent2": "They teach themselves new skills online.",
+            "sent3": "He accidentally cut himself while cooking.",
+            "sent4": "The athlete trained himself rigorously for the race.",
+            "sent5": "The musician composed the song himself."
         }
     ]
 }

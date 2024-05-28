@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Present participle of ask.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She is asking for help.",
+            "sent2": "He keeps asking questions in class.",
+            "sent3": "The cat is asking for more treats.",
+            "sent4": "The flowers are asking for sunlight to grow.",
+            "sent5": "The child's eyes are asking for attention."
         },
         {
             "definition": "The act of requesting something.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "His asking for a raise was denied.",
+            "sent2": "The asking for donations was successful.",
+            "sent3": "The puppy's asking for a walk was adorable.",
+            "sent4": "The empty bowl's asking for food was evident.",
+            "sent5": "The student's asking for extra credit was understandable."
         },
         {
             "definition": "The act of seeking information.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Her asking about the event details was thorough.",
+            "sent2": "The asking for directions was necessary.",
+            "sent3": "The squirrel's asking for nuts was amusing.",
+            "sent4": "The detective's asking for clues was relentless.",
+            "sent5": "The scientist's asking for data was crucial."
         }
     ]
 }

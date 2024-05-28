@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A liquid mixture in which a solid substance is dissolved.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The scientist mixed the salt in water to create a solution.",
+            "sent2": "The sugar dissolved completely in the water to form a solution.",
+            "sent3": "The potion maker created a magical solution that made things disappear.",
+            "sent4": "Her kindness was the solution to his loneliness, melting his heart like sugar in water.",
+            "sent5": "The solution bubbled and fizzed, transforming the liquid into a powerful elixir."
         },
         {
             "definition": "An answer to a problem or puzzle.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The key to the riddle was hidden in the final solution.",
+            "sent2": "After much thought, she finally found the solution to the math problem.",
+            "sent3": "The detective's solution to the mystery left everyone amazed.",
+            "sent4": "His smile was the solution to her bad day, brightening her mood instantly.",
+            "sent5": "The solution to the puzzle was so simple, she couldn't believe she missed it."
         },
         {
             "definition": "The act of solving a problem or finding a way to deal with a difficult situation.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Teamwork was the solution to overcoming the obstacle they faced.",
+            "sent2": "His quick thinking provided a solution to the unexpected challenge.",
+            "sent3": "The comedian's solution to silence the heckler was to tell a joke.",
+            "sent4": "Her determination was the solution to conquering her fear of heights.",
+            "sent5": "The solution to their dilemma came in the form of a brilliant idea that saved the day."
         }
     ]
 }

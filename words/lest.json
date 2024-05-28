@@ -3,23 +3,48 @@
     "meanings": [
         {
             "definition": "For fear that",
-            "pos": "conjunction"
+            "pos": "conjunction",
+            "sent1": "She studied hard lest she fail the exam.",
+            "sent2": "He double-checked his work lest there be any mistakes.",
+            "sent3": "She brought an umbrella lest it suddenly rains.",
+            "sent4": "He always carries a flashlight lest he get lost in the dark.",
+            "sent5": "They whispered in the library lest they disturb others."
         },
         {
             "definition": "In order to prevent",
-            "pos": "preposition"
+            "pos": "preposition",
+            "sent1": "He left early lest he miss the bus.",
+            "sent2": "She wore sunscreen lest she get sunburned.",
+            "sent3": "He packed snacks lest he get hungry during the trip.",
+            "sent4": "She locked the door lest someone enter without permission.",
+            "sent5": "They set reminders lest they forget important tasks."
         },
         {
             "definition": "So that not",
-            "pos": "conjunction"
+            "pos": "conjunction",
+            "sent1": "She covered the food lest it spoil.",
+            "sent2": "He spoke softly lest he wake the baby.",
+            "sent3": "She saved money lest she run out of it later.",
+            "sent4": "He took a different route lest he encounter traffic.",
+            "sent5": "They arrived early lest they miss the beginning of the show."
         },
         {
             "definition": "In case",
-            "pos": "preposition"
+            "pos": "preposition",
+            "sent1": "She packed an extra sweater lest it gets cold.",
+            "sent2": "He brought a map lest he gets lost.",
+            "sent3": "She carried an umbrella lest it rains unexpectedly.",
+            "sent4": "He kept a first aid kit lest someone gets injured.",
+            "sent5": "They brought snacks lest they get hungry during the journey."
         },
         {
             "definition": "In order that not",
-            "pos": "conjunction"
+            "pos": "conjunction",
+            "sent1": "She left a note lest he forget the meeting.",
+            "sent2": "He set an alarm lest he oversleep.",
+            "sent3": "She closed the windows lest bugs come in.",
+            "sent4": "He turned off the lights lest he waste electricity.",
+            "sent5": "They finished their work early lest they miss the deadline."
         }
     ]
 }

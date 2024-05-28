@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Afternoon",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "We played soccer in the arvos.",
+            "sent2": "The sun sets in the arvos.",
+            "sent3": "The picnic in the arvos was delightful.",
+            "sent4": "The arvos stretched lazily into evening.",
+            "sent5": "Children's laughter filled the arvos park."
         },
         {
             "definition": "In the afternoon",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "She naps arvos after school.",
+            "sent2": "The flowers bloom beautifully arvos.",
+            "sent3": "The cat sleeps peacefully arvos.",
+            "sent4": "The shadows grow longer arvos.",
+            "sent5": "Birds chirp happily arvos."
         },
         {
             "definition": "During the afternoon",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "We went for a walk arvos.",
+            "sent2": "The rain fell softly arvos.",
+            "sent3": "The clock struck three arvos.",
+            "sent4": "The traffic increased arvos.",
+            "sent5": "The temperature rises arvos."
         }
     ]
 }

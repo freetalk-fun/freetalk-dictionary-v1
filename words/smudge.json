@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A dirty mark or smear.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "She accidentally got a smudge of chocolate on her shirt.",
+            "sent2": "The artist's hand left a smudge of paint on the canvas.",
+            "sent3": "The mischievous toddler left a smudge of jelly on the wall.",
+            "sent4": "The smudge of ink on the paper seemed to dance in the light.",
+            "sent5": "The smudge on the mirror was a reminder of yesterday's playtime."
         },
         {
             "definition": "To make a dirty mark or smear on (a surface).",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Please be careful not to smudge the freshly painted wall.",
+            "sent2": "She used her finger to smudge the charcoal on the paper.",
+            "sent3": "He tried to smudge the evidence of his mistake, but it was still visible.",
+            "sent4": "The rain began to smudge the lines of the drawing on the sidewalk.",
+            "sent5": "The chef accidentally smudged the frosting on the cake with his sleeve."
         },
         {
             "definition": "A blurred or indistinct area.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The photograph had a smudge in the corner that distorted the image.",
+            "sent2": "The fog created a smudge on the horizon, making it hard to see.",
+            "sent3": "The smudge on the glasses made everything look fuzzy.",
+            "sent4": "The smudge of dust on the lens gave the photo a dreamy quality.",
+            "sent5": "The smudge on the window made the view outside look like a painting."
         }
     ]
 }

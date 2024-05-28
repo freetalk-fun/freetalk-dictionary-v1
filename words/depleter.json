@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A person or thing that depletes or exhausts resources.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The constant use of the depleter led to a shortage of supplies.",
+            "sent2": "The factory's outdated machinery was a depleter of energy resources.",
+            "sent3": "The depleter in the office was the coffee machine, always running out of beans.",
+            "sent4": "Her negativity was like a depleter, draining the team's motivation.",
+            "sent5": "The depleter, like a hungry monster, consumed all the available resources."
         },
         {
             "definition": "To diminish in quantity or strength.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Overusing the air conditioner can depleter the electricity supply.",
+            "sent2": "The prolonged drought depleter the water levels in the reservoir.",
+            "sent3": "His constant snacking depleter the snacks in the pantry faster than expected.",
+            "sent4": "The relentless storm depleter the soil of vital nutrients.",
+            "sent5": "The marathon depleter his energy reserves, leaving him exhausted."
         }
     ]
 }

@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To exert force on (someone or something) in order to move them away from oneself.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I push the door to open it.",
+            "sent2": "She pushes the swing to make it go higher.",
+            "sent3": "The cat tries to push the mouse away from its food.",
+            "sent4": "His words push me to work harder.",
+            "sent5": "The strong wind pushes the leaves across the yard."
         },
         {
             "definition": "To move forward by using physical force.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The car can push through the deep snow.",
+            "sent2": "We push against the heavy door to enter the room.",
+            "sent3": "The little boy pretends to push a big truck uphill.",
+            "sent4": "Her determination can push her through any challenge.",
+            "sent5": "The river's current can push a boat downstream."
         },
         {
             "definition": "An act of exerting force on someone or something in order to move them away from oneself.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "With a strong push, he moved the heavy box.",
+            "sent2": "She gave the door a gentle push to close it.",
+            "sent3": "The playful puppy gives a friendly push to get attention.",
+            "sent4": "A push from behind startled her in the crowded room.",
+            "sent5": "The push of the crowd made it hard to move forward."
         }
     ]
 }

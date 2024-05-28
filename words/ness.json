@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A suffix forming nouns denoting a state or condition (e.g. happiness, darkness)",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The quietness of the library helped me focus on my book.",
+            "sent2": "The softness of the blanket made me feel cozy and warm.",
+            "sent3": "The silliness of the clown made everyone laugh at the party.",
+            "sent4": "The darkness of the night enveloped the city in a blanket of mystery.",
+            "sent5": "The stillness of the forest at dawn was both eerie and beautiful."
         },
         {
             "definition": "A suffix forming nouns denoting a quality or characteristic (e.g. kindness, laziness)",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Her politeness always made people feel welcome in her home.",
+            "sent2": "His clumsiness often led to funny situations at work.",
+            "sent3": "The freshness of the bread made it irresistible to everyone in the room.",
+            "sent4": "The sharpness of his wit cut through the tension in the room.",
+            "sent5": "The sweetness of the cake made it a hit at the party."
         }
     ]
 }

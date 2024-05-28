@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "The land next to the sea; seashore.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "We had a picnic on the coast and watched the waves.",
+            "sent2": "The beach is a popular spot along the coast for tourists.",
+            "sent3": "The sandcastle competition brought many people to the coast.",
+            "sent4": "The seagulls danced above the coast, looking for food.",
+            "sent5": "The sunset painted the coast in vibrant colors."
         },
         {
             "definition": "To move without power or effort; drift.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The boat began to coast smoothly on the calm water.",
+            "sent2": "The bicycle started to coast down the hill effortlessly.",
+            "sent3": "The leaf decided to coast along the gentle breeze.",
+            "sent4": "The car seemed to coast through the empty streets at night.",
+            "sent5": "The balloon continued to coast through the sky with ease."
         },
         {
             "definition": "To sail along the coast.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "We planned to coast along the beautiful shoreline on our boat.",
+            "sent2": "The sailors decided to coast near the coast for a scenic route.",
+            "sent3": "The pirates attempted to coast stealthily along the coast.",
+            "sent4": "The cruise ship will coast slowly past the stunning coast.",
+            "sent5": "The fishermen love to coast peacefully along the coast."
         }
     ]
 }

@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To exert force on (someone or something) so as to cause movement towards oneself.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She had to pull the heavy door to open it.",
+            "sent2": "He always pulls the wagon when we go for a walk.",
+            "sent3": "The little girl tried to pull her cat closer for a hug.",
+            "sent4": "The magnet seemed to pull the metal objects towards it.",
+            "sent5": "The superhero's magnetic powers could pull objects from afar."
         },
         {
             "definition": "A force drawing something towards oneself.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The strong pull of the magnet attracted the metal.",
+            "sent2": "He felt a pull on the rope as he tugged it towards him.",
+            "sent3": "The pull of the vacuum cleaner made cleaning fun for the toddler.",
+            "sent4": "The gravitational pull of the moon affects the tides.",
+            "sent5": "The pull of the black hole was so strong, nothing could escape it."
         },
         {
             "definition": "To extract or remove by force.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She had to pull out the splinter from her finger.",
+            "sent2": "He tried to pull the nail from the wood with all his strength.",
+            "sent3": "The magician tried to pull a rabbit out of his hat but found a carrot instead.",
+            "sent4": "The detective managed to pull the truth out of the suspect.",
+            "sent5": "The dentist had to pull the tooth to relieve the pain."
         }
     ]
 }

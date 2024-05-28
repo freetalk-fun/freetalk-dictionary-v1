@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Assigning responsibility for a fault or wrong.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Her constant blaming of others for her mistakes led to tension in the office.",
+            "sent2": "The blaming of the student for the broken window was unfair.",
+            "sent3": "The blaming of the cat for the missing socks made everyone laugh.",
+            "sent4": "The blaming of the weather for the delayed flight seemed unreasonable.",
+            "sent5": "The blaming of the chef for the burnt toast was exaggerated."
         },
         {
             "definition": "Holding someone accountable for a mistake.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She was always blaming her brother for her own errors.",
+            "sent2": "Blaming others is not a solution to the problem.",
+            "sent3": "The detective was blaming the butler for the stolen necklace in a playful manner.",
+            "sent4": "Stop blaming the mirror for your bad hair day.",
+            "sent5": "Blaming the traffic for being late won't change the situation."
         },
         {
             "definition": "Accusing someone of causing a problem.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He kept blaming his sister for the missing cookies.",
+            "sent2": "Blaming your teammates for the loss won't help anyone.",
+            "sent3": "The child was blaming the imaginary monster under the bed for the messy room.",
+            "sent4": "She was blaming the broken umbrella for the sudden rain.",
+            "sent5": "Blaming the faulty alarm clock for oversleeping is not a valid excuse."
         }
     ]
 }

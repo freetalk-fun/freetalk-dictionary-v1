@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "An unfavorable or harmful effect or disadvantage.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The disbenefit of eating too much candy is getting cavities.",
+            "sent2": "One disbenefit of staying up late is feeling tired the next day.",
+            "sent3": "The disbenefit of having a pet dinosaur is cleaning up after it.",
+            "sent4": "The disbenefit of procrastination is the stress of last-minute work.",
+            "sent5": "The disbenefit of skipping breakfast is feeling hungry before lunch."
         },
         {
             "definition": "To cause harm or disadvantage to.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Eating too much candy can disbenefit your teeth.",
+            "sent2": "Not getting enough sleep can disbenefit your health.",
+            "sent3": "Trying to juggle too many tasks may disbenefit your productivity.",
+            "sent4": "Negative thoughts can disbenefit your mental well-being.",
+            "sent5": "Skipping meals can disbenefit your energy levels."
         }
     ]
 }

@@ -3,19 +3,39 @@
     "meanings": [
         {
             "definition": "Completely empty or without substance",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The room was void of any furniture.",
+            "sent2": "The empty box was void of any contents.",
+            "sent3": "She felt a void in her heart after her best friend moved away.",
+            "sent4": "His eyes were void of emotion, like empty wells.",
+            "sent5": "The void space in the puzzle was challenging to fill."
         },
         {
             "definition": "Not valid or legally binding",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The contract became void after the signature was forged.",
+            "sent2": "The expired coupon was void and could not be used.",
+            "sent3": "The student's excuse for not doing homework was void of truth.",
+            "sent4": "Her promises were void like whispers in the wind.",
+            "sent5": "The warranty became void when the product was tampered with."
         },
         {
             "definition": "To cancel or nullify",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He had to void the check because of a mistake.",
+            "sent2": "The judge decided to void the contract due to breach of terms.",
+            "sent3": "The magician could void the spell with a simple gesture.",
+            "sent4": "The storm threatened to void all their efforts in building the sandcastle.",
+            "sent5": "The referee had to void the goal due to a foul play."
         },
         {
             "definition": "A feeling of emptiness or loneliness",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "After the breakup, she was consumed by a deep void.",
+            "sent2": "The void within him grew as he spent more time alone.",
+            "sent3": "The void of the abandoned house gave it an eerie feeling.",
+            "sent4": "The void in her life was like a dark cloud hanging over her.",
+            "sent5": "The vast void of space made him feel insignificant."
         }
     ]
 }

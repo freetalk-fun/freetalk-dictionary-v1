@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Relating to or denoting the form of an adjective or adverb that expresses a higher degree of a quality, but not the highest possible (e.g., faster).",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "She is taller than her sister, showing comparatives in height.",
+            "sent2": "The red car is faster than the blue one, a clear example of comparatives.",
+            "sent3": "The cat thought it was the fastest in the neighborhood until it met a cheetah, now feeling comparatives.",
+            "sent4": "His skills in basketball are growing at a comparative rate to his dedication.",
+            "sent5": "The mountain appeared even taller in comparison, emphasizing the comparatives in height."
         },
         {
             "definition": "A word or construction used to indicate a higher degree of a quality (e.g., more, less).",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "In the sentence, 'more' is a comparative used to show a higher degree.",
+            "sent2": "She always prefers 'less' when it comes to sugar, a common comparative in her diet.",
+            "sent3": "The classroom erupted in laughter when the teacher accidentally used 'more' as a comparative for 'less'.",
+            "sent4": "His love for ice cream knows no bounds, always opting for 'more' as a comparative.",
+            "sent5": "The chef's secret ingredient was 'less', a comparative that enhanced the flavor of the dish."
         }
     ]
 }

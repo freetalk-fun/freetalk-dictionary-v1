@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Incorrectly defined or explained.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The misdefined answer confused everyone in the class.",
+            "sent2": "The misdefined concept led to a lot of confusion.",
+            "sent3": "The misdefined joke made everyone laugh.",
+            "sent4": "Her misdefined directions left us lost in the city.",
+            "sent5": "The misdefined painting looked like a mess of colors."
         },
         {
             "definition": "To define or explain incorrectly.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He misdefined the term during his presentation.",
+            "sent2": "She misdefined the word in her essay.",
+            "sent3": "The robot misdefined the command and started dancing.",
+            "sent4": "The map misdefined the location of the treasure.",
+            "sent5": "The scientist misdefined the experiment, leading to unexpected results."
         }
     ]
 }

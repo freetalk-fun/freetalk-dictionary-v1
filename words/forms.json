@@ -3,19 +3,39 @@
     "meanings": [
         {
             "definition": "The visible shape or configuration of something.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The artist carefully studied the forms of the sculptures in the museum.",
+            "sent2": "The forms of the clouds in the sky constantly change throughout the day.",
+            "sent3": "The child giggled, pointing at the strange forms the shadows made on the wall.",
+            "sent4": "Her dance moves were like fluid forms flowing gracefully across the stage.",
+            "sent5": "The intricate forms of the snowflakes sparkled in the sunlight."
         },
         {
             "definition": "A document with blank spaces to be filled in.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Please complete the forms with your personal information before submitting them.",
+            "sent2": "The receptionist handed me a stack of forms to fill out at the doctor's office.",
+            "sent3": "I accidentally spilled coffee on the important forms, causing a big mess.",
+            "sent4": "The teacher reminded the students to return the signed forms by the end of the week.",
+            "sent5": "The tax forms were confusing, so I asked for help from a professional."
         },
         {
             "definition": "A type or variety of something.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "There are many different forms of art, including painting, sculpture, and music.",
+            "sent2": "The library offers various forms of entertainment, such as books, movies, and audiobooks.",
+            "sent3": "The garden was filled with colorful forms of flowers, creating a beautiful display.",
+            "sent4": "Each season brings its own unique forms of weather, from snow in winter to sunshine in summer.",
+            "sent5": "The bakery specializes in different forms of pastries, from croissants to muffins."
         },
         {
             "definition": "To make or fashion something.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She forms the clay into a beautiful vase with her skilled hands.",
+            "sent2": "The chef carefully forms the dough into perfect circles for the pizzas.",
+            "sent3": "The children decided to form a band and practice playing music together.",
+            "sent4": "The architect will form a new design for the building based on the client's preferences.",
+            "sent5": "The team will work together to form a plan for the upcoming project."
         }
     ]
 }

@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A general description covering the main points of a subject",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The teacher provided us with clear outlines of the lesson.",
+            "sent2": "She drew the outlines of the story on the whiteboard.",
+            "sent3": "The outlines of the plan were so detailed, it made us laugh.",
+            "sent4": "His speech followed the outlines of a well-crafted argument.",
+            "sent5": "The outlines of the map helped us navigate through the forest."
         },
         {
             "definition": "A line or set of lines enclosing or indicating the shape of an object or figure",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The artist carefully traced the outlines of the flower.",
+            "sent2": "The outlines of the building were sharp against the sky.",
+            "sent3": "The outlines of the cloud resembled a fluffy bunny.",
+            "sent4": "The outlines of the mountain stood boldly against the horizon.",
+            "sent5": "The outlines of the puzzle pieces helped him solve the game."
         },
         {
             "definition": "To sketch or draw the outline of something",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She outlines the shape of the tree before painting it.",
+            "sent2": "He outlines the characters before starting to write the story.",
+            "sent3": "The artist outlines the cat with a playful flick of the brush.",
+            "sent4": "The architect outlines the building with precision and care.",
+            "sent5": "He outlines the plan for the project on a large sheet of paper."
         }
     ]
 }

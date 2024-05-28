@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To emit light.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The firefly glows in the dark forest.",
+            "sent2": "The lamp glows softly in the room.",
+            "sent3": "The nightlight glows like a tiny star.",
+            "sent4": "Her smile glows with happiness.",
+            "sent5": "The moon glows brightly in the night sky."
         },
         {
             "definition": "To shine brightly.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The sun glows warmly on a summer day.",
+            "sent2": "The lighthouse glows to guide ships at sea.",
+            "sent3": "The neon sign glows like a rainbow at night.",
+            "sent4": "Her eyes glows with excitement.",
+            "sent5": "The bonfire glows fiercely in the darkness."
         },
         {
             "definition": "A steady light.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The soft glow of the candle lit the room.",
+            "sent2": "The glow of the fire warmed us on a cold night.",
+            "sent3": "The glow of the fireflies danced in the garden.",
+            "sent4": "The warm glow of the sunset painted the sky.",
+            "sent5": "The gentle glow of the stars filled the night."
         }
     ]
 }

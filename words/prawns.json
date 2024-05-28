@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A small, edible crustacean with a long tail and legs.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "At the beach, we found tiny prawns hiding in the sand.",
+            "sent2": "The seafood restaurant served delicious prawns with garlic butter.",
+            "sent3": "The prawns threw a party in their underwater castle.",
+            "sent4": "The prawns danced gracefully in the shimmering ocean.",
+            "sent5": "The chef carefully prepared the prawns, ensuring they were cooked to perfection."
         },
         {
             "definition": "To fish for or catch prawns.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "We decided to prawns for our dinner by the river.",
+            "sent2": "The fishermen set out early in the morning to prawns in the bay.",
+            "sent3": "I tried to prawns, but the sneaky prawns outsmarted me.",
+            "sent4": "She prawns with skill and patience, always coming back with a full catch.",
+            "sent5": "In the calm waters, they patiently prawns, waiting for the right moment to reel in their catch."
         },
         {
             "definition": "The flesh of a prawn used as food.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The chef prepared a delicious stir-fry with fresh prawns.",
+            "sent2": "She savored the taste of the succulent prawns in the pasta dish.",
+            "sent3": "The mischievous cat tried to steal a prawn from the dinner table.",
+            "sent4": "The aroma of grilled prawns filled the kitchen, making everyone hungry.",
+            "sent5": "The platter was adorned with colorful prawns, tempting everyone to dig in."
         }
     ]
 }

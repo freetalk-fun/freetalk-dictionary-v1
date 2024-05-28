@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A person or thing that shades.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The tree's branches acted as shaders, protecting us from the harsh sun.",
+            "sent2": "The umbrella was a useful shaders on the beach.",
+            "sent3": "The clouds played the role of shaders, creating patterns of light and shadow on the ground.",
+            "sent4": "The mountain stood tall like a giant shaders, casting a long shadow over the valley.",
+            "sent5": "The curtains in the room were effective shaders, keeping the sunlight out during the day."
         },
         {
             "definition": "A device used to create a specific effect in computer graphics.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The graphic designer adjusted the shaders to enhance the colors in the image.",
+            "sent2": "The video game used advanced shaders to create realistic lighting effects.",
+            "sent3": "The malfunctioning shaders turned the character's face into a colorful mosaic.",
+            "sent4": "The shaders in the program were like magic wands, transforming the visuals instantly.",
+            "sent5": "The new shaders added a touch of elegance to the digital artwork."
         },
         {
             "definition": "A type of software used in computer programming.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The developer utilized shaders to optimize the performance of the application.",
+            "sent2": "Learning to code shaders opened up a world of creative possibilities.",
+            "sent3": "The quirky shaders in the program sometimes made the graphics glitch for fun.",
+            "sent4": "Her coding skills were like shaders, adding depth and dimension to the project.",
+            "sent5": "The complex shaders required precise coding to achieve the desired visual effects."
         }
     ]
 }

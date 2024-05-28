@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To give advice or guidance",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She advises her friends on choosing the right path.",
+            "sent2": "He advises his clients on financial matters.",
+            "sent3": "The wise owl advises the young birds on flying techniques.",
+            "sent4": "The lighthouse advises ships to safety in the storm.",
+            "sent5": "The experienced hiker advises beginners on the best trails to take."
         },
         {
             "definition": "To recommend or suggest",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The doctor advises rest and plenty of fluids for a quick recovery.",
+            "sent2": "The teacher advises reading books to improve vocabulary.",
+            "sent3": "The chef advises adding a pinch of salt for extra flavor.",
+            "sent4": "The weather forecaster advises carrying an umbrella for possible rain.",
+            "sent5": "The travel agent advises booking flights in advance for better deals."
         },
         {
             "definition": "To inform or notify",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The school advises parents of upcoming events through emails.",
+            "sent2": "The company advises employees of policy changes in meetings.",
+            "sent3": "The sign advises visitors to beware of falling rocks.",
+            "sent4": "The alarm system advises homeowners of potential intruders.",
+            "sent5": "The app advises users of traffic delays for alternate routes."
         }
     ]
 }

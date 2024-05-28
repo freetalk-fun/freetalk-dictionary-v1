@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Whatever person",
-            "pos": "pronoun"
+            "pos": "pronoun",
+            "sent1": "Whoever left their umbrella here, please come pick it up.",
+            "sent2": "I will give this gift to whoever wins the game.",
+            "sent3": "Whoever ate all the cookies must have been very hungry.",
+            "sent4": "The mysterious figure, whoever they may be, always leaves a trail of clues behind.",
+            "sent5": "Whoever wears the crown must also bear the responsibility."
         },
         {
             "definition": "Any person at all",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I don't know whoever that is standing by the door.",
+            "sent2": "Whoever can solve this puzzle will receive a prize.",
+            "sent3": "Whoever is the fastest runner will win the race.",
+            "sent4": "In a crowded room, whoever speaks the loudest often gets the most attention.",
+            "sent5": "The treasure map is hidden, and whoever finds it first will claim the treasure."
         }
     ]
 }

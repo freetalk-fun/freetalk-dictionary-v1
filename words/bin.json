@@ -3,19 +3,39 @@
     "meanings": [
         {
             "definition": "A container for storing items",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I put my toys in the bin.",
+            "sent2": "The bin in the kitchen is for recyclables.",
+            "sent3": "The bin in the garage was so full, it looked like it might burst!",
+            "sent4": "Her mind was like a messy bin, full of random thoughts.",
+            "sent5": "The bin by the door was as big as a bathtub."
         },
         {
             "definition": "To throw something away",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Please bin the old newspapers.",
+            "sent2": "He decided to bin the broken vase.",
+            "sent3": "She threatened to bin his favorite shirt if he didn't clean up.",
+            "sent4": "He had to bin his doubts and take a leap of faith.",
+            "sent5": "Bin the negativity and focus on the positive."
         },
         {
             "definition": "A storage compartment in a computer's memory",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The computer's bin stores deleted files temporarily.",
+            "sent2": "Make sure to empty the bin to free up space.",
+            "sent3": "The virtual bin was overflowing with unnecessary files.",
+            "sent4": "His mind was like a digital bin, organized but full.",
+            "sent5": "The bin icon on the desktop was a lifesaver for organizing files."
         },
         {
             "definition": "A unit of information in a digital system",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Each bin in the system holds specific data.",
+            "sent2": "The software uses bins to categorize information.",
+            "sent3": "The digital bin was like a library for the computer.",
+            "sent4": "His brain processed information like a series of digital bins.",
+            "sent5": "The bin structure helped organize the data efficiently."
         }
     ]
 }

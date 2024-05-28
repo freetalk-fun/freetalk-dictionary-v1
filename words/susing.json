@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To use something in a way that is not intended.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She was susing her phone as a makeshift flashlight.",
+            "sent2": "He sused the chair as a step stool to reach the top shelf.",
+            "sent3": "The cat was susing the box as a hiding spot during the game.",
+            "sent4": "The student sused his pen to stir his coffee, much to his teacher's surprise.",
+            "sent5": "The mechanic sused a paperclip to fix the broken latch, showing creativity."
         },
         {
             "definition": "The act of using something in a way that is not intended.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Her susing of the umbrella as a sunshade was clever.",
+            "sent2": "The child's susing of the toy as a hammer led to some damage.",
+            "sent3": "The comedian's susing of a banana peel as a prop got a big laugh.",
+            "sent4": "The artist's susing of recycled materials in her sculpture was innovative.",
+            "sent5": "The teacher praised the student's susing of a calculator as a timer for the experiment."
         },
         {
             "definition": "The state of being used in a way that is not intended.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The susing of the tool caused it to break sooner.",
+            "sent2": "The constant susing of the machine in that manner led to its malfunction.",
+            "sent3": "The unexpected susing of the software caused a system error.",
+            "sent4": "The repeated susing of the rope in that way weakened its fibers.",
+            "sent5": "The careless susing of the device resulted in its damage."
         }
     ]
 }

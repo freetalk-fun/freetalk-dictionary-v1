@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A reproduction of a document made by using a photocopier.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I made a photocopy of the important paper.",
+            "sent2": "The office has a photocopy machine for duplicating documents.",
+            "sent3": "The photocopy of the contract was so clear, it looked like the original!",
+            "sent4": "Her memory was like a photocopy, perfectly replicating every detail.",
+            "sent5": "The photocopy revealed a hidden message written in invisible ink."
         },
         {
             "definition": "To reproduce a document by using a photocopier.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Please photocopy these papers for the meeting.",
+            "sent2": "I will photocopy the report for distribution.",
+            "sent3": "He tried to photocopy his face as a joke, but it didn't turn out well.",
+            "sent4": "The artist's goal was to photocopy reality in a surreal way.",
+            "sent5": "She decided to photocopy the map to have a backup in case she got lost."
         }
     ]
 }

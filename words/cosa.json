@@ -3,23 +3,48 @@
     "meanings": [
         {
             "definition": "A thing",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I found a cosa on the ground.",
+            "sent2": "Please bring that cosa over here.",
+            "sent3": "The cat thinks the toy is a fun cosa to play with.",
+            "sent4": "Her smile was like a bright cosa in the dark room.",
+            "sent5": "The shiny cosa caught my eye immediately."
         },
         {
             "definition": "An object",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The shiny cosa is on the table.",
+            "sent2": "He picked up the mysterious cosa.",
+            "sent3": "The lost cosa turned out to be his favorite pen.",
+            "sent4": "Her laughter was a joyful cosa in the room.",
+            "sent5": "The ancient cosa was carefully displayed in the museum."
         },
         {
             "definition": "An item",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "She bought a new cosa at the store.",
+            "sent2": "The small cosa was hidden in the drawer.",
+            "sent3": "The colorful cosa added a pop of color to the room.",
+            "sent4": "His words were a sharp cosa that cut through the silence.",
+            "sent5": "The precious cosa was passed down through generations."
         },
         {
             "definition": "A matter",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The important cosa needed immediate attention.",
+            "sent2": "Let's discuss this serious cosa later.",
+            "sent3": "The trivial cosa became a big deal.",
+            "sent4": "Her decision was a weighty cosa on her mind.",
+            "sent5": "The unresolved cosa lingered in the air."
         },
         {
             "definition": "An affair",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The scandalous cosa was the talk of the town.",
+            "sent2": "Their private cosa was revealed to everyone.",
+            "sent3": "The mysterious cosa kept everyone guessing.",
+            "sent4": "The forbidden cosa led to unexpected consequences.",
+            "sent5": "The romantic cosa unfolded like a movie plot."
         }
     ]
 }

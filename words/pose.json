@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To assume a particular attitude or position for a specific purpose.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She will pose with a smile for the family photo.",
+            "sent2": "The model will pose in different outfits for the fashion show.",
+            "sent3": "The cat decided to pose as a statue to surprise the birds.",
+            "sent4": "The tree branches pose a challenge for the squirrel to reach the nuts.",
+            "sent5": "The gymnast will pose gracefully on the balance beam."
         },
         {
             "definition": "A particular way of standing or sitting, especially one held for a photograph or painting.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The photographer asked the model to hold a striking pose.",
+            "sent2": "The artist captured the dancer's elegant pose on canvas.",
+            "sent3": "The mannequin's stiff pose made it look like a robot.",
+            "sent4": "The statue's pose in the park symbolized peace and unity.",
+            "sent5": "The yoga instructor demonstrated a challenging pose to the class."
         },
         {
             "definition": "To present or constitute (a problem, danger, etc.).",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The storm will pose a threat to the coastal town.",
+            "sent2": "The new regulations pose a challenge for small businesses.",
+            "sent3": "The riddle posed by the teacher stumped the students.",
+            "sent4": "The mysterious stranger posed a question that left everyone puzzled.",
+            "sent5": "The unexpected twist in the story will pose a dilemma for the protagonist."
         }
     ]
 }

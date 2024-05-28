@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To perform less well than expected or required.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The student underperforms in math class and needs extra help.",
+            "sent2": "The new engine underperforms compared to the old one.",
+            "sent3": "The toaster underperforms and takes forever to toast a slice of bread.",
+            "sent4": "The team underperforms on the field, letting their fans down.",
+            "sent5": "The phone battery underperforms, dying after just a few hours of use."
         },
         {
             "definition": "To fail to achieve a desired level of performance.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The athlete underperforms in the final race of the season.",
+            "sent2": "The company underperforms in meeting its sales targets for the quarter.",
+            "sent3": "The vacuum cleaner underperforms and leaves dirt behind on the carpet.",
+            "sent4": "The singer underperforms at the concert, forgetting the lyrics to their own song.",
+            "sent5": "The car underperforms on the highway, struggling to maintain speed uphill."
         }
     ]
 }

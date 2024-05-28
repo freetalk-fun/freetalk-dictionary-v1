@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To suppose that something is true without having evidence to confirm it.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She surmises that her friend will arrive late.",
+            "sent2": "He often surmises the outcome of games before they even start.",
+            "sent3": "The detective surmises the culprit's identity based on the evidence.",
+            "sent4": "As the clouds gathered, she surmised that a storm was approaching.",
+            "sent5": "The teacher surmises the students' understanding by asking questions."
         },
         {
             "definition": "A supposition that something may be true, even though there is no evidence to confirm it.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "His surmises about aliens visiting Earth were dismissed by scientists.",
+            "sent2": "The book is filled with interesting surmises about the future of technology.",
+            "sent3": "The children's wild surmises about the mysterious noise in the attic made them giggle.",
+            "sent4": "Her surmise that the old house was haunted sent shivers down her spine.",
+            "sent5": "The professor's surmise about the ancient artifact's origin sparked a lively debate."
         }
     ]
 }

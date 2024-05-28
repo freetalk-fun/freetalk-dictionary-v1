@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "The probability that something will happen.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The odds of winning the lottery are very low.",
+            "sent2": "The odds of rain tomorrow are high.",
+            "sent3": "I never thought I'd see the day pigs fly, but the odds seem to be in their favor now.",
+            "sent4": "She felt like the odds of finding a needle in a haystack were better than her chances of passing the test.",
+            "sent5": "The odds of a snowstorm in July are as likely as finding a polar bear in the desert."
         },
         {
             "definition": "The difference in favor of one thing over another.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The odds were in his favor as he had more experience than the other candidates.",
+            "sent2": "The odds of success were stacked against her in the competition.",
+            "sent3": "The odds of getting the last piece of cake were in my favor, thanks to my quick reflexes.",
+            "sent4": "The odds of winning the game were like a mountain compared to his opponent's molehill.",
+            "sent5": "The odds of a tie in the game seemed as likely as a unicorn walking through the door."
         },
         {
             "definition": "The likelihood of something happening.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The odds of meeting a celebrity in this small town are slim.",
+            "sent2": "The odds of getting struck by lightning are very low.",
+            "sent3": "I'd say the odds of finding a four-leaf clover are higher than winning the lottery.",
+            "sent4": "The odds of a black cat crossing your path bringing bad luck are just superstition.",
+            "sent5": "The odds of a shooting star appearing in the sky tonight are like a wish waiting to be made."
         }
     ]
 }

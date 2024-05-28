@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A small silvery fish.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I saw a school of smelts swimming in the river.",
+            "sent2": "Fishermen enjoy catching smelts for dinner.",
+            "sent3": "The smelts in the aquarium seemed to be having a party.",
+            "sent4": "The moonlight reflected off the smelts in the water, creating a magical scene.",
+            "sent5": "The chef prepared a delicious dish using fresh smelts."
         },
         {
             "definition": "To melt or fuse (metal) in order to extract the metal.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The blacksmith smelts the ore to create new tools.",
+            "sent2": "In the factory, they smelt the metal to make car parts.",
+            "sent3": "The dragon tried to smelt gold coins in its fiery breath.",
+            "sent4": "The intense heat of the furnace smelts the metal into liquid form.",
+            "sent5": "The artist smelts old keys to create unique sculptures."
         }
     ]
 }

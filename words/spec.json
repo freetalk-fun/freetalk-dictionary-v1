@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A detailed plan or description of how something should be done or made.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The architect provided a spec for the new building construction.",
+            "sent2": "I need to follow the spec to assemble this furniture correctly.",
+            "sent3": "The chef's spec for the recipe included precise measurements.",
+            "sent4": "Her spec for organizing the event was like a roadmap to success.",
+            "sent5": "The spec for the project was so thorough, it left no room for error."
         },
         {
             "definition": "A particular type or kind of something.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "This car is a different spec than the one we saw yesterday.",
+            "sent2": "The store carries various specs of laptops to suit different needs.",
+            "sent3": "The museum displayed rare specs of ancient pottery.",
+            "sent4": "His collection included unique specs of vintage coins.",
+            "sent5": "The garden had different specs of flowers, creating a beautiful mix."
         },
         {
             "definition": "To look closely at something.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I need to spec the details of the contract before signing.",
+            "sent2": "The detective decided to spec the crime scene for clues.",
+            "sent3": "She liked to spec the artwork in the gallery for hidden meanings.",
+            "sent4": "The scientist would spec the samples under the microscope.",
+            "sent5": "He would spec the map carefully before planning the route."
         }
     ]
 }

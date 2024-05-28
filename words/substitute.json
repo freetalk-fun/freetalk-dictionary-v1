@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A person or thing acting or serving in place of another.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "During the game, the coach put in a substitute to replace the injured player.",
+            "sent2": "The substitute teacher filled in for Mrs. Smith while she was on vacation.",
+            "sent3": "The substitute bus driver accidentally took the wrong route and ended up at the zoo!",
+            "sent4": "Her new puppy quickly became a substitute for the friend she missed from her old neighborhood.",
+            "sent5": "The emergency flashlight was a reliable substitute for the broken lamp."
         },
         {
             "definition": "To use or add in place of another.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I had to substitute almond milk for regular milk in the recipe.",
+            "sent2": "When the store ran out of apples, I had to substitute pears instead.",
+            "sent3": "She decided to substitute her usual morning jog with a yoga session.",
+            "sent4": "His absence was substituted by a recorded video message played at the event.",
+            "sent5": "To save time, she chose to substitute a quick phone call for a long email."
         },
         {
             "definition": "To replace or fill in for someone or something.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The assistant manager will substitute for the manager during her maternity leave.",
+            "sent2": "Can you substitute the blue paint with green in the art project?",
+            "sent3": "He tried to substitute his missing phone with a tablet for the day.",
+            "sent4": "The actor had to substitute his usual costume with a last-minute makeshift outfit.",
+            "sent5": "She had to substitute her regular coffee with tea due to a caffeine sensitivity."
         }
     ]
 }

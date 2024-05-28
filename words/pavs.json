@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Pavement: a hard surface, usually made of concrete or asphalt, that is used for walking or driving on",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The children played hopscotch on the pavs outside.",
+            "sent2": "The city workers repaired the pavs on Main Street.",
+            "sent3": "The dog chased its tail in circles on the pavs.",
+            "sent4": "The moonlight cast a silver glow on the empty pavs.",
+            "sent5": "The rain made the pavs glisten like diamonds."
         },
         {
             "definition": "Pave: to cover a surface with a hard material such as concrete or asphalt",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The construction crew will pave the road next week.",
+            "sent2": "We need to pave the driveway before winter comes.",
+            "sent3": "The chef will pave the cake with chocolate frosting.",
+            "sent4": "Her kindness will pave the way for future opportunities.",
+            "sent5": "The artist will pave the canvas with colorful strokes."
         },
         {
             "definition": "Paving: the act of covering a surface with a hard material such as concrete or asphalt",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The paving of the parking lot took two days to complete.",
+            "sent2": "The paving of the sidewalk made it safer for pedestrians.",
+            "sent3": "The paving of the driveway turned it into a smooth path.",
+            "sent4": "The paving of the patio transformed the backyard.",
+            "sent5": "The paving of the road improved the traffic flow."
         }
     ]
 }

@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "In a manner that involves repeating a process or function within itself.",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "She solved the math problem recursively by breaking it down into smaller steps.",
+            "sent2": "The computer program ran recursively to find all possible solutions.",
+            "sent3": "The robot tried to clean the room recursively, but ended up vacuuming the same spot multiple times.",
+            "sent4": "Her laughter echoed recursively through the empty hallway, creating a sense of loneliness.",
+            "sent5": "The vines grew recursively, intertwining with each other in a complex pattern."
         },
         {
             "definition": "In a way that involves a repeated application of a rule or procedure.",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "He followed the instructions recursively to assemble the furniture correctly.",
+            "sent2": "The teacher explained the concept recursively to ensure all students understood.",
+            "sent3": "The chef baked the cookies recursively, resulting in a batch that tasted exactly the same.",
+            "sent4": "His thoughts circled recursively in his mind, unable to find a solution.",
+            "sent5": "The artist painted the mural recursively, layering colors to create a beautiful masterpiece."
         }
     ]
 }

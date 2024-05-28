@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A point or level beyond which something does not or may not extend or pass.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The speed limit on this road is 55 miles per hour.",
+            "sent2": "She reached her limit of patience after waiting for hours.",
+            "sent3": "The limit of the number of cookies you can eat is three.",
+            "sent4": "His kindness knows no limit, always helping others.",
+            "sent5": "The limit of the ocean seemed endless, stretching to the horizon."
         },
         {
             "definition": "The furthest extent of one's ability or resources.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Her physical limit was reached after running a marathon.",
+            "sent2": "He pushed himself to the limit to finish the project on time.",
+            "sent3": "The limit of her singing talent surprised everyone at the talent show.",
+            "sent4": "His creativity knew no limit, always coming up with new ideas.",
+            "sent5": "The limit of his knowledge about space was vast, impressing his classmates."
         },
         {
             "definition": "A restriction or boundary.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "There is a time limit for completing the exam.",
+            "sent2": "The budget limit for the party was set at $100.",
+            "sent3": "The limit of the playground is where the fence ends.",
+            "sent4": "His curiosity had no limit, always exploring new places.",
+            "sent5": "The limit of her understanding of the topic was evident in her questions."
         }
     ]
 }

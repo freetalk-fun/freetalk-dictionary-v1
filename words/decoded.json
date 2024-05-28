@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To convert (a message, text, etc.) from code into ordinary language",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She decoded the secret message by translating it into simple words.",
+            "sent2": "The detective decoded the encrypted file to reveal the hidden information.",
+            "sent3": "After hours of trying, she finally decoded the cryptic note and burst into laughter.",
+            "sent4": "His eyes decoded her expression, understanding her unspoken words.",
+            "sent5": "The key to decoding the ancient script was found in the dusty library archives."
         },
         {
             "definition": "To analyze and interpret the meaning of (something)",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The students decoded the poem's deeper meaning during their literature class.",
+            "sent2": "The expert decoded the complex data to uncover the underlying patterns.",
+            "sent3": "Trying to decode the cat's behavior was like solving a tricky puzzle.",
+            "sent4": "Her smile decoded her true feelings, revealing her happiness.",
+            "sent5": "The scientist decoded the mysterious symbols, unlocking a new scientific discovery."
         }
     ]
 }

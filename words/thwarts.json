@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Prevents from accomplishing something",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The locked door thwarts any attempts to enter the room.",
+            "sent2": "His quick thinking thwarts the thief's plan to steal the jewels.",
+            "sent3": "The clever detective thwarts the criminal's escape with a clever trap.",
+            "sent4": "Her determination thwarts all obstacles in her path to success.",
+            "sent5": "The hero's bravery thwarts the evil villain's evil scheme."
         },
         {
             "definition": "A seat across a boat, used for rowers to sit on",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The rower sat on the thwart and rowed the boat across the lake.",
+            "sent2": "The wooden thwart provided a comfortable seat for the rowing team.",
+            "sent3": "The old sailor always tells stories of rowing from the thwart.",
+            "sent4": "The rowers rested on the sturdy thwart after a long day of rowing.",
+            "sent5": "The captain stood proudly on the thwart, guiding the boat through the storm."
         },
         {
             "definition": "A structural crosspiece in a ship or aircraft, providing lateral support",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The ship's thwart ensures the hull remains strong in rough waters.",
+            "sent2": "The aircraft's wings are reinforced with sturdy thwarts for stability.",
+            "sent3": "The engineer carefully inspects the thwarts to ensure the ship's safety.",
+            "sent4": "The old ship creaked as the thwarts bore the weight of the cargo.",
+            "sent5": "The pilot adjusts the thwarts to maintain balance during the flight."
         }
     ]
 }

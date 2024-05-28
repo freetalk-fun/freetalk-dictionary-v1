@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Vibrations that travel through the air or another medium and can be heard when they reach a person's or animal's ear.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The sounds of birds chirping in the morning filled the air with music.",
+            "sent2": "The sounds of laughter echoed through the room.",
+            "sent3": "The sounds of the wind whispering secrets in the trees made the forest seem alive.",
+            "sent4": "The sounds of the city were a symphony of car horns and chatter.",
+            "sent5": "The sounds of waves crashing against the shore were soothing and calming."
         },
         {
             "definition": "A particular type of noise, especially one that is pleasant or musical.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The sounds of children playing happily in the park brought joy to all.",
+            "sent2": "The sounds of a violin playing filled the concert hall with beauty.",
+            "sent3": "The sounds of popcorn popping in the microwave made everyone hungry.",
+            "sent4": "The sounds of rain tapping on the roof were like a lullaby.",
+            "sent5": "The sounds of a baby giggling are infectious and heartwarming."
         },
         {
             "definition": "To give the impression of being or having a particular quality.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The new song sounds amazing; it's sure to be a hit!",
+            "sent2": "The recipe sounds delicious; I can't wait to try it.",
+            "sent3": "His excuse sounds fishy; I think he's hiding something.",
+            "sent4": "The plan sounds like a disaster waiting to happen.",
+            "sent5": "The movie sounds like a thrilling adventure that I don't want to miss."
         }
     ]
 }

@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Two corresponding things designed for use together.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I bought a new pair of shoes.",
+            "sent2": "The store sells socks in pairs.",
+            "sent3": "The gloves were lost, leaving the pair of hands cold.",
+            "sent4": "The keys and locks were like pairs, fitting perfectly together.",
+            "sent5": "The twins always dressed in matching pairs of outfits."
         },
         {
             "definition": "A set of two similar or matching items.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "She bought a pair of earrings.",
+            "sent2": "The store displayed pairs of gloves on sale.",
+            "sent3": "The pair of chairs looked like they were dancing together.",
+            "sent4": "The two trees stood side by side like a pair of guardians.",
+            "sent5": "The artist painted a beautiful pair of flowers in the garden."
         },
         {
             "definition": "A couple or set of two people or animals.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The pair of friends went to the movies.",
+            "sent2": "The zoo welcomed a pair of new penguins.",
+            "sent3": "The pair of ducks waddled happily in the pond.",
+            "sent4": "The pair of lovebirds chirped sweet melodies together.",
+            "sent5": "The pair of kittens played with a ball of yarn."
         }
     ]
 }

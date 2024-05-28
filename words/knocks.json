@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To strike a surface with a sharp blow",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He knocks on the door to ask for candy.",
+            "sent2": "She knocks the ball with her foot during the game.",
+            "sent3": "The cat knocks over the vase while chasing a bug.",
+            "sent4": "The storm knocks against the windows, making them rattle.",
+            "sent5": "The woodpecker knocks on the tree trunk loudly."
         },
         {
             "definition": "A sharp blow or impact",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The knocks on the door startled the sleeping dog.",
+            "sent2": "I heard three loud knocks on the window last night.",
+            "sent3": "The knocks on the head made him see stars.",
+            "sent4": "The knocks of the hammer echoed through the workshop.",
+            "sent5": "The knocks on the door grew louder and more urgent."
         },
         {
             "definition": "A sound made by a blow or impact",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The knocks on the floor were coming from the room above.",
+            "sent2": "The knocks of the falling books echoed in the library.",
+            "sent3": "The knocks on the wall sounded like a secret code.",
+            "sent4": "The knocks of the drum filled the room with rhythm.",
+            "sent5": "The knocks on the window startled the birds outside."
         }
     ]
 }

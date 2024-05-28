@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A sign or warning of a future event.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Seeing a dark cloud in the sky was a foretoken of the coming storm.",
+            "sent2": "The sudden drop in temperature was a foretoken of the approaching winter.",
+            "sent3": "The chirping of the birds served as a foretoken for the picnic getting rained out.",
+            "sent4": "The distant sound of thunder acted as a foretoken for the impending storm.",
+            "sent5": "The howling of the wind was a clear foretoken of the hurricane's arrival."
         },
         {
             "definition": "To be a sign or warning of a future event.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The sudden change in his behavior seemed to foretoken a possible argument.",
+            "sent2": "The dark clouds foretokened the arrival of a heavy rainstorm.",
+            "sent3": "Her persistent coughing foretokened the onset of a cold.",
+            "sent4": "The eerie silence in the forest foretokened a lurking danger.",
+            "sent5": "The distant howls of wolves foretokened a restless night ahead."
         }
     ]
 }

@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "An amount obtained by adding numbers together.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I calculated the subtotals of all the items in my shopping cart.",
+            "sent2": "The cashier added up the subtotals of each item to get the final bill.",
+            "sent3": "The subtotals of the ingredients in the recipe were more than I expected.",
+            "sent4": "Her savings account was like a collection of subtotals waiting to be spent.",
+            "sent5": "The subtotals on the receipt made it clear how much each item cost."
         },
         {
             "definition": "To calculate the total of a group of numbers.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She subtotals the expenses at the end of each month to track her spending.",
+            "sent2": "The accountant subtotals the columns to ensure accuracy in the financial report.",
+            "sent3": "I subtotals the scores of the game to see who won.",
+            "sent4": "The teacher subtotals the points to determine the winner of the competition.",
+            "sent5": "He subtotals the prices of the items to see if he can afford them all."
         }
     ]
 }

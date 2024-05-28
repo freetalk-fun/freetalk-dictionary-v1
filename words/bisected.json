@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To divide into two equal parts",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She bisected the cake to share with her friend.",
+            "sent2": "The ruler bisected the line perfectly in the middle.",
+            "sent3": "The magician bisected the woman into two halves, but she was unharmed!",
+            "sent4": "His decision to bisect the company caused a divide among the employees.",
+            "sent5": "The sharp knife easily bisected the apple into two equal halves."
         },
         {
             "definition": "Divided into two equal parts",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The bisected rope hung down from the tree branch.",
+            "sent2": "The bisected cookie looked perfectly symmetrical.",
+            "sent3": "The bisected sandwich made it easier to share with a friend.",
+            "sent4": "The bisected road led straight through the forest.",
+            "sent5": "The bisected mirror reflected two identical images."
         }
     ]
 }

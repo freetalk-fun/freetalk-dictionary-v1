@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To provide knowledge or information to someone",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The teacher instructed the students on how to solve the math problem.",
+            "sent2": "She instructed her friend on the best way to bake cookies.",
+            "sent3": "The cat instructed the dog on how to catch a mouse, but the dog just wagged its tail.",
+            "sent4": "The wise old owl instructed the young birds on how to fly gracefully.",
+            "sent5": "The chef instructed the new cook on the secret recipe for the delicious soup."
         },
         {
             "definition": "To give orders or directions to someone",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The coach instructed the players to run faster during practice.",
+            "sent2": "He instructed the delivery person to leave the package by the door.",
+            "sent3": "The robot instructed the humans to clean up the mess, causing confusion.",
+            "sent4": "The captain instructed the crew to prepare for the storm ahead.",
+            "sent5": "The director instructed the actors on how to deliver their lines with emotion."
         }
     ]
 }

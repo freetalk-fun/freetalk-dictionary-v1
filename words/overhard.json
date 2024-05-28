@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Too hard; harder than necessary.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The cookie was overhard and difficult to bite into.",
+            "sent2": "The rock was overhard, making it impossible to break with a hammer.",
+            "sent3": "Trying to eat the overhard bread was like trying to chew on a brick.",
+            "sent4": "The overhard puzzle seemed unsolvable, with pieces that wouldn't fit together.",
+            "sent5": "The overhard ice cream was like trying to scoop frozen concrete."
         },
         {
             "definition": "To make something too hard.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She accidentally overhardened the cookies by leaving them in the oven too long.",
+            "sent2": "The blacksmith overhardened the metal, making it brittle and prone to breaking.",
+            "sent3": "His attempt to overhard the clay resulted in a sculpture that was more rock than art.",
+            "sent4": "The chef's decision to overhard the steak turned it into a tough, inedible mess.",
+            "sent5": "The teacher warned the students not to overhard their study schedule and risk burnout."
         },
         {
             "definition": "To work too hard.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She tends to overhard at her job, often staying late to finish tasks.",
+            "sent2": "The athletes were advised not to overhard during training to avoid injuries.",
+            "sent3": "He always seems to overhard, even on weekends when he should be relaxing.",
+            "sent4": "The machine was overhard by the workers, causing it to malfunction.",
+            "sent5": "The gardener decided to overhard and ended up exhausted after hours of non-stop weeding."
         }
     ]
 }

@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Subject to disagreement or dispute.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The result of the game was contested by both teams.",
+            "sent2": "The decision was contested by many people in the room.",
+            "sent3": "The contested issue led to a heated debate among the students.",
+            "sent4": "Her contested opinion sparked a lively discussion.",
+            "sent5": "The contested land caused tension between the neighbors."
         },
         {
             "definition": "Engage in competition to attain (a position of power).",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The two candidates contested fiercely for the presidency.",
+            "sent2": "They will contest in the final round of the competition.",
+            "sent3": "The siblings contested playfully for the last cookie.",
+            "sent4": "She contested her way to the top of the leaderboard.",
+            "sent5": "The athletes will contest for the gold medal tomorrow."
         }
     ]
 }

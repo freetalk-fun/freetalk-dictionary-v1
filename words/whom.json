@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Used as the object of a verb or preposition to refer to a person or people previously mentioned or easily identified.",
-            "pos": "pronoun"
+            "pos": "pronoun",
+            "sent1": "She asked whom the gift was for.",
+            "sent2": "He knew whom the letter was from.",
+            "sent3": "They wondered whom the mysterious package belonged to.",
+            "sent4": "The detective quickly identified whom the suspect was.",
+            "sent5": "Whom the teacher was referring to became clear after the explanation."
         },
         {
             "definition": "Used as the object of a verb or preposition to refer to a person or people in a formal or polite way.",
-            "pos": "pronoun"
+            "pos": "pronoun",
+            "sent1": "To whom should I address this letter?",
+            "sent2": "Whom did you meet at the event?",
+            "sent3": "The gentleman asked whom he should escort to the ball.",
+            "sent4": "She inquired about whom she should thank for the lovely gift.",
+            "sent5": "Whom the queen invited to the royal banquet remained a mystery until the last moment."
         }
     ]
 }

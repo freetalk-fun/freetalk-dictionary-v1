@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A disappointment or feeling of discouragement.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The movie ending was a real letdown for me.",
+            "sent2": "Experiencing a letdown after losing the game is normal.",
+            "sent3": "It was a letdown when the ice cream truck ran out of ice cream.",
+            "sent4": "The canceled concert was a letdown for all the fans.",
+            "sent5": "The letdown of not getting the job lingered for days."
         },
         {
             "definition": "To lower someone's expectations or hopes.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She didn't want to letdown her friend by canceling the plans.",
+            "sent2": "Parents sometimes letdown children gently to avoid disappointment.",
+            "sent3": "He decided to letdown the news slowly to soften the blow.",
+            "sent4": "The coach had to letdown the team about the canceled game.",
+            "sent5": "The teacher had to letdown the students about the field trip cancellation."
         },
         {
             "definition": "To fail to meet expectations or fulfill a promise.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The company's poor service letdown many customers.",
+            "sent2": "It's disappointing when a product lets you down after high expectations.",
+            "sent3": "The cake letdown everyone at the party with its dryness.",
+            "sent4": "The team's loss letdown their loyal fans.",
+            "sent5": "The delayed delivery letdown the eager recipient."
         }
     ]
 }

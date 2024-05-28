@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Text that is easily readable and understood.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The instructions were written in plaintext language.",
+            "sent2": "The book had a plaintext explanation of the topic.",
+            "sent3": "The plaintext recipe made it simple to follow.",
+            "sent4": "Her plaintext handwriting was neat and clear.",
+            "sent5": "The plaintext sign was easy to spot from a distance."
         },
         {
             "definition": "Data that is not encrypted or encoded.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The email contained plaintext information.",
+            "sent2": "The document was saved in plaintext format.",
+            "sent3": "He accidentally sent the plaintext password to everyone.",
+            "sent4": "The plaintext file was accessible to anyone.",
+            "sent5": "The plaintext message was intercepted by hackers."
         }
     ]
 }

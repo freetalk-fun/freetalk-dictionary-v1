@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A ship designed for transporting troops.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The troopship sailed across the ocean with soldiers on board.",
+            "sent2": "The troopship docked at the port to unload the troops.",
+            "sent3": "The troopship had a party onboard to keep the soldiers entertained during the journey.",
+            "sent4": "The troopship was a floating fortress, carrying brave warriors to battle.",
+            "sent5": "The troopship's massive size made it stand out among other ships in the harbor."
         },
         {
             "definition": "To transport troops by ship.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The military decided to troopship the soldiers to the war zone for deployment.",
+            "sent2": "They troopshipped the entire battalion across the sea for the mission.",
+            "sent3": "The captain troopshipped the troops swiftly to their destination, avoiding delays.",
+            "sent4": "Troopshipping the soldiers was crucial for the success of the military operation.",
+            "sent5": "Troopshipping the troops efficiently required careful planning and coordination."
         }
     ]
 }

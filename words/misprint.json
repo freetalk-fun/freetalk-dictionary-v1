@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "An error in printing or writing that results in a mistake or deviation from the intended text.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The misprint in the newspaper confused many readers.",
+            "sent2": "I found a misprint in the book where a word was misspelled.",
+            "sent3": "The misprint on the sign made it seem like the store was selling 'free' instead of 'coffee'.",
+            "sent4": "Her misprint of the address led us to the wrong house.",
+            "sent5": "The misprint on the menu made the price of the dessert seem unbelievably low."
         },
         {
             "definition": "To print or write with errors or mistakes.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Please be careful not to misprint the important document.",
+            "sent2": "The rushed writer misprinted several words in the article.",
+            "sent3": "He accidentally misprinted his phone number on the business card.",
+            "sent4": "The old printer often misprints pages with smudges and lines.",
+            "sent5": "She tends to misprint numbers when she's in a hurry."
         }
     ]
 }

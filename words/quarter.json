@@ -3,23 +3,48 @@
     "meanings": [
         {
             "definition": "One of four equal parts of something",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I ate a quarter of the pizza.",
+            "sent2": "She divided the cake into quarters.",
+            "sent3": "The squirrel buried a quarter of its nuts in the backyard.",
+            "sent4": "His heart was broken into quarters after the breakup.",
+            "sent5": "The teacher cut the paper into quarters to share with the students."
         },
         {
             "definition": "A period of three months, especially in relation to financial reporting",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The company's earnings improved in the last quarter.",
+            "sent2": "We are in the second quarter of the year.",
+            "sent3": "The last quarter of the year always feels festive.",
+            "sent4": "She worked hard to meet her sales target for the quarter.",
+            "sent5": "The first quarter of the school year went by quickly."
         },
         {
             "definition": "A coin worth 25 cents",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I found a quarter under the couch.",
+            "sent2": "He put a quarter in the vending machine for a snack.",
+            "sent3": "The child was excited to get a shiny quarter from the tooth fairy.",
+            "sent4": "She saved every quarter she earned in a piggy bank.",
+            "sent5": "The parking meter only accepts quarters."
         },
         {
             "definition": "To divide into four equal parts",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Please quarter the apple before serving.",
+            "sent2": "The chef showed us how to properly quarter a chicken.",
+            "sent3": "He decided to quarter the sandwich to share with his friends.",
+            "sent4": "The map helped us quarter the land for the new development.",
+            "sent5": "She used a knife to quarter the watermelon for the picnic."
         },
         {
             "definition": "To provide lodging or accommodations for someone",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The innkeeper agreed to quarter the weary travelers for the night.",
+            "sent2": "The military base will quarter the soldiers during training.",
+            "sent3": "The kind family offered to quarter the stranded hikers in their guest room.",
+            "sent4": "The hotel will quarter the conference attendees during the event.",
+            "sent5": "The Airbnb host will quarter the guests in the cozy cottage."
         }
     ]
 }

@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Show (someone) to be involved in a crime.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The evidence clearly implicated him in the robbery.",
+            "sent2": "The detective implicated the suspect in the theft.",
+            "sent3": "The clumsy thief implicated himself by leaving his ID at the scene.",
+            "sent4": "Her fingerprints on the weapon implicated her as the culprit.",
+            "sent5": "The security camera footage implicated the suspect beyond doubt."
         },
         {
             "definition": "Convey (a meaning or intention) indirectly through what one says, rather than stating it explicitly.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "His tone of voice implicated that he was not happy with the decision.",
+            "sent2": "The teacher implicated that there would be a surprise quiz next week.",
+            "sent3": "The sarcastic comment implicated more than what was actually said.",
+            "sent4": "Her raised eyebrows implicated her disapproval of the plan.",
+            "sent5": "The silence in the room implicated tension between the two friends."
         }
     ]
 }

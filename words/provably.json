@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "In a manner that can be demonstrated or shown to be true",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "She provably solved the math problem by showing her work step by step.",
+            "sent2": "The scientist provably demonstrated the theory through a series of experiments.",
+            "sent3": "The detective provably cracked the case by following the clues carefully.",
+            "sent4": "His skills were provably unmatched, making him the best candidate for the job.",
+            "sent5": "The evidence was provably clear, leaving no room for doubt."
         },
         {
             "definition": "Capable of being proven or verified",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The provably correct answer was highlighted in green.",
+            "sent2": "It is provably true that water freezes at 0 degrees Celsius.",
+            "sent3": "The provably authentic painting was worth a fortune.",
+            "sent4": "Her provably genuine smile brightened up the room.",
+            "sent5": "The provably safe bridge stood strong against the storm."
         }
     ]
 }

@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "For the reason that",
-            "pos": "conjunction"
+            "pos": "conjunction",
+            "sent1": "I am happy because I got a present.",
+            "sent2": "I am smiling because the sun is shining.",
+            "sent3": "The cat is purring because it found a cozy spot.",
+            "sent4": "The flowers bloomed because the rain kissed them gently.",
+            "sent5": "She laughed because the joke was funny."
         },
         {
             "definition": "Since",
-            "pos": "conjunction"
+            "pos": "conjunction",
+            "sent1": "I stayed indoors because it was raining outside.",
+            "sent2": "He wore a jacket because it was cold.",
+            "sent3": "The dog barked because it heard a noise.",
+            "sent4": "The stars twinkled because the night was clear.",
+            "sent5": "She sang loudly because she was excited."
         },
         {
             "definition": "Due to the fact that",
-            "pos": "conjunction"
+            "pos": "conjunction",
+            "sent1": "The game was canceled because of the storm.",
+            "sent2": "They arrived late because of traffic.",
+            "sent3": "The cake was delicious because of the secret ingredient.",
+            "sent4": "The tree fell because of strong winds.",
+            "sent5": "He succeeded because of his hard work."
         }
     ]
 }

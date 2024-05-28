@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Containing many details or particulars",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The book had a detailed map of the entire city.",
+            "sent2": "She provided a detailed explanation of the experiment.",
+            "sent3": "The detective's detailed investigation uncovered the truth.",
+            "sent4": "Her detailed drawings brought the story to life.",
+            "sent5": "The detailed instructions made it easy to assemble the furniture."
         },
         {
             "definition": "To describe or explain with great attention to detail",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He detailed the steps needed to complete the project.",
+            "sent2": "The witness detailed the events leading up to the accident.",
+            "sent3": "She detailed her plan for the weekend in a funny way.",
+            "sent4": "The artist detailed the emotions through his brushstrokes.",
+            "sent5": "The chef detailed the recipe for the perfect souffle."
         }
     ]
 }

@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Print in bold type.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She always **boldfaces** important information in her reports.",
+            "sent2": "Please remember to **boldfaces** the title of the document.",
+            "sent3": "The teacher accidentally **boldfaces** the entire page, making it hard to read.",
+            "sent4": "His decision to **boldfaces** the key points made the presentation more impactful.",
+            "sent5": "The editor asked her to **boldfaces** the headings for better visibility."
         },
         {
             "definition": "To emphasize or highlight.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "During the speech, the speaker would often **boldfaces** his main points.",
+            "sent2": "She used a marker to **boldfaces** the important dates on the calendar.",
+            "sent3": "The comedian would always **boldfaces** his punchlines for extra laughs.",
+            "sent4": "Her smile **boldfaces** her joy at seeing her old friend.",
+            "sent5": "The artist's use of color **boldfaces** the contrast in the painting."
         },
         {
             "definition": "A bold typeface.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The designer chose a **boldfaces** for the heading to make it stand out.",
+            "sent2": "The logo was created using a unique **boldfaces**.",
+            "sent3": "The book cover featured an eye-catching **boldfaces** for the title.",
+            "sent4": "The company's branding guidelines specified the use of a specific **boldfaces**.",
+            "sent5": "The poster used a large **boldfaces** to grab attention at the event."
         }
     ]
 }

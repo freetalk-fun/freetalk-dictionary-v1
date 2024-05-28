@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To stop something from happening",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Wearing a helmet while biking is preventing head injuries.",
+            "sent2": "The lock on the door is preventing intruders from entering the house.",
+            "sent3": "The clever squirrel was preventing the birds from reaching the bird feeder.",
+            "sent4": "The bright sun was preventing the stars from shining brightly in the sky.",
+            "sent5": "The strong wind was preventing the kite from flying higher."
         },
         {
             "definition": "To keep something from occurring",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Regular exercise and a healthy diet are preventing illnesses.",
+            "sent2": "The firewall on the computer is preventing viruses from infecting the system.",
+            "sent3": "The mischievous cat was preventing the dog from getting its favorite toy.",
+            "sent4": "The dense fog was preventing the sunrise from being visible.",
+            "sent5": "The thick curtains were preventing sunlight from entering the room."
         },
         {
             "definition": "To hinder or obstruct something from taking place",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The traffic jam was preventing the ambulance from reaching the hospital quickly.",
+            "sent2": "The fallen tree was preventing the hikers from continuing on the trail.",
+            "sent3": "The spilled milk was preventing the cat from staying dry.",
+            "sent4": "The heavy rain was preventing the outdoor event from happening as planned.",
+            "sent5": "The broken bridge was preventing the cars from crossing the river."
         }
     ]
 }

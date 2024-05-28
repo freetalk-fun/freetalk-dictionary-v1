@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Past tense of say.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Yesterday, she saids she wanted ice cream.",
+            "sent2": "He saids hello to his friend every morning.",
+            "sent3": "The cat saids it's time for dinner by meowing loudly.",
+            "sent4": "The wind saids a haunting tale as it whispered through the trees.",
+            "sent5": "The teacher saids the answer out loud to the class."
         },
         {
             "definition": "Expressing a statement or assertion.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The saids fact was written in the history book.",
+            "sent2": "She made a saids comment about the weather.",
+            "sent3": "The saids announcement caused excitement among the students.",
+            "sent4": "His saids belief in himself helped him succeed.",
+            "sent5": "The saids statement was clear and concise."
         }
     ]
 }

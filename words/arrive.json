@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Reach a destination",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "We will arrive at the park before noon.",
+            "sent2": "The train is scheduled to arrive at 3:00 PM.",
+            "sent3": "I hope we arrive at the party before the cake is gone!",
+            "sent4": "The idea suddenly arrived in my mind like a lightning bolt.",
+            "sent5": "The package will arrive on your doorstep tomorrow."
         },
         {
             "definition": "Come to a place",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The guests will arrive at the hotel shortly.",
+            "sent2": "When will you arrive at the airport?",
+            "sent3": "The pizza delivery guy always arrives just in time for dinner.",
+            "sent4": "The news of the victory arrived like a refreshing breeze.",
+            "sent5": "The much-awaited weekend finally arrived."
         },
         {
             "definition": "Attain a goal or objective",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "With hard work, you will arrive at success.",
+            "sent2": "She arrived at a decision after much contemplation.",
+            "sent3": "The detective arrived at the truth after solving the case.",
+            "sent4": "After years of training, he finally arrived at his dream job.",
+            "sent5": "The team arrived at a consensus after a long discussion."
         }
     ]
 }

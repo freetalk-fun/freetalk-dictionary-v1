@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To cause or bring about (an action or feeling)",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The loud noise prompted everyone to cover their ears.",
+            "sent2": "Her question prompted a thoughtful response from the audience.",
+            "sent3": "The unexpected rain prompted laughter among the picnic attendees.",
+            "sent4": "His apology prompted forgiveness in her heart.",
+            "sent5": "The teacher's praise prompted a smile on the student's face."
         },
         {
             "definition": "To assist or encourage (someone) to do something",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The coach prompted the team to give their best effort.",
+            "sent2": "Her friend's support prompted her to pursue her dream.",
+            "sent3": "The delicious smell of baking prompted him to try his hand at cooking.",
+            "sent4": "Their cheers prompted him to take the final leap.",
+            "sent5": "The encouraging words prompted her to take the first step towards success."
         },
         {
             "definition": "Done without delay; immediate",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The prompt response from the customer service team impressed him.",
+            "sent2": "She appreciated his prompt arrival at the meeting.",
+            "sent3": "The prompt delivery of the package surprised her.",
+            "sent4": "His prompt decision-making skills saved the day.",
+            "sent5": "The prompt action taken by the firefighters prevented a disaster."
         }
     ]
 }

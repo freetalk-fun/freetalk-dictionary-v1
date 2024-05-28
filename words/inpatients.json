@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Patients who are admitted to a hospital for treatment.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The hospital had many inpatients receiving care.",
+            "sent2": "The inpatients were resting in their hospital rooms.",
+            "sent3": "The inpatients joked about starting a hospital band.",
+            "sent4": "The inpatients were like puzzle pieces in the hospital's care plan.",
+            "sent5": "The inpatients' families visited them regularly during their stay."
         },
         {
             "definition": "A person who is receiving medical care while staying in a hospital.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The nurse checked on the inpatients every few hours.",
+            "sent2": "Inpatients often have scheduled medication times.",
+            "sent3": "One of the inpatients tried to sneak out for a midnight snack.",
+            "sent4": "The inpatients' recovery journey was like a marathon.",
+            "sent5": "The inpatients' rooms were filled with get-well cards and flowers."
         }
     ]
 }

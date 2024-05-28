@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "An injury to living tissue caused by a cut, blow, or other impact.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The deep wound on his arm required stitches.",
+            "sent2": "She cleaned the wound on her knee with antiseptic.",
+            "sent3": "The clumsy puppy licked the wound on his paw, thinking it was a tasty treat.",
+            "sent4": "Her words left a wound in his heart that took time to heal.",
+            "sent5": "The wound from the accident left a scar as a reminder of the fall."
         },
         {
             "definition": "A feeling of pain or distress caused by a past event.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The emotional wound from the breakup still hurt.",
+            "sent2": "Time healed the wound of losing his favorite toy.",
+            "sent3": "His wounded pride made him refuse help, even though he needed it.",
+            "sent4": "The wound of betrayal cut deeper than he expected.",
+            "sent5": "The wound of rejection stung like a fresh cut."
         },
         {
             "definition": "To inflict an injury on someone or something.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He accidentally wound the rope around the tree trunk.",
+            "sent2": "The villain planned to wound the hero in their final battle.",
+            "sent3": "She wound her brother by playfully teasing him about his haircut.",
+            "sent4": "His harsh words wound her deeply, leaving emotional scars.",
+            "sent5": "The hunter aimed carefully to wound the deer without causing unnecessary suffering."
         }
     ]
 }

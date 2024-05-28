@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A rough calculation or guess.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The estimates for the project cost were way off.",
+            "sent2": "Her estimates of how many jellybeans were in the jar were surprisingly accurate.",
+            "sent3": "The estimates for how long it would take to bake the cake were way too high!",
+            "sent4": "His estimates of the number of stars in the sky were as countless as grains of sand.",
+            "sent5": "The estimates of the treasure's location led them on a wild goose chase."
         },
         {
             "definition": "To form an opinion about something without having all the details.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She estimates that the movie will be good based on the trailer.",
+            "sent2": "He estimates the weather will be sunny tomorrow.",
+            "sent3": "I estimate that the cat is plotting something mischievous.",
+            "sent4": "The detective estimated the culprit's identity before the final reveal.",
+            "sent5": "Estimating the taste of the soup, she added more salt to be safe."
         },
         {
             "definition": "To give a general idea of the value, size, or cost of something.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The real estate agent estimates the house's value at $500,000.",
+            "sent2": "He estimates the weight of the package to be around 5 pounds.",
+            "sent3": "Estimating the distance to the moon, he pointed up and said, 'It's far.'",
+            "sent4": "She estimates the time it will take to finish the race at just under an hour.",
+            "sent5": "The chef estimates the cost of the meal to be within the budget."
         }
     ]
 }

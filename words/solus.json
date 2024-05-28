@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Alone",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "He walked solus through the forest.",
+            "sent2": "She prefers to work solus on her projects.",
+            "sent3": "The cat sat solus on the windowsill, watching the birds outside.",
+            "sent4": "The old house stood solus at the end of the street, abandoned and eerie.",
+            "sent5": "As the sun set, he felt solus in the vast desert landscape."
         },
         {
             "definition": "Only",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "She solus wanted to go to the beach.",
+            "sent2": "He could solus play the piano in the family.",
+            "sent3": "The bakery had solus one loaf of bread left on the shelf.",
+            "sent4": "The diamond ring was solus piece of jewelry she owned.",
+            "sent5": "The teacher gave solus one student an A+ on the test."
         },
         {
             "definition": "Solitary",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The solus tree in the field provided shade for the animals.",
+            "sent2": "She enjoyed the solus walk along the beach at sunrise.",
+            "sent3": "The solus cabin in the woods was a peaceful retreat.",
+            "sent4": "The solus figure on the hill looked like a lone guardian.",
+            "sent5": "The solus lighthouse stood tall against the stormy sea."
         }
     ]
 }

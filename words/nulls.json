@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "having no legal or binding force; invalid",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The contract became nulls after the signature was forged.",
+            "sent2": "The expired ticket was nulls and could not be used.",
+            "sent3": "The magician's nulls attempt at a disappearing act left the audience puzzled.",
+            "sent4": "Her promises turned out to be nulls, like a mirage in the desert.",
+            "sent5": "The faded painting was a nulls reminder of the artist's talent."
         },
         {
             "definition": "a value of zero or no value",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The computer displayed nulls when the data was missing.",
+            "sent2": "The empty field was filled with nulls in the database.",
+            "sent3": "The treasure map led to a chest full of nulls, disappointing the pirates.",
+            "sent4": "His words fell on her ears like nulls, devoid of meaning.",
+            "sent5": "The abandoned house was a nulls of memories, left to decay."
         },
         {
             "definition": "to make null; invalidate",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She nulls the contract by tearing it up in front of everyone.",
+            "sent2": "The judge nulls the evidence due to lack of credibility.",
+            "sent3": "The mischievous student nulls his friend's excuse for being late.",
+            "sent4": "The storm nulls the carefully laid plans for the outdoor event.",
+            "sent5": "The hacker nulls the security system with a few keystrokes."
         }
     ]
 }

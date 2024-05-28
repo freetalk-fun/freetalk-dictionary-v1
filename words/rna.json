@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Ribonucleic acid (RNA) - a nucleic acid present in all living cells that plays a role in protein synthesis.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The scientist studied how RNA helps make proteins in cells.",
+            "sent2": "RNA is essential for the production of proteins in the body.",
+            "sent3": "The RNA molecule and the protein had a chat about their important roles in the cell.",
+            "sent4": "In the orchestra of the cell, RNA conducts the protein synthesis symphony.",
+            "sent5": "Under the microscope, the RNA molecule danced elegantly, orchestrating protein production."
         },
         {
             "definition": "RNA - a type of genetic material that carries genetic information from DNA to the ribosome for protein synthesis.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The RNA molecule delivered the genetic message from DNA to the ribosome.",
+            "sent2": "Scientists use RNA to understand how genetic information is translated into proteins.",
+            "sent3": "The RNA molecule joked with DNA about being the messenger boy between them and the ribosome.",
+            "sent4": "Like a genetic courier, RNA swiftly transports the DNA's message to the ribosome.",
+            "sent5": "In the cell's communication network, RNA acts as the genetic information courier, ensuring proteins are made accurately."
         }
     ]
 }

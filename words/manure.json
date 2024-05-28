@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Fertilizer made from animal waste.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The farmer used manure to help his crops grow.",
+            "sent2": "The manure was spread across the field to nourish the soil.",
+            "sent3": "The manure smelled bad but was great for the plants.",
+            "sent4": "The manure acted like a natural fertilizer, enriching the earth.",
+            "sent5": "The manure was a stinky but effective way to improve the soil quality."
         },
         {
             "definition": "To spread manure on land for fertilization.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The farmer will manure the fields tomorrow.",
+            "sent2": "She manures the garden every spring to help the flowers bloom.",
+            "sent3": "Don't forget to manure the soil before planting the seeds!",
+            "sent4": "He manured the land with care, ensuring each plant would thrive.",
+            "sent5": "Manuring the fields is essential for a successful harvest."
         }
     ]
 }

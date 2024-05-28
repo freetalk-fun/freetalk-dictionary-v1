@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Errors in printed text.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The book had many misprints that made it hard to read.",
+            "sent2": "I found a few misprints in the newspaper article.",
+            "sent3": "The misprints in the menu caused some confusion among the customers.",
+            "sent4": "Her memory was like a book full of misprints, with some details missing.",
+            "sent5": "The misprints in the map led us to the wrong destination."
         },
         {
             "definition": "To print with errors.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Be careful not to misprints important documents.",
+            "sent2": "The rushed printing job misprints the flyers with typos.",
+            "sent3": "He misprints the invitations, accidentally adding extra information.",
+            "sent4": "Her mind misprints the words, mixing up the letters in a jumble.",
+            "sent5": "The old printer tends to misprints pages, skipping lines occasionally."
         }
     ]
 }

@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A person who assigns a value or score to something.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The rater carefully evaluated the student's performance.",
+            "sent2": "The teacher is a rater who grades the exams.",
+            "sent3": "The rater chuckled as they marked the test with a red pen.",
+            "sent4": "She was like a rater of flavors, discerning the subtle notes in the dish.",
+            "sent5": "The rater's decision can greatly impact the final grade."
         },
         {
             "definition": "A device or system that measures or evaluates something.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The electronic rater displayed the temperature accurately.",
+            "sent2": "The online rater calculated the distance traveled.",
+            "sent3": "The rater beeped happily when it completed the task.",
+            "sent4": "The radar system acted like a vigilant rater, monitoring the surroundings.",
+            "sent5": "The rater's accuracy is crucial for the experiment's success."
         },
         {
             "definition": "To assign a value or score to something.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She will rater the essays based on creativity and grammar.",
+            "sent2": "He ratered the paintings at the art show.",
+            "sent3": "The children decided to rater each other's drawings for fun.",
+            "sent4": "The judge had to rater the performances fairly.",
+            "sent5": "It's important to rater the importance of each factor in the decision-making process."
         }
     ]
 }

@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To place in or pack into a container.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I am containerizing my toys in the box.",
+            "sent2": "She enjoys containerizing her snacks for the picnic.",
+            "sent3": "The squirrel was containerizing nuts in its cheeks.",
+            "sent4": "The students were containerizing knowledge in their minds.",
+            "sent5": "Containerizing the ingredients made baking easier."
         },
         {
             "definition": "To adapt (software) for use in a containerized environment.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The developers are containerizing the application for cloud deployment.",
+            "sent2": "Containerizing the code allows for easier deployment across servers.",
+            "sent3": "The software engineer was containerizing the program with precision.",
+            "sent4": "She was containerizing the data to ensure seamless integration.",
+            "sent5": "Containerizing the software streamlines the development process."
         }
     ]
 }

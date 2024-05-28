@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A quantity that is fully described by a magnitude or size, without direction.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "In math class, we learned about scalars, which are quantities with only size.",
+            "sent2": "The weight of the apple is a scalar, as it is described by its magnitude.",
+            "sent3": "I asked the scalar how tall it was, but it couldn't answer without a direction.",
+            "sent4": "Her love for him was a scalar, growing in size but without a clear direction.",
+            "sent5": "The scalar of his anger was so immense, it filled the room with tension."
         },
         {
             "definition": "A single value, as opposed to a vector or matrix.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The temperature outside is just a scalar, not a range of values.",
+            "sent2": "She entered the scalar into the system, a single number representing the data point.",
+            "sent3": "The scalar walked into the room confidently, knowing it was the only value needed.",
+            "sent4": "His voice echoed like a scalar in the empty hallway, a single sound reverberating.",
+            "sent5": "The scalar of her happiness was evident in her radiant smile."
         },
         {
             "definition": "A variable that can be represented by a single numerical value.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The speed of the car is a scalar, just a number without any other information.",
+            "sent2": "He input the scalar into the equation, simplifying the complex problem.",
+            "sent3": "The scalar sat quietly in the corner, waiting to be assigned a value.",
+            "sent4": "Her laughter filled the room like a scalar, a single joyous number in the air.",
+            "sent5": "The scalar of his intelligence was evident in his quick problem-solving skills."
         }
     ]
 }

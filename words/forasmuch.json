@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Because",
-            "pos": "conjunction"
+            "pos": "conjunction",
+            "sent1": "Forasmuch I am tired, I will go to bed early.",
+            "sent2": "I cannot go to the party, forasmuch I have to study for my exam.",
+            "sent3": "Forasmuch I ate all the cookies, now I have a stomach ache.",
+            "sent4": "Forasmuch the sun has set, the stars now twinkle in the night sky.",
+            "sent5": "Forasmuch the flowers need water, they droop sadly in the heat."
         },
         {
             "definition": "Since",
-            "pos": "conjunction"
+            "pos": "conjunction",
+            "sent1": "Since it is raining, forasmuch I will bring an umbrella.",
+            "sent2": "I have been feeling unwell since yesterday, forasmuch I stayed up late.",
+            "sent3": "Since I finished my homework early, forasmuch I decided to watch a movie.",
+            "sent4": "Since the dawn of time, forasmuch humans have looked up at the stars in wonder.",
+            "sent5": "Since the tree was planted, forasmuch it has grown tall and strong."
         }
     ]
 }

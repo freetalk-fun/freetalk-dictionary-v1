@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "The basis or motive for an action, decision, or belief.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "She had many reasons to be happy today.",
+            "sent2": "His reasons for choosing that path were clear.",
+            "sent3": "The cat's reasons for knocking over the vase remain a mystery.",
+            "sent4": "The teacher's reasons for assigning extra homework were to help the students learn.",
+            "sent5": "The detective carefully considered all the reasons before making a conclusion."
         },
         {
             "definition": "To think, understand, and form judgments logically.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He reasons before making any important decisions.",
+            "sent2": "She reasons through the problem step by step.",
+            "sent3": "The robot reasons through its programming to perform tasks efficiently.",
+            "sent4": "The scientist reasons that the experiment will yield valuable results.",
+            "sent5": "The child reasons out the solution to the puzzle on his own."
         },
         {
             "definition": "To argue or present a case in a rational way.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "They reasons with evidence to support their claim.",
+            "sent2": "She reasons her point effectively during the debate.",
+            "sent3": "The comedian reasons with humor to make his audience laugh.",
+            "sent4": "The lawyer reasons passionately in the courtroom.",
+            "sent5": "He reasons his side of the story convincingly to the jury."
         }
     ]
 }

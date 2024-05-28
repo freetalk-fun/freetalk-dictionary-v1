@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Marked with an asterisk.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The document had an asterisked section for important notes.",
+            "sent2": "She noticed the asterisked items at the bottom of the page.",
+            "sent3": "The asterisked paragraph made the text look like a secret code.",
+            "sent4": "Her asterisked notebook stood out among the plain ones.",
+            "sent5": "The asterisked words glowed on the page, drawing attention."
         },
         {
             "definition": "To mark with an asterisk.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He asterisked the key points in his notes for easy reference.",
+            "sent2": "They asterisked the errors in the document before printing.",
+            "sent3": "She asterisked her favorite recipes in the cookbook.",
+            "sent4": "The teacher asterisked the correct answers on the test.",
+            "sent5": "The map was asterisked to show the locations of hidden treasures."
         }
     ]
 }

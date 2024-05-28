@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A person or thing that infects.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The infector spread germs to everyone in the room.",
+            "sent2": "The infector was responsible for the outbreak of the illness.",
+            "sent3": "The sneezing infector turned the office into a germ battleground.",
+            "sent4": "The infector of rumors contaminated the peaceful atmosphere.",
+            "sent5": "The infector's touch left a trail of sickness behind."
         },
         {
             "definition": "A computer program that spreads malicious software.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The infector infiltrated the system and corrupted all the files.",
+            "sent2": "The infector disguised itself as a harmless email attachment.",
+            "sent3": "The mischievous infector played havoc with the computer network.",
+            "sent4": "The infector acted like a digital virus, infecting every device it touched.",
+            "sent5": "The infector's code was designed to cause chaos and destruction."
         },
         {
             "definition": "A disease-causing organism.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The infector was a tiny bacterium that made people sick.",
+            "sent2": "The infector thrived in unsanitary conditions, spreading illness.",
+            "sent3": "The invisible infector lurked in the contaminated water.",
+            "sent4": "The infector multiplied rapidly, overwhelming the body's defenses.",
+            "sent5": "The deadly infector was a silent threat waiting to strike."
         }
     ]
 }

@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "An exchange of diverging or opposite views, typically a heated or angry one.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "During the family dinner, there were loud arguments about which movie to watch.",
+            "sent2": "The politicians engaged in arguments over the new law.",
+            "sent3": "The arguments between the two siblings over the last cookie were both funny and intense.",
+            "sent4": "The arguments in the courtroom were like a fierce battle of words.",
+            "sent5": "The arguments in the classroom were so intense that no one could hear the teacher."
         },
         {
             "definition": "A reason or set of reasons given in support of an idea, action, or theory.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "She presented strong arguments to convince her parents to let her go to the party.",
+            "sent2": "The scientist provided compelling arguments for his new discovery.",
+            "sent3": "His argument for eating ice cream for breakfast was both amusing and creative.",
+            "sent4": "Her argument for the importance of kindness was like a beacon of light in a dark room.",
+            "sent5": "The arguments in the essay were so powerful that they left a lasting impact on the readers."
         },
         {
             "definition": "A variable in a function or program that receives a value when the function or program is called.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The function required specific arguments to produce the correct output.",
+            "sent2": "The programmer forgot to include the necessary arguments in the code.",
+            "sent3": "The argument in the program was like a missing puzzle piece.",
+            "sent4": "The argument in the function acted as the key to unlocking the desired result.",
+            "sent5": "The arguments in the code were crucial for the program to run smoothly."
         }
     ]
 }

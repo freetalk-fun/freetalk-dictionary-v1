@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A secret plan or scheme to accomplish a purpose.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The spy carefully crafted a plot to steal the valuable documents.",
+            "sent2": "The villains in the movie had an evil plot to take over the city.",
+            "sent3": "The plot to surprise the birthday girl with a party was almost ruined by a loud noise.",
+            "sent4": "Her plot to outsmart her opponent in the game was both cunning and strategic.",
+            "sent5": "The intricate plot to solve the mystery kept the audience on the edge of their seats."
         },
         {
             "definition": "The main events of a play, novel, movie, or similar work, devised and presented by the writer as an interrelated sequence.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The plot of the story unfolded gradually, revealing unexpected twists.",
+            "sent2": "In the play, the plot thickened as the characters faced new challenges.",
+            "sent3": "The plot of the movie was so predictable that the audience started guessing the ending.",
+            "sent4": "As the novel reached its climax, the plot reached a point of no return.",
+            "sent5": "The intricate plot of the mystery novel kept readers guessing until the very end."
         }
     ]
 }

@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A type of bet in horse racing where the bettor must correctly predict the first and second place finishers in a race.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I placed an exacta on the two fastest horses in the race.",
+            "sent2": "The exacta requires predicting both the winner and the runner-up.",
+            "sent3": "Trying to guess the exacta is like solving a tricky puzzle.",
+            "sent4": "Winning the exacta is like finding a needle in a haystack.",
+            "sent5": "The exacta bet adds excitement to the horse race."
         },
         {
             "definition": "Precisely accurate or correct.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "She gave an exacta answer to the math problem.",
+            "sent2": "His measurements were exacta, with no room for error.",
+            "sent3": "Her aim was so exacta that she hit the bullseye every time.",
+            "sent4": "The exacta timing of the fireworks made the show spectacular.",
+            "sent5": "The tailor's work was exacta, fitting perfectly every time."
         }
     ]
 }

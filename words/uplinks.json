@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A transmission path from a ground-based station to a satellite.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The uplinks help send information to the satellite.",
+            "sent2": "The uplinks are crucial for communication with the satellite.",
+            "sent3": "The uplinks had a chat with the satellite on their way up.",
+            "sent4": "The uplinks act as a bridge between the ground station and the satellite.",
+            "sent5": "The uplinks beam data up to the satellite like a digital elevator."
         },
         {
             "definition": "A connection that allows data to be sent from a lower level to a higher level in a network.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The uplinks facilitate the transfer of data to higher network levels.",
+            "sent2": "Data travels smoothly through the uplinks to reach higher network levels.",
+            "sent3": "The uplinks were feeling proud as they elevated the data to a higher level.",
+            "sent4": "The uplinks are like escalators for data, moving it upwards in the network.",
+            "sent5": "The uplinks are the key to unlocking higher network levels for data transmission."
         },
         {
             "definition": "The act of sending data or signals from a lower level to a higher level in a network.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Efficient uplinks ensure smooth data transmission to higher network levels.",
+            "sent2": "The uplinks handle the task of sending data to higher network levels.",
+            "sent3": "The uplinks were on a mission to elevate the data to new network heights.",
+            "sent4": "Data flows seamlessly through the uplinks, reaching higher network levels.",
+            "sent5": "The uplinks elevate data like a digital superhero, ensuring it reaches higher network levels."
         }
     ]
 }

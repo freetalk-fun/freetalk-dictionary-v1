@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Medical treatment",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The doctor prescribed some med for the patient's illness.",
+            "sent2": "She went to the pharmacy to pick up her med.",
+            "sent3": "The med worked like magic, making the pain disappear.",
+            "sent4": "His kindness was the med that healed her broken heart.",
+            "sent5": "The med was a lifesaver, curing the infection quickly."
         },
         {
             "definition": "Medium",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "She chose a med-sized shirt at the store.",
+            "sent2": "The artist used a med brush to paint the landscape.",
+            "sent3": "The med cupcake was just the right size for a snack.",
+            "sent4": "The med voice of the singer captivated the audience.",
+            "sent5": "The med level of spice in the dish was perfect for her taste."
         },
         {
             "definition": "Meditation",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Every morning, she practiced med to calm her mind.",
+            "sent2": "He found peace through daily med sessions.",
+            "sent3": "The med helped her focus and relax before the exam.",
+            "sent4": "In the quiet room, his thoughts floated away during med.",
+            "sent5": "The med brought clarity and serenity to her hectic life."
         }
     ]
 }

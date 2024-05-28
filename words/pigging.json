@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To eat greedily or excessively.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The hungry child was pigging out on candy.",
+            "sent2": "She always ends up pigging on junk food when she's stressed.",
+            "sent3": "The raccoon was pigging on the leftovers from the picnic.",
+            "sent4": "The squirrel was pigging on the nuts, storing them for winter.",
+            "sent5": "The dog was pigging on the treats, wagging its tail happily."
         },
         {
             "definition": "A young pig.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The farmer's pigging was squealing in the pen.",
+            "sent2": "The pigging was rolling around in the mud happily.",
+            "sent3": "The pigging was chasing after its siblings in the field.",
+            "sent4": "The pigging was napping under the shade of a tree.",
+            "sent5": "The pigging was oinking loudly, looking for food."
         },
         {
             "definition": "A device inserted into a pipeline for cleaning purposes.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The workers used pigging to clean the pipeline efficiently.",
+            "sent2": "The company invested in pigging equipment for maintenance.",
+            "sent3": "The pigging got stuck in the pipeline, causing a delay.",
+            "sent4": "The pigging smoothly moved through the pipes, clearing debris.",
+            "sent5": "The pigging effectively removed the buildup, improving flow."
         }
     ]
 }

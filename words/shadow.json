@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A dark area or shape produced by a body coming between rays of light and a surface.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The cat chased its shadow playfully in the sun.",
+            "sent2": "The tree cast a long shadow on the grass.",
+            "sent3": "The mischievous child tried to step on his own shadow.",
+            "sent4": "The shadow of doubt loomed over their decision.",
+            "sent5": "The shadow of the mountain stretched across the valley."
         },
         {
             "definition": "A faint or indistinct representation or semblance of something.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "She saw a shadow of a figure in the fog.",
+            "sent2": "The ghostly figure left only a shadow behind.",
+            "sent3": "The artist painted a shadow of the city skyline.",
+            "sent4": "His words were just a shadow of the truth.",
+            "sent5": "The shadow of a smile played on her lips."
         },
         {
             "definition": "To follow and observe (someone) closely and secretly.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The detective shadowed the suspect through the crowded market.",
+            "sent2": "She decided to shadow her favorite author for a day.",
+            "sent3": "The curious cat tried to shadow the postman on his route.",
+            "sent4": "He felt like someone was shadowing his every move.",
+            "sent5": "The spy was tasked to shadow the diplomat during the conference."
         }
     ]
 }

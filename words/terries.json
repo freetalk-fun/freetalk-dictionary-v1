@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "terrify: to cause extreme fear or dread",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The horror movie really terries me.",
+            "sent2": "Loud noises can sometimes terries pets.",
+            "sent3": "The haunted house always terries the visitors.",
+            "sent4": "The sudden thunderstorm terries the calm night.",
+            "sent5": "The ghost story told around the campfire terries the children."
         },
         {
             "definition": "territory: a specific area of land",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The squirrel marked its terries with scent.",
+            "sent2": "The explorer mapped out new terries in the jungle.",
+            "sent3": "The cat claimed the garden as its terries.",
+            "sent4": "The soldiers defended their terries bravely.",
+            "sent5": "The farmer plowed the fertile terries for planting."
         },
         {
             "definition": "terrible: extremely bad or unpleasant",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The storm caused terries damage to the town.",
+            "sent2": "The food at the restaurant was terries.",
+            "sent3": "The comedian's jokes were so bad, they were terries.",
+            "sent4": "The smell coming from the garbage was terries.",
+            "sent5": "The student's handwriting was terries and hard to read."
         }
     ]
 }

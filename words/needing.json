@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To require something because it is essential or very important.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She is needing help with her homework.",
+            "sent2": "The plant is needing water to grow.",
+            "sent3": "The cat is needing attention, or it will start knocking things over.",
+            "sent4": "His car is needing a tune-up to run smoothly.",
+            "sent5": "The baby is needing food to feel satisfied."
         },
         {
             "definition": "Lacking something that is essential or very important.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The hungry child is needing food.",
+            "sent2": "The broken toy is needing repair.",
+            "sent3": "The sleepy puppy is needing a cozy bed.",
+            "sent4": "The old house is needing renovation.",
+            "sent5": "The empty glass is needing a refill."
         }
     ]
 }

@@ -2,16 +2,31 @@
     "term": "photosynthesizes",
     "meanings": [
         {
-            "definition": "Photosynthesizes: to process sunlight into energy",
-            "pos": "verb"
+            "definition": "to process sunlight into energy",
+            "pos": "verb",
+            "sent1": "The plant photosynthesizes to make food.",
+            "sent2": "The tree photosynthesizes to survive.",
+            "sent3": "The flower photosynthesizes happily in the sun.",
+            "sent4": "The solar panel photosynthesizes light into electricity.",
+            "sent5": "The leaf photosynthesizes energy from the sun's rays."
         },
         {
-            "definition": "Photosynthesizes: the process by which plants convert sunlight into food",
-            "pos": "noun, verb"
+            "definition": "the process by which plants convert sunlight into food",
+            "pos": "noun, verb",
+            "sent1": "Photosynthesizes help plants grow by making food.",
+            "sent2": "Plants photosynthesize to create their own nourishment.",
+            "sent3": "The garden photosynthesizes a buffet for the plants.",
+            "sent4": "Sunlight photosynthesizes into a delicious meal for plants.",
+            "sent5": "Photosynthesizes turn sunlight into a plant feast."
         },
         {
-            "definition": "Photosynthesizes: the action of producing glucose from sunlight and carbon dioxide",
-            "pos": "verb"
+            "definition": "the action of producing glucose from sunlight and carbon dioxide",
+            "pos": "verb",
+            "sent1": "A plant photosynthesizes to make sugar for itself.",
+            "sent2": "Photosynthesizes are essential for plant growth.",
+            "sent3": "The tree photosynthesizes a sweet treat for itself.",
+            "sent4": "Sunlight photosynthesizes into sugary goodness for plants.",
+            "sent5": "Photosynthesizes transform sunlight into plant fuel."
         }
     ]
 }

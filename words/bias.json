@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A tendency to lean in a certain direction or favor one thing over another.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Her strong bias towards cats made her adopt three of them.",
+            "sent2": "The news article showed a clear bias towards one political party.",
+            "sent3": "His bias for chocolate ice cream was so strong that he had it for every meal.",
+            "sent4": "The bias of the tree towards the sunlight caused it to grow lopsided.",
+            "sent5": "The bias of the scale made it tip towards the heavier side."
         },
         {
             "definition": "Prejudice in favor of or against one thing, person, or group compared with another, usually in a way considered to be unfair.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The teacher's bias towards certain students was evident in her grading.",
+            "sent2": "The hiring manager's bias against older candidates was concerning.",
+            "sent3": "The bias of the weatherman towards sunny days led to inaccurate forecasts.",
+            "sent4": "Her bias against spicy food was so strong that she couldn't even tolerate mild salsa.",
+            "sent5": "The bias of the judge towards the defendant influenced the outcome of the trial."
         },
         {
             "definition": "To cause to feel or show inclination or prejudice for or against someone or something.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The persuasive speech was designed to bias the audience in favor of the new policy.",
+            "sent2": "The misleading advertisement was meant to bias consumers towards buying the product.",
+            "sent3": "His attempt to bias the jury with false evidence backfired in court.",
+            "sent4": "The biased survey questions were crafted to bias the results in a specific direction.",
+            "sent5": "The biased news report aimed to bias viewers against the opposing political party."
         }
     ]
 }

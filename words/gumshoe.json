@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A detective",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The gumshoe solved the mystery by finding clues.",
+            "sent2": "The gumshoe was known for his sharp investigative skills.",
+            "sent3": "The gumshoe accidentally solved the case while looking for his lost keys.",
+            "sent4": "The gumshoe's keen eye for detail made him the best in the business.",
+            "sent5": "The gumshoe's hat and magnifying glass were his trademark tools."
         },
         {
             "definition": "To investigate or follow someone secretly",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She decided to gumshoe her friend to plan a surprise party.",
+            "sent2": "The detective gumshoed the suspect to gather evidence.",
+            "sent3": "He gumshoed behind the bushes to catch a glimpse of the movie star.",
+            "sent4": "The paparazzi gumshoed the celebrity for an exclusive scoop.",
+            "sent5": "The spy gumshoed through the crowded market unnoticed."
         }
     ]
 }

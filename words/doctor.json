@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A person licensed to practice medicine.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The doctor helped me when I was sick.",
+            "sent2": "I have an appointment with my doctor next week.",
+            "sent3": "The doctor's office was filled with colorful toys for children.",
+            "sent4": "Her smile was like a doctor's prescription, instantly making me feel better.",
+            "sent5": "The doctor's stethoscope hung around his neck, ready for any patient."
         },
         {
             "definition": "To give medical treatment to.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I will doctor this wound with some antiseptic.",
+            "sent2": "The nurse will doctor the patient's bandages before changing them.",
+            "sent3": "He tried to doctor the broken toy with tape, but it didn't work.",
+            "sent4": "She knew how to doctor a cold with warm soup and rest.",
+            "sent5": "The chef decided to doctor up the recipe with a pinch of extra spice."
         }
     ]
 }

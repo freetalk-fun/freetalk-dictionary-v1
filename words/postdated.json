@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To write a date on a check, contract, or other document that is later than the current date.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She postdated the check to ensure it would not be cashed until next month.",
+            "sent2": "The contract was postdated to give the parties more time to prepare.",
+            "sent3": "The teacher postdated the assignment deadline, causing confusion among the students.",
+            "sent4": "His promise to help postdated his actual availability.",
+            "sent5": "The postdated letter revealed secrets long kept hidden."
         },
         {
             "definition": "Dated with a date later than the current date.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The postdated invoice indicated a delay in payment.",
+            "sent2": "She received a postdated invitation to the event.",
+            "sent3": "The postdated movie ticket made her feel like she was time traveling.",
+            "sent4": "His postdated journal entry captured his future hopes and dreams.",
+            "sent5": "The postdated calendar entry reminded her of upcoming plans."
         }
     ]
 }

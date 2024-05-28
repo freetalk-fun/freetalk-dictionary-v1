@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Walk steadily and rhythmically forward.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The soldier marches proudly in the parade.",
+            "sent2": "The protesters marched peacefully through the streets.",
+            "sent3": "The penguins decided to march in a line for fun.",
+            "sent4": "The ants marched in a straight line towards the picnic.",
+            "sent5": "The students practiced marching in perfect formation for the school band."
         },
         {
             "definition": "An act or instance of marching.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The march of the soldiers was impressive.",
+            "sent2": "We could hear the march of the band approaching.",
+            "sent3": "The march of the ducks across the road caused a traffic jam.",
+            "sent4": "The march of time never stops.",
+            "sent5": "The march of the ants in the garden fascinated the children."
         },
         {
             "definition": "A piece of music with a strong, regular rhythm typically played by a military band.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The band played a lively march during the parade.",
+            "sent2": "The students practiced the march for the upcoming concert.",
+            "sent3": "The march played by the orchestra made everyone want to dance.",
+            "sent4": "The march echoed through the stadium during the halftime show.",
+            "sent5": "The military march filled the air with patriotic tunes."
         }
     ]
 }

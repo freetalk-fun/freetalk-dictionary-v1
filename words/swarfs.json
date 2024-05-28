@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Swarfs (verb): to cover or overwhelm with a thick layer",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The snow swarfs the entire town in white.",
+            "sent2": "She swarfs her pancakes with maple syrup.",
+            "sent3": "The puppy swarfs the room with torn paper, creating a mess.",
+            "sent4": "The darkness swarfs the forest, enveloping it in shadows.",
+            "sent5": "The fog swarfs the landscape, making it hard to see beyond a few feet."
         },
         {
             "definition": "Swarfs (noun): small particles or fragments of material",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The carpenter swept away the swarfs from his workbench.",
+            "sent2": "Tiny swarfs of glitter sparkled in the sunlight.",
+            "sent3": "The artist used colorful swarfs to create a mosaic masterpiece.",
+            "sent4": "The wind carried the swarfs of sand across the beach.",
+            "sent5": "The scientist studied the swarfs under a microscope to understand their composition."
         },
         {
             "definition": "Swarfs (adjective): covered or coated with a thick layer of something",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The car was swarfs with a thick layer of dust.",
+            "sent2": "Her hands were swarfs in paint after the art class.",
+            "sent3": "The cake was swarfs in frosting, making it look delicious.",
+            "sent4": "The mountain was swarfs in snow, creating a beautiful winter scene.",
+            "sent5": "The old book was swarfs in cobwebs, untouched for years."
         }
     ]
 }

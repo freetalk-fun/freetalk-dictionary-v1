@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Express complete disapproval of",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The teacher condemned cheating in the exam.",
+            "sent2": "The community condemned the act of vandalism.",
+            "sent3": "The cat condemned the new brand of cat food with a disapproving look.",
+            "sent4": "Her eyes condemned his actions more than any words could.",
+            "sent5": "The judge's stern gaze condemned the criminal to a lifetime of regret."
         },
         {
             "definition": "Officially declare unfit for use",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The building inspector condemned the old house due to safety concerns.",
+            "sent2": "The health department condemned the contaminated food.",
+            "sent3": "The robot condemned the malfunctioning part with a red warning light.",
+            "sent4": "The storm condemned the bridge to collapse under its force.",
+            "sent5": "The scientist's report condemned the theory as flawed and unreliable."
         },
         {
             "definition": "Sentenced to a particular punishment",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The condemned criminal awaited his fate in the prison cell.",
+            "sent2": "The condemned ship slowly sank into the depths of the ocean.",
+            "sent3": "The condemned cake was devoured by hungry party guests.",
+            "sent4": "The condemned building stood as a reminder of past mistakes.",
+            "sent5": "The condemned man's last words echoed through the silent room."
         }
     ]
 }

@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "past tense of 'ear' (to hear)",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Yesterday, I earst a beautiful song in the park.",
+            "sent2": "I earst the birds chirping outside my window every morning.",
+            "sent3": "I earst my cat meowing for food even though I just fed her.",
+            "sent4": "She earst the distant sound of waves crashing on the shore.",
+            "sent5": "The detective earst a faint whisper in the dark alley, solving the mystery."
         },
         {
             "definition": "superlative form of 'early'",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "She woke up the earst out of all her friends.",
+            "sent2": "He always arrives at work the earst, eager to start his day.",
+            "sent3": "The early bird may get the worm, but the earst bird gets the best seat.",
+            "sent4": "The earst risers were rewarded with a stunning sunrise.",
+            "sent5": "The earst flowers of spring brought vibrant colors to the garden."
         },
         {
             "definition": "comparative form of 'early'",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "She arrived earst at the party than her sister.",
+            "sent2": "He finished his homework earst than usual, impressing his teacher.",
+            "sent3": "The sun sets earst in the summer compared to the winter.",
+            "sent4": "The runner crossed the finish line earst than his competitors.",
+            "sent5": "The storm arrived earst than predicted, catching everyone off guard."
         }
     ]
 }

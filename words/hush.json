@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Silence or quietness, especially as a result of someone's request.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The hush in the library was so peaceful.",
+            "sent2": "The hush of the forest at night was calming.",
+            "sent3": "The sudden hush in the classroom made everyone look up.",
+            "sent4": "The hush of the falling snow blanketed the city.",
+            "sent5": "The hush of the audience before the performance was electric."
         },
         {
             "definition": "To make someone or something quiet or silent.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She tried to hush the barking dog with a treat.",
+            "sent2": "The teacher asked the students to hush during the test.",
+            "sent3": "He gently hushed the crying baby to sleep.",
+            "sent4": "The wind hushed the rustling leaves in the trees.",
+            "sent5": "The mother hushed her child's fears with a comforting hug."
         },
         {
             "definition": "A command or gesture for someone to be quiet.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The teacher gave a quick hush to the chatty students.",
+            "sent2": "The librarian's hush signaled the start of storytime.",
+            "sent3": "The parent's hush with a finger to the lips stopped the argument.",
+            "sent4": "The conductor's hush quieted the orchestra before the performance.",
+            "sent5": "The boss's hush in the meeting room silenced all discussions."
         }
     ]
 }

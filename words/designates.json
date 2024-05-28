@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To indicate or specify",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The map designates the location of the treasure.",
+            "sent2": "She always designates the meeting time clearly.",
+            "sent3": "The detective designates the suspect with a magnifying glass.",
+            "sent4": "His signature designates the start of the contract.",
+            "sent5": "The bright red X designates the spot where the party will be."
         },
         {
             "definition": "To appoint or assign",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The manager designates tasks to each employee.",
+            "sent2": "They will designate a new leader for the project.",
+            "sent3": "The king designates the knight as the protector of the kingdom.",
+            "sent4": "The badge designates him as the team captain.",
+            "sent5": "The special pin designates her as the winner of the competition."
         },
         {
             "definition": "To give a name or title to",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "They will designate the new species of flower discovered.",
+            "sent2": "The author designates each chapter with a unique title.",
+            "sent3": "The wizard designates his magical staff 'Thunderstrike'.",
+            "sent4": "The crown designates him as the rightful king.",
+            "sent5": "The scientist designates the comet 'Stardust' for its beauty."
         }
     ]
 }

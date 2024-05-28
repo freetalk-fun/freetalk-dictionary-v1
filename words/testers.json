@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A person who tests something.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The testers checked the new video game for bugs.",
+            "sent2": "The testers at the lab carefully examined the prototype.",
+            "sent3": "The testers joked about being professional button pushers.",
+            "sent4": "The testers were like detectives, uncovering hidden flaws.",
+            "sent5": "The testers' job is to find mistakes and make things better."
         },
         {
             "definition": "A device used for testing.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The electronic testers beeped when the circuit was complete.",
+            "sent2": "The quality control department used various testers to ensure accuracy.",
+            "sent3": "The testers sat quietly on the shelf, waiting for their turn.",
+            "sent4": "The testers hummed with power as they analyzed the data.",
+            "sent5": "The bright red tester stood out among the other tools in the box."
         },
         {
             "definition": "A sample of a product given out for testing.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The company sent out testers of the new shampoo to gather feedback.",
+            "sent2": "The testers of the fabric swatches were distributed to select customers.",
+            "sent3": "The testers of the energy drink were a hit at the office party.",
+            "sent4": "The testers of the software update revealed some unexpected results.",
+            "sent5": "The small testers allowed users to try the product before buying."
         }
     ]
 }

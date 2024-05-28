@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "An early symptom indicating the onset of a disease",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The sudden headache was a prodromes of the flu.",
+            "sent2": "The fever was a clear prodromes that she was getting sick.",
+            "sent3": "His constant sneezing was a prodromes that he needed a break from work.",
+            "sent4": "The dark clouds gathering in the sky were the prodromes of an approaching storm.",
+            "sent5": "The rumbling in his stomach served as a prodromes of his hunger."
         },
         {
             "definition": "A precursor or warning sign of an event",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The sudden drop in temperature was a prodromes of the coming snowstorm.",
+            "sent2": "The increased tension in the room was a clear prodromes of an impending argument.",
+            "sent3": "The flickering lights were a prodromes that the power outage was imminent.",
+            "sent4": "The distant sound of sirens served as a prodromes of the approaching emergency.",
+            "sent5": "The first raindrops were a prodromes of the heavy downpour to come."
         }
     ]
 }

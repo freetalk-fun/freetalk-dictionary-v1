@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Imperfectives: Expressing an ongoing or incomplete action.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She dances imperfectives every Saturday morning.",
+            "sent2": "They walk imperfectives along the beach every evening.",
+            "sent3": "The squirrel was imperfectives gathering nuts for the winter.",
+            "sent4": "The river flows imperfectives, never stopping its journey.",
+            "sent5": "The children play imperfectives in the park, their laughter echoing."
         },
         {
             "definition": "Imperfectives: Not perfect or complete.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The painting was imperfectives, with smudges and uneven lines.",
+            "sent2": "His handwriting is imperfectives, sometimes hard to read.",
+            "sent3": "The cake turned out imperfectives, a bit lopsided but still tasty.",
+            "sent4": "The old bridge was imperfectives, showing signs of wear and tear.",
+            "sent5": "The plan was imperfectives, with gaps that needed to be filled."
         }
     ]
 }

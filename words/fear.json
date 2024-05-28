@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "An unpleasant emotion caused by the belief that someone or something is dangerous, likely to cause pain, or a threat.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The little boy's face showed fear when he saw the dark shadow.",
+            "sent2": "She couldn't move, frozen in fear as the thunderstorm raged outside.",
+            "sent3": "The cat's fear of cucumbers made for a hilarious video.",
+            "sent4": "Fear crept into her heart like a shadow in the night, chilling her to the bone.",
+            "sent5": "The fear of failure gnawed at his confidence, making him doubt his abilities."
         },
         {
             "definition": "To be afraid of (someone or something) as likely to be dangerous, painful, or threatening.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I fear the dark alley behind the old building.",
+            "sent2": "She feared the unknown future that lay ahead of her.",
+            "sent3": "The cat fears the vacuum cleaner, running away at the mere sight of it.",
+            "sent4": "His fear of heights paralyzed him, making it impossible to climb the ladder.",
+            "sent5": "The soldier feared the enemy's approach, knowing a battle was imminent."
         }
     ]
 }

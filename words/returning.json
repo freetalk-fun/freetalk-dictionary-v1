@@ -3,23 +3,48 @@
     "meanings": [
         {
             "definition": "Coming or going back to a place or person",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "After school, she is returning home to see her family.",
+            "sent2": "The dog is returning to its owner after being lost for days.",
+            "sent3": "The cat, returning to its favorite spot on the couch, knocked over a vase.",
+            "sent4": "The river, returning to its natural course, carved a new path through the valley.",
+            "sent5": "The sun, returning each morning, brings light and warmth to the world."
         },
         {
             "definition": "Giving, sending, or taking something back",
-            "pos": "noun, verb"
+            "pos": "noun, verb",
+            "sent1": "Please fill out the form for returning the library books.",
+            "sent2": "She is returning the borrowed umbrella to its owner.",
+            "sent3": "The returning of the lost wallet brought a smile to his face.",
+            "sent4": "The returning of the favor was unexpected but appreciated.",
+            "sent5": "The returning of the stolen necklace was a relief to the owner."
         },
         {
             "definition": "Yielding or producing a profit or result",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The returning investment brought in a good profit.",
+            "sent2": "The returning crops were a result of hard work and dedication.",
+            "sent3": "The returning business venture proved to be successful beyond expectations.",
+            "sent4": "The returning sales numbers indicated a positive trend for the company.",
+            "sent5": "The returning customers were a testament to the quality of the product."
         },
         {
             "definition": "Responding in kind or degree",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "She smiled warmly, returning his friendly greeting.",
+            "sent2": "He nodded in agreement, returning the gesture of respect.",
+            "sent3": "The child, returning the hug enthusiastically, made everyone laugh.",
+            "sent4": "The audience clapped loudly, returning the performer's energy.",
+            "sent5": "The team cheered loudly, returning the coach's encouragement."
         },
         {
             "definition": "Changing direction or reverting to a previous state",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The migrating birds are returning to their nesting grounds.",
+            "sent2": "The river is returning to its original path after the floodwaters receded.",
+            "sent3": "The pendulum, returning to its starting position, marked the passage of time.",
+            "sent4": "The weather is returning to its usual patterns after a brief storm.",
+            "sent5": "The memories are returning, flooding her mind with nostalgia."
         }
     ]
 }

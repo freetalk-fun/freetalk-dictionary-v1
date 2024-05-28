@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Bring back to one's mind from memory.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I recall the fun we had at the park last summer.",
+            "sent2": "Can you recall where you left your keys?",
+            "sent3": "Trying to recall where I put my phone is like solving a mystery.",
+            "sent4": "Her words brought back memories I had long tried to recall.",
+            "sent5": "The smell of fresh cookies always helps me recall my grandmother's kitchen."
         },
         {
             "definition": "Officially order the return of a product due to safety concerns.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The company had to recall the faulty toys to ensure customer safety.",
+            "sent2": "The government decided to recall the contaminated food products.",
+            "sent3": "The recall of the defective cars caused chaos in the market.",
+            "sent4": "The company's decision to recall the faulty appliances saved many from harm.",
+            "sent5": "The recall of the medicine was a precautionary measure to protect consumers."
         },
         {
             "definition": "The ability to remember something.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "His recall of historical dates is impressive.",
+            "sent2": "The athlete's recall of plays on the field is remarkable.",
+            "sent3": "The cat's selective recall of commands always amuses us.",
+            "sent4": "Her recall of details from the meeting was astonishing.",
+            "sent5": "The student's recall of facts during the exam was flawless."
         }
     ]
 }

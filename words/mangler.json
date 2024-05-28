@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A person or machine that mangles or destroys something.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The old mangle in the laundry room was used to press clothes.",
+            "sent2": "The mangle at the factory was broken and needed repair.",
+            "sent3": "The clumsy mangle operator accidentally tore the fabric.",
+            "sent4": "The mangle of destruction left a trail of ruined items.",
+            "sent5": "The fierce mangle of the machine was heard throughout the building."
         },
         {
             "definition": "To severely damage or mutilate something.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Please be careful not to mangle the delicate paper.",
+            "sent2": "The car accident mangled the front bumper beyond repair.",
+            "sent3": "He managed to mangle his sandwich while trying to cut it.",
+            "sent4": "The storm mangled the trees, leaving a path of destruction.",
+            "sent5": "The fierce winds mangled the flag, making it unrecognizable."
         },
         {
             "definition": "To handle roughly or clumsily.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She tends to mangle the dough when making bread.",
+            "sent2": "The new employee mangled the files while organizing them.",
+            "sent3": "He always manages to mangle his words when nervous.",
+            "sent4": "The toddler mangled the puzzle pieces, unable to fit them together.",
+            "sent5": "The mechanic mangled the engine part, causing more damage."
         }
     ]
 }

@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To reduce in quantity or exhaust",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Running for a long time depletes my energy.",
+            "sent2": "Not getting enough sleep depletes your ability to focus.",
+            "sent3": "Eating all the cookies depletes the jar quickly.",
+            "sent4": "Her constant demands deplete my patience like a leaky faucet.",
+            "sent5": "The relentless sun depletes the water in the desert, leaving it dry and barren."
         },
         {
             "definition": "To diminish or decrease",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Skipping meals depletes your body of essential nutrients.",
+            "sent2": "The ongoing drought depletes the water sources in the region.",
+            "sent3": "His constant complaining depletes the enthusiasm of the group.",
+            "sent4": "The thief depletes the store's inventory, leaving shelves empty.",
+            "sent5": "The continuous use of the printer depletes the ink cartridge quickly."
         },
         {
             "definition": "To use up or consume completely",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The marathon depletes all my energy reserves.",
+            "sent2": "The wildfire depletes the forest of all its vegetation.",
+            "sent3": "Her shopping spree depletes her bank account in no time.",
+            "sent4": "The intense workout depletes my water bottle within minutes.",
+            "sent5": "The voracious reader depletes the library's collection, book by book."
         }
     ]
 }

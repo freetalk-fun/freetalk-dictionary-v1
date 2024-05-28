@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Encoded or decoded using a cipher.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The secret message was ciphered to keep it safe.",
+            "sent2": "The ciphered document contained hidden information.",
+            "sent3": "The detective found the ciphered note and cracked the code.",
+            "sent4": "Her smile was like a ciphered message, revealing her true feelings.",
+            "sent5": "The ciphered lock guarded the treasure with its mysterious code."
         },
         {
             "definition": "To convert into code.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He ciphered the message to protect its contents.",
+            "sent2": "She quickly ciphered the data before sending it securely.",
+            "sent3": "The spy ciphered the top-secret plans before transmitting them.",
+            "sent4": "His emotions were ciphered in his words, hidden from plain sight.",
+            "sent5": "The ancient scroll was carefully ciphered to preserve its secrets."
         },
         {
             "definition": "To solve a cipher.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The detective worked hard to cipher the mysterious code.",
+            "sent2": "She finally ciphered the complex puzzle after hours of concentration.",
+            "sent3": "The young student ciphered the riddle with a clever trick.",
+            "sent4": "His mind was like a sharp tool, easily ciphering the encrypted message.",
+            "sent5": "The team ciphered the ancient script, revealing the hidden message within."
         }
     ]
 }

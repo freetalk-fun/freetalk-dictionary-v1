@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Begin again",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She restarts the game after losing.",
+            "sent2": "He always restarts his computer when it freezes.",
+            "sent3": "The cat restarts its chase after the elusive mouse.",
+            "sent4": "Like a phoenix, she restarts her life from the ashes of failure.",
+            "sent5": "The sun restarts its journey across the sky each day."
         },
         {
             "definition": "To start again",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He restarts the puzzle to solve it faster.",
+            "sent2": "After the power outage, she restarts the generator.",
+            "sent3": "The child restarts the game level to beat his high score.",
+            "sent4": "Just like a clock, time restarts its ticking after a pause.",
+            "sent5": "The river restarts its flow after the dam is opened."
         },
         {
             "definition": "A new start",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Every morning is a restart for a new day.",
+            "sent2": "After the setback, they decided to have a restart in their project.",
+            "sent3": "The restart of the movie made everyone laugh at the mix-up.",
+            "sent4": "The restart of the relationship felt like a fresh breeze in spring.",
+            "sent5": "The restart of the race gave everyone a chance to catch up."
         }
     ]
 }

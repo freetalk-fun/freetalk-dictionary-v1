@@ -3,23 +3,48 @@
     "meanings": [
         {
             "definition": "Not open",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The door was closed tightly.",
+            "sent2": "The store is closed on Sundays.",
+            "sent3": "The closed window kept out the cold breeze.",
+            "sent4": "Her closed mind prevented her from considering new ideas.",
+            "sent5": "The closed book sat untouched on the shelf."
         },
         {
             "definition": "Shut off",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She closed the gate behind her.",
+            "sent2": "Please remember to close the window before leaving.",
+            "sent3": "He closed the chapter on his past mistakes.",
+            "sent4": "The magician closed the box and made it disappear.",
+            "sent5": "The chef closed the oven door to bake the cake."
         },
         {
             "definition": "Not open for business",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The closed sign hung on the shop door.",
+            "sent2": "The restaurant is closed for renovations.",
+            "sent3": "The closed cafe left customers searching for a new place to eat.",
+            "sent4": "The closed shop will reopen next week.",
+            "sent5": "The closed store had a 'back in 5 minutes' sign."
         },
         {
             "definition": "Restricted or limited access",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The closed area was off-limits to visitors.",
+            "sent2": "The closed section of the park was under construction.",
+            "sent3": "The closed off room contained a surprise party.",
+            "sent4": "The closed gate blocked the entrance to the garden.",
+            "sent5": "The closed road caused a detour for drivers."
         },
         {
             "definition": "Completed or finished",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The closed project was ready for presentation.",
+            "sent2": "The deal was closed after hours of negotiation.",
+            "sent3": "The closed book had a satisfying ending.",
+            "sent4": "The closed chapter marked a new beginning.",
+            "sent5": "The closed puzzle revealed a beautiful picture."
         }
     ]
 }

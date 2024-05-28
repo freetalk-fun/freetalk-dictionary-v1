@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To cause to go or be taken to a destination.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She sends the letter to her friend.",
+            "sent2": "He sends packages to customers every day.",
+            "sent3": "The cat sends the toy mouse flying across the room.",
+            "sent4": "His smile sends warmth to everyone around him.",
+            "sent5": "The strong wind sends leaves swirling in the air."
         },
         {
             "definition": "To dispatch by a communications medium.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The company sends emails to all employees.",
+            "sent2": "She sends a text message to her sister.",
+            "sent3": "The radio sends music through the speakers.",
+            "sent4": "His words send a clear message to the audience.",
+            "sent5": "The phone sends signals to connect the call."
         },
         {
             "definition": "To cause to happen or come into existence.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The chef sends delicious aromas from the kitchen.",
+            "sent2": "The scientist sends a rocket into space.",
+            "sent3": "The magician sends a rabbit out of the hat.",
+            "sent4": "Her laughter sends joy throughout the room.",
+            "sent5": "The artist's brush sends colors dancing on the canvas."
         }
     ]
 }

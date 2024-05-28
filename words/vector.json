@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A quantity having direction as well as magnitude, especially as determining the position of one point in space relative to another.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The explorer followed the vector on the map to reach the hidden treasure.",
+            "sent2": "The GPS uses vectors to show the direction and distance to the destination.",
+            "sent3": "The vector on the compass pointed towards the North Pole, but the explorer wanted to go south.",
+            "sent4": "Her determination was a strong vector that guided her towards achieving her goals.",
+            "sent5": "The vector of his ambition propelled him to great success."
         },
         {
             "definition": "An organism, typically a biting insect or tick, that transmits a disease or parasite from one animal or plant to another.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The mosquito acted as a vector for the malaria parasite.",
+            "sent2": "The tick was identified as the vector responsible for spreading the disease.",
+            "sent3": "The sneaky mosquito played the role of a disease-carrying vector in the jungle.",
+            "sent4": "The pesky fly served as a vector for the contagious illness.",
+            "sent5": "The tiny flea was the vector that transmitted the virus to the entire colony."
         },
         {
             "definition": "A quantity having both magnitude and direction, represented by an arrow whose length represents the magnitude and whose direction represents the direction of the quantity.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The physics student drew a vector to show the force acting on the object.",
+            "sent2": "The wind speed and direction can be represented by a vector arrow.",
+            "sent3": "The playful child drew a vector in the sand, pretending it was a magical spell.",
+            "sent4": "The artist used a vector to symbolize the flow of time in her painting.",
+            "sent5": "The vector on the graph illustrated the relationship between speed and time."
         }
     ]
 }

@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A fixed price paid or charged for something",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The rate for the ice cream cone was two dollars.",
+            "sent2": "What is the rate for renting a bike for an hour?",
+            "sent3": "I can't believe the rate for parking here is so high!",
+            "sent4": "The rate for admission to the museum is a steal!",
+            "sent5": "The rate for the hotel room was unbelievably low."
         },
         {
             "definition": "A measure, quantity, or frequency, typically measured in relation to another quantity or measure",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The heart rate of the patient was normal.",
+            "sent2": "What is the exchange rate between dollars and euros?",
+            "sent3": "The rate of snowfall was so heavy, we couldn't see.",
+            "sent4": "The rate of progress in the project was impressive.",
+            "sent5": "The growth rate of the plant was astonishingly fast."
         },
         {
             "definition": "To consider or regard in a specified way",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I rate this movie as one of the best I've seen.",
+            "sent2": "How do you rate the new restaurant in town?",
+            "sent3": "I rate my chances of winning the game as very high.",
+            "sent4": "She rates her skills in painting highly.",
+            "sent5": "The chef rates the dish as his signature creation."
         }
     ]
 }

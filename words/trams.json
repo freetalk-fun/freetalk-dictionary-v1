@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A vehicle on rails used for transporting passengers, typically in a city.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The trams in the city are always crowded during rush hour.",
+            "sent2": "I took the tram to get to work this morning.",
+            "sent3": "The tram driver had to stop suddenly, causing everyone to sway.",
+            "sent4": "Her thoughts moved along the tracks of her mind like trams on a busy street.",
+            "sent5": "The sound of the tram bell echoed through the streets, signaling its arrival."
         },
         {
             "definition": "The tracks on which trams run.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The maintenance crew checked the tram tracks for any damage.",
+            "sent2": "The tram derailed due to a broken section of the tracks.",
+            "sent3": "The kids played near the tram tracks, pretending they were on a grand adventure.",
+            "sent4": "The tram tracks gleamed under the sunlight, guiding the way for the approaching tram.",
+            "sent5": "The tram tracks snaked through the city, connecting different neighborhoods."
         },
         {
             "definition": "To travel by tram.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "We decided to tram to the museum instead of taking a taxi.",
+            "sent2": "She trams to work every day to avoid traffic.",
+            "sent3": "I tram to the park on weekends for a relaxing time.",
+            "sent4": "He trams across town to meet his friends at the cafe.",
+            "sent5": "Tramming through the city allows you to see different sights along the way."
         }
     ]
 }

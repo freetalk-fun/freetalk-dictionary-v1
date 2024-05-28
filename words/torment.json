@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Severe physical or mental suffering",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The poor dog's torment was evident in its sad eyes.",
+            "sent2": "The soldier endured great torment during the war.",
+            "sent3": "The cat's playful torment of the mouse ended in a friendly chase.",
+            "sent4": "The relentless heat of the desert was a torment to the travelers.",
+            "sent5": "The haunting memories of the accident continued to torment him."
         },
         {
             "definition": "Cause to experience severe physical or mental suffering",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The loud noises torment the baby and make him cry.",
+            "sent2": "Bullying can torment a person emotionally.",
+            "sent3": "The mischievous siblings torment each other with harmless pranks.",
+            "sent4": "The guilt of his actions continued to torment him for years.",
+            "sent5": "The constant criticism from his boss began to torment his self-esteem."
         },
         {
             "definition": "A source of harassment or pain",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The broken chair became a torment to fix.",
+            "sent2": "The buzzing mosquito was a constant torment during the night.",
+            "sent3": "The misbehaving puppy was a playful torment to the family.",
+            "sent4": "The unresolved issue became a torment in their relationship.",
+            "sent5": "The never-ending traffic jam was a daily torment for commuters."
         }
     ]
 }

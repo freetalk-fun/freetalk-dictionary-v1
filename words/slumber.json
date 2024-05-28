@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Sleep",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "After a long day of playing, the puppy fell into a deep slumber.",
+            "sent2": "The baby's peaceful slumber was interrupted by a loud noise.",
+            "sent3": "The cat's snoring during its slumber sounded like a tiny motor running.",
+            "sent4": "The forest was in a deep slumber, with only the sound of rustling leaves breaking the silence.",
+            "sent5": "Her slumber was so restful that she woke up feeling refreshed and energized."
         },
         {
             "definition": "To be in a state of sleep",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The tired hiker decided to slumber under the stars for the night.",
+            "sent2": "As the night grew darker, the entire town began to slumber peacefully.",
+            "sent3": "The old clock seemed to slumber until it chimed loudly at midnight.",
+            "sent4": "The city streets slumbered as the snow fell gently, covering everything in white.",
+            "sent5": "The bear chose to slumber in its den throughout the cold winter months."
         },
         {
             "definition": "To be dormant or inactive",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "During the winter, the plants slumber beneath the snow until spring arrives.",
+            "sent2": "The volcano appeared to slumber for many years before suddenly erupting.",
+            "sent3": "The old computer seemed to slumber in the corner until it was turned on again.",
+            "sent4": "The dragon lay in its cave, its fiery spirit slumbering until it was awakened.",
+            "sent5": "The ancient castle slumbered in the mist, waiting for someone to discover its secrets."
         }
     ]
 }

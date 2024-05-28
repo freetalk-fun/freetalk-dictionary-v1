@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A symbol (*) used to indicate a footnote or to censor a word.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "In the book, the author included asterisks to show additional information.",
+            "sent2": "The teacher asked the students to pay attention to the asterisks in the text.",
+            "sent3": "The detective found a mysterious message hidden among the asterisks in the document.",
+            "sent4": "The night sky was filled with stars, like a blanket of twinkling asterisks.",
+            "sent5": "The chef's secret recipe had an asterisk next to the special ingredient."
         },
         {
             "definition": "To mark with an asterisk.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Please asterisk the important points in your notes.",
+            "sent2": "She decided to asterisk the key dates on the calendar.",
+            "sent3": "The artist asterisked the errors in the painting to correct them later.",
+            "sent4": "His speech was asterisked with pauses for dramatic effect.",
+            "sent5": "The map was asterisked to highlight the locations of hidden treasures."
         }
     ]
 }

@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To forcibly put an end to something",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The police officer suppresses the riot quickly.",
+            "sent2": "The medication suppresses the pain effectively.",
+            "sent3": "The magician suppresses the rabbit back into the hat.",
+            "sent4": "The teacher suppresses the noise in the classroom like a volume knob.",
+            "sent5": "The firefighter suppresses the flames with a powerful hose."
         },
         {
             "definition": "To prevent the development, action, or expression of something",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Eating healthy can suppresses the growth of harmful bacteria.",
+            "sent2": "The strict rules suppresses any form of creativity.",
+            "sent3": "The rainy weather suppresses our plans for a picnic.",
+            "sent4": "The locked door suppresses our ability to enter the room.",
+            "sent5": "The loud music suppresses our ability to concentrate."
         },
         {
             "definition": "To keep something from being revealed or made public",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The spy suppresses sensitive information to protect national security.",
+            "sent2": "The company suppresses the negative reviews to maintain a positive image.",
+            "sent3": "The diary suppresses the secrets of its owner.",
+            "sent4": "The password suppresses unauthorized access to the system.",
+            "sent5": "The confidentiality agreement suppresses the disclosure of classified data."
         }
     ]
 }

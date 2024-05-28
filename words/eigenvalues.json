@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A scalar \u03bb such that there exists a non-zero vector v satisfying the equation Av = \u03bbv, where A is a square matrix.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "In math class, we learned about eigenvalues and how they relate to square matrices.",
+            "sent2": "The eigenvalues of the matrix were crucial in solving the system of equations.",
+            "sent3": "The eigenvalues threw a party in the matrix, inviting only non-zero vectors!",
+            "sent4": "Understanding eigenvalues is like finding the key to unlock the secrets of square matrices.",
+            "sent5": "The concept of eigenvalues stuck in my mind like a catchy tune, always there when I needed it."
         },
         {
             "definition": "A characteristic value of a linear transformation that corresponds to a non-zero vector in the transformation's domain.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The eigenvalues of the linear transformation helped us understand its characteristics.",
+            "sent2": "Each eigenvalue represented a unique aspect of the transformation.",
+            "sent3": "The eigenvalues decided to go on a vacation to the transformation's domain.",
+            "sent4": "The eigenvalues acted as guiding stars, leading us through the linear transformation.",
+            "sent5": "I visualized the eigenvalues as colorful flags marking important points in the transformation's domain."
         }
     ]
 }

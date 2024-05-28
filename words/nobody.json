@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "No person; not anyone.",
-            "pos": "pronoun"
+            "pos": "pronoun",
+            "sent1": "Nobody was at the park today.",
+            "sent2": "There was nobody in the room when I entered.",
+            "sent3": "When the teacher asked who broke the vase, nobody claimed responsibility.",
+            "sent4": "In the vast desert, it seemed as if nobody had ever set foot there before.",
+            "sent5": "The dark alley was so quiet that nobody dared to walk through it."
         },
         {
             "definition": "A person of no importance or authority.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The new intern felt like a nobody among the seasoned employees.",
+            "sent2": "He was treated like a nobody by the arrogant celebrity.",
+            "sent3": "At the costume party, he jokingly dressed up as a 'nobody' with a cape and mask.",
+            "sent4": "In the bustling city, he felt like a nobody lost in the crowd.",
+            "sent5": "The villain in the story was portrayed as a nobody who rose to power unexpectedly."
         }
     ]
 }

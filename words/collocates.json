@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A word or phrase that frequently occurs alongside another word or phrase.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "In the sentence, 'strong coffee,' the word 'strong' is a collocates of 'coffee'.",
+            "sent2": "The collocates of 'rain' often include 'umbrella' and 'wet'.",
+            "sent3": "The collocates 'peanut butter' and 'jelly' are best friends in a sandwich.",
+            "sent4": "In the world of food, 'salt' and 'pepper' are collocates that dance together on the table.",
+            "sent5": "The collocates 'sun' and 'shine' go hand in hand in a sunny day."
         },
         {
             "definition": "To occur in conjunction with another word or phrase.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "In English, the word 'happy' often collocates with 'birthday'.",
+            "sent2": "Laughter collocates with joy in moments of happiness.",
+            "sent3": "The cat collocates with the mouse in the game of chase.",
+            "sent4": "Music collocates with memories, creating a soundtrack of life.",
+            "sent5": "The smell of fresh bread collocates with the feeling of home."
         }
     ]
 }

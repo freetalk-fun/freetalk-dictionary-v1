@@ -3,23 +3,48 @@
     "meanings": [
         {
             "definition": "To put or place in a particular position or arrangement.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She set the vase on the table.",
+            "sent2": "Please set the books on the shelf.",
+            "sent3": "He set the toy car on top of the fridge for fun.",
+            "sent4": "The sun set behind the mountains, painting the sky in hues of orange.",
+            "sent5": "The teacher set the rules clearly for the students to follow."
         },
         {
             "definition": "A group of similar things that belong together or are used together.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The dish set includes plates, bowls, and cups.",
+            "sent2": "She bought a new knife set for the kitchen.",
+            "sent3": "The Lego set was missing a crucial piece, causing frustration.",
+            "sent4": "The team was a set of talented individuals working towards a common goal.",
+            "sent5": "The tool set in the garage had everything needed for repairs."
         },
         {
             "definition": "Ready or prepared.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The table was set for dinner with plates and cutlery.",
+            "sent2": "She was all set for the camping trip with a tent and supplies.",
+            "sent3": "The cake was set to be decorated with colorful frosting.",
+            "sent4": "The stage was set for the grand performance with elaborate decorations.",
+            "sent5": "The plan was set in motion for the big event."
         },
         {
             "definition": "To establish or fix firmly.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He set the fence posts deep into the ground.",
+            "sent2": "The sculptor set the statue in place at the park.",
+            "sent3": "The glue set quickly, bonding the pieces together.",
+            "sent4": "Her determination set her on the path to success.",
+            "sent5": "The roots of the tree were set firmly in the soil."
         },
         {
             "definition": "To adjust or adapt.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She set the thermostat to a comfortable temperature.",
+            "sent2": "He needed to set his schedule to accommodate the meeting.",
+            "sent3": "The tailor set the dress to fit perfectly.",
+            "sent4": "The coach set the team strategy for the upcoming game.",
+            "sent5": "The artist set the colors to create a beautiful painting."
         }
     ]
 }

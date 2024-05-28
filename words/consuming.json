@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To eat or drink something",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I am consuming a delicious sandwich for lunch.",
+            "sent2": "She enjoys consuming fresh fruit every morning.",
+            "sent3": "Consuming a whole pizza by yourself might be a challenge!",
+            "sent4": "Her hunger was like a monster consuming everything in its path.",
+            "sent5": "The fire was consuming the logs rapidly."
         },
         {
             "definition": "To completely occupy the attention or time of someone",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The thrilling book was consuming her thoughts all day.",
+            "sent2": "His passion for music consumes him, always consuming new albums.",
+            "sent3": "The mystery of the missing sock was consuming her mind.",
+            "sent4": "The suspenseful movie was consuming, making her forget about time.",
+            "sent5": "The exciting game was consuming, making her lose track of reality."
         },
         {
             "definition": "Very intense or powerful",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The storm brought a consuming wind that shook the trees.",
+            "sent2": "The athlete's determination was consuming, driving him to succeed.",
+            "sent3": "The spicy chili had a consuming heat that made everyone sweat.",
+            "sent4": "The artist's passion for painting was consuming, evident in every stroke.",
+            "sent5": "The movie's plot had a consuming twist that left the audience in awe."
         }
     ]
 }

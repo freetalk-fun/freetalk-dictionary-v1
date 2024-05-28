@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A formal assurance that certain conditions will be fulfilled.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The guarantees in the contract ensure our safety.",
+            "sent2": "The guarantees of quality make customers trust the product.",
+            "sent3": "His guarantees of winning the game made everyone laugh.",
+            "sent4": "The guarantees of success are like a shield against failure.",
+            "sent5": "The guarantees of happiness brighten our future."
         },
         {
             "definition": "To provide a formal assurance or promise.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She guarantees to finish the project on time.",
+            "sent2": "He always guarantees a warm welcome to guests.",
+            "sent3": "The magician guarantees a rabbit will appear out of thin air.",
+            "sent4": "His smile guarantees to brighten anyone's day.",
+            "sent5": "The sun guarantees a beautiful sunrise every morning."
         },
         {
             "definition": "Something that assures a particular outcome.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The weather forecast guarantees a sunny day tomorrow.",
+            "sent2": "The insurance policy provides guarantees for accidents.",
+            "sent3": "The lucky charm guarantees good luck in all endeavors.",
+            "sent4": "Her determination guarantees success in her career.",
+            "sent5": "The recipe guarantees a delicious meal every time."
         }
     ]
 }

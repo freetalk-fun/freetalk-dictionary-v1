@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A person or organization using the services of a professional person or company.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The client was happy with the legal advice.",
+            "sent2": "The client paid for the design services.",
+            "sent3": "The client joked about needing a personal chef.",
+            "sent4": "The client's trust was like a fragile glass sculpture.",
+            "sent5": "The client's satisfaction was evident in their smile."
         },
         {
             "definition": "A computer or program that requests services or information from a server.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The client sent a request to the server.",
+            "sent2": "The client received the data from the server.",
+            "sent3": "The client playfully asked for more processing power.",
+            "sent4": "The client's connection was as strong as a steel cable.",
+            "sent5": "The client's efficiency was unmatched in the network."
         }
     ]
 }

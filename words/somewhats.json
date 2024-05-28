@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To some extent",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She somewhats understood the instructions.",
+            "sent2": "He somewhats completed the task.",
+            "sent3": "The cat somewhats listened to the mouse's plan.",
+            "sent4": "His excitement somewhats danced in his eyes.",
+            "sent5": "The sun's rays somewhats peeked through the clouds."
         },
         {
             "definition": "Moderately",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "She ran somewhats quickly to catch the bus.",
+            "sent2": "He is somewhats tired after the long day.",
+            "sent3": "The cake was somewhats delicious, but not perfect.",
+            "sent4": "Her voice was somewhats like a gentle breeze.",
+            "sent5": "The flowers bloomed somewhats beautifully in the garden."
         },
         {
             "definition": "Rather",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "He is somewhats tall for his age.",
+            "sent2": "She is somewhats shy around new people.",
+            "sent3": "The movie was somewhats funny, but not hilarious.",
+            "sent4": "His smile was somewhats like a ray of sunshine.",
+            "sent5": "The waves crashed somewhats loudly against the shore."
         }
     ]
 }

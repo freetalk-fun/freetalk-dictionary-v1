@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Fine, dry particles of matter.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The dust settled on the old book.",
+            "sent2": "She wiped the dust off the table with a cloth.",
+            "sent3": "The mischievous cat pawed at the dust, creating a small cloud.",
+            "sent4": "The sun shone through the window, illuminating the dust floating in the air.",
+            "sent5": "The dust danced in the sunlight, creating a magical atmosphere."
         },
         {
             "definition": "To remove dust from a surface by wiping or brushing.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Please dust the shelves before the guests arrive.",
+            "sent2": "I need to dust the furniture in the living room.",
+            "sent3": "She dusted off her hands after working in the garden.",
+            "sent4": "The housekeeper dusted the entire house in just an hour.",
+            "sent5": "He dusted the old bookshelf, revealing its true beauty."
         },
         {
             "definition": "To sprinkle with a powdery substance.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The chef will dust the cake with powdered sugar before serving.",
+            "sent2": "She likes to dust her pancakes with cinnamon for extra flavor.",
+            "sent3": "The baker decided to dust the cookies with colorful sprinkles.",
+            "sent4": "The artist will dust the painting with glitter for a special effect.",
+            "sent5": "He will dust the dessert with cocoa powder for a finishing touch."
         }
     ]
 }

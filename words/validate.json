@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To confirm or prove the truth or accuracy of something.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She needed to validate her parking ticket before leaving the garage.",
+            "sent2": "The scientist conducted experiments to validate her hypothesis.",
+            "sent3": "The detective used fingerprints to validate the suspect's alibi.",
+            "sent4": "The success of the mission would validate all their hard work.",
+            "sent5": "The certificate will validate your completion of the course."
         },
         {
             "definition": "To make something officially acceptable or approved.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Please validate your email address to activate your account.",
+            "sent2": "The bank will validate the check before processing it.",
+            "sent3": "The teacher will validate your project once it meets all the requirements.",
+            "sent4": "Her signature will validate the contract and make it legally binding.",
+            "sent5": "The stamp on the document will validate its authenticity."
         },
         {
             "definition": "To give official permission or approval for something.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The supervisor will validate your request for time off.",
+            "sent2": "The committee will validate the proposal before implementation.",
+            "sent3": "The judge will validate the marriage license for the couple.",
+            "sent4": "The principal's signature will validate the student's field trip form.",
+            "sent5": "The permit will validate your parking in the designated area."
         }
     ]
 }

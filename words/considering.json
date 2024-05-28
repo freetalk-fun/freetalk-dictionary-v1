@@ -3,19 +3,39 @@
     "meanings": [
         {
             "definition": "Taking into account; in view of",
-            "pos": "preposition"
+            "pos": "preposition",
+            "sent1": "Considering the rainy weather, we decided to stay indoors.",
+            "sent2": "We should cancel the picnic considering the forecast.",
+            "sent3": "The cat's decision to stay inside, considering the rain, was quite smart.",
+            "sent4": "The flowers bloomed beautifully considering the lack of sunlight.",
+            "sent5": "Considering the traffic, we left early to avoid being late."
         },
         {
             "definition": "Given that; in light of",
-            "pos": "preposition"
+            "pos": "preposition",
+            "sent1": "We will go for a walk, considering the nice weather.",
+            "sent2": "Considering the circumstances, it's best to postpone the meeting.",
+            "sent3": "The dog's excitement, considering the walk, was contagious.",
+            "sent4": "The tree stood tall, considering the strong winds.",
+            "sent5": "Considering the time, we should hurry to catch the bus."
         },
         {
             "definition": "Reflecting on; contemplating",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "She had a considering look on her face as she pondered the decision.",
+            "sent2": "The considering expression on his face showed he was deep in thought.",
+            "sent3": "The considering squirrel seemed lost in its own world.",
+            "sent4": "The considering student sat quietly at the back of the class.",
+            "sent5": "Her considering gaze made it clear she was lost in thought."
         },
         {
             "definition": "Thinking about; pondering",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Considering the options, she finally made a decision.",
+            "sent2": "He spent the evening considering what gift to buy.",
+            "sent3": "The cat sat on the windowsill, considering the birds outside.",
+            "sent4": "Considering the problem, he came up with a creative solution.",
+            "sent5": "She was considering her next move carefully before making a decision."
         }
     ]
 }

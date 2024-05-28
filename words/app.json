@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A software application designed to perform a specific task on a computer or mobile device.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I downloaded a new app to help me learn Spanish.",
+            "sent2": "The weather app on my phone tells me if it will rain.",
+            "sent3": "The app that counts how many times I blink is quite silly.",
+            "sent4": "Her smile was like an app that brightened up the room.",
+            "sent5": "The app for tracking my steps makes exercise more fun."
         },
         {
             "definition": "To apply or put to use for a specific purpose.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I will app the sunscreen before going to the beach.",
+            "sent2": "She decided to app her knowledge of coding to create a new website.",
+            "sent3": "I apped some creativity to my outfit by adding a colorful scarf.",
+            "sent4": "He apped determination to his studies, aiming for top grades.",
+            "sent5": "The chef apped a pinch of salt to enhance the flavor of the dish."
         }
     ]
 }

@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Have to",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I hafta finish my homework before dinner.",
+            "sent2": "You hafta brush your teeth every morning.",
+            "sent3": "The cat hafta catch the mouse before it escapes.",
+            "sent4": "Time hafta wait for no one, so seize the moment.",
+            "sent5": "She hafta study hard to pass the test."
         },
         {
             "definition": "Must",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "We hafta leave early to catch the bus.",
+            "sent2": "He hafta wear a helmet while riding his bike.",
+            "sent3": "The flowers hafta bloom in the spring to look pretty.",
+            "sent4": "You hafta face your fears to overcome them.",
+            "sent5": "The team hafta practice to improve their skills."
         },
         {
             "definition": "Need to",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She hafta drink water to stay hydrated.",
+            "sent2": "I hafta buy groceries for the week.",
+            "sent3": "The car hafta stop at the red light to avoid accidents.",
+            "sent4": "You hafta listen carefully to understand the instructions.",
+            "sent5": "He hafta rest after a long day of work."
         }
     ]
 }

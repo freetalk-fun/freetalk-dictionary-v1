@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Calm or send to sleep, typically with soothing sounds or movements.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The gentle rocking of the cradle helped lull the baby to sleep.",
+            "sent2": "The sound of rain on the roof can lull you into a peaceful slumber.",
+            "sent3": "The soft music seemed to lull the cat into a deep nap.",
+            "sent4": "The repetitive sound of the waves lulls me into a dreamlike state.",
+            "sent5": "The rhythmic motion of the train lulls passengers into relaxation."
         },
         {
             "definition": "A temporary interval of quiet or lack of activity.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "After the busy morning, there was a lull in the office chatter.",
+            "sent2": "During the lull in the storm, we could hear birds chirping outside.",
+            "sent3": "The sudden lull in the conversation made everyone look around awkwardly.",
+            "sent4": "In the lull of the afternoon, the town seemed almost deserted.",
+            "sent5": "The lull in the market activity allowed traders to take a short break."
         }
     ]
 }

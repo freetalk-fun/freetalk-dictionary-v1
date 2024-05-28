@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A compound containing two sulfur atoms joined by a single bond.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The scientist studied the disulfid under the microscope.",
+            "sent2": "The disulfid was used in the experiment to test its properties.",
+            "sent3": "The disulfid molecule and the oxygen atom had a friendly chat in the lab.",
+            "sent4": "The disulfid bond held the atoms together like a strong handshake.",
+            "sent5": "The bright yellow color of the disulfid made it easy to identify in the mixture."
         },
         {
             "definition": "To treat or combine with disulfid.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She disulfided the metal to enhance its durability.",
+            "sent2": "The chemist disulfided the solution to create a new compound.",
+            "sent3": "The chef playfully disulfided the ingredients to create a unique dish.",
+            "sent4": "His words disulfided the tension in the room, bringing smiles to everyone.",
+            "sent5": "The artist's brush strokes disulfided the colors on the canvas, creating a beautiful masterpiece."
         }
     ]
 }

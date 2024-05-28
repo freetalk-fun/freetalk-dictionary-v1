@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A body of troops stationed in a fortified place.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The garrisons protected the castle from enemy attacks.",
+            "sent2": "The king ordered the garrisons to defend the city walls.",
+            "sent3": "The garrisons in the fort were always ready for battle.",
+            "sent4": "The garrisons stood like vigilant guardians of the stronghold.",
+            "sent5": "The garrisons were the brave soldiers who safeguarded the fortress."
         },
         {
             "definition": "To provide (a place) with a garrison.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The general decided to garrison the town to ensure its safety.",
+            "sent2": "They garrisoned the border to prevent any intrusions.",
+            "sent3": "Let's garrison this old house with our toy soldiers for fun.",
+            "sent4": "The troops garrisoned the village, turning it into a secure zone.",
+            "sent5": "We will garrison the outpost to maintain control of the area."
         },
         {
             "definition": "To occupy (a place) with troops.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The army decided to garrison the valley for strategic reasons.",
+            "sent2": "They garrisoned the town square during the festival.",
+            "sent3": "The kids pretended to garrison the playground with their toy soldiers.",
+            "sent4": "The soldiers garrisoned the hill, ready to defend it at all costs.",
+            "sent5": "The military planned to garrison the forest to secure the area."
         }
     ]
 }

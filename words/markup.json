@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "The amount added to the cost price of goods to cover overhead and profit.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The store's markup on the products helped them make a profit.",
+            "sent2": "She added a markup to the wholesale price before selling the items in her shop.",
+            "sent3": "The sneaky squirrel tried to put a markup on the nuts he found in the park.",
+            "sent4": "The markup on the concert tickets was so high that many fans couldn't afford them.",
+            "sent5": "The bright neon sign advertised a huge discount, but the hidden markup made the final price expensive."
         },
         {
             "definition": "A symbol or sequence of characters added to a document to indicate formatting or structure.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The markup in the text showed where to insert the images.",
+            "sent2": "He used a simple markup language to create a webpage.",
+            "sent3": "The teacher's cat walked across the keyboard, leaving a strange markup in the essay.",
+            "sent4": "The markup in the code helped the programmer identify errors quickly.",
+            "sent5": "The editor used markup to highlight important sections in the document."
         },
         {
             "definition": "An increase in the price of a product or service.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The sudden markup in gas prices affected everyone's budget.",
+            "sent2": "The company announced a markup on their software due to new features.",
+            "sent3": "The magician's markup on the ticket price was truly magical.",
+            "sent4": "The markup in rent prices made it difficult for many people to find affordable housing.",
+            "sent5": "The unexpected markup in the cost of living caught many residents by surprise."
         }
     ]
 }

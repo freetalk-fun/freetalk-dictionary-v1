@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "a person who works, especially for wages",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The worker at the store helps customers find what they need.",
+            "sent2": "The construction worker built a new house in the neighborhood.",
+            "sent3": "The worker at the bakery accidentally put salt instead of sugar in the cake.",
+            "sent4": "She was a diligent worker, always striving to do her best in every task.",
+            "sent5": "The worker in the garden carefully tended to each plant, ensuring they thrived."
         },
         {
             "definition": "a machine or tool that operates automatically or semi-automatically",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The robotic worker efficiently assembled the car parts on the production line.",
+            "sent2": "The coffee maker is a reliable worker, brewing fresh coffee every morning.",
+            "sent3": "The dishwasher worker suddenly stopped mid-cycle, leaving the dishes unwashed.",
+            "sent4": "The vacuum cleaner is a silent worker, diligently cleaning the floors while everyone sleeps.",
+            "sent5": "The printer worker tirelessly churned out copies of the report for the meeting."
         },
         {
             "definition": "a person who is employed to do physical or mental work",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The office worker spends hours typing reports and answering emails.",
+            "sent2": "The farm worker harvested ripe fruits under the hot sun.",
+            "sent3": "The circus worker juggled flaming torches with ease and grace.",
+            "sent4": "She was a dedicated worker, always putting in extra hours to meet deadlines.",
+            "sent5": "The scientist was a curious worker, constantly exploring new ideas and experiments."
         }
     ]
 }

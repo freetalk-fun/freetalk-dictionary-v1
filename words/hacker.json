@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A person who uses computers to gain unauthorized access to data.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The hacker broke into the system to steal information.",
+            "sent2": "The company hired a hacker to test their security measures.",
+            "sent3": "The hacker tried to sneak into the database but got caught.",
+            "sent4": "The hacker's skills were like a key that unlocked the digital doors.",
+            "sent5": "The image of the hacker typing furiously in a dark room stayed in my mind."
         },
         {
             "definition": "A person who is skilled in programming and computer systems.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "My friend is a talented hacker who can fix any computer issue.",
+            "sent2": "The hacker developed a new software program that became popular.",
+            "sent3": "The hacker's ability to solve tech problems amazed everyone.",
+            "sent4": "Her mind worked like a hacker, finding solutions others couldn't see.",
+            "sent5": "The young hacker's passion for coding shone through in every project."
         },
         {
             "definition": "To gain unauthorized access to data or computer systems.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He tried to hacker into the network but failed.",
+            "sent2": "She was caught trying to hacker into the company's files.",
+            "sent3": "Trying to hacker into the system was a risky move.",
+            "sent4": "The virus seemed to hacker its way into the mainframe.",
+            "sent5": "The hacker managed to hacker into the government database undetected."
         }
     ]
 }

@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A person who betrays a friend, country, or principle.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The traitor revealed secrets to the enemy.",
+            "sent2": "The country was shocked by the actions of the traitor.",
+            "sent3": "The traitor thought they could get away with their deceitful actions.",
+            "sent4": "His betrayal marked him as a traitor in the eyes of his former allies.",
+            "sent5": "The traitor's actions will forever stain their reputation."
         },
         {
             "definition": "To betray someone or something.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She chose to traitor her best friend by spreading rumors.",
+            "sent2": "It is never right to traitor those who trust you.",
+            "sent3": "He accidentally traitored his own team by giving away their strategy.",
+            "sent4": "The company felt betrayed when the employee decided to traitor them for a competitor.",
+            "sent5": "Betraying your values will always lead you to traitor others."
         }
     ]
 }

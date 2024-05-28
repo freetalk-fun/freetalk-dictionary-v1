@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To take for granted or without proof.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She is assuming that the sun will rise tomorrow.",
+            "sent2": "I am assuming you will be at the party tonight.",
+            "sent3": "Assuming the cat can drive, we might have a new chauffeur.",
+            "sent4": "His confidence was like assuming the sky is always blue.",
+            "sent5": "The teacher's assumption about the test was proven wrong."
         },
         {
             "definition": "Presuming; supposing.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The assuming student thought he knew all the answers.",
+            "sent2": "She had an assuming attitude that turned people away.",
+            "sent3": "The assuming cat believed it was the king of the jungle.",
+            "sent4": "His assuming behavior made him seem arrogant.",
+            "sent5": "The assuming look on her face gave away her secret."
         },
         {
             "definition": "On the condition that.",
-            "pos": "conjunction"
+            "pos": "conjunction",
+            "sent1": "We will go to the beach assuming the weather is nice.",
+            "sent2": "Assuming you finish your homework, you can watch TV.",
+            "sent3": "Assuming the dog can talk, what would it say?",
+            "sent4": "The plan will work, assuming everyone does their part.",
+            "sent5": "Assuming the train is on time, we will arrive early."
         }
     ]
 }

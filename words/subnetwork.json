@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A smaller network within a larger network, typically used for organizational or security purposes.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Our company's IT department set up a secure subnetwork for sensitive data.",
+            "sent2": "The subnetwork allows different departments to communicate within the main network.",
+            "sent3": "The subnetwork was like a secret club where only certain employees had access.",
+            "sent4": "The subnetwork acted as a shield, protecting important information from outside threats.",
+            "sent5": "Navigating through the subnetwork felt like exploring a hidden maze."
         },
         {
             "definition": "To divide a network into smaller, more manageable sections.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "We need to subnetwork the main system to improve efficiency.",
+            "sent2": "The IT team will subnetwork the server to enhance data flow.",
+            "sent3": "I decided to subnetwork my tasks to focus on one at a time.",
+            "sent4": "She managed to subnetwork her study schedule for better time management.",
+            "sent5": "Subnetworking the network was like organizing a messy room into neat sections."
         }
     ]
 }

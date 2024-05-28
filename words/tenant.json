@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A person who occupies land or property rented from a landlord.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The tenant paid rent to the landlord every month.",
+            "sent2": "The new tenant moved into the apartment last week.",
+            "sent3": "The tenant accidentally locked themselves out of the house.",
+            "sent4": "The garden was a loyal tenant of the sun's warm rays.",
+            "sent5": "The tenant's presence in the building was as constant as the ticking of a clock."
         },
         {
             "definition": "To occupy as a tenant.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She decided to tenant the house near the park.",
+            "sent2": "They will tenant the office space for the next year.",
+            "sent3": "The squirrels tend to tenant the trees in our backyard.",
+            "sent4": "His thoughts would tenant his mind, refusing to leave.",
+            "sent5": "The music would tenant the room, filling it with joy and rhythm."
         }
     ]
 }

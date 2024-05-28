@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Meandering - winding or turning in a zigzag course",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The river followed a meandrous path through the valley.",
+            "sent2": "The meandrous road led us through the forest.",
+            "sent3": "The meandrous stream seemed to enjoy taking its time through the meadow.",
+            "sent4": "Her meandrous thoughts wandered from one topic to another.",
+            "sent5": "The meandrous pattern of the maze made it challenging to find the way out."
         },
         {
             "definition": "Meandered - moved slowly in a winding or turning course",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The hiker meandered along the meandrous trail, enjoying the scenery.",
+            "sent2": "She meandered through the park, lost in her thoughts.",
+            "sent3": "The cat meandered lazily around the yard, chasing butterflies.",
+            "sent4": "The conversation meandered from topic to topic, never staying on one for long.",
+            "sent5": "The river meandered gently through the meandrous landscape."
         },
         {
             "definition": "Meanders - winding or turning paths or courses",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The map showed the meanders of the river as it flowed through the valley.",
+            "sent2": "We followed the meanders of the hiking trail, enjoying the scenic views.",
+            "sent3": "The meanders of the labyrinth confused the adventurers trying to escape.",
+            "sent4": "The meanders of her handwriting made it difficult to read the letter.",
+            "sent5": "The meanders of the dance floor allowed for intricate footwork during the performance."
         }
     ]
 }

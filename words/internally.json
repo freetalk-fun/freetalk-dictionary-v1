@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Inside something; within",
-            "pos": "preposition"
+            "pos": "preposition",
+            "sent1": "The treasure was hidden internally within the old chest.",
+            "sent2": "The key was located internally inside the lock.",
+            "sent3": "She internally stored her secret recipe in the cookbook.",
+            "sent4": "The answer lies internally within your own mind.",
+            "sent5": "The warmth of the fireplace radiated internally throughout the room."
         },
         {
             "definition": "Inwardly; mentally or emotionally",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "He felt internally happy after receiving the good news.",
+            "sent2": "She internally reflected on her actions before apologizing.",
+            "sent3": "Internally, he knew he had made the right decision.",
+            "sent4": "Her love for music resonated internally within her soul.",
+            "sent5": "The memory of her laughter echoed internally in his mind."
         },
         {
             "definition": "In a way that is not visible externally",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "The system operates internally to process the data.",
+            "sent2": "The mechanism functions internally to regulate the temperature.",
+            "sent3": "Internally, the gears work together like a well-oiled machine.",
+            "sent4": "His strength came from internally believing in himself.",
+            "sent5": "The beauty of the artwork shines internally through its intricate details."
         }
     ]
 }

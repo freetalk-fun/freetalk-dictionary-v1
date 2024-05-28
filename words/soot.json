@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A black powdery or flaky substance consisting largely of amorphous carbon, produced by the incomplete burning of organic matter.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The chimney sweep's face was covered in soot after cleaning the fireplace.",
+            "sent2": "The old house was covered in soot from the coal furnace.",
+            "sent3": "The mischievous raccoon left paw prints in the soot on the windowsill.",
+            "sent4": "The city skyline was obscured by a cloud of soot from the factory chimneys.",
+            "sent5": "The firefighter's uniform was stained with soot after battling the blaze."
         },
         {
             "definition": "To cover or coat with soot.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The fireman accidentally sooted his hands while cleaning the fireplace.",
+            "sent2": "The old lantern was sooted from years of use.",
+            "sent3": "The mischievous child sooted the mirror with his fingerprints.",
+            "sent4": "The artist sooted the canvas to create a unique effect in the painting.",
+            "sent5": "The chef's apron was sooted from cooking over an open flame."
         }
     ]
 }

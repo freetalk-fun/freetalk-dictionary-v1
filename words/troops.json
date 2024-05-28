@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Soldiers or armed forces",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The troops marched in formation.",
+            "sent2": "The troops defended the country bravely.",
+            "sent3": "The troops shared stories around the campfire.",
+            "sent4": "The troops were a shield against danger.",
+            "sent5": "The troops stood tall and proud on the battlefield."
         },
         {
             "definition": "A group of people or animals",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "A large troops of tourists visited the museum.",
+            "sent2": "The troops of monkeys played in the jungle.",
+            "sent3": "The troops of children giggled and ran around the playground.",
+            "sent4": "The troops of penguins waddled gracefully on the ice.",
+            "sent5": "The troops of fans cheered loudly at the concert."
         },
         {
             "definition": "To gather or move in a crowd or group",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The students troops into the auditorium for the assembly.",
+            "sent2": "People troops around the street performer to watch the show.",
+            "sent3": "The birds troops together on the power lines, chirping happily.",
+            "sent4": "Dark clouds troops in the sky, signaling an incoming storm.",
+            "sent5": "The ants troops in a line, carrying food back to their nest."
         }
     ]
 }

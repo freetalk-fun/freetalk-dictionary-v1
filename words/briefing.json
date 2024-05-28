@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A meeting in which information is given or instructions are explained.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "During the briefing, the boss told us about the new project.",
+            "sent2": "I attended a briefing about the upcoming changes in company policy.",
+            "sent3": "At the briefing, everyone was surprised to learn about the unexpected bonus.",
+            "sent4": "The briefing was like a map guiding us through the complex project.",
+            "sent5": "The briefing felt like a flashlight illuminating the path ahead."
         },
         {
             "definition": "A concise summary or outline.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "She provided a briefing of the main points discussed in the meeting.",
+            "sent2": "The student gave a briefing of the book in just a few sentences.",
+            "sent3": "His briefing was so short that it left everyone wanting more details.",
+            "sent4": "The briefing was like a trailer for the full movie of information.",
+            "sent5": "The briefing was a snapshot capturing the essence of the topic."
         }
     ]
 }

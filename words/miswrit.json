@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Miswrit (verb): past tense of miswrite, to write or spell incorrectly.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She miswrit her name on the test and got a lower grade.",
+            "sent2": "He miswrit the address on the envelope and it got returned.",
+            "sent3": "The miswrit recipe made the cake taste like soap.",
+            "sent4": "His miswrit directions led us to a dead end.",
+            "sent5": "The miswrit sign caused confusion among the visitors."
         },
         {
             "definition": "Miswrit (adjective): written or spelled incorrectly.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The miswrit letter had many spelling mistakes.",
+            "sent2": "She received a miswrit invitation with the wrong date.",
+            "sent3": "The miswrit note made everyone laugh at the party.",
+            "sent4": "His miswrit signature was unrecognizable.",
+            "sent5": "The miswrit label caused confusion among the students."
         }
     ]
 }

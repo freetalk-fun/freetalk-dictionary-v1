@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Having limits or bounds",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The universe is thought to be finite, with a definite size.",
+            "sent2": "The fence marked the finite area where the children could play.",
+            "sent3": "The finite amount of candy left in the jar caused a rush to grab the last pieces.",
+            "sent4": "Her patience was finite, and she couldn't wait any longer.",
+            "sent5": "The finite nature of time made each moment precious."
         },
         {
             "definition": "A finite verb form",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "In the sentence, 'She walks,' 'walks' is a finite verb.",
+            "sent2": "The teacher explained the concept of finite verbs to the students.",
+            "sent3": "The finite verb in the sentence 'They laughed' showed the action clearly.",
+            "sent4": "His use of finite verbs made his writing more concise.",
+            "sent5": "Understanding finite verbs is essential for constructing proper sentences."
         },
         {
             "definition": "A finite number of possibilities",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The game only had a finite set of moves available to the players.",
+            "sent2": "There are a finite number of outcomes in this experiment.",
+            "sent3": "The finite options for dinner made it easy to choose a restaurant.",
+            "sent4": "With a finite number of paths, they had to choose their route carefully.",
+            "sent5": "The finite choices in front of her made the decision-making process simpler."
         }
     ]
 }

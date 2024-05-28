@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Harm or injury caused to a person or property.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The storm caused significant damages to the house.",
+            "sent2": "The car accident resulted in damages to both vehicles.",
+            "sent3": "The mischievous puppy caused damages by chewing on the furniture.",
+            "sent4": "The damages from the fire left the building in ruins.",
+            "sent5": "The damages to the garden were evident after the hailstorm."
         },
         {
             "definition": "Money claimed by or ordered to be paid to a person as compensation for loss or injury.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The court awarded her damages for the medical expenses.",
+            "sent2": "The insurance company paid out damages for the stolen property.",
+            "sent3": "He jokingly demanded damages for the inconvenience of waiting in line.",
+            "sent4": "The damages received helped cover the cost of repairs.",
+            "sent5": "She sought damages for the emotional distress caused by the incident."
         }
     ]
 }

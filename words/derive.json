@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Obtain or receive from a source",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I derive happiness from spending time with my family.",
+            "sent2": "She derives inspiration from nature for her artwork.",
+            "sent3": "The cat seemed to derive amusement from chasing its tail.",
+            "sent4": "His creativity seemed to derive from a bottomless well of ideas.",
+            "sent5": "The chef's secret sauce recipe was derived from his grandmother's cookbook."
         },
         {
             "definition": "To come from a particular origin or source",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The river derives its name from the ancient language of the region.",
+            "sent2": "Her passion for music derives from her father's love for playing the guitar.",
+            "sent3": "The comedian's jokes always derive laughter from the audience.",
+            "sent4": "The mysterious artifact seemed to derive from a lost civilization.",
+            "sent5": "The rare gemstone derives its unique color from the minerals in the earth."
         },
         {
             "definition": "To trace the origin or development of something",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Historians derive the history of ancient civilizations from artifacts and texts.",
+            "sent2": "Scientists derive the theory of evolution from studying fossils.",
+            "sent3": "The detective tried to derive the suspect's alibi but found inconsistencies.",
+            "sent4": "The author's novel derived its plot from a true historical event.",
+            "sent5": "The teacher derived the lesson plan from educational research and best practices."
         }
     ]
 }

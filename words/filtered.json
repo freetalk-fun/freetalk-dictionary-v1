@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Passed through a filter to remove impurities",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She filtered the water to make it clean for drinking.",
+            "sent2": "The coffee was filtered to remove the coffee grounds.",
+            "sent3": "He tried to filter out the bad jokes from his stand-up routine.",
+            "sent4": "Her mind was like a sieve, filtering out unnecessary information.",
+            "sent5": "The air purifier filtered out the dust particles, making the room fresh."
         },
         {
             "definition": "Processed or altered to remove unwanted elements",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The filtered coffee had a smooth taste.",
+            "sent2": "The data was carefully filtered to remove errors.",
+            "sent3": "The filtered photos looked much better after editing.",
+            "sent4": "Her thoughts felt filtered, as if she was holding back.",
+            "sent5": "The filtered sunlight through the trees created a beautiful pattern on the ground."
         },
         {
             "definition": "Displayed or sorted based on specific criteria",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The search results were filtered to show only relevant information.",
+            "sent2": "The emails were filtered into different folders for easy access.",
+            "sent3": "She filtered her wardrobe to find the perfect outfit for the party.",
+            "sent4": "His memories were filtered through the lens of nostalgia.",
+            "sent5": "The artist filtered the colors to create a harmonious composition."
         }
     ]
 }

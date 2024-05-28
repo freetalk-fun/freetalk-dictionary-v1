@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A person who commits, especially a criminal.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The committer was caught stealing from the store.",
+            "sent2": "The police are searching for the committer of the crime.",
+            "sent3": "The committer tried to steal a cookie from the cookie jar but got stuck.",
+            "sent4": "The committer of the crime left behind a trail of evidence.",
+            "sent5": "The committer's actions led to their arrest."
         },
         {
             "definition": "One who commits to a particular course of action.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "As a committer to exercise, she never misses her morning run.",
+            "sent2": "The committer of the project ensured it was completed on time.",
+            "sent3": "The committer to healthy eating couldn't resist the temptation of chocolate cake.",
+            "sent4": "She is a committer to her goal of learning a new language.",
+            "sent5": "The committer to saving money always looks for discounts."
         },
         {
             "definition": "A person who commits code changes to a version control system.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The committer pushed the latest code changes to the repository.",
+            "sent2": "The software development team has a dedicated committer for each project.",
+            "sent3": "The committer accidentally merged the wrong branch and caused chaos.",
+            "sent4": "The committer's attention to detail ensures smooth integration of code.",
+            "sent5": "The committer's expertise in version control is highly valued by the team."
         }
     ]
 }

@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "In a manner related to vectors.",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "She calculated the distance vectorially.",
+            "sent2": "The spaceship moved vectorially through space.",
+            "sent3": "The ants marched vectorially in a straight line.",
+            "sent4": "His thoughts flowed vectorially towards a solution.",
+            "sent5": "The wind carried the seeds vectorially across the field."
         },
         {
             "definition": "Using vectors.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The vectorially calculated result was accurate.",
+            "sent2": "The vectorially represented data was easy to analyze.",
+            "sent3": "The vectorially drawn map was precise.",
+            "sent4": "Her vectorially guided decisions led to success.",
+            "sent5": "The vectorially aligned magnets created a strong force."
         },
         {
             "definition": "By means of vectors.",
-            "pos": "preposition"
+            "pos": "preposition",
+            "sent1": "He reached the destination vectorially following the map.",
+            "sent2": "The robot navigated vectorially using GPS coordinates.",
+            "sent3": "She communicated vectorially using hand signals.",
+            "sent4": "The puzzle was solved vectorially with logical reasoning.",
+            "sent5": "The treasure was found vectorially by following the clues."
         }
     ]
 }

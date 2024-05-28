@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A verb form ending in -ing that functions as a noun.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Eating is a gerund that acts as a noun.",
+            "sent2": "I enjoy swimming in the pool.",
+            "sent3": "His constant eating makes him the best food critic.",
+            "sent4": "The art of cooking is a delightful gerund.",
+            "sent5": "Running is a great way to stay healthy."
         },
         {
             "definition": "A gerund phrase consists of a gerund plus any modifiers or complements.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Swimming in the ocean is my favorite activity.",
+            "sent2": "She loves reading books before bedtime.",
+            "sent3": "His passion for painting walls surprises everyone.",
+            "sent4": "The joy of dancing under the stars is unforgettable.",
+            "sent5": "Playing with puppies brings immense joy to children."
         }
     ]
 }

@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To divide into separate, self-contained units or modules.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The engineer modularized the software for easier maintenance.",
+            "sent2": "The company decided to modularize their production process for efficiency.",
+            "sent3": "The chef modularized the ingredients, making it easier to prepare the dish.",
+            "sent4": "She modularized her study notes, organizing them into manageable sections.",
+            "sent5": "The teacher modularized the lesson plan, breaking it down into smaller topics."
         },
         {
             "definition": "Made up of separate, self-contained units or modules.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The modularized furniture was easy to assemble.",
+            "sent2": "The new computer system was designed to be modularized for flexibility.",
+            "sent3": "The modularized puzzle was challenging to put together.",
+            "sent4": "Her modularized wardrobe allowed for easy mix-and-match outfits.",
+            "sent5": "The modularized building blocks clicked together perfectly."
         }
     ]
 }

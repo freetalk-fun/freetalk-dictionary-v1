@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A straight direct route traveled quickly",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The bee flew in a beeline to the flower.",
+            "sent2": "She took a beeline to the store to buy milk.",
+            "sent3": "The squirrel made a beeline for the acorn stash.",
+            "sent4": "The student made a beeline for the library to study.",
+            "sent5": "The car zoomed in a beeline towards the finish line."
         },
         {
             "definition": "To make a beeline for something",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The cat will beeline towards the mouse.",
+            "sent2": "He always beelines for the dessert table at parties.",
+            "sent3": "The dog beelined for the treat jar when the owner wasn't looking.",
+            "sent4": "She beelined for the front row at the concert to get a better view.",
+            "sent5": "The kids beelined for the playground as soon as school ended."
         }
     ]
 }

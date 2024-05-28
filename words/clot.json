@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A thick mass or lump, especially of coagulated blood.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The doctor removed a clot from the patient's leg.",
+            "sent2": "The clot of blood stopped the bleeding.",
+            "sent3": "The clot of jelly on my toast looked like a tiny mountain.",
+            "sent4": "Her hair was a clot of darkness against the pale moonlight.",
+            "sent5": "The clot in the pipe caused a backup of water in the sink."
         },
         {
             "definition": "To form into a thick mass or lump.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She accidentally used too much flour and caused the dough to clot.",
+            "sent2": "The ingredients began to clot together as she mixed them.",
+            "sent3": "The paint started to clot on the canvas, creating a unique texture.",
+            "sent4": "His thoughts seemed to clot together, making it hard for him to focus.",
+            "sent5": "The mud began to clot around his boots as he walked through the swamp."
         },
         {
             "definition": "To cause to become blocked or obstructed.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Leaves can sometimes clot the drainpipes during fall.",
+            "sent2": "The debris clotting the river prevented the fish from swimming freely.",
+            "sent3": "His constant talking seemed to clot the flow of the conversation.",
+            "sent4": "The fallen tree clot the path, making it impossible to pass.",
+            "sent5": "The traffic clotting the streets made it difficult to reach the destination on time."
         }
     ]
 }

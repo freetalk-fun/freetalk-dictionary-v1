@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To remove the skin from (an animal or fruit)",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She carefully skinned the apple before eating it.",
+            "sent2": "The chef skinned the fish before cooking it.",
+            "sent3": "He accidentally skinned the banana while trying to peel it quickly.",
+            "sent4": "The hunter skillfully skinned the deer after the successful hunt.",
+            "sent5": "The butcher's hands were stained red as he skinned the chicken."
         },
         {
             "definition": "Having skin of a specified kind or number of layers",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The snake had a shiny, green-skinned body.",
+            "sent2": "The lizard's rough-skinned texture helped it blend into the environment.",
+            "sent3": "The skinned frog looked quite different from its slimy companions.",
+            "sent4": "The skinned peach felt soft and fuzzy to the touch.",
+            "sent5": "The skinned potato had a brown, earthy skin."
         },
         {
             "definition": "To injure the surface of (something) by rubbing against something rough",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She accidentally skinned her knee while falling off the bike.",
+            "sent2": "The cat skinned the furniture by scratching it repeatedly.",
+            "sent3": "He playfully skinned the basketball against the rough pavement.",
+            "sent4": "The rough edges of the table skinned the delicate fabric of her dress.",
+            "sent5": "The old book was skinned along the edges from years of use."
         }
     ]
 }

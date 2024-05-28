@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Recognize a distinction",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She easily discriminates between colors.",
+            "sent2": "The teacher discriminates between right and wrong answers.",
+            "sent3": "The robot discriminates between different shapes for sorting.",
+            "sent4": "His keen eye discriminates even the subtlest details in the painting.",
+            "sent5": "The detective's ability to discriminate clues solved the case."
         },
         {
             "definition": "Treat unfairly",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He discriminates against people based on their appearance.",
+            "sent2": "The company discriminates against older employees.",
+            "sent3": "It discriminates against short people by placing items on high shelves.",
+            "sent4": "The policy discriminates against those with disabilities.",
+            "sent5": "She felt discriminated against due to her accent."
         },
         {
             "definition": "Make a clear distinction in favor of or against someone or something",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The chef discriminates between fresh and stale ingredients.",
+            "sent2": "The judge discriminates in favor of the prosecution.",
+            "sent3": "The cat discriminates between her favorite and least favorite toys.",
+            "sent4": "The manager discriminates in favor of employees who arrive early.",
+            "sent5": "The artist discriminates between shades of blue for the painting."
         }
     ]
 }

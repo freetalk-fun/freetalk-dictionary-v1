@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To deal with (a problem or difficult task)",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She had to tackle the challenging math problem.",
+            "sent2": "He decided to tackle the messy room before dinner.",
+            "sent3": "Trying to tackle the huge pile of laundry felt like a never-ending battle.",
+            "sent4": "She tackled the project head-on and completed it ahead of schedule.",
+            "sent5": "With determination, he tackled the obstacle course and emerged victorious."
         },
         {
             "definition": "A piece of equipment used in fishing or football",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The fisherman grabbed his tackle box before heading to the lake.",
+            "sent2": "The football player carried his tackle onto the field.",
+            "sent3": "The shiny new fishing tackle gleamed in the sunlight.",
+            "sent4": "The football coach organized the team's tackle neatly in the equipment room.",
+            "sent5": "She carefully selected the perfect tackle for her fishing trip."
         },
         {
             "definition": "To grab and hold onto someone in order to stop them from moving",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The defender tried to tackle the running back during the game.",
+            "sent2": "He quickly tackled his friend to prevent him from falling.",
+            "sent3": "The siblings playfully tackled each other in the backyard.",
+            "sent4": "She had to tackle her dog to put on its leash for a walk.",
+            "sent5": "The security guard tackled the thief before he could escape."
         }
     ]
 }

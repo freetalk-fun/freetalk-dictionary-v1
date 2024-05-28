@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "The left side of a ship when facing forward.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The sailors gathered on the portside to watch the sunset.",
+            "sent2": "The cargo was loaded onto the portside of the ship.",
+            "sent3": "The seagull perched on the portside railing, pretending to be the captain.",
+            "sent4": "The moonlight danced on the portside, painting the waves silver.",
+            "sent5": "The storm hit the portside with such force that the ship tilted dangerously."
         },
         {
             "definition": "Located on the left side of a ship.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The portside cabins offer stunning views of the ocean.",
+            "sent2": "The portside engine hummed steadily during the voyage.",
+            "sent3": "The crew enjoyed a peaceful evening on the portside deck.",
+            "sent4": "The portside lights guided the ship safely through the night.",
+            "sent5": "The portside windows were adorned with colorful curtains fluttering in the breeze."
         },
         {
             "definition": "To turn or move towards the left side of a ship.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The captain decided to portside to avoid the rocky shore.",
+            "sent2": "The ship began to portside as it approached the harbor.",
+            "sent3": "The crew had to quickly portside to dodge the oncoming vessel.",
+            "sent4": "The sailor expertly portside the wheel to navigate the narrow channel.",
+            "sent5": "The captain's order to portside came just in time to avoid a collision."
         }
     ]
 }

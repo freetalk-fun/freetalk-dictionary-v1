@@ -3,19 +3,39 @@
     "meanings": [
         {
             "definition": "A single human being",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Each individual has their own unique personality.",
+            "sent2": "The teacher knows each individual student in the class.",
+            "sent3": "The group of friends teased each individual playfully.",
+            "sent4": "In a crowded city, each individual is like a tiny star in the sky.",
+            "sent5": "The individual's kindness touched everyone around them."
         },
         {
             "definition": "A particular person",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "She is an exceptional individual with great talent.",
+            "sent2": "The individual you are looking for is wearing a red hat.",
+            "sent3": "The detective questioned each individual at the crime scene.",
+            "sent4": "As an individual, he stood out from the rest of the team.",
+            "sent5": "The individual's smile brightened up the room."
         },
         {
             "definition": "Existing as a distinct entity",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "Each flower in the garden has its individual beauty.",
+            "sent2": "The company aims to treat each employee as an individual.",
+            "sent3": "The individual characteristics of the painting made it stand out.",
+            "sent4": "In a world of conformity, her individual style shone through.",
+            "sent5": "The individual snowflakes sparkled in the sunlight."
         },
         {
             "definition": "Of or relating to a single person",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "She prefers individual study over group projects.",
+            "sent2": "The artist's individual style is recognized worldwide.",
+            "sent3": "The individual decision led to unexpected consequences.",
+            "sent4": "His individual approach to problem-solving impressed his colleagues.",
+            "sent5": "The individual effort put into the project paid off in the end."
         }
     ]
 }

@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To remove or take out (something) from a place",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She carefully extracts the key from the lock.",
+            "sent2": "The dentist extracts a tooth to relieve the pain.",
+            "sent3": "The magician extracts a rabbit from his hat.",
+            "sent4": "The detective extracts the truth from the suspect.",
+            "sent5": "The archaeologist extracts ancient artifacts from the ground."
         },
         {
             "definition": "A concentrated substance made by removing water or other substances from a liquid",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The vanilla extract adds flavor to the cake.",
+            "sent2": "She uses almond extract in her baking recipes.",
+            "sent3": "The chef adds a drop of lemon extract for a zesty taste.",
+            "sent4": "The perfume contains rose extract for a floral scent.",
+            "sent5": "The medicine includes herbal extracts for healing properties."
         },
         {
             "definition": "A short passage taken from a book, film, etc.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The teacher read an extract from the novel to the class.",
+            "sent2": "He quoted an extract from the speech during his presentation.",
+            "sent3": "The comedian performed a hilarious extract from the movie.",
+            "sent4": "The musician played an emotional extract from the symphony.",
+            "sent5": "The actor memorized an extract from the play for the audition."
         }
     ]
 }

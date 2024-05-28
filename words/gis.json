@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A geographical information system (GIS) is a system designed to capture, store, manipulate, analyze, manage, and present spatial or geographic data.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I used a gis to map out the hiking trails in the park.",
+            "sent2": "The city planner relied on gis to determine the best location for the new school.",
+            "sent3": "The gis made a mistake and marked the wrong location for the new playground.",
+            "sent4": "Her mind worked like a gis, organizing information with precision and accuracy.",
+            "sent5": "The gis displayed a detailed map of the entire forest, making navigation easy."
         },
         {
             "definition": "Gis is the third person singular present tense of the verb 'gi', meaning to provide with a gis.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He gis every document before sending it out to clients.",
+            "sent2": "She always gis her presentations with colorful visuals.",
+            "sent3": "The teacher gis the students with all the necessary materials for the project.",
+            "sent4": "His words gis the audience with a sense of clarity and understanding.",
+            "sent5": "The chef gis each dish with a sprinkle of fresh herbs for added flavor."
         }
     ]
 }

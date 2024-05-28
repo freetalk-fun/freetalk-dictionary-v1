@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "In a way that is not influenced by personal feelings or opinions.",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "She looked at the data objectively, without letting her emotions sway her judgment.",
+            "sent2": "The scientist observed the experiment objectively, focusing only on the results.",
+            "sent3": "The robot tried to act objectively, but ended up complimenting the toaster on its singing voice.",
+            "sent4": "The detective examined the crime scene objectively, as if he were a machine processing information.",
+            "sent5": "The teacher graded the tests objectively, giving each student a fair evaluation."
         },
         {
             "definition": "Based on facts rather than feelings or opinions.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The objective analysis of the situation led to a clear decision.",
+            "sent2": "The team set objective goals to measure their progress accurately.",
+            "sent3": "The cat made an objective assessment of the mouse's escape plan, then promptly fell asleep.",
+            "sent4": "The objective truth shone brightly in the midst of all the confusion.",
+            "sent5": "The objective viewpoint allowed for a rational discussion without emotional interference."
         }
     ]
 }

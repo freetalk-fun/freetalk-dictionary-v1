@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "The maximum amount that something can contain or produce.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The cup's capacity was five ounces.",
+            "sent2": "The stadium has a seating capacity of 50,000 people.",
+            "sent3": "I never knew a backpack had such a large capacity for books!",
+            "sent4": "Her heart had a capacity for love that knew no bounds.",
+            "sent5": "The capacity of the dam was tested during the heavy rainfall."
         },
         {
             "definition": "The ability or power to do, experience, or understand something.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "His capacity for learning new languages was impressive.",
+            "sent2": "Children have an amazing capacity for imagination.",
+            "sent3": "I wish I had the capacity to eat unlimited amounts of ice cream!",
+            "sent4": "Her capacity for forgiveness was truly inspiring.",
+            "sent5": "The capacity of the human mind to adapt is remarkable."
         },
         {
             "definition": "The mental or physical ability to receive or hold something.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The suitcase had a limited capacity for clothes.",
+            "sent2": "The pitcher's arm had reached its capacity for throwing.",
+            "sent3": "My brain's capacity for remembering names is quite poor.",
+            "sent4": "The ship's hull had a capacity for carrying heavy cargo.",
+            "sent5": "The capacity of the refrigerator was not enough for all the groceries."
         }
     ]
 }

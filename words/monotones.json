@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A single tone without variation in pitch or intensity.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The singer's performance was filled with monotones, never changing in pitch.",
+            "sent2": "The machine emitted low monotones as it operated smoothly.",
+            "sent3": "The monotones of the alarm clock made it hard to wake up in the morning.",
+            "sent4": "The monotones of the rain hitting the roof created a soothing lullaby.",
+            "sent5": "The teacher's monotones during the lecture put the students to sleep."
         },
         {
             "definition": "A person's voice lacking in inflection or expressiveness.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Her speech was full of monotones, making it hard to stay engaged.",
+            "sent2": "The radio host spoke in monotones, causing listeners to lose interest.",
+            "sent3": "The monotones of the robot's voice added a touch of humor to the conversation.",
+            "sent4": "His monotones were like a flat line on a heart monitor, showing no emotion.",
+            "sent5": "The monotones of the news anchor failed to convey the urgency of the situation."
         }
     ]
 }

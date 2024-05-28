@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Extracted milk from (a cow or other animal)",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The farmer performed the milking of the cows every morning.",
+            "sent2": "The dairy worker milked the cow gently to collect fresh milk.",
+            "sent3": "The mischievous cat tried to milk the dog for treats, but failed.",
+            "sent4": "She milked the situation for all it was worth, gaining maximum benefit.",
+            "sent5": "The image of the cow being milked stayed in his mind as a peaceful scene."
         },
         {
             "definition": "Exploited or defrauded (someone) by taking money or possessions from them",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The scam artist milked unsuspecting victims of their life savings.",
+            "sent2": "He milked his parents for money to buy unnecessary gadgets.",
+            "sent3": "The greedy character in the story tried to milk everyone for their riches.",
+            "sent4": "She milked the opportunity to get freebies from the event organizers.",
+            "sent5": "The con artist milked the wealthy businessman for all he had, leaving him broke."
         },
         {
             "definition": "Squeezed or manipulated (something) to extract a benefit or advantage",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The coach milked every last drop of effort from his players during the game.",
+            "sent2": "She milked the situation to her advantage by playing innocent.",
+            "sent3": "The clever inventor milked the design to create multiple useful products.",
+            "sent4": "He milked the information from the document to solve the puzzle.",
+            "sent5": "The politician milked the public's sympathy to gain more votes in the election."
         }
     ]
 }

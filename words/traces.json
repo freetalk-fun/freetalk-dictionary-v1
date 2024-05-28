@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A mark or other indication of the existence or passing of something.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The detective followed the traces left by the thief.",
+            "sent2": "The traces of footsteps in the snow led us to the lost dog.",
+            "sent3": "The traces of chocolate on his face revealed who ate the cake.",
+            "sent4": "Her laughter left traces of joy in the room.",
+            "sent5": "The old map showed traces of ancient civilizations."
         },
         {
             "definition": "A very small quantity or amount of something.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "There were only traces of sugar left in the bowl.",
+            "sent2": "The recipe called for traces of salt to enhance the flavor.",
+            "sent3": "She found traces of paint on her clothes after the art class.",
+            "sent4": "The traces of rain on the window indicated a passing storm.",
+            "sent5": "The traces of sunlight peeked through the clouds."
         },
         {
             "definition": "To find or discover by investigation.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The detective tried to traces the missing person's whereabouts.",
+            "sent2": "She traces the source of the strange noise to the attic.",
+            "sent3": "He traces his keys to the last place he remembered having them.",
+            "sent4": "The scientist traced the origin of the virus to a contaminated sample.",
+            "sent5": "The explorer traced the river back to its source in the mountains."
         }
     ]
 }

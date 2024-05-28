@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To provide maintenance or repair to (a machine or vehicle)",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The mechanic serviced the car, fixing its engine.",
+            "sent2": "The technician serviced the printer, ensuring it printed smoothly.",
+            "sent3": "The repairman serviced the broken toaster, making it pop up toast again.",
+            "sent4": "The IT specialist serviced the computer, breathing new life into it.",
+            "sent5": "She serviced the bicycle, oiling its chain and inflating the tires."
         },
         {
             "definition": "To provide assistance or help to (a customer)",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The customer support representative serviced the client's request promptly.",
+            "sent2": "The waiter serviced the table, ensuring the customers had everything they needed.",
+            "sent3": "The salesperson serviced the customer with a smile, helping them find the perfect product.",
+            "sent4": "The flight attendant serviced the passengers, making sure they were comfortable.",
+            "sent5": "The nurse serviced the patient, attending to their needs with care."
         },
         {
             "definition": "To perform duties or work for (someone)",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The assistant serviced the CEO, handling administrative tasks efficiently.",
+            "sent2": "The housekeeper serviced the hotel rooms, keeping them clean and tidy.",
+            "sent3": "The butler serviced the guests, attending to their requests with grace.",
+            "sent4": "The personal trainer serviced the client, guiding them through their workout.",
+            "sent5": "The secretary serviced the office, organizing files and answering calls."
         }
     ]
 }

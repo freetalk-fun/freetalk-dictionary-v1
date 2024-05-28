@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A system for transmitting facsimile messages over telephone lines.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I sent the document through the telefax to my colleague.",
+            "sent2": "The office uses a telefax to quickly send important papers.",
+            "sent3": "The telefax machine beeped loudly, surprising everyone in the room.",
+            "sent4": "The telefax connected us instantly, bridging the distance between us.",
+            "sent5": "The telefax hummed to life, ready to deliver the message across the wires."
         },
         {
             "definition": "To transmit a facsimile message using a telefax machine.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She will telefax the contract to the client for approval.",
+            "sent2": "We need to telefax the signed form to the head office.",
+            "sent3": "He accidentally telefaxed a funny doodle instead of the report.",
+            "sent4": "The telefaxed message traveled through the wires like a silent messenger.",
+            "sent5": "Telefaxing the information ensured a quick and secure delivery."
         }
     ]
 }

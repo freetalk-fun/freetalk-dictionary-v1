@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To have power over something or someone",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The teacher controls the class during lessons.",
+            "sent2": "The king controls the kingdom with his decisions.",
+            "sent3": "The cat thinks it controls the house, but the dog disagrees.",
+            "sent4": "Her calm demeanor controls the chaotic situation like a soothing melody.",
+            "sent5": "The remote control controls the TV effortlessly."
         },
         {
             "definition": "To manage or direct something",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She controls the budget for the project efficiently.",
+            "sent2": "He controls the traffic flow at the intersection.",
+            "sent3": "The chef controls the kitchen like a maestro conducting an orchestra.",
+            "sent4": "His steady hand controls the paintbrush with precision.",
+            "sent5": "The pilot controls the plane with skill and confidence."
         },
         {
             "definition": "Devices or mechanisms used to operate a machine or system",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The remote control changes the TV channels.",
+            "sent2": "The buttons on the control panel adjust the temperature.",
+            "sent3": "The video game controller is his favorite control to use.",
+            "sent4": "The steering wheel is the main control in a car.",
+            "sent5": "The remote control is missing, so we can't change the volume."
         }
     ]
 }

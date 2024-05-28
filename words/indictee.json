@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A person accused of a crime.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The indictee pleaded not guilty in court.",
+            "sent2": "The indictee was brought before the judge for trial.",
+            "sent3": "The indictee tried to hide from the police but was caught behind a bush.",
+            "sent4": "The indictee's conscience haunted him like a shadow in the night.",
+            "sent5": "The indictee's face showed fear as the verdict was read aloud."
         },
         {
             "definition": "To formally charge someone with a crime.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The prosecutor will indictee the suspect tomorrow.",
+            "sent2": "The police indictee individuals involved in the robbery.",
+            "sent3": "The judge indictee the defendant with a stern look.",
+            "sent4": "The evidence indictee the culprit beyond a reasonable doubt.",
+            "sent5": "The law enforcement officer indictee the suspect with a firm hand."
         }
     ]
 }

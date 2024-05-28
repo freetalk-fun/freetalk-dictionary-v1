@@ -3,23 +3,48 @@
     "meanings": [
         {
             "definition": "To make or become full",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I need to fill the glass with water.",
+            "sent2": "The bucket will fill up with sand at the beach.",
+            "sent3": "Please fill the cup to the brim with juice.",
+            "sent4": "Her laughter filled the room with joy.",
+            "sent5": "The aroma of fresh bread filled the bakery."
         },
         {
             "definition": "To occupy or take up space",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The books fill the shelves in the library.",
+            "sent2": "The crowd will fill the stadium for the concert.",
+            "sent3": "His loud voice filled the room, drowning out all other sounds.",
+            "sent4": "Her smile filled his thoughts, making it hard to focus.",
+            "sent5": "The colorful balloons filled the sky with brightness."
         },
         {
             "definition": "To supply with what is lacking",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She will fill the empty shelves with new books.",
+            "sent2": "The teacher will fill the students' minds with knowledge.",
+            "sent3": "His jokes always fill the room with laughter.",
+            "sent4": "Her kindness filled the void in his heart.",
+            "sent5": "The warm soup filled their hungry stomachs."
         },
         {
             "definition": "To satisfy or meet a need",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Eating a good meal will fill your hunger.",
+            "sent2": "A hug can fill the need for comfort.",
+            "sent3": "Music has the power to fill the soul with emotions.",
+            "sent4": "Her words filled him with confidence before the exam.",
+            "sent5": "The beautiful scenery filled her with peace and contentment."
         },
         {
             "definition": "To complete a form or document by providing required information",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Please fill in your name and address on the form.",
+            "sent2": "Make sure to fill out all the sections of the application.",
+            "sent3": "He tried to fill in the missing details on the report.",
+            "sent4": "She quickly filled out the survey with her feedback.",
+            "sent5": "The students were asked to fill in the blanks in the worksheet."
         }
     ]
 }

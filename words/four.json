@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "The number equivalent to the sum of two and two.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I have four apples in my bag.",
+            "sent2": "The table has four legs for support.",
+            "sent3": "The four friends decided to go on a picnic together.",
+            "sent4": "She divided the cake into four equal parts.",
+            "sent5": "The four seasons are spring, summer, autumn, and winter."
         },
         {
             "definition": "A group or set of four people or things.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "There are four chairs around the table.",
+            "sent2": "The band consists of four musicians.",
+            "sent3": "The four siblings always play together in the park.",
+            "sent4": "The four corners of the room were decorated with flowers.",
+            "sent5": "The four-leaf clover is considered lucky."
         },
         {
             "definition": "Being one more than three.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "She wore a dress with four buttons.",
+            "sent2": "The cake was cut into four slices.",
+            "sent3": "He made a four-layer sandwich for lunch.",
+            "sent4": "The four kittens played in the garden.",
+            "sent5": "The four sides of the square are equal in length."
         }
     ]
 }

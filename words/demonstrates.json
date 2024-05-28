@@ -3,19 +3,39 @@
     "meanings": [
         {
             "definition": "Show clearly",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The teacher demonstrates how to solve the math problem on the board.",
+            "sent2": "She demonstrates her painting skills by creating beautiful artwork.",
+            "sent3": "The monkey demonstrates its intelligence by solving a puzzle.",
+            "sent4": "His kindness demonstrates that actions speak louder than words.",
+            "sent5": "The experiment demonstrates the effects of gravity on objects of different weights."
         },
         {
             "definition": "Prove by reasoning",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The scientist demonstrates the theory through logical explanations.",
+            "sent2": "He demonstrates his point by providing solid evidence.",
+            "sent3": "The detective demonstrates the suspect's guilt with a clever deduction.",
+            "sent4": "Her success demonstrates that hard work pays off.",
+            "sent5": "The lawyer demonstrates the innocence of her client with a strong alibi."
         },
         {
             "definition": "Display or exhibit",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The museum demonstrates ancient artifacts from different cultures.",
+            "sent2": "She demonstrates her collection of stamps from around the world.",
+            "sent3": "The fashion show demonstrates the latest trends in clothing.",
+            "sent4": "The artist demonstrates his sculptures at the art gallery.",
+            "sent5": "The zoo demonstrates various species of animals in their natural habitats."
         },
         {
             "definition": "Manifest or reveal",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "His smile demonstrates his happiness.",
+            "sent2": "The dark clouds demonstrate an approaching storm.",
+            "sent3": "The sudden silence demonstrates that something unusual is happening.",
+            "sent4": "Her tears demonstrate the depth of her emotions.",
+            "sent5": "The bright colors of the sunset demonstrate the beauty of nature."
         }
     ]
 }

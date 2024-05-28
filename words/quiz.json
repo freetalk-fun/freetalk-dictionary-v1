@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A test of knowledge, typically as a competition or for entertainment.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "During the quiz, students answered questions to show what they knew.",
+            "sent2": "The quiz at the end of the week covered all the topics we learned.",
+            "sent3": "The quiz turned into a fun game as everyone tried to answer quickly.",
+            "sent4": "Her memory was like a quiz, challenging her to recall facts under pressure.",
+            "sent5": "The quiz was like a puzzle, each question a piece to solve."
         },
         {
             "definition": "To question or interrogate someone.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The detective will quiz the suspect to gather more information.",
+            "sent2": "She decided to quiz her friends about their favorite movies.",
+            "sent3": "He liked to quiz his little sister about her favorite toys.",
+            "sent4": "The teacher would quiz the students to check their understanding.",
+            "sent5": "The journalist will quiz the politician about the recent scandal."
         }
     ]
 }

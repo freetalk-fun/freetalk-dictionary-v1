@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To hinder or obstruct",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The heavy rain cumbers our progress.",
+            "sent2": "The fallen tree cumbers the path.",
+            "sent3": "Carrying a large backpack cumbers my movements.",
+            "sent4": "The thick fog cumbers the view ahead.",
+            "sent5": "The tangled wires cumbers the workspace, making it hard to move around."
         },
         {
             "definition": "A burden or hindrance",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The heavy suitcase is a cumbers during travel.",
+            "sent2": "Dealing with constant interruptions can be a cumbers.",
+            "sent3": "Carrying all these bags is quite a cumbers!",
+            "sent4": "The old machinery became a cumbers to the factory's efficiency.",
+            "sent5": "The never-ending paperwork is a cumbers on my desk, making it hard to find anything."
         },
         {
             "definition": "To cause difficulty or inconvenience",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The unexpected delay cumbers our plans.",
+            "sent2": "The lack of directions cumbers finding the location.",
+            "sent3": "Forgetting my keys cumbers my ability to enter the house.",
+            "sent4": "The broken elevator cumbers the residents of the building.",
+            "sent5": "The complex instructions cumbers understanding the task at hand."
         }
     ]
 }

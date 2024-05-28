@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A famous person",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The local celeb signed autographs for fans at the event.",
+            "sent2": "The Hollywood celeb walked the red carpet at the movie premiere.",
+            "sent3": "The young celeb's popularity soared after starring in a hit TV show.",
+            "sent4": "The internet celeb's videos went viral overnight.",
+            "sent5": "The fashion celeb's outfit made headlines at the award show."
         },
         {
             "definition": "To celebrate or honor publicly",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The community will celeb the hero's bravery with a parade.",
+            "sent2": "We will celeb our anniversary with a special dinner.",
+            "sent3": "Let's celeb the end of exams with a fun party!",
+            "sent4": "The town will celeb its history with a festival next month.",
+            "sent5": "They decided to celeb their friendship with matching tattoos."
         }
     ]
 }

@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To stop or catch something before it reaches its intended destination.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The spy was intercepting secret messages before they could be delivered.",
+            "sent2": "The goalkeeper intercepted the ball before it could go into the net.",
+            "sent3": "The clever cat enjoyed intercepting the laser pointer beam on the wall.",
+            "sent4": "The interception of the enemy's plans saved the kingdom from disaster.",
+            "sent5": "The interception of the thief by the police was swift and effective."
         },
         {
             "definition": "To obstruct or hinder the progress of something.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The fallen tree was intercepting the path, blocking the way forward.",
+            "sent2": "The protestors intercepted the politician's speech, causing a delay.",
+            "sent3": "The mischievous squirrel kept intercepting the line of ants marching towards the picnic.",
+            "sent4": "The interception of the signal disrupted the enemy's communication.",
+            "sent5": "The interception of the runner by the defender prevented a goal."
         },
         {
             "definition": "To seize or cut off communication or transmission.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The hacker was intercepting sensitive data from the network.",
+            "sent2": "The military intercepted the enemy's radio signals, preventing their plans from being communicated.",
+            "sent3": "The playful child intercepted the phone call to ask for a snack.",
+            "sent4": "The interception of the radio transmission revealed the enemy's location.",
+            "sent5": "The interception of the email prevented a security breach."
         }
     ]
 }

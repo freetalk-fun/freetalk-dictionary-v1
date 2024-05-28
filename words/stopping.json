@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "The act of bringing something to an end.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The stopping of the movie surprised everyone.",
+            "sent2": "The train made a sudden stopping at the station.",
+            "sent3": "The stopping of the music made the party feel awkward.",
+            "sent4": "The stopping of the rain brought out a rainbow.",
+            "sent5": "The stopping of the clock signaled the end of the game."
         },
         {
             "definition": "A place where something comes to an end.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The road's stopping was marked by a large sign.",
+            "sent2": "The river's stopping was a beautiful waterfall.",
+            "sent3": "The stopping of the sidewalk led to a dead end.",
+            "sent4": "The stopping of the trail revealed a stunning view.",
+            "sent5": "The stopping of the path was where the forest began."
         },
         {
             "definition": "The action of preventing something from happening.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The stopping of the thief was swift by the security guard.",
+            "sent2": "The stopping of the fire saved the building from damage.",
+            "sent3": "The stopping of the dog from barking made the neighborhood quiet.",
+            "sent4": "The stopping of the leak prevented a flood in the house.",
+            "sent5": "The stopping of the argument avoided further conflict."
         }
     ]
 }

@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Refer to incorrectly or inaccurately.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She misreferred the book title in her report.",
+            "sent2": "The librarian misreferred the student to the wrong section.",
+            "sent3": "He misreferred the recipe and ended up with a strange dish.",
+            "sent4": "The compass misreferred north, leading them off course.",
+            "sent5": "The tour guide misreferred the historical date, causing confusion among the visitors."
         },
         {
             "definition": "To mistakenly direct someone to the wrong source or person.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The receptionist misreferred the customer to the closed store.",
+            "sent2": "I misreferred my friend to the incorrect meeting spot.",
+            "sent3": "The GPS misreferred us to a dead-end street.",
+            "sent4": "Her sense of direction misreferred her like a faulty compass.",
+            "sent5": "The teacher misreferred the student to the wrong textbook, causing frustration."
         }
     ]
 }

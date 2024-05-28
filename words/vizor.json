@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A piece of armor for the head; a helmet.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The knight's vizor protected his face during battle.",
+            "sent2": "The football player wore a vizor to shield his head from impact.",
+            "sent3": "The vizor made the knight look like a brave warrior ready for adventure.",
+            "sent4": "Her sunglasses acted as a modern vizor against the bright sun.",
+            "sent5": "The vizor gleamed in the sunlight, reflecting the strength of its wearer."
         },
         {
             "definition": "A mask or shield for the eyes, as on a helmet.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The ski goggles served as a vizor to protect his eyes from the snow.",
+            "sent2": "The welder's vizor shielded his face from sparks and heat.",
+            "sent3": "The vizor made her feel like a mysterious superhero with hidden identity.",
+            "sent4": "His sunglasses acted as a vizor, hiding his emotions from others.",
+            "sent5": "The vizor darkened suddenly, blocking out the blinding light."
         },
         {
             "definition": "To cover or conceal with a vizor.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She tried to vizor her emotions, but her eyes revealed the truth.",
+            "sent2": "The magician vizored his face with a mask before the grand reveal.",
+            "sent3": "He vizored his intentions, leaving everyone guessing about his next move.",
+            "sent4": "The fog vizored the landscape, creating an air of mystery and intrigue.",
+            "sent5": "The artist vizored the painting, adding layers of complexity to the artwork."
         }
     ]
 }

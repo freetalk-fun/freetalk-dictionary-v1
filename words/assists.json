@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To give help or support",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She assists her little brother with his homework every evening.",
+            "sent2": "The teacher assists the students in understanding difficult concepts.",
+            "sent3": "The friendly neighbor always assists with carrying groceries.",
+            "sent4": "Kindness assists in building strong relationships with others.",
+            "sent5": "A helping hand always assists in making tasks easier."
         },
         {
             "definition": "A pass or play that helps a teammate score a goal or point",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The basketball player made ten assists in the game last night.",
+            "sent2": "The soccer team's victory was due to the many assists from the midfielders.",
+            "sent3": "The assist from the quarterback led to a touchdown.",
+            "sent4": "The assist in the final seconds secured the team's win.",
+            "sent5": "The assist was perfectly timed, leading to a goal."
         }
     ]
 }

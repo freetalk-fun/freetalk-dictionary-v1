@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Drops of saline fluid that are secreted by the lacrimal glands in response to emotion or irritation.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Her tears flowed when she felt sad.",
+            "sent2": "I wiped away my tears after watching a touching movie.",
+            "sent3": "The clown's fake tears made everyone laugh.",
+            "sent4": "The tears of joy streamed down her face at the surprise party.",
+            "sent5": "The tears of sorrow left a trail on her cheeks."
         },
         {
             "definition": "To rip or pull apart by force.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He tears the paper when he is angry.",
+            "sent2": "The dog tears apart his toys in excitement.",
+            "sent3": "The strong wind tears the leaves off the trees.",
+            "sent4": "The loud noise tears through the silence of the night.",
+            "sent5": "She tears the fabric to make it into a new design."
         },
         {
             "definition": "To become torn or damaged.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The book tears easily if not handled carefully.",
+            "sent2": "The old shirt tears at the seams.",
+            "sent3": "The loud music tears through the peaceful atmosphere.",
+            "sent4": "The storm tears down trees in its path.",
+            "sent5": "The fragile paper tears with the slightest touch."
         }
     ]
 }

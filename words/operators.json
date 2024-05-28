@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A person who operates a machine or device.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The operators at the factory work hard to ensure the machines run smoothly.",
+            "sent2": "The skilled operators quickly fixed the broken equipment.",
+            "sent3": "The operators had a race to see who could operate their machines the fastest.",
+            "sent4": "The operators of the carnival rides made sure everyone had a fun and safe experience.",
+            "sent5": "The operators of the elevator greeted each passenger with a smile."
         },
         {
             "definition": "A symbol used in mathematics to perform a specific operation.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "In the math problem, the plus and minus operators are crucial for solving it.",
+            "sent2": "The division operator is used to split numbers into equal parts.",
+            "sent3": "The multiplication operator and the addition operator walked into a bar.",
+            "sent4": "The equals operator acts as the bridge between two sides of an equation.",
+            "sent5": "The subtraction operator removes one quantity from another in a calculation."
         },
         {
             "definition": "A company or individual that runs a business or provides a service.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The operators of the local bakery are known for their delicious pastries.",
+            "sent2": "The tour operator organized a fantastic trip to the national park.",
+            "sent3": "The operators of the food delivery service always arrive on time.",
+            "sent4": "The operators of the tech company strive to innovate and meet customer needs.",
+            "sent5": "The operators of the small business take pride in their personalized customer service."
         }
     ]
 }

@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "At or in which place or situation.",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "She looked around, trying to figure out whereat she had left her keys.",
+            "sent2": "He pointed to the map, indicating whereat the treasure was buried.",
+            "sent3": "The cat sat on the windowsill, pondering whereat to take a nap.",
+            "sent4": "The old house, whereat many memories were made, stood silent and empty.",
+            "sent5": "The forest, whereat the trees whispered secrets, was a place of mystery."
         },
         {
             "definition": "In consequence of which.",
-            "pos": "conjunction"
+            "pos": "conjunction",
+            "sent1": "She missed the bus, whereat she had to walk to school.",
+            "sent2": "He forgot his umbrella, whereat he got soaked in the rain.",
+            "sent3": "The cake was burnt, whereat they decided to order pizza instead.",
+            "sent4": "The meeting ran late, whereat they had to reschedule their dinner plans.",
+            "sent5": "The alarm didn't go off, whereat they overslept and were late for work."
         }
     ]
 }

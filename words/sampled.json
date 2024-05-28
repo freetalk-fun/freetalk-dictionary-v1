@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A small part or quantity intended to show what the whole is like.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I took a sampled of the cake to taste it.",
+            "sent2": "The teacher showed us a sampled of the new book.",
+            "sent3": "The tiny toy car was a cute sampled of the real one.",
+            "sent4": "Her bracelet was a sampled of her elegant jewelry collection.",
+            "sent5": "The mini cupcake was a delicious sampled of the bakery's treats."
         },
         {
             "definition": "To take a sample or samples of.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She sampled the soup before adding more salt.",
+            "sent2": "The scientist sampled the water from different sources.",
+            "sent3": "He sampled the ice cream flavors before choosing one.",
+            "sent4": "The musician sampled various beats to create a new song.",
+            "sent5": "The chef sampled the spices to find the perfect blend."
         }
     ]
 }

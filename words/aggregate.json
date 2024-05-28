@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Formed by the collection of units or particles into a mass or whole.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The aggregate weight of the books was too heavy for the shelf.",
+            "sent2": "The aggregate score of the team determined their ranking in the tournament.",
+            "sent3": "The aggregate number of balloons in the room made it look like a colorful cloud.",
+            "sent4": "Her aggregate knowledge on the subject impressed the professor.",
+            "sent5": "The aggregate effect of the storm was visible in the flooded streets."
         },
         {
             "definition": "The total amount or sum of individual parts.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The aggregate of coins in the jar amounted to five dollars.",
+            "sent2": "The aggregate of votes decided the winner of the election.",
+            "sent3": "The aggregate of ingredients in the recipe created a delicious dish.",
+            "sent4": "The aggregate of stars in the sky formed a beautiful constellation.",
+            "sent5": "The aggregate of colors in the painting made it vibrant and eye-catching."
         }
     ]
 }

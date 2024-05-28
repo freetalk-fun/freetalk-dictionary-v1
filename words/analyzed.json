@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Examine methodically and in detail.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She analyzed the data carefully to understand it better.",
+            "sent2": "Scientists analyzed the results of the experiment to draw conclusions.",
+            "sent3": "The detective analyzed the clues to solve the mystery.",
+            "sent4": "Her eyes analyzed every detail of the painting, trying to uncover its secrets.",
+            "sent5": "He analyzed the map, tracing each route with precision."
         },
         {
             "definition": "Study the elements or structure of something.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Students analyzed the poem to identify its themes.",
+            "sent2": "Archaeologists analyzed the ancient ruins to learn about the civilization.",
+            "sent3": "The chef analyzed the recipe to create a delicious dish.",
+            "sent4": "The engineer analyzed the blueprint, understanding every part's function.",
+            "sent5": "She analyzed the ingredients, determining the best combination for the recipe."
         },
         {
             "definition": "Break down into components for closer examination.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The mechanic analyzed the engine to find the source of the problem.",
+            "sent2": "Chemists analyzed the compound to understand its properties.",
+            "sent3": "The artist analyzed the colors to create a harmonious painting.",
+            "sent4": "The teacher analyzed the complex topic into simpler concepts for the students.",
+            "sent5": "He analyzed the puzzle, separating each piece for a systematic approach."
         }
     ]
 }

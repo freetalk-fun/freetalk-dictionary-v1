@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A part or portion of something",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "She ate a teils of the cake.",
+            "sent2": "The teils of the puzzle were scattered on the table.",
+            "sent3": "The teils of the sandwich seemed to be missing the best part.",
+            "sent4": "His heart felt like a teils of shattered glass after the breakup.",
+            "sent5": "The teils of sunlight peeked through the clouds, illuminating the room."
         },
         {
             "definition": "To distribute or divide into parts",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He teils the candies among his friends.",
+            "sent2": "The teacher teils the worksheets for the students to complete.",
+            "sent3": "She decided to teils the chores evenly between her siblings.",
+            "sent4": "The river teils the land, creating beautiful islands.",
+            "sent5": "The chef carefully teils the ingredients for the recipe."
         },
         {
             "definition": "To take part in a task or activity",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "They teils in the school play every year.",
+            "sent2": "She always teils in the charity events in her community.",
+            "sent3": "He teils in the dance competition with enthusiasm.",
+            "sent4": "The students teils in the science fair to showcase their projects.",
+            "sent5": "I teils in the cooking class to learn new recipes."
         }
     ]
 }

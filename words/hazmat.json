@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Hazardous material",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The workers carefully handled the hazmat to prevent any accidents.",
+            "sent2": "The hazmat spill required a specialized cleanup crew.",
+            "sent3": "The hazmat suit made the scientist look like a space explorer.",
+            "sent4": "The hazmat symbol on the barrel warned of danger like a red flag in a storm.",
+            "sent5": "The smell of the hazmat was so strong, it lingered in the air for hours."
         },
         {
             "definition": "Materials that pose a risk to health, safety, or property",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Emergency responders quickly identified the hazmat at the scene.",
+            "sent2": "The storage facility had strict regulations for storing hazmat.",
+            "sent3": "The hazmat label on the box seemed to glow in the dark, catching everyone's attention.",
+            "sent4": "The presence of hazmat in the area cast a shadow of concern over the neighborhood.",
+            "sent5": "The hazmat warning signs were like silent alarms, alerting everyone to the potential danger."
         }
     ]
 }

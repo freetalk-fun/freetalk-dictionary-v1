@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A mark or wound made by scraping or abrasion.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The cat's scratches on the furniture were deep.",
+            "sent2": "I got some scratches on my arm from playing outside.",
+            "sent3": "The scratches on the car looked like tiny lightning bolts.",
+            "sent4": "Her heart felt like it had emotional scratches from the breakup.",
+            "sent5": "The scratches on the old tree trunk told stories of past adventures."
         },
         {
             "definition": "To make a thin shallow cut or mark on a surface.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She accidentally scratches the table while moving the vase.",
+            "sent2": "He scratches his initials on the tree trunk with a pocket knife.",
+            "sent3": "The chef scratches the surface of the dough to create a pattern.",
+            "sent4": "Time scratches away at the memories we hold dear.",
+            "sent5": "The artist carefully scratches the design onto the clay pot."
         },
         {
             "definition": "To rub or scrape a surface with something sharp or rough.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He scratches his head in confusion while trying to solve the puzzle.",
+            "sent2": "The gardener scratches the soil to prepare it for planting.",
+            "sent3": "The cat scratches the post to sharpen its claws.",
+            "sent4": "The wind scratches against the window on stormy nights.",
+            "sent5": "She scratches the lottery ticket, hoping for a win."
         }
     ]
 }

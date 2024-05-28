@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Damage the purity or integrity of (verb)",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I accidentally sully my white shirt with spaghetti sauce.",
+            "sent2": "Please do not sully the clean floor with muddy shoes.",
+            "sent3": "He tried to sully her reputation, but no one believed his lies.",
+            "sent4": "The scandal sullied the company's once pristine image.",
+            "sent5": "The graffiti sullied the beauty of the historic building."
         },
         {
             "definition": "A tarnish or stain (noun)",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The sully on the mirror made it hard to see clearly.",
+            "sent2": "She carefully cleaned the sully off the silver necklace.",
+            "sent3": "The little girl's hands were covered in sully after playing outside.",
+            "sent4": "The sully on the painting was a reminder of its age and history.",
+            "sent5": "The sully on the window distorted the view of the garden outside."
         }
     ]
 }

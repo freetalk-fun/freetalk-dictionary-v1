@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Marked with spots",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The cute puppy had a spotted coat.",
+            "sent2": "The leopard is a spotted animal.",
+            "sent3": "The spotted umbrella looked like a rainbow in the rain.",
+            "sent4": "Her spotted dress was a constellation of beauty.",
+            "sent5": "The spotted ladybug stood out among the green leaves."
         },
         {
             "definition": "Having spots",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The ripe banana was spotted with brown dots.",
+            "sent2": "The fawn had a spotted fur pattern.",
+            "sent3": "The spotted apple was the star of the fruit bowl.",
+            "sent4": "Her spotted skin resembled a map of constellations.",
+            "sent5": "The spotted cow grazed peacefully in the meadow."
         },
         {
             "definition": "To see or notice something",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She spotted her friend in the crowd.",
+            "sent2": "The detective spotted a clue at the crime scene.",
+            "sent3": "I spotted a rainbow in the sky after the rain.",
+            "sent4": "He spotted a rare bird in the forest.",
+            "sent5": "The teacher spotted the mistake in the student's homework."
         }
     ]
 }

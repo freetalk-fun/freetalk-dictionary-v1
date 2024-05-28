@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A supposition or a system of ideas intended to explain something, especially one based on general principles independent of the thing to be explained.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Her theory about the sun rising in the east was proven correct.",
+            "sent2": "The theory of gravity states that what goes up must come down.",
+            "sent3": "It was just a theory that cats can talk to birds, but it made us laugh.",
+            "sent4": "His theory that kindness is contagious spread throughout the school.",
+            "sent5": "The theory of evolution by Charles Darwin changed the way we see life on Earth."
         },
         {
             "definition": "A belief or set of beliefs held and taught by a group, especially one that is false or unfounded.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The conspiracy theory about aliens living among us is popular online.",
+            "sent2": "The theory that the moon landing was faked has been debunked multiple times.",
+            "sent3": "It's just a theory that eating ice cream for breakfast makes you smarter.",
+            "sent4": "Her theory that wearing mismatched socks brings good luck is quite amusing.",
+            "sent5": "The theory that stepping on cracks breaks your mother's back is a childhood superstition."
         }
     ]
 }

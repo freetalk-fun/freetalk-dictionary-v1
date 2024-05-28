@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Water falling in drops from vapor condensed in the atmosphere.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The rained made the ground wet.",
+            "sent2": "After the rained, the flowers looked fresh.",
+            "sent3": "The unexpected rained caught everyone off guard.",
+            "sent4": "The sound of the rained on the roof was soothing.",
+            "sent5": "The heavy rained caused flooding in the streets."
         },
         {
             "definition": "To send down rain.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The clouds rained on the parched land.",
+            "sent2": "It rained heavily last night.",
+            "sent3": "The weather forecast predicted it would rain, but it rained cats and dogs instead.",
+            "sent4": "The sky rained blessings upon the earth.",
+            "sent5": "The farmer hoped it rained soon to water his crops."
         },
         {
             "definition": "To fall in drops.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The tears rained down her cheeks.",
+            "sent2": "The leaves rained from the tree in autumn.",
+            "sent3": "The chef accidentally added too much salt, and criticism rained upon him.",
+            "sent4": "The confetti rained on the newlyweds as they exited the church.",
+            "sent5": "Compliments rained on her for her beautiful artwork."
         }
     ]
 }

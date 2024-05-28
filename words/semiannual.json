@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Occurring twice a year",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The company holds a semiannual meeting to discuss its progress.",
+            "sent2": "The semiannual report is due at the end of June and December.",
+            "sent3": "The semiannual picnic is always a highlight for the employees.",
+            "sent4": "The semiannual migration of birds is a sight to behold.",
+            "sent5": "The semiannual sale attracts customers looking for great deals."
         },
         {
             "definition": "Every six months",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "The magazine is published semiannually, in January and July.",
+            "sent2": "She visits her grandparents semiannually to catch up with them.",
+            "sent3": "The dentist recommends a check-up semiannually for good oral health.",
+            "sent4": "The software updates are released semiannually to improve performance.",
+            "sent5": "The car maintenance should be done semiannually to ensure safety."
         }
     ]
 }

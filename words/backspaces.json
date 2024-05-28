@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "The key on a keyboard that erases the character to the left of the cursor.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I pressed the backspaces to correct my mistake.",
+            "sent2": "The backspaces on the keyboard are very useful for editing.",
+            "sent3": "Using the backspaces quickly fixed the error in my document.",
+            "sent4": "The backspaces acted like a magic eraser, making the error disappear.",
+            "sent5": "The backspaces are like a helpful little genie granting editing wishes."
         },
         {
             "definition": "To erase text by pressing the backspace key.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She backspaces to remove the extra words.",
+            "sent2": "When typing, remember to backspaces if needed.",
+            "sent3": "He backspaces with precision, fixing any errors effortlessly.",
+            "sent4": "Backspacing through the text, she cleared her thoughts.",
+            "sent5": "Backspaces can be a lifesaver when editing a document."
         },
         {
             "definition": "To move backwards through a document or webpage by pressing the backspace key.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The user backspaces to review the previous content.",
+            "sent2": "Backspaces allow you to navigate quickly through text.",
+            "sent3": "Backspacing through the webpage, he found the information he needed.",
+            "sent4": "She backspaces through the document like rewinding a tape.",
+            "sent5": "Backspaces help you backtrack through your work efficiently."
         }
     ]
 }

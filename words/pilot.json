@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A person who operates an aircraft.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The pilot flew the plane smoothly.",
+            "sent2": "The pilot checked the weather before takeoff.",
+            "sent3": "The pilot joked about flying upside down.",
+            "sent4": "She piloted the aircraft through turbulent skies.",
+            "sent5": "The pilot's job is to ensure a safe flight for everyone."
         },
         {
             "definition": "A person who steers a ship.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The ship's pilot guided it into the harbor.",
+            "sent2": "The experienced pilot navigated through rough waters.",
+            "sent3": "The pilot sang sea shanties while steering the ship.",
+            "sent4": "He piloted the ship with precision and skill.",
+            "sent5": "The pilot's steady hand kept the ship on course."
         },
         {
             "definition": "A television program produced as a prototype of a series.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The pilot episode introduced the main characters.",
+            "sent2": "Viewers eagerly awaited the pilot of the new show.",
+            "sent3": "The pilot of the series had unexpected plot twists.",
+            "sent4": "She piloted the TV show to success with her acting.",
+            "sent5": "The pilot set the tone for the entire series."
         }
     ]
 }

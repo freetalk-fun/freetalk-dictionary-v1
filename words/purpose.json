@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "The reason for which something is done or created.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Her purpose in baking cookies was to share them with her friends.",
+            "sent2": "The purpose of the flashlight is to provide light in the dark.",
+            "sent3": "His purpose in wearing a cape to school was to make his classmates laugh.",
+            "sent4": "The purpose of a lighthouse is to guide ships safely to shore.",
+            "sent5": "The purpose of a key is to unlock doors."
         },
         {
             "definition": "A person's intention or objective.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "His purpose in studying hard is to get good grades.",
+            "sent2": "The purpose of her visit was to congratulate her friend on the promotion.",
+            "sent3": "Their purpose in wearing matching outfits was to confuse their classmates.",
+            "sent4": "The purpose of a detective is to solve mysteries and catch criminals.",
+            "sent5": "The purpose of a map is to help travelers find their way."
         }
     ]
 }

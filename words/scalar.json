@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A quantity that is fully described by a magnitude or size only, with no direction.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The distance between the two points is a scalar measurement.",
+            "sent2": "She measured the weight of the object using a scalar value.",
+            "sent3": "The scalar size of the apple made it easy to fit in her pocket.",
+            "sent4": "His love for her was a scalar force, strong and unwavering.",
+            "sent5": "The scalar brightness of the star made it stand out in the night sky."
         },
         {
             "definition": "A variable that represents a single value, rather than a set of values.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "In the equation, x is a scalar representing a constant value.",
+            "sent2": "The scalar in this function always returns a specific number.",
+            "sent3": "The scalar amount of cookies left in the jar was disappointing.",
+            "sent4": "Her decision to leave was a scalar event that changed everything.",
+            "sent5": "The scalar temperature on the thermometer showed a steady 70 degrees."
         },
         {
             "definition": "A physical quantity that is not affected by changes in the coordinate system.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The speed of the car is a scalar unaffected by the direction of travel.",
+            "sent2": "Time is a scalar in this experiment, independent of the location.",
+            "sent3": "The scalar weight of the object remained constant regardless of the angle.",
+            "sent4": "His determination was a scalar force, unswayed by external factors.",
+            "sent5": "The scalar volume of the container stayed the same no matter how it was turned."
         }
     ]
 }

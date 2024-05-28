@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "The development of events beyond a person's control, regarded as determined by a supernatural power.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Her fate was sealed when she missed the last bus home.",
+            "sent2": "It is said that fate brought them together at the right time.",
+            "sent3": "In a twist of fate, the cat ended up chasing the dog instead.",
+            "sent4": "The fate of the lost city remained a mystery for centuries.",
+            "sent5": "The ominous clouds signaled the fate of the upcoming storm."
         },
         {
             "definition": "Be destined to happen, turn out, or act in a particular way.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He will fate to become a great leader one day.",
+            "sent2": "The decision to move abroad seemed to fate well for her career.",
+            "sent3": "The magician fated the cards to reveal the chosen one.",
+            "sent4": "The old prophecy fated the kingdom to fall under a dark spell.",
+            "sent5": "The wise elder fated that the young warrior would bring peace to the land."
         }
     ]
 }

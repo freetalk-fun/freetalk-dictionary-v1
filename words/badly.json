@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "In a severe or harmful manner",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "The storm hit the town badly, causing widespread damage.",
+            "sent2": "She was injured badly in the car accident.",
+            "sent3": "The cat badly scratched the sofa, leaving marks everywhere.",
+            "sent4": "The news of the accident hit her badly, leaving her in shock.",
+            "sent5": "The fire spread badly, engulfing the entire building."
         },
         {
             "definition": "In an unsatisfactory or poor manner",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "He performed badly in the exam, getting a low score.",
+            "sent2": "The food was cooked badly and tasted terrible.",
+            "sent3": "The comedian's joke landed badly, resulting in awkward silence.",
+            "sent4": "The paint job was done badly, with visible streaks and smudges.",
+            "sent5": "The repairs were done badly, causing more problems than before."
         },
         {
             "definition": "In a way that reflects incompetence or inadequacy",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "She sang badly during the performance, off-key and out of tune.",
+            "sent2": "The project was managed badly, leading to delays and errors.",
+            "sent3": "The magician's trick went badly, revealing the hidden mechanism.",
+            "sent4": "The negotiation was handled badly, resulting in a failed deal.",
+            "sent5": "The speech was delivered badly, with stuttering and lack of confidence."
         }
     ]
 }

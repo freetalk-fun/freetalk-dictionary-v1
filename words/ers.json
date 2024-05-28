@@ -3,19 +3,39 @@
     "meanings": [
         {
             "definition": "A suffix used to form nouns denoting a person who does something.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The teacher helps learn-ers in the classroom.",
+            "sent2": "The dancers are perform-ers in the show.",
+            "sent3": "The bakers are the cake mak-ers in town.",
+            "sent4": "She is the lead sing-ers in the band.",
+            "sent5": "The builders are the house build-ers in the neighborhood."
         },
         {
             "definition": "A suffix used to form nouns denoting a person who is associated with or participates in a particular activity.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The players are the soccer play-ers on the field.",
+            "sent2": "The swimmers are the pool div-ers in the competition.",
+            "sent3": "The chefs are the food cook-ers at the restaurant.",
+            "sent4": "He is the star perform-ers in the theater.",
+            "sent5": "The artists are the paint-ers in the art gallery."
         },
         {
             "definition": "A suffix used to form nouns denoting a person who holds a particular office or rank.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The mayor is the city lead-ers in the town.",
+            "sent2": "The captain is the team lead-ers on the field.",
+            "sent3": "The president is the country lead-ers in the world.",
+            "sent4": "She is the principal teach-ers at the school.",
+            "sent5": "The CEO is the company manag-ers in the business."
         },
         {
             "definition": "A suffix used to form nouns denoting a person who is characterized by a particular quality or trait.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The winners are the victor-ers of the competition.",
+            "sent2": "The helpers are the assist-ers in times of need.",
+            "sent3": "The leaders are the guidance provid-ers in the community.",
+            "sent4": "She is the kind-hearted help-ers to everyone.",
+            "sent5": "The explorers are the adventur-ers in the unknown."
         }
     ]
 }

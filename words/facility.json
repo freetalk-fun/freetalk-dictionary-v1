@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A place, amenity, or piece of equipment provided for a particular purpose.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The school's new science facility has state-of-the-art equipment.",
+            "sent2": "The hospital's rehabilitation facility helps patients recover.",
+            "sent3": "The camping facility had a comical sign saying, 'Beware of wild squirrels'.",
+            "sent4": "Her mind was a facility of knowledge, storing facts like a library.",
+            "sent5": "The sports facility buzzed with energy as athletes trained for the competition."
         },
         {
             "definition": "Skill or ease in doing something.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "His facility in playing the piano impressed everyone at the concert.",
+            "sent2": "She showed great facility in solving complex math problems.",
+            "sent3": "The chef's facility in creating delicious dishes made him popular.",
+            "sent4": "Her facility in languages allowed her to easily communicate with people from different countries.",
+            "sent5": "The artist's facility with colors brought life to the canvas."
         },
         {
             "definition": "Readiness to do something.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The team's facility to adapt to changes helped them win the game.",
+            "sent2": "Her facility to learn new skills quickly impressed her boss.",
+            "sent3": "The cat's facility to catch mice made it the best hunter in the neighborhood.",
+            "sent4": "His facility to make decisions under pressure saved the project from failure.",
+            "sent5": "The firefighter's facility to respond swiftly to emergencies saved many lives."
         }
     ]
 }

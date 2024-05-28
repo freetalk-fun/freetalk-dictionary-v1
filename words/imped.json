@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "hinder or obstruct",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The heavy rain impeded our progress on the hike.",
+            "sent2": "Traffic congestion can often impede the flow of vehicles.",
+            "sent3": "The mischievous squirrel tried to impede the gardener by stealing his tools.",
+            "sent4": "Her fear of failure impeded her from taking risks in her career.",
+            "sent5": "The fallen tree impeded the path, forcing us to find an alternative route."
         },
         {
             "definition": "a hindrance or obstruction",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Lack of funding proved to be an imped to the project's completion.",
+            "sent2": "The closed road was a major imped to our travel plans.",
+            "sent3": "The tangled wires in the office were an annoying imped to productivity.",
+            "sent4": "His stubbornness acted as an imped to reaching a compromise.",
+            "sent5": "The language barrier was a significant imped to effective communication."
         }
     ]
 }

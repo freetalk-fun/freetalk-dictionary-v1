@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Ask a question about something, especially in order to express doubt or to check its validity.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She was querying the teacher about the homework assignment.",
+            "sent2": "I am querying the database to find the correct information.",
+            "sent3": "The curious cat was querying the closed door, wondering what was behind it.",
+            "sent4": "Her eyes were querying the mysterious stranger, trying to understand his intentions.",
+            "sent5": "The detective was querying the suspect, hoping to uncover the truth."
         },
         {
             "definition": "Search for information by posing a question.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He is querying the internet to find the answer to his question.",
+            "sent2": "We will be querying the library catalog for relevant books.",
+            "sent3": "The child was querying the fridge, asking where the cookies were hidden.",
+            "sent4": "The scientist was querying nature, seeking answers to complex phenomena.",
+            "sent5": "The journalist was querying sources to gather information for the article."
         },
         {
             "definition": "A question, especially one addressed to an official or organization.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "She wrote a querying email to the company regarding the product issue.",
+            "sent2": "The meeting agenda included a querying about the budget allocation.",
+            "sent3": "The querying from the audience made the speaker pause and reconsider his statement.",
+            "sent4": "The querying in the survey revealed common concerns among the participants.",
+            "sent5": "The student's querying during the lecture sparked a lively discussion."
         }
     ]
 }

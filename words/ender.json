@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A person or thing that ends something.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The movie's credits signaled the ender of the film.",
+            "sent2": "The last puzzle piece was the ender of the jigsaw puzzle.",
+            "sent3": "The sneeze was the ender to the quiet library.",
+            "sent4": "The final chapter was the ender of the thrilling book.",
+            "sent5": "The closing ceremony was the grand ender of the event."
         },
         {
             "definition": "A final point or part.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The dessert was the perfect ender to the meal.",
+            "sent2": "The sunset marked the ender of the day.",
+            "sent3": "The cherry on top was the sweet ender to the cake.",
+            "sent4": "The last piece of the puzzle was the ender to the mystery.",
+            "sent5": "The final scene was the emotional ender of the play."
         },
         {
             "definition": "A game or match-winning point or shot.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The buzzer-beater was the game-winning ender.",
+            "sent2": "The penalty kick was the ender of the match.",
+            "sent3": "The home run was the exciting ender to the baseball game.",
+            "sent4": "The match point was the decisive ender of the tennis match.",
+            "sent5": "The three-pointer was the perfect ender to the basketball game."
         }
     ]
 }

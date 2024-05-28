@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A person or thing that recognizes.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The recognizers in the crowd cheered when they saw their favorite singer.",
+            "sent2": "The security guard was a skilled recognizer of faces.",
+            "sent3": "The little dog was a great recognizer of his owner, wagging his tail happily whenever he saw her.",
+            "sent4": "Her grandmother was a recognizer of old songs, always humming tunes from her youth.",
+            "sent5": "The recognizer of emotions, she could always tell when someone was feeling sad."
         },
         {
             "definition": "A software component that identifies patterns in data.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The recognizers in the program quickly identified the error in the code.",
+            "sent2": "The AI system used recognizers to analyze the images and categorize them.",
+            "sent3": "The recognizer in the software had a funny habit of finding faces in random shapes.",
+            "sent4": "The algorithm acted as a recognizer, sorting through the data to find the relevant information.",
+            "sent5": "The powerful recognizer sifted through the data, pinpointing the anomalies with precision."
         }
     ]
 }

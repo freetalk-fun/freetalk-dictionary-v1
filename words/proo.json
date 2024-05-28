@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Evidence or argument establishing a fact or the truth of a statement.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The detective presented the proo in court to prove the suspect's guilt.",
+            "sent2": "She needed more proo to support her theory about the crime.",
+            "sent3": "The proo of the fingerprints on the weapon led to the culprit's arrest.",
+            "sent4": "The proo of the witness's testimony was crucial for the case.",
+            "sent5": "The proo of the DNA match left no doubt about the identity of the criminal."
         },
         {
             "definition": "To test or verify the accuracy or validity of something.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He decided to proo the theory by conducting experiments in the lab.",
+            "sent2": "Before publishing the article, the editor wanted to proo all the facts.",
+            "sent3": "She had to proo the new software to ensure it worked correctly.",
+            "sent4": "The scientist needed to proo his hypothesis through rigorous testing.",
+            "sent5": "The teacher asked the students to proo their answers before submitting the quiz."
         },
         {
             "definition": "A trial print of a page, plate, or image before the final version is produced.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The artist examined the proo of the painting before making adjustments.",
+            "sent2": "The proo of the book cover had a few errors that needed correction.",
+            "sent3": "The proo of the photograph helped in deciding the final edits.",
+            "sent4": "The proo of the brochure was approved before mass printing.",
+            "sent5": "The proo of the logo looked promising for the company's branding."
         }
     ]
 }

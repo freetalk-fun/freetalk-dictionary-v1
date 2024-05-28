@@ -3,19 +3,39 @@
     "meanings": [
         {
             "definition": "A musical instrument consisting of a hollow cylinder or hemisphere with a membrane stretched tightly over one or both ends, played by beating with the hands or sticks.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The drummer played the drum at the concert.",
+            "sent2": "The drum made a loud sound when struck.",
+            "sent3": "The drum's beat echoed through the room, making everyone dance.",
+            "sent4": "Her heart drummed with excitement as she waited for the results.",
+            "sent5": "The rhythmic drumming of the rain on the roof was soothing."
         },
         {
             "definition": "A cylindrical container or receptacle, especially one used for storing liquids.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "She poured water from the drum into the bucket.",
+            "sent2": "The oil drum was filled to the brim.",
+            "sent3": "The drum in the kitchen held flour for baking.",
+            "sent4": "The drum of gasoline was heavy to lift.",
+            "sent5": "The drum of juice was refreshing on a hot day."
         },
         {
             "definition": "To beat or play a drum.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He would drum on the table with his fingers when bored.",
+            "sent2": "She learned to drum on the snare with precision.",
+            "sent3": "The rain would drum against the window, creating a calming rhythm.",
+            "sent4": "His heart would drum with anticipation before a big game.",
+            "sent5": "The woodpecker would drum on the tree trunk in the morning."
         },
         {
             "definition": "To make a sound like that of a drum.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The distant thunder began to drum in the sky.",
+            "sent2": "The rain started to drum on the roof, signaling a storm.",
+            "sent3": "The wind would drum against the windows during the night.",
+            "sent4": "Her footsteps would drum softly on the wooden floor.",
+            "sent5": "The heartbeats would drum in her ears during the silence."
         }
     ]
 }

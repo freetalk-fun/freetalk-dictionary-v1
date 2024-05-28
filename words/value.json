@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "The regard that something is held to deserve; the importance, worth, or usefulness of something.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I always place a high value on honesty in my friends.",
+            "sent2": "The value of education cannot be overstated.",
+            "sent3": "The value of a good night's sleep is priceless.",
+            "sent4": "Her kindness added value to the team like a shining gem.",
+            "sent5": "The value of friendship is like a warm hug on a cold day."
         },
         {
             "definition": "The numerical amount denoted by an algebraic term; a quantity represented by a symbol.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The value of 'x' in the equation is 5.",
+            "sent2": "What is the value of 'y' in this mathematical expression?",
+            "sent3": "The value of 'a' in the formula is the key to solving the problem.",
+            "sent4": "The value of 'b' is the missing piece of the puzzle.",
+            "sent5": "Understanding the value of 'c' is crucial for the solution."
         },
         {
             "definition": "To estimate the monetary worth of something; to consider something to be important or beneficial.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I value your opinion on this matter.",
+            "sent2": "It is important to value your time and effort.",
+            "sent3": "She will value the antique vase once she knows its history.",
+            "sent4": "Learning to value experiences over possessions can lead to greater happiness.",
+            "sent5": "He values her friendship more than anything else in the world."
         }
     ]
 }

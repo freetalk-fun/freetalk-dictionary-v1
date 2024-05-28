@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To send (mail) again.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I will remail the package to you tomorrow.",
+            "sent2": "Please remail the letter if it doesn't reach its destination.",
+            "sent3": "The post office had to remail the lost package three times!",
+            "sent4": "Her kindness remailed in my heart long after she left.",
+            "sent5": "The echo remailed through the empty hallway, bouncing off the walls."
         },
         {
             "definition": "A service that forwards email to a new address.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The remail helped me receive important messages while traveling.",
+            "sent2": "I signed up for a remail to ensure I don't miss any emails.",
+            "sent3": "The remail made sure I got all my emails, even the spam!",
+            "sent4": "The remail acted like a helpful messenger, delivering emails promptly.",
+            "sent5": "With the remail, I never worry about missing an important email again."
         }
     ]
 }

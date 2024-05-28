@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To come or go into (a place)",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She is entering the room quietly.",
+            "sent2": "The cat is entering the house through the window.",
+            "sent3": "The squirrel is entering the bird feeder for a snack.",
+            "sent4": "The sunlight is entering the room, brightening it up.",
+            "sent5": "The key is entering the lock smoothly."
         },
         {
             "definition": "To become a member of (an organization)",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He is entering the club as a new member.",
+            "sent2": "She is entering the company as an intern.",
+            "sent3": "The penguin is entering the polar bear club for fun.",
+            "sent4": "The new employee is entering the team with enthusiasm.",
+            "sent5": "The student is entering the debate club to improve skills."
         },
         {
             "definition": "To begin to be involved in (a particular activity)",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "They are entering the dance class to learn salsa.",
+            "sent2": "The kids are entering the art competition with their paintings.",
+            "sent3": "The dog is entering the race, wagging its tail.",
+            "sent4": "The chef is entering the cooking competition to showcase skills.",
+            "sent5": "The team is entering the tournament to win the trophy."
         }
     ]
 }

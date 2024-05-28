@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To make a hole in something using a tool",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He bores a hole in the wood with a drill.",
+            "sent2": "The construction worker bores through the concrete with a jackhammer.",
+            "sent3": "The carpenter bores into the wall, creating a secret compartment.",
+            "sent4": "The miner bores deep into the earth, searching for precious minerals.",
+            "sent5": "The dentist carefully bores into the tooth to remove the decay."
         },
         {
             "definition": "A person or thing that is dull or uninteresting",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The lecture was a real bores, putting everyone to sleep.",
+            "sent2": "The book turned out to be a real bores, lacking any excitement.",
+            "sent3": "The party was a bores until the music started playing.",
+            "sent4": "The movie was such a bores that people started leaving the theater.",
+            "sent5": "The meeting felt like a bores, dragging on without any interesting points."
         },
         {
             "definition": "To cause someone to feel bored or uninterested",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The long lecture bores the students, making them yawn.",
+            "sent2": "The repetitive tasks at work bores him to the point of daydreaming.",
+            "sent3": "The dry presentation bores the audience, leading to some people checking their phones.",
+            "sent4": "The lackluster performance bores the crowd, resulting in a quiet atmosphere.",
+            "sent5": "The monotonous voice of the speaker bores the listeners, causing them to lose focus."
         }
     ]
 }

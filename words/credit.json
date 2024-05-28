@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Belief in the truth of something",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I give you credit for being honest.",
+            "sent2": "She deserves credit for telling the truth.",
+            "sent3": "To be honest, I never doubted your credit.",
+            "sent4": "Her reputation for honesty gives her credit in the community.",
+            "sent5": "His credibility and trustworthiness earn him credit among his peers."
         },
         {
             "definition": "Money received in exchange for goods or services",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I used my credit to buy a new phone.",
+            "sent2": "She paid with her credit card at the store.",
+            "sent3": "I'm running low on credit, so I need to be careful with my spending.",
+            "sent4": "His credit limit allows him to make big purchases.",
+            "sent5": "The store offers discounts for customers who use credit for payment."
         },
         {
             "definition": "Recognition or acknowledgment of achievement or contribution",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "They gave her credit for her hard work.",
+            "sent2": "He received credit for his outstanding performance.",
+            "sent3": "Getting credit for your efforts feels rewarding.",
+            "sent4": "Her promotion was a well-deserved credit to her skills.",
+            "sent5": "The team's success was a credit to their dedication and teamwork."
         }
     ]
 }

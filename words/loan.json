@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A sum of money that is borrowed and expected to be paid back with interest.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I took out a loan to buy a new car.",
+            "sent2": "The bank approved my loan application.",
+            "sent3": "My piggy bank offered me a loan with a high interest rate!",
+            "sent4": "Her kindness was a loan of hope in my darkest hour.",
+            "sent5": "The loan from my friend saved me from financial trouble."
         },
         {
             "definition": "To lend something temporarily to someone.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Can you loan me your pencil for the test?",
+            "sent2": "I will loan you my umbrella until you find yours.",
+            "sent3": "I decided to loan my brother my video game console.",
+            "sent4": "She will loan her expertise to the project team.",
+            "sent5": "The library will loan books to students for research purposes."
         }
     ]
 }

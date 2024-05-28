@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A person who fails to pay a debt or fulfill an obligation.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The welshers never returned the money they borrowed.",
+            "sent2": "The welshers left town without settling their debts.",
+            "sent3": "The welshers tried to avoid their responsibilities by disappearing.",
+            "sent4": "The welshers were like shadows, always slipping away from their debts.",
+            "sent5": "The welshers were known for their elusive ways of avoiding payments."
         },
         {
             "definition": "To fail to pay a debt or fulfill an obligation.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She welshers on her promise to help with the project.",
+            "sent2": "They welshers on their agreement to pay back the loan.",
+            "sent3": "He welshers on his bet to buy lunch for everyone.",
+            "sent4": "The company welshers on their commitment to deliver the order on time.",
+            "sent5": "The customer welshers on paying for the services provided."
         }
     ]
 }

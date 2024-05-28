@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A person or thing that integrates.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The integrator at work ensured all the departments collaborated effectively.",
+            "sent2": "The new team member proved to be a valuable integrator, bringing everyone together.",
+            "sent3": "The puzzle master was like an integrator, fitting all the pieces perfectly.",
+            "sent4": "Her calming presence acted as an integrator, uniting the conflicting opinions.",
+            "sent5": "The integrator in the group project made sure everyone's ideas were included."
         },
         {
             "definition": "A device or circuit that performs integration.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The electronic integrator calculated the total area under the curve accurately.",
+            "sent2": "The integrator in the lab equipment helped in analyzing the data smoothly.",
+            "sent3": "The malfunctioning integrator decided to sum up all the wrong numbers.",
+            "sent4": "The integrator hummed softly as it processed the incoming signals.",
+            "sent5": "The integrator's output graph displayed the integrated values clearly."
         },
         {
             "definition": "A software application that combines data from different sources.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The integrator software merged the sales and inventory data seamlessly.",
+            "sent2": "Using the integrator program, the company streamlined its data analysis.",
+            "sent3": "The quirky integrator app mixed up the customer names for fun.",
+            "sent4": "The virtual integrator acted like a digital bridge between the databases.",
+            "sent5": "With the integrator tool, the marketing team could access all relevant information easily."
         }
     ]
 }

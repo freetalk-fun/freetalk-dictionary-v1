@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Used for emphasis or to refer back to a thing previously mentioned or easily identified.",
-            "pos": "pronoun"
+            "pos": "pronoun",
+            "sent1": "The cat cleaned itself after playing in the mud.",
+            "sent2": "The book fell off the shelf and landed on itself.",
+            "sent3": "The mirror admired itself for being so shiny.",
+            "sent4": "The tree swayed in the wind, as if it were talking to itself.",
+            "sent5": "The robot fixed itself with its advanced technology."
         },
         {
             "definition": "In its normal or customary condition.",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "The car drove itself down the road smoothly.",
+            "sent2": "The flower bloomed by itself in the garden.",
+            "sent3": "The clock ticked by itself in the silent room.",
+            "sent4": "The river flowed peacefully, as if it were guiding itself.",
+            "sent5": "The fire crackled and warmed itself by the hearth."
         }
     ]
 }

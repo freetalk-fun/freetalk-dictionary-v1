@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A line on a map connecting points of equal value.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The isoline on the map shows where the temperature is the same.",
+            "sent2": "I followed the isoline to find the area with the same elevation.",
+            "sent3": "The isoline on the map looked like a squiggly snake!",
+            "sent4": "The isoline acted as a border between the high and low pressure systems.",
+            "sent5": "The isoline helped me visualize the areas with similar rainfall."
         },
         {
             "definition": "To represent data on a map using isolines.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She decided to isoline the data to make it easier to understand.",
+            "sent2": "The scientist isolined the information to create a clearer picture.",
+            "sent3": "I tried to isoline the map, but it ended up looking like a mess!",
+            "sent4": "By isolining the data, we could see the patterns more clearly.",
+            "sent5": "Isolining the map helped us see where the trends were strongest."
         }
     ]
 }

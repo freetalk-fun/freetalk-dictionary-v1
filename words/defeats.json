@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Overcome in a contest or conflict",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The team defeats their rivals in the final match.",
+            "sent2": "She defeats her fear of heights by climbing the mountain.",
+            "sent3": "The superhero defeats the villain with a clever plan.",
+            "sent4": "Courage defeats fear every time.",
+            "sent5": "The sun defeats the darkness with its bright light."
         },
         {
             "definition": "Cause (someone) to fail or be overcome",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "His overconfidence defeats him in the competition.",
+            "sent2": "Lack of preparation defeats success in many cases.",
+            "sent3": "The slippery floor defeats his attempt to walk gracefully.",
+            "sent4": "Procrastination defeats productivity.",
+            "sent5": "Negativity defeats motivation."
         },
         {
             "definition": "The action of defeating an opponent in a game or battle",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The defeat of the enemy army was a turning point in the war.",
+            "sent2": "The soccer team celebrated their latest defeat of the rival team.",
+            "sent3": "The defeat in chess taught him a valuable lesson about strategy.",
+            "sent4": "The defeat in the game was a bitter pill to swallow.",
+            "sent5": "The defeat in the tournament motivated them to train harder."
         }
     ]
 }

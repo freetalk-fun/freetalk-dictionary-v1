@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To perplex or bewilder",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The magic trick mystifying the audience was truly amazing.",
+            "sent2": "She found the complex riddle mystifying and couldn't solve it.",
+            "sent3": "The way the cat tried to understand the disappearing toy was mystifyingly cute.",
+            "sent4": "His ability to solve the puzzle so quickly mystified everyone around him.",
+            "sent5": "The mysterious disappearance of the key remained mystifying even after hours of searching."
         },
         {
             "definition": "Causing confusion or puzzlement",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The maze was mystifying, with its twisting paths and hidden doors.",
+            "sent2": "The cryptic message on the old map was truly mystifying to the explorers.",
+            "sent3": "The way the teacher explained the math problem was mystifyingly unclear.",
+            "sent4": "The mysterious fog that covered the town was mystifying in its density.",
+            "sent5": "The strange symbols on the ancient artifact remained mystifying to the archaeologists."
         }
     ]
 }

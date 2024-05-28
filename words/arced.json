@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A curved shape or line.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The rainbow formed a beautiful arced in the sky.",
+            "sent2": "I traced the arced of the river on the map.",
+            "sent3": "The arced of the roller coaster made me dizzy.",
+            "sent4": "The arced of her smile brightened up the room.",
+            "sent5": "The graceful arced of the swan's neck caught my eye."
         },
         {
             "definition": "To move in a curved path.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The ball arced through the air and landed in the basket.",
+            "sent2": "The airplane arced gracefully before landing on the runway.",
+            "sent3": "The frisbee arced perfectly into the hands of the waiting dog.",
+            "sent4": "Her shot arced over the defender and into the goal.",
+            "sent5": "The kite arced high in the sky, carried by the wind."
         },
         {
             "definition": "Having a curved shape.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The arced handle of the mug fit perfectly in my hand.",
+            "sent2": "The arced bridge spanned the river elegantly.",
+            "sent3": "The arced tree branches created a natural canopy above us.",
+            "sent4": "The arced road led us through the picturesque countryside.",
+            "sent5": "The arced petals of the flower opened to reveal its beauty."
         }
     ]
 }

@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A machine capable of carrying out a complex series of actions automatically.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The robot in the factory assembled cars efficiently.",
+            "sent2": "I want to build a robot that can help with household chores.",
+            "sent3": "The robot at the airport security checkpoint never gets tired of scanning luggage.",
+            "sent4": "Her brain felt like a robot, processing information at lightning speed.",
+            "sent5": "The robot's precision in surgery saved many lives."
         },
         {
             "definition": "A person who behaves in a mechanical or unemotional manner.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "He seemed like a robot, showing no emotion even in difficult situations.",
+            "sent2": "The teacher spoke like a robot, without any enthusiasm in her voice.",
+            "sent3": "At the party, he danced like a robot, moving stiffly to the music.",
+            "sent4": "Her heart felt like a robot, cold and unfeeling towards others.",
+            "sent5": "The robot's face revealed no hint of emotion, just a blank stare."
         },
         {
             "definition": "To behave in a mechanical or unemotional manner.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She had to robot through the presentation, despite feeling nervous inside.",
+            "sent2": "I tend to robot my way through difficult conversations to avoid conflict.",
+            "sent3": "He decided to robot his way through the boring lecture by doodling in his notebook.",
+            "sent4": "The actor had to robot his lines on stage, even though he forgot them halfway through.",
+            "sent5": "In stressful situations, people often robot their responses to maintain composure."
         }
     ]
 }

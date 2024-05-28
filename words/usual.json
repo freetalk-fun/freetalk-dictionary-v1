@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Habitual or customary",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "Her usual morning routine involved a cup of tea and a short walk.",
+            "sent2": "It is usual for him to take a nap after lunch.",
+            "sent3": "The cat's usual trick was to hide in unexpected places.",
+            "sent4": "The usual suspects were gathered for the surprise party.",
+            "sent5": "The usual path through the forest was blocked by fallen trees."
         },
         {
             "definition": "Commonly encountered or experienced",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The usual route to school was under construction.",
+            "sent2": "It's usual to see birds in the park during the day.",
+            "sent3": "The usual noise of the city was replaced by silence during the blackout.",
+            "sent4": "The usual chatter of the classroom was interrupted by the principal's announcement.",
+            "sent5": "The usual smell of fresh bread filled the bakery in the morning."
         },
         {
             "definition": "Typically or generally occurring",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "She usually arrives at work before 9 a.m.",
+            "sent2": "The flowers bloom usually in the spring.",
+            "sent3": "He sings in the shower usually to start his day with a smile.",
+            "sent4": "The train usually arrives on time, but today it was delayed.",
+            "sent5": "The birds chirp usually at dawn, signaling the start of a new day."
         }
     ]
 }

@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A large quantity or amount",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "She had loads of fun at the party.",
+            "sent2": "There were loads of books on the shelf.",
+            "sent3": "Carrying loads of groceries can be tiring.",
+            "sent4": "His backpack felt like loads of bricks.",
+            "sent5": "The truck was filled with loads of colorful balloons."
         },
         {
             "definition": "To put a load on or in",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He loads the boxes onto the truck.",
+            "sent2": "She loads the laundry into the washing machine.",
+            "sent3": "The squirrel loads its cheeks with nuts.",
+            "sent4": "The worker loads the cargo onto the ship.",
+            "sent5": "They load the paint cans into the van carefully."
         },
         {
             "definition": "To be weighed down or burdened",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The backpack loads heavily on his shoulders.",
+            "sent2": "She loads under the pressure of deadlines.",
+            "sent3": "The donkey loads with hay for the journey.",
+            "sent4": "His heart loads with sorrow after the loss.",
+            "sent5": "The tree loads with snow in the winter."
         }
     ]
 }

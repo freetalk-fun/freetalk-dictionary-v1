@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Out of proportion; not balanced or equal in size or amount.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The cat had a disproportioned tail compared to its small body.",
+            "sent2": "The artist painted a disproportioned face with one eye bigger than the other.",
+            "sent3": "The cake looked disproportioned with a tiny top layer and a huge bottom layer.",
+            "sent4": "Her laughter echoed disproportioned in the empty room, making it seem louder.",
+            "sent5": "The tree's branches were disproportioned, with one side heavy with leaves and the other bare."
         },
         {
             "definition": "To make or cause to be out of proportion.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She disproportioned the picture frame by cutting it unevenly.",
+            "sent2": "The tailor accidentally disproportioned the pants by sewing one leg shorter than the other.",
+            "sent3": "The chef jokingly disproportioned the ingredients, adding too much salt to the dish.",
+            "sent4": "The storm disproportioned the landscape, rearranging rocks and trees in its path.",
+            "sent5": "The architect decided to disproportion the building's design, making one side taller than the other."
         }
     ]
 }

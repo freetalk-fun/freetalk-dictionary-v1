@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Against or in opposition to",
-            "pos": "preposition"
+            "pos": "preposition",
+            "sent1": "The cat ran versus the dog.",
+            "sent2": "It's a battle of good versus evil.",
+            "sent3": "The pencil rolled versus the eraser.",
+            "sent4": "The sun fought versus the moon for the sky.",
+            "sent5": "The hero stood strong versus the villain."
         },
         {
             "definition": "Used to indicate a comparison or contrast between two things",
-            "pos": "conjunction"
+            "pos": "conjunction",
+            "sent1": "I prefer tea versus coffee.",
+            "sent2": "She chose to stay home versus going out.",
+            "sent3": "Pizza versus salad for dinner tonight?",
+            "sent4": "His determination was like a lion versus a mouse.",
+            "sent5": "The colors clashed versus complemented each other."
         }
     ]
 }

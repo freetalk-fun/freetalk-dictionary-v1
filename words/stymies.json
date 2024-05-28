@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To hinder or prevent the progress or accomplishment of something.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The heavy rain stymies our plans for a picnic.",
+            "sent2": "The locked gate stymies our entry into the garden.",
+            "sent3": "The mischievous squirrel stymies our efforts to keep the bird feeder full.",
+            "sent4": "The thick fog stymies our view of the beautiful sunset.",
+            "sent5": "The tangled wires stymie our attempts to set up the new computer."
         },
         {
             "definition": "A situation or obstacle that hinders progress or prevents success.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The lack of funding is a stymie in our project's development.",
+            "sent2": "The unexpected traffic jam was a stymie to our timely arrival.",
+            "sent3": "The broken elevator became a stymie for the residents on the top floor.",
+            "sent4": "The language barrier proved to be a stymie in their communication.",
+            "sent5": "The lost key was a stymie in their search for the hidden treasure."
         }
     ]
 }

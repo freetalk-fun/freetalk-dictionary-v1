@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A brief stay in the course of a journey.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "During our road trip, we made a quick stopover at the gas station to refuel.",
+            "sent2": "The airline announced a short stopover in Chicago before continuing to our final destination.",
+            "sent3": "The squirrel made a stopover at the bird feeder before continuing its journey through the trees.",
+            "sent4": "Her visit to the library was just a stopover on her quest for knowledge.",
+            "sent5": "The pit stop during the race served as a crucial stopover for the winning driver."
         },
         {
             "definition": "A stop made during a journey to change planes or trains.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "We had a stopover in Atlanta to catch our connecting flight to New York.",
+            "sent2": "The train conductor announced a brief stopover in Philadelphia for passengers to switch trains.",
+            "sent3": "The penguin decided to make a stopover at the fish market before boarding the next train to Antarctica.",
+            "sent4": "The layover in Paris was a delightful stopover filled with croissants and sightseeing.",
+            "sent5": "The stopover in Tokyo allowed us to experience a taste of Japanese culture before reaching our final destination."
         }
     ]
 }

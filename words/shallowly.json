@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To a shallow extent",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She swam shallowly in the pool, barely getting her feet wet.",
+            "sent2": "He dug the hole shallowly, not reaching the required depth.",
+            "sent3": "The cat scratched the surface shallowly, pretending to bury its toy.",
+            "sent4": "The roots of the tree spread shallowly, struggling to anchor it firmly.",
+            "sent5": "The child breathed shallowly, mimicking a fish out of water."
         },
         {
             "definition": "Lacking depth or profundity",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The story was shallowly written, lacking any real emotion.",
+            "sent2": "Her shallowly painted artwork failed to capture the viewers' attention.",
+            "sent3": "The shallowly planted flowers wilted quickly in the harsh sun.",
+            "sent4": "His shallowly thought-out plan backfired, causing chaos.",
+            "sent5": "The shallowly carved sculpture looked amateurish compared to the others."
         },
         {
             "definition": "Superficially",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "She only glanced at the book shallowly, not truly reading it.",
+            "sent2": "He apologized shallowly, without sincerity in his voice.",
+            "sent3": "The student studied shallowly, hoping to pass the test with luck.",
+            "sent4": "The detective only investigated the case shallowly, missing crucial clues.",
+            "sent5": "The singer performed the song shallowly, without any emotional connection."
         }
     ]
 }

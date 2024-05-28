@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A liquid food made by boiling meat, fish, or vegetables in water.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I love to eat soup on cold days.",
+            "sent2": "My mom makes the best chicken noodle soup.",
+            "sent3": "When I spilled my drink, it looked like a soup on the table.",
+            "sent4": "The city streets were a soup of cars during rush hour.",
+            "sent5": "The soup bubbled in the pot, filling the kitchen with a delicious aroma."
         },
         {
             "definition": "To increase the power or effectiveness of something.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Adding more spices can soup up the flavor of the dish.",
+            "sent2": "The new software update will soup up your computer's performance.",
+            "sent3": "I decided to soup up my bike with a shiny new bell.",
+            "sent4": "The motivational speaker's words souped up the team's enthusiasm.",
+            "sent5": "The superhero's suit was souped up with high-tech gadgets for extra strength."
         }
     ]
 }

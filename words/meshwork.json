@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A network of interlaced threads or fibers",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The spider's web was a delicate meshwork of silk threads.",
+            "sent2": "The fishing net was a sturdy meshwork of ropes and knots.",
+            "sent3": "The knitting club accidentally turned the park into a giant meshwork of yarn.",
+            "sent4": "The city's transportation system is a complex meshwork connecting different neighborhoods.",
+            "sent5": "The artist created a beautiful meshwork of colors in the painting."
         },
         {
             "definition": "To form a network or interlaced structure",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She carefully meshworked the wires to create a strong fence.",
+            "sent2": "The vines meshwork together to form a natural canopy in the forest.",
+            "sent3": "The children's game of tag turned into a chaotic meshwork of running and laughing.",
+            "sent4": "His thoughts meshwork seamlessly, leading to a brilliant solution.",
+            "sent5": "The dancers meshwork their movements to create a mesmerizing performance."
         }
     ]
 }

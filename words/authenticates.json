@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To prove or show to be true or genuine",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The signature on the document authenticates its validity.",
+            "sent2": "The stamp on the letter authenticates its origin.",
+            "sent3": "The certificate of authenticity authenticates the painting as genuine.",
+            "sent4": "The DNA test authenticates the biological relationship between the siblings.",
+            "sent5": "The official seal authenticates the document beyond doubt."
         },
         {
             "definition": "To confirm the validity or accuracy of",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The test results authenticate the effectiveness of the new medicine.",
+            "sent2": "The witness will authenticate the accuracy of the statement.",
+            "sent3": "The fingerprint scan authenticates the user's identity in a fun way.",
+            "sent4": "The time stamp authenticates the sequence of events.",
+            "sent5": "The approval stamp authenticates the official decision clearly."
         },
         {
             "definition": "To verify the identity of someone or something",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The security guard authenticates visitors before allowing them inside.",
+            "sent2": "The password authenticates the user's identity before granting access.",
+            "sent3": "The ID card authenticates the student's identity in a light-hearted manner.",
+            "sent4": "The key authenticates the owner of the locker.",
+            "sent5": "The voice recognition system authenticates the speaker with precision."
         }
     ]
 }

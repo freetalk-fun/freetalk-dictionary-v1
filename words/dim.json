@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Not bright or clear",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The room was dim, with only a small lamp providing light.",
+            "sent2": "The stars were dim in the night sky, hidden by the clouds.",
+            "sent3": "She struggled to read the dim text on the old, worn-out book.",
+            "sent4": "His memory of that day grew dim over the years, like a fading photograph.",
+            "sent5": "The dim glow of the fireflies lit up the garden in a magical way."
         },
         {
             "definition": "To make or become less bright",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He tried to dim the lights in the room to create a cozy atmosphere.",
+            "sent2": "The sunset slowly dimmed as the night approached.",
+            "sent3": "The magician dimmed the stage lights to add mystery to his act.",
+            "sent4": "The storm clouds dimmed the sunlight, casting a shadow over the field.",
+            "sent5": "The city lights dimmed as the power outage spread across the neighborhood."
         },
         {
             "definition": "Lacking in perception or understanding",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "His dim understanding of the subject made it hard for him to pass the test.",
+            "sent2": "The dim student struggled to grasp the concept explained by the teacher.",
+            "sent3": "She had a dim awareness of the dangers lurking in the forest.",
+            "sent4": "The dim light shed on the situation left him confused and unsure.",
+            "sent5": "His dim comprehension of the instructions led to a series of mistakes."
         }
     ]
 }

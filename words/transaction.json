@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "An instance of buying or selling something.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I completed a transaction at the store by purchasing a new book.",
+            "sent2": "The online transaction for the concert tickets went smoothly.",
+            "sent3": "During the transaction, the cashier accidentally scanned the same item twice.",
+            "sent4": "His smile was a transaction for the book he bought, showing his satisfaction.",
+            "sent5": "The transaction of handing over the money felt like a significant moment."
         },
         {
             "definition": "An exchange or interaction between people.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Their transaction of greetings was warm and friendly.",
+            "sent2": "The transaction of ideas during the meeting was productive.",
+            "sent3": "In the transaction of jokes, everyone burst into laughter.",
+            "sent4": "The transaction of opinions led to a lively debate.",
+            "sent5": "The transaction of smiles between the friends conveyed their happiness."
         },
         {
             "definition": "The act of conducting business or other dealings.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The successful transaction between the companies boosted their profits.",
+            "sent2": "She handled the transaction with professionalism and efficiency.",
+            "sent3": "The transaction of negotiations lasted for hours.",
+            "sent4": "His transaction of closing the deal impressed his colleagues.",
+            "sent5": "The transaction of signing the contract marked a new beginning for the partnership."
         }
     ]
 }

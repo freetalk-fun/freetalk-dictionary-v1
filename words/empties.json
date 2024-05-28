@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To remove the contents of (a container)",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She empties the trash every evening.",
+            "sent2": "He empties his backpack after school.",
+            "sent3": "The magician empties the hat, but no rabbit appears.",
+            "sent4": "His laughter empties the room of tension.",
+            "sent5": "The river empties into the vast ocean."
         },
         {
             "definition": "Containers that are empty",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The recycling bin is full of empties.",
+            "sent2": "She collected all the empties for recycling.",
+            "sent3": "The party was over, and all that remained were the empties.",
+            "sent4": "The field was scattered with empties after the festival.",
+            "sent5": "The shelf held a row of empties waiting to be filled again."
         }
     ]
 }

@@ -3,19 +3,39 @@
     "meanings": [
         {
             "definition": "Record of events or activities",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The teacher kept a detailed logged of all the classroom activities.",
+            "sent2": "I found an old logged of my childhood memories in the attic.",
+            "sent3": "The detective's logged of suspects helped solve the case quickly.",
+            "sent4": "Her journal was like a personal logged of her thoughts and experiences.",
+            "sent5": "The ship's captain maintained a meticulous logged of the crew's duties."
         },
         {
             "definition": "Entered into a computer system",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She logged into her email account to check for new messages.",
+            "sent2": "Please remember to log out of the system when you're done.",
+            "sent3": "The student accidentally logged into the wrong class's online session.",
+            "sent4": "He quickly logged the data before the computer crashed.",
+            "sent5": "The IT technician logged the error for future reference."
         },
         {
             "definition": "Cut down trees for timber",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The lumberjacks logged the forest to provide wood for construction.",
+            "sent2": "They needed to log the area to make space for the new building.",
+            "sent3": "The beavers were upset when humans started logging near their dam.",
+            "sent4": "The company decided to log the old growth forest despite protests.",
+            "sent5": "The environmentalist campaigned against logging in the national park."
         },
         {
             "definition": "Traveling by watercraft",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The family enjoyed a peaceful logged along the river on their boat.",
+            "sent2": "We decided to take a logged to the nearby island for a day trip.",
+            "sent3": "The guided logged on the lake was both informative and relaxing.",
+            "sent4": "The tourists booked a sunset logged to admire the coastline.",
+            "sent5": "The captain announced the start of the logged across the bay."
         }
     ]
 }

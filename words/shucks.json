@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "An exclamation of disappointment or annoyance.",
-            "pos": "interjection"
+            "pos": "interjection",
+            "sent1": "Shucks! I dropped my ice cream.",
+            "sent2": "Oh shucks, I forgot my homework at home.",
+            "sent3": "Shucks, I missed the bus again!",
+            "sent4": "Shucks, the rain ruined our picnic plans.",
+            "sent5": "Shucks, I burnt the cookies I was baking."
         },
         {
             "definition": "To remove the outer covering or shell from (such as corn).",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She carefully shucks the corn before cooking it.",
+            "sent2": "Farmers shuck corn to prepare it for sale.",
+            "sent3": "He shucks the corn with ease, having done it many times before.",
+            "sent4": "The chef skillfully shucks the oysters for the dish.",
+            "sent5": "The children love to help shuck peas for dinner."
         },
         {
             "definition": "To discard or reject something as unimportant or worthless.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He decided to shuck the old clothes he never wore.",
+            "sent2": "She shucks the idea of going to the movies tonight.",
+            "sent3": "They shuck the broken toy into the trash.",
+            "sent4": "The company will shuck the outdated technology for newer models.",
+            "sent5": "The teacher will shuck the incorrect answers from the test."
         }
     ]
 }

@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To connect or join together",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I am linking the pieces of the puzzle to complete the picture.",
+            "sent2": "The bridge is linking the two sides of the river.",
+            "sent3": "The magician's trick involved linking two rings together.",
+            "sent4": "Her smile was like a bridge linking our hearts.",
+            "sent5": "The thread linking us together was unbreakable."
         },
         {
             "definition": "A relationship or connection between things",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The strong linking between the siblings was evident in their actions.",
+            "sent2": "There is a deep linking between music and emotions.",
+            "sent3": "The linking between the cat and the mouse was surprisingly friendly.",
+            "sent4": "The linking between the teacher and the student was like a bond.",
+            "sent5": "The linking between the stars in the sky was mesmerizing."
         },
         {
             "definition": "A URL or hyperlink on a webpage that directs to another webpage",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The website has a linking to their social media page.",
+            "sent2": "Click on the linking to access more information.",
+            "sent3": "The linking on the blog led to a funny cat video.",
+            "sent4": "The linking on the homepage was like a gateway to explore further.",
+            "sent5": "The colorful linking on the website caught my attention."
         }
     ]
 }

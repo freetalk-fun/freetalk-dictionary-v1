@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A compound in which molecules of one component are physically trapped within the crystal lattice of another component.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The clathrate held the gas molecules securely within its structure.",
+            "sent2": "Scientists study the properties of clathrates to understand their unique structure.",
+            "sent3": "The clathrate was like a tiny jail for the molecules, keeping them locked up.",
+            "sent4": "The clathrate acted as a molecular cage, confining the particles within.",
+            "sent5": "The clathrate's lattice was like a maze, trapping the molecules inside."
         },
         {
             "definition": "To form a clathrate structure.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The chemist clathrated the molecules to create a stable compound.",
+            "sent2": "Over time, the water clathrates in the icy environment.",
+            "sent3": "The bubbles in the soda clathrate together to form a fizzy drink.",
+            "sent4": "The crystals clathrate around the impurities, purifying the substance.",
+            "sent5": "The snowflakes clathrate into a solid mass, covering the ground."
         }
     ]
 }

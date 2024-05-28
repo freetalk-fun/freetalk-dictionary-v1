@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To put something down in a flat or horizontal position.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Please lay the book on the table.",
+            "sent2": "She likes to lay out her clothes for the next day.",
+            "sent3": "The cat decided to lay on the warm blanket.",
+            "sent4": "The sun will lay its rays across the field at dawn.",
+            "sent5": "He carefully lay the fragile vase on the shelf."
         },
         {
             "definition": "To produce eggs.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The hen will lay eggs in the coop.",
+            "sent2": "Birds lay eggs in nests to keep them safe.",
+            "sent3": "The Easter bunny doesn't lay chocolate eggs.",
+            "sent4": "The golden goose will lay a magical egg.",
+            "sent5": "The robin will lay blue eggs in the spring."
         },
         {
             "definition": "A simple narrative poem or song.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "She wrote a lay about the hero's journey.",
+            "sent2": "The bard sang a lay of love and loss.",
+            "sent3": "The children enjoyed listening to the lay by the campfire.",
+            "sent4": "The lay of the troubadour captivated the audience.",
+            "sent5": "The ancient lay told of a brave knight's quest."
         }
     ]
 }

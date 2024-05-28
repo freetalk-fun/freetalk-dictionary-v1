@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A strong, offensive smell; stench.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The foetor from the garbage bin was unbearable.",
+            "sent2": "The foetor of rotten eggs filled the room.",
+            "sent3": "The foetor in the old gym socks could wake the dead.",
+            "sent4": "The foetor of failure hung heavy in the air.",
+            "sent5": "The foetor of decay lingered long after the meal was over."
         },
         {
             "definition": "To emit a strong, offensive smell.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The dumpster foetored after days in the sun.",
+            "sent2": "The flowers foetor attracted flies to the garden.",
+            "sent3": "The cheese foetored so strongly, it set off the smoke alarm.",
+            "sent4": "The socks foetor permeated the entire room.",
+            "sent5": "The garbage foetored so much, the neighbors complained."
         }
     ]
 }

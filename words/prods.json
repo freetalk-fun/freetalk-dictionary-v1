@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Poke or jab with a finger or pointed object.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She prods the dough to check if it's ready.",
+            "sent2": "He prods the cat gently to get its attention.",
+            "sent3": "The curious kitten prods at the shiny toy with its tiny paw.",
+            "sent4": "The detective prods the suspect for more information.",
+            "sent5": "The teacher prods the students to participate in class discussions."
         },
         {
             "definition": "A pointed or tapered object used for prodding or poking.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The farmer uses a prod to guide the cattle.",
+            "sent2": "She bought a new prod for her gardening tasks.",
+            "sent3": "The child pretends a stick is a prod while playing cowboys.",
+            "sent4": "The shepherd's prod helped him lead the sheep to greener pastures.",
+            "sent5": "The explorer's prod was essential for navigating through dense vegetation."
         },
         {
             "definition": "Encourage or urge someone to do something.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He prods his friend to join him on the adventure.",
+            "sent2": "She prods her brother to finish his homework.",
+            "sent3": "The coach prods the team to give their best performance.",
+            "sent4": "The motivational speaker prods the audience to pursue their dreams.",
+            "sent5": "The parent prods their child to try new experiences."
         }
     ]
 }

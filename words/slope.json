@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A surface of which one end or side is at a higher level than another; a rising or falling surface.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The slope of the hill made it difficult to climb.",
+            "sent2": "The skier glided down the slope effortlessly.",
+            "sent3": "The slope of the driveway caused the car to roll back.",
+            "sent4": "Her smile had a gentle slope, like a hill in spring.",
+            "sent5": "The slope of the roof was so steep, it looked like a slide."
         },
         {
             "definition": "To lean or incline in a particular direction; to slant.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She had to slope her head to see around the corner.",
+            "sent2": "The road began to slope downwards as they descended.",
+            "sent3": "The tower seemed to slope to one side, as if tired.",
+            "sent4": "His handwriting started to slope upwards with excitement.",
+            "sent5": "The tree seemed to slope towards the sunlight, reaching for warmth."
         },
         {
             "definition": "To move or go in a particular direction with a continuous motion.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The river slope gently towards the sea.",
+            "sent2": "The car started to slope downwards on the steep hill.",
+            "sent3": "The ball seemed to slope towards the goal on its own.",
+            "sent4": "Her voice seemed to slope upwards in excitement.",
+            "sent5": "The path seemed to slope downwards into the dark forest."
         }
     ]
 }

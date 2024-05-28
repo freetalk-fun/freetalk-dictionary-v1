@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A mass of coagulated material.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The doctor removed the coagulums from the patient's wound.",
+            "sent2": "The coagulums in the blood helped stop the bleeding.",
+            "sent3": "The coagulums on the kitchen counter looked like spilled milk.",
+            "sent4": "The coagulums of clouds in the sky signaled an incoming storm.",
+            "sent5": "The coagulums of cheese on the pizza made it extra delicious."
         },
         {
             "definition": "To cause a liquid to become semisolid or solid.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The chef used rennet to coagulums the milk for cheese making.",
+            "sent2": "The chemical reaction coagulums the mixture into a gel-like substance.",
+            "sent3": "The magician's spell seemed to coagulums the water into a solid block.",
+            "sent4": "The artist's creativity coagulums the colors into a beautiful painting.",
+            "sent5": "The cold temperature coagulums the liquid into ice within minutes."
         }
     ]
 }

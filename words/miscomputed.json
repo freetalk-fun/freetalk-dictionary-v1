@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To calculate incorrectly.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She miscomputed the total and ended up with the wrong answer.",
+            "sent2": "The student miscomputed the sum of the numbers in the math problem.",
+            "sent3": "In a moment of distraction, he miscomputed the bill at the restaurant.",
+            "sent4": "Her mind was like a foggy window, causing her to miscompute the measurements.",
+            "sent5": "The consequences of miscomputing can lead to confusion and mistakes."
         },
         {
             "definition": "Incorrectly calculated.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The miscomputed result was way off from the actual value.",
+            "sent2": "The miscomputed data skewed the final analysis.",
+            "sent3": "The miscomputed estimate made everyone chuckle at the meeting.",
+            "sent4": "His miscomputed measurements made the project take longer than expected.",
+            "sent5": "The miscomputed figures painted a misleading picture of the situation."
         }
     ]
 }

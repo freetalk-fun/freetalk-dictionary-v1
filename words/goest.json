@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Second person singular present form of go.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Where goest thou?",
+            "sent2": "He goest to the store.",
+            "sent3": "The cat goest on a grand adventure.",
+            "sent4": "Her dreams goest beyond the stars.",
+            "sent5": "Goest swiftly like the wind."
         },
         {
             "definition": "Used to indicate motion or direction.",
-            "pos": "preposition"
+            "pos": "preposition",
+            "sent1": "The car goest down the road.",
+            "sent2": "The river goest towards the ocean.",
+            "sent3": "The arrow goest straight to the target.",
+            "sent4": "Her gaze goest beyond the horizon.",
+            "sent5": "The path goest through the forest."
         },
         {
             "definition": "To proceed or move.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She goest slowly up the stairs.",
+            "sent2": "The train goest along the tracks.",
+            "sent3": "The turtle goest at its own pace.",
+            "sent4": "Time goest forward, never back.",
+            "sent5": "The sun goest down in the evening."
         }
     ]
 }

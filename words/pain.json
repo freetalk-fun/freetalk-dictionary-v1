@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Physical suffering or discomfort caused by illness or injury.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The sharp pain in my leg made it hard to walk.",
+            "sent2": "She winced in pain as the nurse cleaned her wound.",
+            "sent3": "The pain in my back from sitting too long is a reminder to take breaks.",
+            "sent4": "The pain of losing a loved one is like a heavy weight on the heart.",
+            "sent5": "The throbbing pain in my head felt like a hammer striking repeatedly."
         },
         {
             "definition": "Mental or emotional suffering or distress.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Her heart was filled with pain after the breakup.",
+            "sent2": "The pain of loneliness can be overwhelming at times.",
+            "sent3": "Finding out I missed the concert tickets was a real pain.",
+            "sent4": "The pain of betrayal cut deep into her trust.",
+            "sent5": "The pain of rejection lingered long after the interview."
         },
         {
             "definition": "A feeling of distress or unease.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The pain in her stomach before the exam was unbearable.",
+            "sent2": "He felt a sharp pain in his chest when he heard the bad news.",
+            "sent3": "The pain of uncertainty gnawed at her throughout the day.",
+            "sent4": "The pain of regret weighed heavily on his mind.",
+            "sent5": "The pain of indecision paralyzed her ability to choose."
         }
     ]
 }

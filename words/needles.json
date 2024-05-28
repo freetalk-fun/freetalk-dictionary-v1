@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A small, slender, pointed object used for sewing or medical purposes.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "My grandma uses needles to sew beautiful dresses.",
+            "sent2": "The nurse carefully inserted the needles into the patient's arm.",
+            "sent3": "The mischievous kitten played with the needles, thinking they were toys.",
+            "sent4": "Her words were like needles, piercing through his heart.",
+            "sent5": "The haystack was a dangerous place, hiding sharp needles within its depths."
         },
         {
             "definition": "To provoke or annoy someone.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Please don't needles your little brother, he's already upset.",
+            "sent2": "The teasing remarks began to needles him, making him feel frustrated.",
+            "sent3": "His constant jokes seemed to needles her, but she secretly found them funny.",
+            "sent4": "The persistent rain needled at their patience, causing them to seek shelter.",
+            "sent5": "The annoying sound of the dripping faucet needled her nerves, making it hard to concentrate."
         },
         {
             "definition": "To move swiftly and lightly.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The dancer gracefully needles across the stage, captivating the audience.",
+            "sent2": "The agile squirrel needles through the branches, searching for nuts.",
+            "sent3": "The butterfly needled from flower to flower, spreading pollen as it went.",
+            "sent4": "The athlete needled through the obstacles, reaching the finish line in record time.",
+            "sent5": "The wind needled through the trees, creating a soothing rustling sound."
         }
     ]
 }

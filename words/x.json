@@ -3,23 +3,48 @@
     "meanings": [
         {
             "definition": "A letter of the alphabet.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The word 'box' starts with an x.",
+            "sent2": "I learned the alphabet and 'x' is a letter.",
+            "sent3": "I found a treasure map with an 'x' marking the spot.",
+            "sent4": "Her eyes met mine, and it was like an 'x' marking the spot where we connected.",
+            "sent5": "The 'x' in the equation represented an unknown value waiting to be discovered."
         },
         {
             "definition": "A variable representing an unknown quantity in mathematics.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "In math class, we had to solve for 'x' in the equation.",
+            "sent2": "The teacher explained that 'x' stands for an unknown number.",
+            "sent3": "I felt like a detective trying to uncover the mystery of 'x' in the equation.",
+            "sent4": "The 'x' in the equation was like a hidden treasure waiting to be found.",
+            "sent5": "Understanding the value of 'x' was the key to solving the math problem."
         },
         {
             "definition": "To mark or indicate a spot or location.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Please 'x' the spot where we should meet.",
+            "sent2": "I used a pen to 'x' the location on the map.",
+            "sent3": "He decided to 'x' the spot with a giant neon sign.",
+            "sent4": "Her laughter seemed to 'x' the exact spot where joy resided.",
+            "sent5": "The guide asked us to 'x' the starting point of our journey."
         },
         {
             "definition": "To cancel or remove something from consideration.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I had to 'x' that idea from the list of possibilities.",
+            "sent2": "She decided to 'x' the old plan and start fresh.",
+            "sent3": "He wanted to 'x' the bad memories from his mind.",
+            "sent4": "The decision to 'x' the project was like closing a chapter in their lives.",
+            "sent5": "Sometimes it's necessary to 'x' the past in order to move forward."
         },
         {
             "definition": "A symbol for a kiss at the end of a letter.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "She signed the card with an 'x' at the end.",
+            "sent2": "In old movies, they used to send letters with an 'x' for a kiss.",
+            "sent3": "He jokingly drew an 'x' on his friend's cheek as a kiss.",
+            "sent4": "The 'x' at the end of the letter was like a sweet goodbye.",
+            "sent5": "The handwritten 'x' felt like a warm hug at the end of the message."
         }
     ]
 }

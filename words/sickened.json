@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To become ill or unwell",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "After eating the spoiled food, he sickened quickly.",
+            "sent2": "She sickened with the flu and had to stay in bed.",
+            "sent3": "The idea of eating snails sickened him, but he tried them anyway.",
+            "sent4": "The sight of the gruesome scene sickened her to the core.",
+            "sent5": "The smell of the rotten fruit sickened everyone in the room."
         },
         {
             "definition": "To cause someone to feel disgusted or repulsed",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The gruesome movie sickened the audience with its graphic scenes.",
+            "sent2": "The spoiled milk sickened her when she took a sip.",
+            "sent3": "The slimy texture of the food sickened him, but he ate it to be polite.",
+            "sent4": "The putrid smell of the garbage sickened the entire neighborhood.",
+            "sent5": "The taste of the bitter medicine sickened the child, making it hard for him to swallow."
         },
         {
             "definition": "To become emotionally or mentally disturbed",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The tragic news sickened her heart, leaving her in a state of sorrow.",
+            "sent2": "He sickened with worry as he waited for the test results.",
+            "sent3": "The eerie silence of the abandoned house sickened his mind with fear.",
+            "sent4": "The constant stress at work sickened his spirit, making him feel drained.",
+            "sent5": "The disturbing images in the horror movie sickened his thoughts, haunting him for days."
         }
     ]
 }

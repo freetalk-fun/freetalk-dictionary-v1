@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To produce or deliver output.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The printer outputted the document quickly.",
+            "sent2": "She outputted the data onto the screen.",
+            "sent3": "The robot outputted a funny noise instead of the expected sound.",
+            "sent4": "Her creativity outputted a masterpiece that amazed everyone.",
+            "sent5": "The factory outputted goods at a rapid pace to meet demand."
         },
         {
             "definition": "The amount of something produced by a person, machine, or industry.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The outputted results were impressive.",
+            "sent2": "The outputted goods were ready for shipment.",
+            "sent3": "The unexpected increase in outputted items caused a storage issue.",
+            "sent4": "The outputted data flooded the system, causing a crash.",
+            "sent5": "The quality of the outputted products exceeded expectations."
         }
     ]
 }

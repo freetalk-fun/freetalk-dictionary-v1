@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To guess incorrectly.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She misguessed the answer on the test.",
+            "sent2": "He always misguessed the number of jellybeans in the jar.",
+            "sent3": "The magician misguessed the card, much to the audience's amusement.",
+            "sent4": "Her intuition misguessed the outcome of the game.",
+            "sent5": "The detective's misguessed theory led to a dead end in the case."
         },
         {
             "definition": "Incorrectly guessed.",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "He looked at her misguessed.",
+            "sent2": "The price was misguessed by the cashier.",
+            "sent3": "She sang the song misguessed, making everyone laugh.",
+            "sent4": "The weather forecast misguessed the storm's arrival time.",
+            "sent5": "The student answered the question misguessed, causing confusion in the class."
         }
     ]
 }

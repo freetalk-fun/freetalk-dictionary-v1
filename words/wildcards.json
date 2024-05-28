@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A symbol used in search queries to represent any unknown character or characters.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "When searching online, you can use wildcards like '*' to find words with unknown letters.",
+            "sent2": "The use of wildcards in search engines helps broaden the results.",
+            "sent3": "I tried to guess the password, but the wildcards made it impossible to crack!",
+            "sent4": "Her personality was like a wildcard, always surprising us with unexpected actions.",
+            "sent5": "The concept of wildcards in searches is like having a secret code to unlock hidden information."
         },
         {
             "definition": "A playing card that can have any value in a game.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "During the game, the player drew a wildcard that could be any card they needed.",
+            "sent2": "In the deck, the joker card often serves as a wildcard for various games.",
+            "sent3": "The wildcard in the deck turned the tide of the game in an unexpected way.",
+            "sent4": "His unpredictable strategy in the card game made him the wildcard of the group.",
+            "sent5": "The wildcard in the game was like a hidden ace up his sleeve, ready to surprise everyone."
         },
         {
             "definition": "A person or thing that is unpredictable or uncontrollable.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "She's a wildcard in our group, you never know what she'll do next.",
+            "sent2": "Dealing with a wildcard like him can be challenging due to his unpredictable nature.",
+            "sent3": "His wildcards always keep us on our toes, adding excitement to our routine.",
+            "sent4": "Life is full of wildcards, making each day an adventure waiting to unfold.",
+            "sent5": "The unpredictable weather is a wildcard that can change our plans in an instant."
         }
     ]
 }

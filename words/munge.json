@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Munge (verb): to modify data in a way that makes it unreadable or meaningless",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I accidentally munged the important file while trying to fix it.",
+            "sent2": "Programmers often munge code to protect sensitive information.",
+            "sent3": "The computer munged the document, turning it into a jumble of random characters.",
+            "sent4": "Her emotions were munged beyond recognition after the breakup.",
+            "sent5": "The magician's spell seemed to munge reality itself, creating a surreal scene."
         },
         {
             "definition": "Munge (noun): a mixture of various substances or elements",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The potion was a strange munge of herbs and spices.",
+            "sent2": "The artist created a beautiful painting using a colorful munge of paints.",
+            "sent3": "The chef's experimental dish turned out to be a delicious munge of flavors.",
+            "sent4": "The forest floor was a munge of fallen leaves and twigs.",
+            "sent5": "The treasure chest contained a mysterious munge of jewels and coins."
         },
         {
             "definition": "Munge (adjective): messy or disorganized",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "Her desk was always munge with papers and stationery.",
+            "sent2": "The attic was a munge space filled with forgotten items.",
+            "sent3": "The party ended with a munge room, but everyone had a great time.",
+            "sent4": "The garden looked munge after the storm passed through.",
+            "sent5": "The old house had a charmingly munge appearance, full of character."
         }
     ]
 }

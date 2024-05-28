@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To interrupt the quiet, rest, peace, or order of; unsettle",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The loud noise disturbs my sleep every night.",
+            "sent2": "Please do not disturb the class while they are taking a test.",
+            "sent3": "The mischievous puppy disturbs the calm of the house with its playful antics.",
+            "sent4": "The unexpected news disturbed the tranquility of the peaceful town.",
+            "sent5": "The sudden thunderstorm disturbed the peaceful afternoon with its loud thunder."
         },
         {
             "definition": "To interfere with; interrupt",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The phone call disturbed our conversation at the restaurant.",
+            "sent2": "I hope my loud music does not disturb the neighbors.",
+            "sent3": "The noisy birds disturbed the quiet of the early morning.",
+            "sent4": "The unexpected visitor disturbed the flow of the meeting.",
+            "sent5": "The barking dog disturbed the silence of the night with its loud howls."
         },
         {
             "definition": "To agitate or stir up; arouse from a state of rest",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The strong winds disturb the calm surface of the lake.",
+            "sent2": "Please do not disturb the settled dust on the shelves.",
+            "sent3": "The mischievous child disturbed the sleeping cat by poking it.",
+            "sent4": "The controversial topic disturbed the peace among the friends.",
+            "sent5": "The loud music disturbed the quiet atmosphere of the library."
         }
     ]
 }

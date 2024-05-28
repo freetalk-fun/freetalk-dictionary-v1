@@ -3,19 +3,39 @@
     "meanings": [
         {
             "definition": "The flat area between the waist and knees of a seated person.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "She placed the book on her lap.",
+            "sent2": "The cat curled up on my lap for a nap.",
+            "sent3": "The puppy tried to climb onto her lap, thinking it was a comfy bed.",
+            "sent4": "The sun warmed the picnic blanket, turning it into a cozy lap.",
+            "sent5": "His lap was the perfect spot for the sleepy toddler to rest."
         },
         {
             "definition": "To take in liquid with the tongue.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The dog eagerly lapped up the spilled milk.",
+            "sent2": "She carefully lapped the soup from the bowl.",
+            "sent3": "The thirsty kitten lapped at the water in the bowl noisily.",
+            "sent4": "The waves lapped against the shore, mimicking the cat's drinking.",
+            "sent5": "He lapped the ice cream quickly before it melted."
         },
         {
             "definition": "To move gently up and down.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The boat gently lapped against the dock.",
+            "sent2": "The curtains lapped in the breeze from the open window.",
+            "sent3": "The flag lapped against the pole in the wind, making a soft sound.",
+            "sent4": "The flames lapped at the logs in the fireplace, providing warmth.",
+            "sent5": "Her hair lapped against her shoulders as she walked."
         },
         {
             "definition": "One circuit around a race track.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The car completed another lap around the track.",
+            "sent2": "The runner sprinted the final lap to the finish line.",
+            "sent3": "The bicycle race had the crowd cheering for each lap completed.",
+            "sent4": "The horse galloped around the track, leading in every lap.",
+            "sent5": "The swimmers raced against each other, trying to finish the last lap first."
         }
     ]
 }

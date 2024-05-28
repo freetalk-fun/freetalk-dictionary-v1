@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "The front side or facing direction of something.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The house's foreside had a beautiful garden.",
+            "sent2": "She painted the foreside of the building in bright colors.",
+            "sent3": "The cat sat on the foreside of the window, watching the birds outside.",
+            "sent4": "The foreside of the bookshelf displayed her favorite books like a proud peacock.",
+            "sent5": "The sun rose over the foreside of the mountain, casting a warm glow."
         },
         {
             "definition": "The side of a ship that faces forward.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The sailors gathered on the foreside of the ship to watch the sunrise.",
+            "sent2": "The captain stood on the foreside, scanning the horizon for land.",
+            "sent3": "The seagulls perched on the foreside, enjoying the sea breeze.",
+            "sent4": "The waves crashed against the foreside of the ship, spraying salty mist.",
+            "sent5": "The crew painted the ship's foreside with the emblem of a golden anchor."
         },
         {
             "definition": "To be located or situated on the front side of something.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The mailbox foresides the house, making it easy for the postman to deliver mail.",
+            "sent2": "His office foresides the park, offering a peaceful view during work hours.",
+            "sent3": "The cafe foresides the busy street, attracting customers with its cozy atmosphere.",
+            "sent4": "Her artwork foresides the gallery entrance, drawing visitors in with vibrant colors.",
+            "sent5": "The playground foresides the school, providing a fun space for children to play."
         }
     ]
 }

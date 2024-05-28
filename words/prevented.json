@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To stop something from happening",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She prevented the cat from running outside.",
+            "sent2": "The lock on the door prevented any intruders from entering.",
+            "sent3": "The superhero prevented the villain's escape with a clever trap.",
+            "sent4": "His quick thinking prevented a disaster from unfolding.",
+            "sent5": "The vaccine prevented the spread of the disease effectively."
         },
         {
             "definition": "To keep something from happening",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The fence prevented the dog from wandering off.",
+            "sent2": "Regular exercise can prevent health issues.",
+            "sent3": "The umbrella prevented the raindrops from ruining her hair.",
+            "sent4": "His warning prevented a misunderstanding between friends.",
+            "sent5": "Wearing a helmet prevented a serious injury during the accident."
         },
         {
             "definition": "To hinder or obstruct something from occurring",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The heavy traffic prevented us from reaching the airport on time.",
+            "sent2": "The thick fog prevented clear visibility on the road.",
+            "sent3": "The tangled wires prevented the computer from turning on.",
+            "sent4": "The language barrier prevented effective communication.",
+            "sent5": "The closed gate prevented access to the garden."
         }
     ]
 }

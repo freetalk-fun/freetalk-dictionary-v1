@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A discoloration of the skin caused by injury",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "She had colorful bruises on her arm from the fall.",
+            "sent2": "The bruises on his face showed where he had been hit.",
+            "sent3": "The rainbow bruises on her leg made her look like a walking art project.",
+            "sent4": "The bruises on the apple indicated it was overripe.",
+            "sent5": "The bruises on the peach were like little purple kisses."
         },
         {
             "definition": "To injure without breaking the skin",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He bruises easily, so he avoids rough sports.",
+            "sent2": "Be careful not to bruise the fruit when picking it.",
+            "sent3": "She playfully tried to bruise his ego with her teasing.",
+            "sent4": "His harsh words bruised her feelings deeply.",
+            "sent5": "The harsh criticism bruised his confidence."
         },
         {
             "definition": "To damage or spoil (something)",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The storm bruises the delicate flowers in the garden.",
+            "sent2": "Please handle the fragile items carefully to avoid bruising them.",
+            "sent3": "His careless actions bruised their friendship.",
+            "sent4": "The negative comments bruised her self-esteem.",
+            "sent5": "The harsh treatment bruised the company's reputation."
         }
     ]
 }

@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Anything or everything that",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I will eat whatever is on my plate.",
+            "sent2": "She picked up whatever was left on the floor.",
+            "sent3": "The cat will chase whatever moves.",
+            "sent4": "The treasure hunters were excited to find whatever lay hidden in the cave.",
+            "sent5": "The magician's hat produced whatever the audience requested."
         },
         {
             "definition": "No matter what",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "I will help you whatever happens.",
+            "sent2": "He will always love you whatever the circumstances.",
+            "sent3": "Whatever the weather, we will have a picnic.",
+            "sent4": "She will support you whatever the outcome.",
+            "sent5": "The team will win whatever it takes."
         },
         {
             "definition": "Used to express indifference or dismissal",
-            "pos": "interjection"
+            "pos": "interjection",
+            "sent1": "Whatever, I don't care about that.",
+            "sent2": "He said he would finish the project, but whatever.",
+            "sent3": "Whatever, it's not a big deal.",
+            "sent4": "She can go wherever she wants, but whatever.",
+            "sent5": "Whatever, I'll just do it myself."
         }
     ]
 }

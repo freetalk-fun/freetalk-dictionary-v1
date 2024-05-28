@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "With that or it.",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "She finished her homework and therewith went to bed.",
+            "sent2": "He packed his bag and therewith left for the trip.",
+            "sent3": "The cat knocked over the vase, and therewith, chaos ensued.",
+            "sent4": "The storm brought strong winds, and therewith, the trees swayed violently.",
+            "sent5": "The chef added the secret ingredient, and therewith, transformed the dish into a masterpiece."
         },
         {
             "definition": "In addition to that.",
-            "pos": "conjunction"
+            "pos": "conjunction",
+            "sent1": "She bought a new dress, and therewith, matching shoes.",
+            "sent2": "He finished his work early, and therewith, had time to relax.",
+            "sent3": "The party was fun, and therewith, the cake was delicious.",
+            "sent4": "The team won the game, and therewith, secured their spot in the finals.",
+            "sent5": "The sun was shining, and therewith, the birds were singing joyfully."
         },
         {
             "definition": "By means of that.",
-            "pos": "preposition"
+            "pos": "preposition",
+            "sent1": "He fixed the broken chair therewith a hammer.",
+            "sent2": "She solved the puzzle therewith her sharp mind.",
+            "sent3": "The magician performed the trick therewith a deck of cards.",
+            "sent4": "The artist created a masterpiece therewith a brush and paint.",
+            "sent5": "The engineer built the bridge therewith strong materials."
         }
     ]
 }

@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A person lower in rank, status, or quality than others.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The king looked down on his inferiors with disdain.",
+            "sent2": "She always treated her inferiors with kindness and respect.",
+            "sent3": "The cat considered the mouse as its inferior plaything.",
+            "sent4": "In the world of chess, the pawn is often seen as the inferior piece.",
+            "sent5": "The teacher made sure to encourage the shy student, who felt like an inferior in the classroom."
         },
         {
             "definition": "Of lower rank, status, or quality than others.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The inferior quality of the product was evident from the start.",
+            "sent2": "He felt inferior to his classmates who excelled in sports.",
+            "sent3": "The inferior paint job on the car made it stand out in a bad way.",
+            "sent4": "Her inferior skills in math held her back from pursuing a career in finance.",
+            "sent5": "The inferior material used in the construction caused the building to collapse easily."
         }
     ]
 }

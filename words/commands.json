@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "An authoritative order or instruction.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The general gave commands to his soldiers.",
+            "sent2": "She always follows her teacher's commands.",
+            "sent3": "The cat ignored my commands to stop scratching the furniture.",
+            "sent4": "The roaring thunderstorm seemed to issue commands to the trees to sway violently.",
+            "sent5": "The principal's commands echoed through the school halls, ensuring everyone knew what to do."
         },
         {
             "definition": "The ability to control or direct someone or something.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "His calm demeanor commands respect from his peers.",
+            "sent2": "A good leader commands attention without being loud.",
+            "sent3": "The toddler's commands over the household toys were absolute.",
+            "sent4": "The majestic eagle commands the sky with its effortless grace.",
+            "sent5": "The queen's presence commands the room, making everyone stand at attention."
         },
         {
             "definition": "A statement that a computer user enters to cause a computer program to perform a specific operation.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The programmer entered commands to debug the software.",
+            "sent2": "Remember to save your work before executing any commands.",
+            "sent3": "The computer refused to obey my commands to shut down.",
+            "sent4": "The code commands the program to run smoothly like a well-oiled machine.",
+            "sent5": "His swift typing of commands made the program respond instantly to his every whim."
         }
     ]
 }

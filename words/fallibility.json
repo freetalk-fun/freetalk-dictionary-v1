@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "The tendency to make mistakes or be wrong.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Her fallibility was evident when she accidentally deleted the important file.",
+            "sent2": "Doctors understand the fallibility of human memory when diagnosing patients.",
+            "sent3": "Despite his fallibility, the comedian's mistakes added humor to his performance.",
+            "sent4": "The fallibility of the weather forecast made planning outdoor events challenging.",
+            "sent5": "The fallibility of the machine's sensors led to inaccurate measurements."
         },
         {
             "definition": "The quality of being capable of making errors.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The team acknowledged the fallibility of their calculations and revised the report.",
+            "sent2": "In science, acknowledging fallibility is crucial for continuous improvement.",
+            "sent3": "The fallibility of the robot's programming resulted in unexpected behaviors.",
+            "sent4": "The fallibility of the security system allowed unauthorized access to the building.",
+            "sent5": "Understanding the fallibility of eyewitness testimony is important in legal cases."
         }
     ]
 }

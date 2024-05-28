@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Assume to be the case without proof.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I suppose the sun will rise tomorrow.",
+            "sent2": "Let's suppose that it will rain later.",
+            "sent3": "If I suppose the cat can talk, will it answer me?",
+            "sent4": "Suppose time could stop, what would you do?",
+            "sent5": "Suppose you had wings and could fly wherever you wanted."
         },
         {
             "definition": "Used to introduce a hypothesis.",
-            "pos": "conjunction"
+            "pos": "conjunction",
+            "sent1": "Suppose it rains, we should bring umbrellas.",
+            "sent2": "Let's suppose we are late, what should we do?",
+            "sent3": "Suppose we find a treasure map, would you follow it?",
+            "sent4": "Suppose the world ends tomorrow, what would be your last wish?",
+            "sent5": "Suppose you win the lottery, what would you buy first?"
         },
         {
             "definition": "To think or believe.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I suppose he is telling the truth.",
+            "sent2": "Let's suppose she will arrive on time.",
+            "sent3": "If I suppose ghosts exist, will I be scared?",
+            "sent4": "Suppose dreams can come true, what would you dream of?",
+            "sent5": "Suppose you could read minds, what would you hear?"
         }
     ]
 }

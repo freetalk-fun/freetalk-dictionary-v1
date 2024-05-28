@@ -3,23 +3,48 @@
     "meanings": [
         {
             "definition": "To place something over or upon in order to protect or conceal.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Please cover the cake with a lid to keep it fresh.",
+            "sent2": "She used a blanket to cover herself from the cold.",
+            "sent3": "The sneaky cat tried to cover its tracks by walking in circles.",
+            "sent4": "His lies could not cover up the truth forever.",
+            "sent5": "The dark clouds cover the sky, blocking the sunlight."
         },
         {
             "definition": "A thing that lies on, over, or around something, especially in order to protect or conceal it.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The picnic cover shielded us from the rain during the storm.",
+            "sent2": "The book cover had a beautiful illustration on it.",
+            "sent3": "The magician pulled a cover off the table to reveal a hidden rabbit.",
+            "sent4": "The cover of the magazine featured a famous actress.",
+            "sent5": "The car cover protected the vehicle from dust and debris."
         },
         {
             "definition": "To deal with or include something.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "We need to cover all the topics in the meeting agenda.",
+            "sent2": "The teacher will cover the new lesson tomorrow.",
+            "sent3": "The chef had to cover for the missing cook in the kitchen.",
+            "sent4": "She can cover the shift if you need time off.",
+            "sent5": "The news report will cover the latest developments in the story."
         },
         {
             "definition": "To travel a certain distance or area.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The marathon runners will cover 26 miles in the race.",
+            "sent2": "The delivery truck will cover the route from the warehouse to the store.",
+            "sent3": "The explorer planned to cover the entire jungle in a week.",
+            "sent4": "The bird can cover long distances during migration.",
+            "sent5": "The bus will cover the distance between the two cities in two hours."
         },
         {
             "definition": "To be enough to pay for something.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "His savings will cover the cost of the new computer.",
+            "sent2": "The scholarship will cover her tuition fees for the semester.",
+            "sent3": "The bonus will cover the expenses of the family vacation.",
+            "sent4": "Her salary can cover the monthly rent and utilities.",
+            "sent5": "The insurance policy will cover the damages from the accident."
         }
     ]
 }

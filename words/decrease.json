@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To become smaller or fewer",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "As the sun sets, the light will decrease in the sky.",
+            "sent2": "During winter, the temperature tends to decrease significantly.",
+            "sent3": "I tried to decrease the number of cookies I ate, but they were just too tempting.",
+            "sent4": "Her enthusiasm for the project seemed to decrease with each passing day.",
+            "sent5": "The river's flow started to decrease, revealing more rocks beneath the surface."
         },
         {
             "definition": "The act of becoming smaller or fewer",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The decrease in sales was a cause for concern for the company.",
+            "sent2": "A sudden decrease in population can have long-term effects on a community.",
+            "sent3": "The decrease in noise after the party ended was a relief to the neighbors.",
+            "sent4": "The decrease in temperature was noticeable as the evening approached.",
+            "sent5": "The decrease in size of the cake made it clear that everyone enjoyed it."
         },
         {
             "definition": "To make smaller or fewer",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She decided to decrease the amount of sugar in her coffee.",
+            "sent2": "The company plans to decrease its expenses to improve profitability.",
+            "sent3": "I had to decrease the font size to fit all the text on the page.",
+            "sent4": "The chef had to decrease the amount of salt in the recipe.",
+            "sent5": "The teacher asked the students to decrease the volume of their voices during the exam."
         }
     ]
 }

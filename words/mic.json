@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A microphone",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The singer held the mic and sang beautifully.",
+            "sent2": "During the conference, the speaker's mic suddenly stopped working.",
+            "sent3": "The mic decided to take a break right before the important speech.",
+            "sent4": "Her voice echoed through the mic, filling the room with music.",
+            "sent5": "The shiny mic gleamed under the stage lights."
         },
         {
             "definition": "A unit of length equal to one millionth of a meter",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The scientist measured the bacteria using a mic.",
+            "sent2": "The nanobot moved just a few mic away from the target.",
+            "sent3": "The tiny bug was only a mic away from the sugar cube.",
+            "sent4": "The distance was so small, it was like comparing a mountain to a mic.",
+            "sent5": "The mic measurement was crucial for the experiment's success."
         },
         {
             "definition": "To treat with a solution of a salt or other compound of a heavy metal",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She carefully miced the fabric to achieve the desired color.",
+            "sent2": "The jeweler mics the silver to create a unique patina.",
+            "sent3": "He accidentally miced his hands, turning them a strange shade.",
+            "sent4": "The artist miced the canvas, transforming it into a masterpiece.",
+            "sent5": "Micing the metal gave it a beautiful sheen."
         }
     ]
 }

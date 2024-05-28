@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A person who sees an event, typically a crime or accident, take place.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The witnesses saw the car crash.",
+            "sent2": "The witnesses were interviewed by the police.",
+            "sent3": "The witnesses couldn't believe their eyes!",
+            "sent4": "The moon witnesses the Earth's beauty every night.",
+            "sent5": "The witnesses' accounts matched perfectly."
         },
         {
             "definition": "To see (an event, typically a crime or accident) happen.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She witnesses the robbery from across the street.",
+            "sent2": "He witnesses many accidents while driving.",
+            "sent3": "The cat witnesses the chaos from under the table.",
+            "sent4": "The old tree witnesses the passing of time.",
+            "sent5": "The security camera witnesses every movement in the store."
         },
         {
             "definition": "To provide evidence or testimony in a court of law.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He witnesses against the defendant in court.",
+            "sent2": "She witnesses the crime scene to the jury.",
+            "sent3": "The parrot witnesses the trial with great interest.",
+            "sent4": "The stars witness the unfolding drama in the courtroom.",
+            "sent5": "The key witness's testimony was crucial for the case."
         }
     ]
 }

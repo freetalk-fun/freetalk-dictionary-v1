@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A person or thing that is single, unique, or solitary.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The old lighthouse standing alone on the cliff was a singleton in the vast landscape.",
+            "sent2": "The diamond-encrusted necklace was a prized singleton in her jewelry collection.",
+            "sent3": "The lone tree in the middle of the field looked like a cheerful singleton waving to the passing clouds.",
+            "sent4": "Her bright red umbrella was the only singleton of color in the sea of black umbrellas.",
+            "sent5": "The rare stamp was a valuable singleton in his collection, unmatched by any other."
         },
         {
             "definition": "A set with only one member.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The number '1' is a singleton in the set of natural numbers.",
+            "sent2": "The letter 'A' is a singleton in the set of vowels.",
+            "sent3": "The lonely apple in the basket was a singleton among the oranges.",
+            "sent4": "The red card was the only singleton in the deck of blue cards.",
+            "sent5": "The special edition coin was a rare singleton in the collection of coins."
         },
         {
             "definition": "A child born as the only one in a multiple birth.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The doctor carefully monitored the health of the newborn singleton.",
+            "sent2": "Being a singleton in a multiple birth can sometimes lead to a closer bond with the parents.",
+            "sent3": "The little singleton was the star of the family, receiving all the attention.",
+            "sent4": "The singleton baby was showered with love and affection from the entire family.",
+            "sent5": "The newborn singleton was a precious gift, cherished by all."
         }
     ]
 }

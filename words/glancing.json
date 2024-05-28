@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To strike a surface at an angle and bounce off",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The ball was glancing off the wall.",
+            "sent2": "She glancingly hit the ball with the racket.",
+            "sent3": "The cat's tail glancingly knocked over the vase.",
+            "sent4": "The sunlight was glancing off the water, creating a beautiful reflection.",
+            "sent5": "The glancing beam of light illuminated the room briefly."
         },
         {
             "definition": "To look quickly or briefly",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He was glancing at the clock during the boring meeting.",
+            "sent2": "She glancingly scanned the room for her lost keys.",
+            "sent3": "The squirrel glancingly peeked into the bird feeder.",
+            "sent4": "Her eyes were glancing over the newspaper headlines.",
+            "sent5": "The teacher was glancing around the classroom to check for understanding."
         },
         {
             "definition": "A quick or brief look",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "She gave a glancing at the beautiful sunset.",
+            "sent2": "He took a glancing at the menu before deciding what to order.",
+            "sent3": "The child's glancing at the candy store made her smile.",
+            "sent4": "The quick glancing from the window revealed a rainbow outside.",
+            "sent5": "A glancing at the mirror showed her reflection briefly."
         }
     ]
 }

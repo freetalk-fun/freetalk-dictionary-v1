@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To type incorrectly.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I always mistype my password when I'm in a hurry.",
+            "sent2": "Be careful not to mistype the web address when searching online.",
+            "sent3": "I mistype so often that my friends find it funny.",
+            "sent4": "Her fingers seemed to mistype the keys as if they had a mind of their own.",
+            "sent5": "The student's tendency to mistype words made his essays hard to read."
         },
         {
             "definition": "An error in typing.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The mistype in the document caused confusion among the readers.",
+            "sent2": "She noticed a mistype in the email she had sent earlier.",
+            "sent3": "The mistype on the sign made it look like a different word altogether.",
+            "sent4": "The mistype on the label led to a mix-up in the shipping department.",
+            "sent5": "Finding a mistype in the code took longer to fix than expected."
         }
     ]
 }

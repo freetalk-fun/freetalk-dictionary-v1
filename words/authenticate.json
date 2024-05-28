@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To prove or show something to be true or genuine.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I need to authenticate my identity before accessing the secure building.",
+            "sent2": "The signature on the document will authenticate its validity.",
+            "sent3": "Trying to authenticate a fake painting can be quite a challenge.",
+            "sent4": "Her smile seemed to authenticate her happiness.",
+            "sent5": "The fingerprint scan is used to authenticate users and ensure security."
         },
         {
             "definition": "To confirm the validity or legitimacy of something.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Please authenticate the authenticity of the antique vase.",
+            "sent2": "The notary will authenticate the legal document.",
+            "sent3": "It's important to authenticate the ingredients before using them in the recipe.",
+            "sent4": "The old photograph helped authenticate the historical event.",
+            "sent5": "The stamp on the letter is used to authenticate its origin."
         },
         {
             "definition": "To verify the identity or authority of someone or something.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The security guard needs to authenticate your access to the restricted area.",
+            "sent2": "The password is required to authenticate your account.",
+            "sent3": "The detective had to authenticate the suspect's alibi.",
+            "sent4": "The badge will authenticate your status as a staff member.",
+            "sent5": "The official seal is used to authenticate important documents."
         }
     ]
 }

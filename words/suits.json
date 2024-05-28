@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A set of clothes made to be worn together, typically consisting of a jacket and trousers or a jacket and skirt.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "He wore his best suits to the wedding.",
+            "sent2": "The suits in the store looked very professional.",
+            "sent3": "The colorful suits at the party made everyone smile.",
+            "sent4": "Her collection of suits was a rainbow of styles.",
+            "sent5": "The suits on display caught everyone's attention."
         },
         {
             "definition": "Be convenient for or acceptable to.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The new schedule suits my routine perfectly.",
+            "sent2": "This restaurant suits my taste buds.",
+            "sent3": "It suits me just fine to stay home tonight.",
+            "sent4": "His calm demeanor suits the situation well.",
+            "sent5": "The cozy atmosphere really suits this cafe."
         },
         {
             "definition": "A set of playing cards bearing the same symbol.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "She had a winning hand with four suits in a row.",
+            "sent2": "The deck of cards had all the suits neatly arranged.",
+            "sent3": "The suits in the game were all hearts.",
+            "sent4": "The suits in the deck were beautifully designed.",
+            "sent5": "He collected rare suits for his card games."
         }
     ]
 }

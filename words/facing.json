@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "The front part of something, typically a building or structure.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The facing of the house had beautiful windows.",
+            "sent2": "She saw her reflection in the facing of the mirror.",
+            "sent3": "The facing of the cake was decorated with colorful icing.",
+            "sent4": "The facing of the mountain glowed in the morning sun.",
+            "sent5": "The facing of the book was torn and tattered."
         },
         {
             "definition": "Opposite or in front of.",
-            "pos": "preposition"
+            "pos": "preposition",
+            "sent1": "She stood facing the stage during the concert.",
+            "sent2": "The two friends were facing each other in the park.",
+            "sent3": "The cat sat facing the door, waiting for its owner.",
+            "sent4": "The house was facing the beautiful sunset.",
+            "sent5": "The teacher was facing the students while explaining the lesson."
         },
         {
             "definition": "Dealing with or addressing a particular situation or problem.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The team had a facing meeting to discuss the issue.",
+            "sent2": "She took on the facing role in solving the problem.",
+            "sent3": "His facing approach to the problem impressed everyone.",
+            "sent4": "The company's facing strategy helped them overcome the challenge.",
+            "sent5": "The facing attitude of the group was positive and determined."
         }
     ]
 }

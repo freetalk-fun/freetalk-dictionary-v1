@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A group of animals or plants with similar characteristics that can produce offspring",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Different dog breeds have unique traits and appearances.",
+            "sent2": "Farmers raise various breeds of chickens for their eggs.",
+            "sent3": "The zookeeper joked that the penguin breed was having a dance party.",
+            "sent4": "In the world of flowers, the rose breed reigns as the queen of beauty.",
+            "sent5": "The scientist studied the butterfly breed to understand its migration patterns."
         },
         {
             "definition": "To produce offspring",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The cat breeds with the neighbor's pet often.",
+            "sent2": "Birds breed during the spring season to expand their families.",
+            "sent3": "The rabbits decided to breed earlier than expected, surprising the farmer.",
+            "sent4": "The fish in the pond breed rapidly, filling the water with new life.",
+            "sent5": "The horses breed in the fields, creating a lively atmosphere."
         },
         {
             "definition": "To cause or lead to something happening",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The stormy weather breeds chaos in the city streets.",
+            "sent2": "Neglect can breed feelings of loneliness and sadness.",
+            "sent3": "Leaving the cake unattended will breed temptation for the children.",
+            "sent4": "Lack of communication can breed misunderstandings between friends.",
+            "sent5": "Hard work and dedication breed success in any endeavor."
         }
     ]
 }

@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A device in a taxi that calculates the fare based on distance traveled and waiting time.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The taximeter in the taxi showed the total fare to the passenger.",
+            "sent2": "The driver started the taxi ride by turning on the taximeter.",
+            "sent3": "The taximeter and the clock seemed to be having a race to see who could calculate faster.",
+            "sent4": "Her mind worked like a taximeter, constantly calculating the cost of every decision.",
+            "sent5": "The taximeter beeped loudly as it reached the final fare, surprising the passenger."
         },
         {
             "definition": "To calculate the fare for a taxi ride using a taximeter.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The driver will taximeter the fare at the end of the journey.",
+            "sent2": "She learned how to taximeter accurately after a few rides.",
+            "sent3": "He decided to taximeter the fare in a playful way, pretending to be a taxi driver.",
+            "sent4": "The way he could taximeter the fare in his head was like a superpower.",
+            "sent5": "Taximetering the fare quickly and efficiently was crucial for the taxi driver's job."
         }
     ]
 }

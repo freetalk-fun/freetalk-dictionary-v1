@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Equipped with or controlled by a computer.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The new microwave is computerized, making it easy to use.",
+            "sent2": "The computerized car navigation system helped us find our way home.",
+            "sent3": "I never thought I'd see a computerized toaster, but here it is!",
+            "sent4": "Her mind worked like a computerized machine, processing information quickly.",
+            "sent5": "The computerized security system kept the building safe from intruders."
         },
         {
             "definition": "To convert (data) into a form that can be processed by a computer.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "We need to computerize the sales data for analysis.",
+            "sent2": "The company decided to computerize their inventory management.",
+            "sent3": "I tried to computerize my messy notes, but it was a disaster!",
+            "sent4": "She could computerize any document with just a few clicks.",
+            "sent5": "The students were asked to computerize their handwritten essays for submission."
         },
         {
             "definition": "To control, operate, or process by a computer.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The factory decided to computerize its production line for efficiency.",
+            "sent2": "They plan to computerize the scheduling of employee shifts.",
+            "sent3": "I wish I could computerize my morning routine to save time!",
+            "sent4": "The AI system can computerize complex calculations in seconds.",
+            "sent5": "The company aims to computerize all manual tasks to improve accuracy."
         }
     ]
 }

@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To walk or move unsteadily",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The drunk man staggers down the street.",
+            "sent2": "The injured dog staggers towards its owner for help.",
+            "sent3": "The toddler staggers around the room, trying to keep balance.",
+            "sent4": "The ship staggers through the stormy sea, struggling to stay afloat.",
+            "sent5": "The old man staggers up the stairs, holding onto the railing for support."
         },
         {
             "definition": "A disease of horses characterized by a staggering gait",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The veterinarian diagnosed the horse with the staggers.",
+            "sent2": "The farmer noticed the symptoms of the staggers in his mare.",
+            "sent3": "The horse with the staggers tried to race but ended up going in circles.",
+            "sent4": "The stable was quiet, except for the sound of the horse with the staggers.",
+            "sent5": "The stable hand carefully watched over the horse with the staggers, ensuring its safety."
         },
         {
             "definition": "A series of events or actions that happen in a surprising or unexpected way",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The sudden success of the small business caused a financial staggers.",
+            "sent2": "The staggers of fate led him to an unexpected encounter.",
+            "sent3": "The comedy of errors resulted in a series of hilarious staggers.",
+            "sent4": "The political campaign faced unexpected staggers that changed the outcome.",
+            "sent5": "The plot twist in the movie created a series of dramatic staggers for the audience."
         }
     ]
 }

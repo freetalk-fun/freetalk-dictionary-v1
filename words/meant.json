@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Intended to convey or refer to (past tense of mean)",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She meant to call her friend yesterday.",
+            "sent2": "I meant to finish my homework before dinner.",
+            "sent3": "The cat meant to catch the mouse but got distracted by a butterfly.",
+            "sent4": "His words meant to soothe her troubled mind.",
+            "sent5": "The message was meant to be a secret, but it got leaked."
         },
         {
             "definition": "Intended to do or achieve (past tense of mean)",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He meant to study for the test, but he forgot.",
+            "sent2": "They meant to surprise their mom with breakfast in bed.",
+            "sent3": "The magician meant to pull a rabbit out of his hat, but a duck appeared instead.",
+            "sent4": "Her actions meant to show her gratitude towards her mentor.",
+            "sent5": "The goal was meant to be challenging, but achievable with effort."
         },
         {
             "definition": "Intended to have a particular purpose or effect (past tense of mean)",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The meant outcome of the experiment was to prove the theory.",
+            "sent2": "The meant design of the building was to maximize natural light.",
+            "sent3": "The mismatched socks were a meant fashion statement.",
+            "sent4": "His meant comment sparked a lively debate among the group.",
+            "sent5": "The meant silence in the room created a tense atmosphere."
         }
     ]
 }

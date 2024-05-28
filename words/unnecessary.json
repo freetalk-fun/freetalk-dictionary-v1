@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Not needed; not essential.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "Wearing a raincoat on a sunny day is unnecessary.",
+            "sent2": "Bringing an umbrella to a movie theater is unnecessary.",
+            "sent3": "Carrying a snow shovel to the beach would be unnecessary.",
+            "sent4": "Packing a winter coat for a summer vacation is unnecessary.",
+            "sent5": "Having a backup generator for a one-hour power outage is unnecessary."
         },
         {
             "definition": "More than is necessary; excessive.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "Eating three desserts after dinner is unnecessary.",
+            "sent2": "Buying ten pairs of shoes in one day is unnecessary.",
+            "sent3": "Decorating a cake with a hundred candles would be unnecessary.",
+            "sent4": "Wearing five layers of clothing in mild weather is unnecessary.",
+            "sent5": "Using twenty different apps to do one task is unnecessary."
         }
     ]
 }

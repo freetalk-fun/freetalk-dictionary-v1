@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "In or to another place.",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "She looked for her lost keys elsewhere in the house.",
+            "sent2": "I searched for my missing book elsewhere but couldn't find it.",
+            "sent3": "He tried to find his missing sock elsewhere, but it was hiding in his shoe.",
+            "sent4": "The cat always finds a cozy spot elsewhere to take a nap.",
+            "sent5": "The treasure map led them elsewhere, to a hidden cave full of gold."
         },
         {
             "definition": "In addition to a place or person mentioned.",
-            "pos": "preposition"
+            "pos": "preposition",
+            "sent1": "She brought cookies to the party, and a cake elsewhere.",
+            "sent2": "He placed the vase on the table and the flowers elsewhere.",
+            "sent3": "The dog buried its bone under the tree and its toy elsewhere in the yard.",
+            "sent4": "The teacher gave homework to the students and a special project elsewhere.",
+            "sent5": "The chef added extra spices to the soup and a secret ingredient elsewhere in the recipe."
         }
     ]
 }

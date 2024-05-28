@@ -2,16 +2,31 @@
     "term": "yoops",
     "meanings": [
         {
-            "definition": "Yoops (noun): a mistake or error",
-            "pos": "noun"
+            "definition": "a mistake or error",
+            "pos": "noun",
+            "sent1": "I made a yoops on my math test by forgetting to carry over the numbers.",
+            "sent2": "She realized her yoops when she sent the email to the wrong person.",
+            "sent3": "The chef's yoops in the recipe turned the cake into a savory disaster.",
+            "sent4": "His yoops in judgment led to a series of unfortunate events.",
+            "sent5": "The yoops in the code caused the entire system to crash."
         },
         {
-            "definition": "Yoops (verb): to make a mistake or error",
-            "pos": "verb"
+            "definition": "to make a mistake or error",
+            "pos": "verb",
+            "sent1": "Please double-check your work to avoid yoops in the final report.",
+            "sent2": "He tends to yoops when he rushes through his tasks.",
+            "sent3": "The magician yoopsed during the trick, revealing the hidden card too soon.",
+            "sent4": "She yoopsed her way through the dance routine, but still managed to finish.",
+            "sent5": "Try not to yoops while following the instructions step by step."
         },
         {
-            "definition": "Yoops (adjective): characterized by mistakes or errors",
-            "pos": "adjective"
+            "definition": "characterized by mistakes or errors",
+            "pos": "adjective",
+            "sent1": "The yoops project had to be redone due to numerous errors.",
+            "sent2": "His yoops behavior often led to misunderstandings with his colleagues.",
+            "sent3": "The yoops student managed to turn things around with extra study sessions.",
+            "sent4": "The yoops road trip was filled with wrong turns and missed exits.",
+            "sent5": "The yoops report was full of typos and incorrect data."
         }
     ]
 }

@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "The act or process of setting in operation or motion.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The startup of the machine was smooth and efficient.",
+            "sent2": "The startup of the computer took longer than expected.",
+            "sent3": "The startup of the party had everyone dancing in no time.",
+            "sent4": "The startup of the car engine sounded like a gentle purr.",
+            "sent5": "The startup of the rocket ship was met with cheers and excitement."
         },
         {
             "definition": "A newly established business or organization.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The tech startup quickly gained popularity in the market.",
+            "sent2": "She decided to invest in a startup focused on sustainable fashion.",
+            "sent3": "The startup of the lemonade stand was a hit with the neighborhood kids.",
+            "sent4": "The startup of the bakery brought fresh pastries to the town.",
+            "sent5": "The startup of the bookstore created a cozy reading nook for customers."
         },
         {
             "definition": "To start or set in operation.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He will startup the generator to provide electricity during the outage.",
+            "sent2": "She had to startup the computer before beginning her work.",
+            "sent3": "The kids decided to startup a lemonade stand in the park.",
+            "sent4": "The chef will startup the oven to bake the delicious cake.",
+            "sent5": "They will startup the project once all the team members are ready."
         }
     ]
 }

@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Passed through a filter",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I filtrated the coffee to remove the grounds.",
+            "sent2": "The water filtrated through the coffee filter slowly.",
+            "sent3": "The cat tried to filtrate through the narrow gap in the door.",
+            "sent4": "Her voice filtrated through the walls, reaching every corner of the room.",
+            "sent5": "The sunlight filtrated through the leaves, creating a beautiful pattern on the ground."
         },
         {
             "definition": "Purified or separated by passing through a filter",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The filtrated water was crystal clear and safe to drink.",
+            "sent2": "The filtrated oil was free from impurities.",
+            "sent3": "The filtrated air in the room smelled fresh and clean.",
+            "sent4": "Her filtrated thoughts were clear and focused.",
+            "sent5": "The filtrated gold sparkled in the sunlight, revealing its purity."
         }
     ]
 }

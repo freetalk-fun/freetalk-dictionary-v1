@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A person who is the target of a hack.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The hackee was unaware that their personal information had been compromised.",
+            "sent2": "The company's cybersecurity team worked hard to protect the hackee from further attacks.",
+            "sent3": "The hackee jokingly said, 'I must be the most popular target for hackers!'",
+            "sent4": "As the hackee of the group, she always made sure to update her passwords regularly.",
+            "sent5": "The hackee's identity was like a treasure chest waiting to be opened by cybercriminals."
         },
         {
             "definition": "To be the victim of a hacking attack.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She did not expect to hackee her own social media account by clicking on a suspicious link.",
+            "sent2": "The company's database was hackeed last night, causing chaos among the employees.",
+            "sent3": "He accidentally hackeed into the wrong server and found himself in a virtual maze.",
+            "sent4": "The hacker managed to hackee into the system undetected, leaving a digital footprint behind.",
+            "sent5": "The website's security measures were so weak that anyone could easily hackee into it."
         }
     ]
 }

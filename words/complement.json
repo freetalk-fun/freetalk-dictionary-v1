@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Something that completes or makes perfect.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The dessert was the perfect complement to the meal.",
+            "sent2": "The scarf was a nice complement to her outfit.",
+            "sent3": "The music was a great complement to the party atmosphere.",
+            "sent4": "Her kindness was a complement that brightened everyone's day.",
+            "sent5": "The colorful flowers were a beautiful complement to the garden."
         },
         {
             "definition": "A number or quantity needed to make a group complete.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "We need one more player to have a full complement for the game.",
+            "sent2": "The team had a full complement of supplies for the mission.",
+            "sent3": "The missing ingredient was the final complement needed for the recipe.",
+            "sent4": "Each member of the group was a vital complement to the project.",
+            "sent5": "The last puzzle piece was the missing complement to the picture."
         },
         {
             "definition": "To add to something in a way that enhances or improves it.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The red shoes complemented her dress perfectly.",
+            "sent2": "Adding cinnamon will complement the flavor of the dish.",
+            "sent3": "His witty remarks always complement the conversation.",
+            "sent4": "The new artwork really complements the room decor.",
+            "sent5": "The fresh herbs will complement the taste of the soup."
         }
     ]
 }

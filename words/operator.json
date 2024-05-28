@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A person who operates a machine or device.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The operator pressed the button to start the machine.",
+            "sent2": "The factory hired a skilled operator to run the equipment.",
+            "sent3": "The operator accidentally turned on the wrong switch and caused a small problem.",
+            "sent4": "She was the operator of the forklift, smoothly maneuvering through the warehouse.",
+            "sent5": "The operator's job is crucial for the smooth functioning of the production line."
         },
         {
             "definition": "A symbol or function that performs a specific operation in mathematics or computer programming.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "In the equation, the plus sign acts as the operator between the numbers.",
+            "sent2": "The computer program uses the division operator to calculate the result.",
+            "sent3": "The operator symbol in the code made it easier to understand the function.",
+            "sent4": "The multiplication operator is essential for performing complex calculations.",
+            "sent5": "Understanding the role of each operator is key to writing efficient code."
         },
         {
             "definition": "A company or individual that provides a specific service or operates a business.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The tour operator organized a memorable trip for the group.",
+            "sent2": "The operator of the local restaurant takes pride in serving delicious food.",
+            "sent3": "The operator of the small business always greets customers with a smile.",
+            "sent4": "As an operator in the industry, they strive to deliver top-notch services.",
+            "sent5": "The operator's dedication to quality sets them apart from competitors."
         }
     ]
 }

@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A colorless, odorless, flammable gas that is the simplest hydrocarbon and the main component of natural gas.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The scientist studied the properties of methane in the lab.",
+            "sent2": "Natural gas contains a high percentage of methane.",
+            "sent3": "When the clown accidentally released methane during the show, everyone laughed.",
+            "sent4": "The quiet night was disturbed by the sudden hiss of escaping methane.",
+            "sent5": "The smell of methane lingered in the air long after the experiment was over."
         },
         {
             "definition": "To treat or produce with methane gas.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The farmers methane the crops to increase their yield.",
+            "sent2": "They decided to methane the soil before planting the seeds.",
+            "sent3": "The chef accidentally methane the dessert, giving it an unexpected flavor.",
+            "sent4": "The factory workers carefully methane the raw materials for the production process.",
+            "sent5": "Using special equipment, they can efficiently methane the water for purification purposes."
         }
     ]
 }

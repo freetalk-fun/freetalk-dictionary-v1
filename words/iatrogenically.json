@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Resulting from the activity of a physician or treatment",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The iatrogenically induced side effects of the medication were unexpected.",
+            "sent2": "The patient experienced iatrogenically caused complications after surgery.",
+            "sent3": "The iatrogenically triggered allergic reaction made everyone in the hospital gasp.",
+            "sent4": "Her iatrogenically altered appearance shocked her friends.",
+            "sent5": "The iatrogenically related errors in the treatment plan were costly."
         },
         {
             "definition": "In a manner caused by medical treatment",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "The medication was iatrogenically prescribed to manage the symptoms.",
+            "sent2": "She iatrogenically developed a resistance to the antibiotic.",
+            "sent3": "The patient iatrogenically danced out of the hospital after the successful treatment.",
+            "sent4": "His recovery progressed iatrogenically, surprising everyone.",
+            "sent5": "The condition improved iatrogenically, much to the doctor's delight."
         }
     ]
 }

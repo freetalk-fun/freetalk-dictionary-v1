@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Considered in relation or in proportion to something else.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The size of the box was relative to the size of the toy.",
+            "sent2": "The price of the house was relative to its location.",
+            "sent3": "The relative size of the cake made it look like a giant cupcake.",
+            "sent4": "Her happiness was relative to the amount of chocolate she had.",
+            "sent5": "The speed of the car was relative to the amount of gas in the tank."
         },
         {
             "definition": "A person connected by blood or marriage; a family member.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "My aunt is a close relative who always gives great advice.",
+            "sent2": "Family reunions are a time to catch up with relatives.",
+            "sent3": "The relative at the party told the funniest jokes.",
+            "sent4": "She is the relative who always brings delicious desserts.",
+            "sent5": "The relative's birthday party was full of laughter and joy."
         },
         {
             "definition": "A person who is connected with another or others by blood or marriage.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The relative traveled from far away to attend the wedding.",
+            "sent2": "She is a distant relative who I only see during holidays.",
+            "sent3": "The relative surprised everyone with a special gift.",
+            "sent4": "The relative's arrival brought excitement to the family gathering.",
+            "sent5": "The relative's stories about the past were always fascinating."
         }
     ]
 }

@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A range of frequencies in a signal that are attenuated or blocked.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The stopband of the radio signal was where the unwanted noise was silenced.",
+            "sent2": "The stopband of the music player prevented any high-pitched sounds from coming through.",
+            "sent3": "The stopband of the TV broadcast made the show sound like a whisper in a loud room.",
+            "sent4": "Her silence acted as a stopband, muting out any unnecessary chatter around her.",
+            "sent5": "The stopband in the classroom made it easier for the students to focus on their work."
         },
         {
             "definition": "The portion of a filter's frequency response where little or no signal is allowed to pass through.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The stopband of the filter blocked out the unwanted frequencies effectively.",
+            "sent2": "In the stopband of the equalizer, only a faint hum could be heard.",
+            "sent3": "The stopband of the speaker seemed to have a mind of its own, muffling certain sounds.",
+            "sent4": "The stopband of the amplifier acted like a gatekeeper, allowing only specific frequencies to pass.",
+            "sent5": "The stopband of the headphones created a barrier against the loud noises of the city."
         }
     ]
 }

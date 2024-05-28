@@ -3,19 +3,39 @@
     "meanings": [
         {
             "definition": "A metal fastener with a helical ridge, used to join objects together.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I needed a screw to fix the loose shelf.",
+            "sent2": "He used a screw to attach the handle to the door.",
+            "sent3": "The screw rolled off the table and into the toolbox.",
+            "sent4": "She felt like a screw holding everything together in the chaotic room.",
+            "sent5": "The shiny screw gleamed in the sunlight, holding the parts in place."
         },
         {
             "definition": "To twist or turn tightly.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Please screw the lid on the jar tightly.",
+            "sent2": "He had to screw the light bulb into the socket.",
+            "sent3": "She tried to screw the cap back on the pen, but it wouldn't fit.",
+            "sent4": "Time seemed to screw by slowly during the boring lecture.",
+            "sent5": "The wind started to screw the umbrella inside out."
         },
         {
             "definition": "To cheat or swindle someone.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He tried to screw me out of my money with a fake product.",
+            "sent2": "The scammer attempted to screw unsuspecting victims out of their savings.",
+            "sent3": "She thought she could screw her way into getting a better grade, but the teacher caught on.",
+            "sent4": "The con artist managed to screw the old lady out of her life savings.",
+            "sent5": "The dishonest salesman tried to screw customers by selling counterfeit goods."
         },
         {
             "definition": "A prison guard.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The screw patrolled the prison corridors diligently.",
+            "sent2": "The new screw had to learn the routines of the prison quickly.",
+            "sent3": "The screw confiscated the contraband smuggled into the prison.",
+            "sent4": "The experienced screw knew how to handle the rowdy inmates.",
+            "sent5": "The screw's keys jingled loudly as he walked down the cell block."
         }
     ]
 }

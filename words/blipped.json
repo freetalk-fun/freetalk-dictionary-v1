@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A brief electronic signal or sound.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The blipped on the screen indicated a new message.",
+            "sent2": "I heard a blipped coming from the computer.",
+            "sent3": "The blipped from the phone made everyone jump.",
+            "sent4": "The blipped of the alarm woke me up suddenly.",
+            "sent5": "The blipped of the microwave signaled that my popcorn was ready."
         },
         {
             "definition": "To make a sudden, short sound.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She blipped the horn to get the driver's attention.",
+            "sent2": "The bird blipped as it flew away.",
+            "sent3": "The toy blipped when she pressed the button.",
+            "sent4": "His footsteps blipped on the quiet street.",
+            "sent5": "The machine blipped loudly when it started up."
         },
         {
             "definition": "To appear briefly or momentarily on a screen or radar.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The plane blipped on the radar before disappearing.",
+            "sent2": "A red dot blipped on the monitor for a second.",
+            "sent3": "The ghost blipped on the camera screen for a split second.",
+            "sent4": "Her face blipped on the TV during the interview.",
+            "sent5": "The shooting star blipped across the night sky."
         }
     ]
 }

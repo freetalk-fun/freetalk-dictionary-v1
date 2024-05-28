@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Walked heavily or noisily",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The tired hiker tramped through the forest, making loud noises.",
+            "sent2": "The elephant tramped through the jungle, shaking the ground with each step.",
+            "sent3": "The children tramped around the house, pretending to be giants.",
+            "sent4": "The protesters tramped on the streets, demanding justice for all.",
+            "sent5": "The soldier tramped through the mud, determined to reach the destination."
         },
         {
             "definition": "Traveled on foot",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "They tramped across the desert, feeling the hot sand beneath their feet.",
+            "sent2": "The explorers tramped through the mountains, enjoying the scenic views.",
+            "sent3": "The tourists tramped happily in the city, exploring new sights.",
+            "sent4": "The nomads tramped tirelessly across the plains, seeking a new home.",
+            "sent5": "She tramped confidently along the path, eager to reach her destination."
         },
         {
             "definition": "Stamped or stepped heavily",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The tramped ground showed the heavy footprints of the workers.",
+            "sent2": "The tramped floor creaked under the weight of the marching band.",
+            "sent3": "The tramped shoes left marks on the freshly cleaned carpet.",
+            "sent4": "The tramped path was now a visible trail through the forest.",
+            "sent5": "The tramped earth bore the signs of the passing herd of elephants."
         }
     ]
 }

@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "The money or profit obtained from a sale or business transaction.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "After selling her handmade jewelry, she counted the proceeds to see how much money she made.",
+            "sent2": "The proceeds from the bake sale will go towards funding the school's art program.",
+            "sent3": "The cat tried to steal the proceeds of the lemonade stand, thinking it was catnip-flavored.",
+            "sent4": "The proceeds of his hard work were like a treasure chest waiting to be opened.",
+            "sent5": "The proceeds sparkled in the sunlight, a tangible reward for his efforts."
         },
         {
             "definition": "To continue with a course of action.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Despite the challenges, she proceeds with her plan to start a small business.",
+            "sent2": "The team decided to proceed with the project after careful consideration.",
+            "sent3": "The robot proceeds to clean the room, oblivious to the chaos it creates.",
+            "sent4": "Time proceeds like a river, always flowing forward.",
+            "sent5": "She proceeds with caution, aware of the potential risks ahead."
         },
         {
             "definition": "To move forward or advance.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The parade proceeds down the street, cheered on by the crowd.",
+            "sent2": "As the meeting ends, the attendees proceed to the next agenda item.",
+            "sent3": "The penguin proceeds to waddle across the icy terrain, looking for its next meal.",
+            "sent4": "The chess player proceeds to move their knight, setting up for a strategic attack.",
+            "sent5": "The hiker proceeds up the mountain, eager to reach the summit."
         }
     ]
 }

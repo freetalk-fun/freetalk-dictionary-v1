@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Equip or provide with instruments",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The scientist instrumented the lab with new tools.",
+            "sent2": "She instrumented her guitar before the performance.",
+            "sent3": "The chef instrumented the kitchen with state-of-the-art appliances.",
+            "sent4": "The detective instrumented his investigation with high-tech surveillance equipment.",
+            "sent5": "The mechanic instrumented the car engine with precision sensors."
         },
         {
             "definition": "Record or measure using instruments",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The weather station instrumented the temperature changes.",
+            "sent2": "The researchers instrumented the brain activity of the participants.",
+            "sent3": "The musician instrumented the sound levels during the concert.",
+            "sent4": "The fitness tracker instrumented her daily steps and calories burned.",
+            "sent5": "The surveyor instrumented the land elevation with advanced tools."
         },
         {
             "definition": "Fitted with instruments for a specific purpose",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The instrumented aircraft was ready for the scientific mission.",
+            "sent2": "The instrumented watch had multiple functions for hikers.",
+            "sent3": "The instrumented drone captured aerial footage of the landscape.",
+            "sent4": "The instrumented vehicle had sensors for detecting obstacles.",
+            "sent5": "The instrumented telescope allowed astronomers to observe distant galaxies."
         }
     ]
 }

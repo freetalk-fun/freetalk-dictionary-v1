@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "past tense of teach",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Yesterday, my teacher taught us about dinosaurs.",
+            "sent2": "She taught the class how to solve math problems.",
+            "sent3": "The cat taught the dog a lesson about knocking over plants.",
+            "sent4": "The wise old owl taught the young birds how to fly.",
+            "sent5": "The experienced chef taught the new cook the secret recipe for chocolate cake."
         },
         {
             "definition": "instructed or trained in a particular skill or subject",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The well-taught students aced the test with ease.",
+            "sent2": "She is a highly sought-after, well-taught piano teacher.",
+            "sent3": "The fluffy dog looked quite taught after his grooming session.",
+            "sent4": "The taught rope held the swing securely in place.",
+            "sent5": "The well-taught artist's paintings were admired by all who saw them."
         }
     ]
 }

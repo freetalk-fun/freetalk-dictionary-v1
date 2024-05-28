@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A smaller network within a larger network, typically used for organizational purposes.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The company's IT department set up subnetworks for each department to improve efficiency.",
+            "sent2": "The subnetworks within the main server help to streamline communication between different teams.",
+            "sent3": "The subnetworks at the office party were the marketing team, the sales team, and the IT team.",
+            "sent4": "Just like a beehive, the subnetworks in the organization work together to achieve a common goal.",
+            "sent5": "In the digital world, subnetworks are like small communities within a bustling city."
         },
         {
             "definition": "To divide a network into smaller, more manageable sections.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The IT specialist will subnetworks the main server to enhance security measures.",
+            "sent2": "It is important to subnetworks a large network to prevent data congestion.",
+            "sent3": "When the network engineer decided to subnetworks the system, everyone cheered for faster internet!",
+            "sent4": "She skillfully subnetworks the complex network, making it easier to troubleshoot issues.",
+            "sent5": "The decision to subnetworks the company's network was a game-changer for productivity."
         }
     ]
 }

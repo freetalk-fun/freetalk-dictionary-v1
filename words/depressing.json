@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Causing or resulting in a feeling of sadness or despondency.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The rainy weather was so depressing that I felt very sad.",
+            "sent2": "The movie's ending was really depressing, making everyone feel down.",
+            "sent3": "It's a bit depressing how my cat always beats me at chess.",
+            "sent4": "The weight of the world felt like a depressing burden on his shoulders.",
+            "sent5": "The empty playground was a depressing sight on a sunny day."
         },
         {
             "definition": "Reducing the level or strength of something.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She found that turning off the lights was depressing the room's brightness.",
+            "sent2": "The medication was depressing his immune system, making him more susceptible to illness.",
+            "sent3": "The magician's trick involved depressing the volume of the music with a wave of his hand.",
+            "sent4": "The economic crisis was depressing the value of the currency rapidly.",
+            "sent5": "The teacher's strict rules were depressing the students' creativity."
         },
         {
             "definition": "Pressing down or lowering in position.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The depressing weight of the heavy box made it hard to lift.",
+            "sent2": "The depressing force of gravity kept the object firmly on the ground.",
+            "sent3": "The depressing lid of the jar was stuck and wouldn't open.",
+            "sent4": "The depressing pressure of the water crushed the submarine's hull.",
+            "sent5": "The depressing ceiling in the old house made the rooms feel small."
         }
     ]
 }

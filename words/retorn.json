@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To come or go back to a place.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "After exploring the forest, we will retorn to our campsite before dark.",
+            "sent2": "I need to retorn to the store to pick up some groceries.",
+            "sent3": "The lost puppy decided to retorn to its owner's house for a warm bed.",
+            "sent4": "As the sun sets, the waves retorn to the shore, creating a calming rhythm.",
+            "sent5": "The migrating birds will retorn to this area next spring."
         },
         {
             "definition": "To give or send back.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Please retorn the book to the library when you are done reading it.",
+            "sent2": "I need to retorn this package to the sender because it was delivered to the wrong address.",
+            "sent3": "The magician asked the audience to retorn the playing card after his trick.",
+            "sent4": "The kind neighbor always makes sure to retorn borrowed tools promptly.",
+            "sent5": "The company policy requires employees to retorn any faulty equipment for repair."
         },
         {
             "definition": "To bring or send back to a former or less developed state.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The drought has caused the farmland to retorn to a barren state.",
+            "sent2": "The economic crisis could potentially retorn the country to poverty if not addressed.",
+            "sent3": "The time machine malfunctioned and accidentally retorned the city to the medieval era.",
+            "sent4": "The virus has the ability to retorn the body to a weakened condition.",
+            "sent5": "The sudden change in leadership could retorn the organization to chaos if not managed properly."
         }
     ]
 }

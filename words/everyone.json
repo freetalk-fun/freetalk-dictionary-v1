@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Every person",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Everyone in the class was excited for the field trip.",
+            "sent2": "Everyone gathered around the birthday cake to sing.",
+            "sent3": "Everyone at the party wore silly hats and danced.",
+            "sent4": "In the story, everyone in the village had a secret.",
+            "sent5": "The teacher made sure everyone understood the math problem."
         },
         {
             "definition": "Every single person",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Everyone in the family enjoyed the movie night.",
+            "sent2": "Everyone cheered when the team scored a goal.",
+            "sent3": "Everyone at the park had ice cream cones.",
+            "sent4": "The artist painted a portrait of everyone in the town.",
+            "sent5": "The doctor checked on everyone in the waiting room."
         },
         {
             "definition": "Every one of a group of people",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Everyone on the team received a medal for their hard work.",
+            "sent2": "Everyone at the meeting shared their ideas.",
+            "sent3": "Everyone in the play had a special costume.",
+            "sent4": "The chef prepared a dish for everyone at the party.",
+            "sent5": "The tour guide made sure everyone saw the famous landmarks."
         }
     ]
 }

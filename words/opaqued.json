@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Make (something) hard to understand or see through.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The fog opaqued the view of the mountains.",
+            "sent2": "The curtains opaqued the sunlight streaming into the room.",
+            "sent3": "The magician's trick opaqued the audience's ability to follow his movements.",
+            "sent4": "Her lies opaqued the truth like a dense fog.",
+            "sent5": "The thick paint opaqued the once transparent glass jar."
         },
         {
             "definition": "Render (something) opaque.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The frosted glass opaqued the bathroom window.",
+            "sent2": "The dust on the mirror opaqued the reflection.",
+            "sent3": "The clumsy brush strokes opaqued the artist's intended effect.",
+            "sent4": "The heavy rain opaqued the once clear pond water.",
+            "sent5": "The steam from the kettle opaqued the kitchen window."
         },
         {
             "definition": "Become opaque.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The glass of the window opaqued as the temperature dropped.",
+            "sent2": "The liquid in the container opaqued over time.",
+            "sent3": "The once clear sky opaqued with dark storm clouds.",
+            "sent4": "The water in the pot opaqued as it reached boiling point.",
+            "sent5": "The plastic bag opaqued as it was exposed to sunlight for too long."
         }
     ]
 }

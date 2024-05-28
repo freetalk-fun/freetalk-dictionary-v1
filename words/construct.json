@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To build or create something.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I will construct a sandcastle at the beach tomorrow.",
+            "sent2": "The workers will construct a new bridge over the river.",
+            "sent3": "The children tried to construct a spaceship out of cardboard boxes.",
+            "sent4": "She could construct a beautiful melody with just a few notes.",
+            "sent5": "The artist used various colors to construct a vibrant painting."
         },
         {
             "definition": "A concept or idea that is formed by combining different elements.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The theory of relativity is a complex construct in physics.",
+            "sent2": "Language is a human construct used for communication.",
+            "sent3": "In his dream, he encountered a strange construct of a flying elephant.",
+            "sent4": "The novel's plot was a clever construct of suspense and mystery.",
+            "sent5": "The concept of time is a difficult construct for young children to grasp."
         },
         {
             "definition": "An object or structure that has been built or made.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The Eiffel Tower is an iconic construct in Paris.",
+            "sent2": "The architect designed a modern construct for the new museum.",
+            "sent3": "The children's fort in the backyard was a simple construct of blankets and chairs.",
+            "sent4": "Her argument was a solid construct supported by evidence.",
+            "sent5": "The spacecraft was an impressive construct of metal and technology."
         }
     ]
 }

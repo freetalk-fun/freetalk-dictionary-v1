@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "The power of the mind to think, understand, and form judgments logically.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Using reason, she figured out the puzzle easily.",
+            "sent2": "His reason for choosing the red car was its speed.",
+            "sent3": "The cat's reason for knocking over the vase was to get attention.",
+            "sent4": "In the courtroom, logic and reason prevailed.",
+            "sent5": "The teacher emphasized the importance of reason in problem-solving."
         },
         {
             "definition": "A cause, explanation, or justification for an action or event.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The storm was the reason for the power outage.",
+            "sent2": "She couldn't find a reason for his sudden disappearance.",
+            "sent3": "The dog's reason for barking at the mailman was unknown.",
+            "sent4": "Love can sometimes defy all reason.",
+            "sent5": "The lack of evidence cast doubt on the reason for the arrest."
         },
         {
             "definition": "To think, understand, and form judgments logically.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He tried to reason with his little brother about sharing toys.",
+            "sent2": "She reasoned that studying a little each day would lead to success.",
+            "sent3": "The robot tried to reason out the best path to the finish line.",
+            "sent4": "The detective reasoned that the suspect was lying based on his body language.",
+            "sent5": "It's important to reason carefully before making a decision."
         }
     ]
 }

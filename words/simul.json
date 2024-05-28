@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Simultaneous: occurring, operating, or done at the same time",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The twins arrived at the party at the same time, making a simul entrance.",
+            "sent2": "The synchronized swimmers moved in a simul manner, creating a beautiful performance.",
+            "sent3": "The magician's simul tricks amazed the audience with their perfect timing.",
+            "sent4": "The orchestra played in a simul fashion, producing a harmonious melody.",
+            "sent5": "The traffic lights turned green simul, allowing all cars to move forward together."
         },
         {
             "definition": "Simulate: imitate the appearance or character of",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She tried to simul the sound of a bird by whistling in the park.",
+            "sent2": "The virtual reality game can simul real-life experiences for the players.",
+            "sent3": "The actor had to simul the mannerisms of a famous historical figure for the movie.",
+            "sent4": "The artist used special effects to simul a storm in his painting.",
+            "sent5": "The robot was programmed to simul human movements with precision."
         },
         {
             "definition": "Simultaneously: at the same time; concurrently",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "The dancers performed their routine simul, impressing the audience.",
+            "sent2": "The singers started singing simul, creating a beautiful harmony.",
+            "sent3": "The chefs cooked the meal simul, ensuring everything was ready together.",
+            "sent4": "The athletes crossed the finish line simul, ending the race in a tie.",
+            "sent5": "The students submitted their assignments simul, avoiding any delays."
         }
     ]
 }

@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "An organism that lives in close association with another organism without causing harm or benefit.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The bird that perches on the buffalo's back is a commensal.",
+            "sent2": "The tiny fish that cleans the shark's teeth is a commensal.",
+            "sent3": "The squirrel that shares the tree with the birds is a commensal, enjoying the view.",
+            "sent4": "The flower that grows in the shade of the larger plant is a commensal, relying on its protection.",
+            "sent5": "The butterfly that feeds on the nectar of the flower is a commensal, contributing to pollination."
         },
         {
             "definition": "Of or relating to a commensal organism.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The relationship between the two species is commensal, with one benefiting and the other unaffected.",
+            "sent2": "The bacteria's commensal behavior allows it to thrive in the host's gut.",
+            "sent3": "The cat's commensal nature makes it content to simply observe the world from the window.",
+            "sent4": "The plant's commensal roots intertwine with those of its neighbor, sharing nutrients.",
+            "sent5": "The bird's commensal feathers provide insulation for the tree frog, keeping it warm."
         },
         {
             "definition": "A commensal organism.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The remora fish is a commensal, hitching a ride on the shark for protection.",
+            "sent2": "The barnacle is a commensal, attaching itself to the whale's skin for support.",
+            "sent3": "The hermit crab is a commensal, using the discarded shell of another creature as its home.",
+            "sent4": "The mistletoe plant is a commensal, growing on the branches of a tree without harming it.",
+            "sent5": "The oxpecker bird is a commensal, feeding on parasites from the back of a rhinoceros."
         }
     ]
 }

@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A person who relies on another for support or sustenance.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The child was a dependant on his parents for food and shelter.",
+            "sent2": "The elderly woman became a dependant on her caregiver for daily assistance.",
+            "sent3": "The puppy was a dependant on its owner for walks and playtime.",
+            "sent4": "The bird's nest was a dependant on the tree branches for stability.",
+            "sent5": "The injured bird became a dependant on the wildlife rehabilitator for care and healing."
         },
         {
             "definition": "Contingent on something else.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The success of the project was dependant on the weather conditions.",
+            "sent2": "Her decision to travel was dependant on her work schedule.",
+            "sent3": "The outcome of the experiment was dependant on the accuracy of the measurements.",
+            "sent4": "The growth of the plant was dependant on the amount of sunlight it received.",
+            "sent5": "The team's victory was dependant on each player's performance on the field."
         }
     ]
 }

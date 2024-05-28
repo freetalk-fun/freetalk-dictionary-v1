@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "past tense of sell",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Yesterday, I sold my old bike for some extra cash.",
+            "sent2": "She sold her handmade jewelry at the craft fair.",
+            "sent3": "The cat sold its owner out by meowing loudly when they were trying to hide.",
+            "sent4": "His convincing arguments sold me on the idea of going on a road trip.",
+            "sent5": "The enthusiastic salesman sold the vacuum cleaner with great flair."
         },
         {
             "definition": "having been exchanged for money or goods",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The sold car was in great condition for its age.",
+            "sent2": "The sold-out concert left many fans disappointed.",
+            "sent3": "The sold shirt had a unique design that caught everyone's attention.",
+            "sent4": "Her sold phone was a bargain compared to the brand new models.",
+            "sent5": "The sold painting fetched a high price at the auction."
         },
         {
             "definition": "disposed of by selling",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The company sold all its old inventory to make room for new products.",
+            "sent2": "They sold their old house to move into a bigger one.",
+            "sent3": "The magician sold his tricks to the highest bidder.",
+            "sent4": "She sold her collection of stamps to a passionate collector.",
+            "sent5": "The farmer sold his crops at the market every weekend."
         }
     ]
 }

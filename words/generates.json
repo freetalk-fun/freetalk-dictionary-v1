@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To produce or create something",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The sun generates light and warmth for us.",
+            "sent2": "The factory generates a lot of pollution with its smokestacks.",
+            "sent3": "The magician's wand generates endless amounts of colorful confetti.",
+            "sent4": "Her smile generates a feeling of happiness in everyone around her.",
+            "sent5": "The artist's brush generates beautiful landscapes on the canvas."
         },
         {
             "definition": "To bring about or cause something to happen",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Eating healthy food generates good energy in our bodies.",
+            "sent2": "The loud noise generated a sense of panic among the crowd.",
+            "sent3": "The unexpected plot twist in the movie generates laughter from the audience.",
+            "sent4": "His inspiring speech generated a wave of motivation among the team.",
+            "sent5": "The sudden rainstorm generated chaos on the streets."
         }
     ]
 }

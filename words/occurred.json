@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Happened",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The event occurred yesterday.",
+            "sent2": "The accident occurred on the busy street.",
+            "sent3": "It occurred to me that I forgot my lunch at home.",
+            "sent4": "The idea occurred to him like a bolt of lightning.",
+            "sent5": "The storm occurred suddenly, catching everyone off guard."
         },
         {
             "definition": "Took place",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The meeting occurred in the conference room.",
+            "sent2": "The celebration occurred at the park.",
+            "sent3": "The thought occurred to him at the oddest moment.",
+            "sent4": "The change occurred in her life like a sunrise.",
+            "sent5": "The concert occurred under the starry sky, creating a magical atmosphere."
         },
         {
             "definition": "Came to pass",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The prophecy occurred just as foretold.",
+            "sent2": "The prediction occurred without any doubt.",
+            "sent3": "The idea occurred to her in a dream.",
+            "sent4": "The transformation occurred in the blink of an eye.",
+            "sent5": "The miracle occurred, leaving everyone in awe."
         }
     ]
 }

@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A small bird with a long tail and a mouse-like appearance.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The mousebird chirped softly in the tree.",
+            "sent2": "I saw a beautiful mousebird flying gracefully in the sky.",
+            "sent3": "The mousebird tried to hide in the bushes but its long tail gave it away.",
+            "sent4": "Her delicate movements were as quiet as a mousebird's flight.",
+            "sent5": "The mousebird's appearance was so unique, with its long tail resembling a mouse."
         },
         {
             "definition": "To move quietly and stealthily, like a mousebird.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She tried to mousebird her way through the room without making a sound.",
+            "sent2": "The ninja was able to mousebird past the guards without being noticed.",
+            "sent3": "He mousebirded around the house, trying not to wake anyone up.",
+            "sent4": "The spy had to mousebird through the dark alley to avoid detection.",
+            "sent5": "The cat tried to mousebird closer to the bird without being seen."
         }
     ]
 }

@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A person who delays or puts off action or decision.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The delayer always waits until the last minute to finish tasks.",
+            "sent2": "The team was late because the delayer didn't submit the report on time.",
+            "sent3": "The delayer joked that procrastination was their superpower.",
+            "sent4": "Her habit of being a delayer turned the project into a never-ending journey.",
+            "sent5": "The image of the delayer sitting back while others rushed around stuck in everyone's mind."
         },
         {
             "definition": "To cause a delay or postpone action or decision.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Please don't delayer the meeting any longer; we need to make a decision.",
+            "sent2": "The heavy traffic delayered their arrival at the airport.",
+            "sent3": "The unexpected rain delayered their plans for a picnic.",
+            "sent4": "His constant excuses delayered the completion of the project.",
+            "sent5": "The technical issue delayered the launch of the new product."
         }
     ]
 }

@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Half of a whole",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I ate one of the halfs of the sandwich.",
+            "sent2": "She shared the cake with me, and I got one of the halfs.",
+            "sent3": "The two halfs of the heart-shaped locket fit perfectly together.",
+            "sent4": "The two halfs of the broken mirror reflected a distorted image.",
+            "sent5": "The two halfs of the puzzle finally connected to reveal the complete picture."
         },
         {
             "definition": "To divide into two equal parts",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She halfs the pizza before serving it to the guests.",
+            "sent2": "He always halfs the apples to share with his sister.",
+            "sent3": "The magician halfs the rope, but then magically restores it.",
+            "sent4": "The decision to halfs the responsibilities between the team members was fair.",
+            "sent5": "The chef carefully halfs the ingredients to ensure equal portions in each dish."
         }
     ]
 }

@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "An abnormality in the tissue of an organism, typically caused by disease or injury.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The doctor found a small lesion on the patient's skin during the examination.",
+            "sent2": "The lesion on the leaf was caused by a tiny insect.",
+            "sent3": "The lesion on the tree bark looked like a tiny heart shape.",
+            "sent4": "The lesion on the fruit made it look like it was crying sap.",
+            "sent5": "The lesion on the rock was a bright red color, standing out against the gray stone."
         },
         {
             "definition": "To cause damage to tissue through disease or injury.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The infection can lesion the skin if not treated promptly.",
+            "sent2": "Accidentally hitting your knee can lesion the tissue underneath.",
+            "sent3": "The bacteria seemed determined to lesion every part of the plant.",
+            "sent4": "The harsh weather can lesion the delicate petals of the flower.",
+            "sent5": "The constant rubbing can lesion the skin, leading to irritation."
         }
     ]
 }

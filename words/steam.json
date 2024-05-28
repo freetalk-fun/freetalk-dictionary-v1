@@ -3,19 +3,39 @@
     "meanings": [
         {
             "definition": "The hot vapor that rises from boiling water.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The steam from the kettle was hot.",
+            "sent2": "I could see the steam rising from the pot of boiling water.",
+            "sent3": "The steam danced above the teapot, like a tiny cloud.",
+            "sent4": "The steam enveloped the room, creating a cozy atmosphere.",
+            "sent5": "The steam billowed out of the sauna, inviting relaxation."
         },
         {
             "definition": "To emit steam or vapor.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The engine began to steam as it heated up.",
+            "sent2": "The tea kettle steamed on the stove.",
+            "sent3": "The cup of coffee seemed to steam with anticipation.",
+            "sent4": "His anger seemed to steam out of his ears.",
+            "sent5": "The pot steamed with the aroma of freshly cooked vegetables."
         },
         {
             "definition": "To cook with steam.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She liked to steam her vegetables for a healthy meal.",
+            "sent2": "The chef decided to steam the fish for dinner.",
+            "sent3": "The kitchen was filled with the delicious smell of steaming dumplings.",
+            "sent4": "The vegetables steamed gently in the pot.",
+            "sent5": "The rice cooker steamed the grains to perfection."
         },
         {
             "definition": "To move or travel by steam power.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The old locomotive steamed down the tracks.",
+            "sent2": "The steamboat slowly steamed along the river.",
+            "sent3": "The car steamed ahead on the highway.",
+            "sent4": "The train steamed through the countryside, whistling cheerfully.",
+            "sent5": "The steam engine powered the ship across the ocean."
         }
     ]
 }

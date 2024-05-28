@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A device that generates an intense beam of coherent monochromatic light.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The laser in the lab emitted a bright red light.",
+            "sent2": "The surgeon used a laser to precisely remove the tumor.",
+            "sent3": "The mischievous cat chased the laser beam around the room.",
+            "sent4": "Her eyes followed the laser pointer like a hawk hunting its prey.",
+            "sent5": "The laser beam cut through the metal with incredible precision."
         },
         {
             "definition": "To treat with a laser.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The dermatologist will laser off the unwanted hair.",
+            "sent2": "They decided to laser the tattoo for removal.",
+            "sent3": "He jokingly said he would laser away his bad luck.",
+            "sent4": "Her determination to succeed laser-focused her efforts.",
+            "sent5": "The artist carefully lasered intricate designs onto the glass."
         }
     ]
 }

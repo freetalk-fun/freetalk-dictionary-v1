@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A piece of written, printed, or electronic matter that provides information or evidence.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The documents in the folder contained important information.",
+            "sent2": "She kept all her travel documents in a safe place.",
+            "sent3": "The detective found a clue in the old documents.",
+            "sent4": "Her smile was like a stack of neatly organized documents.",
+            "sent5": "The documents fluttered in the wind, revealing their secrets."
         },
         {
             "definition": "To record in detail.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He documents his daily activities in a journal.",
+            "sent2": "The historian documents events from the past.",
+            "sent3": "The chef documents her recipes for future reference.",
+            "sent4": "The artist documents the changing seasons in her paintings.",
+            "sent5": "The scientist documents the experiment results meticulously."
         }
     ]
 }

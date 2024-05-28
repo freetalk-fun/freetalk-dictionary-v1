@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To trace incorrectly or inaccurately.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She always mistraces her steps when trying to find her way back home.",
+            "sent2": "The detective mistraces the suspect's movements in the crime scene.",
+            "sent3": "The cat mistraces its path and ends up at the neighbor's house instead of its own.",
+            "sent4": "Her memory mistraces the events of that day like a faulty map.",
+            "sent5": "The artist's hand mistraces the outline of the portrait, creating a unique interpretation."
         },
         {
             "definition": "To fail to trace or follow correctly.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He often mistraces the instructions and gets lost in the process.",
+            "sent2": "The hiker mistraces the trail and ends up in unfamiliar territory.",
+            "sent3": "The robot mistraces the code and starts dancing instead of cleaning.",
+            "sent4": "His mind mistraces the logic, leading to a wrong conclusion.",
+            "sent5": "The child's finger mistraces the letters, making the word hard to read."
         },
         {
             "definition": "A trace or mark that is incorrect or inaccurate.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The map had many mistraces, causing confusion for the travelers.",
+            "sent2": "The forgery was discovered due to the mistraces left by the forger.",
+            "sent3": "The artist intentionally added mistraces to the painting for a unique effect.",
+            "sent4": "The mistraces on the document raised doubts about its authenticity.",
+            "sent5": "The detective found a mistrace that led to a breakthrough in the case."
         }
     ]
 }

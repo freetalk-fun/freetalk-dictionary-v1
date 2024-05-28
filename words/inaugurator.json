@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A person who inaugurates something.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The school principal was the inaugurator of the new library.",
+            "sent2": "The inaugurator of the event gave a heartfelt speech.",
+            "sent3": "The inaugurator accidentally tripped on the stage, causing a moment of laughter.",
+            "sent4": "She was the inaugurator of change in the community, sparking a wave of progress.",
+            "sent5": "The inaugurator's presence filled the room with a sense of importance."
         },
         {
             "definition": "To inaugurate or initiate something.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "They will inaugurate the new building with a ribbon-cutting ceremony.",
+            "sent2": "The President will inaugurate his second term in office next week.",
+            "sent3": "The team decided to inaugurate their victory with a celebratory dinner.",
+            "sent4": "Her speech will inaugurate a new era of collaboration among the departments.",
+            "sent5": "The ringing of the bell will inaugurate the start of the school day."
         }
     ]
 }

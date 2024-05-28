@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A word or phrase formed by rearranging the letters of another word or phrase.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I enjoy solving anagrams in the newspaper.",
+            "sent2": "She quickly solved the anagrams in the puzzle book.",
+            "sent3": "The anagrams in the game were tricky but fun to figure out.",
+            "sent4": "The anagrams of my name revealed some interesting combinations.",
+            "sent5": "The anagrams challenge at the party was a hit with everyone."
         },
         {
             "definition": "To rearrange the letters of a word or phrase to form a new word or phrase.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Let's see if we can anagrams the word 'silent' into something else.",
+            "sent2": "He enjoys anagraming words to create funny phrases.",
+            "sent3": "She decided to anagrams her name just for fun.",
+            "sent4": "The poet loves to anagrams words to express deeper meanings.",
+            "sent5": "They will anagrams the secret message to decode it."
         }
     ]
 }

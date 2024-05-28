@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Control or maintain the rate or speed of (a machine or process)",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The thermostat regulates the temperature in the house.",
+            "sent2": "The traffic light regulates the flow of cars on the road.",
+            "sent3": "The referee regulates the game to ensure fair play.",
+            "sent4": "Like a conductor, he regulates the orchestra to create beautiful music.",
+            "sent5": "The governor regulates the state's policies to keep things running smoothly."
         },
         {
             "definition": "Control or supervise by means of rules and regulations",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The teacher regulates the classroom to maintain order.",
+            "sent2": "The government regulates the food industry to ensure safety.",
+            "sent3": "The librarian regulates the borrowing of books in the library.",
+            "sent4": "The coach regulates the team's training schedule for optimal performance.",
+            "sent5": "The police officer regulates traffic to prevent accidents."
         },
         {
             "definition": "Adjust or maintain the rate or degree of (a chemical reaction)",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The scientist regulates the temperature to control the chemical reaction.",
+            "sent2": "The chemist regulates the pH level to achieve the desired outcome.",
+            "sent3": "The lab assistant regulates the mixing of chemicals to avoid explosions.",
+            "sent4": "The researcher regulates the pressure to ensure a successful reaction.",
+            "sent5": "The student regulates the timing of the experiment for accurate results."
         }
     ]
 }

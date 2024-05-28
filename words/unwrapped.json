@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Not covered or enclosed",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The candy bar was left unwrapped on the table.",
+            "sent2": "The gift remained unwrapped under the tree.",
+            "sent3": "The unwrapped present caught the attention of the curious cat.",
+            "sent4": "The unwrapped box revealed its contents to everyone.",
+            "sent5": "The unwrapped umbrella got soaked in the rain."
         },
         {
             "definition": "To remove the wrapping from something",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She unwrapped the chocolate bar and took a bite.",
+            "sent2": "He unwrapped the birthday present with excitement.",
+            "sent3": "The magician unwrapped the scarf to reveal a dove.",
+            "sent4": "The detective unwrapped the mystery to find the culprit.",
+            "sent5": "The child unwrapped the toy and played with it joyfully."
         }
     ]
 }

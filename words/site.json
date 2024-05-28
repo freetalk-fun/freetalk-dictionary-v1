@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "The place where something is located or where an event takes place.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The construction workers gathered at the site to begin building the new school.",
+            "sent2": "The campsite by the lake was a perfect spot for a weekend getaway.",
+            "sent3": "The picnic site was so popular that even the ants wanted to join the feast.",
+            "sent4": "Her smile lit up the room, making her the brightest site in the party.",
+            "sent5": "The historical site was a treasure trove of ancient artifacts."
         },
         {
             "definition": "A website on the internet.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I found the information I needed on the site after a quick search.",
+            "sent2": "The online shopping site had a wide variety of products to choose from.",
+            "sent3": "The website's design made it look like a virtual wonderland.",
+            "sent4": "Her blog was a colorful site filled with creative content.",
+            "sent5": "The news site provided updates on current events around the world."
         },
         {
             "definition": "To place or locate something in a particular position.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She decided to site the new sculpture in the center of the garden.",
+            "sent2": "The architect carefully sited the new building to maximize sunlight exposure.",
+            "sent3": "He tried to site the vase on the shelf, but it kept tipping over.",
+            "sent4": "The artist sited the painting against the dark background for contrast.",
+            "sent5": "The chef sited the dessert at the center of the plate for a stunning presentation."
         }
     ]
 }

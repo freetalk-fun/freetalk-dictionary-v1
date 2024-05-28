@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Past tense of 'see'",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Yesterday, I sene a beautiful rainbow in the sky.",
+            "sent2": "I sene my friend at the park yesterday.",
+            "sent3": "I sene a squirrel trying to hide its acorn in my shoe!",
+            "sent4": "Her smile sene through the darkness like a beacon of hope.",
+            "sent5": "The memory of that day sene in my mind like a vivid painting."
         },
         {
             "definition": "Old English word meaning 'since' or 'ago'",
-            "pos": "preposition"
+            "pos": "preposition",
+            "sent1": "She has been my friend sene we were kids.",
+            "sent2": "I haven't seen him sene last year.",
+            "sent3": "I've been waiting for you sene the cows came home!",
+            "sent4": "The bond between them has grown stronger sene they first met.",
+            "sent5": "The tree has been standing tall sene the beginning of time."
         }
     ]
 }

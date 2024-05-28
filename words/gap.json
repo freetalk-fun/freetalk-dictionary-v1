@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "An opening or space between two objects.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The cat squeezed through the small gap in the fence.",
+            "sent2": "The hikers crossed the wide gap between the two cliffs.",
+            "sent3": "The gap in the clouds allowed a ray of sunshine to peek through.",
+            "sent4": "The gap in the market for affordable housing was quickly filled by new developers.",
+            "sent5": "The gap in the wall revealed a hidden room filled with treasures."
         },
         {
             "definition": "A difference or discrepancy between two things.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "There was a noticeable gap in their opinions on the matter.",
+            "sent2": "The wealth gap between the two families was quite evident.",
+            "sent3": "The gap in their tastes led to interesting debates about music.",
+            "sent4": "The generation gap between them seemed to grow wider with each passing year.",
+            "sent5": "The gap in their ages didn't stop them from becoming good friends."
         },
         {
             "definition": "A pause or break in a conversation or activity.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "There was an awkward gap in the conversation before someone changed the topic.",
+            "sent2": "The pianist played without a single gap in the music.",
+            "sent3": "The gap in the meeting allowed everyone to catch their breath.",
+            "sent4": "The gap in the traffic gave him a chance to cross the street safely.",
+            "sent5": "The gap in the play added suspense to the final act."
         }
     ]
 }

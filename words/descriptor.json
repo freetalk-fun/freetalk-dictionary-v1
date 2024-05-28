@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A word or phrase that describes or identifies something.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The teacher used the descriptor 'tall' to talk about the giraffe.",
+            "sent2": "The book's descriptor on the back cover caught my attention.",
+            "sent3": "The descriptor 'spiky' made the cactus sound like a superhero name.",
+            "sent4": "Her laughter was a descriptor of joy that filled the room.",
+            "sent5": "The descriptor 'mysterious' painted an intriguing image in my mind."
         },
         {
             "definition": "A data item that provides information about other data.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The file's descriptor indicated its size and type.",
+            "sent2": "The descriptor in the database helped organize the information efficiently.",
+            "sent3": "The descriptor 'confused' on the error message made me chuckle.",
+            "sent4": "The descriptor acted like a guide, leading us to the relevant data.",
+            "sent5": "The descriptor 'critical' highlighted the importance of the information."
         }
     ]
 }

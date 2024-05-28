@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A theorem in probability theory that describes the probability of an event, based on prior knowledge of conditions that might be related to the event.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Bayes helps us calculate the chance of something happening.",
+            "sent2": "Scientists use Bayes to understand how likely an outcome is.",
+            "sent3": "I used Bayes to predict if my sandwich would fall on the floor.",
+            "sent4": "Bayes is like a detective solving a mystery with clues from the past.",
+            "sent5": "Learning about Bayes makes predicting events easier."
         },
         {
             "definition": "A method of statistical inference.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Using Bayes helps us make educated guesses based on data.",
+            "sent2": "Bayes is a tool statisticians use to draw conclusions from information.",
+            "sent3": "I tried using Bayes to predict the weather, but it thought it would rain cookies.",
+            "sent4": "Bayes is like a compass guiding us through the sea of statistics.",
+            "sent5": "Mastering Bayes can lead to better decision-making in research."
         }
     ]
 }

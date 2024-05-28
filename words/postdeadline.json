@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "After the deadline",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "The student handed in his assignment postdeadline.",
+            "sent2": "She arrived postdeadline to the party.",
+            "sent3": "The rabbit hopped postdeadline to the finish line.",
+            "sent4": "The sun set postdeadline, casting a warm glow over the horizon.",
+            "sent5": "The train departed postdeadline, leaving the platform empty."
         },
         {
             "definition": "Occurring or submitted after the deadline",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The postdeadline submission was not accepted.",
+            "sent2": "Her postdeadline arrival caused a delay.",
+            "sent3": "The postdeadline cake was a surprise for the birthday girl.",
+            "sent4": "The postdeadline decision led to unexpected consequences.",
+            "sent5": "The postdeadline package finally arrived, much to their relief."
         },
         {
             "definition": "To submit or deliver after the deadline",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He had to postdeadline his application due to unforeseen circumstances.",
+            "sent2": "She postdeadlined the report to her boss.",
+            "sent3": "The squirrel postdeadlined the acorns for winter storage.",
+            "sent4": "They postdeadline their apologies for missing the meeting.",
+            "sent5": "The company postdeadlined the project, causing a delay in completion."
         }
     ]
 }

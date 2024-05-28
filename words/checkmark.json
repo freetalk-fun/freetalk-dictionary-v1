@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A mark indicating that something has been noted, verified, or completed.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I put a checkmark next to my name on the attendance sheet.",
+            "sent2": "She added a checkmark to the list of tasks she completed.",
+            "sent3": "The checkmark on the test paper made me smile.",
+            "sent4": "His signature was like a checkmark, confirming the agreement.",
+            "sent5": "The bright red checkmark stood out on the white paper."
         },
         {
             "definition": "To mark with a checkmark.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Please checkmark the items you have packed in the box.",
+            "sent2": "He always checkmarks his to-do list once he finishes a task.",
+            "sent3": "I checkmark my calendar to make sure I don't forget important dates.",
+            "sent4": "Her dedication to her work checkmarks her as a reliable employee.",
+            "sent5": "The teacher asked us to checkmark the correct answers on the quiz."
         },
         {
             "definition": "A symbol in the shape of a V, used to indicate that something is correct or has been done.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The online form had a green checkmark next to the completed sections.",
+            "sent2": "He drew a checkmark on his paper to show he got the answer right.",
+            "sent3": "The checkmark on the cake was a delightful surprise for the birthday girl.",
+            "sent4": "Her smile was like a checkmark of approval for his efforts.",
+            "sent5": "The checkmark on the map showed the correct route to take."
         }
     ]
 }

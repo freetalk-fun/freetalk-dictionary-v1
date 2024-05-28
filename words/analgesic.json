@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A medication that relieves pain.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The doctor prescribed an analgesic for my headache.",
+            "sent2": "She took an analgesic after her dental surgery.",
+            "sent3": "The analgesic worked like magic, making the pain disappear instantly.",
+            "sent4": "The analgesic was a lifesaver, dulling the sharp ache in her back.",
+            "sent5": "The analgesic acted swiftly, soothing the throbbing pain in his knee."
         },
         {
             "definition": "Relating to or causing analgesia.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The analgesic cream provided relief for her sore muscles.",
+            "sent2": "The analgesic properties of the medication helped alleviate his discomfort.",
+            "sent3": "She joked that his hugs were so analgesic, they made her forget all her worries.",
+            "sent4": "The music had an analgesic effect on her mind, calming her nerves.",
+            "sent5": "The warm bath had an analgesic quality, easing the tension in her shoulders."
         }
     ]
 }

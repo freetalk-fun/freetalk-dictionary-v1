@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Software that is unnecessarily large or filled with unnecessary features, causing it to run slowly or take up excessive space on a device.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The bloatware on my computer made it so slow.",
+            "sent2": "I had to delete the bloatware to free up space on my phone.",
+            "sent3": "The bloatware on my tablet was like having a backpack full of rocks.",
+            "sent4": "The bloatware weighed down my laptop like a ton of bricks.",
+            "sent5": "Removing the bloatware felt like shedding a heavy burden."
         },
         {
             "definition": "To install unnecessary or excessive software on a device, causing it to run slowly or take up excessive space.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I accidentally bloatwared my new computer with unnecessary programs.",
+            "sent2": "Make sure not to bloatware your phone with apps you don't need.",
+            "sent3": "He bloatwared his laptop with so many games, it almost crashed.",
+            "sent4": "Her computer was bloatwared to the point of being unusable.",
+            "sent5": "Bloatwaring your device is like filling a suitcase with rocks before a trip."
         }
     ]
 }

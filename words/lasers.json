@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A device that emits a narrow, intense beam of light.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The lasers in the lab were used for cutting metal.",
+            "sent2": "The surgeon used lasers to remove the tumor from the patient's body.",
+            "sent3": "The mischievous cat chased the laser around the room.",
+            "sent4": "Her eyes lit up like lasers when she saw the surprise party.",
+            "sent5": "The lasers danced across the stage, captivating the audience."
         },
         {
             "definition": "To treat with a laser.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The dermatologist lasers off unwanted hair for her clients.",
+            "sent2": "They decided to lasers the old tattoo to remove it completely.",
+            "sent3": "He playfully joked that he could lasers away his wrinkles.",
+            "sent4": "She lasers the stubborn stain on the carpet, making it disappear.",
+            "sent5": "The superhero lasers through the steel door to rescue the hostages."
         }
     ]
 }

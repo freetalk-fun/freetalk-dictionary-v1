@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A weapon with a long metal blade and hilt",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The knight carried a shiny sword into battle.",
+            "sent2": "Sheathed in its scabbard, the sword gleamed in the sunlight.",
+            "sent3": "The sword seemed to whisper tales of ancient battles.",
+            "sent4": "His words were as sharp as a sword, cutting through the silence.",
+            "sent5": "The sword's edge reflected the warrior's determination."
         },
         {
             "definition": "To cut or strike with a sword",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He learned how to swordfight from a master swordsman.",
+            "sent2": "The samurai swiftly sworded through the enemy ranks.",
+            "sent3": "She playfully sworded at the overgrown bushes in the garden.",
+            "sent4": "His words sworded through her defenses, leaving her vulnerable.",
+            "sent5": "The chef expertly sworded the vegetables with precision."
         }
     ]
 }

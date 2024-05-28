@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Make partial or minor changes to (something)",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I will modify the recipe by adding more salt.",
+            "sent2": "She likes to modify her clothes to make them fit better.",
+            "sent3": "I tried to modify my hairstyle, but it ended up looking funny.",
+            "sent4": "The artist modified the painting with bold brush strokes.",
+            "sent5": "He modified his workout routine to include more cardio exercises."
         },
         {
             "definition": "Limit or restrict (something)",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Please modify the number of guests allowed at the party.",
+            "sent2": "The new rules will modify the way we use the equipment.",
+            "sent3": "I had to modify my plans when it started raining unexpectedly.",
+            "sent4": "The strict diet modified her food choices significantly.",
+            "sent5": "The teacher modified the assignment deadline to accommodate the students' schedules."
         }
     ]
 }

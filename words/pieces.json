@@ -3,19 +3,39 @@
     "meanings": [
         {
             "definition": "A part of a whole",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "She put together the puzzle pieces to complete the picture.",
+            "sent2": "The broken vase lay in pieces on the floor.",
+            "sent3": "The cat played with the pieces of string, thinking they were mice.",
+            "sent4": "Her heart shattered into pieces when she heard the news.",
+            "sent5": "The detective carefully examined the pieces of evidence to solve the case."
         },
         {
             "definition": "A work of art",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The artist displayed her latest pieces at the gallery.",
+            "sent2": "The museum showcased famous pieces by renowned painters.",
+            "sent3": "The children's play was a delightful piece of theater.",
+            "sent4": "Her dance performance was a beautiful piece of artistry.",
+            "sent5": "The sculpture was a stunning piece that captivated all who saw it."
         },
         {
             "definition": "A portion of something",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "He only ate a few pieces of the cake before feeling full.",
+            "sent2": "She cut the pizza into equal pieces for everyone to share.",
+            "sent3": "The team divided the project into manageable pieces to work on.",
+            "sent4": "Each student presented a different piece of information for the report.",
+            "sent5": "The chef carefully plated each piece of sushi with precision."
         },
         {
             "definition": "A small item or object",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "She picked up the scattered pieces of paper from the desk.",
+            "sent2": "The child collected colorful pieces of seashells on the beach.",
+            "sent3": "The magician pulled a rabbit out of his hat in multiple pieces.",
+            "sent4": "The jeweler displayed various pieces of delicate jewelry in the showcase.",
+            "sent5": "The mechanic replaced the broken piece in the engine to fix the car."
         }
     ]
 }

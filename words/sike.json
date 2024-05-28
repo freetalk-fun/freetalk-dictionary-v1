@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To deceive or trick someone.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She tried to sike her brother by hiding his favorite toy.",
+            "sent2": "He siked his friend into thinking he had won the game.",
+            "sent3": "The magician's sike left the audience amazed and puzzled.",
+            "sent4": "The fox siked the rabbit with a clever disguise.",
+            "sent5": "The tricky squirrel siked the birds with a fake acorn treasure hunt."
         },
         {
             "definition": "An exclamation used to indicate that something previously said was not serious or true.",
-            "pos": "interjection"
+            "pos": "interjection",
+            "sent1": "I told him I ate all the cookies... sike!",
+            "sent2": "She said she was moving to Mars... sike, she was just joking.",
+            "sent3": "I'm going to eat ten pizzas for dinner... sike, I can't even finish one!",
+            "sent4": "I thought I failed the test... sike, I got an A+!",
+            "sent5": "He said he could lift a car... sike, he could barely lift a bag of groceries."
         }
     ]
 }

@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To present a statement of charges to a customer for goods or services provided.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The mechanic billed me for fixing my car.",
+            "sent2": "The restaurant billed us for the delicious meal.",
+            "sent3": "The magician billed the audience for the amazing show.",
+            "sent4": "The hotel billed the guests for their stay with a smile.",
+            "sent5": "The doctor billed the patient for the medical treatment promptly."
         },
         {
             "definition": "To advertise or promote something.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The company billed their new product on TV.",
+            "sent2": "The store billed the upcoming sale in the newspaper.",
+            "sent3": "The school billed the science fair with colorful posters.",
+            "sent4": "The artist billed the exhibition with stunning artwork.",
+            "sent5": "The band billed their concert with catchy slogans."
         },
         {
             "definition": "Having a beak or bill.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The billed bird pecked at the seeds.",
+            "sent2": "The billed duck waddled by the pond.",
+            "sent3": "The billed toucan chirped a cheerful tune.",
+            "sent4": "The billed pelican caught a fish in its beak.",
+            "sent5": "The billed penguin waddled gracefully on the ice."
         }
     ]
 }

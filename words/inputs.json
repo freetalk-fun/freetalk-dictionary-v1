@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Something that is put into a system or process to achieve a result.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The teacher asked the students to provide their inputs for the group project.",
+            "sent2": "The inputs from various team members helped improve the final product.",
+            "sent3": "The robot's inputs were so silly that it started dancing uncontrollably.",
+            "sent4": "Her positive inputs acted as fuel for the team's motivation.",
+            "sent5": "The inputs of fresh ideas sparked creativity in the brainstorming session."
         },
         {
             "definition": "The act of putting something into a system or process.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Careful inputs of ingredients are crucial for baking a perfect cake.",
+            "sent2": "His inputs into the machinery were precise and efficient.",
+            "sent3": "The magician's inputs into the hat resulted in a surprising trick.",
+            "sent4": "Her inputs into the conversation brought a new perspective to the discussion.",
+            "sent5": "The inputs of effort and dedication led to a successful outcome."
         },
         {
             "definition": "Information or data that is entered into a computer or other device.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The inputs of the user were processed by the software to generate a report.",
+            "sent2": "She carefully checked the inputs before submitting the form online.",
+            "sent3": "The cat's inputs on the keyboard created a chaotic mess on the screen.",
+            "sent4": "His inputs of code were the key to solving the technical issue.",
+            "sent5": "The inputs of numbers into the spreadsheet resulted in accurate calculations."
         }
     ]
 }

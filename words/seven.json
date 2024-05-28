@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "The number 7.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I counted to seven before stopping.",
+            "sent2": "There are seven days in a week.",
+            "sent3": "Why did the cat chase its tail seven times?",
+            "sent4": "The seven colors of the rainbow are beautiful.",
+            "sent5": "She won the game by rolling a seven on the dice."
         },
         {
             "definition": "A group or set of seven people or things.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The team consisted of seven players.",
+            "sent2": "There were seven apples in the basket.",
+            "sent3": "The seven puppies played together in the yard.",
+            "sent4": "The seven dwarfs lived in the forest.",
+            "sent5": "She invited seven friends to her birthday party."
         },
         {
             "definition": "Being one more than six.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "She won the race by a seven-second lead.",
+            "sent2": "The cake was decorated with seven candles.",
+            "sent3": "He wore a shirt with seven stripes.",
+            "sent4": "The garden had seven blooming flowers.",
+            "sent5": "The book had seven chapters in total."
         }
     ]
 }

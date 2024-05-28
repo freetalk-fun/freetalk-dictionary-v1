@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Words that are filtered out before or after processing of natural language data.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "In the text analysis, the removal of stopwords helps to focus on important words.",
+            "sent2": "Search engines often ignore stopwords like 'and' or 'the' to speed up searches.",
+            "sent3": "The stopwords decided to take a break from being constantly overlooked.",
+            "sent4": "The stopwords acted as invisible guardians, shielding the essential words from noise.",
+            "sent5": "The stopwords were like background noise, fading into the silence of meaningful words."
         },
         {
             "definition": "Words that are excluded from search engine queries to improve efficiency.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Stopwords like 'is' and 'the' are typically excluded from search queries.",
+            "sent2": "Search engines use stopwords to refine search results and save time.",
+            "sent3": "The stopwords formed a club for words not invited to the search party.",
+            "sent4": "The stopwords acted as gatekeepers, allowing only relevant words to pass through.",
+            "sent5": "The stopwords were like traffic lights, controlling the flow of search results."
         },
         {
             "definition": "Commonly used words that are ignored in text analysis to focus on more meaningful content.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Text analysis tools often overlook stopwords like 'and' or 'but'.",
+            "sent2": "Stopwords are disregarded to highlight the key themes in a text.",
+            "sent3": "The stopwords threw a surprise party for the less common words.",
+            "sent4": "The stopwords were like background music, setting the tone for the important words.",
+            "sent5": "The stopwords acted as silent observers, letting the significant words take the spotlight."
         }
     ]
 }

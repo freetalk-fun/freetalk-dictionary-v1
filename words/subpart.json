@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A part or division of a larger whole",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The toy car's wheels are a subpart of the entire vehicle.",
+            "sent2": "Each chapter in the book is a subpart of the whole story.",
+            "sent3": "The subpart of the puzzle was missing, making it impossible to complete.",
+            "sent4": "In the forest, each tree is like a subpart of the vast green canopy above.",
+            "sent5": "The subpart of the necklace that broke off was easily replaced."
         },
         {
             "definition": "To divide into smaller parts or sections",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She will subpart the cake into equal slices for everyone at the party.",
+            "sent2": "The teacher will subpart the class into groups for the group project.",
+            "sent3": "He tried to subpart the problem into smaller, more manageable pieces.",
+            "sent4": "The chef will subpart the ingredients before starting to cook.",
+            "sent5": "It is important to subpart the work evenly among team members for efficiency."
         }
     ]
 }

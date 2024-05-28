@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A person who designs, builds, or maintains engines, machines, or structures.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The engineer fixed the broken machine.",
+            "sent2": "The engineer designed a new bridge for the city.",
+            "sent3": "The engineer walked into a bar and ordered a drink.",
+            "sent4": "She was an engineer of solutions, always finding a way to fix things.",
+            "sent5": "The engineer's mind worked like a puzzle solver, piecing together solutions."
         },
         {
             "definition": "To skillfully design or create something.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She can engineer a plan to solve any problem.",
+            "sent2": "He engineered a new way to improve the process.",
+            "sent3": "The kids tried to engineer a way to reach the cookies on the top shelf.",
+            "sent4": "The team engineered a brilliant strategy to win the game.",
+            "sent5": "With her creativity, she could engineer beauty out of simple materials."
         }
     ]
 }

@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Organized in a particular way.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The books on the shelf were neatly arranged by size.",
+            "sent2": "The flowers in the garden were beautifully arranged in a vase.",
+            "sent3": "The toys in the playroom were arranged like a colorful rainbow.",
+            "sent4": "Her thoughts were arranged in a logical sequence, like pieces of a puzzle coming together.",
+            "sent5": "The stars in the sky were arranged in a perfect pattern, like a celestial dance."
         },
         {
             "definition": "Put in a particular order.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She arranged the flowers in a vase on the table.",
+            "sent2": "The students arranged their desks in a circle for group discussion.",
+            "sent3": "The chef arranged the ingredients on the counter like a work of art.",
+            "sent4": "The team arranged the chairs in rows for the meeting.",
+            "sent5": "He arranged the books on the shelf alphabetically for easy access."
         },
         {
             "definition": "Set up or made ready for a particular purpose.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "They arranged the chairs in rows for the event.",
+            "sent2": "The travel agency arranged a tour of the city for the visitors.",
+            "sent3": "The magician arranged his props backstage before the show.",
+            "sent4": "She arranged the ingredients on the counter before starting to cook.",
+            "sent5": "The team arranged the equipment for the game, ready for action."
         }
     ]
 }

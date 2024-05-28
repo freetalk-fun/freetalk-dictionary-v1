@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To exert force on (someone or something) in order to move them away from oneself.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She pushed the door open with all her might.",
+            "sent2": "He pushed the heavy box across the room.",
+            "sent3": "The cat pushed the toy mouse around the house for fun.",
+            "sent4": "The strong wind pushed the leaves off the tree.",
+            "sent5": "The determined hiker pushed through the thick forest to reach the mountaintop."
         },
         {
             "definition": "To promote or encourage the development or progress of (something).",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The teacher pushed her students to do their best in the exam.",
+            "sent2": "The company pushed for innovation in their products.",
+            "sent3": "The coach pushed the team to train harder for the upcoming match.",
+            "sent4": "The mentor pushed her mentee to pursue their dreams.",
+            "sent5": "The parents pushed their child to explore new opportunities for growth."
         },
         {
             "definition": "To make an effort to advance or achieve something.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She pushed herself to finish the race despite feeling tired.",
+            "sent2": "He pushed through the challenges to reach his goal.",
+            "sent3": "The student pushed to improve their grades before the end of the semester.",
+            "sent4": "The entrepreneur pushed to launch their startup successfully.",
+            "sent5": "The artist pushed boundaries to create unique and impactful artwork."
         }
     ]
 }

@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "In this place or position.",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "I am standing herein.",
+            "sent2": "Please sit herein.",
+            "sent3": "The cat is sleeping herein.",
+            "sent4": "The treasure lies herein.",
+            "sent5": "Look closely herein for the hidden key."
         },
         {
             "definition": "In this document or book.",
-            "pos": "preposition"
+            "pos": "preposition",
+            "sent1": "The answer is herein the manual.",
+            "sent2": "The information is herein the report.",
+            "sent3": "The recipe for success is herein the cookbook.",
+            "sent4": "The key to understanding is herein the text.",
+            "sent5": "All the answers are herein these pages."
         }
     ]
 }

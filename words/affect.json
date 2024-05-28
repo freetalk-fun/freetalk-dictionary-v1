@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To have an influence on or make a change in",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The rain can affect the growth of plants in the garden.",
+            "sent2": "Studying hard can affect your grades positively.",
+            "sent3": "The mischievous squirrel tried to affect the serious meeting by dancing on the windowsill.",
+            "sent4": "Her contagious laughter seemed to affect everyone in the room, spreading joy.",
+            "sent5": "The powerful storm's winds can affect the stability of the old tree."
         },
         {
             "definition": "To produce an emotional response in",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The sad movie always affects me deeply, making me cry.",
+            "sent2": "His kind words affected her more than he realized.",
+            "sent3": "The funny clown tried to affect a serious expression but failed miserably.",
+            "sent4": "The haunting melody affected her heart, stirring up memories of the past.",
+            "sent5": "The unexpected news affected her mood, leaving her feeling unsettled."
         },
         {
             "definition": "The emotional state of a person",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Her affect seemed cheerful despite the rainy weather.",
+            "sent2": "His affect showed signs of worry before the exam.",
+            "sent3": "The cat's playful affect always brings a smile to my face.",
+            "sent4": "The actress's emotional affect captivated the audience during the performance.",
+            "sent5": "The patient's flat affect concerned the doctor, indicating a possible issue."
         }
     ]
 }

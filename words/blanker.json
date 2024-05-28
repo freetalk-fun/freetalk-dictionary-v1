@@ -3,19 +3,39 @@
     "meanings": [
         {
             "definition": "A person or thing that blanks.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The blanker handed out the blank papers.",
+            "sent2": "The teacher asked for a volunteer, and the blanker raised their hand.",
+            "sent3": "The blanker at the party kept forgetting everyone's names.",
+            "sent4": "The blanker in the office was like a walking memory lapse.",
+            "sent5": "The blanker's forgetfulness made them stand out in the group."
         },
         {
             "definition": "Comparative form of blank.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "This paper is blanker than the one you gave me yesterday.",
+            "sent2": "The sky looked even blanker after the storm passed.",
+            "sent3": "The room felt blanker without any furniture in it.",
+            "sent4": "Her expression grew blanker as she tried to understand the complex math problem.",
+            "sent5": "The silence in the library was even blanker than usual."
         },
         {
             "definition": "To cover or obscure with a blank.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She used a cloth to blanker the table before setting the dishes.",
+            "sent2": "The fog blankered the view of the mountains in the distance.",
+            "sent3": "He tried to blanker his mistakes by blaming others.",
+            "sent4": "The darkness blankered the room, making it hard to see.",
+            "sent5": "The snow blankered the ground, creating a peaceful scene."
         },
         {
             "definition": "To become blank.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Her mind started to blanker as she tried to recall the answer.",
+            "sent2": "The screen blankered suddenly, indicating a loss of connection.",
+            "sent3": "His expression blankered when he heard the unexpected news.",
+            "sent4": "The memories of that day slowly blankered from her mind.",
+            "sent5": "The sky began to blanker as the sun set behind the horizon."
         }
     ]
 }

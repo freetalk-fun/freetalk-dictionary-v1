@@ -3,19 +3,39 @@
     "meanings": [
         {
             "definition": "Death or destruction",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The village faced doom when the volcano erupted.",
+            "sent2": "The soldiers knew they were in doom's path as the enemy approached.",
+            "sent3": "The cat's doom was knocking over the vase, but it landed on its feet.",
+            "sent4": "The storm clouds gathered, a sign of impending doom.",
+            "sent5": "The knight bravely faced the dragon, knowing doom awaited if he failed."
         },
         {
             "definition": "Fate or destiny",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Her doom was to become a great leader and inspire many.",
+            "sent2": "The prophecy foretold his doom to rise as the chosen one.",
+            "sent3": "In a twist of fate, his doom led him to unexpected riches.",
+            "sent4": "She felt the weight of her doom pressing down on her shoulders.",
+            "sent5": "The oracle's words revealed the doom that awaited the kingdom."
         },
         {
             "definition": "To condemn to a terrible fate",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The evil sorcerer sought to doom the kingdom with his dark magic.",
+            "sent2": "The curse would doom him to wander the earth as a ghost forever.",
+            "sent3": "The mischievous fairy decided to doom the prankster to endless bad luck.",
+            "sent4": "His reckless actions would ultimately doom his chances of success.",
+            "sent5": "The witch's spell was meant to doom the prince to eternal sleep."
         },
         {
             "definition": "To bring ruin or destruction upon",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The invading army aimed to doom the peaceful village to ashes.",
+            "sent2": "The reckless driver's actions could doom them all to a tragic end.",
+            "sent3": "The careless mistake threatened to doom the entire project.",
+            "sent4": "The dark clouds loomed, ready to doom the harvest to failure.",
+            "sent5": "The villain's plan was to doom the hero's efforts and crush their spirit."
         }
     ]
 }

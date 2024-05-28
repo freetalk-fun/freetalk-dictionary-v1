@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A substance that pollutes something, especially water or the atmosphere.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The factory released a pollutant into the river, making the water dirty.",
+            "sent2": "The pollutant from the car exhaust contributed to the air pollution in the city.",
+            "sent3": "The little fish complained about the pollutant in the water ruining their swim.",
+            "sent4": "The dark cloud of smoke was a pollutant, suffocating the clear sky.",
+            "sent5": "The pollutant flowed like a black river, staining everything in its path."
         },
         {
             "definition": "Something that causes pollution.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The oil spill was a major pollutant in the ocean, harming marine life.",
+            "sent2": "Using plastic bags irresponsibly can be a significant pollutant in the environment.",
+            "sent3": "The mischievous raccoon was a pollutant to the peaceful neighborhood, causing chaos.",
+            "sent4": "Negative thoughts can be a pollutant to a positive mindset, clouding it with doubt.",
+            "sent5": "The loud noise from the construction site acted as a pollutant, disrupting the quiet street."
         }
     ]
 }

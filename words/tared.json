@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To determine the weight of an object by subtracting the weight of the container it is in.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She tared the ingredients before starting the recipe.",
+            "sent2": "The scientist tared the beaker before adding the liquid.",
+            "sent3": "The chef tared the bowl, making sure to account for the weight of the flour.",
+            "sent4": "Before baking, it's important to tare the scale to get an accurate measurement.",
+            "sent5": "Taring the scale ensures precise measurements in the experiment."
         },
         {
             "definition": "Past tense of 'tear', meaning to rip or pull apart.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He tared the paper in frustration.",
+            "sent2": "The child tared the wrapping paper eagerly.",
+            "sent3": "She accidentally tared the fabric while trying to cut it.",
+            "sent4": "The old book was tared along the edges from years of use.",
+            "sent5": "Taring the paper made a loud ripping sound."
         },
         {
             "definition": "A unit of weight measurement equal to 2000 pounds.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The shipment was measured in tares for shipping purposes.",
+            "sent2": "The farmer loaded the truck with several tares of hay.",
+            "sent3": "The market displayed the price per tare of potatoes.",
+            "sent4": "The truck's capacity was limited to a certain number of tares.",
+            "sent5": "The crane could lift multiple tares of cargo at once."
         }
     ]
 }

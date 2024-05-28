@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A substance that is added to another substance to make it unsuitable for human consumption.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The denaturant was mixed into the alcohol to make it undrinkable.",
+            "sent2": "The government requires the use of denaturant in certain products to prevent misuse.",
+            "sent3": "The denaturant and the drink had a funny dance-off, making the beverage unsafe to drink.",
+            "sent4": "The denaturant acted like a protective shield, keeping people from consuming the harmful substance.",
+            "sent5": "The denaturant turned the liquid into a dangerous potion, unfit for human consumption."
         },
         {
             "definition": "To treat or mix with a denaturant to render it unsuitable for its original purpose.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The company decided to denaturant the chemical to avoid misuse.",
+            "sent2": "She denaturanted the product to ensure it could not be used incorrectly.",
+            "sent3": "The chef accidentally denaturanted the dish, creating a strange and inedible meal.",
+            "sent4": "The artist denaturanted the paint, turning it into a useless blob on the canvas.",
+            "sent5": "The scientist denaturanted the solution, transforming it into a useless experiment."
         }
     ]
 }

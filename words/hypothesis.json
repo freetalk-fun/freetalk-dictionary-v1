@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A supposition or proposed explanation made on the basis of limited evidence as a starting point for further investigation.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Her hypothesis about the missing cookie led her to search under the bed.",
+            "sent2": "Scientists always test their hypothesis to see if it matches the results.",
+            "sent3": "The cat's hypothesis that the vacuum cleaner was a monster made it hide under the table.",
+            "sent4": "His hypothesis that hard work pays off was proven right when he got a promotion.",
+            "sent5": "The detective's hypothesis that the butler was the culprit turned out to be correct."
         },
         {
             "definition": "A proposition made as a basis for reasoning, without any assumption of its truth.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The teacher asked the students to come up with a hypothesis before conducting the experiment.",
+            "sent2": "In philosophy, a hypothesis is often used to explore different possibilities.",
+            "sent3": "The hypothesis that aliens built the pyramids amused the archaeologists.",
+            "sent4": "Her hypothesis that laughter is contagious made everyone in the room smile.",
+            "sent5": "The hypothesis that kindness is the key to happiness resonated with many people."
         }
     ]
 }

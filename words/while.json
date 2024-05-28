@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A period of time during which something takes place.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I read a book for a while before going to bed.",
+            "sent2": "The children played outside for a while.",
+            "sent3": "The cat napped for a while, then woke up to chase a butterfly.",
+            "sent4": "The sun shone brightly for a while, then disappeared behind the clouds.",
+            "sent5": "The clock ticked away the while as I waited for my friend."
         },
         {
             "definition": "At the same time as.",
-            "pos": "preposition"
+            "pos": "preposition",
+            "sent1": "I sang while my friend played the guitar.",
+            "sent2": "She cooked dinner while listening to music.",
+            "sent3": "The dog barked while the mailman delivered the package.",
+            "sent4": "The students studied while the teacher explained the lesson.",
+            "sent5": "The birds chirped while the sun set in the horizon."
         },
         {
             "definition": "Although.",
-            "pos": "conjunction"
+            "pos": "conjunction",
+            "sent1": "While it rained, we still had a great time at the picnic.",
+            "sent2": "He went for a run while feeling a bit tired.",
+            "sent3": "While it was cold outside, the fire kept us warm.",
+            "sent4": "While she was young, she had a lot of responsibilities.",
+            "sent5": "While the movie was long, it was very entertaining."
         }
     ]
 }

@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A painting, drawing, photograph, or engraving of a person.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The artist created a beautiful portrait of the queen.",
+            "sent2": "I hung a family portrait on the living room wall.",
+            "sent3": "The portrait seemed to wink at me from the frame.",
+            "sent4": "Her smile was a portrait of pure joy.",
+            "sent5": "The portrait captured every detail of his face perfectly."
         },
         {
             "definition": "A verbal description or representation of a person.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "She painted a vivid portrait of her best friend with words.",
+            "sent2": "The author's portrait of the protagonist was incredibly detailed.",
+            "sent3": "His exaggerated portrait of his teacher made everyone laugh.",
+            "sent4": "Her words painted a portrait of a magical world.",
+            "sent5": "The poet's portrait of love was both moving and powerful."
         }
     ]
 }

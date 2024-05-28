@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "The original form of data before it is encrypted.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I always make sure to keep a copy of the plaintexts before encrypting the data.",
+            "sent2": "The hacker was able to access the plaintexts of the sensitive information.",
+            "sent3": "The spy mistakenly left the plaintexts of the secret message on the table for everyone to see.",
+            "sent4": "The beauty of the plaintexts is like a clear stream flowing through the digital world.",
+            "sent5": "Remember to protect the plaintexts like you would guard a precious treasure."
         },
         {
             "definition": "Text that is not coded or disguised in any way.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The email contained plaintexts of the conversation between the two parties.",
+            "sent2": "It is important to secure the plaintexts to prevent unauthorized access.",
+            "sent3": "The detective found the plaintexts of the suspect's alibi in a forgotten folder.",
+            "sent4": "The plaintexts lay bare the truth behind the encrypted messages.",
+            "sent5": "The plaintexts revealed the hidden message like a light shining in the darkness."
         }
     ]
 }

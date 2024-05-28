@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To line up or wait in a line.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The students queued up for the school bus.",
+            "sent2": "The customers queued patiently at the checkout counter.",
+            "sent3": "The ducks queued in a comical line behind their mother.",
+            "sent4": "The cars queued like obedient soldiers at the traffic light.",
+            "sent5": "The ants queued in a long line, each carrying a piece of food."
         },
         {
             "definition": "A line or sequence of items waiting to be processed or dealt with.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The queue of emails waiting for a response grew longer.",
+            "sent2": "There was a long queue of people waiting for tickets to the concert.",
+            "sent3": "The queue of toys on the shelf looked like a colorful parade.",
+            "sent4": "The queue of books on the library shelf seemed to whisper stories.",
+            "sent5": "The queue of ants marching towards the food formed a fascinating line."
         }
     ]
 }

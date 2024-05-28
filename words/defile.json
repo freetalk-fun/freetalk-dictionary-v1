@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To make unclean or impure",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Please do not defile the clean water by throwing trash in it.",
+            "sent2": "The vandals defiled the park by spray painting graffiti everywhere.",
+            "sent3": "It would defile the picnic if you dropped your sandwich in the mud.",
+            "sent4": "The beautiful landscape was defiled by the construction of a noisy highway.",
+            "sent5": "The ancient ruins were defiled by tourists carving their names into the walls."
         },
         {
             "definition": "To violate the purity or sanctity of",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The criminal's actions defile the peaceful atmosphere of the neighborhood.",
+            "sent2": "The disrespectful behavior of the students defiled the solemnity of the ceremony.",
+            "sent3": "It would defile the tradition to change the recipe for grandma's famous cookies.",
+            "sent4": "The sacred temple was defiled by those who sought to steal its treasures.",
+            "sent5": "The act of vandalism defiled the historical monument and its significance."
         },
         {
             "definition": "A narrow passage or gorge, especially one through mountains",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The hikers followed the defile through the mountains to reach the hidden valley.",
+            "sent2": "The army had to navigate through the treacherous defile to reach the enemy's stronghold.",
+            "sent3": "The adventurers discovered a secret cave hidden within the defile.",
+            "sent4": "The defile provided a natural barrier that protected the village from invaders.",
+            "sent5": "The map highlighted the dangerous defile as the only way to cross the mountain range."
         }
     ]
 }

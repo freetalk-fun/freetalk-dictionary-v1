@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A person or tool used for identifying and correcting errors in computer programs.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The debugger helped find the mistake in the code.",
+            "sent2": "I used the debugger to fix the problem in the program.",
+            "sent3": "The debugger and I had a chat about the coding errors.",
+            "sent4": "She was like a debugger, uncovering the hidden bugs in the system.",
+            "sent5": "With the debugger's help, the program was error-free in no time."
         },
         {
             "definition": "To remove errors or bugs from a computer program using a debugger.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He will debugger the code to make it work properly.",
+            "sent2": "Remember to debugger the software before releasing it.",
+            "sent3": "I tried to debugger the program, but it kept crashing.",
+            "sent4": "She debuggered the code with precision, leaving no room for errors.",
+            "sent5": "Debuggering the program was a tedious task, but necessary for its success."
         }
     ]
 }

@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "An injury to the body, typically involving a break in the skin.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The doctor treated the wounds on the patient's arm.",
+            "sent2": "She cleaned the wounds carefully to prevent infection.",
+            "sent3": "The bandages on the wounds made the patient look like a mummy.",
+            "sent4": "His emotional wounds were deeper than any physical injury.",
+            "sent5": "The wounds from the accident left a lasting scar on his memory."
         },
         {
             "definition": "To inflict an injury on someone or something.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He wounds easily, so be gentle with him.",
+            "sent2": "The hunter wounded the deer with his arrow.",
+            "sent3": "Her harsh words wounded his feelings deeply.",
+            "sent4": "The betrayal wounded him more than any physical harm could.",
+            "sent5": "His careless actions wounded the trust of his friends."
         }
     ]
 }

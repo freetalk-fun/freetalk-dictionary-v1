@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Marked or colored by a stain",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The old book had a stained cover.",
+            "sent2": "The white shirt was stained with grape juice.",
+            "sent3": "The stained glass window made the church look beautiful.",
+            "sent4": "Her reputation was stained by the false accusations.",
+            "sent5": "The memory of that day was permanently stained in his mind."
         },
         {
             "definition": "To discolor or soil with a mark or blemish",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She accidentally stained her dress with coffee.",
+            "sent2": "The spilled ink stained the carpet.",
+            "sent3": "He stained his hands while painting the fence.",
+            "sent4": "The scandal stained the politician's career.",
+            "sent5": "The rain stained the sidewalk with mud."
         }
     ]
 }

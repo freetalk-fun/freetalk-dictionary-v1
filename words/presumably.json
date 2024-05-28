@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Used to convey that something is assumed to be true or likely.",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "She will presumably arrive on time for the meeting.",
+            "sent2": "The package presumably contains the items I ordered.",
+            "sent3": "Presumably, the cat thinks it's the boss of the house.",
+            "sent4": "The sun, presumably tired from its journey, sets behind the mountains.",
+            "sent5": "The detective, presumably skilled in observation, quickly solved the case."
         },
         {
             "definition": "Based on the assumption that something is true or likely.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The presumably safe route turned out to be treacherous.",
+            "sent2": "The presumably happy couple celebrated their anniversary.",
+            "sent3": "The presumably haunted house attracted brave visitors.",
+            "sent4": "The presumably endless road stretched out before them.",
+            "sent5": "The presumably delicious cake disappeared in minutes at the party."
         }
     ]
 }

@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A mineral or rock that has the outward appearance of another mineral or rock",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The pseudomorph looked like quartz but was actually calcite.",
+            "sent2": "The geologist found a pseudomorph that resembled marble but was actually limestone.",
+            "sent3": "The pseudomorph fooled everyone at the gem show with its clever disguise.",
+            "sent4": "The pseudomorph was a chameleon, masquerading as different minerals.",
+            "sent5": "The pseudomorph's mimicry of other rocks was truly remarkable."
         },
         {
             "definition": "To replace the original mineral or rock with a different substance while retaining its original shape",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Over time, the mineral pseudomorphed into a new substance.",
+            "sent2": "The volcanic activity pseudomorphed the rocks into obsidian.",
+            "sent3": "The wizard pseudomorphed the stone into a shiny gem for the princess.",
+            "sent4": "Her words pseudomorphed his anger into understanding.",
+            "sent5": "The artist pseudomorphed the canvas with vibrant colors, transforming it into a masterpiece."
         }
     ]
 }

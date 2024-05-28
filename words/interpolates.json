@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To insert or introduce (something) between other things",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She interpolates colorful beads between the plain ones in her bracelet.",
+            "sent2": "The teacher interpolates interesting facts between the textbook paragraphs.",
+            "sent3": "The chef decided to interpolate a surprise ingredient into the recipe.",
+            "sent4": "His speech was so moving that it seemed to interpolate hope into the hearts of the audience.",
+            "sent5": "The artist's brush strokes carefully interpolate light and shadow in the painting."
         },
         {
             "definition": "To estimate values between two known values",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The scientist interpolates the missing data points on the graph.",
+            "sent2": "Using the trend line, you can easily interpolate the values for the missing days.",
+            "sent3": "It's like trying to interpolate the missing puzzle pieces to complete the picture.",
+            "sent4": "Her intuition seemed to interpolate the future outcomes based on the current data.",
+            "sent5": "The GPS system can accurately interpolate your location even in remote areas."
         },
         {
             "definition": "To alter or falsify (a text) by the insertion of new matter",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The forger interpolates fake signatures into the historical documents.",
+            "sent2": "It is unethical to interpolate false information into research papers.",
+            "sent3": "The prankster thought it would be funny to interpolate a silly joke into the serious report.",
+            "sent4": "The hacker managed to interpolate a virus into the computer system undetected.",
+            "sent5": "The spy's mission was to interpolate misleading information into the enemy's database."
         }
     ]
 }

@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "The act of communicating by speaking.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Her talking was so loud that everyone could hear her.",
+            "sent2": "I enjoy listening to the talking of my friends during lunch.",
+            "sent3": "The talking of the birds outside my window woke me up early.",
+            "sent4": "The constant talking of the stream soothed my mind.",
+            "sent5": "The talking of the radio host was clear and easy to understand."
         },
         {
             "definition": "Engaging in conversation.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She enjoys talking with her best friend about their day.",
+            "sent2": "We were talking about our favorite movies last night.",
+            "sent3": "The cat and dog seemed to be talking to each other in their own way.",
+            "sent4": "The trees were talking to the wind as their leaves rustled.",
+            "sent5": "The students were talking excitedly about the upcoming school trip."
         },
         {
             "definition": "Expressing thoughts or ideas through speech.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He was talking passionately about his new project at work.",
+            "sent2": "She was talking to the audience about the importance of recycling.",
+            "sent3": "The flowers in the garden were talking to each other about the weather.",
+            "sent4": "The old book seemed to be talking to me, sharing its stories.",
+            "sent5": "The teacher was talking clearly, making the lesson easy to understand."
         }
     ]
 }

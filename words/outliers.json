@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A person or thing situated away or detached from the main body or system.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The cabin in the woods was an outlier, far from the bustling city.",
+            "sent2": "The island was an outlier in the vast ocean, isolated from the mainland.",
+            "sent3": "The lone cloud in a clear sky was the outlier, making the scene look incomplete.",
+            "sent4": "The black sheep of the family was the outlier, always standing out from the rest.",
+            "sent5": "The unique flower in the garden was the outlier, catching everyone's attention."
         },
         {
             "definition": "A statistical observation that is markedly different in value from the others in a dataset.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "In the data set, the unusually high value was considered an outlier.",
+            "sent2": "The outlier in the graph skewed the overall trend of the data points.",
+            "sent3": "The outlier data point was like a rebel in the group, refusing to follow the trend.",
+            "sent4": "The outlier stood out like a sore thumb, drawing attention to its uniqueness.",
+            "sent5": "Identifying outliers in the data can help in understanding the overall pattern better."
         }
     ]
 }

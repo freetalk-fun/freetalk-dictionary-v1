@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To remove soluble or harmful substances from a material by the action of a liquid.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The rain helped leach the salt from the soil.",
+            "sent2": "Farmers use water to leach nutrients into the soil for crops.",
+            "sent3": "The sponge seemed to leach up all the spilled juice.",
+            "sent4": "Her kindness seemed to leach away the bitterness in his heart.",
+            "sent5": "The detergent can leach out the tough stains from the fabric."
         },
         {
             "definition": "To drain away from soil, ash, or similar material by the action of percolating liquid.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The heavy rain can leach nutrients from the soil.",
+            "sent2": "Water can leach minerals from rocks over time.",
+            "sent3": "The leaky faucet seemed to leach water into the sink all night.",
+            "sent4": "His words seemed to leach the enthusiasm from the team.",
+            "sent5": "The constant dripping can leach the paint off the wall."
         },
         {
             "definition": "A substance that has been leached.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The leach from the coffee grounds can be used as a natural fertilizer.",
+            "sent2": "The leach from the wood chips added flavor to the stew.",
+            "sent3": "The leach from the tea leaves made a surprisingly good dye.",
+            "sent4": "The leach from the compost bin was rich in nutrients.",
+            "sent5": "The leach from the herbs gave the soup a unique taste."
         }
     ]
 }

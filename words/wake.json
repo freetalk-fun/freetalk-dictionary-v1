@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To emerge or cause to emerge from sleep",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I wake up early every morning to start my day.",
+            "sent2": "She wakes up with a smile on her face every day.",
+            "sent3": "The alarm clock tried to wake me up, but I hit snooze.",
+            "sent4": "The chirping birds outside my window wake me up gently.",
+            "sent5": "The aroma of freshly brewed coffee is a great way to wake up."
         },
         {
             "definition": "The track left by a moving ship",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The wake behind the boat stretched out far into the ocean.",
+            "sent2": "The captain watched the wake disappear into the horizon.",
+            "sent3": "The seagulls followed the ship's wake looking for food.",
+            "sent4": "The wake of the ship shimmered in the sunlight.",
+            "sent5": "The wake created beautiful patterns on the water."
         },
         {
             "definition": "A vigil held over a deceased person before burial",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The family gathered for the wake to honor their loved one.",
+            "sent2": "During the wake, stories of the deceased were shared.",
+            "sent3": "The wake was a time for reflection and remembrance.",
+            "sent4": "The wake provided closure and comfort to the family.",
+            "sent5": "The wake was a solemn but meaningful event."
         }
     ]
 }

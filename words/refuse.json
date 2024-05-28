@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To indicate or show that one is not willing to do something",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She will refuse to eat broccoli for dinner.",
+            "sent2": "He always refuses to help with the dishes.",
+            "sent3": "The cat will refuse to wear the silly hat.",
+            "sent4": "The stubborn mule will refuse to move an inch.",
+            "sent5": "The child will refuse to go to bed without a story."
         },
         {
             "definition": "Waste material; garbage or trash",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The city workers collected the refuse from the bins.",
+            "sent2": "The refuse was overflowing from the dumpster.",
+            "sent3": "The raccoon found a feast in the refuse behind the restaurant.",
+            "sent4": "The refuse attracted a flock of seagulls looking for food.",
+            "sent5": "The refuse truck came to empty the bins on the street."
         },
         {
             "definition": "To decline to accept or do something",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He will refuse the invitation to the party.",
+            "sent2": "She refuses to buy products tested on animals.",
+            "sent3": "The robot will refuse to follow the faulty command.",
+            "sent4": "The tree will refuse to bear fruit in poor soil.",
+            "sent5": "The student will refuse to cheat on the exam."
         }
     ]
 }

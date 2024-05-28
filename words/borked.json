@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To break or damage (something)",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I accidentally borked my phone screen by dropping it.",
+            "sent2": "The mechanic borked the engine while trying to fix it.",
+            "sent3": "I borked the cake I was baking, but it still tasted good.",
+            "sent4": "The storm borked the tree, leaving it split in half.",
+            "sent5": "She borked the vase, shattering it into many pieces."
         },
         {
             "definition": "Not functioning properly or as intended",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The borked computer screen displayed only a black screen.",
+            "sent2": "The borked printer kept jamming the paper.",
+            "sent3": "The borked alarm clock went off at midnight instead of morning.",
+            "sent4": "The borked door lock refused to open with the key.",
+            "sent5": "The borked flashlight flickered on and off unpredictably."
         }
     ]
 }

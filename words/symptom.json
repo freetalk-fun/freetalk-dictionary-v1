@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A physical or mental feature that is regarded as indicating a condition of disease.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Her cough was a symptom of the flu.",
+            "sent2": "The doctor asked about any symptoms of illness.",
+            "sent3": "His constant sneezing was a funny symptom of his allergy.",
+            "sent4": "The dark clouds were a symptom of the impending storm.",
+            "sent5": "The red rash on her skin was a vivid symptom of an allergic reaction."
         },
         {
             "definition": "A sign of the existence of something, especially of an undesirable situation.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Lack of communication can be a symptom of a failing relationship.",
+            "sent2": "The graffiti on the wall was a clear symptom of neglect in the area.",
+            "sent3": "His messy room was a humorous symptom of his busy schedule.",
+            "sent4": "The broken window was a symptom of the recent break-in.",
+            "sent5": "The traffic jam was a striking symptom of the city's congestion issues."
         }
     ]
 }

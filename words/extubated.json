@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Remove a tube from (a patient)",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The doctor carefully extubated the patient after the surgery.",
+            "sent2": "The nurse extubated the patient once they were fully awake.",
+            "sent3": "After the successful surgery, the doctor jokingly said, 'Time to extubate you and send you home!'",
+            "sent4": "The firefighter swiftly extubated the trapped victim from the burning building.",
+            "sent5": "With a gentle touch, the surgeon extubated the patient, bringing relief."
         },
         {
             "definition": "Remove a tube from (a machine)",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The technician extubated the ventilator to perform maintenance.",
+            "sent2": "It is important to regularly extubate the equipment for cleaning.",
+            "sent3": "The mechanic chuckled, 'Time to extubate this old machine and give it a tune-up!'",
+            "sent4": "The engineer skillfully extubated the clogged pipe to restore flow.",
+            "sent5": "With precision, the operator extubated the device, ensuring proper function."
         }
     ]
 }

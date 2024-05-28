@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "The flow of a liquid or gas in the opposite direction from its normal course.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The plumber fixed the backflow issue in the pipes.",
+            "sent2": "The backflow of water in the river caused flooding downstream.",
+            "sent3": "The backflow of soda in the straw surprised the child.",
+            "sent4": "The backflow of emotions overwhelmed her heart.",
+            "sent5": "The backflow of traffic made the intersection chaotic."
         },
         {
             "definition": "To flow in the opposite direction from its normal course.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "After heavy rain, the river began to backflow towards the mountains.",
+            "sent2": "When the drain is clogged, water can backflow into the sink.",
+            "sent3": "The balloon backflowed air when squeezed too hard.",
+            "sent4": "Her thoughts backflowed to happier times.",
+            "sent5": "The lava backflowed down the volcano, creating a dangerous situation."
         }
     ]
 }

@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Things or belongings",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "She packed her favorite choses for the trip.",
+            "sent2": "The room was filled with various choses.",
+            "sent3": "The cat's curious nature led it to explore the new choses in the house.",
+            "sent4": "His heart held a special place for the choses he treasured most.",
+            "sent5": "The antique shop was a treasure trove of unique choses."
         },
         {
             "definition": "To choose or select",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He choses the red shirt for the party.",
+            "sent2": "She always choses the best ingredients for her recipes.",
+            "sent3": "The magician asked the audience to help him choses a card.",
+            "sent4": "In the game, players must carefully choses their next move.",
+            "sent5": "The customer carefully choses a gift for her friend's birthday."
         },
         {
             "definition": "To decide or make a choice",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "After much thought, she choses to pursue a career in art.",
+            "sent2": "He usually choses to stay silent during arguments.",
+            "sent3": "The child excitedly choses which toy to play with first.",
+            "sent4": "Life often requires us to choses between different paths.",
+            "sent5": "She hesitated before finally choses the right path to take."
         }
     ]
 }

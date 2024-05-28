@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A boat or ship used to transport people or vehicles across a body of water.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The ferry took us across the river.",
+            "sent2": "We rode the ferry to reach the island.",
+            "sent3": "The ferry captain told jokes during the trip.",
+            "sent4": "The ferry glided like a graceful swan on the water.",
+            "sent5": "The colorful ferry made the journey exciting."
         },
         {
             "definition": "To transport people or vehicles across a body of water by boat or ship.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "They will ferry the cars across the lake tomorrow.",
+            "sent2": "We need to ferry the passengers to the other side.",
+            "sent3": "He likes to ferry tourists around the bay for fun.",
+            "sent4": "Her words ferry comfort to those in need.",
+            "sent5": "The memories ferry him back to his childhood days."
         }
     ]
 }

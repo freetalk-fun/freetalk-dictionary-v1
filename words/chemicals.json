@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A substance produced by or used in a chemical process.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The scientist mixed various chemicals in the lab to create a new solution.",
+            "sent2": "Be sure to store cleaning chemicals away from children's reach.",
+            "sent3": "The chemicals in the potion made the frog grow wings and start singing opera!",
+            "sent4": "Her words were like chemicals, slowly changing the atmosphere of the room.",
+            "sent5": "The smell of chemicals lingered in the air long after the experiment was done."
         },
         {
             "definition": "Any substance used in or resulting from a reaction involving changes to atoms or molecules.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The factory released harmful chemicals into the river, causing pollution.",
+            "sent2": "Organic chemicals can be found in many fruits and vegetables.",
+            "sent3": "The chef's secret recipe included a dash of magical chemicals for flavor.",
+            "sent4": "His smile was like a mix of chemicals, sparking joy in everyone around him.",
+            "sent5": "The fireworks lit up the sky with colorful chemicals, creating a mesmerizing display."
         }
     ]
 }

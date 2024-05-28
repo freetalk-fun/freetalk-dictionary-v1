@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Formed by the collection of units or particles into a mass or whole.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The playground had colorful aggregates of toys scattered around.",
+            "sent2": "The artist used aggregates colors to create a beautiful painting.",
+            "sent3": "The party decorations were an interesting mix of aggregates balloons and streamers.",
+            "sent4": "Her dress was an aggregate of different fabrics, creating a unique look.",
+            "sent5": "The garden was a vibrant aggregate of flowers and plants."
         },
         {
             "definition": "To collect or gather into a mass or whole.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She aggregates all her toys in one corner of the room.",
+            "sent2": "The farmer aggregates the harvested crops for storage.",
+            "sent3": "The students decided to aggregate their ideas for the group project.",
+            "sent4": "He aggregates his thoughts before making an important decision.",
+            "sent5": "The team will aggregate the data to present at the meeting."
         }
     ]
 }

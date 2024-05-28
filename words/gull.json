@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A type of seabird",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The gull flew gracefully over the ocean.",
+            "sent2": "I saw a gull perched on the dock by the water.",
+            "sent3": "The mischievous gull stole a fry from my plate!",
+            "sent4": "Her laughter echoed like the cry of a gull in the distance.",
+            "sent5": "The white gull's wings glinted in the sunlight as it soared."
         },
         {
             "definition": "To deceive or trick someone",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He tried to gull his friends into believing his tall tale.",
+            "sent2": "The con artist attempted to gull unsuspecting tourists.",
+            "sent3": "The magician's trick was to gull the audience with his sleight of hand.",
+            "sent4": "She managed to gull her way out of trouble with a clever excuse.",
+            "sent5": "The scammer's smooth talk was meant to gull people into giving him money."
         }
     ]
 }

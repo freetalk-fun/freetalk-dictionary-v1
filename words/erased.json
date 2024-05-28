@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Remove (something) completely from existence or memory.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She erased all the mistakes on her paper before handing it in.",
+            "sent2": "The teacher erased the whiteboard after the lesson was over.",
+            "sent3": "He accidentally erased his important email while trying to organize his inbox.",
+            "sent4": "The storm erased all signs of the sandcastle they had built on the beach.",
+            "sent5": "The magician's trick made it seem like he could erase objects with just a wave of his hand."
         },
         {
             "definition": "Delete (data) from a computer storage device.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Remember to erase your browsing history for privacy.",
+            "sent2": "The IT specialist erased the virus from the company's server.",
+            "sent3": "She accidentally erased the entire document instead of just one paragraph.",
+            "sent4": "The hacker tried to erase all evidence of their intrusion into the system.",
+            "sent5": "The delete key on the keyboard can quickly erase mistakes while typing."
         },
         {
             "definition": "Wipe out or destroy.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The flood erased the small town from the map.",
+            "sent2": "The wildfire erased acres of forest in a matter of hours.",
+            "sent3": "The superhero's powers could erase any threat to the city.",
+            "sent4": "The dictator's regime tried to erase any opposition to their rule.",
+            "sent5": "The eraser on the pencil can easily erase pencil marks on paper."
         }
     ]
 }

@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To clean or dry something by rubbing its surface with a cloth or one's hand.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She wiped the table after dinner.",
+            "sent2": "I wiped my hands on a towel after washing them.",
+            "sent3": "The cat wiped its paws on the doormat before entering.",
+            "sent4": "The wind wiped away all footprints in the sand.",
+            "sent5": "He wiped the spill with a napkin, leaving no trace behind."
         },
         {
             "definition": "To remove or eliminate something completely.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He wiped out all the cookies from the jar.",
+            "sent2": "The storm wiped away the sandcastle on the beach.",
+            "sent3": "The magician wiped the rabbit out of the hat.",
+            "sent4": "The flood wiped out the entire village.",
+            "sent5": "She wiped the drawing from the whiteboard with a sponge."
         },
         {
             "definition": "To erase or remove data from a computer or electronic device.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She wiped the files from the hard drive.",
+            "sent2": "He wiped the memory card before selling it.",
+            "sent3": "The virus wiped all the important documents from the computer.",
+            "sent4": "The hacker wiped out all the data on the server.",
+            "sent5": "The technician wiped the virus from the system, restoring it to normal."
         }
     ]
 }

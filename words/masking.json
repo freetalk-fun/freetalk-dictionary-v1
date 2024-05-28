@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Concealing the true nature or character of something.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The spy used a masking technique to hide his identity.",
+            "sent2": "The artist created a masking effect to make the painting more mysterious.",
+            "sent3": "The magician's masking trick amazed the audience.",
+            "sent4": "The fog had a masking quality, making it hard to see beyond.",
+            "sent5": "The dark clouds had a masking effect on the sun, dimming its brightness."
         },
         {
             "definition": "Covering the face with a mask.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She was masking her face for the costume party.",
+            "sent2": "The doctor was masking up before entering the operating room.",
+            "sent3": "The kids were playfully masking each other during the game.",
+            "sent4": "The ninja was skilled at masking his emotions behind his mask.",
+            "sent5": "The actor was masking his true feelings with a smile on stage."
         },
         {
             "definition": "A way of protecting or disguising something.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The encryption software provided a strong masking for the sensitive data.",
+            "sent2": "The camouflage jacket was a good masking against the forest backdrop.",
+            "sent3": "The comedian's witty jokes served as a masking for his shyness.",
+            "sent4": "The perfume had a masking scent that covered up any unpleasant odors.",
+            "sent5": "The password serves as a masking to protect the user's account."
         }
     ]
 }

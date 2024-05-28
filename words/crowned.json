@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Having a crown or crowned head",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The crowned queen waved to the crowd.",
+            "sent2": "The princess wore a beautiful crowned tiara.",
+            "sent3": "The crowned statue of the king looked regal in the park.",
+            "sent4": "The crowned eagle soared majestically in the sky.",
+            "sent5": "The crowned king's portrait hung proudly in the castle."
         },
         {
             "definition": "To invest with a crown or regal power",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The queen crowned her successor with a golden crown.",
+            "sent2": "The ceremony crowned him as the new king.",
+            "sent3": "The children playfully crowned their friend as the ruler of the playground.",
+            "sent4": "The victory crowned their efforts with success.",
+            "sent5": "The coach crowned the team captain for his exceptional leadership."
         },
         {
             "definition": "To be triumphant or successful",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "After years of hard work, she finally crowned her career with a promotion.",
+            "sent2": "The team's hard work crowned them as champions of the tournament.",
+            "sent3": "The chef's delicious dish crowned the evening with a perfect ending.",
+            "sent4": "His dedication and perseverance crowned him with success in his endeavors.",
+            "sent5": "The long journey finally crowned him with the recognition he deserved."
         }
     ]
 }

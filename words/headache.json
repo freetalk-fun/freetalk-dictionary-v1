@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A pain in the head or upper neck",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "After a long day in the sun, I developed a terrible headache.",
+            "sent2": "She took a painkiller to relieve her headache.",
+            "sent3": "The headache from too much screen time made me regret not taking breaks.",
+            "sent4": "Dealing with the noisy construction outside was a headache I didn't need.",
+            "sent5": "The throbbing headache felt like a tiny drummer inside my skull."
         },
         {
             "definition": "A source of difficulty or trouble",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Trying to fix the broken car became a real headache for him.",
+            "sent2": "The paperwork for the project turned into a major headache.",
+            "sent3": "The unexpected guests arriving early was a headache for the host.",
+            "sent4": "The conflicting schedules of the team members created a headache for the manager.",
+            "sent5": "The lost keys were a headache that caused a lot of stress."
         },
         {
             "definition": "A person who is annoying or difficult to deal with",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Dealing with that headache at work always puts me in a bad mood.",
+            "sent2": "She's such a headache with all her complaints.",
+            "sent3": "The headache in the group project never seems to do their fair share.",
+            "sent4": "The neighbor's barking dog is a real headache for everyone on the street.",
+            "sent5": "The headache's constant nagging made everyone avoid them."
         }
     ]
 }

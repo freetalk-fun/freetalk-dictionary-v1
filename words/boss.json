@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A person in charge of a worker or organization.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The boss told us to work hard today.",
+            "sent2": "My boss is always busy with meetings.",
+            "sent3": "The boss joked about joining us for lunch.",
+            "sent4": "She runs the company like a boss.",
+            "sent5": "The boss's office is on the top floor."
         },
         {
             "definition": "Excellent; outstanding.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "That was a boss movie we watched last night.",
+            "sent2": "She did a boss job on her presentation.",
+            "sent3": "The cake was boss, everyone loved it.",
+            "sent4": "His skills are boss, he always impresses.",
+            "sent5": "The sunset was boss, with vibrant colors."
         },
         {
             "definition": "To give orders to someone.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I will boss you around if you don't listen.",
+            "sent2": "She likes to boss her siblings during playtime.",
+            "sent3": "Don't boss me around, I know what to do.",
+            "sent4": "He tends to boss everyone in group projects.",
+            "sent5": "The coach will boss the team during practice."
         }
     ]
 }

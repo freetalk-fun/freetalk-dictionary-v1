@@ -3,23 +3,48 @@
     "meanings": [
         {
             "definition": "A price asked for goods or services provided",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The store had a high charge for the new video game.",
+            "sent2": "What is the charge for fixing my phone screen?",
+            "sent3": "I couldn't believe the charge for a single cup of coffee!",
+            "sent4": "The charge for the concert tickets was like a small fortune.",
+            "sent5": "The charge for the hotel room was so expensive it made my jaw drop."
         },
         {
             "definition": "An instruction given to someone",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The teacher gave the students a charge to complete their homework.",
+            "sent2": "He followed the charge to clean his room before dinner.",
+            "sent3": "The charge to eat all the cookies was gladly accepted by the kids.",
+            "sent4": "The charge to lead the team was a great honor.",
+            "sent5": "The charge to walk the dog was a simple task for the young boy."
         },
         {
             "definition": "An amount of electricity",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The phone battery needed a charge to work again.",
+            "sent2": "The scientist measured the charge in the experiment.",
+            "sent3": "The charge in the lightning bolt was incredibly powerful.",
+            "sent4": "The charge in the battery was running low.",
+            "sent5": "The charge in the electric car lasted for a long drive."
         },
         {
             "definition": "To rush forward in attack",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The lion started to charge towards its prey.",
+            "sent2": "The soldier decided to charge at the enemy's position.",
+            "sent3": "The kids playfully charged at each other in the game.",
+            "sent4": "The bull charged at the matador in the arena.",
+            "sent5": "The athlete charged towards the finish line with determination."
         },
         {
             "definition": "To ask for payment of a debt",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The landlord will charge the rent at the beginning of the month.",
+            "sent2": "I need to charge my friend for the concert tickets.",
+            "sent3": "He jokingly charged his brother for borrowing his pen.",
+            "sent4": "The company will charge the clients for the services provided.",
+            "sent5": "She decided to charge her sister for the borrowed dress."
         }
     ]
 }

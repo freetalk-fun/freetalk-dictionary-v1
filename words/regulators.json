@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A person or group that supervises or controls a process or activity.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The regulators ensured everyone followed the rules at the event.",
+            "sent2": "The government regulators oversee the safety of food production.",
+            "sent3": "The regulators at the party made sure everyone had a good time.",
+            "sent4": "She acted as the regulators of the team, keeping everyone in line.",
+            "sent5": "The strict regulators of the school made sure students behaved well."
         },
         {
             "definition": "A device or mechanism that controls or maintains a specified characteristic within a system.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The temperature regulators in the house kept it warm during winter.",
+            "sent2": "The speed regulators on the machine prevent it from going too fast.",
+            "sent3": "The regulators in the car decided it was time for a road trip.",
+            "sent4": "The air conditioning unit acted as the regulators of the room's temperature.",
+            "sent5": "The water regulators in the shower help control the flow for a comfortable bath."
         },
         {
             "definition": "A gene that controls the activity of another gene.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The regulators in the DNA sequence determine the expression of traits.",
+            "sent2": "The genetic regulators play a crucial role in the development of organisms.",
+            "sent3": "The regulators in the genetic code decided the color of the flower.",
+            "sent4": "The gene regulators act like traffic lights, directing the flow of genetic information.",
+            "sent5": "The regulators in the cell ensure genes are activated at the right time."
         }
     ]
 }

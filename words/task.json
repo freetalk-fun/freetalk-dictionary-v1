@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A piece of work to be done or undertaken.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "My teacher gave me a task to complete over the weekend.",
+            "sent2": "Finishing my homework is a daily task for me.",
+            "sent3": "I tried to juggle too many tasks at once and ended up forgetting some.",
+            "sent4": "The task of climbing the mountain seemed impossible at first.",
+            "sent5": "The task of cleaning the entire house felt overwhelming."
         },
         {
             "definition": "A specific duty or responsibility.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Walking the dog is my favorite task in the morning.",
+            "sent2": "It is my task to make sure all the lights are turned off before bed.",
+            "sent3": "My cat thinks her only task is to nap all day.",
+            "sent4": "The task of being the class monitor comes with great responsibility.",
+            "sent5": "Completing the project on time was a challenging task."
         },
         {
             "definition": "To assign a task to someone.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I will task you with organizing the files by the end of the day.",
+            "sent2": "She tasked me with finding a suitable venue for the event.",
+            "sent3": "The teacher decided to task the students with a surprise quiz.",
+            "sent4": "The manager tasked the team with coming up with a new marketing strategy.",
+            "sent5": "He tasked himself with learning a new language in just one month."
         }
     ]
 }

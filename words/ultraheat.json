@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Extremely high temperature",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The ultraheat from the sun made the sand very hot.",
+            "sent2": "The metal melted under the intense ultraheat of the furnace.",
+            "sent3": "The ultraheat in the oven turned the cookies into crispy treats.",
+            "sent4": "The ultraheat of the desert sun felt like a blazing fire on his skin.",
+            "sent5": "The ultraheat of the flames danced in the fireplace, warming the room."
         },
         {
             "definition": "To heat to an extremely high temperature",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She used the blowtorch to ultraheat the metal for bending.",
+            "sent2": "The blacksmith had to ultraheat the iron before shaping it.",
+            "sent3": "The chef accidentally ultraheated the soup, causing it to boil over.",
+            "sent4": "The dragon's breath ultraheated the rocks, turning them molten.",
+            "sent5": "The sun's rays ultraheated the pavement, making it too hot to walk on."
         },
         {
             "definition": "A device or system that produces extremely high heat",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The industrial furnace was an efficient ultraheat source for the factory.",
+            "sent2": "The ultraheat generator powered the entire building during winter.",
+            "sent3": "The ultraheat machine malfunctioned, causing the room to become unbearably warm.",
+            "sent4": "The ultraheat device hummed softly as it warmed the room.",
+            "sent5": "The ultraheat system kept the greenhouse at the perfect temperature for the plants to thrive."
         }
     ]
 }

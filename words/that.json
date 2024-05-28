@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Used to introduce a clause or sentence expressing a statement or hypothesis.",
-            "pos": "conjunction"
+            "pos": "conjunction",
+            "sent1": "I know that you are busy.",
+            "sent2": "She said that the sky is blue.",
+            "sent3": "It's so cold outside that even the birds are shivering.",
+            "sent4": "His love for her was so deep that it felt like an ocean.",
+            "sent5": "The fact that he always arrives late is quite frustrating."
         },
         {
             "definition": "Used to identify a specific person or thing observed by the speaker.",
-            "pos": "pronoun"
+            "pos": "pronoun",
+            "sent1": "Is that your book on the table?",
+            "sent2": "That is the cat that always meows at night.",
+            "sent3": "I can't believe that you ate the whole cake!",
+            "sent4": "Her smile was like that of a mischievous fairy.",
+            "sent5": "The sound of that train passing by is so loud."
         },
         {
             "definition": "Used to introduce a subordinate clause expressing a reason or cause.",
-            "pos": "conjunction"
+            "pos": "conjunction",
+            "sent1": "She was so tired that she fell asleep on the couch.",
+            "sent2": "He missed the bus, so he had to walk to school.",
+            "sent3": "The rain was so heavy that even the umbrella couldn't keep him dry.",
+            "sent4": "His excitement was so contagious that everyone around him started smiling.",
+            "sent5": "The fact that he always forgets his keys is quite amusing."
         }
     ]
 }

@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A person or thing that allocates.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The allocator distributed the snacks evenly among the children.",
+            "sent2": "The allocator of tasks made sure everyone had a job to do.",
+            "sent3": "The allocator teddy bear decided which toys each child would play with.",
+            "sent4": "The allocator of chores in the house was like a fair judge.",
+            "sent5": "The allocator in charge of seating arrangements made sure everyone had a seat."
         },
         {
             "definition": "A computer program or system that assigns resources to different tasks or processes.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The allocator in the game ensured each player had enough ammunition.",
+            "sent2": "The computer's allocator managed memory allocation efficiently.",
+            "sent3": "The allocator software had a sense of humor, giving all the processing power to the coffee maker.",
+            "sent4": "The allocator functioned like a traffic controller, directing resources to where they were needed most.",
+            "sent5": "The allocator algorithm was like a diligent worker, never missing a beat in resource distribution."
         }
     ]
 }

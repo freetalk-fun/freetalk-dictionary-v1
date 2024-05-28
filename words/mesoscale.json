@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Relating to or occurring at a scale intermediate between microscale and macroscale.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The mesoscale weather patterns affect a small area.",
+            "sent2": "Scientists study mesoscale phenomena to understand local weather changes.",
+            "sent3": "The mesoscale models predicted a tiny storm in the backyard.",
+            "sent4": "Her attention to detail was mesoscale, focusing on the small aspects of the project.",
+            "sent5": "The mesoscale map showed the neighborhood's precise boundaries."
         },
         {
             "definition": "A mesoscale meteorological phenomenon.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The meteorologist explained the mesoscale storm approaching the city.",
+            "sent2": "Residents were warned about the mesoscale weather event heading their way.",
+            "sent3": "The picnic was ruined by a sudden mesoscale downpour.",
+            "sent4": "The mesoscale disturbance in the atmosphere caused unexpected turbulence.",
+            "sent5": "The radar detected a mesoscale system forming over the region."
         }
     ]
 }

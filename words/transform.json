@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Make a thorough or dramatic change in the form, appearance, or character of.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She used paint to transform the plain wall into a colorful masterpiece.",
+            "sent2": "The caterpillar will transform into a beautiful butterfly.",
+            "sent3": "The magic wand could transform anything into a delicious treat.",
+            "sent4": "His kindness could transform a gloomy day into a bright one.",
+            "sent5": "The sunrise began to transform the dark sky into a canvas of vibrant colors."
         },
         {
             "definition": "Undergo a change in form, appearance, or character.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The tadpole will transform into a frog as it grows.",
+            "sent2": "Over time, the old house will transform into a modern marvel.",
+            "sent3": "The pumpkin seemed to transform into a carriage at midnight.",
+            "sent4": "Her smile could transform a room full of frowns into a place of joy.",
+            "sent5": "The chrysalis began to transform, revealing the emerging butterfly."
         },
         {
             "definition": "Change in composition or structure.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The scientist observed a remarkable transform in the chemical reaction.",
+            "sent2": "The transform in the building's design made it more energy-efficient.",
+            "sent3": "The unexpected transform in the recipe turned out to be a delightful surprise.",
+            "sent4": "The transform in the music's rhythm added a new dimension to the song.",
+            "sent5": "The sudden transform in the weather caught everyone by surprise."
         }
     ]
 }

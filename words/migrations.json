@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "The act or process of migrating.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Birds' migrations happen when they fly to warmer places in winter.",
+            "sent2": "The annual migrations of wildebeests in Africa are a sight to behold.",
+            "sent3": "The penguin's migration to the ice cream shop was a funny sight.",
+            "sent4": "The migration of clouds across the sky painted a beautiful picture.",
+            "sent5": "The monarch butterflies' migration was like a colorful dance in the air."
         },
         {
             "definition": "A group of people or animals moving from one place to another.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The migrations of herds in search of food are essential for their survival.",
+            "sent2": "Historically, human migrations have shaped the cultural landscape of the world.",
+            "sent3": "The ducklings' migration to the pond was a cute parade.",
+            "sent4": "The migrations of stars in the night sky create a mesmerizing view.",
+            "sent5": "The annual migration of reindeer across the Arctic tundra is a marvel to witness."
         },
         {
             "definition": "The movement of data from one system to another.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The migrations of files from the old computer to the new one went smoothly.",
+            "sent2": "Data migrations are necessary when upgrading software systems.",
+            "sent3": "The cat's migration of photos from the phone to the laptop was accidental.",
+            "sent4": "The migration of information between servers is crucial for a seamless operation.",
+            "sent5": "The successful migration of emails to the cloud saved storage space on the computer."
         }
     ]
 }

@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A material made of a network of wire or thread",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The mesh of the screen kept the bugs out.",
+            "sent2": "The fish swam through the mesh of the fishing net.",
+            "sent3": "The spider used the mesh to create a cozy home.",
+            "sent4": "The mesh of relationships in the small town was intricate.",
+            "sent5": "The mesh of the fabric was strong and durable."
         },
         {
             "definition": "To fit or come together in a harmonious way",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The gears meshed perfectly, allowing the machine to work smoothly.",
+            "sent2": "Their ideas meshed well, leading to a successful collaboration.",
+            "sent3": "The colors in the painting meshed together like a beautiful rainbow.",
+            "sent4": "Their personalities meshed like pieces of a puzzle.",
+            "sent5": "The music and lyrics meshed seamlessly, creating a wonderful song."
         },
         {
             "definition": "To catch or entangle in a net or web",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The spider quickly meshed its prey in its web.",
+            "sent2": "The branches meshed together, trapping the bird's nest.",
+            "sent3": "The vines seemed to mesh around my feet, making it hard to walk.",
+            "sent4": "Her words meshed him in a web of confusion.",
+            "sent5": "The detective's questions meshed the suspect in a web of lies."
         }
     ]
 }

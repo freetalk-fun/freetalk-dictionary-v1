@@ -3,23 +3,21 @@
     "meanings": [
         {
             "definition": "Operates a vehicle",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She drives to work every morning.",
+            "sent2": "He drives carefully to avoid accidents.",
+            "sent3": "The cat drives the toy car around the room.",
+            "sent4": "His determination drives him to succeed in driving.",
+            "sent5": "The sound of the engine drives home the idea of driving."
         },
         {
             "definition": "Motivates or compels",
-            "pos": "verb"
-        },
-        {
-            "definition": "Hard disk storage device",
-            "pos": "noun"
-        },
-        {
-            "definition": "Golf shot",
-            "pos": "noun"
-        },
-        {
-            "definition": "Livelihood or means of income",
-            "pos": "noun"
+            "pos": "verb",
+            "sent1": "Her passion for music drives her to practice every day.",
+            "sent2": "Competition often drives people to do their best.",
+            "sent3": "The smell of freshly baked cookies drives him to the kitchen.",
+            "sent4": "His love for his family drives him to work hard.",
+            "sent5": "The fear of failure drives her forward in life."
         }
     ]
 }

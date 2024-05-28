@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A small sharp-pointed organ at the end of the abdomen of bees, wasps, and ants, which is used to sting.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The bee's sting can hurt.",
+            "sent2": "I got a sting from a wasp yesterday.",
+            "sent3": "Ouch! The sting from the ant surprised me.",
+            "sent4": "Her words had a sting like a bee's.",
+            "sent5": "The sharp sting of the bee made me jump."
         },
         {
             "definition": "A wound or pain caused by a sting.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The sting on my arm is red.",
+            "sent2": "She cried from the pain of the sting.",
+            "sent3": "The sting on my finger feels sore.",
+            "sent4": "His harsh words left a sting in my heart.",
+            "sent5": "The bee's sting left a mark on my skin."
         },
         {
             "definition": "To cause a sharp pain or smarting sensation, typically by pricking with a sharp point.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Be careful, the thorn might sting you.",
+            "sent2": "The cold wind can sting your cheeks.",
+            "sent3": "His teasing words can sting sometimes.",
+            "sent4": "The loss of her pet still stings her heart.",
+            "sent5": "The betrayal stung like a bee's sting."
         }
     ]
 }

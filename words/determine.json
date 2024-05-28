@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To decide or settle conclusively",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I will determine the winner of the game based on the final score.",
+            "sent2": "The judge will determine the outcome of the court case.",
+            "sent3": "After much debate, they flipped a coin to determine who would go first.",
+            "sent4": "Her unwavering determination to succeed will determine her future.",
+            "sent5": "The detective's keen eye for detail helped him determine the culprit."
         },
         {
             "definition": "To ascertain or establish exactly",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Scientists use precise measurements to determine the weight of the object.",
+            "sent2": "Please determine the exact time of the meeting so we can plan accordingly.",
+            "sent3": "The detective used fingerprints to determine the identity of the suspect.",
+            "sent4": "The compass needle always points north, helping sailors determine direction.",
+            "sent5": "The doctor will determine the cause of the illness through thorough examination."
         },
         {
             "definition": "To cause to come to a conclusion or resolution",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The mediator will determine a solution that satisfies both parties.",
+            "sent2": "The evidence presented will determine the final decision of the jury.",
+            "sent3": "The unexpected plot twist in the movie will determine the fate of the main character.",
+            "sent4": "The negotiation will determine the terms of the contract between the two companies.",
+            "sent5": "The final test will determine whether the students pass the course or not."
         }
     ]
 }

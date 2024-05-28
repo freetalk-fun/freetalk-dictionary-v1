@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Based on personal opinions or feelings rather than facts.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "She gave a subjectively positive review of the movie.",
+            "sent2": "The artist's work is subjectively beautiful to different people.",
+            "sent3": "He subjectively believes that pizza is the best food in the world.",
+            "sent4": "Her subjectively colorful painting captured everyone's attention.",
+            "sent5": "The subjectively warm weather made everyone happy."
         },
         {
             "definition": "In a way that is influenced by personal beliefs or perspectives.",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "He subjectively interpreted the data to support his theory.",
+            "sent2": "She subjectively views the situation from a different angle.",
+            "sent3": "The cat subjectively decided to nap in the sunbeam.",
+            "sent4": "The music subjectively transported her to another time.",
+            "sent5": "The subjectively bright colors of the sunset painted the sky."
         }
     ]
 }

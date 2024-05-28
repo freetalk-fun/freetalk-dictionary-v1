@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To ask questions of (a person), sometimes to seek answers or information that the person questioned considers personal or secret.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The detective was interrogating the suspect in the small room.",
+            "sent2": "The police officer was interrogating the witness to gather more details about the crime.",
+            "sent3": "The parrot started interrogating the cat about its secret hiding spot for treats.",
+            "sent4": "The journalist was interrogating the politician, trying to uncover hidden truths.",
+            "sent5": "The teacher was interrogating the students to check their understanding of the lesson."
         },
         {
             "definition": "To examine by questioning formally or officially.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The committee was interrogating the candidate about their qualifications for the job.",
+            "sent2": "The auditor was interrogating the financial records to ensure accuracy.",
+            "sent3": "The robot started interrogating the malfunctioning machine to identify the issue.",
+            "sent4": "The scientist was interrogating the data to find patterns and trends.",
+            "sent5": "The inspector was interrogating the evidence to solve the case."
         }
     ]
 }

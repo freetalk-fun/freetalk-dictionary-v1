@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A sudden burst of light or flame",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The camera captured a bright flash of light.",
+            "sent2": "I saw a quick flash of lightning in the sky.",
+            "sent3": "The flash from the fireworks lit up the night sky.",
+            "sent4": "Her smile was like a flash of sunlight breaking through the clouds.",
+            "sent5": "The flash of the lighthouse guided ships safely to shore."
         },
         {
             "definition": "To appear suddenly",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He will flash a smile when he sees you.",
+            "sent2": "The idea suddenly flashed into her mind.",
+            "sent3": "The magician will flash onto the stage in a puff of smoke.",
+            "sent4": "The memory of that day will always flash in my mind.",
+            "sent5": "The answer will flash into your head when you least expect it."
         },
         {
             "definition": "To move or pass quickly",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The car will flash by in a blur of color.",
+            "sent2": "The bird will flash past the window in a hurry.",
+            "sent3": "The squirrel will flash across the yard with an acorn in its mouth.",
+            "sent4": "Time will flash by when you're having fun.",
+            "sent5": "The shooting star will flash across the night sky, leaving a trail of light."
         }
     ]
 }

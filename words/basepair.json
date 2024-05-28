@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A pair of nucleotide bases in a double-stranded nucleic acid molecule.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "In DNA, adenine always pairs with thymine to form a basepair.",
+            "sent2": "Scientists study the structure of DNA by examining each basepair carefully.",
+            "sent3": "The basepair duo danced together in the nucleus, creating the genetic code.",
+            "sent4": "The basepair held hands tightly, ensuring the stability of the DNA molecule.",
+            "sent5": "Under the microscope, the basepair looked like a tiny puzzle piece fitting perfectly."
         },
         {
             "definition": "To form a base pair with another nucleotide base.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "During replication, the nucleotide base will basepair with its complementary partner.",
+            "sent2": "The genetic material must basepair accurately to maintain the integrity of the DNA sequence.",
+            "sent3": "The nucleotide base tried to basepair with the wrong partner, causing a mutation.",
+            "sent4": "Their relationship was like two puzzle pieces basepairing to create a complete picture.",
+            "sent5": "The enzyme helped the nucleotide base basepair efficiently, ensuring proper genetic information transfer."
         }
     ]
 }

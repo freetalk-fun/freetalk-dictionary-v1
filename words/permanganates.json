@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A compound containing the permanganate ion, MnO4-",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The scientist studied the properties of permanganates in the lab.",
+            "sent2": "Permanganates are commonly used in water treatment processes.",
+            "sent3": "The permanganates threw a party in the beaker, inviting other ions to join.",
+            "sent4": "The permanganates danced together, creating a colorful chemical reaction.",
+            "sent5": "The bright purple color of permanganates made them easy to identify in the solution."
         },
         {
             "definition": "To treat or oxidize with permanganates.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The doctor permanganates the water to make it safe for drinking.",
+            "sent2": "Farmers use permanganates to purify the soil before planting crops.",
+            "sent3": "The chef playfully permanganated the vegetables, giving them a unique flavor.",
+            "sent4": "The sunlight permanganates the leaves, turning them a vibrant green.",
+            "sent5": "She carefully permanganated the fabric, transforming its color to a rich hue."
         }
     ]
 }

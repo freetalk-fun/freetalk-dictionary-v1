@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A person who lives near or next to another.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "My neighbors always wave hello when I see them outside.",
+            "sent2": "Our neighbors hosted a barbecue last weekend.",
+            "sent3": "The neighbors' cat likes to visit our backyard and play with our dog.",
+            "sent4": "In our small town, everyone knows their neighbors like family.",
+            "sent5": "The neighbors' children often play together in the park."
         },
         {
             "definition": "To be situated next to or near something.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Our house neighbors the park, so we can hear children playing all day.",
+            "sent2": "The grocery store neighbors the post office in our town.",
+            "sent3": "The bakery neighbors the flower shop, creating a lovely aroma on the street.",
+            "sent4": "The mountains majestically neighbor the peaceful valley below.",
+            "sent5": "The river neighbors the forest, providing a serene view for hikers."
         },
         {
             "definition": "To be friendly or kind to someone in need.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Our community always neighbors those who are going through tough times.",
+            "sent2": "During the storm, our neighbors offered us shelter in their home.",
+            "sent3": "The kind old lady neighbors everyone in the neighborhood, always offering a smile.",
+            "sent4": "In times of crisis, it's heartwarming to see how people come together to neighbor each other.",
+            "sent5": "The small town spirit shines through as everyone neighbors one another during the holidays."
         }
     ]
 }

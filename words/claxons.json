@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A loud, harsh sound made by a horn or siren.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The claxons of the fire truck alerted everyone to move aside.",
+            "sent2": "The claxons of the ambulance could be heard from far away.",
+            "sent3": "The claxons of the car behind me startled me, making me jump.",
+            "sent4": "The claxons of the ship echoed through the harbor, signaling its arrival.",
+            "sent5": "The claxons of the alarm system blared, causing a commotion in the building."
         },
         {
             "definition": "To make a loud, harsh sound like a horn or siren.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The car claxons loudly as it tried to warn the pedestrians.",
+            "sent2": "The factory machinery claxons throughout the day, creating a noisy environment.",
+            "sent3": "The cat claxons in the middle of the night, waking up the entire household.",
+            "sent4": "His voice claxons across the room, demanding attention.",
+            "sent5": "The thunder claxons in the distance, announcing the incoming storm."
         }
     ]
 }

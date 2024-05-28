@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A dish of cooked meat cut into small pieces and cooked again, usually with potatoes.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Mom made a delicious hash for dinner last night.",
+            "sent2": "The chef prepared a tasty hash using leftover roast beef.",
+            "sent3": "The hash looked so good that even the picky eater couldn't resist.",
+            "sent4": "The hash of flavors in the dish created a symphony on my taste buds.",
+            "sent5": "The aroma of the sizzling hash filled the kitchen with warmth and comfort."
         },
         {
             "definition": "A jumble or mixture of things.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The drawer was a hash of pens, pencils, and paperclips.",
+            "sent2": "The room was in a complete hash after the kids' playdate.",
+            "sent3": "Trying to untangle the hash of wires behind the TV was a challenge.",
+            "sent4": "Her thoughts were a hash of worries and hopes, all mixed together.",
+            "sent5": "The painting was a beautiful hash of colors, blending seamlessly together."
         },
         {
             "definition": "To chop into small pieces.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She had to hash the vegetables finely for the soup.",
+            "sent2": "The butcher will hash the meat for the stew.",
+            "sent3": "He tried to hash the wood with a blunt axe, but it was tough.",
+            "sent4": "The chef expertly hashed the herbs, releasing their fragrant oils.",
+            "sent5": "I watched as she carefully hashed the garlic, creating a flavorful paste."
         }
     ]
 }

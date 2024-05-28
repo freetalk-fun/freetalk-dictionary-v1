@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A highlighted word or phrase in an electronic document that, when clicked, takes the user to another location within the same document or to a different document.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I clicked on the hyperlinks to find more information.",
+            "sent2": "The article had several hyperlinks to related topics.",
+            "sent3": "The hyperlinks in the text were like secret doors to new knowledge.",
+            "sent4": "Her mind was a web of hyperlinks connecting various ideas.",
+            "sent5": "The teacher emphasized the importance of using hyperlinks for easy navigation."
         },
         {
             "definition": "To create a hyperlink in a document.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She learned how to hyperlink text in her presentation.",
+            "sent2": "Remember to hyperlink the sources in your research paper.",
+            "sent3": "He joked that he could hyperlink his coffee to make it refill automatically.",
+            "sent4": "The artist hyperlinks colors to evoke different emotions in her paintings.",
+            "sent5": "The web designer will hyperlink the homepage to other sections for seamless browsing."
         }
     ]
 }

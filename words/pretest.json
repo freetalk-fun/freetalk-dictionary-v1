@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A test administered before the actual test to assess a student's knowledge or skills.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Before the big exam, the teacher gave us a pretest to see what we already knew.",
+            "sent2": "The pretest helped the teacher understand what topics we needed more help with.",
+            "sent3": "During the pretest, the students were surprised by how much they already knew.",
+            "sent4": "The pretest acted like a sneak peek into the upcoming test, preparing us for what was to come.",
+            "sent5": "The pretest was like a practice round before the real challenge."
         },
         {
             "definition": "To administer a test before the actual test to assess a student's knowledge or skills.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The teacher will pretest the students to gauge their understanding before the final exam.",
+            "sent2": "It is important to pretest the participants to ensure the validity of the study results.",
+            "sent3": "The students were pretested to make sure they were ready for the advanced course.",
+            "sent4": "She decided to pretest the new software before implementing it across the company.",
+            "sent5": "The doctor will pretest the patient to determine the best course of treatment."
         }
     ]
 }

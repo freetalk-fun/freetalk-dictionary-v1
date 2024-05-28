@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To add incorrectly or inaccurately.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She misadded the numbers in her math homework and got the wrong answer.",
+            "sent2": "The cashier misadded the total on the receipt, charging too much.",
+            "sent3": "The chef misadded the salt in the soup, making it taste like seawater.",
+            "sent4": "His misadded steps led him down the wrong path in the maze of life.",
+            "sent5": "The misadded ingredients turned the cake into a salty disaster."
         },
         {
             "definition": "Incorrectly added.",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "The numbers were misadded in the report, causing confusion.",
+            "sent2": "She misadded the expenses, resulting in an incorrect budget.",
+            "sent3": "The music was misadded during the play, creating a comical effect.",
+            "sent4": "The colors were misadded in the painting, giving it a strange hue.",
+            "sent5": "The misadded words in the poem changed its entire meaning."
         }
     ]
 }

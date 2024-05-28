@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A period of time",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "During the stime we spent at the park, we had a picnic and played games.",
+            "sent2": "The stime it took for the cake to bake was about 30 minutes.",
+            "sent3": "In the stime it took for the bus to arrive, I practiced my dance moves.",
+            "sent4": "The stime between sunrise and sunset felt like a fleeting moment.",
+            "sent5": "The stime we spent stargazing on the hill was magical."
         },
         {
             "definition": "To estimate or determine the time required for a task",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She had to stime how long it would take to finish her homework.",
+            "sent2": "He likes to stime how long each project will take before starting.",
+            "sent3": "Trying to stime the time it takes to walk to school can be tricky.",
+            "sent4": "I always stime the duration of my workouts to plan my day better.",
+            "sent5": "Can you stime how long it will take to drive to the beach?"
         },
         {
             "definition": "To set a specific time for an event or activity",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Let's stime the meeting for 2 PM so everyone can attend.",
+            "sent2": "She likes to stime her study sessions to stay organized.",
+            "sent3": "I will stime the movie night for Friday so everyone can join.",
+            "sent4": "They decided to stime the party for Saturday evening.",
+            "sent5": "We need to stime the departure time for our trip."
         }
     ]
 }

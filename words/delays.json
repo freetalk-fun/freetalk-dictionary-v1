@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To make someone or something late or slow",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Heavy traffic delays the arrival of the bus.",
+            "sent2": "The construction work delays the completion of the building.",
+            "sent3": "The mischievous squirrel delays the cat's nap by chattering loudly.",
+            "sent4": "The storm delays the outdoor event like an unexpected guest disrupting a party.",
+            "sent5": "The thick fog delays the sunrise, shrouding everything in mystery."
         },
         {
             "definition": "A period of time when someone or something is made late or slow",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The flight experienced delays due to bad weather.",
+            "sent2": "There was a long delay at the train station because of a signal issue.",
+            "sent3": "The delay in the movie start time caused excitement among the audience.",
+            "sent4": "The delay in the package delivery felt like time standing still.",
+            "sent5": "The delay in the meeting made everyone restless, tapping their feet impatiently."
         }
     ]
 }

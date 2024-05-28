@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To leave a place that one previously occupied.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She vacates the chair for her friend to sit.",
+            "sent2": "He vacates his room when he goes on vacation.",
+            "sent3": "The cat vacates the warm spot on the couch for the dog.",
+            "sent4": "The departing train vacates the platform, leaving it empty.",
+            "sent5": "The student vacates the classroom after the bell rings."
         },
         {
             "definition": "To give up possession or occupancy of.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "They vacate their seats for the elderly passengers.",
+            "sent2": "The tenant vacates the apartment at the end of the lease.",
+            "sent3": "The player vacates the game due to an injury.",
+            "sent4": "The departing ship vacates the harbor, heading towards the open sea.",
+            "sent5": "The employee vacates the company car upon resignation."
         },
         {
             "definition": "To make void or annul.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The judge vacates the previous ruling and orders a retrial.",
+            "sent2": "The cancellation vacates the contract, rendering it null and void.",
+            "sent3": "The magician vacates the disappearing act, leaving the audience in awe.",
+            "sent4": "The storm vacates the sunny sky, bringing dark clouds.",
+            "sent5": "The error vacates the entire document, making it invalid."
         }
     ]
 }

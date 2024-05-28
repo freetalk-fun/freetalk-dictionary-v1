@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A device used to move fluids or gases by mechanical action.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The water pump helped the farmer bring water to his crops.",
+            "sent2": "The mechanic fixed the pump in the car to make the engine work.",
+            "sent3": "The pump at the fountain suddenly stopped working, causing a splashy mess.",
+            "sent4": "Her heart was like a pump, constantly pushing love through her veins.",
+            "sent5": "The old pump in the garden creaked as it drew up water from the well."
         },
         {
             "definition": "To operate a pump to move fluids or gases.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Dad had to pump the handle to bring water up from the well.",
+            "sent2": "The firefighters had to pump water from the river to put out the fire.",
+            "sent3": "She had to pump the bike tire so she could go for a ride.",
+            "sent4": "The DJ pumped up the crowd with energetic music.",
+            "sent5": "The athlete had to pump his arms and legs to finish the race."
         },
         {
             "definition": "To inflate or fill with air using a pump.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He had to pump air into the basketball before the game.",
+            "sent2": "She used a pump to blow up the balloons for the party.",
+            "sent3": "The kids had fun trying to pump air into the inflatable pool.",
+            "sent4": "The tire pump hissed as she filled the bicycle tire with air.",
+            "sent5": "The air mattress needed a good pump to make it comfortable for sleeping."
         }
     ]
 }

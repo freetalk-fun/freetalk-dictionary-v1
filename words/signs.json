@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "An object, quality, or event whose presence or occurrence indicates the probable presence or occurrence of something else.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The dark clouds were clear signs of an approaching storm.",
+            "sent2": "She followed the signs to find her way through the maze.",
+            "sent3": "The cat's playful meows were signs that it wanted to play.",
+            "sent4": "His sudden silence was a sign that something was wrong.",
+            "sent5": "The teacher's smile was a sign of approval."
         },
         {
             "definition": "A gesture or action used to convey information or instructions.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "He gave her a thumbs up as a sign of encouragement.",
+            "sent2": "The traffic officer used hand signs to direct the cars.",
+            "sent3": "His exaggerated wink was a sign that he was joking.",
+            "sent4": "Her raised eyebrow was a sign of disbelief.",
+            "sent5": "The nod of agreement was a clear sign of unity."
         },
         {
             "definition": "A mark or symbol used to represent something.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The red octagon sign indicates a stop.",
+            "sent2": "The plus sign in math means addition.",
+            "sent3": "The heart symbol is a sign of love.",
+            "sent4": "The dollar sign represents money.",
+            "sent5": "The peace sign is a symbol of harmony."
         }
     ]
 }

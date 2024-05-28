@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A person who falsifies something.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The falsifier was caught altering the documents.",
+            "sent2": "The detective uncovered the identity of the falsifier.",
+            "sent3": "The falsifier tried to trick everyone with fake evidence.",
+            "sent4": "The falsifier's lies painted a distorted picture of reality.",
+            "sent5": "Beware of the falsifier who twists the truth for personal gain."
         },
         {
             "definition": "To make something false by altering or manipulating it.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She tried to falsify her report by changing the numbers.",
+            "sent2": "The forger attempted to falsify the signature on the document.",
+            "sent3": "He thought he could falsify the test results, but he got caught.",
+            "sent4": "The hacker's goal was to falsify the data and mislead the public.",
+            "sent5": "The scientist warned against falsifying research findings to deceive others."
         }
     ]
 }

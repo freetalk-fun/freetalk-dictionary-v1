@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To obscure the light from or to by passing in front of",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The tall building eclipses the sun, casting a shadow over the park.",
+            "sent2": "The moon often eclipses the sun during a solar eclipse.",
+            "sent3": "The mischievous cat loves to eclipse the flashlight beam with its tail.",
+            "sent4": "Her talent for singing eclipses all others in the competition.",
+            "sent5": "The storm clouds slowly eclipse the bright blue sky, signaling an incoming rain shower."
         },
         {
             "definition": "A partial or complete obscuring of one celestial body by another",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "During a lunar eclipse, the Earth comes between the sun and the moon, causing a shadow to fall on the moon.",
+            "sent2": "The solar eclipse was a rare event where the moon passed between the Earth and the sun.",
+            "sent3": "The eclipse of the moon by the Earth is a fascinating astronomical phenomenon.",
+            "sent4": "The eclipse of the sun by the moon is a breathtaking sight to behold.",
+            "sent5": "The total eclipse of the sun created a moment of darkness in the middle of the day."
         }
     ]
 }

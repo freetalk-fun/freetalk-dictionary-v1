@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "relating or restricted to a particular area or neighborhood",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The local bakery is just around the corner.",
+            "sent2": "I always support local businesses in my community.",
+            "sent3": "The local squirrel stole my sandwich and ran up a tree!",
+            "sent4": "Her local knowledge of the hiking trails was invaluable.",
+            "sent5": "The local farmers market is a vibrant hub of activity."
         },
         {
             "definition": "a person or thing belonging to or associated with a particular area",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The locals gathered at the town hall for a meeting.",
+            "sent2": "She is a true local, born and raised in this town.",
+            "sent3": "The local cat is always napping in the sun.",
+            "sent4": "The local hero saved the day with his quick thinking.",
+            "sent5": "The locals welcomed the new family with open arms."
         },
         {
             "definition": "a train or bus that stops at all stations or stops on a route",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I prefer taking the local train for short trips.",
+            "sent2": "The local bus arrived right on time at the stop.",
+            "sent3": "The local bus driver greeted each passenger with a smile.",
+            "sent4": "The local train chugged along the tracks, stopping frequently.",
+            "sent5": "The local bus route is perfect for exploring the city."
         }
     ]
 }

@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To examine or inspect",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She surveys the room before the guests arrive.",
+            "sent2": "He surveys the damage caused by the storm.",
+            "sent3": "The detective surveys the crime scene for clues.",
+            "sent4": "The teacher surveys the students' progress with a keen eye.",
+            "sent5": "The scientist surveys the data for any anomalies."
         },
         {
             "definition": "A detailed study or analysis of a subject",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The research team conducts surveys on climate change.",
+            "sent2": "The surveys on consumer behavior provide valuable insights.",
+            "sent3": "The survey of ancient artifacts revealed surprising details.",
+            "sent4": "The survey of the market trends was thorough and informative.",
+            "sent5": "The survey of the landscape showed interesting geological formations."
         },
         {
             "definition": "A series of questions used to gather information from a group of people",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The company sent out surveys to collect customer feedback.",
+            "sent2": "Completing surveys online has become a common practice.",
+            "sent3": "The survey on favorite ice cream flavors sparked a debate.",
+            "sent4": "The survey on travel habits highlighted interesting trends.",
+            "sent5": "The survey on workplace satisfaction revealed areas for improvement."
         }
     ]
 }

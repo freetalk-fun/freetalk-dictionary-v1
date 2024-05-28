@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To pass the tongue over something.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The dog will lick the bone clean.",
+            "sent2": "She licked the ice cream cone before it melted.",
+            "sent3": "I accidentally licked the envelope shut before putting the letter inside.",
+            "sent4": "The flames licked the edges of the paper, threatening to consume it.",
+            "sent5": "The cat licked its paw to groom itself after dinner."
         },
         {
             "definition": "A small amount of food or drink.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "He took a lick of the ice cream and smiled.",
+            "sent2": "The child enjoyed every lick of the lollipop.",
+            "sent3": "She only had a lick of the cake, saving the rest for later.",
+            "sent4": "The bird took a quick lick of the water before flying away.",
+            "sent5": "The chef tasted the soup with a small lick of the spoon."
         },
         {
             "definition": "A quick and light blow.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "He gave the balloon a gentle lick to make it float higher.",
+            "sent2": "The wind delivered a soft lick to the leaves, rustling them.",
+            "sent3": "The child's playful lick on the arm made everyone laugh.",
+            "sent4": "The cat gave the mouse a swift lick to scare it away.",
+            "sent5": "The dancer's twirl ended with a light lick of her partner's hand."
         }
     ]
 }

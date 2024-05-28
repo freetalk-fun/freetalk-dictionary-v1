@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Something that incites to action or exertion or quickens action, feeling, thought, etc.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The loud noise was a stimulus for the dog to start barking.",
+            "sent2": "The teacher used a reward as a stimulus to encourage good behavior in class.",
+            "sent3": "The unexpected dance party in the library provided a fun stimulus for the studious students.",
+            "sent4": "The inspiring speech acted as a powerful stimulus, motivating everyone in the audience.",
+            "sent5": "The smell of freshly baked cookies served as a delightful stimulus for memories of childhood."
         },
         {
             "definition": "Something that excites an organism or part to functional activity.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The bright light served as a stimulus for the plant to grow towards it.",
+            "sent2": "The delicious scent of food can be a strong stimulus for hunger.",
+            "sent3": "The mischievous squirrel became a playful stimulus for the grumpy old cat.",
+            "sent4": "The sound of the starting gun acted as a powerful stimulus, triggering the sprinters to race.",
+            "sent5": "The sight of the finish line served as a motivating stimulus for the exhausted marathon runner."
         }
     ]
 }

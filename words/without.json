@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Not having or holding something",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The empty room felt without any furniture.",
+            "sent2": "She felt sad without her favorite toy.",
+            "sent3": "The magician performed a trick without a wand, surprising everyone.",
+            "sent4": "His heart felt heavy without her love, like a ship without a compass.",
+            "sent5": "The garden looked incomplete without colorful flowers."
         },
         {
             "definition": "Outside or beyond a specified condition or limit",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "The dog ran freely without a leash in the park.",
+            "sent2": "She explored the forest without fear.",
+            "sent3": "The students finished the test without a clue, hoping for the best.",
+            "sent4": "His laughter echoed without restraint, filling the room with joy.",
+            "sent5": "The music played without interruption, creating a peaceful atmosphere."
         },
         {
             "definition": "In the absence of something",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "He managed to finish the project without any help.",
+            "sent2": "She walked home without her umbrella in the rain.",
+            "sent3": "The party continued without the main guest, causing confusion.",
+            "sent4": "The room felt cold without the heater, like a freezer.",
+            "sent5": "The day passed without any significant events, just like any other day."
         }
     ]
 }

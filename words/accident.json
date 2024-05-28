@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "An event that happens by chance or without apparent cause.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The car crash was an accident.",
+            "sent2": "She tripped and fell by accident.",
+            "sent3": "It was an accident that the cake fell on the floor.",
+            "sent4": "His success was no accident; he worked hard for it.",
+            "sent5": "The meeting's cancellation was an unfortunate accident."
         },
         {
             "definition": "An unfortunate incident that happens unexpectedly and unintentionally.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The fire at the factory was a terrible accident.",
+            "sent2": "Losing her wallet was a complete accident.",
+            "sent3": "It was an accident that the dog ate the homework.",
+            "sent4": "The accident of spilling coffee on her dress ruined her day.",
+            "sent5": "The car crash was a tragic accident that changed their lives forever."
         },
         {
             "definition": "A mishap or mistake.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Dropping the vase was a clumsy accident.",
+            "sent2": "Forgetting her keys was a silly accident.",
+            "sent3": "The burnt dinner was an unfortunate accident.",
+            "sent4": "His wrong turn was a minor accident in their journey.",
+            "sent5": "The miscommunication was an avoidable accident that led to confusion."
         }
     ]
 }

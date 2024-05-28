@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Break down or dissolve (cells or tissues) by the action of their own enzymes.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The fruit autolysed quickly, turning into mush.",
+            "sent2": "The enzymes autolysed the proteins in the cell.",
+            "sent3": "The bacteria autolysed the leftovers, creating a stinky mess.",
+            "sent4": "Over time, the old building autolysed into a pile of rubble.",
+            "sent5": "The rain autolysed the paper, causing it to disintegrate."
         },
         {
             "definition": "Subject to autolysis.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The autolysed cells were no longer viable.",
+            "sent2": "The autolysed tissue showed signs of degradation.",
+            "sent3": "The autolysed meat had a strange texture.",
+            "sent4": "The autolysed leaves crumbled at the touch.",
+            "sent5": "The autolysed vegetables had a strong odor."
         }
     ]
 }

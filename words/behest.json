@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A person's command or order.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "At her behest, the students lined up quietly.",
+            "sent2": "The king's behest was law in the kingdom.",
+            "sent3": "The cat meowed at my behest, asking for more food.",
+            "sent4": "The behest of the principal echoed through the school, demanding attention.",
+            "sent5": "She followed his behest without question, knowing it was important."
         },
         {
             "definition": "To request or urge someone to do something.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He behested his friend to help him move the heavy furniture.",
+            "sent2": "She behests her dog to sit before giving him a treat.",
+            "sent3": "The child behested his toy to come to life and play with him.",
+            "sent4": "The wind behested the leaves to dance in the air.",
+            "sent5": "The coach behested the team to give their all in the final game."
         }
     ]
 }

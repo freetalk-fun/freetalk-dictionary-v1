@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "An official who examines books, films, news, etc. for things that are considered immoral, offensive, or harmful.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The censors reviewed the movie to ensure it was suitable for all audiences.",
+            "sent2": "The censors at the publishing house checked the manuscript for inappropriate content.",
+            "sent3": "The censors at the library found a funny way to hide the books they didn't like.",
+            "sent4": "Her strict father acted like a censor, blocking any music he deemed unsuitable.",
+            "sent5": "The censors were like gatekeepers, deciding what the public could and couldn't see."
         },
         {
             "definition": "To examine books, films, news, etc. and remove or suppress anything considered immoral, offensive, or harmful.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The government censors the internet to control the information available to the public.",
+            "sent2": "She censors her child's TV shows to protect them from inappropriate content.",
+            "sent3": "He jokingly censors his friend's text messages to make them more entertaining.",
+            "sent4": "The artist censors his own work, making sure it aligns with his values.",
+            "sent5": "The teacher censors the classroom discussions to keep them respectful and on topic."
         }
     ]
 }

@@ -3,23 +3,48 @@
     "meanings": [
         {
             "definition": "A dish of meat and vegetables cooked slowly in liquid",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "My mom makes delicious stews for dinner every Sunday.",
+            "sent2": "I love to eat warm stews on cold winter nights.",
+            "sent3": "At the potluck, everyone raved about the stews and asked for the recipe.",
+            "sent4": "The aroma of the simmering stews filled the kitchen with comfort.",
+            "sent5": "The hearty stews bubbling on the stove made my mouth water."
         },
         {
             "definition": "A state of mental or emotional turmoil",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "After the argument, she was in emotional stews for days.",
+            "sent2": "His mind was in such stews that he couldn't focus on anything else.",
+            "sent3": "Despite the chaos, she found humor in the mental stews she was in.",
+            "sent4": "The stews of conflicting emotions inside him were overwhelming.",
+            "sent5": "The stews of worry and excitement kept her up all night."
         },
         {
             "definition": "A place where animals are kept before being slaughtered",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The farmer led the animals to the stews before the market.",
+            "sent2": "The stews were clean and well-maintained to ensure the animals' comfort.",
+            "sent3": "The animals in the stews seemed unaware of their fate, happily eating.",
+            "sent4": "The stews were filled with the sounds of animals awaiting their turn.",
+            "sent5": "The stews were a necessary but somber part of the farm's operations."
         },
         {
             "definition": "To cook slowly in liquid",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She stews the meat for hours to make it tender and flavorful.",
+            "sent2": "The chef stews the ingredients together to create a rich broth.",
+            "sent3": "As the stew simmers, the flavors blend together perfectly.",
+            "sent4": "He stews the vegetables in a savory broth until they are soft.",
+            "sent5": "The aroma of the stewing meat wafts through the kitchen, making mouths water."
         },
         {
             "definition": "To worry or be anxious",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She stews about her upcoming presentation, hoping it goes well.",
+            "sent2": "He stews over every decision, afraid of making the wrong choice.",
+            "sent3": "Despite his calm exterior, he stews inside about the test results.",
+            "sent4": "She stews with anticipation as she waits for the important news.",
+            "sent5": "The constant stews about the future were taking a toll on her mental health."
         }
     ]
 }

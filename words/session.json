@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A period of time devoted to a particular activity.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "During the study session, we focused on math problems.",
+            "sent2": "The yoga session helped us relax and stretch our muscles.",
+            "sent3": "The painting session turned into a colorful mess when the paint spilled.",
+            "sent4": "Her brainstorming session was a whirlwind of creative ideas.",
+            "sent5": "The cooking session filled the house with delicious aromas."
         },
         {
             "definition": "A meeting or series of meetings for discussion or training.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The board members gathered for an important session to plan the event.",
+            "sent2": "The training session provided valuable insights for the new employees.",
+            "sent3": "The session on teamwork turned into a fun team-building exercise.",
+            "sent4": "The negotiation session felt like a strategic game of chess.",
+            "sent5": "The therapy session helped her work through her emotions."
         },
         {
             "definition": "A period of time during which a court, parliament, or other official body meets to conduct its business.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The court session lasted for hours as they reviewed the case.",
+            "sent2": "The parliamentary session addressed important legislative matters.",
+            "sent3": "The session in parliament became lively with debates and discussions.",
+            "sent4": "The official session was filled with procedural formalities.",
+            "sent5": "The session in congress was a crucial moment for passing new laws."
         }
     ]
 }

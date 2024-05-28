@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A person who owns property that is adjacent to another property.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The abutter next door has a beautiful garden.",
+            "sent2": "The abutter's fence needs some repairs.",
+            "sent3": "The abutter's cat likes to visit the neighbor's yard for adventures.",
+            "sent4": "The abutter's house stands like a silent sentinel beside the bustling street.",
+            "sent5": "The abutter's property line is clearly marked with a row of colorful flowers."
         },
         {
             "definition": "To be adjacent to or border on something.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "My house abutters the park, so I can hear children playing in the evenings.",
+            "sent2": "The river abutters the edge of the forest, creating a serene atmosphere.",
+            "sent3": "The two towns abutter each other, making it easy for residents to visit both.",
+            "sent4": "The mountain abutters the vast ocean, offering breathtaking views.",
+            "sent5": "The garden abutters the kitchen, making it convenient to pick fresh herbs while cooking."
         }
     ]
 }

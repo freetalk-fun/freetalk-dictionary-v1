@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Used to seek confirmation or agreement.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Did you finish your homework, eh?",
+            "sent2": "Is it raining outside, eh?",
+            "sent3": "The cat knocked over the vase, eh?",
+            "sent4": "The sun sets in the west, eh?",
+            "sent5": "Let's meet at the park, eh?"
         },
         {
             "definition": "Used to express surprise or to ask for clarification.",
-            "pos": "interjection"
+            "pos": "interjection",
+            "sent1": "Eh! I didn't expect to see you here.",
+            "sent2": "Eh, what time is the movie starting?",
+            "sent3": "Eh, that's a huge cake!",
+            "sent4": "Her talent shines like a star, eh?",
+            "sent5": "Eh! Look at that shooting star!"
         },
         {
             "definition": "Used to show indifference or lack of enthusiasm.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "He gave an eh response to the invitation.",
+            "sent2": "The movie was just eh, nothing special.",
+            "sent3": "The eh weather didn't bother him.",
+            "sent4": "Her smile was as bright as the sun, not eh at all.",
+            "sent5": "The cake was eh, but the ice cream was delicious!"
         }
     ]
 }

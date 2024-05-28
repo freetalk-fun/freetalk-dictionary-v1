@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A part of an object designed to be held or grasped by the hand.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The suitcase had sturdy handles for easy carrying.",
+            "sent2": "She held onto the handles of the bike as she rode down the street.",
+            "sent3": "The monkey tried to grab the handles of the swinging vine.",
+            "sent4": "His hands reached out for the handles of the steering wheel.",
+            "sent5": "The cup's handles were shaped like little hearts."
         },
         {
             "definition": "To deal with or control a situation or problem.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She handles customer complaints with patience and understanding.",
+            "sent2": "He handles the pressure of his job with ease.",
+            "sent3": "The detective handles the case with precision and skill.",
+            "sent4": "She handles the responsibility of being a team leader very well.",
+            "sent5": "He handles difficult situations calmly and effectively."
         },
         {
             "definition": "To manage or cope with.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She handles her busy schedule by prioritizing tasks.",
+            "sent2": "He handles stress by practicing mindfulness and meditation.",
+            "sent3": "The chef handles multiple orders in the kitchen effortlessly.",
+            "sent4": "They handle the challenges of parenthood together as a team.",
+            "sent5": "He handles setbacks with determination and resilience."
         }
     ]
 }

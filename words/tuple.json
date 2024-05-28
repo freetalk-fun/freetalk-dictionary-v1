@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A data structure consisting of a sequence of elements",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "In the computer program, the tuple stored the student's name, age, and grade.",
+            "sent2": "The tuple in the database contained the customer's ID, address, and phone number.",
+            "sent3": "The tuple of fruits in the basket looked like a colorful rainbow.",
+            "sent4": "Her family was like a tuple of stars, each shining brightly in their own way.",
+            "sent5": "The tuple of books on the shelf created a beautiful pattern."
         },
         {
             "definition": "To group together multiple values into a single entity",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She needed to tuple the data from different sources for the analysis.",
+            "sent2": "The function will tuple the results before returning them to the main program.",
+            "sent3": "He decided to tuple all the ingredients for the recipe before starting to cook.",
+            "sent4": "The team was able to tuple their skills and knowledge to solve the problem together.",
+            "sent5": "The artist would tuple various colors to create a stunning masterpiece."
         }
     ]
 }

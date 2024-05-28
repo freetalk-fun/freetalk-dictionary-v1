@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A poisonous substance secreted by animals such as snakes and spiders.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The scientist studied the effects of venine on the body.",
+            "sent2": "The venomous snake injected its venine into its prey.",
+            "sent3": "The venine in the spider's fangs made the insect regret its visit.",
+            "sent4": "Her words were like venine, poisoning the atmosphere with negativity.",
+            "sent5": "The venine dripped slowly from the snake's fangs, a deadly liquid."
         },
         {
             "definition": "To inject venom into someone or something.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The spider will venine its prey to immobilize it.",
+            "sent2": "He venined the enemy with a swift strike.",
+            "sent3": "She playfully threatened to venine her brother with a pretend spider bite.",
+            "sent4": "His words venined her heart, leaving a lasting sting.",
+            "sent5": "The snake venined the mouse, paralyzing it instantly."
         }
     ]
 }

@@ -3,23 +3,48 @@
     "meanings": [
         {
             "definition": "The front part of a person's head where the eyes, nose, and mouth are located.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "She had a big smile on her face.",
+            "sent2": "His face turned red when he was embarrassed.",
+            "sent3": "The clown painted a silly face on a balloon.",
+            "sent4": "The city skyline faced the ocean, offering a breathtaking view.",
+            "sent5": "The artist captured every detail of the woman's face in the portrait."
         },
         {
             "definition": "The expression on a person's face that shows their emotions.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Her sad face made everyone worry about her.",
+            "sent2": "His face lit up with joy when he saw his family.",
+            "sent3": "The puppy's guilty face gave away who chewed the shoe.",
+            "sent4": "The old photograph preserved the happy faces of the family.",
+            "sent5": "The actor's face conveyed a range of emotions in the movie scene."
         },
         {
             "definition": "To confront or deal with a difficult situation.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She had to face her fear of heights to climb the mountain.",
+            "sent2": "He decided to face the challenge head-on.",
+            "sent3": "The team will face a tough opponent in the final match.",
+            "sent4": "She had to face the consequences of her actions.",
+            "sent5": "Facing the storm, the sailor bravely steered the ship to safety."
         },
         {
             "definition": "To be positioned towards a certain direction.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The house faces the park, providing a lovely view.",
+            "sent2": "The window faces east, so it gets the morning sun.",
+            "sent3": "The sign faced the wrong way, causing confusion for drivers.",
+            "sent4": "The garden faces the mountains, creating a serene setting.",
+            "sent5": "The hotel room faces the ocean, offering a stunning panorama."
         },
         {
             "definition": "To cover the surface of something.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The chef will face the cake with smooth frosting.",
+            "sent2": "She decided to face the table with a beautiful tablecloth.",
+            "sent3": "The workers will face the wall with colorful tiles.",
+            "sent4": "The artist will face the canvas with bold strokes of paint.",
+            "sent5": "The carpenter will face the door with a layer of varnish."
         }
     ]
 }

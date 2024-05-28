@@ -3,19 +3,39 @@
     "meanings": [
         {
             "definition": "A mark, object, or figure formed by two intersecting lines",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The teacher drew two crosses on the board.",
+            "sent2": "The necklace had a beautiful cross pendant.",
+            "sent3": "The crossword puzzle was full of crosses to find.",
+            "sent4": "The stars formed a cross in the night sky.",
+            "sent5": "The intersection had clear white crosses painted on the road."
         },
         {
             "definition": "A wooden structure consisting of two intersecting beams, used as a symbol of Christianity",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The church had a large cross on its roof.",
+            "sent2": "She wore a cross necklace to church.",
+            "sent3": "The cross in the garden was a peaceful spot to sit.",
+            "sent4": "The cross on the hill stood tall against the sunset.",
+            "sent5": "The cross in the stained glass window glowed in the sunlight."
         },
         {
             "definition": "To move or extend across something",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The cat crosses the street carefully.",
+            "sent2": "The bridge crosses the river to connect the two towns.",
+            "sent3": "The squirrel crosses the yard in search of nuts.",
+            "sent4": "The plane crosses the ocean in just a few hours.",
+            "sent5": "The road crosses the desert, leading to the oasis."
         },
         {
             "definition": "To go against or oppose something",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She crosses her arms when she's upset.",
+            "sent2": "The protestors cross the street to make their voices heard.",
+            "sent3": "The cat crosses its owner's plans by knocking over the vase.",
+            "sent4": "The river crosses the path, making it difficult to continue.",
+            "sent5": "The wind crosses the field, bending the tall grass."
         }
     ]
 }

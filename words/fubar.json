@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Fubar (adjective): completely messed up or ruined",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The fubar computer screen showed nothing but a jumble of colors.",
+            "sent2": "The party was fubar when the cake fell on the floor.",
+            "sent3": "The fubar puzzle pieces were all mixed up, making it impossible to solve.",
+            "sent4": "Her fubar attempt at painting the wall left streaks of different colors everywhere.",
+            "sent5": "The fubar car engine made strange noises and refused to start."
         },
         {
             "definition": "Fubar (verb): to completely mess up or ruin",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I managed to fubar the recipe by adding salt instead of sugar.",
+            "sent2": "Please don't fubar the presentation by forgetting your notes.",
+            "sent3": "He always finds a way to fubar even the simplest tasks.",
+            "sent4": "Her decision to fubar the project deadline caused chaos in the office.",
+            "sent5": "The storm threatened to fubar our plans for the outdoor picnic."
         },
         {
             "definition": "Fubar (noun): a situation or thing that is completely messed up or ruined",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The meeting turned into a fubar when the projector stopped working.",
+            "sent2": "The house was a fubar after the wild party last night.",
+            "sent3": "His attempt to fix the leaky faucet turned into a fubar of epic proportions.",
+            "sent4": "The fubar of the traffic jam caused everyone to be late for work.",
+            "sent5": "The fubar of the broken vase left glass shards all over the floor."
         }
     ]
 }

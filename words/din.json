@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A loud, confused noise",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The din of the crowded cafeteria made it hard to hear.",
+            "sent2": "The din of the traffic outside the window was constant.",
+            "sent3": "The din of the children playing in the park was music to her ears.",
+            "sent4": "The din of the city streets was like a symphony of chaos.",
+            "sent5": "The din of the thunderstorm was both frightening and exhilarating."
         },
         {
             "definition": "To make a loud, unpleasant noise",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The construction work din disturbed the neighborhood.",
+            "sent2": "The alarm clock din woke him up abruptly.",
+            "sent3": "The dog din barking kept the whole neighborhood up at night.",
+            "sent4": "The car's engine din drowned out their conversation.",
+            "sent5": "The fireworks din echoed through the valley."
         }
     ]
 }

@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A person who receives communication.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The communicatee listened attentively to the speaker.",
+            "sent2": "The teacher handed out papers to each communicatee in the class.",
+            "sent3": "The communicatee was surprised to receive a letter from a long-lost friend.",
+            "sent4": "As the communicatee of the news, she felt a wave of emotions wash over her.",
+            "sent5": "The communicatee's face lit up with joy upon hearing the good news."
         },
         {
             "definition": "The recipient of a message.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Every communicatee in the room received the memo.",
+            "sent2": "The email was sent to the wrong communicatee by mistake.",
+            "sent3": "The communicatee's inbox was flooded with spam messages.",
+            "sent4": "She felt like the communicatee of a secret code only she could decipher.",
+            "sent5": "The communicatee eagerly awaited the arrival of the package."
         }
     ]
 }

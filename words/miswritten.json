@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Written or spelled incorrectly.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The miswritten letter had many mistakes.",
+            "sent2": "The miswritten report was full of errors.",
+            "sent3": "The miswritten note caused confusion among the readers.",
+            "sent4": "Her miswritten name on the invitation made her laugh.",
+            "sent5": "The miswritten address led the package astray."
         },
         {
             "definition": "To write or spell incorrectly.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She miswritten her name on the test paper.",
+            "sent2": "He miswritten the word 'beautiful' as 'beutiful'.",
+            "sent3": "The student miswritten the answer but still got it right.",
+            "sent4": "The author miswritten the ending to surprise the readers.",
+            "sent5": "The secretary miswritten the memo, causing confusion in the office."
         }
     ]
 }

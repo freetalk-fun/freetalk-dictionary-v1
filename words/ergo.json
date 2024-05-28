@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Therefore",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "He was tired; ergo, he went to bed early.",
+            "sent2": "She studied hard; ergo, she aced the test.",
+            "sent3": "The cat meowed loudly; ergo, the dog barked in response.",
+            "sent4": "The sun set; ergo, the stars began to appear in the sky.",
+            "sent5": "The rain stopped; ergo, the rainbow emerged beautifully."
         },
         {
             "definition": "Consequently",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "He forgot his umbrella; ergo, he got wet in the rain.",
+            "sent2": "She missed the bus; ergo, she arrived late to work.",
+            "sent3": "The cake burned in the oven; ergo, they ordered pizza for dinner.",
+            "sent4": "The team lost the game; ergo, they were eliminated from the tournament.",
+            "sent5": "The battery died; ergo, the alarm clock didn't go off in the morning."
         }
     ]
 }

@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "flooders (noun): people or things that flood or overwhelm a place",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "During the heavy rain, the flooders rushed into the streets.",
+            "sent2": "The flooders of tourists filled the small town to capacity.",
+            "sent3": "The flooders of students in the cafeteria caused a lunchtime traffic jam.",
+            "sent4": "The flooders of emails in my inbox made it impossible to find important messages.",
+            "sent5": "The flooders of leaves clogged the drain, causing a blockage."
         },
         {
             "definition": "flooders (verb): present participle of flood, meaning to cover or submerge with water",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The heavy rain was flooding the streets, flooders everywhere.",
+            "sent2": "The river was slowly flooders the nearby fields.",
+            "sent3": "I accidentally left the tap on, flooders the bathroom floor.",
+            "sent4": "The burst pipe flooders the basement in minutes.",
+            "sent5": "The storm surge flooders the coastal town, causing widespread damage."
         },
         {
             "definition": "flooders (adjective): describing something that causes flooding or is related to flooding",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The flooders rain caused the river to overflow its banks.",
+            "sent2": "The flooders weather alert warned of possible flash floods.",
+            "sent3": "The flooders terrain made it difficult for rescue teams to reach the stranded hikers.",
+            "sent4": "The flooders conditions led to road closures throughout the region.",
+            "sent5": "The flooders river carried debris downstream, causing blockages."
         }
     ]
 }

@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Direct or show the way",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She guided the lost hiker back to the trail.",
+            "sent2": "The tour guide guided the group through the museum.",
+            "sent3": "The GPS device guided the car to a dead-end street, causing confusion.",
+            "sent4": "Her intuition guided her to make the right choice in a difficult situation.",
+            "sent5": "The lighthouse beam guided ships safely through the rocky waters."
         },
         {
             "definition": "Lead or accompany someone in a particular direction",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The teacher guided the students to the library for research.",
+            "sent2": "The parent guided the child across the busy street.",
+            "sent3": "The friendly dog guided the toddler back to the playground.",
+            "sent4": "His passion for music guided him towards a career in composing.",
+            "sent5": "The stars in the night sky guided the travelers on their journey."
         },
         {
             "definition": "Assist or advise someone in making decisions or solving problems",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The counselor guided the student in choosing the right college.",
+            "sent2": "The mentor guided the entrepreneur in developing a business plan.",
+            "sent3": "The magic eight ball guided the player to a surprising outcome.",
+            "sent4": "Her experience in the field guided her to offer valuable insights.",
+            "sent5": "The wise elder guided the community through challenging times."
         }
     ]
 }

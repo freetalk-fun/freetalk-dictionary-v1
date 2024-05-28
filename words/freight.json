@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Goods transported in bulk by truck, train, ship, or aircraft.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The freight on the train consisted of crates and boxes.",
+            "sent2": "The company charged a fee for shipping the freight overseas.",
+            "sent3": "The freight on the ship looked like a colorful puzzle.",
+            "sent4": "The weight of the freight on the truck slowed down its speed.",
+            "sent5": "The warehouse was filled with freight waiting to be delivered."
         },
         {
             "definition": "The cost of transporting goods.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The high freight for international shipping surprised the customer.",
+            "sent2": "The company calculated the freight for the delivery service.",
+            "sent3": "Paying the freight felt like giving money a ride.",
+            "sent4": "The freight for air transport can sometimes be expensive.",
+            "sent5": "The freight charges were included in the total bill."
         },
         {
             "definition": "To transport goods in bulk.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The company will freight the goods to the warehouse tomorrow.",
+            "sent2": "They freighted the supplies to the remote village by truck.",
+            "sent3": "It's always fun to freight items to different locations.",
+            "sent4": "The team had to freight the equipment across the river.",
+            "sent5": "She decided to freight the furniture instead of selling it."
         }
     ]
 }

@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A package containing two items or components.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I bought a bipack of pens at the store.",
+            "sent2": "The store sells a bipack of batteries for a good price.",
+            "sent3": "The bipack of socks was so cute, I had to buy it.",
+            "sent4": "Her eyes sparkled like a bipack of precious gems.",
+            "sent5": "The bipack of cupcakes looked too delicious to resist."
         },
         {
             "definition": "To package or wrap items in a set of two.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She will bipack the gifts for the party.",
+            "sent2": "The company will bipack the products for shipping.",
+            "sent3": "He bipacked the sandwiches neatly for the picnic.",
+            "sent4": "The artist bipacked the paintings carefully for the exhibition.",
+            "sent5": "They bipack the books in matching covers for display."
         }
     ]
 }

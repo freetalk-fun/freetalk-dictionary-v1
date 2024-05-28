@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Fine sand, clay, or other material carried by running water and deposited as a sediment.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The river carried silt that settled at the bottom.",
+            "sent2": "After the rain, the silt settled in the lake, creating a muddy bottom.",
+            "sent3": "The fish swam playfully through the silt, creating little clouds of dust.",
+            "sent4": "The silt in the riverbed was like a soft blanket covering the rocks.",
+            "sent5": "The silt shimmered in the sunlight, looking like a golden carpet under the water."
         },
         {
             "definition": "To become filled or blocked with silt.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Over time, the riverbed began to silt up, causing flooding.",
+            "sent2": "The old pipes silted, causing a blockage in the drainage system.",
+            "sent3": "The bathtub silted up so much that the water couldn't drain properly.",
+            "sent4": "The harbor entrance silted, making it difficult for ships to enter.",
+            "sent5": "The pond slowly silted over the years, turning into a marshy area."
         },
         {
             "definition": "To fill or block with silt.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The workers silted the canal to prevent erosion.",
+            "sent2": "The dam was silted up to reduce the water flow.",
+            "sent3": "The garden hose accidentally silted the drain, causing a small flood.",
+            "sent4": "The heavy rain silted the gutters, causing water to overflow.",
+            "sent5": "The landslide silted the river, changing its course."
         }
     ]
 }

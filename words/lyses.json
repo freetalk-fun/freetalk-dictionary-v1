@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To break down or dissolve",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The soap lyses the grease on the dishes.",
+            "sent2": "The stomach acid lyses the food for digestion.",
+            "sent3": "The sun lyses the snow, turning it into water.",
+            "sent4": "Her smile lyses the tension in the room.",
+            "sent5": "The enzyme lyses the protein into smaller molecules."
         },
         {
             "definition": "The breaking down of cells by the action of enzymes or other agents",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The scientist observed the lyses of the cell membrane under the microscope.",
+            "sent2": "The virus causes lyses of the host cell during infection.",
+            "sent3": "The lyses of the plant cells created a colorful mixture in the experiment.",
+            "sent4": "The lyses of the bacteria population led to a decrease in the infection.",
+            "sent5": "The lyses of the red blood cells released hemoglobin into the bloodstream."
         },
         {
             "definition": "The process of disintegration or decomposition",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The gradual lyses of the old building resulted in its collapse.",
+            "sent2": "The lyses of the organic matter in the compost pile produced rich soil.",
+            "sent3": "The lyses of the ice sculpture made it melt into a puddle.",
+            "sent4": "The lyses of the relationship between the two friends was inevitable.",
+            "sent5": "The lyses of the rock formation revealed fossils embedded within."
         }
     ]
 }

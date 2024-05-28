@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Consume food.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I have eaten breakfast already.",
+            "sent2": "She eats fruits and vegetables every day.",
+            "sent3": "The hungry squirrel has eaten all the nuts in the garden.",
+            "sent4": "Time had eaten away at the old wooden fence, leaving it weak and fragile.",
+            "sent5": "The flames eagerly eaten up the dry leaves in the forest."
         },
         {
             "definition": "Past participle of eat.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The cake was already eaten when I arrived.",
+            "sent2": "The cookies were eaten by the children in no time.",
+            "sent3": "The eaten sandwich looked like a work of modern art.",
+            "sent4": "The eaten apple core lay forgotten on the picnic blanket.",
+            "sent5": "The eaten pizza crusts were scattered around the table."
         }
     ]
 }

@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A point at which something ends or terminates.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The train station is the endpoint of our journey.",
+            "sent2": "The movie had a surprising endpoint that left everyone in awe.",
+            "sent3": "Reaching the endpoint of the maze felt like a major accomplishment.",
+            "sent4": "The sunset marked the endpoint of a beautiful day.",
+            "sent5": "The treasure map led us to the hidden endpoint of our adventure."
         },
         {
             "definition": "A final point in a process or series.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The endpoint of the race was where the winner crossed the finish line.",
+            "sent2": "The last chapter of the book revealed the endpoint of the thrilling story.",
+            "sent3": "The cake decorating contest had a sweet endpoint with all participants enjoying their creations.",
+            "sent4": "The detective finally reached the endpoint of his investigation, solving the mystery.",
+            "sent5": "The music concert reached its endpoint with a spectacular fireworks display."
         }
     ]
 }

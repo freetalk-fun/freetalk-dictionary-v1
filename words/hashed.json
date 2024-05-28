@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Chop into small pieces",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She hashed the vegetables for the soup.",
+            "sent2": "The chef carefully hashed the onions for the salad.",
+            "sent3": "While cooking, he accidentally hashed the carrots too finely.",
+            "sent4": "The lumberjack hashed the fallen tree into manageable pieces.",
+            "sent5": "The old blender struggled to hash the frozen fruit smoothly."
         },
         {
             "definition": "Mix or mess up",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He hashed the colors together to create a new shade.",
+            "sent2": "The children hashed up the puzzle pieces in excitement.",
+            "sent3": "The wind hashed the leaves into a chaotic swirl.",
+            "sent4": "The artist hashed the paint on the canvas for a unique effect.",
+            "sent5": "The playful puppy hashed up the neatly arranged pillows."
         },
         {
             "definition": "Encode data using a hash function",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The software developer hashed the user passwords for security.",
+            "sent2": "To protect sensitive information, the system hashed the credit card numbers.",
+            "sent3": "The spy movie hashed the secret codes in a clever way.",
+            "sent4": "The encryption program hashed the confidential files for safe storage.",
+            "sent5": "The IT specialist hashed the data before transferring it to the cloud."
         }
     ]
 }

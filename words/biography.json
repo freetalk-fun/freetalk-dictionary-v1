@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "An account of someone's life written by someone else.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I read a biography about a famous scientist.",
+            "sent2": "She decided to write a biography of her favorite author.",
+            "sent3": "The biography of the cat written by the dog was quite amusing.",
+            "sent4": "Her biography of the mountain climber was a thrilling adventure.",
+            "sent5": "The biography painted a vivid picture of the artist's struggles and triumphs."
         },
         {
             "definition": "The story of a person's life written by that person.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The autobiography detailed her journey to success.",
+            "sent2": "He wanted to share his experiences through his autobiography.",
+            "sent3": "The autobiography of the tree written by the squirrel was quite interesting.",
+            "sent4": "His autobiography of survival in the wilderness was a powerful tale.",
+            "sent5": "The autobiography revealed the author's innermost thoughts and feelings."
         }
     ]
 }

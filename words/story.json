@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "An account of imaginary or real people and events told for entertainment.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I read a fun story about a talking dog.",
+            "sent2": "The library has a new storybook about pirates.",
+            "sent3": "The story of the dancing cat made everyone laugh.",
+            "sent4": "Her life was like a storybook, full of adventures and surprises.",
+            "sent5": "The story of the magical forest was enchanting."
         },
         {
             "definition": "A report of an item of news in a newspaper, magazine, or broadcast.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The newspaper published a story about the local election.",
+            "sent2": "I heard a story on the radio about a lost kitten being found.",
+            "sent3": "The story of the missing sock was front-page news.",
+            "sent4": "The story of the storm's destruction spread quickly.",
+            "sent5": "The breaking news story shocked the entire town."
         }
     ]
 }

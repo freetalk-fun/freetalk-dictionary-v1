@@ -3,19 +3,39 @@
     "meanings": [
         {
             "definition": "A person or thing that reduces shock or prevents damage",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The thick foam acted as a buffer, protecting the fragile vase from breaking.",
+            "sent2": "The car's bumper served as a buffer during the minor collision.",
+            "sent3": "The fluffy pillow acted as a buffer when the cat knocked over the glass of water.",
+            "sent4": "Her kind words acted as a buffer, softening the blow of the bad news.",
+            "sent5": "The buffer shielded the delicate electronics from the impact of the fall."
         },
         {
             "definition": "A temporary storage area in a computer's memory",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The buffer stored the data temporarily before transferring it to the hard drive.",
+            "sent2": "The video player uses a buffer to ensure smooth playback of online videos.",
+            "sent3": "The buffer in the computer memory was like a waiting room for information.",
+            "sent4": "The buffer in the system acted like a traffic cop, managing the flow of data.",
+            "sent5": "The buffer in the computer memory was like a short-term memory for the data."
         },
         {
             "definition": "A device or material used to reduce the impact of friction",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The buffer on the door prevented it from making a loud noise when closing.",
+            "sent2": "The buffer on the machine reduced the wear and tear caused by constant use.",
+            "sent3": "The buffer on the chair legs made them glide smoothly on the floor.",
+            "sent4": "The buffer on the skateboard wheels absorbed the vibrations from rough surfaces.",
+            "sent5": "The buffer on the gears minimized the friction and allowed smooth operation."
         },
         {
             "definition": "To lessen or moderate the impact of something",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She tried to buffer the harsh criticism by focusing on the positive feedback.",
+            "sent2": "Adding extra padding can buffer the impact of the heavy object hitting the floor.",
+            "sent3": "He tried to buffer the awkward silence by telling a joke.",
+            "sent4": "The mediator helped buffer the tension between the two parties during the negotiation.",
+            "sent5": "Using humor can buffer the stress of a difficult situation."
         }
     ]
 }

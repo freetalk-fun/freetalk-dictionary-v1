@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Inhabitants of a place",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The populates of the forest include various animals and birds.",
+            "sent2": "The city's populates enjoy the local parks and community events.",
+            "sent3": "The populates of the zoo had a meeting to discuss the new penguin exhibit.",
+            "sent4": "The populates of the ocean depths are a mysterious and diverse group.",
+            "sent5": "The populates of the desert have adapted to survive in harsh conditions."
         },
         {
             "definition": "To fill with people or animals",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The farmer populates his farm with cows and chickens.",
+            "sent2": "The new housing development populates the once-empty field with families.",
+            "sent3": "The magician attempted to magically populate the stage with rabbits.",
+            "sent4": "Her laughter populates the room, filling it with joy and warmth.",
+            "sent5": "The artist's brush strokes expertly populate the canvas with color and life."
         },
         {
             "definition": "To be present in a place",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Birds often populate the trees in the park during the day.",
+            "sent2": "During rush hour, cars densely populate the streets of the city.",
+            "sent3": "The idea seemed to suddenly populate his mind, surprising him.",
+            "sent4": "Stars beautifully populate the night sky, twinkling like diamonds.",
+            "sent5": "Memories of her childhood happily populate her dreams at night."
         }
     ]
 }

@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A person or animal that migrates.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The migrator bird flew south for the winter.",
+            "sent2": "The wildebeest is a migrator that travels long distances each year.",
+            "sent3": "The migrator squirrel decided to move to a new tree with better nuts.",
+            "sent4": "Like a migrator following the seasons, she moved from city to city for work.",
+            "sent5": "The migrator whale journeyed across the ocean to find food."
         },
         {
             "definition": "A software program that transfers data from one system to another.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The IT team installed a new migrator to move files to the cloud.",
+            "sent2": "The migrator quickly transferred all the documents to the updated server.",
+            "sent3": "The migrator program decided to take a vacation and moved all the files to a beach server.",
+            "sent4": "Like a migrator of information, the software seamlessly moved data between devices.",
+            "sent5": "The migrator efficiently relocated the data to the new database."
         }
     ]
 }

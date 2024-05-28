@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Make a short, sharp sound.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The clock on the wall was clicking loudly.",
+            "sent2": "I heard the clicking of heels on the pavement.",
+            "sent3": "The clicking of the old typewriter made me feel nostalgic.",
+            "sent4": "The clicking of the door latch signaled someone's arrival.",
+            "sent5": "The clicking of the light switch echoed in the empty room."
         },
         {
             "definition": "Press a button on a computer mouse or keyboard.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She was clicking the mouse to open a new tab.",
+            "sent2": "I need to click the 'send' button to submit the form.",
+            "sent3": "He kept clicking the keyboard keys in frustration.",
+            "sent4": "The students were clicking away on their laptops during the lecture.",
+            "sent5": "Clicking the mouse quickly, she navigated through the website."
         },
         {
             "definition": "To become suddenly clear or understandable.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "After reading the explanation, everything started clicking into place.",
+            "sent2": "The solution finally clicked in my mind after hours of thinking.",
+            "sent3": "It all clicked for me when I saw the diagram.",
+            "sent4": "The concept clicked like a light bulb turning on in my head.",
+            "sent5": "The instructions clicked for her once she tried it herself."
         }
     ]
 }

@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Type (something) again.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I had to retype my essay because I made a mistake.",
+            "sent2": "She decided to retype the document to make it look neater.",
+            "sent3": "After spilling coffee on the keyboard, he had to retype the entire report.",
+            "sent4": "The student's computer froze, forcing her to retype her entire assignment from memory.",
+            "sent5": "He had to retype the email three times before it finally sent correctly."
         },
         {
             "definition": "To type again.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Please retype the password to confirm it is correct.",
+            "sent2": "He had to retype the address on the envelope because of a mistake.",
+            "sent3": "The cat walked across the keyboard, causing him to retype the message.",
+            "sent4": "She had to retype the phone number multiple times to memorize it.",
+            "sent5": "The teacher asked the student to retype the paragraph for better clarity."
         }
     ]
 }

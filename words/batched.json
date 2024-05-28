@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A quantity or number of things or persons dealt with as a group",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The baker made a large batched of cookies for the school event.",
+            "sent2": "The farmer harvested a batched of ripe apples from the orchard.",
+            "sent3": "The teacher asked the students to form a batched to work on the project together.",
+            "sent4": "The team of firefighters worked together as a well-organized batched to put out the fire.",
+            "sent5": "The factory produced a batched of new toys to be shipped to stores."
         },
         {
             "definition": "To group together or process as a batch",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The chef batched the ingredients together to make a delicious soup.",
+            "sent2": "The company batched the orders to streamline the shipping process.",
+            "sent3": "The students decided to batched their study sessions for better time management.",
+            "sent4": "The computer program batched the data for faster processing speed.",
+            "sent5": "The librarian batched the returned books to be reshelved efficiently."
         }
     ]
 }

@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A data structure used for storing a dynamic set of strings.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I learned about the trie in computer science class.",
+            "sent2": "The trie helps organize words in a unique way.",
+            "sent3": "The trie was feeling overwhelmed with all the new words added to it.",
+            "sent4": "Her mind was like a trie, neatly storing memories for easy access.",
+            "sent5": "The trie resembled a filing cabinet for words, making it easy to find what you need."
         },
         {
             "definition": "To attempt or test.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She decided to trie baking a cake for the first time.",
+            "sent2": "I will trie my best to solve this puzzle.",
+            "sent3": "He trieed to juggle but ended up dropping all the balls.",
+            "sent4": "The student trieed different study methods to see which one worked best.",
+            "sent5": "Trieing new things can lead to exciting discoveries."
         },
         {
             "definition": "A prefix tree data structure used for efficient retrieval of keys in a dataset.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The trie is a helpful tool for quickly finding specific information.",
+            "sent2": "Programmers use the trie to optimize search operations.",
+            "sent3": "The trie was so efficient that it found the key in record time.",
+            "sent4": "In the world of data, the trie stands out as a key player.",
+            "sent5": "The trie's ability to retrieve data swiftly is truly impressive."
         }
     ]
 }

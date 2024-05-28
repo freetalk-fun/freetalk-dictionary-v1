@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Clearly or easily understood",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The instructions were plainly written on the board.",
+            "sent2": "The answer was plainly visible on the page.",
+            "sent3": "She spoke plainly, making sure everyone could follow along.",
+            "sent4": "The truth was plainly staring them in the face.",
+            "sent5": "The message was plainly communicated through the actions taken."
         },
         {
             "definition": "In a simple or straightforward manner",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "He explained the concept plainly for all to grasp.",
+            "sent2": "She spoke plainly and directly to avoid confusion.",
+            "sent3": "The cat meowed plainly, demanding attention.",
+            "sent4": "The river flowed plainly towards the sea, without hesitation.",
+            "sent5": "The teacher explained the math problem plainly, step by step."
         },
         {
             "definition": "Without decoration or embellishment",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The plain dress was plainly designed for comfort.",
+            "sent2": "The room was furnished plainly with only the essentials.",
+            "sent3": "He ate his sandwich plainly, without any extra toppings.",
+            "sent4": "The tree stood plainly in the field, its branches reaching out.",
+            "sent5": "The house was decorated plainly, with minimal ornaments."
         }
     ]
 }

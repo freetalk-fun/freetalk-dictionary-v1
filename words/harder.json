@@ -3,19 +3,39 @@
     "meanings": [
         {
             "definition": "More difficult or challenging",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "Math problems get harder as you move to higher grades.",
+            "sent2": "Running a marathon is harder than running a 5k race.",
+            "sent3": "It was harder than finding a needle in a haystack to locate his lost keys.",
+            "sent4": "Her heart felt heavier and harder with each passing disappointment.",
+            "sent5": "The icy wind made the journey even harder than they had anticipated."
         },
         {
             "definition": "To a greater degree of intensity or effort",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She tried harder to improve her grades after failing the test.",
+            "sent2": "The team needs to work harder if they want to win the championship.",
+            "sent3": "He pushed harder on the gas pedal to make the car go faster.",
+            "sent4": "The students cheered louder, urging their classmates to push harder during the race.",
+            "sent5": "The chef stirred the soup harder to ensure all the ingredients were mixed well."
         },
         {
             "definition": "Firmly or securely",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "She held onto the railing harder to prevent slipping on the icy stairs.",
+            "sent2": "The door was shut harder this time to keep the cold air out.",
+            "sent3": "He tied the knot harder to make sure the rope wouldn't come loose.",
+            "sent4": "The lock clicked harder into place, securing the door tightly.",
+            "sent5": "She gripped the handle harder as the roller coaster took a sharp turn."
         },
         {
             "definition": "In a harsh or severe manner",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "The teacher scolded the student harder for disrupting the class.",
+            "sent2": "The storm hit the coast harder than expected, causing widespread damage.",
+            "sent3": "He scrubbed the floor harder to remove the stubborn stains.",
+            "sent4": "The judge ruled harder on the defendant due to the severity of the crime.",
+            "sent5": "The wind howled harder as the storm approached, signaling its intensity."
         }
     ]
 }

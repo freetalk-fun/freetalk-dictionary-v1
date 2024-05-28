@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Send off to a destination or for a purpose",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The courier dispatched the package to its recipient.",
+            "sent2": "The manager dispatched the urgent order to the warehouse.",
+            "sent3": "The little robot dispatched the message to the spaceship.",
+            "sent4": "The wind dispatched the leaves across the yard.",
+            "sent5": "The teacher dispatched the students to their respective classrooms."
         },
         {
             "definition": "Deal with (a task, problem, or opponent) quickly and efficiently",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She dispatched the difficult math problem with ease.",
+            "sent2": "The firefighter dispatched the blazing fire in record time.",
+            "sent3": "The superhero dispatched the villain with a swift punch.",
+            "sent4": "The chef dispatched the dinner rush with precision and speed.",
+            "sent5": "The doctor dispatched the emergency situation with calm expertise."
         },
         {
             "definition": "Kill (someone) quickly and efficiently",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The assassin dispatched the target without a sound.",
+            "sent2": "The hunter dispatched the deer with a single shot.",
+            "sent3": "The ninja dispatched the enemy with a silent strike.",
+            "sent4": "The soldier dispatched the threat before it could react.",
+            "sent5": "The executioner dispatched the condemned criminal swiftly."
         }
     ]
 }

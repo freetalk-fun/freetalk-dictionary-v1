@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Defecated",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The dog pooed on the grass.",
+            "sent2": "She pooed in the toilet.",
+            "sent3": "The baby pooed loudly during the family dinner.",
+            "sent4": "The bird pooed on the car's windshield.",
+            "sent5": "I could smell that someone had pooed in the room."
         },
         {
             "definition": "Excreted feces",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I cleaned up the cat's pooed from the litter box.",
+            "sent2": "The zookeeper noticed the elephant's large pooed in the enclosure.",
+            "sent3": "The dog mistook the cat's pooed for a toy.",
+            "sent4": "The trail was littered with animal pooed.",
+            "sent5": "The scientist studied the animal's pooed to learn about its diet."
         }
     ]
 }

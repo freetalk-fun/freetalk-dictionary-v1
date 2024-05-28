@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A person who announces or broadcasts news, information, etc.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The announcer on the radio told us about the weather.",
+            "sent2": "The announcer at the sports event introduced the players.",
+            "sent3": "The announcer at the zoo mistakenly called a penguin a flamingo!",
+            "sent4": "Her voice was like an announcer in a crowded room, commanding attention effortlessly.",
+            "sent5": "The announcer's voice boomed through the stadium, echoing with authority."
         },
         {
             "definition": "A device or system that announces or signals something.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The school bell is an announcer for the end of classes.",
+            "sent2": "The alarm clock is a helpful announcer to wake you up in the morning.",
+            "sent3": "The doorbell announcer chimed in just as we were about to leave.",
+            "sent4": "The thunder acted as an announcer for the impending storm.",
+            "sent5": "The traffic light served as an announcer for when to stop and go."
         }
     ]
 }

@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To entrust (a task or responsibility) to another person",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She delegated the project to her colleague.",
+            "sent2": "The manager delegated the decision-making to the team.",
+            "sent3": "The cat playfully delegated the job of catching the mouse to the dog.",
+            "sent4": "The teacher delegated the role of class monitor to the responsible student.",
+            "sent5": "The captain delegated the task of steering the ship to the experienced sailor."
         },
         {
             "definition": "Authorized to act as a representative for someone else",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The delegated representative attended the meeting on behalf of the CEO.",
+            "sent2": "The delegated official signed the agreement as a proxy.",
+            "sent3": "The cake, being the delegated dessert, was eagerly devoured by the guests.",
+            "sent4": "The star player was the team's delegated leader on the field.",
+            "sent5": "The chosen delegate was delegated the important task of delivering the speech."
         }
     ]
 }

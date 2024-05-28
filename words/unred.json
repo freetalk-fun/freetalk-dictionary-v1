@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Not red in color.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The apple was unred, it was green instead.",
+            "sent2": "She chose an unred dress for the party.",
+            "sent3": "The unred sky at sunset looked beautiful.",
+            "sent4": "The unred leaves danced in the wind.",
+            "sent5": "The unred stop sign confused the drivers."
         },
         {
             "definition": "To remove the color red from something.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He unred the painting by painting over the red parts.",
+            "sent2": "She unred the photo to make it black and white.",
+            "sent3": "The artist unred the canvas, leaving only shades of gray.",
+            "sent4": "The sunset unred the sky, turning it orange.",
+            "sent5": "The rain unred the bright red umbrella."
         },
         {
             "definition": "Not edited or revised.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The unred manuscript was full of errors.",
+            "sent2": "She submitted the unred report without proofreading.",
+            "sent3": "The unred essay made the teacher cringe.",
+            "sent4": "The unred speech was a disaster, full of mistakes.",
+            "sent5": "The unred document had typos everywhere."
         }
     ]
 }

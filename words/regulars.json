@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A person who regularly attends a certain place or event.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The coffee shop regulars always sit at the same table.",
+            "sent2": "The regulars at the gym are dedicated to their workouts.",
+            "sent3": "The regulars at the park had a picnic every Sunday.",
+            "sent4": "The regulars in the book club were like characters in a story.",
+            "sent5": "The regulars at the library made it feel like a second home."
         },
         {
             "definition": "Conforming to a standard or pattern; usual, typical, or routine.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "She followed a regular schedule for her daily tasks.",
+            "sent2": "The clock's ticking was a regular sound in the room.",
+            "sent3": "The regular rain showers made the flowers bloom beautifully.",
+            "sent4": "His regular habits were like a comforting rhythm in his life.",
+            "sent5": "The regular pattern of the waves was calming to watch."
         }
     ]
 }

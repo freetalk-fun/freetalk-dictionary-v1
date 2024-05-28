@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To mention or introduce an idea for consideration",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I suggest we go to the park for a picnic.",
+            "sent2": "She always suggests good books for me to read.",
+            "sent3": "The cat suggestively pawed at the empty food bowl.",
+            "sent4": "The dark clouds suggest a storm is coming.",
+            "sent5": "His tired face suggested he needed more sleep."
         },
         {
             "definition": "To imply or indicate something without explicitly stating it",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "His smile suggested he was happy with the news.",
+            "sent2": "The teacher's tone of voice suggested disappointment.",
+            "sent3": "The broken umbrella suggested a windy day.",
+            "sent4": "The silence in the room suggested tension between them.",
+            "sent5": "The footprints in the sand suggested someone had been there before."
         },
         {
             "definition": "To recommend or advise something to someone",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I suggest you try the new restaurant downtown.",
+            "sent2": "She suggested a different approach to solving the problem.",
+            "sent3": "The doctor suggested more exercise for better health.",
+            "sent4": "The map suggested a shortcut through the forest.",
+            "sent5": "His friend suggested a movie for their movie night."
         }
     ]
 }

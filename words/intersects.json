@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To cross or meet at a point",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The two roads intersect at the traffic light.",
+            "sent2": "The hiking trail intersects with the river at the bend.",
+            "sent3": "The cat's tail intersects with its shadow, creating a funny shape.",
+            "sent4": "Their interests intersect like two circles merging into one.",
+            "sent5": "The laser beam intersects the mirror, reflecting light in all directions."
         },
         {
             "definition": "To cut or divide by passing through or across",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The knife intersects the cake, slicing it neatly.",
+            "sent2": "The fence intersects the field, separating the pasture from the forest.",
+            "sent3": "The scissors intersect the paper, creating a jagged edge.",
+            "sent4": "His words intersected her thoughts, causing a moment of confusion.",
+            "sent5": "The sun's rays intersect the clouds, painting the sky with colors."
         },
         {
             "definition": "To have a common point or line",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The two lines intersect at the center of the graph.",
+            "sent2": "The interests of the group intersect on the topic of environmental conservation.",
+            "sent3": "The paths of the ants intersect near the fallen crumbs.",
+            "sent4": "Their schedules intersect at lunchtime, allowing them to meet.",
+            "sent5": "The goals of the team intersect at winning the championship."
         }
     ]
 }

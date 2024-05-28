@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "The middle point of something.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The centre of the room was where everyone gathered.",
+            "sent2": "She placed the vase in the centre of the table.",
+            "sent3": "The cat thought it was the centre of the universe, always demanding attention.",
+            "sent4": "His calm demeanor was the centre of the team, holding everyone together.",
+            "sent5": "The bright red dot in the centre of the target was hard to miss."
         },
         {
             "definition": "A place where a particular activity or function is carried out.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The community centre hosted various events throughout the year.",
+            "sent2": "The shopping centre was bustling with people on the weekend.",
+            "sent3": "The dog park became the centre of socialization for the neighborhood pets.",
+            "sent4": "Her bakery was the centre of delicious treats in the town.",
+            "sent5": "The library was the centre of knowledge for the students."
         },
         {
             "definition": "To place in the middle.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She carefully centred the picture frame on the wall.",
+            "sent2": "He centred the text on the page for better alignment.",
+            "sent3": "The chef centred the garnish on the plate, creating a visually appealing dish.",
+            "sent4": "The designer centred the logo on the packaging for a balanced look.",
+            "sent5": "The teacher centred the discussion around the main theme of the novel."
         }
     ]
 }

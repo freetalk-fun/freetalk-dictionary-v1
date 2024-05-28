@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Hexes (noun): evil spells or curses",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The witch's hexes caused chaos in the village.",
+            "sent2": "People believed that the old house was haunted by hexes.",
+            "sent3": "The mischievous cat seemed to be casting hexes on the furniture.",
+            "sent4": "The dark clouds above seemed to hold a mysterious hexes over the land.",
+            "sent5": "The ancient book contained powerful hexes that could not be undone."
         },
         {
             "definition": "Hexes (verb): to cast a spell or curse on someone",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She hexes her enemies with a wicked grin.",
+            "sent2": "The sorcerer hexes the potion to protect the kingdom.",
+            "sent3": "The mischievous fairy hexes the cookies to make them disappear faster.",
+            "sent4": "The magician hexes the audience with his mesmerizing tricks.",
+            "sent5": "The wizard hexes the door to keep intruders away."
         }
     ]
 }

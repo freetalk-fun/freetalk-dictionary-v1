@@ -3,23 +3,48 @@
     "meanings": [
         {
             "definition": "To make an opening or incision in something with a sharp tool or object.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She carefully cut the paper with scissors.",
+            "sent2": "He will cut the cake at the party.",
+            "sent3": "The chef cut the vegetables with precision.",
+            "sent4": "Her words cut through the silence like a knife.",
+            "sent5": "The surgeon's skillful cut saved the patient's life."
         },
         {
             "definition": "A reduction or decrease in size or amount.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The budget cut affected many programs.",
+            "sent2": "I need a cut in my workload to relax.",
+            "sent3": "The cut in prices attracted more customers.",
+            "sent4": "His sudden cut in salary was unexpected.",
+            "sent5": "The cut in trees changed the landscape drastically."
         },
         {
             "definition": "To divide or separate something into pieces.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She used a knife to cut the cake into slices.",
+            "sent2": "The scissors can easily cut through the paper.",
+            "sent3": "The magician cut the rope into two pieces.",
+            "sent4": "His decision to cut ties with them was final.",
+            "sent5": "The saw can cut the wood into smaller pieces."
         },
         {
             "definition": "A wound or injury caused by a sharp object.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "He got a small cut while shaving.",
+            "sent2": "The deep cut required stitches.",
+            "sent3": "The cat's playful cut on my hand hurt.",
+            "sent4": "The cut on his arm was painful but not serious.",
+            "sent5": "The paper cut stung more than expected."
         },
         {
             "definition": "To remove something by using a sharp tool or object.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She cut her hair short for a change.",
+            "sent2": "He will cut the rope to free the trapped animal.",
+            "sent3": "The tailor will cut the fabric to make a dress.",
+            "sent4": "The decision to cut ties with them was difficult.",
+            "sent5": "The gardener will cut the dead branches for new growth."
         }
     ]
 }

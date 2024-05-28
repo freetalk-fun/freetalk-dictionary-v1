@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Make legally null and void; invalidate.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The judge was nullifying the contract due to a mistake in the signature.",
+            "sent2": "The lawyer nullified the will, as it was not properly executed.",
+            "sent3": "The magician nullified the contract with a wave of his wand, making it disappear.",
+            "sent4": "Her apology nullified the tension in the room, bringing peace to all.",
+            "sent5": "The storm nullified all the progress we had made on the construction site."
         },
         {
             "definition": "Counteract the effect of something.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Eating healthy food can help nullify the negative effects of stress on your body.",
+            "sent2": "Drinking water can nullify the effects of dehydration on a hot day.",
+            "sent3": "Exercising regularly can nullify the impact of a sedentary lifestyle.",
+            "sent4": "Her positive attitude nullified the pessimism of her colleagues.",
+            "sent5": "The medicine nullified the pain, allowing him to rest peacefully."
         },
         {
             "definition": "Render of no value or effect.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The new evidence presented in court nullified the previous testimony.",
+            "sent2": "The apology nullified the anger she felt towards him.",
+            "sent3": "The unexpected compliment nullified her self-doubt, boosting her confidence.",
+            "sent4": "The loud noise nullified the peaceful atmosphere of the library.",
+            "sent5": "The cancellation of the event nullified all the preparations we had made."
         }
     ]
 }

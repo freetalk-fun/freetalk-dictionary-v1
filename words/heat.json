@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "The quality of being hot; high temperature.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The summer sun brings intense heat to the beach.",
+            "sent2": "She placed her cold hands near the fire to warm them up from the heat.",
+            "sent3": "The heat from the oven made the cookies bake faster.",
+            "sent4": "The heat of the argument could be felt throughout the room.",
+            "sent5": "The heat of the bonfire warmed everyone's faces."
         },
         {
             "definition": "A source of warmth or energy.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The campfire provided much-needed heat on the chilly night.",
+            "sent2": "The heater in the house broke, leaving them without any heat.",
+            "sent3": "The heat from the sun powered the solar panels on the roof.",
+            "sent4": "The heat from the engine kept the car running smoothly.",
+            "sent5": "The heat from the fireplace filled the room with a cozy warmth."
         },
         {
             "definition": "Intensity of feeling or excitement.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The heat of anticipation filled the room before the surprise party.",
+            "sent2": "The heat of competition spurred the athletes to give their best performance.",
+            "sent3": "The heat of the moment led to an unexpected confession.",
+            "sent4": "The heat of the crowd's cheers motivated the team to victory.",
+            "sent5": "The heat of the music festival energized the attendees."
         }
     ]
 }

@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Own or have.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She possessed a beautiful painting.",
+            "sent2": "He possessed a rare coin collection.",
+            "sent3": "The cat possessed a shiny new toy.",
+            "sent4": "The garden possessed a variety of colorful flowers.",
+            "sent5": "The old house possessed a mysterious charm."
         },
         {
             "definition": "Controlled by an evil spirit.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The haunted house was possessed by a ghost.",
+            "sent2": "The possessed doll gave everyone chills.",
+            "sent3": "The possessed mirror reflected a spooky image.",
+            "sent4": "The possessed painting seemed to follow you with its eyes.",
+            "sent5": "The possessed book whispered eerie secrets in the night."
         },
         {
             "definition": "Filled with a strong emotion or feeling.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "She was possessed by a deep sense of gratitude.",
+            "sent2": "He was possessed by an overwhelming sense of joy.",
+            "sent3": "The team was possessed by a fierce determination to win.",
+            "sent4": "The music possessed a hauntingly beautiful melody.",
+            "sent5": "The landscape possessed a breathtaking view of the mountains."
         }
     ]
 }

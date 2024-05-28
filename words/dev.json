@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A person who is skilled in a particular activity or subject.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The young dev showed great talent in painting.",
+            "sent2": "The experienced dev fixed the broken computer quickly.",
+            "sent3": "The talented dev painted a masterpiece on the wall.",
+            "sent4": "The skilled dev's brush danced on the canvas like magic.",
+            "sent5": "The expert dev's work was admired by all."
         },
         {
             "definition": "To take away or subtract.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Please dev two apples from the basket.",
+            "sent2": "I will dev some time from my schedule for this meeting.",
+            "sent3": "He decided to dev the unnecessary details from the report.",
+            "sent4": "The magician seemed to dev the card right out of thin air.",
+            "sent5": "She had to dev a few dollars from her savings for the emergency."
         },
         {
             "definition": "To cause harm or damage to someone or something.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Careless actions can dev relationships.",
+            "sent2": "The storm will dev the fragile plants in the garden.",
+            "sent3": "The mischievous cat tried to dev the yarn ball.",
+            "sent4": "The harsh words seemed to dev his confidence instantly.",
+            "sent5": "The virus can dev the computer system if not protected."
         }
     ]
 }

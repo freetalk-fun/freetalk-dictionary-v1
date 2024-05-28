@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Arranged in a sequence or series.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The books on the shelf were ordered by size.",
+            "sent2": "The numbered list was ordered from smallest to largest.",
+            "sent3": "The ordered arrangement of colors made the painting look neat.",
+            "sent4": "Her thoughts were like an ordered line of soldiers, each one following the next.",
+            "sent5": "The alphabet is an ordered way to organize letters."
         },
         {
             "definition": "Requested or commanded.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She ordered a pizza for dinner.",
+            "sent2": "The general ordered his troops to advance.",
+            "sent3": "I ordered the clouds to move aside, but they didn't listen.",
+            "sent4": "The teacher ordered silence in the classroom.",
+            "sent5": "He ordered a new book online and waited eagerly for its arrival."
         },
         {
             "definition": "Organized or structured.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The ordered files made it easy to find the document.",
+            "sent2": "The ordered layout of the website was user-friendly.",
+            "sent3": "The ordered chaos of the artist's studio inspired creativity.",
+            "sent4": "Her mind was an ordered maze of thoughts, each leading to the next.",
+            "sent5": "The ordered rows of trees created a peaceful atmosphere in the garden."
         }
     ]
 }

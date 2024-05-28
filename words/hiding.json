@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "conceal oneself",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The cat was hiding behind the couch.",
+            "sent2": "I enjoy hiding during hide-and-seek.",
+            "sent3": "The squirrel was hiding from the mischievous raccoon.",
+            "sent4": "Her smile was hiding the sadness in her eyes.",
+            "sent5": "The treasure map led us to a spot perfect for hiding."
         },
         {
             "definition": "put or keep out of sight",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She was hiding the surprise gift behind her back.",
+            "sent2": "The magician was hiding the rabbit in his hat.",
+            "sent3": "The clouds were hiding the sun on a gloomy day.",
+            "sent4": "The truth was hiding beneath layers of lies.",
+            "sent5": "The detective was hiding in the shadows, waiting for the suspect."
         },
         {
             "definition": "a concealed place for storing things",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The attic was a perfect hiding for old family heirlooms.",
+            "sent2": "The treasure chest served as a hiding for the pirate's loot.",
+            "sent3": "The cave became a hiding for the lost explorers.",
+            "sent4": "The bookshelf was a hiding for his secret diary.",
+            "sent5": "The forest provided a natural hiding for the animals during the storm."
         }
     ]
 }

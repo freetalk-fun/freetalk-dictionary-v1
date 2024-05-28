@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Performs or executes an action",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She does her homework every day.",
+            "sent2": "He does the dishes after dinner.",
+            "sent3": "The robot does a little dance when it finishes cleaning.",
+            "sent4": "The sun does its daily journey across the sky.",
+            "sent5": "The wind does a gentle dance through the trees."
         },
         {
             "definition": "Causes or brings about",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Eating too much sugar does cavities in your teeth.",
+            "sent2": "The rain does the flowers to bloom beautifully.",
+            "sent3": "His funny jokes always does laughter among his friends.",
+            "sent4": "The loud noise does a panic in the crowd.",
+            "sent5": "The kind gesture does warmth in her heart."
         },
         {
             "definition": "Is used to form questions or negatives in the present tense",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Does she like ice cream?",
+            "sent2": "He does not want to go to the party.",
+            "sent3": "Why does the cat always chase the mouse?",
+            "sent4": "The teacher does not tolerate late submissions.",
+            "sent5": "Does the sun shine every day?"
         }
     ]
 }

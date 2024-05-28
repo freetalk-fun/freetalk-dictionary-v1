@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Extracted liquid from the mammary glands of mammals.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The baby drinks the milks from its mother.",
+            "sent2": "The milks are used to make cheese and yogurt.",
+            "sent3": "The milks spilled on the floor, creating a mess.",
+            "sent4": "The milks flowed like a river from the cow's udder.",
+            "sent5": "The milks were warm and comforting."
         },
         {
             "definition": "To draw milk from the mammary glands of mammals.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She carefully milks the cow every morning.",
+            "sent2": "The farmer milks the goats before sunrise.",
+            "sent3": "He milks the cow with a smile, knowing it helps the animal.",
+            "sent4": "The machine efficiently milks the cows on the farm.",
+            "sent5": "Milking requires gentle hands and patience."
         },
         {
             "definition": "To exploit or take advantage of someone or something for personal gain.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The dishonest businessman milks his employees for extra profits.",
+            "sent2": "She milks the situation for all it's worth.",
+            "sent3": "He always finds a way to milk any opportunity that comes his way.",
+            "sent4": "The politician tried to milk the scandal for sympathy votes.",
+            "sent5": "The scam artist milks unsuspecting victims for their money."
         }
     ]
 }

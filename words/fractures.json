@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "The act of breaking or cracking something",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The fractures in the glass were caused by the impact.",
+            "sent2": "He studied the fractures in the rock to understand its formation.",
+            "sent3": "The toy car's fractures made it look like a puzzle waiting to be solved.",
+            "sent4": "The fractures in their friendship slowly widened over time.",
+            "sent5": "The fractures in the ice created a beautiful pattern on the surface."
         },
         {
             "definition": "A crack or break in a bone or hard material",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The doctor examined the x-ray to identify any fractures in the bone.",
+            "sent2": "She felt a sharp pain in her ankle, suspecting a fracture.",
+            "sent3": "The fracture in the vase was barely noticeable but weakened its structure.",
+            "sent4": "The fracture in the dam threatened the safety of the entire area.",
+            "sent5": "The old bridge showed signs of wear with visible fractures along its span."
         },
         {
             "definition": "To break or crack something, especially a bone",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He accidentally fractures the delicate vase while cleaning.",
+            "sent2": "The athlete's fall could easily fracture a bone if not careful.",
+            "sent3": "She playfully threatens to fracture the cookie in half for sharing.",
+            "sent4": "The loud noise seemed to fracture the silence of the night.",
+            "sent5": "The earthquake's force could fracture even the sturdiest buildings."
         }
     ]
 }

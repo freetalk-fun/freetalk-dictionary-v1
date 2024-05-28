@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A Scottish dialect word meaning 'two'.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I need twae apples for the recipe.",
+            "sent2": "Can you give me twae pencils, please?",
+            "sent3": "She counted twae sheep before falling asleep.",
+            "sent4": "The twins looked like twae peas in a pod.",
+            "sent5": "The bookshelf had twae shelves filled with books."
         },
         {
             "definition": "To divide into two parts.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Please twae the cake into equal slices.",
+            "sent2": "He decided to twae the sandwich for sharing.",
+            "sent3": "The magician twae the rope in a surprising trick.",
+            "sent4": "The river seemed to twae the forest in half.",
+            "sent5": "She carefully twae the paper along the dotted line."
         }
     ]
 }

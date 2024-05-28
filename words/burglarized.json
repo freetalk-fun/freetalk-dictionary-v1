@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To break into and steal from a building or home.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Last night, someone burglarized our neighbor's house while they were on vacation.",
+            "sent2": "The thieves burglarized the jewelry store and got away with valuable items.",
+            "sent3": "The burglars must have burglarized the wrong house, as they only found fake jewelry and old newspapers.",
+            "sent4": "The silence of the night was suddenly burglarized by the sound of breaking glass.",
+            "sent5": "The image of the shattered window being burglarized by shadowy figures haunted her dreams."
         },
         {
             "definition": "The act of committing burglary.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The police were investigating a series of burglaries in the neighborhood, trying to catch the burglarized.",
+            "sent2": "After the burglarized, the community installed security cameras to prevent future break-ins.",
+            "sent3": "The burglarized left behind a clue in the form of a glove, which helped the detectives solve the case.",
+            "sent4": "The news of the latest burglarized spread quickly, causing fear among the residents.",
+            "sent5": "The burglarized wore a mask to conceal their identity while breaking into the house."
         }
     ]
 }

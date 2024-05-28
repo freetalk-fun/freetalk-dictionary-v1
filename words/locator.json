@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A person or thing that locates.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The locator found the lost keys under the couch.",
+            "sent2": "The locator used a map to find the treasure chest.",
+            "sent3": "The locator dog sniffed out the hidden treats in the backyard.",
+            "sent4": "Her intuition acted as a reliable locator in unfamiliar situations.",
+            "sent5": "The locator's keen sense of direction always led them home safely."
         },
         {
             "definition": "A device or system used to determine the location of something.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The GPS locator guided them to the nearest gas station.",
+            "sent2": "The locator on the phone helped track the package in transit.",
+            "sent3": "The locator beeped loudly when the keys were nearby.",
+            "sent4": "The locator function on the app pinpointed their exact position.",
+            "sent5": "The locator device was essential for the search and rescue mission."
         },
         {
             "definition": "A symbol or mark used to indicate a specific location.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The locator on the map showed where the treasure was buried.",
+            "sent2": "The bright red locator on the hiking trail guided them back to the car.",
+            "sent3": "The locator on the menu highlighted the chef's special dish.",
+            "sent4": "The star served as a celestial locator for ancient sailors.",
+            "sent5": "The locator symbol on the document pointed to the important section."
         }
     ]
 }

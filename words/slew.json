@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A large number or quantity",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "There were a slew of colorful balloons at the party.",
+            "sent2": "She bought a slew of books at the bookstore.",
+            "sent3": "The slew of puppies running around the yard was a delightful sight.",
+            "sent4": "The slew of stars in the night sky twinkled brightly.",
+            "sent5": "The farmer harvested a slew of ripe apples from the orchard."
         },
         {
             "definition": "To turn or slide uncontrollably",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The car slewed on the icy road, causing the driver to lose control.",
+            "sent2": "The skateboarder slewed around the corner with ease.",
+            "sent3": "The banana peel made him slew comically on the floor.",
+            "sent4": "Her sudden question slewed his thoughts in a different direction.",
+            "sent5": "The dancer's swift movements made her slew gracefully across the stage."
         },
         {
             "definition": "To rotate or pivot on a fixed point",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The windmill slewed in the breeze, generating electricity.",
+            "sent2": "The compass needle slewed towards the north.",
+            "sent3": "The lazy Susan slewed around as they searched for the ketchup.",
+            "sent4": "His eyes slewed to the clock, realizing he was running late.",
+            "sent5": "The lighthouse beam slewed across the dark sea, guiding ships to safety."
         }
     ]
 }

@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Physical injury or damage caused by external force.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The doctor treated the patient's harms from the car accident.",
+            "sent2": "She had visible harms on her arm from the fall.",
+            "sent3": "The puppy's playful bite resulted in tiny harms on my hand.",
+            "sent4": "The storm left behind a trail of destruction, with harms to buildings and trees.",
+            "sent5": "The firefighter bravely rushed into the burning building to save lives from harms."
         },
         {
             "definition": "Mental or emotional damage or injury.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The therapist helped her cope with the emotional harms of the past.",
+            "sent2": "He carried deep emotional harms from his childhood trauma.",
+            "sent3": "Watching sad movies always brings out the emotional harms in me.",
+            "sent4": "The breakup left lasting emotional harms that took time to heal.",
+            "sent5": "The support group provided a safe space for sharing emotional harms and struggles."
         },
         {
             "definition": "To cause physical or mental damage or injury to someone or something.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He didn't want to harms the delicate flower by moving it too roughly.",
+            "sent2": "The reckless driver's actions could harms innocent pedestrians.",
+            "sent3": "She jokingly threatened to harms him if he didn't stop teasing her.",
+            "sent4": "His harsh words seemed to harms her feelings more than he realized.",
+            "sent5": "The misuse of pesticides can harms the environment and wildlife."
         }
     ]
 }

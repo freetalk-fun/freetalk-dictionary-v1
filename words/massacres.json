@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "The killing of a large number of people, typically in a brutal or violent manner.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The history book described the massacres that happened during the war.",
+            "sent2": "The news reported on the recent massacres in the city.",
+            "sent3": "The movie portrayed a comical version of the massacres, which seemed unrealistic.",
+            "sent4": "The impact of the massacres on the community was like a dark cloud hanging over them.",
+            "sent5": "The artist's painting vividly depicted the massacres with haunting detail."
         },
         {
             "definition": "To kill a large number of people in a brutal or violent manner.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The dictator's army massacres innocent civilians without mercy.",
+            "sent2": "The invaders planned to massacres the entire village to instill fear.",
+            "sent3": "The chef 'massacres' the vegetables in the kitchen, chopping them into tiny pieces.",
+            "sent4": "The storm 'massacres' the fragile flowers in the garden, leaving destruction in its wake.",
+            "sent5": "The wildfire 'massacres' everything in its path, leaving behind a trail of devastation."
         }
     ]
 }

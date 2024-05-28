@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A false or assumed identity.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The spy used an alias to hide his real name.",
+            "sent2": "The criminal operated under an alias to avoid being caught.",
+            "sent3": "The cat pretended to be a dog, an alias that fooled everyone.",
+            "sent4": "Her smile was an alias for the sadness she felt inside.",
+            "sent5": "The superhero's alias was known to all as a symbol of justice."
         },
         {
             "definition": "Otherwise known as; also called.",
-            "pos": "conjunction"
+            "pos": "conjunction",
+            "sent1": "She is alias Mary, but her friends call her Molly.",
+            "sent2": "The famous singer, alias the Queen of Pop, will perform tonight.",
+            "sent3": "The magician, alias the Great Houdini, amazed the audience with his tricks.",
+            "sent4": "The storm, alias the Beast from the East, brought heavy snowfall.",
+            "sent5": "The mysterious figure, alias the Phantom, haunted the old theater."
         }
     ]
 }

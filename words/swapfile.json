@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A file on a computer used for virtual memory management.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I saved my work on the swapfile to free up space on my computer.",
+            "sent2": "The swapfile helps my computer run smoothly by managing virtual memory.",
+            "sent3": "The swapfile on my computer is like a helpful assistant organizing all the information.",
+            "sent4": "The swapfile is the brain of the computer, storing and retrieving data as needed.",
+            "sent5": "Without the swapfile, my computer would struggle to handle multiple tasks at once."
         },
         {
             "definition": "To exchange or trade files between computer systems.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I will swapfile the documents with my colleague for review.",
+            "sent2": "We need to swapfile these photos before the presentation.",
+            "sent3": "Let's swapfile these files and see if we can find a better solution.",
+            "sent4": "I often swapfile music files with my friends to discover new songs.",
+            "sent5": "It's fun to swapfile files with others and see what interesting things we can find."
         }
     ]
 }

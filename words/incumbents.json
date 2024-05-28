@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "The holder of an office or position.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The incumbents in the company are experienced and knowledgeable.",
+            "sent2": "The incumbents won the election and will continue in their roles.",
+            "sent3": "The incumbents at the party were the life of the celebration.",
+            "sent4": "The incumbents of the treasure chest were the jewels and gold.",
+            "sent5": "The incumbents of the hive are the worker bees who keep it running smoothly."
         },
         {
             "definition": "Currently holding a specific office or position.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The incumbents officials are working on new policies.",
+            "sent2": "The incumbents team is leading in the competition.",
+            "sent3": "The cake was decorated with the incumbents candles.",
+            "sent4": "The garden was filled with the scent of the incumbents flowers.",
+            "sent5": "The classroom was decorated with the artwork of the incumbents students."
         }
     ]
 }

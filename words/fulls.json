@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To fill completely.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She fulls the glass with water.",
+            "sent2": "He always fulls his plate with food.",
+            "sent3": "The clown fulls the tiny car with too many passengers.",
+            "sent4": "Her laughter fulls the room with joy.",
+            "sent5": "The music fulls my heart with emotion."
         },
         {
             "definition": "The amount that a container can hold.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The bucket reached its fulls with water.",
+            "sent2": "The jar's fulls were overflowing with marbles.",
+            "sent3": "The treasure chest's fulls were a surprise to the pirates.",
+            "sent4": "His eyes held a fulls of tears.",
+            "sent5": "The bag's fulls of candy were a delight to the children."
         }
     ]
 }

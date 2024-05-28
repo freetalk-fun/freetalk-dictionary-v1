@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Make smaller or less in amount, degree, or size.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She is reducing the amount of sugar in her coffee.",
+            "sent2": "I am reducing the number of toys in my room.",
+            "sent3": "He tried reducing the pile of laundry, but it seemed to multiply!",
+            "sent4": "The teacher is like a magician, reducing the complex math problem to a simple solution.",
+            "sent5": "The artist skillfully painted, reducing the vast landscape to a tiny canvas."
         },
         {
             "definition": "Cooking: Cooking food in a way that makes it smaller in size or thickness.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Mom is reducing the sauce on the stove for dinner.",
+            "sent2": "The chef is reducing the broth to intensify the flavor.",
+            "sent3": "The pot bubbled over while reducing the soup, creating a mess.",
+            "sent4": "The heat worked like magic, reducing the vegetables to a delicious sauce.",
+            "sent5": "The aroma filled the kitchen as the chef focused on reducing the sauce."
         },
         {
             "definition": "Chemistry: To cause a substance to undergo reduction.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The scientist is reducing the metal to extract pure iron.",
+            "sent2": "The experiment involves reducing the compound to its basic elements.",
+            "sent3": "The potion's effect was unexpected after reducing the liquid.",
+            "sent4": "The reaction in the lab was like reducing a complex equation to a simple answer.",
+            "sent5": "The process of reducing the elements requires precision and expertise."
         }
     ]
 }

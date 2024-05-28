@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A pack containing three items.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I bought a tripack of pens at the store.",
+            "sent2": "The tripack of batteries was on sale for a good price.",
+            "sent3": "Carrying the tripack of snacks made me feel like a superhero with a secret stash.",
+            "sent4": "Her laughter was like opening a tripack of joy.",
+            "sent5": "The colorful tripack of markers caught my eye immediately."
         },
         {
             "definition": "To pack or bundle into a group of three.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I need to tripack my socks before the trip.",
+            "sent2": "She likes to tripack her outfits for the weekend getaway.",
+            "sent3": "He decided to tripack his lunch to save time in the morning.",
+            "sent4": "The team will tripack their equipment for the camping trip.",
+            "sent5": "Let's tripack the books neatly in the bag for easy carrying."
         }
     ]
 }

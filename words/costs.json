@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "The amount that has to be paid or spent to buy or obtain something.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The costs of the new phone were too high for me to afford.",
+            "sent2": "She carefully calculated all the costs before making a decision.",
+            "sent3": "The costs of going to the moon must be astronomical!",
+            "sent4": "The costs of success often include hard work and dedication.",
+            "sent5": "The costs of neglecting your health can be detrimental in the long run."
         },
         {
             "definition": "An amount that is paid or spent to do or make something.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The costs of repairing the car were more than expected.",
+            "sent2": "He considered the costs of starting a business before taking the leap.",
+            "sent3": "The costs of eating too much ice cream are a stomachache.",
+            "sent4": "The costs of procrastination can lead to missed opportunities.",
+            "sent5": "The costs of kindness are always worth it in the end."
         },
         {
             "definition": "To require the payment of (a specified sum of money) in order to be bought or obtained.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The store costs a lot of money to open and operate.",
+            "sent2": "It costs a lot to maintain a large garden like hers.",
+            "sent3": "It costs a pretty penny to buy a brand new car.",
+            "sent4": "Losing a friend can cost you a piece of your heart.",
+            "sent5": "It costs nothing to be kind to others and spread positivity."
         }
     ]
 }

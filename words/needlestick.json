@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A puncture wound caused by a needle.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The nurse experienced a needlestick while giving an injection.",
+            "sent2": "The doctor treated the patient's needlestick carefully.",
+            "sent3": "The needlestick in the haystack was not what the farmer expected.",
+            "sent4": "Her fear of failure felt like a needlestick in her heart.",
+            "sent5": "The sharp pain from the needlestick made her wince."
         },
         {
             "definition": "To accidentally prick oneself with a needle.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Be careful not to needlestick yourself when sewing.",
+            "sent2": "She needlesticked her finger while sewing a button.",
+            "sent3": "He needlesticked himself and yelped in surprise.",
+            "sent4": "The truth about the situation needlesticked her conscience.",
+            "sent5": "The unexpected needlestick reminded her to pay attention."
         }
     ]
 }

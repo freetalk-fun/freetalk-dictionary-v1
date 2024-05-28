@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A mutual relationship or connection between two or more things.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The correlation between exercise and health is well-known.",
+            "sent2": "Scientists studied the correlation between rainfall and plant growth.",
+            "sent3": "The correlation between my love for ice cream and my waistline is concerning.",
+            "sent4": "The correlation between hard work and success is like a hidden thread connecting them.",
+            "sent5": "The correlation between studying and good grades is undeniable."
         },
         {
             "definition": "A statistical measure of the relationship between two variables.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The correlation in the data showed a strong connection between income and education level.",
+            "sent2": "Researchers calculated the correlation between sleep and memory retention.",
+            "sent3": "The correlation in the survey results was so high, it made the statisticians smile.",
+            "sent4": "The correlation between temperature and ice cream sales is as clear as day.",
+            "sent5": "The correlation between practice and performance is crucial in mastering any skill."
         }
     ]
 }

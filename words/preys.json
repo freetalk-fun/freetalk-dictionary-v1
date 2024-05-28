@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "An animal that is hunted and killed by another for food.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The lion chased after its prey in the savanna.",
+            "sent2": "The cheetah caught its prey after a swift chase.",
+            "sent3": "The prey tried to hide, but the predator found it easily.",
+            "sent4": "In the circle of life, the prey becomes the predator's meal.",
+            "sent5": "The prey's survival instincts kicked in as it sensed danger nearby."
         },
         {
             "definition": "To hunt and kill for food.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The wolf preys on smaller animals in the forest.",
+            "sent2": "The eagle preys on fish in the river.",
+            "sent3": "The hunter preys on deer during hunting season.",
+            "sent4": "The spider preys on insects caught in its web.",
+            "sent5": "The lion preys on the weak and injured gazelle."
         },
         {
             "definition": "To exploit or victimize someone.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Scammers often prey on unsuspecting individuals online.",
+            "sent2": "Bullies prey on weaker students in school.",
+            "sent3": "The con artist tried to prey on the elderly woman's kindness.",
+            "sent4": "Corrupt officials prey on the trust of the public for personal gain.",
+            "sent5": "The manipulative salesperson preys on customers' insecurities to make a sale."
         }
     ]
 }

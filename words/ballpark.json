@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "An informal term for a baseball field.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "We played catch in the ballpark.",
+            "sent2": "The fans cheered loudly at the ballpark.",
+            "sent3": "The hot dog vendor at the ballpark always makes me smile.",
+            "sent4": "Her laughter echoed through the ballpark like a joyful melody.",
+            "sent5": "The smell of popcorn and grass in the ballpark lingered in my memory."
         },
         {
             "definition": "An approximate or rough estimate.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "His guess was in the ballpark of the actual number.",
+            "sent2": "The cost of the project was way off from the ballpark figure.",
+            "sent3": "She took a wild guess that landed right in the ballpark.",
+            "sent4": "The estimate was close, but still outside the ballpark of accuracy.",
+            "sent5": "The ballpark number helped us plan our budget effectively."
         },
         {
             "definition": "To make an estimate or guess.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Can you ballpark the total cost for me?",
+            "sent2": "I ballparked the time it would take to finish the task.",
+            "sent3": "He tried to ballpark the number of jellybeans in the jar.",
+            "sent4": "She ballparked the distance to be around five miles.",
+            "sent5": "We need to ballpark the attendance for the event."
         }
     ]
 }

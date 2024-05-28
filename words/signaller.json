@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A person who sends signals",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The signaller waved his flag to send a message.",
+            "sent2": "The signaller used his flashlight to communicate with the team.",
+            "sent3": "The signaller accidentally signaled the wrong direction, causing confusion.",
+            "sent4": "She was like a signaller in a sea of chaos, guiding everyone to safety.",
+            "sent5": "The signaller's role was crucial in ensuring the information reached the intended recipients."
         },
         {
             "definition": "A device that sends signals",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The signaller beeped loudly to indicate an incoming message.",
+            "sent2": "The old signaller crackled with static as it transmitted the distress call.",
+            "sent3": "The signaller's battery died at the worst possible moment.",
+            "sent4": "The signaller hummed softly, filling the room with its electronic melody.",
+            "sent5": "The sleek design of the signaller made it easy to carry and use in emergencies."
         },
         {
             "definition": "To communicate using signals",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He had to signaller his team from a distance using hand gestures.",
+            "sent2": "The ship signallers to each other using flags during the storm.",
+            "sent3": "She tried to signaller her friend across the noisy room.",
+            "sent4": "The birds signaller to each other with their beautiful songs.",
+            "sent5": "In the quiet forest, the wind signallers secrets through the rustling leaves."
         }
     ]
 }

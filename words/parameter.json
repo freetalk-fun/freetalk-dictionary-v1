@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A numerical or other measurable factor forming one of a set that defines a system or sets the conditions of its operation.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The temperature parameter must be carefully monitored in the experiment.",
+            "sent2": "The software engineer adjusted the parameters to optimize the program's performance.",
+            "sent3": "The parameter for the robot's speed was set too high, and it started moving like a race car!",
+            "sent4": "In the world of music, the tempo can be seen as a parameter that influences the overall mood.",
+            "sent5": "The parameter of time in this equation is crucial for accurate predictions."
         },
         {
             "definition": "A limit or boundary that defines the scope of a particular process or activity.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The budget parameter for the project was strictly adhered to.",
+            "sent2": "The legal team discussed the parameters of the new legislation.",
+            "sent3": "The parameter of how many cookies you can eat in one sitting is definitely up for debate!",
+            "sent4": "Her laughter knew no parameter, filling the room with joy.",
+            "sent5": "The parameter of the marathon route was marked clearly with colorful flags."
         }
     ]
 }

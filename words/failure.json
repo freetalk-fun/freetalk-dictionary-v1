@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Lack of success",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "His constant failure to complete his homework led to poor grades.",
+            "sent2": "The team's failure to score a goal cost them the championship.",
+            "sent3": "The failure of the cake to rise left everyone disappointed at the party.",
+            "sent4": "The failure of the plan was like a dark cloud hanging over their heads.",
+            "sent5": "The failure of the seed to sprout reminded him of missed opportunities."
         },
         {
             "definition": "Person or thing that proves unsuccessful",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "She considered herself a failure after losing the competition.",
+            "sent2": "The broken machine was a failure and needed to be replaced.",
+            "sent3": "The burnt cookies were a comical failure in her attempt at baking.",
+            "sent4": "The old car was a failure on wheels, always breaking down.",
+            "sent5": "The leaky roof was a constant reminder of the house's failure to withstand the rain."
         },
         {
             "definition": "Omission of expected or required action",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The failure to submit the report on time resulted in a penalty.",
+            "sent2": "Her failure to lock the door led to the theft of her belongings.",
+            "sent3": "The failure to water the plants caused them to wither and die.",
+            "sent4": "The failure to follow instructions left him confused and lost.",
+            "sent5": "The failure to attend the meeting left her out of the loop on important decisions."
         }
     ]
 }

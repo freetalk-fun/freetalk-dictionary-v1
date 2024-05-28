@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A type of shorebird with a long, straight bill.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The dowitcher flew gracefully over the water.",
+            "sent2": "I spotted a dowitcher wading in the shallow pond.",
+            "sent3": "The dowitcher's bill looked like a slender pencil.",
+            "sent4": "Her pointed nose resembled the bill of a dowitcher.",
+            "sent5": "The dowitcher's bill was as long as a ruler."
         },
         {
             "definition": "To search for food by probing in mud or sand.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The bird dowitchered in the wet sand for worms.",
+            "sent2": "We watched the dowitcher digging for clams at the beach.",
+            "sent3": "I dowitcher around the garden looking for my lost keys.",
+            "sent4": "She dowitchered through the messy drawer to find a pen.",
+            "sent5": "The detective dowitchered for clues in the crime scene."
         }
     ]
 }

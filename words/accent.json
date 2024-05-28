@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A distinctive way of pronouncing a language, typically associated with a particular country, region, or social group.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Her French accent made her stand out in the English-speaking class.",
+            "sent2": "I could tell he was from the South by his strong accent.",
+            "sent3": "The robot tried to mimic a British accent, but it sounded robotic.",
+            "sent4": "His accent painted a vivid picture of his roots in the countryside.",
+            "sent5": "The accent in her speech was like a colorful painting of her heritage."
         },
         {
             "definition": "A mark on a letter indicating pronunciation, stress, or tone.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The acute accent in the word 'caf\u00e9' changes its pronunciation.",
+            "sent2": "Make sure to include the accent mark in the word 'r\u00e9sum\u00e9'.",
+            "sent3": "The accent on the 'e' made it sound like a different letter.",
+            "sent4": "The accent on the vowel added a musical touch to the word.",
+            "sent5": "The accent mark clarified the correct way to say the word."
         },
         {
             "definition": "Emphasize a particular feature or quality.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She used makeup to accentuate her eyes.",
+            "sent2": "The bright colors accent the beauty of the garden.",
+            "sent3": "His tie accentuated his outfit in a quirky way.",
+            "sent4": "The lighting accentuated the dramatic atmosphere of the play.",
+            "sent5": "The music accentuated the emotions of the scene perfectly."
         }
     ]
 }

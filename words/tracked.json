@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Followed the movements or path of something.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She tracked the squirrel as it darted through the trees.",
+            "sent2": "The detective tracked the suspect's whereabouts throughout the day.",
+            "sent3": "The curious cat tracked the elusive red dot across the room.",
+            "sent4": "Her eyes tracked the shooting star streaking across the night sky.",
+            "sent5": "The hound dog tracked the scent of the missing child with determination."
         },
         {
             "definition": "Monitored or kept a record of something.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He tracked his daily expenses in a notebook.",
+            "sent2": "The scientist tracked the changes in temperature over time.",
+            "sent3": "She tracked her progress in learning the piano by marking each practice session.",
+            "sent4": "The teacher tracked the students' grades to ensure they were improving.",
+            "sent5": "The fitness app tracked her steps and calories burned accurately."
         },
         {
             "definition": "Covered with tracks or marks.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The muddy boots left a tracked trail on the clean floor.",
+            "sent2": "The snowy field was tracked with footprints from the hikers.",
+            "sent3": "The wet paintbrush accidentally left a tracked line on the canvas.",
+            "sent4": "The dusty car had tracked paw prints all over the windshield.",
+            "sent5": "The freshly poured concrete was still wet and easily tracked by shoes."
         }
     ]
 }

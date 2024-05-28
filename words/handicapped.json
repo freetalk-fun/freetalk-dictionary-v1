@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Having a physical or mental disability that limits movement, senses, or activities.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The handicapped boy used a wheelchair to move around the school.",
+            "sent2": "The handicapped parking spot was reserved for those with disabilities.",
+            "sent3": "The handicapped puppy struggled to keep up with the other dogs during playtime.",
+            "sent4": "Her broken leg was a handicapped in the race to the finish line.",
+            "sent5": "The dark room handicapped his ability to see clearly."
         },
         {
             "definition": "A disadvantage or obstacle that hinders progress or success.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Lack of experience can be a handicapped when applying for a job.",
+            "sent2": "Financial difficulties can act as a handicapped to achieving one's goals.",
+            "sent3": "His fear of heights was a handicapped during the team-building exercise.",
+            "sent4": "The language barrier proved to be a handicapped in their communication.",
+            "sent5": "Time management skills can help overcome the handicapped of procrastination."
         }
     ]
 }

@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To record incorrectly or inaccurately.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I misrecorded the meeting time in my planner.",
+            "sent2": "Please be careful not to misrecord any important information.",
+            "sent3": "Oops, I misrecorded the recipe and added salt instead of sugar!",
+            "sent4": "Her memory misrecorded the events, making them seem more dramatic.",
+            "sent5": "The detective's misrecord of the suspect's alibi led to a breakthrough in the case."
         },
         {
             "definition": "An incorrect or inaccurate recording.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The misrecord of the song played at the party was embarrassing.",
+            "sent2": "Make sure to check for any misrecords before finalizing the report.",
+            "sent3": "The misrecord in the financial statement caused confusion among the team.",
+            "sent4": "The misrecord of history in the textbook changed the perspective of the event.",
+            "sent5": "The misrecord of the weather forecast led to unexpected sunshine during the picnic."
         }
     ]
 }

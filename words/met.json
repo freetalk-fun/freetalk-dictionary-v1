@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "past tense of meet",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Yesterday, I met my friend at the park.",
+            "sent2": "We met for lunch at the cafe.",
+            "sent3": "The cat met the dog at the corner and they became friends.",
+            "sent4": "The two rivers met at the valley, creating a beautiful scene.",
+            "sent5": "She met her favorite singer backstage and was overjoyed."
         },
         {
             "definition": "to come together",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The team met to discuss the project.",
+            "sent2": "The clouds met in the sky, forming a storm.",
+            "sent3": "The two roads met at the intersection, causing traffic.",
+            "sent4": "The sun and the moon met in the evening sky, creating a stunning view.",
+            "sent5": "The friends met at the cinema to watch a movie together."
         },
         {
             "definition": "to encounter or experience",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She met many challenges during her journey.",
+            "sent2": "He met with success after years of hard work.",
+            "sent3": "The explorer met a rare species of bird in the jungle.",
+            "sent4": "The artist met with inspiration while walking in the park.",
+            "sent5": "The student met difficulties but overcame them with determination."
         }
     ]
 }

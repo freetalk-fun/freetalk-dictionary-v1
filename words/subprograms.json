@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A set of instructions within a computer program that performs a specific task.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The subprograms in the software help the computer follow specific steps.",
+            "sent2": "Programmers often use subprograms to organize tasks efficiently.",
+            "sent3": "The subprograms in the code were like little helpers guiding the computer.",
+            "sent4": "Her understanding of subprograms was the key to unlocking the program's potential.",
+            "sent5": "The intricate dance of subprograms made the computer program run smoothly."
         },
         {
             "definition": "A smaller program within a larger program that can be called and executed independently.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Each subprogram in the software has its own unique function.",
+            "sent2": "When a subprogram is called, it carries out its specific task and returns control to the main program.",
+            "sent3": "The subprograms were like mini superheroes, ready to jump into action when needed.",
+            "sent4": "The subprogram acted as a standalone entity within the larger program, like a small robot inside a bigger machine.",
+            "sent5": "The independence of subprograms allows for more efficient and modular programming."
         }
     ]
 }

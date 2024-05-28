@@ -2,12 +2,22 @@
     "term": "renegues",
     "meanings": [
         {
-            "definition": "Renegues (verb): to go back on a promise or commitment",
-            "pos": "verb"
+            "definition": "to go back on a promise or commitment",
+            "pos": "verb",
+            "sent1": "She renegues on her promise to help with the project.",
+            "sent2": "He always renegues on his plans at the last minute.",
+            "sent3": "The cat renegues on its decision to chase the mouse.",
+            "sent4": "The sun renegues on its commitment to shine every day.",
+            "sent5": "The student renegues on studying for the test, hoping for luck instead."
         },
         {
-            "definition": "Renegues (noun): a person who deserts or betrays a cause or organization",
-            "pos": "noun"
+            "definition": "a person who deserts or betrays a cause or organization",
+            "pos": "noun",
+            "sent1": "The renegues caused chaos within the group.",
+            "sent2": "She was labeled a renegues after leaving the team abruptly.",
+            "sent3": "The renegues sneaked away from the meeting, avoiding responsibility.",
+            "sent4": "The renegues is like a lone wolf, wandering without loyalty.",
+            "sent5": "Becoming a renegues can lead to isolation and mistrust from others."
         }
     ]
 }

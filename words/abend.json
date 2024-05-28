@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "(verb) To terminate unexpectedly or abnormally.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The computer program will abend if there is a critical error.",
+            "sent2": "I hope my computer doesn't abend in the middle of an important task.",
+            "sent3": "It's like the computer decided to abend just for fun!",
+            "sent4": "The meeting abended abruptly when the fire alarm went off.",
+            "sent5": "The movie plot abended in a surprising twist that left everyone shocked."
         },
         {
             "definition": "(noun) An unexpected or abnormal termination of a program.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The abend of the software caused data loss.",
+            "sent2": "When there is an abend, it disrupts the workflow.",
+            "sent3": "The abend was so unexpected, it felt like a plot twist in a movie.",
+            "sent4": "The abend was like a sudden blackout during a live performance.",
+            "sent5": "The system's abend was like a hiccup in its normal operation."
         }
     ]
 }

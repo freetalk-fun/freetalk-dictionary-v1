@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A person or thing that authenticates.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The security guard acted as the authenticator at the entrance, checking everyone's ID.",
+            "sent2": "The fingerprint scanner is an authenticator that grants access to the building.",
+            "sent3": "The talking parrot jokingly claimed to be the authenticator of the household, demanding to see everyone's keys.",
+            "sent4": "Her smile was the authenticator of her happiness, shining brightly in every photo.",
+            "sent5": "The old lighthouse served as the authenticator of the coastline, guiding ships safely to shore."
         },
         {
             "definition": "A code or token used to verify a user's identity.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The two-factor authentication app generates a unique authenticator code every 30 seconds.",
+            "sent2": "The email contained a link to a one-time authenticator token for account verification.",
+            "sent3": "The magic wand in the game was the authenticator to unlock the secret level, waving it would reveal the hidden path.",
+            "sent4": "Her laughter was the authenticator of her joy, echoing through the room like music.",
+            "sent5": "The golden key served as the authenticator to open the treasure chest, revealing its precious contents."
         }
     ]
 }

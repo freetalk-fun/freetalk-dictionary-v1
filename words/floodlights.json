@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A bright light used to illuminate a large area, typically outdoors.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The football field was bright under the floodlights.",
+            "sent2": "The park looked beautiful under the floodlights at night.",
+            "sent3": "The floodlights made the playground look like a magical land.",
+            "sent4": "The floodlights turned the dark field into a glowing sea of light.",
+            "sent5": "The floodlights shone like a thousand stars in the night sky."
         },
         {
             "definition": "To illuminate with floodlights.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "They floodlit the stage for the concert.",
+            "sent2": "The stadium crew floodlights the entire field before the game.",
+            "sent3": "He floodlights his backyard for evening gatherings.",
+            "sent4": "The movie set was floodlit to create a dramatic effect.",
+            "sent5": "The garden was floodlit to showcase the beautiful flowers at night."
         }
     ]
 }

@@ -3,19 +3,39 @@
     "meanings": [
         {
             "definition": "Intend or have as a purpose",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I meane to finish my homework before dinner.",
+            "sent2": "She always means well when offering advice.",
+            "sent3": "Trying to bake a cake without a recipe might mean disaster.",
+            "sent4": "His words meant the world to her in that moment.",
+            "sent5": "The determined look in his eyes meant business."
         },
         {
             "definition": "Average in amount, quality, value, or degree",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The meane score on the test was 75%.",
+            "sent2": "She lived in a meane house on the quiet street.",
+            "sent3": "The meane temperature in this city is quite pleasant.",
+            "sent4": "His meane performance was neither outstanding nor terrible.",
+            "sent5": "The meane price of groceries has increased slightly this month."
         },
         {
             "definition": "Lacking distinction or variation",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The meane design of the building was unremarkable.",
+            "sent2": "Her wardrobe consisted of meane colors like black and gray.",
+            "sent3": "The meane pattern on the wallpaper made the room seem dull.",
+            "sent4": "His meane voice blended into the background noise.",
+            "sent5": "The meane landscape stretched out endlessly before them."
         },
         {
             "definition": "Characterized by low social or economic status",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "They lived in a meane neighborhood with little opportunity.",
+            "sent2": "The meane workers struggled to make ends meet.",
+            "sent3": "The meane family relied on community support to survive.",
+            "sent4": "Her meane upbringing taught her the value of hard work.",
+            "sent5": "The meane conditions in the village were heartbreaking to witness."
         }
     ]
 }

@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Expressing the relationship between a part and a whole.",
-            "pos": "preposition"
+            "pos": "preposition",
+            "sent1": "The handle of the cup is made of plastic.",
+            "sent2": "She ate a piece of cake for dessert.",
+            "sent3": "The cat knocked over a tower of cans.",
+            "sent4": "His heart was full of joy.",
+            "sent5": "The sound of laughter filled the room."
         },
         {
             "definition": "Expressing the relationship between a general category and the thing being specified.",
-            "pos": "preposition"
+            "pos": "preposition",
+            "sent1": "She is a student of history.",
+            "sent2": "I bought a book of poems.",
+            "sent3": "The garden was full of colorful flowers.",
+            "sent4": "His words were full of wisdom.",
+            "sent5": "The room was full of the smell of fresh bread."
         },
         {
             "definition": "Expressing the relationship between a point of reckoning and a time or event.",
-            "pos": "preposition"
+            "pos": "preposition",
+            "sent1": "The meeting is scheduled for 3 o'clock.",
+            "sent2": "They left for the airport at the break of dawn.",
+            "sent3": "The party lasted until the stroke of midnight.",
+            "sent4": "The announcement came at the end of the show.",
+            "sent5": "The train departed at the crack of dawn."
         }
     ]
 }

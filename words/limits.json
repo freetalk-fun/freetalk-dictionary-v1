@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A point or level beyond which something does not or may not extend or pass.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The mountain peak marked the limits of our hike.",
+            "sent2": "She reached her limits and had to take a break.",
+            "sent3": "The squirrel's acrobatics pushed the limits of believability.",
+            "sent4": "His patience knew no limits when dealing with difficult customers.",
+            "sent5": "The teacher set clear limits for acceptable behavior in the classroom."
         },
         {
             "definition": "The furthest extent of one's physical or mental endurance.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Running a marathon tested her limits.",
+            "sent2": "He pushed himself to the limits during the intense workout.",
+            "sent3": "The comedian's jokes stretched the limits of good taste.",
+            "sent4": "Her determination knew no limits when pursuing her dreams.",
+            "sent5": "The storm pushed the limits of the old building, causing it to collapse."
         },
         {
             "definition": "A restriction or boundary that defines the scope of something.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The speed limit on the highway is 65 miles per hour.",
+            "sent2": "There are limits to how much you can spend on this project.",
+            "sent3": "The cat's curiosity knows no limits, always exploring new places.",
+            "sent4": "His love for her had no limits, reaching across oceans.",
+            "sent5": "The rules clearly state the limits of acceptable behavior in the workplace."
         }
     ]
 }

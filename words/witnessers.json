@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A person who sees an event, typically a crime or accident, take place.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The witnessers at the scene helped the police solve the crime.",
+            "sent2": "The witnessers provided valuable information to the investigators.",
+            "sent3": "The witnessers shared what they saw with the authorities.",
+            "sent4": "The witnessers' accounts painted a clear picture of the incident.",
+            "sent5": "The witnessers' testimonies were crucial in the court case."
         },
         {
             "definition": "To see (an event, typically a crime or accident) take place.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I witnessers the car crash while walking home.",
+            "sent2": "She witnessers the theft and immediately called the police.",
+            "sent3": "He witnessers the cat stealing food from the kitchen.",
+            "sent4": "They witnessers the storm approaching from a distance.",
+            "sent5": "The security camera witnessers the intruder breaking into the building."
         }
     ]
 }

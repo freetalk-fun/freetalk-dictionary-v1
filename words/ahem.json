@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Used to represent the sound of a throat being cleared, typically to gain attention or express disapproval.",
-            "pos": "interjection"
+            "pos": "interjection",
+            "sent1": "Ahem! Please listen to me.",
+            "sent2": "Ahem, I have something important to say.",
+            "sent3": "Ahem, could you kindly pay attention?",
+            "sent4": "Ahem, your behavior is not acceptable.",
+            "sent5": "Ahem! Your manners need improvement."
         },
         {
             "definition": "Used to indicate hesitation or uncertainty in speech.",
-            "pos": "interjection"
+            "pos": "interjection",
+            "sent1": "Excuse me, ahem, I'm not sure about that.",
+            "sent2": "Um, ahem, I might need more time to decide.",
+            "sent3": "Ahem, should I or should I not?",
+            "sent4": "Ahem, my thoughts are a bit muddled.",
+            "sent5": "Ahem, I am feeling a bit unsure about this."
         }
     ]
 }

@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A wall or partition designed to inhibit or prevent the spread of fire.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The firewall in the building stopped the fire from spreading to other rooms.",
+            "sent2": "The firewall around the factory helped contain the fire to a small area.",
+            "sent3": "The firefighters praised the sturdy firewall for its excellent job in stopping the fire.",
+            "sent4": "The firewall acted like a brave shield, holding back the flames and protecting the building.",
+            "sent5": "The red firewall stood strong, blocking the fire's path with determination."
         },
         {
             "definition": "A software program or hardware device that protects a computer network from unauthorized access.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The IT department installed a firewall to keep hackers out of the company's network.",
+            "sent2": "Make sure your firewall is always up to date to prevent any security breaches.",
+            "sent3": "The firewall on the computer was like a digital guard, keeping intruders away.",
+            "sent4": "The firewall functioned as a digital gatekeeper, allowing only authorized users to enter.",
+            "sent5": "The strong firewall surrounded the network like an impenetrable fortress, keeping all data safe."
         }
     ]
 }

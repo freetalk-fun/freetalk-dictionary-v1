@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To give an incorrect or inaccurate definition or explanation of something.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She misdefines the word 'happy' as meaning 'sad'.",
+            "sent2": "He often misdefines scientific terms in his reports.",
+            "sent3": "The robot misdefines 'human' as 'robot'.",
+            "sent4": "Her broken compass misdefines north as south.",
+            "sent5": "The faulty map misdefines the location of the treasure."
         },
         {
             "definition": "To interpret or understand something incorrectly or inaccurately.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The child misdefines the instructions and gets lost.",
+            "sent2": "Students sometimes misdefine historical events in their essays.",
+            "sent3": "The detective misdefines the suspect's alibi and solves the case.",
+            "sent4": "His fear misdefines the harmless noise as a threat.",
+            "sent5": "The fog misdefines the shape of the distant mountain."
         }
     ]
 }

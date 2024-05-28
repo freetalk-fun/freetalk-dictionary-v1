@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "The act of conveying thoughts or feelings through words, actions, or other means.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Her expression showed how happy she was.",
+            "sent2": "Art is a form of expression.",
+            "sent3": "His expression of excitement was contagious.",
+            "sent4": "The painting was an expression of the artist's emotions.",
+            "sent5": "The dancer's expression of joy was captivating."
         },
         {
             "definition": "A look on someone's face that conveys a particular emotion.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "She had a worried expression on her face.",
+            "sent2": "His expression of surprise was priceless.",
+            "sent3": "The puppy's expression of innocence melted everyone's hearts.",
+            "sent4": "The expression of fear in her eyes was unmistakable.",
+            "sent5": "The expression of gratitude on his face was genuine."
         },
         {
             "definition": "A mathematical phrase that combines numbers, variables, and operations.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Solving the complex expression required careful calculations.",
+            "sent2": "An algebraic expression can contain both numbers and letters.",
+            "sent3": "The teacher's expression of the equation made it easier to understand.",
+            "sent4": "In mathematics, an expression is a combination of symbols representing a value.",
+            "sent5": "The mathematical expression simplified the problem significantly."
         }
     ]
 }

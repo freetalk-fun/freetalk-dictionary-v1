@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A place frequented by a particular person or group.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The old mansion became one of his favorite haunts for exploring.",
+            "sent2": "The park was a popular haunt for families on weekends.",
+            "sent3": "The haunted house turned out to be a friendly haunt with talking paintings.",
+            "sent4": "The abandoned factory stood as a haunting haunt of the town's industrial past.",
+            "sent5": "The forest, with its mysterious sounds, was a haunt that sparked curiosity in the children."
         },
         {
             "definition": "To visit frequently or habitually.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He haunts the library every Saturday to read his favorite books.",
+            "sent2": "The old man haunts the same cafe every morning for his coffee.",
+            "sent3": "The cat haunts the kitchen, hoping for a treat to magically appear.",
+            "sent4": "The memories of her childhood home haunt her dreams at night.",
+            "sent5": "The ghostly figure haunts the castle, appearing only at midnight."
         },
         {
             "definition": "To be persistently and disturbingly present in the mind.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The thought of failing the test haunts him constantly.",
+            "sent2": "The image of the accident haunts her thoughts, making it hard to sleep.",
+            "sent3": "The idea of a talking dog haunts his imagination, making him giggle.",
+            "sent4": "The melody of the song haunts her like a ghost from the past.",
+            "sent5": "The words of the fortune teller haunt him, making him question his future."
         }
     ]
 }

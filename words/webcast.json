@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A broadcast of an event over the internet.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I watched the webcast of the concert online.",
+            "sent2": "The company organized a webcast of their product launch.",
+            "sent3": "The webcast of the cat fashion show was quite entertaining.",
+            "sent4": "Her laughter echoed through the webcast like a joyful melody.",
+            "sent5": "The vivid colors in the webcast made it feel like I was there in person."
         },
         {
             "definition": "To broadcast an event over the internet.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "They will webcast the conference for those unable to attend.",
+            "sent2": "We need to webcast the meeting to reach a wider audience.",
+            "sent3": "I accidentally webcasted my cat's nap to all my contacts.",
+            "sent4": "Her words webcasted a message of hope to everyone listening.",
+            "sent5": "The webcasted image was crystal clear, as if the presenter was in the room with us."
         }
     ]
 }

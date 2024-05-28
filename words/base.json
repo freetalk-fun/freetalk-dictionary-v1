@@ -3,23 +3,48 @@
     "meanings": [
         {
             "definition": "The lowest part or edge of something.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The cat sat on the base of the tree.",
+            "sent2": "The vase fell off the base and broke.",
+            "sent3": "I found a squirrel hiding at the base of the tree.",
+            "sent4": "The base of the mountain was covered in snow.",
+            "sent5": "The base of the waterfall was a popular picnic spot."
         },
         {
             "definition": "The foundation or starting point of something.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The base of the building was strong and sturdy.",
+            "sent2": "She started her painting from the base of the canvas.",
+            "sent3": "The base of the argument was a misunderstanding.",
+            "sent4": "Trust is the base of any good relationship.",
+            "sent5": "The base of the recipe is flour and water."
         },
         {
             "definition": "Morally low or dishonorable.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "He made a base decision by lying to his friend.",
+            "sent2": "The thief's actions were base and dishonest.",
+            "sent3": "It is base to cheat in a game.",
+            "sent4": "Her behavior was base and unacceptable.",
+            "sent5": "The base act of stealing hurt many people."
         },
         {
             "definition": "A chemical compound that reacts with an acid to form a salt.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The scientist mixed the acid with the base in the lab.",
+            "sent2": "The base neutralized the acidity of the solution.",
+            "sent3": "The base in the test tube changed color.",
+            "sent4": "The base is an essential component in the experiment.",
+            "sent5": "Adding the base caused a chemical reaction."
         },
         {
             "definition": "A military installation.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The soldiers were stationed at the base.",
+            "sent2": "The base was heavily guarded and secure.",
+            "sent3": "The general visited the base to inspect the troops.",
+            "sent4": "The base was strategically located for defense.",
+            "sent5": "The base was a hub of activity and coordination."
         }
     ]
 }

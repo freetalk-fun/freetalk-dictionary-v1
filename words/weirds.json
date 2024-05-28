@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Weirds (verb): to cause someone to feel strange or uncomfortable",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The spooky movie weirds me out.",
+            "sent2": "The new environment weirds her a little.",
+            "sent3": "The clown's big shoes weirds the kids but make them laugh.",
+            "sent4": "The eerie silence weirds me as if ghosts are near.",
+            "sent5": "The unexpected noise weirds the cat, making it jump."
         },
         {
             "definition": "Weirds (adjective): strange or unusual in a way that is unsettling or mysterious",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The weirds sound in the dark forest scared us.",
+            "sent2": "She wore a weirds hat to the party.",
+            "sent3": "The weirds painting in the museum made us giggle.",
+            "sent4": "The weirds shadows on the wall looked like dancing ghosts.",
+            "sent5": "The weirds feeling in the old house gave me chills."
         }
     ]
 }

@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "The act of violating or the state of being violated.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The violation of the school rules resulted in detention for the student.",
+            "sent2": "The company was fined for the violation of environmental regulations.",
+            "sent3": "It was a violation of trust when she read her friend's diary without permission.",
+            "sent4": "The silence in the room felt like a violation after the loud music at the party.",
+            "sent5": "The graffiti on the wall was a clear violation of public property."
         },
         {
             "definition": "An instance of breaking or failing to comply with a rule or law.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The parking violation led to a ticket being issued.",
+            "sent2": "Speeding is a common traffic violation that can result in fines.",
+            "sent3": "Eating dessert before dinner was a sweet violation of the family dinner tradition.",
+            "sent4": "The overflowing trash cans were a visual violation of the cleanliness policy.",
+            "sent5": "The noise from the party was a clear violation of the neighborhood's noise ordinance."
         }
     ]
 }

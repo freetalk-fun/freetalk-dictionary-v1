@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Very hot or burning",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The scalding sun made the sand too hot to walk on.",
+            "sent2": "The soup was too scalding to eat right away.",
+            "sent3": "The scalding water in the pool made everyone jump in quickly.",
+            "sent4": "Her scalding anger boiled over at the unfair treatment.",
+            "sent5": "The scalding metal burned his hand instantly."
         },
         {
             "definition": "To burn with hot liquid or steam",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Be careful not to scald yourself with the scalding water.",
+            "sent2": "She scalded her hand while pouring the scalding tea.",
+            "sent3": "He scalded the milk for the recipe, but it turned out fine.",
+            "sent4": "The steam from the scalding pot scalded his face.",
+            "sent5": "The chef accidentally scalded the sauce, ruining the dish."
         }
     ]
 }

@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "The external covering or integument of an animal body, especially when soft and flexible.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The puppy's skin was soft and warm to the touch.",
+            "sent2": "She felt the sun on her skin as she lay on the beach.",
+            "sent3": "The skin of the banana was so thin, it tore easily.",
+            "sent4": "The skin of the lake shimmered in the moonlight.",
+            "sent5": "The snake's skin shed in one piece, like a glove coming off."
         },
         {
             "definition": "The outer covering of a fruit or vegetable.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The apple's skin was shiny and red.",
+            "sent2": "She peeled the skin off the potato before boiling it.",
+            "sent3": "The skin of the orange was tough to chew.",
+            "sent4": "The skin of the grape was so thin, you could see through it.",
+            "sent5": "The peach's skin was fuzzy to the touch."
         },
         {
             "definition": "To remove the skin from.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She used a knife to skin the fish before cooking it.",
+            "sent2": "He carefully skinned the apple before slicing it.",
+            "sent3": "She joked that she could skin a potato in seconds.",
+            "sent4": "The chef skillfully skinned the chicken in one swift motion.",
+            "sent5": "He had to skin the rabbit before preparing it for dinner."
         }
     ]
 }

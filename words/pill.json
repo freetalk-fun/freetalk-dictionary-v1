@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A small round mass of solid medicine to be swallowed whole.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The doctor prescribed a pill to help with my headache.",
+            "sent2": "I take a pill every morning to stay healthy.",
+            "sent3": "I accidentally dropped the pill in my soup, making it an unexpected meal.",
+            "sent4": "Her words were like a bitter pill to swallow.",
+            "sent5": "The pill was so big, it felt like swallowing a rock."
         },
         {
             "definition": "A small ball of compressed fibers used for washing or cleaning.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I put a pill in the washing machine to make my clothes smell fresh.",
+            "sent2": "The dishwasher tablet is a type of cleaning pill.",
+            "sent3": "The laundry pill dissolved quickly, leaving a pleasant scent.",
+            "sent4": "The cleaning pill worked like magic on the stubborn stains.",
+            "sent5": "She dropped the cleaning pill, and it rolled under the fridge."
         },
         {
             "definition": "Something unpleasant or painful to experience.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The breakup was a tough pill to swallow.",
+            "sent2": "Facing failure can be a bitter pill to swallow.",
+            "sent3": "The long wait at the doctor's office was a hard pill to swallow.",
+            "sent4": "Losing the game was a bitter pill for the team.",
+            "sent5": "The criticism was a pill that lingered in his mind for days."
         }
     ]
 }

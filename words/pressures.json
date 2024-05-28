@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "The physical force exerted on an object.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The pressures from the heavy books made the shelf bend.",
+            "sent2": "The pressures of the wind against the sail propelled the boat forward.",
+            "sent3": "The pressures of the playful puppy knocked over the tower of blocks.",
+            "sent4": "The pressures of time can shape mountains and valleys.",
+            "sent5": "The pressures of the hammer on the nail drove it deep into the wood."
         },
         {
             "definition": "The influence or persuasion applied to someone to do something.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "She felt the pressures of her friends to join the club.",
+            "sent2": "The pressures from the advertisements convinced him to buy the product.",
+            "sent3": "The pressures of the persuasive speech swayed the audience's opinion.",
+            "sent4": "The pressures of peer pressure can lead to both positive and negative outcomes.",
+            "sent5": "The pressures of the salesperson made her reconsider her decision."
         },
         {
             "definition": "The stress or strain experienced in a situation.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The pressures of the upcoming exam caused her to study late into the night.",
+            "sent2": "Workplace pressures can sometimes lead to burnout if not managed well.",
+            "sent3": "The pressures of the traffic jam tested his patience.",
+            "sent4": "The pressures of the competition pushed her to perform her best.",
+            "sent5": "The pressures of the deadline motivated him to complete the project on time."
         }
     ]
 }

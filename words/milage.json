@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "The number of miles traveled by a vehicle.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "My car's milage is over 100,000 miles.",
+            "sent2": "The milage on the odometer keeps increasing.",
+            "sent3": "I wonder if my car's milage can reach the moon!",
+            "sent4": "Her journey had a milage that seemed endless.",
+            "sent5": "The milage on the map showed the long distance ahead."
         },
         {
             "definition": "The average number of miles traveled per gallon of fuel.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The hybrid car has excellent milage compared to others.",
+            "sent2": "Drivers often look for vehicles with good milage.",
+            "sent3": "I wish my car's milage was as good as my friend's.",
+            "sent4": "The milage of that old truck is like a dream.",
+            "sent5": "The milage of the new electric car is truly impressive."
         }
     ]
 }

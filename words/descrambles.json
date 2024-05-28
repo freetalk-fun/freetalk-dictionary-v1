@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To unscramble or decode (a message or signal)",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She descrambles the secret code to reveal the hidden message.",
+            "sent2": "He descrambles the jumbled letters to form a coherent sentence.",
+            "sent3": "The detective descrambles the cryptic note to solve the mystery.",
+            "sent4": "Her expertise in puzzles descrambles even the most complex codes effortlessly.",
+            "sent5": "The software quickly descrambles the encrypted data for easy access."
         },
         {
             "definition": "The act of descrambling a message or signal",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The descrambles of the encrypted file was successful.",
+            "sent2": "His descrambles of the radio transmission helped decipher the distress call.",
+            "sent3": "The descrambles of the TV signal made the show watchable again.",
+            "sent4": "The descrambles of the coded message revealed a hidden treasure map.",
+            "sent5": "Her quick descrambles of the Morse code saved the day."
         }
     ]
 }

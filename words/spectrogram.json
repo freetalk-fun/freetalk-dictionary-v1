@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A visual representation of the spectrum of frequencies of a signal as they vary with time.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The spectrogram showed how the sound changed over time.",
+            "sent2": "Scientists use a spectrogram to study different frequencies in a signal.",
+            "sent3": "The funny spectrogram made the music look like a colorful rainbow.",
+            "sent4": "Her emotions were like a spectrogram, with highs and lows throughout the day.",
+            "sent5": "The spectrogram was like a colorful graph mapping out the sound waves."
         },
         {
             "definition": "To analyze or produce a spectrogram.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I will spectrogram the audio file to see its frequency distribution.",
+            "sent2": "She likes to spectrogram music to understand its composition better.",
+            "sent3": "He decided to spectrogram the song to see if there were any hidden messages.",
+            "sent4": "The detective had to spectrogram the recording to catch the subtle clues.",
+            "sent5": "Spectrogramming the data helped reveal patterns that were not visible before."
         }
     ]
 }

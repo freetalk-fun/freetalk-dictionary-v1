@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To interrupt the normal functions or actions of",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The loud noise disturbed my concentration while studying.",
+            "sent2": "The barking dog disturbed the peace of the neighborhood.",
+            "sent3": "The unexpected phone call disturbed his evening plans.",
+            "sent4": "The sudden rain disturbed the calm of the picnic.",
+            "sent5": "The earthquake disturbed the tranquility of the town."
         },
         {
             "definition": "To agitate or upset emotionally",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The sad movie disturbed her, making her cry.",
+            "sent2": "The news of the accident disturbed him deeply.",
+            "sent3": "The missing pet poster disturbed her, reminding her of her lost cat.",
+            "sent4": "The argument disturbed the harmony of the family dinner.",
+            "sent5": "The breakup disturbed his emotional balance for weeks."
         },
         {
             "definition": "Showing symptoms of mental illness",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The disturbed man talked to himself on the street.",
+            "sent2": "The disturbed patient required specialized care.",
+            "sent3": "The disturbed artist created unique and unconventional pieces.",
+            "sent4": "The disturbed individual struggled with daily tasks.",
+            "sent5": "The disturbed behavior raised concerns among the neighbors."
         }
     ]
 }

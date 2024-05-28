@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To give or allow (something) as a favor or privilege.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She granted him permission to stay out late.",
+            "sent2": "The teacher granted the students extra time to complete the test.",
+            "sent3": "Granted, it was a small gesture, but it meant a lot to him.",
+            "sent4": "Her kindness granted him a sense of belonging in the new city.",
+            "sent5": "The king granted the brave knight a piece of land as a reward."
         },
         {
             "definition": "Used to introduce a statement that is based on an assumption.",
-            "pos": "conjunction"
+            "pos": "conjunction",
+            "sent1": "Granted that it may rain, we should bring umbrellas.",
+            "sent2": "He may be late, granted he gets stuck in traffic.",
+            "sent3": "Granted, we could be wrong, but let's give it a try.",
+            "sent4": "Her success, granted a stroke of luck, was well-deserved.",
+            "sent5": "Granted the risk, they decided to embark on the adventure anyway."
         }
     ]
 }

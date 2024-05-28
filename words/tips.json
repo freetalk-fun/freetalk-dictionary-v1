@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "The pointed or rounded end of something.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The pencil's tips were all broken.",
+            "sent2": "She carefully painted the tips of her nails.",
+            "sent3": "The tips of the tree branches tickled the sky.",
+            "sent4": "The tips of the mountains were covered in snow.",
+            "sent5": "The tips of the flames danced in the fire."
         },
         {
             "definition": "A small piece of advice or information, especially on how to do something or on a particular subject.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "He shared some useful tips for gardening.",
+            "sent2": "I read some cooking tips in a magazine.",
+            "sent3": "The comedian's tips on life were surprisingly insightful.",
+            "sent4": "Her tips on public speaking were like gold nuggets.",
+            "sent5": "The teacher's tips made the math problem easy to solve."
         },
         {
             "definition": "A small sum of money given for services rendered.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "She left a generous tip for the waiter.",
+            "sent2": "The taxi driver received a tip for his excellent service.",
+            "sent3": "The cat left a tip of a dead mouse on the doorstep.",
+            "sent4": "The tip for the repairman was included in the bill.",
+            "sent5": "Leaving a tip is a way to show appreciation for good service."
         }
     ]
 }

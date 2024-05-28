@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A short, high-pitched sound made by a bird or insect.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The little bird let out a chirp in the morning.",
+            "sent2": "I heard the chirp of a cricket in the garden.",
+            "sent3": "The chirp of the bird woke me up with its cheerful melody.",
+            "sent4": "The chirp of the cricket filled the night with music.",
+            "sent5": "The chirp of the robin was like a tiny bell ringing in the air."
         },
         {
             "definition": "To make a short, high-pitched sound.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The bird will chirp when it sees its friend.",
+            "sent2": "I chirp to imitate the sound of a cricket.",
+            "sent3": "I chirp happily when I see my favorite food.",
+            "sent4": "Her laughter made her chirp with joy.",
+            "sent5": "The children chirp with excitement as they play in the park."
         },
         {
             "definition": "A short, high-pitched sound made by electronic devices.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The alarm clock let out a loud chirp to wake me up.",
+            "sent2": "I heard a chirp coming from my phone when I received a message.",
+            "sent3": "The chirp of the microwave signaled that my popcorn was ready.",
+            "sent4": "The chirp of the smoke detector startled the cat.",
+            "sent5": "The chirp of the computer indicated a new email had arrived."
         }
     ]
 }

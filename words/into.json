@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Expressing movement or action with the result of being enclosed or surrounded by something.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She ran into the house to escape the rain.",
+            "sent2": "The cat jumped into the box with excitement.",
+            "sent3": "The squirrel accidentally ran into the wrong tree and got confused.",
+            "sent4": "His words pierced into her heart, leaving a lasting impact.",
+            "sent5": "The sunlight streamed into the room, illuminating everything in its path."
         },
         {
             "definition": "Expressing a change in form, state, or condition.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The water turned into ice during the cold night.",
+            "sent2": "The caterpillar transformed into a beautiful butterfly.",
+            "sent3": "The plain cake magically turned into a delicious masterpiece.",
+            "sent4": "Her frown slowly melted into a smile as she heard the good news.",
+            "sent5": "The dull gray sky transformed into a vibrant canvas of colors at sunset."
         },
         {
             "definition": "Expressing the idea of being interested or involved in something.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "She was really into the new book she was reading.",
+            "sent2": "He is not into sports, but he loves music.",
+            "sent3": "The kids were so into the game that they lost track of time.",
+            "sent4": "I'm really into the idea of traveling to new places.",
+            "sent5": "The students were fully into the project, working together with enthusiasm."
         }
     ]
 }

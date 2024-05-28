@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A person or thing that connects.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The bridge acted as a connector between the two islands.",
+            "sent2": "The USB cable is a vital connector between the computer and the printer.",
+            "sent3": "The friendly dog became the connector between the two neighbors who had never spoken before.",
+            "sent4": "Her smile was like a connector, bringing people together in joy.",
+            "sent5": "The train station served as a crucial connector for the entire town, linking different areas seamlessly."
         },
         {
             "definition": "A device or part that connects.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The small metal piece served as a connector between the two pipes.",
+            "sent2": "The wireless router is an essential connector for all our devices to access the internet.",
+            "sent3": "The tiny screw acted as a connector, holding the entire machine together.",
+            "sent4": "The key was the connector that unlocked the mystery box.",
+            "sent5": "The power cord was the vital connector that kept the computer running smoothly."
         },
         {
             "definition": "A word or phrase that connects ideas or clauses in a sentence.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The word 'and' is a common connector used to join two sentences.",
+            "sent2": "In the sentence 'I like apples, but she prefers oranges,' 'but' is the connector.",
+            "sent3": "The word 'however' acted as a connector, changing the direction of the conversation.",
+            "sent4": "Her laughter served as a connector, transitioning smoothly between topics.",
+            "sent5": "The phrase 'on the other hand' is a useful connector to introduce contrasting ideas in writing."
         }
     ]
 }

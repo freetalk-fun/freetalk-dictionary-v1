@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Not chosen or picked",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The unselect shirt remained on the rack.",
+            "sent2": "She left the unselect candies in the bowl.",
+            "sent3": "The unselect toy felt lonely on the shelf.",
+            "sent4": "The unselect flower wilted unnoticed in the garden.",
+            "sent5": "The unselect book gathered dust on the shelf."
         },
         {
             "definition": "To remove from a selection or group",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Please unselect the incorrect answer.",
+            "sent2": "He decided to unselect the extra items from his cart.",
+            "sent3": "I accidentally unselected all my photos!",
+            "sent4": "She carefully unselected the damaged fruits from the basket.",
+            "sent5": "Remember to unselect the old files before saving the new ones."
         },
         {
             "definition": "To deselect or uncheck",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Make sure to unselect the unwanted options.",
+            "sent2": "He had to unselect the previous settings to make changes.",
+            "sent3": "I always unselect the notifications for that app.",
+            "sent4": "She quickly unselected the wrong address before confirming.",
+            "sent5": "Don't forget to unselect the auto-renewal option."
         }
     ]
 }

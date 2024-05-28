@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A powered flying vehicle with fixed wings and a weight greater than that of the air it displaces.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The aeroplane soared high in the sky.",
+            "sent2": "I saw an aeroplane flying over the city.",
+            "sent3": "The aeroplane made a loud noise as it flew by.",
+            "sent4": "Her dreams took flight like an aeroplane in the vast sky.",
+            "sent5": "The aeroplane's shadow raced across the ground below."
         },
         {
             "definition": "To travel in an aeroplane.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "We will aeroplane to our vacation destination.",
+            "sent2": "She aeroplaned to Europe for a business meeting.",
+            "sent3": "Let's aeroplane to the beach for a weekend getaway.",
+            "sent4": "He aeroplaned across the country to visit his family.",
+            "sent5": "They aeroplaned through the clouds, enjoying the view from above."
         }
     ]
 }

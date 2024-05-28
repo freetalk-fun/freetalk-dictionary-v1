@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Not awake or aware of one's surroundings.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The patient remained unconscious after the surgery.",
+            "sent2": "She lay unconscious on the floor after fainting.",
+            "sent3": "He was so deep in sleep that he seemed unconscious to the world.",
+            "sent4": "The city was unconscious of the impending storm brewing in the distance.",
+            "sent5": "The darkness of the cave made him feel unconscious of time passing."
         },
         {
             "definition": "Without conscious thought or intention.",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "She acted unconsciously, not realizing the impact of her words.",
+            "sent2": "He walked unconsciously, lost in his thoughts.",
+            "sent3": "The robot moved unconsciously, following its programmed instructions.",
+            "sent4": "Time seemed to pass unconsciously as they chatted away.",
+            "sent5": "The music played softly in the background, almost unconsciously noticed."
         },
         {
             "definition": "Lacking awareness or knowledge.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "He was unconscious of the danger lurking behind him.",
+            "sent2": "The child was unconscious of the mischief he had caused.",
+            "sent3": "She remained unconscious of the surprise party being planned for her.",
+            "sent4": "The cat seemed unconscious of the chaos it had caused in the room.",
+            "sent5": "The student was unconscious of the correct answer to the question."
         }
     ]
 }

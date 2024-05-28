@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Harm or injury",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The scathe to his arm was visible from the fall.",
+            "sent2": "The doctor treated the scathe on her knee with care.",
+            "sent3": "The scathe to his pride was evident after losing the game.",
+            "sent4": "The scathe of betrayal cut deeper than any physical wound.",
+            "sent5": "The scathe from the accident left a lasting mark on her memory."
         },
         {
             "definition": "To harm or injure",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Careless actions can easily scathe delicate items.",
+            "sent2": "He didn't mean to scathe her feelings with his thoughtless comment.",
+            "sent3": "The mischievous cat tried to scathe the curtains with its claws.",
+            "sent4": "His harsh words seemed to scathe her spirit more than he realized.",
+            "sent5": "The storm's strong winds could easily scathe the fragile flowers in the garden."
         },
         {
             "definition": "Harmful or injurious",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The scathe chemicals should be handled with caution.",
+            "sent2": "The scathe effects of smoking are well-documented.",
+            "sent3": "The scathe substance was banned due to its dangerous properties.",
+            "sent4": "The scathe behavior of the bully was unacceptable.",
+            "sent5": "The scathe storm caused widespread damage to the town."
         }
     ]
 }

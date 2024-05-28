@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Compensation: something, typically money, awarded to someone in recognition of loss, suffering, or injury.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "She received compo for the accident at work.",
+            "sent2": "The insurance company provided compo for the damaged car.",
+            "sent3": "He joked that his compo for the spilled coffee was enough to buy a new mug.",
+            "sent4": "The compo for the cancelled flight felt like a small victory.",
+            "sent5": "The compo for the late delivery was a pleasant surprise."
         },
         {
             "definition": "Compose: to write or create a piece of music or writing.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She likes to compo songs in her free time.",
+            "sent2": "He will compo a poem for the school competition.",
+            "sent3": "The students were asked to compo a short story for homework.",
+            "sent4": "The author would often compo late into the night.",
+            "sent5": "They decided to compo a new melody for the upcoming concert."
         },
         {
             "definition": "Composite: made up of various parts or elements.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The car had a composite body that made it lightweight.",
+            "sent2": "The team used a composite material for the experiment.",
+            "sent3": "The cake was a composite of different flavors and colors.",
+            "sent4": "Her painting was a composite of different styles and techniques.",
+            "sent5": "The building's design was a composite of modern and traditional architecture."
         }
     ]
 }

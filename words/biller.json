@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A person or company that sends out bills or invoices.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The biller at the electric company sends out the monthly invoices.",
+            "sent2": "The small business hired a biller to handle their billing statements.",
+            "sent3": "The biller accidentally sent out double the amount of bills, causing confusion.",
+            "sent4": "The biller's desk was stacked high with invoices, like a mountain of paperwork.",
+            "sent5": "The biller's job is to make sure all bills are sent out accurately and on time."
         },
         {
             "definition": "To send out bills or invoices for payment.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The company will biller their clients at the end of each month.",
+            "sent2": "She will biller the customers for the services provided.",
+            "sent3": "He decided to biller his friends for the pizza they ordered together.",
+            "sent4": "The lawyer will biller for the hours spent working on the case.",
+            "sent5": "Remember to biller the clients promptly to avoid any delays in payment."
         }
     ]
 }

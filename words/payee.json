@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A person to whom money is paid.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The payee received the money from the customer.",
+            "sent2": "The payee is the individual who gets the payment.",
+            "sent3": "The payee was happy to finally receive the money owed to them.",
+            "sent4": "The payee, like a magnet, attracts the funds into their account.",
+            "sent5": "The payee eagerly awaited the arrival of the payment."
         },
         {
             "definition": "The recipient of a payment.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "After the transaction, the payee checked their bank statement.",
+            "sent2": "The payee thanked the sender for the timely payment.",
+            "sent3": "The payee jokingly asked if they could receive payments in cookies.",
+            "sent4": "The payee stood out in the crowd, holding the payment receipt high.",
+            "sent5": "The payee's smile widened upon seeing the payment notification."
         }
     ]
 }

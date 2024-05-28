@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Used to indicate past ability or permission.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "When I was younger, I could run very fast.",
+            "sent2": "She could speak three languages fluently.",
+            "sent3": "I could fly like a superhero in my dreams.",
+            "sent4": "His imagination could take him to far-off lands.",
+            "sent5": "The old car could roar to life with a turn of the key."
         },
         {
             "definition": "Used to indicate possibility or likelihood.",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "It could rain later, so bring an umbrella.",
+            "sent2": "She could possibly arrive early for the meeting.",
+            "sent3": "The cat could maybe be hiding under the bed.",
+            "sent4": "The solution could potentially solve all our problems.",
+            "sent5": "The stars could align perfectly for our plan to work."
         },
         {
             "definition": "Used to make a polite request or suggestion.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Could you please pass the salt?",
+            "sent2": "I could use some help with this heavy box.",
+            "sent3": "Could we perhaps meet for coffee tomorrow?",
+            "sent4": "His smile could brighten anyone's day.",
+            "sent5": "A kind word could make a big difference in someone's life."
         }
     ]
 }

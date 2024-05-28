@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Give or grant someone (power, status, or recognition)",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She accorded him the title of 'Employee of the Month'.",
+            "sent2": "The manager accorded the team more authority to make decisions.",
+            "sent3": "The teacher accorded the student the privilege of leading the class in a dance.",
+            "sent4": "The king accorded the knight with the power to govern the kingdom in his absence.",
+            "sent5": "The judge accorded the defendant a fair trial."
         },
         {
             "definition": "Agreement or harmony of opinions or actions",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "There was an accord among the group to choose the blue paint.",
+            "sent2": "The siblings reached an accord on how to divide their allowance.",
+            "sent3": "The accord between the two rival teams surprised everyone.",
+            "sent4": "The accord between the countries brought peace to the region.",
+            "sent5": "The accord between the neighbors prevented any disputes."
         },
         {
             "definition": "In a manner that is consistent or in agreement with",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "She followed the instructions accord.",
+            "sent2": "The project was completed accord with the timeline.",
+            "sent3": "He danced accord to the rhythm of the music.",
+            "sent4": "The artist painted the landscape accord to the natural colors.",
+            "sent5": "The student answered the question accord to the textbook."
         }
     ]
 }

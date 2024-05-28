@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To make a short, sharp sound, as of a switch being operated or of two hard objects coming quickly into contact.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The light switch clicked when I turned it off.",
+            "sent2": "I clicked my pen to start writing.",
+            "sent3": "The door clicked shut behind me, making me jump.",
+            "sent4": "Her heels clicked on the pavement as she walked away.",
+            "sent5": "The puzzle pieces clicked together perfectly, completing the picture."
         },
         {
             "definition": "To select an item on a computer screen by pressing a button on a mouse or similar device.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I clicked on the link to open the webpage.",
+            "sent2": "She clicked on the photo to view it in full size.",
+            "sent3": "The cat clicked on the mouse pointer, thinking it was a bug.",
+            "sent4": "His idea clicked with the team, and they decided to implement it.",
+            "sent5": "The key clicked into place, unlocking the encrypted file."
         },
         {
             "definition": "To quickly establish a positive connection or rapport with someone.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "They clicked instantly and became good friends.",
+            "sent2": "I clicked with my new coworker during our first meeting.",
+            "sent3": "The joke he told really clicked with the audience, making them laugh.",
+            "sent4": "Their personalities clicked like puzzle pieces, fitting perfectly together.",
+            "sent5": "The team clicked well together, achieving great success in their project."
         }
     ]
 }

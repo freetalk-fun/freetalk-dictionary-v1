@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To sever or interrupt the connection of something",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "When I unplug the charger, it disconnects from the phone.",
+            "sent2": "The internet disconnects when there is a power outage.",
+            "sent3": "It's like the charger gets shy and disconnects whenever someone walks by.",
+            "sent4": "The old bridge disconnects the two sides of the river, like a giant gap.",
+            "sent5": "The loose wire disconnects easily, making it unreliable for charging."
         },
         {
             "definition": "A lack of connection or communication between people or things",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The disconnects in the team led to misunderstandings.",
+            "sent2": "There was a disconnect between what he said and what he did.",
+            "sent3": "The disconnects in the phone lines made for a hilarious game of telephone.",
+            "sent4": "The disconnect between the two buildings felt like a vast emptiness.",
+            "sent5": "The disconnects in the puzzle pieces made it impossible to complete the picture."
         }
     ]
 }

@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To change the natural qualities of a substance, typically making it less pure or less effective.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The heat denatured the protein, making it lose its shape.",
+            "sent2": "The chemist denatured the DNA to study its structure.",
+            "sent3": "The magician denatured the playing cards, turning them into confetti.",
+            "sent4": "The storm denatured the landscape, leaving it unrecognizable.",
+            "sent5": "The fire denatured the metal, melting it into a new form."
         },
         {
             "definition": "Having had its natural qualities altered, typically through the addition of chemicals.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The denatured alcohol was not suitable for drinking.",
+            "sent2": "The denatured gasoline was used for cleaning purposes.",
+            "sent3": "The denatured fruit juice tasted strange after the preservatives were added.",
+            "sent4": "The denatured wood had a distinct chemical smell.",
+            "sent5": "The denatured fabric was no longer soft to the touch."
         }
     ]
 }

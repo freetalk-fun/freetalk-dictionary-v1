@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Incorrectly bound or assembled, as a book or document.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The misbound book had pages in the wrong order.",
+            "sent2": "The misbound report was hard to read due to the jumbled pages.",
+            "sent3": "The misbound notebook made it seem like the story was told backwards.",
+            "sent4": "Her misbound thoughts were like a puzzle with missing pieces.",
+            "sent5": "The misbound puzzle book was a confusing mess of mixed-up clues."
         },
         {
             "definition": "To bind or assemble incorrectly.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She accidentally misbound the pages together.",
+            "sent2": "The printer misbound the documents, causing delays.",
+            "sent3": "He misbound the papers in such a way that they formed a strange pattern.",
+            "sent4": "The artist misbound the colors, creating a unique and unexpected painting.",
+            "sent5": "The tailor misbound the fabric, resulting in a crooked seam."
         }
     ]
 }

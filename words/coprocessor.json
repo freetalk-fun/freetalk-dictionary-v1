@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A processor that works in conjunction with the main CPU to perform specific tasks.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The coprocessor helped the main CPU with complex calculations.",
+            "sent2": "The coprocessor improved the computer's performance by handling specialized tasks.",
+            "sent3": "The coprocessor and the main CPU teamed up to solve math problems together.",
+            "sent4": "The coprocessor was like a trusty sidekick to the main CPU, always ready to assist.",
+            "sent5": "The coprocessor's role was crucial in speeding up the computer's operations."
         },
         {
             "definition": "A separate processing unit that assists the main processor in executing instructions.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "When the main processor needed help, the coprocessor stepped in to assist.",
+            "sent2": "The coprocessor handled complex tasks while the main processor focused on other functions.",
+            "sent3": "The coprocessor was like a reliable assistant to the main processor, always ready to lend a hand.",
+            "sent4": "The coprocessor's support was essential in ensuring smooth operation of the main processor.",
+            "sent5": "The coprocessor's presence significantly enhanced the overall processing capabilities of the system."
         }
     ]
 }

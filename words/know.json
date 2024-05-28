@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Be aware of the truth or fact of something.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I know the answer to the question.",
+            "sent2": "She knows how to play the piano.",
+            "sent3": "Do you know that cats can't taste sweet things?",
+            "sent4": "His intuition knew the danger lurking ahead.",
+            "sent5": "The detective knew the culprit's identity all along."
         },
         {
             "definition": "Have knowledge or information about something.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "We know the capital of France.",
+            "sent2": "He knows a lot about history.",
+            "sent3": "I know where all the secret snacks are hidden.",
+            "sent4": "Her memory knew every detail of the story.",
+            "sent5": "The scientist knew the formula by heart."
         },
         {
             "definition": "Be acquainted or familiar with someone or something.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I know my neighbor from the park.",
+            "sent2": "She knows the city like the back of her hand.",
+            "sent3": "Do you know the dog that can skateboard?",
+            "sent4": "His heart knew the warmth of friendship.",
+            "sent5": "The guide knew the forest trails by heart."
         }
     ]
 }

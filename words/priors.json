@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Previous criminal record",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The judge considered the defendant's priors before sentencing.",
+            "sent2": "He was denied bail due to his extensive priors.",
+            "sent3": "The thief's priors were so long, they could fill a book!",
+            "sent4": "Her priors caught up with her, leading to a harsher punishment.",
+            "sent5": "The detective used the suspect's priors to solve the case."
         },
         {
             "definition": "Preceding in time or order",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The priors events influenced his decision.",
+            "sent2": "She always checks her priors emails first thing in the morning.",
+            "sent3": "The priors chapters of the book were quite boring.",
+            "sent4": "The priors meetings set the stage for the final decision.",
+            "sent5": "His priors actions determined his future success."
         },
         {
             "definition": "A person's previous experiences or knowledge",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Her priors in marketing helped her secure the job.",
+            "sent2": "He shared his priors of traveling to exotic places.",
+            "sent3": "The child's priors of the zoo made him excited to visit again.",
+            "sent4": "His priors in coding made him the perfect fit for the project.",
+            "sent5": "The professor's priors in research were evident in his lectures."
         }
     ]
 }

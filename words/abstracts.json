@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Summaries or brief statements of the main points of a document or work.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I read the abstracts of the articles to decide which one to choose.",
+            "sent2": "The abstracts at the beginning of the book helped me understand the content.",
+            "sent3": "The abstracts were like sneak peeks into the stories, making me curious.",
+            "sent4": "Her mind created abstracts of the novel, painting vivid pictures in her head.",
+            "sent5": "The abstracts acted as shortcuts, guiding me through the complex text."
         },
         {
             "definition": "Existing in thought or as an idea but not having a physical or concrete existence.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "His abstracts thoughts often led to creative solutions.",
+            "sent2": "The artist's abstracts paintings were open to interpretation.",
+            "sent3": "It's hard to grasp abstracts concepts like love and time.",
+            "sent4": "Her dreams were filled with abstracts images that felt real.",
+            "sent5": "The abstracts nature of the problem required a different approach."
         },
         {
             "definition": "To extract or remove something.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She abstracts key information from the research papers.",
+            "sent2": "The machine abstracts juice from the fruits efficiently.",
+            "sent3": "He abstracts the essence of the story, leaving out unnecessary details.",
+            "sent4": "Time seems to abstracts memories, leaving only fragments behind.",
+            "sent5": "The detective abstracts clues from the crime scene to solve the mystery."
         }
     ]
 }

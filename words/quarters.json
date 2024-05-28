@@ -3,19 +3,39 @@
     "meanings": [
         {
             "definition": "One of four equal parts of something",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The pizza was divided into quarters for each of us to have a fair share.",
+            "sent2": "She cut the sandwich into quarters so that everyone could have a piece.",
+            "sent3": "The cake was split into quarters, but I accidentally ate two of them!",
+            "sent4": "His heart was broken into quarters, each piece representing a different failed relationship.",
+            "sent5": "The garden was divided into quarters, with each section growing a different type of vegetable."
         },
         {
             "definition": "Living accommodations, especially for military personnel",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The soldiers were assigned to their respective quarters in the barracks.",
+            "sent2": "The general inspected the new military quarters to ensure they were up to standard.",
+            "sent3": "The cat claimed the cozy dog bed as its own quarters, much to the dog's dismay.",
+            "sent4": "The luxurious quarters provided to the officers were a stark contrast to the cramped bunks of the lower ranks.",
+            "sent5": "The temporary quarters were set up for the troops during their training exercise in the field."
         },
         {
             "definition": "A period of three months, especially in financial reporting",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The company's profits increased steadily over the last two quarters.",
+            "sent2": "The first quarter of the year is usually the busiest for our department.",
+            "sent3": "She saved up for a vacation over the next two quarters, planning a trip to the beach.",
+            "sent4": "The project was completed within the deadline of two quarters, much to the team's relief.",
+            "sent5": "The budget for the event was allocated for the next two quarters, ensuring smooth planning and execution."
         },
         {
             "definition": "The rear part of a ship or aircraft",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The crew gathered at the quarters of the ship to prepare for departure.",
+            "sent2": "The captain stood at the stern, overlooking the quarters of the vessel.",
+            "sent3": "The seagull perched on the ship's quarters, enjoying the view of the open sea.",
+            "sent4": "The storm hit the quarters of the ship hardest, causing damage to the rear structure.",
+            "sent5": "The aircraft's quarters housed the engine, ensuring smooth propulsion during flight."
         }
     ]
 }

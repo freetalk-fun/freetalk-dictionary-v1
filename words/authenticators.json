@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A person or thing that authenticates.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The authenticators at the museum checked the tickets of every visitor.",
+            "sent2": "The online banking system requires users to enter their authenticators to access their accounts.",
+            "sent3": "The detective's dog was an expert authenticator, sniffing out counterfeit bills with ease.",
+            "sent4": "Her smile was the authenticator of her happiness, shining brightly for all to see.",
+            "sent5": "The authenticators at the airport security gate ensured that only authorized personnel entered the restricted area."
         },
         {
             "definition": "A device or system used to verify the identity of a user.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The company implemented new authenticators to enhance security measures.",
+            "sent2": "The fingerprint scanner is a common type of authenticator used for access control.",
+            "sent3": "The smartwatch with facial recognition authenticator made logging in a breeze.",
+            "sent4": "The key card acted as the authenticator, granting access to the restricted area.",
+            "sent5": "The voice recognition authenticator provided a unique and secure way to verify identities."
         }
     ]
 }

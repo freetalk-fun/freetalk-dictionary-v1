@@ -3,19 +3,39 @@
     "meanings": [
         {
             "definition": "Collide violently with an obstacle or another vehicle.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The car crashes into the wall.",
+            "sent2": "She crashes her bike into a tree.",
+            "sent3": "The clumsy clown crashes into the cake, making a mess.",
+            "sent4": "The waves crash against the rocks with great force.",
+            "sent5": "The thunder crashes in the stormy sky, frightening the children."
         },
         {
             "definition": "Sudden loud noise of something breaking or falling.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I heard a crash in the kitchen.",
+            "sent2": "The crash of the glass startled everyone.",
+            "sent3": "The crash of the cymbals signaled the end of the performance.",
+            "sent4": "The crash of the waves against the shore was soothing.",
+            "sent5": "The crash of the falling tree echoed through the forest."
         },
         {
             "definition": "Sudden and rapid decline in the value or price of something.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The stock market experienced a crash.",
+            "sent2": "The housing market crash affected many families.",
+            "sent3": "The sudden crash in the price of gold surprised investors.",
+            "sent4": "The crash in the cryptocurrency market was unexpected.",
+            "sent5": "The crash in the economy led to layoffs and closures."
         },
         {
             "definition": "Enter or cause to enter a state of malfunction.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The computer crashes when too many programs are open.",
+            "sent2": "He crashes his phone by dropping it in water.",
+            "sent3": "The robot crashes and starts dancing uncontrollably.",
+            "sent4": "The system crashes due to a power outage.",
+            "sent5": "The engine crashes, leaving the car stranded on the highway."
         }
     ]
 }

@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Used to draw attention to something.",
-            "pos": "interjection"
+            "pos": "interjection",
+            "sent1": "Lookit, there's a rainbow in the sky!",
+            "sent2": "Lookit how cute that puppy is!",
+            "sent3": "Lookit, the cat is wearing sunglasses!",
+            "sent4": "Lookit, the stars are dancing in the night sky!",
+            "sent5": "Lookit, the flowers are blooming in the garden!"
         },
         {
             "definition": "A command to look at something.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The teacher gave a lookit to the students to pay attention.",
+            "sent2": "He used a lookit to point out the hidden treasure.",
+            "sent3": "The lookit from the coach made the team focus on the game.",
+            "sent4": "Her eyes were like a lookit, guiding him through the crowd.",
+            "sent5": "The lookit of the lighthouse led the ships safely to shore."
         }
     ]
 }

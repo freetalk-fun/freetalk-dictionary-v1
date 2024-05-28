@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "The perceived decrease in temperature caused by the combination of actual air temperature and wind speed.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "When the windchills are low, it feels much colder outside.",
+            "sent2": "I checked the weather report for the windchills before going out.",
+            "sent3": "The windchills were so strong that my hot coffee turned cold in minutes.",
+            "sent4": "The windchills cut through my jacket like icy knives.",
+            "sent5": "The biting windchills made me shiver uncontrollably."
         },
         {
             "definition": "To calculate the windchills, meteorologists use a formula that takes into account both the air temperature and wind speed.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Meteorologists often need to windchills to predict how cold it will feel.",
+            "sent2": "I will windchills the data to provide an accurate forecast.",
+            "sent3": "She decided to windchills the numbers one more time, just to be sure.",
+            "sent4": "The scientist carefully windchills the variables to avoid errors.",
+            "sent5": "We should windchills the results before making any conclusions."
         }
     ]
 }

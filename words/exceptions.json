@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A person or thing that is excluded from a general statement or rule.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "In the story, the main character was the only exception to the rule.",
+            "sent2": "The teacher allowed no exceptions to the classroom policy.",
+            "sent3": "The cat, being allergic to fish, was the exception in a house full of seafood lovers.",
+            "sent4": "Her kindness was like an exception in a sea of indifference.",
+            "sent5": "The bright red door stood out like an exception in a row of white ones."
         },
         {
             "definition": "The action of not including or considering something.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The exceptions to the plan were carefully noted by the team.",
+            "sent2": "He made sure to review all the exceptions before finalizing the report.",
+            "sent3": "The cake recipe called for all ingredients except for one mysterious exception.",
+            "sent4": "The silence in the room was the exception to the usual noisy atmosphere.",
+            "sent5": "The missing puzzle piece was the only exception to completing the picture."
         }
     ]
 }

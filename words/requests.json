@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "The act of asking for something to be done or given.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "She made several requests for help with her homework.",
+            "sent2": "The teacher received many requests for extra credit assignments.",
+            "sent3": "His request for a second dessert was met with a smile.",
+            "sent4": "The flood of requests overwhelmed the customer service department.",
+            "sent5": "The child's request for a puppy was finally granted on her birthday."
         },
         {
             "definition": "A formal written or spoken demand for something to be done or given.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The lawyer submitted a request for more time to prepare the case.",
+            "sent2": "The company received a request for a product demonstration.",
+            "sent3": "The request for silence during the performance was ignored by the rowdy audience.",
+            "sent4": "The request for a refund was processed promptly by the store.",
+            "sent5": "The request for a meeting with the CEO was approved by the board."
         },
         {
             "definition": "To politely or formally ask for something.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She requests a glass of water at the restaurant.",
+            "sent2": "He often requests feedback on his work to improve.",
+            "sent3": "The cat requests attention by rubbing against your leg.",
+            "sent4": "The student requests an extension on the assignment deadline.",
+            "sent5": "The customer requests a different size for the shirt."
         }
     ]
 }

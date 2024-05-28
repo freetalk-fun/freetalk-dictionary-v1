@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A flow of water or air in a certain direction.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The ocean currents carried the boat swiftly towards the shore.",
+            "sent2": "The river currents were strong after the heavy rain.",
+            "sent3": "The currents in the stream seemed to be in a hurry, rushing along.",
+            "sent4": "Her thoughts flowed like currents, guiding her decisions effortlessly.",
+            "sent5": "The currents of the wind whispered secrets as they passed by."
         },
         {
             "definition": "A flow of electricity in a circuit.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The electrical currents powered the entire building.",
+            "sent2": "The currents in the wires were carefully controlled to prevent accidents.",
+            "sent3": "The currents in the circuit danced like tiny lightning bolts.",
+            "sent4": "His ideas sparked like electrical currents, illuminating the room.",
+            "sent5": "The currents surged through the system, bringing light to every corner."
         },
         {
             "definition": "Belonging to the present time; happening or existing now.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The current situation requires immediate action.",
+            "sent2": "Her current project is keeping her very busy.",
+            "sent3": "The current trends in fashion are always changing.",
+            "sent4": "His current mood reflected the stormy weather outside.",
+            "sent5": "The current events in the news captured everyone's attention."
         }
     ]
 }

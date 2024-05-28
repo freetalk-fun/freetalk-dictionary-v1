@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A domesticated carnivorous mammal that typically has a long snout, an acute sense of smell, and a barking, howling, or whining voice.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I love playing fetch with my dogs at the park.",
+            "sent2": "The dogs in the neighborhood always bark loudly at night.",
+            "sent3": "The dogs chased their tails in circles, making everyone laugh.",
+            "sent4": "Her singing voice was like a pack of howling dogs in the night.",
+            "sent5": "The dogs' wet noses and wagging tails greeted me at the door."
         },
         {
             "definition": "A mechanical device for gripping or holding things.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The mechanic used a pair of dogs to secure the metal sheet.",
+            "sent2": "The dogs on the clamp held the wood firmly in place.",
+            "sent3": "He accidentally dropped the dogs, causing the object to fall.",
+            "sent4": "The dogs on the vise clamped down tightly on the pipe.",
+            "sent5": "The dogs on the machine ensured the safety of the workers."
         },
         {
             "definition": "To follow or track persistently.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The detective decided to dogs the suspect to gather more evidence.",
+            "sent2": "The paparazzi would dogs the celebrity wherever she went.",
+            "sent3": "The kids thought it would be funny to dogs their teacher around the school.",
+            "sent4": "The memories of her past mistakes continued to dogs her for years.",
+            "sent5": "The feeling of guilt dogs him every time he thinks about the accident."
         }
     ]
 }

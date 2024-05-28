@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Cause (someone) to become insane.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The loud noises deranges him.",
+            "sent2": "The unexpected news deranges her thoughts.",
+            "sent3": "The silly hat deranges his sense of style.",
+            "sent4": "The confusing maze deranges his sense of direction.",
+            "sent5": "The eerie silence deranges her sense of security."
         },
         {
             "definition": "Disrupt the normal operation or function of (something).",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The power outage deranges the schedule.",
+            "sent2": "The storm deranges the peaceful atmosphere.",
+            "sent3": "The mischievous cat deranges the neatly arranged papers.",
+            "sent4": "The unexpected visitor deranges the usual routine.",
+            "sent5": "The broken clock deranges the sense of time."
         }
     ]
 }

@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "The quality or state of having two modes or forms.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The bimodalities of the data set show two clear patterns.",
+            "sent2": "The bimodalities in the survey results indicate two different preferences.",
+            "sent3": "The bimodalities of the weather forecast made planning a picnic tricky.",
+            "sent4": "Her mood displayed bimodalities, shifting between extreme happiness and deep sadness.",
+            "sent5": "The bimodalities of the traffic flow were evident during rush hour."
         },
         {
             "definition": "The presence of two distinct peaks or maxima in a frequency distribution.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The graph displayed clear bimodalities with two distinct peaks.",
+            "sent2": "The bimodalities in the histogram highlighted two prominent spikes.",
+            "sent3": "The bimodalities of the cake's height after baking were unexpected.",
+            "sent4": "The bimodalities of customer complaints showed peaks during lunch and dinner hours.",
+            "sent5": "The bimodalities of student test scores revealed two separate groups of performance."
         }
     ]
 }

@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To control or operate by automation.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The machine automates the assembly line, making it work without human help.",
+            "sent2": "The software automates the data entry process, saving time and reducing errors.",
+            "sent3": "The robot automates the task of sorting mail, pretending to be a diligent postman.",
+            "sent4": "The smart home system automates the lights, as if they have a mind of their own.",
+            "sent5": "The program automates the repetitive task, like a tireless assistant always ready to help."
         },
         {
             "definition": "To convert a process or task into an automatic operation.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She automates the sprinkler system to water the garden every morning.",
+            "sent2": "The company automates the billing process to streamline their operations.",
+            "sent3": "He automates the coffee maker to start brewing when he snoozes the alarm.",
+            "sent4": "The timer automates the lights to turn on at dusk, creating a welcoming glow.",
+            "sent5": "The app automates the reminders, ensuring nothing is forgotten or overlooked."
         },
         {
             "definition": "Capable of operating automatically.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The automated door opens when someone approaches, showing its automates function.",
+            "sent2": "The self-driving car is an example of an automates vehicle that navigates without human input.",
+            "sent3": "The clock with an automates mechanism surprises guests by chiming at unexpected times.",
+            "sent4": "The automates system in the factory ensures smooth production without constant supervision.",
+            "sent5": "The robot vacuum cleaner is an automates device that cleans floors independently."
         }
     ]
 }

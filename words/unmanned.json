@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Not having a crew or staff present",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The unmanned spaceship traveled through space without any astronauts on board.",
+            "sent2": "The unmanned vehicle moved autonomously without any people inside.",
+            "sent3": "The unmanned store had no employees, so the customers had to use self-checkout.",
+            "sent4": "The unmanned island seemed deserted, with no signs of human activity.",
+            "sent5": "The unmanned aircraft flew silently through the sky, controlled only by technology."
         },
         {
             "definition": "Not controlled or operated by a person",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The drone was unmanned and flew according to its programmed route.",
+            "sent2": "The unmanned drone hovered in the air, following its instructions.",
+            "sent3": "The unmanned lawnmower went rogue and started cutting random patterns in the grass.",
+            "sent4": "The unmanned boat sailed across the lake, guided solely by GPS.",
+            "sent5": "The unmanned robot vacuum cleaned the entire house without any human intervention."
         }
     ]
 }

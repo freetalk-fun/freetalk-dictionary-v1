@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A vertical arrangement of items in a pile.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The stackup of books on the shelf reached the ceiling.",
+            "sent2": "The stackup of plates in the kitchen made it hard to find a clean one.",
+            "sent3": "The stackup of toys in the room looked like a colorful mountain.",
+            "sent4": "The stackup of paperwork on his desk seemed never-ending.",
+            "sent5": "The stackup of boxes in the storage room created a maze-like path."
         },
         {
             "definition": "The total height or thickness of a group of items stacked on top of each other.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The stackup of blankets on the bed kept them warm during the cold night.",
+            "sent2": "The stackup of pancakes on the plate made it a delicious breakfast.",
+            "sent3": "The stackup of coins in the jar made a satisfying clinking sound.",
+            "sent4": "The stackup of logs by the fireplace promised a cozy evening.",
+            "sent5": "The stackup of bricks in the construction site showed progress on the building."
         },
         {
             "definition": "To arrange items in a pile or stack.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She had to stackup the boxes neatly to save space in the storage room.",
+            "sent2": "He decided to stackup the firewood before starting the campfire.",
+            "sent3": "The kids tried to stackup the building blocks as high as they could.",
+            "sent4": "The chef would stackup the ingredients before starting to cook.",
+            "sent5": "It's important to stackup the dishes properly to avoid breakage."
         }
     ]
 }

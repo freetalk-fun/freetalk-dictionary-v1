@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Walking on four feet.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The quadrupedal cat moved gracefully across the yard.",
+            "sent2": "The elephant is a large quadrupedal animal found in the wild.",
+            "sent3": "The quadrupedal turtle challenged the hare to a race.",
+            "sent4": "The quadrupedal robot moved with mechanical precision.",
+            "sent5": "The quadrupedal bear left tracks in the snow."
         },
         {
             "definition": "An animal that walks on four feet.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The zookeeper fed the quadrupedal giraffe some leaves.",
+            "sent2": "The horse is a common quadrupedal used for transportation.",
+            "sent3": "The quadrupedal puppy wagged its tail happily.",
+            "sent4": "The quadrupedal herd grazed peacefully in the meadow.",
+            "sent5": "The quadrupedal deer leaped gracefully through the forest."
         }
     ]
 }

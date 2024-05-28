@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "She is",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "In the story, she's happy to see her friend.",
+            "sent2": "She's singing a song in the school play.",
+            "sent3": "When she's tired, she likes to take a nap.",
+            "sent4": "The sun sets, and she's ready for bed.",
+            "sent5": "She's like a bright star in the night sky."
         },
         {
             "definition": "She has",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She's a new bike that she's excited about.",
+            "sent2": "She's a big collection of books in her room.",
+            "sent3": "She's a secret talent for baking delicious cookies.",
+            "sent4": "Her smile shines like she's a treasure chest of joy.",
+            "sent5": "She's a magic wand that grants wishes."
         },
         {
             "definition": "She is not",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She's afraid of spiders, but she's brave with other bugs.",
+            "sent2": "She's a fan of spicy food, but she's not a fan of pickles.",
+            "sent3": "When she's late, she's not happy with herself.",
+            "sent4": "Her laughter is contagious, but she's not a fan of sad movies.",
+            "sent5": "She's a ray of sunshine, but she's not a storm cloud."
         }
     ]
 }

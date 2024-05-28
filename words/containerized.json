@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To pack or transport (goods) in containers.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The workers containerized the products for shipment.",
+            "sent2": "She containerized the leftovers in plastic boxes.",
+            "sent3": "The kids containerized their toys in colorful bins.",
+            "sent4": "He containerized his emotions, keeping them hidden from others.",
+            "sent5": "The chef containerized the ingredients neatly for easy access."
         },
         {
             "definition": "To adapt (software) for use in a containerized environment.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The IT team containerized the application for cloud deployment.",
+            "sent2": "Developers containerized the code to streamline deployment processes.",
+            "sent3": "The software engineer containerized the program, making it more portable.",
+            "sent4": "She containerized the data, ensuring seamless integration with other systems.",
+            "sent5": "The company containerized the software, improving scalability and efficiency."
         }
     ]
 }

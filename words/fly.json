@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "(verb) to move through the air using wings",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Birds can fly high in the sky.",
+            "sent2": "I watched the birds fly gracefully over the lake.",
+            "sent3": "The superhero's ability to fly saved the day.",
+            "sent4": "Her dreams seemed to fly away like birds in the wind.",
+            "sent5": "The kite soared through the air, showing how to fly."
         },
         {
             "definition": "(noun) a small insect with wings",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I saw a fly buzzing around the room.",
+            "sent2": "The fly landed on the picnic table.",
+            "sent3": "The fly seemed to be dancing in the air.",
+            "sent4": "The fly's wings shimmered in the sunlight.",
+            "sent5": "The fly darted around, exploring its surroundings."
         },
         {
             "definition": "(adjective) quick or nimble in movement",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The athlete was known for his fly speed on the track.",
+            "sent2": "She had a fly reaction to the sudden noise.",
+            "sent3": "The fly squirrel darted up the tree with ease.",
+            "sent4": "The fly cheetah raced across the savannah.",
+            "sent5": "The fly dancer moved gracefully across the stage."
         }
     ]
 }

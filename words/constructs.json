@@ -2,16 +2,31 @@
     "term": "constructs",
     "meanings": [
         {
-            "definition": "Constructs (verb): to build or create something",
-            "pos": "verb"
+            "definition": "to build or create something",
+            "pos": "verb",
+            "sent1": "She constructs a sandcastle at the beach.",
+            "sent2": "The architect constructs a new building in the city.",
+            "sent3": "He constructs a tower of playing cards, impressing his friends.",
+            "sent4": "Her imagination constructs a world of fantasy and wonder.",
+            "sent5": "The artist constructs a masterpiece using various colors and shapes."
         },
         {
-            "definition": "Constructs (noun): ideas or concepts created by the mind",
-            "pos": "noun"
+            "definition": "ideas or concepts created by the mind",
+            "pos": "noun",
+            "sent1": "His mind constructs a plan for the project.",
+            "sent2": "The scientist explores different constructs of reality.",
+            "sent3": "The book's plot constructs a thrilling mystery for the readers.",
+            "sent4": "The teacher uses educational constructs to explain complex topics.",
+            "sent5": "The dreamer's constructs inspire creativity and innovation."
         },
         {
-            "definition": "Constructs (adjective): created or built by humans",
-            "pos": "adjective"
+            "definition": "created or built by humans",
+            "pos": "adjective",
+            "sent1": "The ancient ruins are impressive constructs of human civilization.",
+            "sent2": "The city skyline is filled with modern constructs of architecture.",
+            "sent3": "The robot's design is a futuristic construct of technology.",
+            "sent4": "The museum showcases historical constructs of art and craftsmanship.",
+            "sent5": "The team worked together to create a collaborative construct for the project."
         }
     ]
 }

@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Past tense of 'tech': to equip with technology.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Yesterday, I teched my computer with the latest software updates.",
+            "sent2": "She teched her phone by installing a new app for editing photos.",
+            "sent3": "The robot teched itself up with all the gadgets it could find.",
+            "sent4": "The classroom was teched with interactive whiteboards and tablets.",
+            "sent5": "He teched his workshop with state-of-the-art tools and machinery."
         },
         {
             "definition": "Adjective: having knowledge or skill in technology.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The teched engineer quickly fixed the broken computer.",
+            "sent2": "She is the most teched person in our group when it comes to coding.",
+            "sent3": "The teched student amazed everyone with her ability to program robots.",
+            "sent4": "The teched team developed a new app that revolutionized the industry.",
+            "sent5": "He felt proud to be the most teched individual in his family."
         },
         {
             "definition": "Adverb: in a technological manner.",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "The device operated teched, responding instantly to commands.",
+            "sent2": "She navigated the virtual world teched, using all the available tools.",
+            "sent3": "The robot moved teched through the obstacle course, impressing the audience.",
+            "sent4": "The presentation was delivered teched, showcasing the latest advancements.",
+            "sent5": "He typed teched on the keyboard, completing the task in record time."
         }
     ]
 }

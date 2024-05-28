@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "An adult human male.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The man walked down the street.",
+            "sent2": "Every man deserves respect.",
+            "sent3": "The man with the big hat made everyone smile.",
+            "sent4": "He was a man of few words, but his actions spoke volumes.",
+            "sent5": "The man's kindness touched everyone he met."
         },
         {
             "definition": "A human being of either sex; a person.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The young man helped his neighbor carry groceries.",
+            "sent2": "Every man and woman should have equal rights.",
+            "sent3": "The man in the funny hat danced like nobody was watching.",
+            "sent4": "She was a strong woman, a man in her own right.",
+            "sent5": "The man and woman held hands as they walked along the beach."
         },
         {
             "definition": "A member of the species Homo sapiens, distinguished from other animals by superior mental development, power of articulate speech, and upright stance.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "As a man, he pondered the mysteries of the universe.",
+            "sent2": "Every man has the capacity for great achievements.",
+            "sent3": "The man in the lab coat mixed potions like a wizard.",
+            "sent4": "She was a woman of science, but a man of philosophy.",
+            "sent5": "The man's intelligence shone through in every conversation."
         }
     ]
 }

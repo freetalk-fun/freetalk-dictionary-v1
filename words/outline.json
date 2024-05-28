@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A general description or plan showing the essential features of something.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The teacher drew an outline of the lesson on the board.",
+            "sent2": "She used an outline to organize her ideas before writing the essay.",
+            "sent3": "The outline of the story was so clear that even a child could understand.",
+            "sent4": "The outline of the mountain against the sunset was breathtaking.",
+            "sent5": "The outline of the building made it easy to recognize from a distance."
         },
         {
             "definition": "To draw or sketch the outer edges of something.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He asked the students to outline the shapes of the objects in the picture.",
+            "sent2": "She carefully outlined the flower with a black marker.",
+            "sent3": "The artist decided to outline the cat in bright pink, making it look unique.",
+            "sent4": "The detective outlined the suspect's face in the sketch.",
+            "sent5": "The child outlined the clouds in the sky with his finger, imagining shapes."
         },
         {
             "definition": "To give a brief summary or overview of something.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Before the presentation, she outlined the main points to the team.",
+            "sent2": "The professor outlined the key concepts of the chapter for the students.",
+            "sent3": "He outlined the movie plot in such a funny way that everyone burst into laughter.",
+            "sent4": "She outlined her plan for the weekend like a seasoned traveler.",
+            "sent5": "The CEO outlined the company's future strategy in a clear and concise manner."
         }
     ]
 }

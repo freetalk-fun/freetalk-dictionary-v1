@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A process in which tasks are completed in stages, with each stage being completed before moving on to the next.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "In pipelining, each step is finished before starting the next one.",
+            "sent2": "The factory uses pipelining to ensure efficient production.",
+            "sent3": "The pipelining of baking a cake involves mixing, then baking, then frosting.",
+            "sent4": "Her study routine was like a well-organized pipelining of tasks.",
+            "sent5": "The construction of a house follows a clear pipelining of activities."
         },
         {
             "definition": "To arrange or process (a series of tasks or operations) in a pipeline.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "They are pipelining the data entry process for faster results.",
+            "sent2": "The company decided to start pipelining their software development.",
+            "sent3": "He pipelined his morning routine to get ready faster.",
+            "sent4": "The chef pipelined the cooking steps to serve the meal on time.",
+            "sent5": "Pipelining the paperwork will streamline the administrative tasks."
         }
     ]
 }

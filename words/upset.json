@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To disturb the normal state or condition of",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The loud noise upset the sleeping cat.",
+            "sent2": "I accidentally upset the stack of books on the table.",
+            "sent3": "The idea of a talking dog upset the children in the audience.",
+            "sent4": "Her unexpected resignation upset the balance of power in the company.",
+            "sent5": "The storm upset the peaceful atmosphere of the picnic."
         },
         {
             "definition": "To overturn or capsize",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The strong wind upset the small boat on the lake.",
+            "sent2": "Be careful not to upset the canoe while paddling.",
+            "sent3": "The mischievous squirrel upset the bird feeder in the garden.",
+            "sent4": "The sudden turn of events upset their original plan.",
+            "sent5": "The earthquake upset the fragile vase on the shelf."
         },
         {
             "definition": "A state of emotional or mental disturbance or agitation",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "His constant worrying caused an upset in his mood.",
+            "sent2": "She experienced an upset after hearing the bad news.",
+            "sent3": "The comedy show brought laughter and joy after the earlier upset.",
+            "sent4": "The upset in her mind felt like a storm of emotions.",
+            "sent5": "The unexpected loss was a major upset for the team."
         }
     ]
 }

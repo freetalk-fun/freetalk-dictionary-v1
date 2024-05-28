@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Shaped like a circle",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The table had a circular top.",
+            "sent2": "The moon looks circular in the night sky.",
+            "sent3": "The circular pizza made everyone smile.",
+            "sent4": "Her circular dance movements mesmerized the audience.",
+            "sent5": "The circular rainbow painted a colorful arc in the sky."
         },
         {
             "definition": "A letter or advertisement that is distributed to a large number of people",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "She received a circular in the mail.",
+            "sent2": "The store distributed a circular with their latest offers.",
+            "sent3": "The circular announced the upcoming sale with flair.",
+            "sent4": "The circular fluttered in the wind, catching everyone's attention.",
+            "sent5": "Reading the colorful circular brightened her day."
         },
         {
             "definition": "A route or journey that ends up back at the starting point",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The hiking trail formed a circular path.",
+            "sent2": "The circular around the park was refreshing.",
+            "sent3": "The circular bus tour showed all the sights in one go.",
+            "sent4": "Life's journey can sometimes feel like a circular with its ups and downs.",
+            "sent5": "The circular walk brought them back to where they began."
         }
     ]
 }

@@ -3,19 +3,39 @@
     "meanings": [
         {
             "definition": "The visible vapor and gases given off by a burning or smoldering substance.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The campfire produced thick smoke that rose into the sky.",
+            "sent2": "The house was filled with smoke after the fire broke out.",
+            "sent3": "The smoke from the barbecue made everyone hungry.",
+            "sent4": "The city was shrouded in smoke from the factories.",
+            "sent5": "The smoke billowed out of the chimney like a gray dragon."
         },
         {
             "definition": "To emit smoke or visible vapor.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The old car began to smoke from the engine.",
+            "sent2": "The chimney smoked as the fire burned inside.",
+            "sent3": "The toaster started to smoke when the bread got stuck.",
+            "sent4": "The volcano smoked before erupting with lava.",
+            "sent5": "The barbecue grill smoked as the meat cooked slowly."
         },
         {
             "definition": "To inhale and exhale the smoke of tobacco or a drug.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He would smoke a cigarette after dinner every day.",
+            "sent2": "The room filled with smoke as they smoked cigars.",
+            "sent3": "She pretended to smoke a candy cigarette for fun.",
+            "sent4": "The dragon in the movie would smoke from its nostrils.",
+            "sent5": "The detective smoked a pipe while solving the mystery."
         },
         {
             "definition": "To preserve or prepare (food) by exposure to the smoke of burning wood.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "They would smoke fish to preserve it for the winter.",
+            "sent2": "The chef smoked the meat to give it a rich flavor.",
+            "sent3": "The kitchen smelled delicious as they smoked the ham.",
+            "sent4": "The smokehouse was used to smoke various meats.",
+            "sent5": "The bacon was perfectly smoked and crispy for breakfast."
         }
     ]
 }

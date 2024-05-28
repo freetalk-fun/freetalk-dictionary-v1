@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Coming between two things in time, place, order, character, etc.",
-            "pos": "preposition"
+            "pos": "preposition",
+            "sent1": "The bus stop is intermediate the school and the park.",
+            "sent2": "She placed her bag on the table intermediate the two chairs.",
+            "sent3": "The cat sat intermediate the two open windows, enjoying the breeze.",
+            "sent4": "His opinion fell intermediate agreement and disagreement.",
+            "sent5": "The rainbow appeared intermediate the rain and the sunshine, creating a beautiful sight."
         },
         {
             "definition": "Acting as a mediator or an intermediary.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The intermediate person helped them resolve their argument.",
+            "sent2": "She took on the role of an intermediate negotiator in the dispute.",
+            "sent3": "The intermediate solution pleased both parties involved.",
+            "sent4": "His intermediate approach bridged the gap between the two conflicting sides.",
+            "sent5": "The intermediate position he held allowed for effective communication between the teams."
         },
         {
             "definition": "A person who has reached an intermediate level in a particular subject or activity.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The music teacher praised her as an intermediate pianist.",
+            "sent2": "He was recognized as an intermediate player in the chess club.",
+            "sent3": "The young artist was an intermediate in painting, showing great potential.",
+            "sent4": "She aspired to become an intermediate swimmer by the end of the year.",
+            "sent5": "The team captain was an intermediate in leading the group to victory."
         }
     ]
 }

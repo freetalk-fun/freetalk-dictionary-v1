@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A piece of wood or metal with a handle, used for turning a wheel or propelling a vehicle.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The bicycle wheel had a broken spoke.",
+            "sent2": "The mechanic replaced the broken spoke on the wheel.",
+            "sent3": "The mischievous squirrel used the spoke as a tiny sword in its play.",
+            "sent4": "Her laughter was like a spoke in the wheel of their serious conversation.",
+            "sent5": "The shiny spoke gleamed in the sunlight, catching everyone's eye."
         },
         {
             "definition": "Past tense of speak.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Yesterday, she spoke to her friend on the phone.",
+            "sent2": "He spoke confidently during the presentation.",
+            "sent3": "The cat spoke to the mouse in a funny voice, trying to scare it.",
+            "sent4": "His actions spoke louder than his words, showing his true intentions.",
+            "sent5": "The old book spoke of ancient times, transporting the reader to a different era."
         }
     ]
 }

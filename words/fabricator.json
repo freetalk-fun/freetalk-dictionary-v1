@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A person who makes or creates something, especially in a dishonest or deceptive manner.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The fabricator of the fake paintings was caught by the police.",
+            "sent2": "The fabricator of the plan had a cunning mind.",
+            "sent3": "The fabricator tried to sell a counterfeit watch as genuine.",
+            "sent4": "She was a fabricator of stories, weaving lies effortlessly.",
+            "sent5": "The fabricator's web of deceit eventually unraveled."
         },
         {
             "definition": "A machine or tool used to create or shape materials.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The metal fabricator was used to cut precise shapes.",
+            "sent2": "The fabricator in the workshop was essential for crafting metal parts.",
+            "sent3": "The fabricator hummed as it molded the plastic into shape.",
+            "sent4": "The fabricator worked tirelessly, shaping raw materials into useful objects.",
+            "sent5": "The fabricator's precision ensured flawless results every time."
         },
         {
             "definition": "To invent or concoct something, typically with the intention to deceive.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He tried to fabricator an excuse for being late.",
+            "sent2": "She fabricator a story to cover up her mistake.",
+            "sent3": "The kids decided to fabricator a secret language for fun.",
+            "sent4": "The politician fabricator a scandal to distract from the real issues.",
+            "sent5": "The author fabricator a fantastical world in her novel."
         }
     ]
 }

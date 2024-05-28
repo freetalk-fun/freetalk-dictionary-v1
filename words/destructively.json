@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Causing great harm or damage.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The tornado was so destructively powerful that it destroyed the entire town.",
+            "sent2": "The fire spread destructively through the forest, leaving nothing but ashes in its wake.",
+            "sent3": "The mischievous squirrel destructively chewed through all the wires in the attic.",
+            "sent4": "The virus spread through the computer system destructively, corrupting all the files.",
+            "sent5": "The earthquake shook the building so destructively that it crumbled to the ground."
         },
         {
             "definition": "In a way that causes harm or damage.",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "The car crashed destructively into the wall, causing a loud noise.",
+            "sent2": "The storm raged destructively, uprooting trees and damaging houses.",
+            "sent3": "The toddler ran destructively around the house, knocking over everything in his path.",
+            "sent4": "The waves crashed destructively against the shore, eroding the cliffs over time.",
+            "sent5": "The chemicals reacted destructively, creating a dangerous explosion in the lab."
         },
         {
             "definition": "In a way that is harmful or damaging.",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "The bully behaved destructively towards his classmates, causing emotional pain.",
+            "sent2": "The invasive species spread destructively, threatening the local ecosystem.",
+            "sent3": "The toddler played destructively with his toys, breaking them one by one.",
+            "sent4": "The storm hit the coast destructively, causing widespread flooding and destruction.",
+            "sent5": "The hacker acted destructively, deleting important files from the server."
         }
     ]
 }

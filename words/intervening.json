@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Occurring or situated between two points in time or space.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The squirrel found a cozy spot in the intervening branches of the tree.",
+            "sent2": "The map showed the intervening towns between our house and the beach.",
+            "sent3": "The cat napped peacefully in the intervening hours before dinner.",
+            "sent4": "The moon peeked through the intervening clouds, casting a soft glow.",
+            "sent5": "The rainbow appeared in the sky, its colors separated by the intervening raindrops."
         },
         {
             "definition": "Coming between in time or order.",
-            "pos": "preposition"
+            "pos": "preposition",
+            "sent1": "We will have lunch intervening the morning meeting and the afternoon presentation.",
+            "sent2": "The dessert was served intervening the main course and the coffee.",
+            "sent3": "The magician performed his tricks intervening the acts of the circus.",
+            "sent4": "The commercial aired intervening the TV show, catching everyone's attention.",
+            "sent5": "The break was scheduled intervening the long work hours, giving employees a rest."
         },
         {
             "definition": "To come between so as to prevent or alter a result or course of events.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She intervened in the argument, calming both parties down.",
+            "sent2": "The teacher intervened when the students started to argue.",
+            "sent3": "The referee intervened to stop the fight before it escalated.",
+            "sent4": "The doctor intervened to save the patient's life during surgery.",
+            "sent5": "The superhero intervened just in time to prevent the disaster from happening."
         }
     ]
 }

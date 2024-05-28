@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Nevertheless; yet.",
-            "pos": "conjunction"
+            "pos": "conjunction",
+            "sent1": "I wanted to go to the park; however, it started raining.",
+            "sent2": "She was tired; however, she continued working.",
+            "sent3": "I know I should eat vegetables; however, I always choose pizza.",
+            "sent4": "The sun was shining; however, the wind made it feel cold.",
+            "sent5": "He promised to help; however, he never showed up."
         },
         {
             "definition": "In whatever manner or way.",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "She can sing however she likes.",
+            "sent2": "You can cook the pasta however you prefer.",
+            "sent3": "He danced however he pleased, much to everyone's amusement.",
+            "sent4": "The artist painted the landscape however his imagination led him.",
+            "sent5": "You can decorate your room however you want."
         },
         {
             "definition": "To whatever extent or degree.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "You can however much you want.",
+            "sent2": "She can run however fast she is able.",
+            "sent3": "He can eat however many cookies he desires.",
+            "sent4": "The river can flow however strongly it needs to.",
+            "sent5": "You can study however long you need to understand the material."
         }
     ]
 }

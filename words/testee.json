@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A person who takes a test.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The testee answered all the questions on the exam.",
+            "sent2": "The teacher handed out the test to each testee in the classroom.",
+            "sent3": "The testee accidentally brought a calculator to a spelling test.",
+            "sent4": "The nervous testee felt like a tiny fish in a big pond of questions.",
+            "sent5": "The diligent testee studied hard to prepare for the important test."
         },
         {
             "definition": "An object or material being tested.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The scientist observed the testee under the microscope.",
+            "sent2": "The new fabric was the testee in the durability experiment.",
+            "sent3": "The testee, a new cleaning solution, bubbled and fizzed in the beaker.",
+            "sent4": "The testee metal endured extreme temperatures in the lab.",
+            "sent5": "The testee plant showed promising growth in the controlled environment."
         }
     ]
 }

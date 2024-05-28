@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Produce or provide (a natural, agricultural, or industrial product)",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The apple tree will yield delicious fruits in the fall.",
+            "sent2": "The farm will yield a bountiful harvest this year.",
+            "sent3": "I told the corn to yield more kernels, but it just shrugged.",
+            "sent4": "Her hard work in the garden will yield a colorful bouquet of flowers.",
+            "sent5": "The sun and rain together yield the perfect conditions for plant growth."
         },
         {
             "definition": "Give way to pressure or force",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The door finally yielded to his repeated pushes.",
+            "sent2": "The old bridge could not yield to the weight of the truck.",
+            "sent3": "The stubborn jar lid refused to yield to her twisting efforts.",
+            "sent4": "His determination did not yield to the obstacles in his path.",
+            "sent5": "The dam had to yield to the force of the rushing water."
         },
         {
             "definition": "Amount produced of an agricultural or industrial product",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The yield of wheat this season was exceptional.",
+            "sent2": "The factory's yield of cars has increased since last month.",
+            "sent3": "The chef was disappointed with the yield of tomatoes from the garden.",
+            "sent4": "The yield of milk from the cows was lower than expected.",
+            "sent5": "The yield of honey from the beehive was enough to fill several jars."
         }
     ]
 }

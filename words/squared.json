@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To multiply a number by itself.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I squared the number 3 to get 9.",
+            "sent2": "She always squares the values before adding them.",
+            "sent3": "The mischievous student squared every answer on the math test.",
+            "sent4": "His love for math squared when he discovered the beauty of multiplication.",
+            "sent5": "The concept of squaring a number is like creating a mini universe of its own."
         },
         {
             "definition": "Having the shape of a square.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The table had a squared top.",
+            "sent2": "She picked a squared piece of paper for her drawing.",
+            "sent3": "The cat found comfort in the squared box.",
+            "sent4": "The building's design was modern with squared edges.",
+            "sent5": "The squared garden looked neat and organized."
         },
         {
             "definition": "To make something square in shape.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He squared the dough before baking it.",
+            "sent2": "She always squares the corners of her drawings.",
+            "sent3": "The carpenter squared the wooden blocks with precision.",
+            "sent4": "The gardener squared the flower bed for a clean look.",
+            "sent5": "The tailor squared the fabric before cutting it for the dress."
         }
     ]
 }

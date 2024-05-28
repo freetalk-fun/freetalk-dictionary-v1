@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Having or involving several parts, elements, or members",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The toy car has multiple colors on it.",
+            "sent2": "She owns multiple books on different subjects.",
+            "sent3": "The puzzle with multiple pieces kept us entertained for hours.",
+            "sent4": "His multiple talents make him a valuable asset to the team.",
+            "sent5": "The garden is filled with multiple flowers of various shapes and sizes."
         },
         {
             "definition": "A number that can be divided by another number without a remainder",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The number 12 is a multiple of 3.",
+            "sent2": "She calculated the multiples of 5 for her math homework.",
+            "sent3": "I accidentally bought multiple multiples of 10 at the store.",
+            "sent4": "The multiples of 2 lined up perfectly in the multiplication table.",
+            "sent5": "Finding the multiples of a number is an important concept in math class."
         },
         {
             "definition": "A group of numbers that are the result of multiplying a number by an integer",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The multiples of 4 include 4, 8, 12, and so on.",
+            "sent2": "He studied the multiples of 7 to prepare for the test.",
+            "sent3": "The bakery sold multiple multiples of 6 to the customers.",
+            "sent4": "The multiples of 3 form a pattern in the sequence.",
+            "sent5": "Understanding multiples helps in simplifying mathematical calculations."
         }
     ]
 }

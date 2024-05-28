@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A person who encodes or decodes secret messages.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The cryptographers worked tirelessly to crack the coded message.",
+            "sent2": "Many cryptographers are hired by governments to protect sensitive information.",
+            "sent3": "The cryptographers had a secret competition to see who could decode the message first.",
+            "sent4": "In the world of spies, cryptographers are the unsung heroes.",
+            "sent5": "The cryptographers' skills were put to the test during the cyber attack."
         },
         {
             "definition": "Those skilled in the science or study of cryptography.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "We consulted with cryptographers to enhance our data security.",
+            "sent2": "Cryptographers use complex algorithms to create secure communication channels.",
+            "sent3": "The cryptographers' conference was full of intriguing discussions on encryption methods.",
+            "sent4": "To the untrained eye, cryptographers seem like modern-day codebreakers.",
+            "sent5": "The cryptographers' expertise was crucial in preventing the data breach."
         }
     ]
 }

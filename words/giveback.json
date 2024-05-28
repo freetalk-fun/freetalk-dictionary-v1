@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Return or restore (something previously received)",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I will giveback the book I borrowed from you.",
+            "sent2": "She always makes sure to giveback what she borrows.",
+            "sent3": "After using your pen, I must giveback its cap!",
+            "sent4": "The river will giveback what it took during the flood.",
+            "sent5": "Please remember to giveback the tools after you finish using them."
         },
         {
             "definition": "A charitable donation or act of kindness in return for something received.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The community organized a giveback to help those in need.",
+            "sent2": "Receiving a giveback from strangers was heartwarming.",
+            "sent3": "The giveback event brought smiles to many faces.",
+            "sent4": "Her kindness was a giveback for all the help she received.",
+            "sent5": "The giveback made a significant impact on the local charity."
         }
     ]
 }

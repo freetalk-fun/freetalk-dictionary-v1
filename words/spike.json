@@ -3,23 +3,48 @@
     "meanings": [
         {
             "definition": "A thin, pointed piece of metal or wood",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I found a rusty spike in the garden.",
+            "sent2": "The blacksmith hammered the spike into the wall.",
+            "sent3": "The squirrel used the spike as a tiny sword in its play.",
+            "sent4": "Her words were like a spike, piercing through his heart.",
+            "sent5": "The glint of the spike caught my eye as it lay on the ground."
         },
         {
             "definition": "A sudden increase or rise in something",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "There was a spike in temperature during the heatwave.",
+            "sent2": "The spike in sales occurred after the new product launch.",
+            "sent3": "The sudden spike in popcorn prices left everyone surprised.",
+            "sent4": "Her laughter caused a spike in the room's energy.",
+            "sent5": "The spike in excitement was palpable as the concert began."
         },
         {
             "definition": "To impale on a spike",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He tried to spike the ball over the net in volleyball.",
+            "sent2": "The knight would spike his enemies on the battlefield.",
+            "sent3": "She accidentally spiked her finger while sewing.",
+            "sent4": "The chef decided to spike the dish with extra spices.",
+            "sent5": "The gardener carefully spiked the plant to support its growth."
         },
         {
             "definition": "To add alcohol or drugs to a drink",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The bartender would spike the punch at parties.",
+            "sent2": "She decided to spike her coffee with a shot of whiskey.",
+            "sent3": "The mischievous friend spiked his friend's soda as a prank.",
+            "sent4": "The villain planned to spike the hero's drink with a sleeping potion.",
+            "sent5": "The party became wild after someone spiked the punch with vodka."
         },
         {
             "definition": "A sharp increase in voltage",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The spike in voltage caused the lights to flicker.",
+            "sent2": "The electrical engineer investigated the sudden spike in power.",
+            "sent3": "The spike in voltage fried the circuit board.",
+            "sent4": "The spike in electricity surged through the wires.",
+            "sent5": "The unexpected spike in voltage damaged the electronic devices."
         }
     ]
 }

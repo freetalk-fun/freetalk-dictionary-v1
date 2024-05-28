@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Appearing to be true or real, but not necessarily so.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The seemingly happy cat suddenly hissed at the dog.",
+            "sent2": "Her seemingly innocent smile hid a mischievous plan.",
+            "sent3": "The seemingly empty cookie jar was actually full of toys.",
+            "sent4": "The seemingly endless road stretched out before them.",
+            "sent5": "The seemingly calm lake concealed dangerous currents."
         },
         {
             "definition": "In a way that gives the impression of being true or real.",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "She spoke seemingly without fear, but her hands trembled.",
+            "sent2": "The magician's tricks were performed seemingly effortlessly.",
+            "sent3": "The student's excuses were seemingly creative but unconvincing.",
+            "sent4": "Time passed seemingly slowly as they waited for the results.",
+            "sent5": "The music played seemingly louder as the party continued."
         }
     ]
 }

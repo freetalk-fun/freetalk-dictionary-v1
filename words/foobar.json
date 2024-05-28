@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A placeholder name for a variable or function in computer programming.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "In the code, I used 'foobar' to stand for a number that changes.",
+            "sent2": "The programmer forgot to replace 'foobar' with the actual function name.",
+            "sent3": "When the computer couldn't find 'foobar', it got confused and displayed an error message.",
+            "sent4": "Using 'foobar' in the code is like having a blank space waiting to be filled with a specific value.",
+            "sent5": "The term 'foobar' in programming is like a temporary label waiting for its purpose to be defined."
         },
         {
             "definition": "A nonsense word used to represent a hypothetical situation or concept.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Let's say we have a 'foobar' that can magically solve any problem.",
+            "sent2": "The story involved a character named 'foobar' who could speak to animals.",
+            "sent3": "The 'foobar' in the story turned out to be a mischievous squirrel with a secret talent.",
+            "sent4": "Imagining a world with 'foobar' is like dreaming of a place where anything is possible.",
+            "sent5": "The word 'foobar' sparks creativity by opening up a realm of endless possibilities."
         }
     ]
 }

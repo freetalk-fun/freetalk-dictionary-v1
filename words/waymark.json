@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A mark or sign used to indicate a path or route.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The waymark showed us the right direction to go.",
+            "sent2": "We followed the waymark to find our way back to the campsite.",
+            "sent3": "The waymark seemed to wink at us as if saying, 'Follow me!'",
+            "sent4": "The waymark stood out like a beacon in the forest, guiding us home.",
+            "sent5": "The waymark, like a friendly guide, led us through the maze of trails."
         },
         {
             "definition": "To mark a path or route with signs or markers.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "We need to waymark the trail so others can easily follow.",
+            "sent2": "The park ranger will waymark the new hiking path next week.",
+            "sent3": "Let's waymark the route with colorful flags for a fun adventure.",
+            "sent4": "She waymarked the entire trail with bright paint to ensure visibility.",
+            "sent5": "The volunteers waymark the paths diligently to assist hikers in navigation."
         }
     ]
 }

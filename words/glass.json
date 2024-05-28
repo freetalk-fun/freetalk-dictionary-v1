@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A hard, brittle substance, typically transparent or translucent, made by fusing sand with soda, lime, and sometimes other ingredients.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The window was made of glass.",
+            "sent2": "She drank water from a glass.",
+            "sent3": "The clumsy magician accidentally turned his hat into a glass.",
+            "sent4": "Her eyes were as clear as glass, revealing her emotions.",
+            "sent5": "The glass shattered into a thousand pieces, sparkling in the sunlight."
         },
         {
             "definition": "A drinking container made of glass.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "He poured juice into the glass.",
+            "sent2": "The bartender handed her a glass of wine.",
+            "sent3": "The mischievous cat knocked the glass off the table.",
+            "sent4": "Her laughter tinkled like ice in a glass.",
+            "sent5": "The glass reflected the flickering candlelight, creating a warm glow."
         },
         {
             "definition": "A lens, or an optical instrument with a lens, used to assist vision or magnify images.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The scientist examined the specimen under the glass.",
+            "sent2": "She adjusted the glass to read the fine print.",
+            "sent3": "The detective put on his magnifying glass to solve the mystery.",
+            "sent4": "His perspective shifted like looking through a glass, revealing new details.",
+            "sent5": "The world seemed closer and clearer through the glass of the telescope."
         }
     ]
 }

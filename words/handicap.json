@@ -3,19 +3,39 @@
     "meanings": [
         {
             "definition": "A disadvantage imposed on a person or group due to a disability or other circumstance.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Her wheelchair was a handicap that made it hard for her to access certain buildings.",
+            "sent2": "The student's hearing impairment was a handicap in the noisy classroom.",
+            "sent3": "Despite his visual impairment, he never let it be a handicap in his pursuit of knowledge.",
+            "sent4": "The lack of internet access was a handicap in their research project.",
+            "sent5": "The language barrier proved to be a significant handicap in their communication."
         },
         {
             "definition": "A physical or mental disability that limits a person's ability to perform certain tasks.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "His leg injury was a handicap that prevented him from running in the race.",
+            "sent2": "The dyslexia was a handicap that made reading challenging for the student.",
+            "sent3": "The broken arm was a handicap, but he still managed to finish the puzzle.",
+            "sent4": "Her fear of heights was a handicap when it came to climbing the ladder.",
+            "sent5": "The memory loss was a significant handicap in remembering important dates."
         },
         {
             "definition": "A disadvantage that makes achievement or success more difficult.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Lack of experience can be a handicap when applying for certain jobs.",
+            "sent2": "The language barrier proved to be a handicap in their communication with the team.",
+            "sent3": "His fear of public speaking was a handicap in his quest for leadership roles.",
+            "sent4": "The limited resources were a handicap in their efforts to complete the project on time.",
+            "sent5": "The lack of support from colleagues was a significant handicap in reaching their goals."
         },
         {
             "definition": "To put at a disadvantage; hinder or impede.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The heavy rain could handicap their progress in the construction project.",
+            "sent2": "She didn't want to handicap his chances of winning by revealing the secret.",
+            "sent3": "Trying to carry all the bags at once would handicap her ability to walk comfortably.",
+            "sent4": "The lack of proper equipment could handicap their performance in the competition.",
+            "sent5": "His constant interruptions would handicap the team's ability to focus during the meeting."
         }
     ]
 }

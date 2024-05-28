@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "One who writes computer programs.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The coder created a new software program for the company.",
+            "sent2": "The coder spent hours debugging the code to fix the errors.",
+            "sent3": "The coder joked that debugging code was like solving a mystery.",
+            "sent4": "The coder's mind worked like a puzzle solver when writing complex algorithms.",
+            "sent5": "The coder's passion for programming shone through in every line of code."
         },
         {
             "definition": "A person who translates information into a particular code.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The secret agent was a skilled coder, encrypting messages for secure communication.",
+            "sent2": "The company hired a professional coder to develop a new encryption system.",
+            "sent3": "The coder playfully challenged their friend to decode the hidden message.",
+            "sent4": "The coder's work was like turning words into a secret language only they could understand.",
+            "sent5": "The coder's ability to encode information was crucial for protecting sensitive data."
         },
         {
             "definition": "A device or person that encodes data for transmission.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The coder machine efficiently converted the data into a format suitable for transmission.",
+            "sent2": "The coder at the telecommunication company ensured secure data transfer.",
+            "sent3": "The coder device hummed softly as it worked on encoding the information.",
+            "sent4": "The coder's role in data transmission was like a gatekeeper ensuring safe passage.",
+            "sent5": "The coder technology revolutionized the way information was sent across networks."
         }
     ]
 }

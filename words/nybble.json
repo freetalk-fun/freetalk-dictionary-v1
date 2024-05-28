@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A group of four bits, or half a byte.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "In computing, a nybble is equal to four bits.",
+            "sent2": "The computer stores data in nybbles for efficient processing.",
+            "sent3": "I accidentally ate a nybble of my chocolate bar before saving the rest for later.",
+            "sent4": "Her smile was like a nybble of sunshine in the gloomy room.",
+            "sent5": "The nybble of information he shared was enough to solve the puzzle."
         },
         {
             "definition": "To divide into nybbles.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She had to nybble the large sandwich into smaller pieces for the kids.",
+            "sent2": "The chef will nybble the cake into bite-sized portions for the party guests.",
+            "sent3": "He decided to nybble his time between work and hobbies more efficiently.",
+            "sent4": "The artist will nybble the canvas into sections before starting the painting.",
+            "sent5": "The teacher will nybble the class into groups for the group project."
         }
     ]
 }

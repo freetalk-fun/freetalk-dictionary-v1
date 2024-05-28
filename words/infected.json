@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Contaminated with a disease-causing organism",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The infected area showed redness and swelling.",
+            "sent2": "The doctor prescribed antibiotics for the infected wound.",
+            "sent3": "The infected computer virus caused chaos in the system.",
+            "sent4": "Her mind was like an infected garden, overrun with negative thoughts.",
+            "sent5": "The infected water made everyone sick at the camp."
         },
         {
             "definition": "Affected or influenced in a harmful way",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "She felt tired and weak, like an infected person.",
+            "sent2": "The town's economy was infected by the recession.",
+            "sent3": "His bad mood was like an infected cloud hanging over the party.",
+            "sent4": "The gossip spread like an infected rumor, causing misunderstandings.",
+            "sent5": "The negative comments infected her mind with self-doubt."
         },
         {
             "definition": "To contaminate with a disease-causing organism",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He accidentally infected his computer with a virus.",
+            "sent2": "The bacteria quickly infected the entire population.",
+            "sent3": "The rumor started to infect the small town.",
+            "sent4": "His laughter infected the whole room, spreading joy.",
+            "sent5": "The negativity in the office infected the team's morale."
         }
     ]
 }

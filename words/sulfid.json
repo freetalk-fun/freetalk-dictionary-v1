@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A compound of sulfur with a more electropositive element or group.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The geologist found a sulfid in the rock sample.",
+            "sent2": "The sulfid emitted a strong odor when exposed to air.",
+            "sent3": "The mischievous gnome sprinkled sulfid powder on the wizard's hat, causing it to fizz and pop.",
+            "sent4": "Her laughter was like a sulfid, bubbling up unexpectedly and spreading joy around the room.",
+            "sent5": "The sulfid glowed in the dark, casting an eerie light on the cave walls."
         },
         {
             "definition": "To treat or combine with sulfur or a sulfide.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The blacksmith would sulfid the metal to make it more durable.",
+            "sent2": "She sulfided the soil to improve its fertility for the crops.",
+            "sent3": "The chef accidentally sulfided the soup, creating a pungent aroma that filled the kitchen.",
+            "sent4": "His words sulfided her heart, leaving a lasting impression that she couldn't shake off.",
+            "sent5": "The alchemist's potion sulfided the water, turning it into a shimmering liquid with magical properties."
         }
     ]
 }

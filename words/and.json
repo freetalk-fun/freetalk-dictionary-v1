@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Used to connect words or phrases in a sentence.",
-            "pos": "conjunction"
+            "pos": "conjunction",
+            "sent1": "I like apples and bananas.",
+            "sent2": "She is tall and kind.",
+            "sent3": "The cat and dog played together.",
+            "sent4": "His smile was warm and inviting.",
+            "sent5": "The sun and moon light up the sky."
         },
         {
             "definition": "Used to introduce additional information or ideas.",
-            "pos": "conjunction"
+            "pos": "conjunction",
+            "sent1": "I want to go to the park and eat ice cream.",
+            "sent2": "He likes to read books and watch movies.",
+            "sent3": "The cake was sweet and delicious.",
+            "sent4": "Her laughter was loud and contagious.",
+            "sent5": "The flowers were colorful and fragrant."
         },
         {
             "definition": "Used to indicate a connection or relationship between two things.",
-            "pos": "preposition"
+            "pos": "preposition",
+            "sent1": "The book is on the table and the chair.",
+            "sent2": "She walked to the park and the store.",
+            "sent3": "The cat sat between the dog and the tree.",
+            "sent4": "His love for music and art is evident.",
+            "sent5": "The bridge connects the two cities and the river."
         }
     ]
 }

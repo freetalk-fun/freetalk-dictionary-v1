@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A unit of measurement in statistical analysis representing the probability of an event occurring.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "In statistics, a probit is a way to measure how likely something is to happen.",
+            "sent2": "The probit value indicates the chance of an event taking place in a study.",
+            "sent3": "I heard a joke about a probit trying to predict the weather, but it kept getting cloudy.",
+            "sent4": "Her intuition was like a probit, always accurately foreseeing the outcome.",
+            "sent5": "Understanding the probit scale is crucial for interpreting statistical data effectively."
         },
         {
             "definition": "To estimate the probability of an event occurring using probit analysis.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Researchers often probit the likelihood of success before conducting experiments.",
+            "sent2": "I will probit the data to determine the chances of winning the game.",
+            "sent3": "The scientist decided to probit the growth rate of plants in her garden.",
+            "sent4": "She could probit the outcome of the election with remarkable accuracy.",
+            "sent5": "Probitting the results helped in making informed decisions based on statistical analysis."
         }
     ]
 }

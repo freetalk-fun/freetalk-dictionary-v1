@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To hide or keep something secret",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The magician conceals the rabbit in his hat.",
+            "sent2": "She conceals her diary under the bed to keep it safe.",
+            "sent3": "The squirrel conceals its acorns in various hiding spots around the garden.",
+            "sent4": "The fog conceals the outline of the distant mountains.",
+            "sent5": "The detective's disguise perfectly conceals his true identity."
         },
         {
             "definition": "To prevent something from being seen or known",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The thick fog conceals the view of the city skyline.",
+            "sent2": "The mask conceals her emotions during the performance.",
+            "sent3": "The clever spy conceals the secret documents in a hollowed-out book.",
+            "sent4": "The darkness of the night conceals the movements of nocturnal animals.",
+            "sent5": "The encryption code conceals the sensitive information from unauthorized access."
         }
     ]
 }

@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A set of instructions within a computer program that performs a specific task.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The subprogram for calculating taxes is very efficient.",
+            "sent2": "The software engineer wrote a subprogram to sort data.",
+            "sent3": "I accidentally deleted the subprogram that makes the computer say 'hello'.",
+            "sent4": "Her creativity is like a well-crafted subprogram, executing tasks flawlessly.",
+            "sent5": "The subprogram to generate reports is crucial for our project's success."
         },
         {
             "definition": "A subroutine or function within a computer program.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The subprogram to find prime numbers is quite complex.",
+            "sent2": "Programmers often use a subprogram to validate user inputs.",
+            "sent3": "The subprogram for making coffee in the code always brews too much.",
+            "sent4": "His dedication to his work is a subprogram that never fails.",
+            "sent5": "Learning to write a subprogram can open up new possibilities in coding."
         },
         {
             "definition": "A smaller program within a larger program.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The subprogram responsible for graphics crashed unexpectedly.",
+            "sent2": "The game developer created a subprogram to handle player movements.",
+            "sent3": "The subprogram controlling the spaceship started playing music instead.",
+            "sent4": "In her mind, each memory was like a separate subprogram running simultaneously.",
+            "sent5": "The subprogram managing inventory is vital for the online store's operation."
         }
     ]
 }

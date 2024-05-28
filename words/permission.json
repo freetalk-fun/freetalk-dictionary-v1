@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Consent to do something.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She asked for permission to go to the park.",
+            "sent2": "He always seeks permission before borrowing books.",
+            "sent3": "The cat meowed for permission to explore the backyard.",
+            "sent4": "The flowers seemed to ask permission from the sun to bloom.",
+            "sent5": "The teacher's smile granted permission for the students to start the project."
         },
         {
             "definition": "Authorization to do something.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "He needed permission to access the restricted area.",
+            "sent2": "The signed document served as permission to proceed with the project.",
+            "sent3": "The squirrel seemed to show off its permission to climb the tree.",
+            "sent4": "The key acted as permission for the door to be opened.",
+            "sent5": "The badge granted permission for entry into the exclusive event."
         }
     ]
 }

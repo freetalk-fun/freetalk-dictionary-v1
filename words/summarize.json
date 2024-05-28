@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Give a brief statement of the main points of (something).",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Can you summarize the story for me?",
+            "sent2": "I need to summarize the article for my presentation.",
+            "sent3": "Let's summarize the movie in just a few sentences.",
+            "sent4": "She tried to summarize her feelings in a single sentence.",
+            "sent5": "He managed to summarize the entire book in just a paragraph."
         },
         {
             "definition": "Make a summary of.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I will summarize the key points from the meeting.",
+            "sent2": "It's important to summarize the main ideas in your essay.",
+            "sent3": "She decided to summarize the day's events in her journal.",
+            "sent4": "The artist tried to summarize the beauty of nature in his painting.",
+            "sent5": "He asked me to summarize the chapter in my own words."
         }
     ]
 }

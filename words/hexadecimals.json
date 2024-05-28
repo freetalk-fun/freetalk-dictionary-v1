@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A numbering system with a base of 16, using the digits 0-9 and the letters A-F to represent values.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "In computer science, programmers often work with hexadecimals to represent colors.",
+            "sent2": "She converted the decimal number to hexadecimals for easier calculation.",
+            "sent3": "The student thought the hexadecimal system was like a secret code for numbers.",
+            "sent4": "The beauty of hexadecimals lies in their ability to condense information efficiently.",
+            "sent5": "Learning about hexadecimals opened up a new world of numerical possibilities."
         },
         {
             "definition": "A hexadecimal digit or number.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The password required a combination of letters, numbers, and hexadecimals.",
+            "sent2": "He memorized the hexadecimal for the color blue: 0000FF.",
+            "sent3": "The game character's health was displayed in colorful hexadecimals.",
+            "sent4": "Her mind was a jumble of thoughts, like a string of random hexadecimals.",
+            "sent5": "The artist's palette included a wide range of vibrant hexadecimals."
         }
     ]
 }

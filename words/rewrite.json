@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Write (something) again so as to alter or improve it.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I had to rewrite my essay to fix the mistakes.",
+            "sent2": "Authors often rewrite their drafts multiple times before publishing.",
+            "sent3": "Why did the chicken rewrite its own storybook?",
+            "sent4": "Her life took a new turn, prompting her to rewrite her future plans.",
+            "sent5": "The artist had to rewrite the painting to capture the right emotions."
         },
         {
             "definition": "A piece of writing that has been rewritten.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The rewrite of the article was much clearer than the original.",
+            "sent2": "She submitted the rewrite of her short story to the magazine.",
+            "sent3": "The rewrite of the play turned it into a comedy instead of a drama.",
+            "sent4": "The rewrite of the song gave it a fresh, modern twist.",
+            "sent5": "The rewrite of the novel made it a bestseller."
         }
     ]
 }

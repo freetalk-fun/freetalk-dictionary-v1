@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "An individual or collaborative enterprise that is carefully planned to achieve a particular aim.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Our school science project involved growing plants to learn about photosynthesis.",
+            "sent2": "The construction project to build a new library started last month.",
+            "sent3": "The baking project turned into a floury mess when the recipe went wrong.",
+            "sent4": "Her dream of becoming a successful artist was a project she worked on tirelessly.",
+            "sent5": "The charity project aimed to provide clean water to remote villages in need."
         },
         {
             "definition": "A proposed or planned undertaking.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The renovation project for the old house will begin next week.",
+            "sent2": "The government announced a new infrastructure project to improve transportation.",
+            "sent3": "The birthday surprise project for Mom was almost ruined when she almost found out.",
+            "sent4": "His ambitious project to climb Mount Everest was met with both excitement and fear.",
+            "sent5": "The community project aimed to create a safe space for children to play and learn."
         },
         {
             "definition": "To estimate or forecast (something) on the basis of present trends or data.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The economist tried to project the country's economic growth for the next year.",
+            "sent2": "She projected that the sales would increase by 10% after the marketing campaign.",
+            "sent3": "The weather forecaster projected a sunny day, but it ended up raining heavily.",
+            "sent4": "His confident demeanor projected a sense of leadership and authority.",
+            "sent5": "The professor projected the final exam date to be in two weeks."
         }
     ]
 }

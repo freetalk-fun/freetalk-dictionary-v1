@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "The act of dividing into triangles.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The artist's careful triangulations of the canvas created a beautiful geometric pattern.",
+            "sent2": "The surveyor used triangulations to accurately map out the land.",
+            "sent3": "The chef's unique triangulations of ingredients resulted in a delicious dish.",
+            "sent4": "Her triangulations of the situation helped her see things from a different perspective.",
+            "sent5": "The student's meticulous triangulations of the shapes made the math problem easier to solve."
         },
         {
             "definition": "The process of determining the location of a point by measuring angles to it from known points.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The sailor relied on triangulations to navigate the open sea.",
+            "sent2": "During the treasure hunt, the explorers used triangulations to find the hidden chest.",
+            "sent3": "The detective's triangulations of the crime scene led to the capture of the thief.",
+            "sent4": "Her triangulations of the stars guided her safely through the night.",
+            "sent5": "The scientist's precise triangulations of the data revealed a groundbreaking discovery."
         }
     ]
 }

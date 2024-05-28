@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Emit a long, deep audible breath expressing sadness, relief, tiredness, or similar emotion.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She sighs heavily after a long day at work.",
+            "sent2": "He often sighs when he feels sad.",
+            "sent3": "The cat sighs dramatically when it sees the empty food bowl.",
+            "sent4": "The wind sighs through the trees on a quiet night.",
+            "sent5": "The old man sighs with contentment as he watches the sunset."
         },
         {
             "definition": "A sound made by sighing.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The room was filled with the soft sighs of tired students.",
+            "sent2": "I heard a gentle sigh coming from the next room.",
+            "sent3": "The sighs of the wind outside lulled me to sleep.",
+            "sent4": "The sighs of the violin in the music piece were hauntingly beautiful.",
+            "sent5": "The collective sighs of the audience filled the theater after the emotional performance."
         }
     ]
 }

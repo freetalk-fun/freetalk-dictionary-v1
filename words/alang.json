@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Alongside or beside something",
-            "pos": "preposition"
+            "pos": "preposition",
+            "sent1": "The cat walked alang the fence.",
+            "sent2": "She placed her bag alang the wall.",
+            "sent3": "The squirrel hid its acorn alang the tree trunk.",
+            "sent4": "The river flowed alang the meadow, glistening in the sun.",
+            "sent5": "The children skipped alang the sidewalk, laughing and playing."
         },
         {
             "definition": "In the direction of something",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "He pointed alang, indicating where to go.",
+            "sent2": "The arrow flew alang, hitting the target.",
+            "sent3": "The wind blew alang, rustling the leaves.",
+            "sent4": "The car sped alang, racing towards the finish line.",
+            "sent5": "The bird flew alang, following its instinctive path."
         },
         {
             "definition": "In the process of moving or progressing in a certain direction",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "The train chugged alang the tracks, heading towards the city.",
+            "sent2": "The ants marched alang in a straight line.",
+            "sent3": "The clouds drifted alang lazily in the sky.",
+            "sent4": "The students walked alang, chatting happily on their way to school.",
+            "sent5": "The stream flowed alang, carrying fallen leaves downstream."
         }
     ]
 }

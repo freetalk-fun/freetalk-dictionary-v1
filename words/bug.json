@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A small insect",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I saw a bug crawling on the ground.",
+            "sent2": "The bug flew around the garden.",
+            "sent3": "Why did the bug cross the road? To get to the other side!",
+            "sent4": "The bug scurried through the grass like a tiny explorer.",
+            "sent5": "The colorful bug caught my eye with its delicate wings."
         },
         {
             "definition": "An error or flaw in a computer program",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The software engineer fixed a bug in the code.",
+            "sent2": "The bug caused the program to crash unexpectedly.",
+            "sent3": "Why did the computer catch a cold? It had a bug!",
+            "sent4": "The bug in the system disrupted the entire operation.",
+            "sent5": "Finding and fixing a bug in the code can be challenging."
         },
         {
             "definition": "To annoy or bother someone",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Please don't bug me while I'm studying.",
+            "sent2": "Stop trying to bug your little sister.",
+            "sent3": "Why did the fly bug the spider? It wanted to have a chat!",
+            "sent4": "The constant buzzing sound started to bug me after a while.",
+            "sent5": "Her persistent questions began to bug him during the meeting."
         }
     ]
 }

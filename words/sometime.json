@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "At an unspecified or indefinite time in the future.",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "We will go to the park sometime.",
+            "sent2": "I will finish my homework sometime later.",
+            "sent3": "Maybe sometime in the future, we will all have flying cars.",
+            "sent4": "Dreams of traveling the world will come true sometime.",
+            "sent5": "The treasure map promised riches sometime ahead."
         },
         {
             "definition": "At an unspecified or indefinite time in the past.",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "She visited the museum sometime last year.",
+            "sent2": "They met sometime during their childhood.",
+            "sent3": "The dinosaur roamed the earth sometime in the past.",
+            "sent4": "Legends say dragons existed sometime centuries ago.",
+            "sent5": "The ancient ruins were built sometime before our time."
         },
         {
             "definition": "At an unspecified or indefinite time in the present.",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "I will call you sometime today.",
+            "sent2": "Let's have lunch sometime this week.",
+            "sent3": "The mystery novel reveals the killer sometime in the present.",
+            "sent4": "The sun sets sometime every day.",
+            "sent5": "The flowers bloom sometime in the spring."
         }
     ]
 }

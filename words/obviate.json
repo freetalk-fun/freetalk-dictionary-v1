@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To prevent or avoid (something undesirable)",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Taking an umbrella can obviate getting wet in the rain.",
+            "sent2": "Wearing a seatbelt can obviate serious injuries in a car accident.",
+            "sent3": "Carrying an extra pen can obviate the need to borrow one from others.",
+            "sent4": "A good night's sleep can obviate the need for caffeine in the morning.",
+            "sent5": "Regular exercise can obviate health issues later in life."
         },
         {
             "definition": "To make unnecessary by taking action in advance",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Planning your route can obviate the need for a GPS.",
+            "sent2": "Studying ahead of time can obviate the stress of last-minute cramming.",
+            "sent3": "Buying in bulk can obviate frequent trips to the store.",
+            "sent4": "A well-insulated house can obviate the need for constant heating.",
+            "sent5": "Proper maintenance can obviate costly repairs in the future."
         }
     ]
 }

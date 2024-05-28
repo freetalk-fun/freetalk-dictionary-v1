@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A person or thing that gives rise to an action, phenomenon, or condition.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The loud music from the party causes a headache.",
+            "sent2": "The causes of the traffic jam were the road construction and the accident.",
+            "sent3": "The mischievous squirrel is the cause of chaos in the garden.",
+            "sent4": "Her contagious laughter causes joy in everyone around her.",
+            "sent5": "The storm causes destruction wherever it goes."
         },
         {
             "definition": "The reason or motive for an action or event.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Lack of sleep was the cause of his grumpiness.",
+            "sent2": "The main cause of the fire was faulty wiring.",
+            "sent3": "The cat knocking over the vase was the cause of much laughter.",
+            "sent4": "His careless words were the cause of her heartbreak.",
+            "sent5": "The discovery of the treasure caused excitement among the villagers."
         }
     ]
 }

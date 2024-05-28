@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Information, especially of a secret or confidential nature.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "She shared some important intel with her best friend.",
+            "sent2": "The spy relied on the intel to complete the mission successfully.",
+            "sent3": "The detective found the missing clue in the intel file.",
+            "sent4": "The intel about the upcoming surprise party leaked out.",
+            "sent5": "The intel about the treasure map was hidden in the old book."
         },
         {
             "definition": "Intelligence or understanding.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "His quick wit and intel helped him solve the puzzle.",
+            "sent2": "The professor's vast intel on the subject impressed the students.",
+            "sent3": "The robot's artificial intel made it unbeatable in chess.",
+            "sent4": "Her street smarts and intel guided her through the city.",
+            "sent5": "The detective's sharp intel led to the criminal's capture."
         },
         {
             "definition": "A branch of the United States military responsible for gathering intelligence.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The intel unit received a new mission from headquarters.",
+            "sent2": "The intel team worked tirelessly to analyze the data.",
+            "sent3": "The intel officer briefed the general on the latest findings.",
+            "sent4": "The intel division used advanced technology for surveillance.",
+            "sent5": "The intel agency uncovered a plot to sabotage the operation."
         }
     ]
 }

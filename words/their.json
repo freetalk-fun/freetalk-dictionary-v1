@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Belonging to or associated with a group of people previously mentioned or easily identified.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The students brought their books to class.",
+            "sent2": "The family went on a picnic with their dog.",
+            "sent3": "The team celebrated their victory with a pizza party.",
+            "sent4": "The trees swayed in the wind, their branches reaching towards the sky.",
+            "sent5": "The children held hands with their parents as they walked through the park."
         },
         {
             "definition": "Used to indicate possession or ownership by more than one person.",
-            "pos": "pronoun"
+            "pos": "pronoun",
+            "sent1": "The siblings shared their toys with each other.",
+            "sent2": "The friends decided to bring their own snacks to the movie.",
+            "sent3": "The cats groomed their fur meticulously, looking quite content.",
+            "sent4": "The stars twinkled in the night sky, each shining in their own way.",
+            "sent5": "The neighbors waved to each other from their respective driveways."
         },
         {
             "definition": "Used to indicate possession or ownership by a group of people.",
-            "pos": "pronoun"
+            "pos": "pronoun",
+            "sent1": "The committee members cast their votes on the new proposal.",
+            "sent2": "The choir members raised their voices in harmony.",
+            "sent3": "The fans cheered for their favorite team, hoping for a win.",
+            "sent4": "The dancers moved in sync, their movements fluid and graceful.",
+            "sent5": "The employees gathered in the conference room for their monthly meeting."
         }
     ]
 }

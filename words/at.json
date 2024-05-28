@@ -3,19 +3,39 @@
     "meanings": [
         {
             "definition": "Expressing location or position in a particular place.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The cat sat at the sunny window.",
+            "sent2": "The book is at the top of the shelf.",
+            "sent3": "The flowers look happy at the garden.",
+            "sent4": "The stars shine brightly at night.",
+            "sent5": "The cozy blanket is at the end of the bed."
         },
         {
             "definition": "Expressing a point in time.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The party is at 7 o'clock.",
+            "sent2": "The movie starts at noon.",
+            "sent3": "The alarm clock rings loudly at morning.",
+            "sent4": "The sun sets at dusk.",
+            "sent5": "The train arrives at midnight."
         },
         {
             "definition": "Expressing a rate or price.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The apples are priced at $1 each.",
+            "sent2": "The car drives at 60 miles per hour.",
+            "sent3": "The ice cream melts quickly at the hot sun.",
+            "sent4": "The birds chirp at a high pitch.",
+            "sent5": "The clock ticks at a steady pace."
         },
         {
             "definition": "Expressing a particular condition or state.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The water is at a boiling temperature.",
+            "sent2": "The room is at a comfortable temperature.",
+            "sent3": "The cat is at a playful mood.",
+            "sent4": "The flowers are at full bloom.",
+            "sent5": "The cake is at a delicious taste."
         }
     ]
 }

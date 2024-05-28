@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "The time during which something continues.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The duration of the movie was two hours.",
+            "sent2": "I can only play for a short duration before dinner.",
+            "sent3": "The duration of the meeting felt like an eternity.",
+            "sent4": "The duration of the storm seemed never-ending.",
+            "sent5": "The duration of the test was so long that I fell asleep."
         },
         {
             "definition": "The length of time that something lasts.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The duration of the concert was three hours.",
+            "sent2": "The duration of the battery life depends on usage.",
+            "sent3": "The duration of the game surprised everyone with its brevity.",
+            "sent4": "The duration of the journey felt like a lifetime.",
+            "sent5": "The duration of the class seemed to drag on forever."
         }
     ]
 }

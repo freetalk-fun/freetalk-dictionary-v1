@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A round vegetable with many layers that has a strong taste and smell.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I chopped some onions for the soup.",
+            "sent2": "The onions made me cry while cutting them.",
+            "sent3": "The onions in the garden were gossiping about the carrots.",
+            "sent4": "Her tears fell like onions, layer by layer.",
+            "sent5": "The pungent smell of onions filled the kitchen."
         },
         {
             "definition": "Used to refer to a situation or topic that is difficult or unpleasant to deal with.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The meeting was full of onions, nobody wanted to attend.",
+            "sent2": "Dealing with such onions tasks can be exhausting.",
+            "sent3": "His excuses were as flimsy as an onion skin.",
+            "sent4": "The truth was hidden beneath layers of onion-like complexity.",
+            "sent5": "She avoided the onions conversation like the plague."
         }
     ]
 }

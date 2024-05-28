@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "The point where two converging lines meet.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I stood at the corner where the walls met.",
+            "sent2": "The cat sat in the corner of the room.",
+            "sent3": "The spider built its web in the corner of the ceiling.",
+            "sent4": "Her eyes met mine at the corner of the street.",
+            "sent5": "The treasure was hidden in the corner of the old map."
         },
         {
             "definition": "A small, secluded, or remote area.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The garden had a quiet corner where I liked to read.",
+            "sent2": "She found a cozy corner in the library to study.",
+            "sent3": "The little mouse nibbled on cheese in the corner of the kitchen.",
+            "sent4": "The cabin was nestled in a corner of the forest.",
+            "sent5": "The cafe had a charming corner with a view of the park."
         },
         {
             "definition": "To force (a person or animal) into a position from which they cannot escape.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The cat tried to corner the mouse in the pantry.",
+            "sent2": "The police managed to corner the suspect in the alley.",
+            "sent3": "The kids tried to corner their friend in a game of tag.",
+            "sent4": "The hikers were cornered by a bear in the woods.",
+            "sent5": "The chess player strategically cornered their opponent's king."
         }
     ]
 }

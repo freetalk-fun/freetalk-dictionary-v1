@@ -3,19 +3,39 @@
     "meanings": [
         {
             "definition": "Obtain",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She acquired a new book from the library.",
+            "sent2": "He acquired a taste for spicy food after trying it once.",
+            "sent3": "The squirrel acquired a shiny acorn for its collection.",
+            "sent4": "The detective acquired a crucial piece of evidence to solve the case.",
+            "sent5": "The student acquired knowledge through diligent study."
         },
         {
             "definition": "Gain",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "His acquired wealth came from years of hard work.",
+            "sent2": "The company celebrated the acquisition of a new client.",
+            "sent3": "The cat's acquired toy made it the envy of the other cats.",
+            "sent4": "Her acquired skills in painting were evident in her latest masterpiece.",
+            "sent5": "The team's acquired knowledge gave them an edge in the competition."
         },
         {
             "definition": "Develop",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The plant acquired vibrant colors as it grew.",
+            "sent2": "Over time, he acquired a strong work ethic.",
+            "sent3": "The friendship acquired a new level of trust after the trip.",
+            "sent4": "The idea acquired a life of its own and became a successful project.",
+            "sent5": "The town acquired a bustling atmosphere with the new businesses."
         },
         {
             "definition": "Learn",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She acquired new words by reading every day.",
+            "sent2": "Children acquire language skills at a young age.",
+            "sent3": "The robot acquired a sense of humor after interacting with humans.",
+            "sent4": "He acquired a new hobby and found joy in it.",
+            "sent5": "The explorer acquired survival skills during the expedition."
         }
     ]
 }

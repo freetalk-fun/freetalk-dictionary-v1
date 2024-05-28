@@ -3,23 +3,48 @@
     "meanings": [
         {
             "definition": "To receive or acquire",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I get a gift on my birthday.",
+            "sent2": "She gets a new book from the library every week.",
+            "sent3": "The cat gets a treat when it does a trick.",
+            "sent4": "After a long wait, I finally get the package I ordered.",
+            "sent5": "He gets a surprise when he opens the box."
         },
         {
             "definition": "To become",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The water gets cold when left outside.",
+            "sent2": "She gets tired after playing for hours.",
+            "sent3": "The plant gets big with lots of sunlight.",
+            "sent4": "His face gets red when he's embarrassed.",
+            "sent5": "The sky gets dark before a storm."
         },
         {
             "definition": "To understand",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I get the math problem after studying it.",
+            "sent2": "She gets the joke and laughs out loud.",
+            "sent3": "The students get the lesson after the teacher explains.",
+            "sent4": "After a while, I finally get the concept of coding.",
+            "sent5": "He gets the message and replies immediately."
         },
         {
             "definition": "To arrive",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "We get home before dark.",
+            "sent2": "She gets to the party just in time.",
+            "sent3": "The bus gets to the stop early today.",
+            "sent4": "I get to work early to avoid traffic.",
+            "sent5": "He gets to the airport before the flight takes off."
         },
         {
             "definition": "To reach or attain",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I get the top shelf with a stool.",
+            "sent2": "She gets the high score in the game.",
+            "sent3": "The team gets the trophy after winning.",
+            "sent4": "After hard work, I finally get my dream job.",
+            "sent5": "He gets the first place in the race."
         }
     ]
 }

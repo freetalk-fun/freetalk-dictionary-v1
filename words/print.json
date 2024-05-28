@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Produce (books, newspapers, etc.) by a process involving the transfer of text or images to paper or another material.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I will print out the report for the meeting.",
+            "sent2": "She likes to print her essays in color.",
+            "sent3": "The printer decided to print a joke on the last page.",
+            "sent4": "His words were printed in my mind like a permanent marker.",
+            "sent5": "The sound of the printing press filled the room with rhythm."
         },
         {
             "definition": "A mark or indentation made by pressing something onto a surface.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The dog left a muddy print on the floor.",
+            "sent2": "She admired the delicate print of the fabric.",
+            "sent3": "The print of the cat's paw looked like a tiny heart.",
+            "sent4": "The print of the key was etched into the soft clay.",
+            "sent5": "The print of the logo on the box was slightly smudged."
         },
         {
             "definition": "A photograph or picture printed from a negative.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "He framed the beautiful print of the sunset.",
+            "sent2": "She bought a print of the famous painting for her wall.",
+            "sent3": "The print of the family portrait brought back memories.",
+            "sent4": "The print of the landscape was so vivid, it felt real.",
+            "sent5": "The print of the old photograph was slightly faded but still precious."
         }
     ]
 }

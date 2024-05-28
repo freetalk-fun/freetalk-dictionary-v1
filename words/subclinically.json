@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Below the level of clinical detection or significance.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The doctor found some subclinically abnormal results in the blood test.",
+            "sent2": "The subclinically low blood pressure did not require immediate medical attention.",
+            "sent3": "Even though it was subclinically abnormal, the test results were still within the acceptable range.",
+            "sent4": "Her subclinically high heart rate hinted at an underlying health issue.",
+            "sent5": "The subclinically elevated cholesterol levels were a cause for concern."
         },
         {
             "definition": "In a manner that is not clinically apparent or significant.",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "The virus was spreading subclinically throughout the community.",
+            "sent2": "She was subclinically monitored for any signs of improvement.",
+            "sent3": "The detective subclinically observed the suspect's behavior from a distance.",
+            "sent4": "The issue was subclinically addressed before it escalated.",
+            "sent5": "The medication was subclinically administered to avoid any adverse effects."
         }
     ]
 }

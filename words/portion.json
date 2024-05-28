@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A part of a whole",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "She took a small portion of the cake to share with her friend.",
+            "sent2": "The portion of the puzzle she completed was the corner piece.",
+            "sent3": "The portion of the story where the hero saves the day always makes me smile.",
+            "sent4": "His portion of the responsibility was to ensure everyone arrived on time.",
+            "sent5": "The portion of the rainbow that appeared after the rain was breathtaking."
         },
         {
             "definition": "An amount of food served to one person",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The chef carefully plated each portion of the meal before serving.",
+            "sent2": "The portion of pasta served was generous and satisfying.",
+            "sent3": "She always saves a portion of her dessert for later, just in case.",
+            "sent4": "The portion of soup in the bowl seemed to warm her up instantly.",
+            "sent5": "The portion of the sandwich was so big, she struggled to finish it all."
         },
         {
             "definition": "To divide into parts",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He decided to portion the pizza into equal slices for everyone.",
+            "sent2": "The teacher asked the students to portion the project into manageable tasks.",
+            "sent3": "She tried to portion her time between work and hobbies but found it challenging.",
+            "sent4": "The farmer needed to portion the field into sections for planting different crops.",
+            "sent5": "The chef had to portion the ingredients carefully to create the perfect balance of flavors."
         }
     ]
 }

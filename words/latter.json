@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Being the second of two mentioned things.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "In the latter part of the story, the hero finally defeats the villain.",
+            "sent2": "She preferred the latter option over the former.",
+            "sent3": "The latter half of the cake mysteriously disappeared before the party.",
+            "sent4": "His latter attempt at painting was much better than his first.",
+            "sent5": "The latter half of the rainbow was the brightest and most colorful."
         },
         {
             "definition": "The second mentioned of two things.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "He chose the latter of the two books to read first.",
+            "sent2": "The former house was smaller than the latter.",
+            "sent3": "The latter of the two puppies was the mischievous one.",
+            "sent4": "She always forgets the latter of the pair of socks.",
+            "sent5": "The latter of the twins arrived just in time for the party."
         }
     ]
 }

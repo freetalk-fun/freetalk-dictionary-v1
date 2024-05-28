@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Happen again",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The movie reoccurs on TV every Saturday.",
+            "sent2": "The rain reoccurs frequently during the monsoon season.",
+            "sent3": "His forgetfulness reoccurs like clockwork, always leaving his keys behind.",
+            "sent4": "The melody reoccurs in my mind, playing on a loop.",
+            "sent5": "The pain reoccurs in my knee whenever it's about to rain."
         },
         {
             "definition": "Occur again",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The issue reoccurs despite our best efforts to solve it.",
+            "sent2": "Her laughter reoccurs whenever she watches that comedy show.",
+            "sent3": "The cat's curiosity reoccurs every time a new box is brought into the house.",
+            "sent4": "The feeling of nostalgia reoccurs whenever I visit my childhood home.",
+            "sent5": "The same dream reoccurs in my sleep, always leaving me puzzled."
         },
         {
             "definition": "Repeat occurrence",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The reoccurs of the annual festival brings joy to the whole town.",
+            "sent2": "The reoccurs of power outages in the area have become a common occurrence.",
+            "sent3": "The reoccurs of his jokes at the party kept everyone entertained.",
+            "sent4": "The reoccurs of migratory birds in the spring signals the change of season.",
+            "sent5": "The reoccurs of her visits to the park always brighten my day."
         }
     ]
 }

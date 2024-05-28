@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "An accumulation of uncompleted work or unfilled orders.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The company had a backlog of orders waiting to be processed.",
+            "sent2": "The backlog of paperwork on my desk seemed never-ending.",
+            "sent3": "The backlog of emails made my inbox look like a mountain.",
+            "sent4": "Her backlog of chores weighed on her mind like a heavy burden.",
+            "sent5": "The backlog of laundry in the hamper grew taller each day."
         },
         {
             "definition": "A reserve supply or stock.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The store kept a backlog of canned goods in case of emergencies.",
+            "sent2": "Having a backlog of snacks in the pantry is always helpful.",
+            "sent3": "His backlog of snacks made his friends envy his stash.",
+            "sent4": "The backlog of books on her shelf was a treasure trove waiting to be explored.",
+            "sent5": "The backlog of art supplies in the closet inspired her to create more."
         },
         {
             "definition": "To accumulate or become backlogged.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "If you don't sort the papers, they will backlog on your desk.",
+            "sent2": "The dishes in the sink began to backlog after a busy week.",
+            "sent3": "His tendency to backlog tasks often led to last-minute rushes.",
+            "sent4": "Procrastination can cause work to backlog and become overwhelming.",
+            "sent5": "Neglecting to clean the gutters can backlog leaves and cause blockages."
         }
     ]
 }

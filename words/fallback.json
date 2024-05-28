@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "An alternative plan or course of action that can be taken if the original plan fails.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "When the first plan didn't work, they had to rely on the fallback.",
+            "sent2": "Having a fallback strategy is important in case things go wrong.",
+            "sent3": "The team's fallback was to order pizza if the cooking failed.",
+            "sent4": "The fallback of using a map saved them when the GPS stopped working.",
+            "sent5": "Always have a fallback ready in case your main idea doesn't succeed."
         },
         {
             "definition": "To resort to a fallback option in case of failure.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "If the main solution fails, they will fallback to plan B.",
+            "sent2": "It's wise to fallback on simpler methods when the complex one doesn't work.",
+            "sent3": "She had to fallback on her old phone when the new one broke.",
+            "sent4": "In tough times, we often have to fallback on our instincts to survive.",
+            "sent5": "Don't be afraid to fallback on your experience when facing challenges."
         }
     ]
 }

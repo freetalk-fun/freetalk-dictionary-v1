@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To apply a substance such as oil or grease to reduce friction",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He lubricated the squeaky door hinges with oil.",
+            "sent2": "The mechanic lubricated the car engine to keep it running smoothly.",
+            "sent3": "The robot mistakenly lubricated its wheels with peanut butter, causing a sticky mess.",
+            "sent4": "Her kind words acted as a lubricant, lubricating the tense situation.",
+            "sent5": "The skates glided effortlessly on the freshly lubricated ice."
         },
         {
             "definition": "Covered or treated with a lubricant",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The lubricated gears spun quietly in the machine.",
+            "sent2": "The bicycle chain was lubricated and ready for a long ride.",
+            "sent3": "The slippery banana peel felt strangely lubricated underfoot.",
+            "sent4": "His words were like a lubricated path, guiding her through the difficult conversation.",
+            "sent5": "The well-oiled machine hummed along with its lubricated parts."
         }
     ]
 }

@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A round plane figure whose boundary consists of points equidistant from a fixed point.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The children drew colorful circles on the paper.",
+            "sent2": "The artist painted perfect circles on the canvas.",
+            "sent3": "The clown juggled colorful circles to entertain the audience.",
+            "sent4": "Her laughter filled the room, creating circles of joy.",
+            "sent5": "The moon shone brightly, casting circles of light on the ground."
         },
         {
             "definition": "A group of people with a shared profession, interests, or acquaintances.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "She joined the book club to meet new circles of friends.",
+            "sent2": "The circles of scientists collaborated on a groundbreaking research project.",
+            "sent3": "The circles of artists gathered to showcase their work at the gallery.",
+            "sent4": "Their circles of friends overlapped, creating a strong social network.",
+            "sent5": "The circles of musicians played together in perfect harmony."
         },
         {
             "definition": "To move all the way around something in a circular path.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The dog circles around the tree before lying down.",
+            "sent2": "The plane circles above the airport before landing.",
+            "sent3": "The detective circles the crime scene, looking for clues.",
+            "sent4": "She circles the block to find a parking spot.",
+            "sent5": "The hawk circles high in the sky, searching for prey."
         }
     ]
 }

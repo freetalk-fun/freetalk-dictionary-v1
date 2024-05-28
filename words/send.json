@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To cause to go or be taken to a destination.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I will send the letter to my friend.",
+            "sent2": "Please send the package to the correct address.",
+            "sent3": "I accidentally sent my cat to the wrong room.",
+            "sent4": "Her smile seemed to send a wave of happiness through the room.",
+            "sent5": "The strong wind can send leaves flying in all directions."
         },
         {
             "definition": "To dispatch by a means of communication.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I will send you a text message later.",
+            "sent2": "He sent an email to his boss about the project.",
+            "sent3": "The parrot learned to send messages using sign language.",
+            "sent4": "His eyes seemed to send a silent plea for help.",
+            "sent5": "The radio tower can send signals across long distances."
         },
         {
             "definition": "To cause to be in a particular state or condition.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The news of the accident sent her into a panic.",
+            "sent2": "The spicy food sent my taste buds into overdrive.",
+            "sent3": "The unexpected compliment sent him blushing.",
+            "sent4": "The music seemed to send her into a trance-like state.",
+            "sent5": "The storm can send the whole town into chaos."
         }
     ]
 }

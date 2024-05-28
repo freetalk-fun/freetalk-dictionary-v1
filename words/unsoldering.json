@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To remove solder from (a joint or connection)",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I am unsoldering the wires to fix the broken connection.",
+            "sent2": "The technician is unsoldering the old components to replace them with new ones.",
+            "sent3": "The robot tried unsoldering the wrong wires and caused a small spark.",
+            "sent4": "She unsoldered the mistake, allowing the circuit to function properly again.",
+            "sent5": "The process of unsoldering requires precision and patience to avoid damaging the circuit board."
         },
         {
             "definition": "The act of removing solder from a joint or connection",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The unsoldering of the old wires was necessary for the repair.",
+            "sent2": "I watched the unsoldering of the broken part with interest.",
+            "sent3": "The unsoldering process looked like a delicate dance of melting metal.",
+            "sent4": "The unsoldering revealed the faulty connection hidden beneath.",
+            "sent5": "The unsoldering tool made the task of fixing the device much easier."
         }
     ]
 }

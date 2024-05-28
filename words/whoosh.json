@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A sound made by something moving quickly through the air.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The whoosh of the wind through the trees was calming.",
+            "sent2": "I heard a whoosh as the car sped by.",
+            "sent3": "The whoosh of the rocket taking off startled the birds nearby.",
+            "sent4": "The whoosh of the waterfall drowned out all other sounds.",
+            "sent5": "The whoosh of the train passing by was so loud it shook the ground."
         },
         {
             "definition": "To move quickly with a rushing sound.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The roller coaster whooshed down the track.",
+            "sent2": "I whooshed past the other runners to take the lead.",
+            "sent3": "The kids whooshed down the slide with laughter.",
+            "sent4": "Time whooshed by as we enjoyed the sunny day.",
+            "sent5": "The wind whooshed through the open window, cooling the room."
         },
         {
             "definition": "To pass or move quickly.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The cars whooshed by on the highway.",
+            "sent2": "I whooshed through my chores to finish early.",
+            "sent3": "The cat whooshed past me chasing a butterfly.",
+            "sent4": "Thoughts whooshed through my mind as I tried to focus.",
+            "sent5": "The ball whooshed through the hoop, scoring the winning point."
         }
     ]
 }

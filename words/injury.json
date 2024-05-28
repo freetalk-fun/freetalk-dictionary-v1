@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Harm or damage caused to a person's body",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The athlete suffered an injury during the game.",
+            "sent2": "She went to the doctor after the injury from the fall.",
+            "sent3": "The injury from the clumsy dance move made everyone laugh.",
+            "sent4": "His heart felt an injury deeper than any physical pain.",
+            "sent5": "The injury left a visible mark on his arm."
         },
         {
             "definition": "An act that causes harm or damage",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The car accident resulted in a serious injury to the driver.",
+            "sent2": "The injury to the painting was caused by rough handling.",
+            "sent3": "The injury to the cake happened when the cat jumped on the table.",
+            "sent4": "His words were like an injury to her feelings.",
+            "sent5": "The injury to the tree was evident from the broken branches."
         },
         {
             "definition": "A violation of someone's rights or reputation",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The false accusation was an injury to his reputation.",
+            "sent2": "She felt an injury to her privacy when her diary was read.",
+            "sent3": "The injury to his rights was clear when he was denied a fair trial.",
+            "sent4": "The gossip caused an injury to her social standing.",
+            "sent5": "The injury to his reputation spread quickly through the town."
         }
     ]
 }

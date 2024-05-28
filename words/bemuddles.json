@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Confuses or muddles (someone or something)",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The complex instructions bemuddles the students.",
+            "sent2": "Too many choices can bemuddles a person trying to decide.",
+            "sent3": "Trying to follow the map without street names bemuddles the lost traveler.",
+            "sent4": "The conflicting advice from different sources bemuddles the new parents.",
+            "sent5": "The foggy weather bemuddles the pilot's sense of direction."
         },
         {
             "definition": "Becomes confused or muddled",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "When tired, my mind bemuddles and I can't focus.",
+            "sent2": "The plot of the movie bemuddles me, I can't follow it.",
+            "sent3": "His attempt at a joke bemuddles the audience, they don't get it.",
+            "sent4": "The many options available bemuddles her decision-making process.",
+            "sent5": "The conflicting information bemuddles her understanding of the topic."
         }
     ]
 }

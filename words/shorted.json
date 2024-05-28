@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To cause a short circuit in (an electrical device)",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I accidentally shorted the wires and the lights went out.",
+            "sent2": "He shorted the circuit by touching the exposed wires together.",
+            "sent3": "The robot shorted out when I connected the wrong cables - oops!",
+            "sent4": "Her quick thinking shorted the problem, and the machine sprang back to life.",
+            "sent5": "The thunderstorm shorted the entire neighborhood, leaving everyone in the dark."
         },
         {
             "definition": "To sell (a security) that one does not own",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She shorted the stock to make a profit when the price dropped.",
+            "sent2": "The investor shorted the company's shares before the market crash.",
+            "sent3": "He shorted the bond, hoping to buy it back at a lower price later.",
+            "sent4": "Shorting the security was a risky move, but it paid off in the end.",
+            "sent5": "The trader shorted the currency, anticipating a decline in its value."
         },
         {
             "definition": "To fall short of (a goal or expectation)",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I shorted my target time by a few seconds in the race.",
+            "sent2": "The team shorted their fundraising goal by a small margin.",
+            "sent3": "His attempt to bake a cake from scratch shorted when it collapsed in the oven.",
+            "sent4": "She felt like she shorted her potential by not pursuing her passion.",
+            "sent5": "The singer shorted the high note, disappointing the audience."
         }
     ]
 }

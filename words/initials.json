@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "The first letter of a person's first, middle, and last name, typically used to represent them in written form.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "My friend's initials are 'J.A.S.'",
+            "sent2": "She embroidered her initials on her backpack.",
+            "sent3": "I accidentally mixed up my initials with my brother's on our school papers.",
+            "sent4": "The initials on the old tree trunk symbolized the love shared by two people long ago.",
+            "sent5": "The detective identified the suspect by the initials engraved on the stolen watch."
         },
         {
             "definition": "A person's name, especially a famous person, represented by their initials.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The author signed the book with only his initials.",
+            "sent2": "Many people recognize the famous singer by her initials 'B.G.'",
+            "sent3": "It was a mystery novel where the culprit could only be identified by their initials.",
+            "sent4": "The initials 'JFK' are synonymous with the former president of the United States.",
+            "sent5": "The initials on the award stood for excellence and achievement in the field of science."
         },
         {
             "definition": "To mark or sign with one's initials as a way of identifying ownership or authorship.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Please initial each page of the contract before signing it.",
+            "sent2": "The artist carefully initialed each painting in the corner.",
+            "sent3": "I always forget to initial my belongings, and then I lose them at school.",
+            "sent4": "She initialed the document, sealing the deal with her personal touch.",
+            "sent5": "The author proudly initialed the first edition of his book before it became a bestseller."
         }
     ]
 }

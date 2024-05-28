@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To place or set in a specific position or location.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She will stell the books on the shelf.",
+            "sent2": "Please stell the vase on the table carefully.",
+            "sent3": "He tried to stell the cat in the dollhouse for fun.",
+            "sent4": "The artist will stell the sculpture in the center of the gallery.",
+            "sent5": "Remember to stell the key in the lock before leaving."
         },
         {
             "definition": "A star or celestial body.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Look at the stell shining brightly in the night sky.",
+            "sent2": "The telescope revealed a distant stell in the galaxy.",
+            "sent3": "The children made a wish upon the stell during the meteor shower.",
+            "sent4": "The stell guided the sailors safely through the stormy seas.",
+            "sent5": "The stell's light illuminated the dark forest."
         },
         {
             "definition": "A steel framework or structure.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The construction workers assembled the stell for the new building.",
+            "sent2": "The bridge's stell provided strong support for the cars passing over.",
+            "sent3": "The playground equipment was made of colorful stell beams.",
+            "sent4": "The stell of the skyscraper gleamed in the sunlight.",
+            "sent5": "The artist welded the stell pieces together to create a sculpture."
         }
     ]
 }

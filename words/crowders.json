@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Crowders (noun): A group of people or things that are crowded together.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The crowders at the concert were all cheering loudly.",
+            "sent2": "The city streets were filled with crowders during the parade.",
+            "sent3": "The crowders at the party made it hard to move around.",
+            "sent4": "The classroom was a sea of crowders, all eager to learn.",
+            "sent5": "The market was bustling with crowders shopping for fresh produce."
         },
         {
             "definition": "Crowders (verb): To push or force one's way through a crowd.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She had to crowders her way through the busy street to catch the bus.",
+            "sent2": "The performer had to crowders through the excited fans to reach the stage.",
+            "sent3": "He tried to crowders through the line, but it was too long.",
+            "sent4": "The determined athlete crowders through the defenders to score a goal.",
+            "sent5": "The explorer had to crowders through the dense jungle to reach the hidden temple."
         },
         {
             "definition": "Crowders (adjective): Describing a situation or place that is crowded with people or things.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The crowders market was bustling with activity.",
+            "sent2": "The crowders train was packed with commuters during rush hour.",
+            "sent3": "The crowders beach was full of families enjoying the sun.",
+            "sent4": "The crowders city streets were bustling with shoppers and tourists.",
+            "sent5": "The crowders restaurant was filled with hungry diners waiting for a table."
         }
     ]
 }

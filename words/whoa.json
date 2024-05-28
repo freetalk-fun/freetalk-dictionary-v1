@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Used to command a horse to stop or slow down.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Whoa, horse, stop!",
+            "sent2": "Whoa, slow down, horse!",
+            "sent3": "Whoa, horse, don't run too fast!",
+            "sent4": "The horse listened to the command 'whoa' and halted in its tracks.",
+            "sent5": "The cowboy shouted 'whoa' to the horse, bringing it to a sudden stop."
         },
         {
             "definition": "Used to express surprise or amazement.",
-            "pos": "interjection"
+            "pos": "interjection",
+            "sent1": "Whoa, that's amazing!",
+            "sent2": "Whoa, I can't believe it!",
+            "sent3": "Whoa, that surprise party was unexpected!",
+            "sent4": "Her talent made everyone go 'whoa' in awe.",
+            "sent5": "The magician's trick left the audience shouting 'whoa' in disbelief."
         },
         {
             "definition": "Used to indicate a sudden halt or pause.",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "Slowly walking, she suddenly said 'whoa'.",
+            "sent2": "He ran fast, then 'whoa', he stopped.",
+            "sent3": "The music played loudly, then 'whoa', silence.",
+            "sent4": "The car screeched to a 'whoa' stop at the red light.",
+            "sent5": "The conversation flowed smoothly until 'whoa', an awkward silence filled the room."
         }
     ]
 }

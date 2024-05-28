@@ -3,19 +3,39 @@
     "meanings": [
         {
             "definition": "Constituting number four in a sequence.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The fourth book on the shelf is red.",
+            "sent2": "She is the fourth child in her family.",
+            "sent3": "The fourth cupcake was too big to fit in the box.",
+            "sent4": "His fourth attempt at the puzzle finally succeeded.",
+            "sent5": "The fourth star from the left shone the brightest."
         },
         {
             "definition": "One of four equal parts.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I ate a fourth of the pizza for dinner.",
+            "sent2": "The cake was divided into four equal fourths.",
+            "sent3": "He won a prize for finding the hidden fourth in the game.",
+            "sent4": "The fourth of July is a special holiday in the United States.",
+            "sent5": "She saved a fourth of her allowance to buy a new toy."
         },
         {
             "definition": "The fourth gear in a vehicle.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The car smoothly shifted into fourth on the highway.",
+            "sent2": "He prefers driving in fourth when going uphill.",
+            "sent3": "The race car driver accidentally skipped fourth and went to fifth gear.",
+            "sent4": "The engine roared as he accelerated in fourth.",
+            "sent5": "The car's speed increased as it moved into fourth."
         },
         {
             "definition": "A quarter of an hour.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "She arrived at the meeting a fourth past the hour.",
+            "sent2": "He took a break for a fourth of an hour to relax.",
+            "sent3": "The movie will start in a fourth of an hour.",
+            "sent4": "They chatted for a fourth of an hour before leaving.",
+            "sent5": "The bus arrives every fourth of an hour at the stop."
         }
     ]
 }

@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Small",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The toy car was parvo compared to the real car.",
+            "sent2": "The parvo kitten fit in the palm of my hand.",
+            "sent3": "The parvo cupcake was too tiny to satisfy my hunger.",
+            "sent4": "His parvo backpack seemed to disappear in the sea of school bags.",
+            "sent5": "The parvo pebble skipped lightly across the water."
         },
         {
             "definition": "Inadequate",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The parvo amount of food left us hungry.",
+            "sent2": "Her parvo explanation did not clarify the situation.",
+            "sent3": "The parvo umbrella was no match for the heavy rain.",
+            "sent4": "His parvo skills were not enough to win the game.",
+            "sent5": "The parvo light in the room barely illuminated anything."
         },
         {
             "definition": "A highly contagious viral disease in dogs, especially puppies",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The veterinarian diagnosed the puppy with parvo.",
+            "sent2": "The shelter had to quarantine the dogs with parvo.",
+            "sent3": "The puppies with parvo were kept away from the healthy ones.",
+            "sent4": "The outbreak of parvo spread quickly through the kennel.",
+            "sent5": "The treatment for parvo required intensive care and monitoring."
         }
     ]
 }

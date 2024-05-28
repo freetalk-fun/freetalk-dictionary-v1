@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "The use of data from sensors to estimate the position and orientation of a moving object.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Odometry helps robots know where they are and how they are facing.",
+            "sent2": "The spaceship's odometry system calculated its exact location in space.",
+            "sent3": "The curious robot used odometry to figure out if it was upside down.",
+            "sent4": "In a world of uncertainty, odometry acts as a guiding compass for machines.",
+            "sent5": "The precision of odometry is crucial for autonomous vehicles to navigate safely."
         },
         {
             "definition": "The process of measuring the distance traveled by a vehicle.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The car's odometry showed it had driven 100 miles.",
+            "sent2": "Trucks often rely on odometry to track their journey's distance.",
+            "sent3": "The bicycle's odometry revealed it had circled the park ten times.",
+            "sent4": "Odometry is like a pedometer for vehicles, counting every move they make.",
+            "sent5": "Measuring odometry accurately is essential for logistics companies to plan routes efficiently."
         }
     ]
 }

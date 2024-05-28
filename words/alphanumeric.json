@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Consisting of both letters and numbers.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The password must be alphanumeric to ensure security.",
+            "sent2": "She created an alphanumeric code for the new lock.",
+            "sent3": "The alphanumeric puzzle was challenging but fun to solve.",
+            "sent4": "His mind was like an alphanumeric code, full of complexity.",
+            "sent5": "The alphanumeric nature of the code made it difficult to crack."
         },
         {
             "definition": "A character set that includes both letters and numbers.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The document required an alphanumeric for access.",
+            "sent2": "He used an alphanumeric to log into the system.",
+            "sent3": "The secret agent's mission involved decoding an alphanumeric.",
+            "sent4": "The alphanumeric on the screen seemed to dance before her eyes.",
+            "sent5": "The safe could only be opened with the correct alphanumeric."
         }
     ]
 }

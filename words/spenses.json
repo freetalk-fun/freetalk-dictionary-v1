@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Expenses - the cost required for something",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I need to keep track of my spenses to stay within my budget.",
+            "sent2": "She carefully calculated all her spenses for the month.",
+            "sent3": "My spenses seem to disappear as soon as I get paid!",
+            "sent4": "Her spenses weighed heavily on her mind as she tried to save money.",
+            "sent5": "Tracking your spenses can help you manage your finances better."
         },
         {
             "definition": "Dispenses - distribute or provide (a service or information)",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The vending machine dispenses snacks when you insert coins.",
+            "sent2": "He dispenses advice to anyone who asks for help.",
+            "sent3": "The robot dispenses candy to children at the store.",
+            "sent4": "She dispenses medicine to patients at the clinic.",
+            "sent5": "The teacher dispenses knowledge to eager students in the classroom."
         }
     ]
 }

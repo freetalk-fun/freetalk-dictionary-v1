@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Analyzing a sentence into its elements and describing their syntactic roles.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She enjoys parsing sentences to understand their structure.",
+            "sent2": "The computer program is capable of parsing complex sentences quickly.",
+            "sent3": "While parsing the sentence, he accidentally mixed up the subject and object.",
+            "sent4": "Her mind was like a skilled parser, breaking down the sentence effortlessly.",
+            "sent5": "The teacher's explanation on parsing made the concept crystal clear."
         },
         {
             "definition": "To analyze (a sentence) in terms of grammatical constituents, identifying the parts of speech, syntactic relations, etc.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He is currently parsing the sentence to identify the subject and predicate.",
+            "sent2": "Students learn about parsing sentences in their grammar class.",
+            "sent3": "The detective was parsing the suspect's alibi for any inconsistencies.",
+            "sent4": "Her ability to parse sentences quickly impressed her English teacher.",
+            "sent5": "The software's parsing feature helps users understand complex sentences."
         },
         {
             "definition": "To analyze (a string of characters) in order to associate groups of characters with the syntactic units of the underlying grammar.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The programmer is parsing the code to identify any syntax errors.",
+            "sent2": "Parsing the data is essential for the computer to understand the input.",
+            "sent3": "She was parsing the text message to decipher the hidden meaning.",
+            "sent4": "The linguist's mind worked like a skilled parser, unraveling the complex language.",
+            "sent5": "The algorithm's parsing function helps in breaking down the input efficiently."
         }
     ]
 }

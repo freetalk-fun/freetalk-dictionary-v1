@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To cut apart or separate into pieces",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The scientist dissected the frog in biology class.",
+            "sent2": "She carefully dissected the flower to study its parts.",
+            "sent3": "The chef dissected the cake into tiny slices for the party guests.",
+            "sent4": "The detective dissected the evidence to solve the mystery.",
+            "sent5": "The surgeon skillfully dissected the tumor during the operation."
         },
         {
             "definition": "Divided into segments or parts",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The dissected puzzle pieces were scattered on the table.",
+            "sent2": "The dissected map revealed hidden details of the terrain.",
+            "sent3": "The dissected book chapters made it easier to study for the exam.",
+            "sent4": "The dissected orange segments were perfect for snacking.",
+            "sent5": "The dissected worm wriggled in separate parts after the experiment."
         }
     ]
 }

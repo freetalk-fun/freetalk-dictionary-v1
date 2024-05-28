@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A rule that is subordinate to another rule.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The subrule stated that all employees must wear a uniform.",
+            "sent2": "The company handbook included a subrule about break times.",
+            "sent3": "The subrule requiring everyone to wear a hat on Fridays was a bit silly.",
+            "sent4": "The subrule on using only blue ink was a strict guideline.",
+            "sent5": "The subrule about no talking during meetings was easy to remember."
         },
         {
             "definition": "To establish a rule that is subordinate to another rule.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The manager decided to subrule that all reports must be submitted by Friday.",
+            "sent2": "She subruled that all team members must attend the training session.",
+            "sent3": "He subruled that everyone must bring a plant to work on Mondays for good luck.",
+            "sent4": "The teacher subruled that all homework must be completed in pencil.",
+            "sent5": "The coach subruled that all players must arrive 30 minutes early for practice."
         }
     ]
 }

@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A person who makes mistakes.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The mistakers in the class learned from their errors.",
+            "sent2": "She is known as the mistakers because she often forgets things.",
+            "sent3": "The mistakers at the party kept mixing up people's names.",
+            "sent4": "He was a true mistakers, always stumbling over his words.",
+            "sent5": "The little boy was a mistakers, but he never gave up trying to get things right."
         },
         {
             "definition": "To make a mistake.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Please be careful not to mistakers when solving the math problem.",
+            "sent2": "I mistakers when I accidentally deleted the important file.",
+            "sent3": "She mistakers by adding salt instead of sugar to the cake batter.",
+            "sent4": "The artist mistakers by using the wrong shade of blue in the painting.",
+            "sent5": "He always mistakers when trying to parallel park his car."
         }
     ]
 }

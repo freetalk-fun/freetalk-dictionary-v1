@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A person or company to whom goods or documents are sent for delivery or safekeeping.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The consignee eagerly awaited the arrival of the package.",
+            "sent2": "The consignee signed for the delivery of the goods.",
+            "sent3": "The consignee's excitement was palpable as they received the parcel.",
+            "sent4": "As the consignee of the treasure map, she held the key to hidden riches.",
+            "sent5": "The consignee's responsibility was to ensure the safekeeping of the valuable documents."
         },
         {
             "definition": "To assign or transfer goods to a consignee.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The company will consignee the products to the warehouse for distribution.",
+            "sent2": "He consigneed the artwork to the gallery for the upcoming exhibition.",
+            "sent3": "She consigneed the old furniture to her friend's antique shop.",
+            "sent4": "The farmer consigneed his harvest to the market for sale.",
+            "sent5": "They consigneed the shipment to the courier service for prompt delivery."
         }
     ]
 }

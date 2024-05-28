@@ -3,23 +3,48 @@
     "meanings": [
         {
             "definition": "Marked with a pattern of squares or crossed lines",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The tablecloth had a checked design in blue and white squares.",
+            "sent2": "She wore a checked shirt with black and red lines.",
+            "sent3": "The checked pattern on the floor made it look like a giant chessboard.",
+            "sent4": "The checked flag waved proudly at the finish line.",
+            "sent5": "The checked box on the form indicated completion."
         },
         {
             "definition": "Stopped or restrained",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The checked car skidded to a halt at the red light.",
+            "sent2": "The checked dog sat obediently by its owner's side.",
+            "sent3": "The checked horse refused to move another step.",
+            "sent4": "Her checked emotions finally burst forth in tears.",
+            "sent5": "The checked progress of the project worried the team."
         },
         {
             "definition": "Verified or confirmed",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The checked information matched the data in the report.",
+            "sent2": "The checked details in the document were accurate.",
+            "sent3": "She double-checked the address to make sure it was correct.",
+            "sent4": "The checked ticket allowed him entry to the event.",
+            "sent5": "The checked facts supported his argument."
         },
         {
             "definition": "Halted or controlled",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He checked his bike before riding to ensure it was safe.",
+            "sent2": "The police officer checked the speeding car on the highway.",
+            "sent3": "She quickly checked her impulse to shout in anger.",
+            "sent4": "The sudden rain checked their progress on the hike.",
+            "sent5": "The doctor checked the patient's pulse to monitor their condition."
         },
         {
             "definition": "Inspected or examined",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She checked the document for any errors before submitting it.",
+            "sent2": "The mechanic checked the engine to find the problem.",
+            "sent3": "He checked the package to see if it was damaged during shipping.",
+            "sent4": "The teacher checked the students' homework for completion.",
+            "sent5": "The detective checked the crime scene for any clues."
         }
     ]
 }

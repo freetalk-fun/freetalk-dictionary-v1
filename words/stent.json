@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A tube inserted into a natural passage or conduit in the body to prevent or counteract a disease-induced, localized flow constriction.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The doctor placed a stent in the patient's artery to keep it open.",
+            "sent2": "The stent helped improve blood flow in the blocked vessel.",
+            "sent3": "The stent in the pipe made the water flow smoothly again.",
+            "sent4": "Like a tiny guardrail, the stent protected the narrow passage.",
+            "sent5": "The shiny stent acted like a tiny tunnel for the blood to pass through."
         },
         {
             "definition": "To insert a stent into a natural passage or conduit in the body.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The surgeon will stent the blocked artery to restore circulation.",
+            "sent2": "Doctors often stent to alleviate blockages in blood vessels.",
+            "sent3": "I will stent the hose to ensure water flows freely.",
+            "sent4": "She carefully stented the tube to prevent any leaks.",
+            "sent5": "Stenting the pipe was necessary to maintain proper function."
         }
     ]
 }

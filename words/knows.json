@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To be aware of the truth or fact of something",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She knows the answer to the question.",
+            "sent2": "He knows where the library is located.",
+            "sent3": "The cat knows when it's time for dinner.",
+            "sent4": "The detective knows all the secrets of the case.",
+            "sent5": "The teacher knows how to explain difficult concepts clearly."
         },
         {
             "definition": "To have knowledge or information about something",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "My friend knows a lot about history.",
+            "sent2": "I know the recipe for chocolate chip cookies.",
+            "sent3": "The computer knows all my passwords.",
+            "sent4": "The scientist knows the inner workings of the human body.",
+            "sent5": "The tour guide knows the best spots to visit in the city."
         },
         {
             "definition": "To be acquainted or familiar with someone or something",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She knows her way around the neighborhood.",
+            "sent2": "He knows his classmates well.",
+            "sent3": "The dog knows the sound of its owner's car.",
+            "sent4": "The actor knows the script by heart.",
+            "sent5": "The gardener knows the names of all the plants in the garden."
         }
     ]
 }

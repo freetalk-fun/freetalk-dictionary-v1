@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A graph in which the values of two variables are plotted along two axes, the pattern of the resulting points revealing any correlation present.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I drew a scattergram to show how the numbers relate to each other.",
+            "sent2": "Scientists often use scattergrams to analyze data and find patterns.",
+            "sent3": "The scattergram looked like a constellation of numbers in the night sky.",
+            "sent4": "Her mind was a scattergram of thoughts, each point connecting to another.",
+            "sent5": "The scattergram painted a clear picture of the relationship between the variables."
         },
         {
             "definition": "To plot data points on a scattergram.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She scattergrams the data to visualize the trends.",
+            "sent2": "Students scattergram their results to see if there's a trend.",
+            "sent3": "He scattergrams with such precision, it's like watching an artist at work.",
+            "sent4": "The way she scattergrams the information is like creating a map of connections.",
+            "sent5": "When you scattergram the points, the patterns become clearer."
         }
     ]
 }

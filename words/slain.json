@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Killed",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The dragon was slain by the brave knight.",
+            "sent2": "The hunter had slain a deer for his family's dinner.",
+            "sent3": "The evil sorcerer was slain by a magical spell rebounding on him.",
+            "sent4": "In the video game, the final boss must be slain to complete the quest.",
+            "sent5": "Legends tell of a hero who slew a mighty beast that had been terrorizing the village."
         },
         {
             "definition": "Defeated",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The defeated army retreated from the battlefield.",
+            "sent2": "After a long struggle, the team felt defeated but not discouraged.",
+            "sent3": "The defeated wrestler graciously congratulated his opponent on the win.",
+            "sent4": "The defeated candidate accepted the election results with dignity.",
+            "sent5": "Despite feeling defeated, she vowed to try again and never give up."
         },
         {
             "definition": "Murdered",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The wealthy businessman was slain in his own home during a robbery.",
+            "sent2": "The detective was determined to solve the case of the slain heiress.",
+            "sent3": "The mystery novel's plot revolved around the slain actress and her secrets.",
+            "sent4": "The slain victim's family sought justice for the senseless crime.",
+            "sent5": "The news of the slain politician shocked the entire nation."
         }
     ]
 }

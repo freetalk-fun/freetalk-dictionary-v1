@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A visual representation or image produced by painting, drawing, photography, etc.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I love looking at the pictures in my favorite storybook.",
+            "sent2": "She keeps family pictures on the wall to remember special moments.",
+            "sent3": "The cat tried to catch the pictures on the TV screen.",
+            "sent4": "His words painted vivid pictures of the ancient city in my mind.",
+            "sent5": "The artist's brush strokes created beautiful pictures of nature."
         },
         {
             "definition": "A mental image or impression.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "When I close my eyes, I can see pictures of the beach.",
+            "sent2": "The scary movie left lasting pictures of ghosts in my mind.",
+            "sent3": "I can't forget the funny pictures of the clown dancing in my dreams.",
+            "sent4": "Her words painted pictures of success and happiness in my thoughts.",
+            "sent5": "The memory of her smile created warm pictures in my imagination."
         },
         {
             "definition": "A vivid or realistic description.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The author's book provided clear pictures of the characters' emotions.",
+            "sent2": "The tour guide's words painted pictures of the historical events.",
+            "sent3": "The exaggerated pictures of the fisherman's catch made everyone laugh.",
+            "sent4": "His storytelling skills created vivid pictures of the adventure in my mind.",
+            "sent5": "The detailed pictures of the landscape made me feel like I was there."
         }
     ]
 }

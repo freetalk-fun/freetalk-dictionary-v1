@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A compound of nitrogen with a more electropositive element or group.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The scientist studied the properties of various nitrides in the lab.",
+            "sent2": "Nitrides are commonly used in the manufacturing of semiconductors.",
+            "sent3": "The nitrides at the bottom of the test tube seemed to be having a party.",
+            "sent4": "The nitrides in the alloy acted like tiny magnets, attracting other elements.",
+            "sent5": "Under the microscope, the nitrides appeared like tiny sparkling gems."
         },
         {
             "definition": "To treat or combine with nitrogen or a nitride.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The company nitrides the steel to enhance its durability.",
+            "sent2": "It is important to nitride the soil to improve crop growth.",
+            "sent3": "The chef decided to nitride the vegetables for a unique flavor twist.",
+            "sent4": "The artist nitrides the paint with a special chemical for a vibrant hue.",
+            "sent5": "The mechanic nitrides the metal parts to make them corrosion-resistant."
         }
     ]
 }

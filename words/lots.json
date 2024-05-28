@@ -3,19 +3,39 @@
     "meanings": [
         {
             "definition": "A large number or amount",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "There were lots of apples in the basket.",
+            "sent2": "She had lots of toys in her room.",
+            "sent3": "The party had lots of balloons, making it colorful.",
+            "sent4": "Her laughter filled the room with lots of joy.",
+            "sent5": "The field was covered with lots of flowers, creating a beautiful sight."
         },
         {
             "definition": "A piece of land used for a specific purpose",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The farmer owned a lot of land for farming.",
+            "sent2": "The school playground was a lot for playing.",
+            "sent3": "The park had a lot of trees for shade.",
+            "sent4": "Her mind was a lot of fertile soil for new ideas.",
+            "sent5": "The garden was a lot of greenery in the urban area."
         },
         {
             "definition": "A group of items sold together at an auction",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The antique vase was part of a lot at the auction.",
+            "sent2": "He bid on a lot of old books at the sale.",
+            "sent3": "The lot of paintings fetched a high price at the auction.",
+            "sent4": "The lot of jewelry sparkled under the auction lights.",
+            "sent5": "The lot of furniture included a beautiful antique chair."
         },
         {
             "definition": "To divide into lots for sale or distribution",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The real estate agent will lots the property for sale.",
+            "sent2": "They decided to lots the items for charity.",
+            "sent3": "She will lots the cookies into small bags for sharing.",
+            "sent4": "The company plans to lots the products for shipment.",
+            "sent5": "He carefully lots the candies into equal portions for the kids."
         }
     ]
 }

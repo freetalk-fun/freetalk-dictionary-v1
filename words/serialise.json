@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To arrange or present in a series.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I will serialise the story by putting the events in order.",
+            "sent2": "She likes to serialise her drawings to show the progression of her art.",
+            "sent3": "The teacher decided to serialise the lesson plan for better understanding.",
+            "sent4": "He managed to serialise the tasks, making the workload more manageable.",
+            "sent5": "Serialising the tasks made it easier to track their completion."
         },
         {
             "definition": "To publish or broadcast in installments.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The author will serialise the novel in weekly chapters.",
+            "sent2": "They plan to serialise the documentary over several episodes.",
+            "sent3": "The radio station will serialise the drama for the listeners' enjoyment.",
+            "sent4": "She decided to serialise her podcast to keep the audience engaged.",
+            "sent5": "Serialising the show created anticipation for the next episode."
         },
         {
             "definition": "To convert data into a series of bits for transmission.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The computer will serialise the information before sending it.",
+            "sent2": "It is important to serialise the data accurately to avoid errors.",
+            "sent3": "The scientist had to serialise the findings before sharing them.",
+            "sent4": "The software can serialise the files quickly for efficient transfer.",
+            "sent5": "Serialising the files ensures they are transmitted correctly."
         }
     ]
 }

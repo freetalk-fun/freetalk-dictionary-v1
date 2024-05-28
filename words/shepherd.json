@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A person who herds and tends sheep.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The shepherd watched over the flock of sheep in the meadow.",
+            "sent2": "The shepherd led the sheep to the pasture for grazing.",
+            "sent3": "The shepherd told a funny story to the sheep to keep them entertained.",
+            "sent4": "The shepherd's care for the sheep was like a protective shield.",
+            "sent5": "The shepherd's whistle echoed through the hills, calling the sheep home."
         },
         {
             "definition": "To guide or direct in a particular direction.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Shepherd the lost hikers back to the main trail.",
+            "sent2": "The teacher shepherded the students to the assembly hall.",
+            "sent3": "The tour guide shepherded the tourists with a playful dance.",
+            "sent4": "Her words shepherded him towards making the right decision.",
+            "sent5": "The traffic officer shepherded the cars through the busy intersection."
         }
     ]
 }

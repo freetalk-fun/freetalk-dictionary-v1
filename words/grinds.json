@@ -3,23 +3,30 @@
     "meanings": [
         {
             "definition": "To crush into powder or small pieces",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She grinds the coffee beans to make a fresh cup every morning.",
+            "sent2": "The millstone grinds the wheat into flour for baking bread.",
+            "sent3": "The noisy blender grinds the ice cubes for a refreshing smoothie.",
+            "sent4": "Time grinds away at the ancient stone, shaping it into a smooth sculpture.",
+            "sent5": "The relentless waves grind the rocks along the shore into fine sand."
         },
         {
             "definition": "To rub together with a harsh noise",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The rusty door hinge grinds loudly when opened.",
+            "sent2": "The gears in the old clock grind against each other, creating a loud noise.",
+            "sent3": "The car brakes grind as the driver tries to stop suddenly.",
+            "sent4": "The windmill blades grind against the strong wind, producing a rhythmic sound.",
+            "sent5": "The skateboard wheels grind against the metal rail, making a screeching noise."
         },
         {
             "definition": "To perform repetitive tasks or work diligently",
-            "pos": "verb"
-        },
-        {
-            "definition": "A person who works hard or diligently",
-            "pos": "noun"
-        },
-        {
-            "definition": "The act of grinding or crushing into powder",
-            "pos": "noun"
+            "pos": "verb",
+            "sent1": "He grinds through his homework every evening to finish before dinner.",
+            "sent2": "The dedicated chef grinds in the kitchen, preparing meals for the customers.",
+            "sent3": "The factory workers grind tirelessly to meet the production deadline.",
+            "sent4": "The athlete grinds through intense training sessions to improve his performance.",
+            "sent5": "She grinds away at her studies, aiming to excel in her exams."
         }
     ]
 }

@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Past tense of throw.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Yesterday, she threw the ball to her friend.",
+            "sent2": "He threw the paper airplane across the room.",
+            "sent3": "The cat threw the toy mouse off the table.",
+            "sent4": "The storm threw branches all over the yard.",
+            "sent5": "The chef skillfully threw the pizza dough in the air."
         },
         {
             "definition": "To propel something with force through the air.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The pitcher threw the baseball with great speed.",
+            "sent2": "She threw the frisbee to her dog at the park.",
+            "sent3": "The strong wind threw the leaves around in circles.",
+            "sent4": "The volcano threw ash high into the sky.",
+            "sent5": "The child excitedly threw the kite into the air."
         },
         {
             "definition": "To cast something aside forcefully.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He angrily threw his phone on the bed.",
+            "sent2": "She threw the broken toy in the trash.",
+            "sent3": "The magician theatrically threw the cape off his shoulders.",
+            "sent4": "The wrestler threw his opponent out of the ring.",
+            "sent5": "The teacher threw the old textbooks into the recycling bin."
         }
     ]
 }

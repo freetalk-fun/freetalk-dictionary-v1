@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To be chemically adsorbed onto a surface.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The molecules were chemosorbed onto the metal surface.",
+            "sent2": "The chemicals chemosorbed onto the glass slide.",
+            "sent3": "The tiny particles chemosorbed onto the paper, creating a colorful pattern.",
+            "sent4": "The ideas chemosorbed into her mind, sparking creativity.",
+            "sent5": "The paint chemosorbed onto the canvas, forming a beautiful image."
         },
         {
             "definition": "The act of chemically bonding to a surface.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The chemosorption of the molecules onto the surface was crucial for the experiment.",
+            "sent2": "The chemosorbed layer on the material enhanced its properties.",
+            "sent3": "The unexpected chemosorbed reaction caused a stir in the scientific community.",
+            "sent4": "The chemosorbed particles formed a strong bond with the substrate.",
+            "sent5": "The presence of chemosorbed elements changed the surface characteristics dramatically."
         }
     ]
 }

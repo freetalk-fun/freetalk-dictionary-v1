@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To display or exhibit",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The magician shows a trick to the audience.",
+            "sent2": "The museum shows ancient artifacts to visitors.",
+            "sent3": "The cat shows off its new toy to the other pets.",
+            "sent4": "The sunrise shows its vibrant colors over the horizon.",
+            "sent5": "The teacher shows the correct way to solve the math problem."
         },
         {
             "definition": "To indicate or reveal",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The dark clouds shows that a storm is coming.",
+            "sent2": "His smile shows his happiness.",
+            "sent3": "The map shows the way to the hidden treasure.",
+            "sent4": "The thermometer shows the temperature dropping rapidly.",
+            "sent5": "The detective's evidence shows who committed the crime."
         },
         {
             "definition": "A performance or presentation, especially on stage or screen",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The school play was one of the best shows of the year.",
+            "sent2": "We enjoyed watching the circus show with acrobats and clowns.",
+            "sent3": "The TV show about animals always makes us laugh.",
+            "sent4": "The fashion show displayed the latest trends in clothing.",
+            "sent5": "The talent show at the fair had singers, dancers, and magicians."
         }
     ]
 }

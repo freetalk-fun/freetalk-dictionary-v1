@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Most frequently; most often",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "She visits her grandmother oftest on weekends.",
+            "sent2": "He oftest goes for a run in the morning.",
+            "sent3": "The cat oftest naps in the sunniest spot in the house.",
+            "sent4": "The flowers bloom oftest in the springtime.",
+            "sent5": "The alarm clock rings oftest in the early hours of the day."
         },
         {
             "definition": "Used most frequently",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The oftest route to the park is through the shortcut.",
+            "sent2": "This is the oftest choice for our family gatherings.",
+            "sent3": "The oftest color she wears is blue.",
+            "sent4": "His oftest excuse for being late is traffic.",
+            "sent5": "The oftest visitor to the garden is the friendly squirrel."
         }
     ]
 }

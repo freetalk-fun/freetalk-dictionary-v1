@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A sweet or savory food item, typically given as a reward or indulgence.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I love to eat treats like cookies and ice cream.",
+            "sent2": "She shared some treats with her friends during the party.",
+            "sent3": "The cat's favorite treats are tuna-flavored snacks.",
+            "sent4": "The bakery displayed a variety of colorful treats in the window.",
+            "sent5": "The smell of freshly baked treats filled the kitchen."
         },
         {
             "definition": "To behave towards someone in a specified way.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He treats his friends with kindness and respect.",
+            "sent2": "The teacher treats all students fairly in the classroom.",
+            "sent3": "The magician treats the audience to a spectacular show.",
+            "sent4": "The coach treats every player as an important part of the team.",
+            "sent5": "She treats her guests like royalty when they visit."
         },
         {
             "definition": "To handle, deal with, or discuss a subject in a specified way.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The doctor treats patients with care and expertise.",
+            "sent2": "The lawyer treats each case with thorough research and preparation.",
+            "sent3": "The comedian treats serious topics with humor and wit.",
+            "sent4": "The teacher treats difficult questions with patience and encouragement.",
+            "sent5": "The chef treats each ingredient with precision and creativity."
         }
     ]
 }

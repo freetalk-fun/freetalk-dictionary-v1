@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A communication containing information",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "She received a message from her friend inviting her to the party.",
+            "sent2": "The message on the sign was clear and easy to understand.",
+            "sent3": "The message from the teacher about the surprise test made the students nervous.",
+            "sent4": "The message in the bottle washed ashore, bringing hope to the stranded sailor.",
+            "sent5": "The urgent message from the boss left everyone scrambling to meet the deadline."
         },
         {
             "definition": "To send a message to someone",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He messaged his friend to let him know about the change in plans.",
+            "sent2": "She messages her family every day to stay connected.",
+            "sent3": "The cat messaged its owner by knocking over the vase.",
+            "sent4": "The music messaged a sense of calm and relaxation to the listeners.",
+            "sent5": "The flowers messaged a feeling of joy and beauty to all who passed by."
         },
         {
             "definition": "A verbal, written, or recorded communication sent to someone",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The voicemail message was left by her boss regarding the upcoming meeting.",
+            "sent2": "He sent a message to his pen pal in another country.",
+            "sent3": "The message in the book was about the importance of kindness.",
+            "sent4": "The message in the song resonated with listeners on a deep emotional level.",
+            "sent5": "The handwritten message on the card brought a smile to her face."
         }
     ]
 }

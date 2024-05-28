@@ -3,23 +3,48 @@
     "meanings": [
         {
             "definition": "Expressing motion in the direction of a particular location.",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "She walked to the park.",
+            "sent2": "He ran to catch the bus.",
+            "sent3": "The cat sprinted to its cozy bed.",
+            "sent4": "The river flowed to the vast ocean.",
+            "sent5": "The bird flew to the treetop."
         },
         {
             "definition": "Used to indicate the recipient of an action.",
-            "pos": "pronoun"
+            "pos": "pronoun",
+            "sent1": "I gave the gift to her.",
+            "sent2": "They sent a letter to us.",
+            "sent3": "The teacher handed the award to him.",
+            "sent4": "The chef presented the dish to them.",
+            "sent5": "The kind stranger offered help to me."
         },
         {
             "definition": "Used to indicate the infinitive form of a verb.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She likes to sing.",
+            "sent2": "He wants to play.",
+            "sent3": "The dog seems to bark loudly.",
+            "sent4": "The baby learns to walk.",
+            "sent5": "The students need to study."
         },
         {
             "definition": "Used to express comparison or proportion.",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "She is taller than him.",
+            "sent2": "The cake is sweeter than the pie.",
+            "sent3": "His excitement is greater than mine.",
+            "sent4": "The journey seemed longer than expected.",
+            "sent5": "The colors are brighter than before."
         },
         {
             "definition": "Used to indicate a range or limit.",
-            "pos": "preposition"
+            "pos": "preposition",
+            "sent1": "The store is open from 9 to 5.",
+            "sent2": "The bookshelf can hold up to 50 books.",
+            "sent3": "The temperature ranges from hot to cold.",
+            "sent4": "The price varies from $10 to $20.",
+            "sent5": "The path leads from the forest to the meadow."
         }
     ]
 }

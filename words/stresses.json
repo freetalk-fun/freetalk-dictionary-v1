@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Pressure or tension exerted on a material object.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The heavy book's weight caused stresses on the fragile table.",
+            "sent2": "The bridge collapsed due to the stresses of the strong winds.",
+            "sent3": "The stresses from the massive pile of books made the shelf groan.",
+            "sent4": "The stresses on the rubber band were too much, and it snapped.",
+            "sent5": "The stresses on the old rope finally caused it to break."
         },
         {
             "definition": "Mental or emotional strain or tension.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The constant worries about the exam created stresses for the student.",
+            "sent2": "She felt overwhelmed by the stresses of her demanding job.",
+            "sent3": "The silly stresses of choosing an ice cream flavor made them laugh.",
+            "sent4": "The stresses of the upcoming performance felt like a heavy weight.",
+            "sent5": "The stresses of the argument lingered in the air."
         },
         {
             "definition": "Emphasize (a particular point, fact, or detail).",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The teacher stresses the importance of studying for the test.",
+            "sent2": "He always stresses the need for punctuality in meetings.",
+            "sent3": "She stresses the color blue in her artwork to make it pop.",
+            "sent4": "The speaker stresses the significance of environmental conservation.",
+            "sent5": "The coach stresses teamwork to achieve success."
         }
     ]
 }

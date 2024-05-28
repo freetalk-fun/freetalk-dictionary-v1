@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Grass that has been mown and dried for use as fodder.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The farmer stored the hay in the barn for the cows.",
+            "sent2": "The horses happily ate the hay in the field.",
+            "sent3": "Why did the chicken bring a pillow to the hay party?",
+            "sent4": "The hay was a golden blanket covering the meadow.",
+            "sent5": "The sweet smell of fresh hay filled the air."
         },
         {
             "definition": "To make hay.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The farmer will hay the grass tomorrow.",
+            "sent2": "She enjoys haying in the summer sun.",
+            "sent3": "Why did the scarecrow try to hay the clouds away?",
+            "sent4": "He hays his troubles into bales of determination.",
+            "sent5": "The children watched the farmer hay with fascination."
         }
     ]
 }

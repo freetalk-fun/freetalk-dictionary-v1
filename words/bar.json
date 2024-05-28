@@ -3,19 +3,39 @@
     "meanings": [
         {
             "definition": "A long, narrow piece of solid material",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The metal bar was heavy.",
+            "sent2": "She used a wooden bar to secure the door.",
+            "sent3": "The monkey swung from the bar with ease.",
+            "sent4": "The bar of soap slipped from her hands.",
+            "sent5": "The chocolate bar broke in half with a snap."
         },
         {
             "definition": "A place where alcoholic beverages are served",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The bar was crowded with people chatting.",
+            "sent2": "He ordered a beer at the bar.",
+            "sent3": "The bartender juggled bottles behind the bar.",
+            "sent4": "The neon sign outside the bar flickered in the night.",
+            "sent5": "The music at the bar was too loud to hear conversations."
         },
         {
             "definition": "To prevent or prohibit",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She tried to bar him from entering the room.",
+            "sent2": "The gate was barred shut for safety.",
+            "sent3": "The sign on the door barred entry after hours.",
+            "sent4": "His fear barred him from taking risks.",
+            "sent5": "The heavy chains barred the path forward."
         },
         {
             "definition": "A unit of pressure equal to one million dynes per square centimeter",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The scientist measured the pressure in bars.",
+            "sent2": "The machine displayed the reading in bars.",
+            "sent3": "The bar on the gauge showed a high value.",
+            "sent4": "The diver checked the barometer before descending.",
+            "sent5": "The bar indicated a safe level of pressure."
         }
     ]
 }

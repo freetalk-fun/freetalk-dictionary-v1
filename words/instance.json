@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "An example or single occurrence of something.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "In that instance, the cat chased the mouse.",
+            "sent2": "She had never seen such an instance of kindness before.",
+            "sent3": "The instance of the dog wearing sunglasses was quite amusing.",
+            "sent4": "His sudden outburst was an instance of bottled-up emotions exploding.",
+            "sent5": "The instance of the rainbow after the storm was truly beautiful."
         },
         {
             "definition": "A particular case or situation.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "In this instance, we must act quickly to prevent further damage.",
+            "sent2": "The instance of the power outage affected the entire neighborhood.",
+            "sent3": "The instance of the cat getting stuck in a tree was quite unexpected.",
+            "sent4": "Her success in the competition was an instance of hard work paying off.",
+            "sent5": "The instance of the car breaking down on the highway caused a lot of inconvenience."
         },
         {
             "definition": "To cite as an example.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I will instance the importance of wearing a helmet while biking.",
+            "sent2": "She likes to instance her favorite book when discussing storytelling techniques.",
+            "sent3": "He would often instance his grandmother's wise sayings during conversations.",
+            "sent4": "The teacher instances the benefits of studying regularly to motivate the students.",
+            "sent5": "It is important to instance the dangers of texting while driving to raise awareness."
         }
     ]
 }

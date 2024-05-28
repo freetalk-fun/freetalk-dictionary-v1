@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Understand",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I hope you capisce the instructions clearly.",
+            "sent2": "She always capisce the lesson after studying hard.",
+            "sent3": "If you don't capisce, just ask for help.",
+            "sent4": "Her face capisce the complexity of the situation.",
+            "sent5": "He finally capisce the importance of time management."
         },
         {
             "definition": "Do you understand?",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Capisce why we need to finish this project on time?",
+            "sent2": "I explained it twice, capisce now?",
+            "sent3": "Capisce the joke I just told you?",
+            "sent4": "Capisce the urgency of the situation we're in?",
+            "sent5": "Capisce the consequences of your actions."
         },
         {
             "definition": "Got it?",
-            "pos": "interjection"
+            "pos": "interjection",
+            "sent1": "Capisce that we need to leave now?",
+            "sent2": "Capisce the plan for tonight?",
+            "sent3": "Capisce why we can't stay longer?",
+            "sent4": "Capisce the reason for the sudden change?",
+            "sent5": "Capisce the surprise waiting for you."
         }
     ]
 }

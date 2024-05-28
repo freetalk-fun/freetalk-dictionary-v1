@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To check again for accuracy or correctness.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She always rechecks her homework to make sure there are no mistakes.",
+            "sent2": "He rechecks the locks on the doors before going to bed every night.",
+            "sent3": "The detective rechecks the crime scene, hoping to find a clue he missed before.",
+            "sent4": "Like a diligent editor, she rechecks every detail of the manuscript before sending it to print.",
+            "sent5": "Before submitting the report, he rechecks all the data to ensure its accuracy."
         },
         {
             "definition": "The act of checking again for accuracy or correctness.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Double rechecks are necessary in important tasks to avoid errors.",
+            "sent2": "After the initial inspection, a rechecks is done to confirm the findings.",
+            "sent3": "The teacher's constant rechecks of the students' work became a running joke in the classroom.",
+            "sent4": "The rechecks of the safety equipment revealed a flaw that needed immediate attention.",
+            "sent5": "The rechecks of the calculations uncovered a small mistake that changed the entire result."
         }
     ]
 }

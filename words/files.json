@@ -3,19 +3,39 @@
     "meanings": [
         {
             "definition": "A collection of papers or documents stored together.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "My desk is cluttered with files of important documents.",
+            "sent2": "The office manager organized the files alphabetically for easy access.",
+            "sent3": "I accidentally spilled coffee on the files, creating a messy situation.",
+            "sent4": "Her mind was like a well-organized files cabinet, each memory neatly stored away.",
+            "sent5": "The files in the drawer rustled as I searched for the missing report."
         },
         {
             "definition": "To arrange papers or documents in a systematic way.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She files the invoices in separate folders for each month.",
+            "sent2": "It is important to regularly file important paperwork to avoid clutter.",
+            "sent3": "He files the papers with such precision that it almost looks like art.",
+            "sent4": "The students filed into the classroom, ready for the lesson to begin.",
+            "sent5": "The secretary quickly files the new documents in the filing cabinet."
         },
         {
             "definition": "To move swiftly in a straight line.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The car files down the highway, leaving a trail of dust behind.",
+            "sent2": "The athlete files towards the finish line, determined to win the race.",
+            "sent3": "The bird files through the sky, its wings cutting through the air effortlessly.",
+            "sent4": "Time files by when you're having fun, making the day seem shorter.",
+            "sent5": "The arrow files through the air, hitting the target with precision."
         },
         {
             "definition": "A tool with a rough surface for smoothing or shaping objects.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The carpenter used a files to smooth the rough edges of the wood.",
+            "sent2": "She bought a new files to help with her pottery sculpting.",
+            "sent3": "The files in the workshop were essential for shaping the metal pieces.",
+            "sent4": "The sculptor's hands moved like a files, shaping the clay into a beautiful vase.",
+            "sent5": "The artist carefully used the files to create intricate designs on the metal surface."
         }
     ]
 }

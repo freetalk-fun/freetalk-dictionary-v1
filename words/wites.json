@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To know",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She wites the answer to the question.",
+            "sent2": "I wites where the keys are kept.",
+            "sent3": "The detective wites the culprit's identity.",
+            "sent4": "He wites the secret code to unlock the safe.",
+            "sent5": "The wise owl wites the location of the hidden treasure."
         },
         {
             "definition": "To blame",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "They wites their friend for the broken vase.",
+            "sent2": "The teacher wites the student for not completing the homework.",
+            "sent3": "The siblings wites each other for the missing cookies.",
+            "sent4": "The boss wites the employee for the project delay.",
+            "sent5": "The coach wites the player for the team's loss."
         },
         {
             "definition": "Punishment or penalty",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The criminal faced severe wites for the crime.",
+            "sent2": "He paid the wites for parking in the wrong spot.",
+            "sent3": "The student received wites for being late to class.",
+            "sent4": "The company had to pay hefty wites for violating regulations.",
+            "sent5": "The athlete accepted the wites for doping."
         }
     ]
 }

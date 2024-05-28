@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "An empty space; emptiness.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The dark voids of space seemed endless.",
+            "sent2": "The room was filled with voids after the furniture was removed.",
+            "sent3": "The voids in the puzzle made it impossible to complete.",
+            "sent4": "Her eyes stared into the voids of the abandoned building.",
+            "sent5": "The voids in the clouds allowed the sun to peek through."
         },
         {
             "definition": "To cancel or nullify.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She voids the contract due to a breach of agreement.",
+            "sent2": "Please void the incorrect transaction and issue a refund.",
+            "sent3": "He voids his promise to clean his room every week.",
+            "sent4": "The storm voids any plans for a picnic this weekend.",
+            "sent5": "The judge voids the decision and orders a retrial."
         },
         {
             "definition": "Lacking in legal force or effect.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The voids document had no signature and was invalid.",
+            "sent2": "The contract became voids after the deadline passed.",
+            "sent3": "His excuse for being late was voids in the eyes of the teacher.",
+            "sent4": "The old law was voids and needed to be updated.",
+            "sent5": "The warranty became voids once the product was tampered with."
         }
     ]
 }

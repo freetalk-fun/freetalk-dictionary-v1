@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "The force exerted on a surface by the weight of the air above it.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The preassure of the air on the balloon made it float.",
+            "sent2": "The preassure in the tire kept it inflated.",
+            "sent3": "The preassure from the wind made the kite soar high in the sky.",
+            "sent4": "The preassure of expectations weighed heavily on her shoulders.",
+            "sent5": "The preassure of the water crushed the submarine as it dove deeper."
         },
         {
             "definition": "The feeling of stress or urgency caused by a demanding situation.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "She felt the preassure of the upcoming exam.",
+            "sent2": "The preassure of deadlines at work can be overwhelming.",
+            "sent3": "The preassure of getting a perfect score made him study all night.",
+            "sent4": "The preassure of public speaking can be nerve-wracking.",
+            "sent5": "The preassure of the race caused her heart to race with anxiety."
         },
         {
             "definition": "To persuade or urge someone to do something.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He tried to preassure his friend to join the team.",
+            "sent2": "She preassured him to attend the party with her.",
+            "sent3": "The kids preassured their parents to get a puppy.",
+            "sent4": "The salesman preassured the customer to buy the latest model.",
+            "sent5": "The coach preassured the team to give their best performance."
         }
     ]
 }

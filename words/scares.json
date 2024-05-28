@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To cause fear or frighten",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The loud noise scares the cat.",
+            "sent2": "The horror movie scares me every time.",
+            "sent3": "The prankster scares his friends for fun.",
+            "sent4": "The dark shadows in the forest scares me like a ghost.",
+            "sent5": "The sudden thunderstorm scares the children at the park."
         },
         {
             "definition": "A sudden feeling of fear or alarm",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Her scream was a scare in the quiet night.",
+            "sent2": "Getting lost in the maze gave me a scare.",
+            "sent3": "The surprise party was a good scare for him.",
+            "sent4": "The haunted house visit was a scare to remember.",
+            "sent5": "The unexpected visitor at night gave me a big scare."
         },
         {
             "definition": "An instance of causing fear or alarm",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The ghost costume was a scare for the kids.",
+            "sent2": "The prank was a harmless scare for everyone.",
+            "sent3": "The fake spider on her desk was a little scare.",
+            "sent4": "The sudden blackout was a scare during the storm.",
+            "sent5": "The loud bang from the kitchen was a scare for the family."
         }
     ]
 }

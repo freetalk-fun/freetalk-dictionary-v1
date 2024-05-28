@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A person or thing that attracts or is intended to attract someone or something.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The shiny toy was the attractor for the curious toddler.",
+            "sent2": "The bright colors of the flowers acted as an attractor for the bees.",
+            "sent3": "The attractor, a fluffy puppy, drew everyone's attention at the park.",
+            "sent4": "Her infectious laughter was an attractor, pulling people towards her like a magnet.",
+            "sent5": "The delicious smell of freshly baked cookies served as a powerful attractor for customers entering the bakery."
         },
         {
             "definition": "A mathematical set or point to which a dynamical system evolves.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The equilibrium point in the system acted as an attractor, stabilizing the motion.",
+            "sent2": "The mathematical attractor guided the trajectory of the particles in the simulation.",
+            "sent3": "The attractor, a fixed point, seemed to have a magnetic effect on the variables.",
+            "sent4": "In chaos theory, the attractor can be likened to a gravitational force pulling the system towards stability.",
+            "sent5": "The strange attractor in the model created mesmerizing patterns as it attracted nearby points."
         }
     ]
 }

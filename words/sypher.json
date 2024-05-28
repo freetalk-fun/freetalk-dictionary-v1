@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To encode a message by replacing letters with numbers or symbols.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I will sypher the note to keep it safe.",
+            "sent2": "She used a special code to sypher the secret message.",
+            "sent3": "Trying to sypher the code without the key was like solving a puzzle.",
+            "sent4": "The spy had to sypher the encrypted document to uncover the hidden message.",
+            "sent5": "He had to sypher the ancient script to reveal the hidden treasure map."
         },
         {
             "definition": "A secret or coded message.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The detective found a mysterious sypher in the old book.",
+            "sent2": "She received a sypher that led her to a hidden treasure.",
+            "sent3": "The students passed around a sypher during class to communicate secretly.",
+            "sent4": "The ancient scroll contained a sypher that held the key to unlocking the mystery.",
+            "sent5": "The spy carefully decoded the sypher to uncover the confidential information."
         },
         {
             "definition": "To solve a mathematical problem by working it out in a series of steps.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I need to sypher this equation to find the answer.",
+            "sent2": "He likes to sypher complex math problems for fun.",
+            "sent3": "Trying to sypher the math puzzle felt like unraveling a mystery.",
+            "sent4": "She had to sypher through the numbers to reach the correct solution.",
+            "sent5": "The students worked together to sypher the challenging problem and solve it."
         }
     ]
 }

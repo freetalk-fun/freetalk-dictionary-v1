@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "One that is named after another.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "My son, who is named after his grandfather, is his namesakes.",
+            "sent2": "The twins, who share the same name, are namesakes.",
+            "sent3": "The two identical teddy bears with the same name are namesakes.",
+            "sent4": "The two mountains, both named after famous explorers, are namesakes.",
+            "sent5": "The two ships, both called 'The Voyager', are namesakes on the sea."
         },
         {
             "definition": "A person or thing that has the same name as another.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The author and the character in the book share the same name, making them namesakes.",
+            "sent2": "The two cities, both named 'Springfield', are namesakes.",
+            "sent3": "The two dogs, both named 'Buddy', are namesakes in the neighborhood.",
+            "sent4": "The two trees, both named 'Oak', are namesakes in the forest.",
+            "sent5": "The two restaurants, both called 'The Diner', are namesakes in town."
         }
     ]
 }

@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A person who attacks or engages in aggressive behavior towards another.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The attacker punched the victim in the playground.",
+            "sent2": "The attacker was caught by the police after robbing the store.",
+            "sent3": "The attacker tripped over his own shoelaces while chasing the cat.",
+            "sent4": "The attacker of peace must be stopped before chaos reigns.",
+            "sent5": "The attacker's menacing glare sent shivers down everyone's spines."
         },
         {
             "definition": "A military force or group that launches an assault.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The attacker's army stormed the enemy's fortress.",
+            "sent2": "The attacker's navy bombarded the coastline with cannon fire.",
+            "sent3": "The attacker's troops celebrated their victory with a feast.",
+            "sent4": "The attacker's air force dominated the skies, striking fear into the enemy.",
+            "sent5": "The attacker's cavalry charged forward, trampling everything in their path."
         },
         {
             "definition": "A computer program or virus that attempts to harm or disrupt a system.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The attacker's malware infected the company's network.",
+            "sent2": "The attacker's ransomware demanded payment to unlock the files.",
+            "sent3": "The attacker's bug caused chaos in the computer system.",
+            "sent4": "The attacker's Trojan horse infiltrated the system undetected.",
+            "sent5": "The attacker's virus spread like wildfire, causing widespread damage."
         }
     ]
 }

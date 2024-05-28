@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Whereas - conjunction: introducing a statement that contrasts with a previous statement or clause.",
-            "pos": "conjunction"
+            "pos": "conjunction",
+            "sent1": "Whereases she said she would come, she never showed up.",
+            "sent2": "I like tea, whereas my brother prefers coffee.",
+            "sent3": "Whereases the cat promised not to scratch the furniture, it did so anyway.",
+            "sent4": "His actions spoke louder than words, whereas his promises remained unfulfilled.",
+            "sent5": "The contrast between her words and actions was stark, whereas she claimed to be honest."
         },
         {
             "definition": "Whereas - adverb: in contrast or comparison with the fact that.",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "She was tired, whereas he was full of energy.",
+            "sent2": "I prefer to walk, whereas she likes to run.",
+            "sent3": "The dog slept all day, whereas the cat played non-stop.",
+            "sent4": "His painting was vibrant, whereas hers was dull and monotonous.",
+            "sent5": "The colors of the sunset were breathtaking, whereas the sunrise was more subtle."
         }
     ]
 }

@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "The act of disjoining or the state of being disjoined.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The disjunction of the puzzle pieces made it challenging to complete.",
+            "sent2": "The disjunction of the two friends caused sadness.",
+            "sent3": "The disjunction of the socks in the laundry led to mismatched pairs.",
+            "sent4": "The disjunction of the branches created a beautiful pattern against the sky.",
+            "sent5": "The disjunction of the road ahead made it difficult to choose the right path."
         },
         {
             "definition": "A compound proposition that is true if and only if at least one of its components is true.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "In logic, a disjunction is a statement that is true if any part of it is true.",
+            "sent2": "The disjunction of the options allowed for flexibility in decision-making.",
+            "sent3": "The disjunction of flavors in the ice cream created a unique taste.",
+            "sent4": "The disjunction of opinions in the meeting led to a lively discussion.",
+            "sent5": "The disjunction of colors in the painting added depth and contrast."
         },
         {
             "definition": "The separation of things that are normally connected.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The disjunction of the train cars caused delays in the schedule.",
+            "sent2": "The disjunction of the power source resulted in a blackout.",
+            "sent3": "The disjunction of the internet connection made it impossible to work online.",
+            "sent4": "The disjunction of the phone line disrupted communication.",
+            "sent5": "The disjunction of the bridge sections created a gap in the pathway."
         }
     ]
 }

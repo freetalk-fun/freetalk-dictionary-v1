@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "An alphabetical list of names, subjects, etc., with references to the places where they occur",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I used the index at the back of the book to find the page number.",
+            "sent2": "The index in the library helps you locate books easily.",
+            "sent3": "The index in the cookbook made me feel like a detective searching for a recipe.",
+            "sent4": "Her index of favorite songs revealed her eclectic taste in music.",
+            "sent5": "The index acted like a map guiding me through the book's content."
         },
         {
             "definition": "A pointer or indicator, as in a scale or dial",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The index on the thermometer showed a high temperature.",
+            "sent2": "The index on the map pointed north.",
+            "sent3": "The index on the clock seemed to be in a hurry to reach the next hour.",
+            "sent4": "His index on the stock market predicted a rise in prices.",
+            "sent5": "The index on the speedometer warned of exceeding the limit."
         },
         {
             "definition": "A statistical measure of changes in a representative group of individual data points",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The index of inflation indicated a rise in prices.",
+            "sent2": "The index of economic indicators showed positive growth.",
+            "sent3": "The index of student grades made the teacher smile.",
+            "sent4": "Her index of weather patterns helped predict storms accurately.",
+            "sent5": "The index of population density highlighted urban areas."
         }
     ]
 }

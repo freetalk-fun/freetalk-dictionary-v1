@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A prediction or report of the weather conditions.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I always watch the weathercasts on TV before planning a picnic.",
+            "sent2": "The weathercasts said it would rain today, so I brought my umbrella.",
+            "sent3": "The weathercasts were so wrong yesterday; it was sunny all day!",
+            "sent4": "Her ability to read the weathercasts was like having a crystal ball.",
+            "sent5": "The accuracy of the weathercasts determines if I wear a jacket or not."
         },
         {
             "definition": "To predict or report the weather conditions.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The meteorologist will weathercasts the upcoming storm on the news.",
+            "sent2": "I need to weathercasts the temperature for tomorrow's outdoor event.",
+            "sent3": "I weathercastsed that it would be a snow day, but it turned out sunny.",
+            "sent4": "She weathercastsed the wind speed with impressive accuracy.",
+            "sent5": "We rely on meteorologists to weathercasts accurately for our safety."
         }
     ]
 }

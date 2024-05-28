@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Ceases",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The rain discontinues before the sun comes out.",
+            "sent2": "She discontinues playing the piano when her fingers get tired.",
+            "sent3": "The cat discontinues chasing the laser pointer when it realizes it can't catch it.",
+            "sent4": "His interest in the book discontinues abruptly when he reaches the last page.",
+            "sent5": "The teacher discontinues speaking when the students start to listen attentively."
         },
         {
             "definition": "Stops",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The music discontinues suddenly, leaving the room in silence.",
+            "sent2": "He discontinues running when he reaches the finish line.",
+            "sent3": "The clock discontinues ticking when its batteries run out.",
+            "sent4": "The car discontinues moving as soon as the driver hits the brakes.",
+            "sent5": "The conversation discontinues as soon as the topic becomes too controversial."
         },
         {
             "definition": "Ends",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The abrupt discontinues of the movie left the audience puzzled.",
+            "sent2": "The unexpected discontinues of the party surprised everyone.",
+            "sent3": "The sudden discontinues of the game caused confusion among the players.",
+            "sent4": "The premature discontinues of the concert disappointed the fans.",
+            "sent5": "The inevitable discontinues of summer marked the beginning of fall."
         }
     ]
 }

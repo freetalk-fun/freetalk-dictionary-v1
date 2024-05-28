@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To produce or create something",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The machine generated a loud noise.",
+            "sent2": "The students generated ideas for their project.",
+            "sent3": "The chef generated a delicious aroma in the kitchen.",
+            "sent4": "Her speech generated excitement among the audience.",
+            "sent5": "The artist's brush strokes generated a beautiful painting."
         },
         {
             "definition": "To bring about or cause something to happen",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "His actions generated a positive change in the community.",
+            "sent2": "The storm generated chaos in the city.",
+            "sent3": "The magician generated laughter with his tricks.",
+            "sent4": "The news generated fear among the population.",
+            "sent5": "The alarm clock generated a sense of urgency in the morning."
         },
         {
             "definition": "To come into existence",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "A new idea generated during the brainstorming session.",
+            "sent2": "The problem generated unexpectedly.",
+            "sent3": "The rumor generated quickly around the office.",
+            "sent4": "The plant generated from a tiny seed.",
+            "sent5": "The friendship generated between the two classmates."
         }
     ]
 }

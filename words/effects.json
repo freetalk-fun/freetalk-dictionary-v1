@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A change that is a result or consequence of an action or other cause.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The loud music had a negative effect on my ears.",
+            "sent2": "The storm had devastating effects on the small town.",
+            "sent3": "The funny effect of eating too much cake was a tummy ache.",
+            "sent4": "Her smile had a magical effect on everyone around her.",
+            "sent5": "The teacher used a visual effect to make the lesson more interesting."
         },
         {
             "definition": "Personal belongings or possessions.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "She packed her effects in a small suitcase for the trip.",
+            "sent2": "His personal effects were scattered all over the room.",
+            "sent3": "The detective found a clue hidden among the suspect's effects.",
+            "sent4": "Her jewelry box held precious effects from her grandmother.",
+            "sent5": "The lost and found box was filled with various misplaced effects."
         },
         {
             "definition": "The power to produce a desired result or change.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The medicine had a positive effect on his health.",
+            "sent2": "Hard work always leads to good effects in the long run.",
+            "sent3": "The superhero's cape had the effect of making him invisible.",
+            "sent4": "Her words had a profound effect on the audience.",
+            "sent5": "The new technology had a transformative effect on the industry."
         }
     ]
 }

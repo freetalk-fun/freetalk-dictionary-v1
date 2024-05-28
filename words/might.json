@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Used to indicate possibility or probability.",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "It might rain later today.",
+            "sent2": "She might be at the park already.",
+            "sent3": "You might find a unicorn in the backyard!",
+            "sent4": "The idea of time travel might seem like a dream.",
+            "sent5": "The mysterious noise in the attic might be a ghost."
         },
         {
             "definition": "Used to express permission or ability.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "You might go to the party if you finish your homework.",
+            "sent2": "He might lift the heavy box with some help.",
+            "sent3": "I might bake cookies for the whole neighborhood!",
+            "sent4": "Her determination to succeed might move mountains.",
+            "sent5": "The key to success might unlock many opportunities."
         },
         {
             "definition": "Used to express a suggestion or polite request.",
-            "pos": "interjection"
+            "pos": "interjection",
+            "sent1": "Might I borrow your pen for a moment?",
+            "sent2": "Might we consider a different approach to the problem?",
+            "sent3": "You might want to wear a hat in the sun!",
+            "sent4": "His words of wisdom might guide us through tough times.",
+            "sent5": "The beauty of nature might inspire great works of art."
         }
     ]
 }

@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Move (something) up and down or from side to side.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The bird flaps its wings to fly.",
+            "sent2": "She flaps the towel to remove the dust.",
+            "sent3": "The flag flaps in the wind, dancing joyfully.",
+            "sent4": "The curtains flap wildly in the storm.",
+            "sent5": "The butterfly flaps gracefully in the garden."
         },
         {
             "definition": "A thin, flat piece of material attached at one edge, used to cover or close something.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "He used the flap of paper to cover the hole.",
+            "sent2": "The envelope had a flap for sealing.",
+            "sent3": "The dog's ear flap was wagging happily.",
+            "sent4": "The tent flap kept the rain out during the storm.",
+            "sent5": "The book had a colorful flap for bookmarking."
         },
         {
             "definition": "A flexible strip of material that is attached to the leading edge of an aircraft wing to increase lift and control.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The pilot adjusted the flaps for a smoother landing.",
+            "sent2": "The airplane's flaps help it take off and land.",
+            "sent3": "The flap on the wing flirts with the wind as the plane soars.",
+            "sent4": "The flaps on the aircraft are like magic wings.",
+            "sent5": "The flaps on the wing make the plane soar like a bird."
         }
     ]
 }

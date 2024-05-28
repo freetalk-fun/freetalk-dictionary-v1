@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "The degree of compactness of a substance.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The density of the rock made it heavy.",
+            "sent2": "The density of the population in the city was high.",
+            "sent3": "The density of the cake batter made it difficult to spread evenly.",
+            "sent4": "The density of the fog obscured the view of the mountains.",
+            "sent5": "The density of the forest made it challenging to navigate through."
         },
         {
             "definition": "The quantity of something per unit measure.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The density of sugar in the solution was high.",
+            "sent2": "The density of cars on the highway caused traffic jams.",
+            "sent3": "The density of books on the shelf made it look cluttered.",
+            "sent4": "The density of stars in the sky was mesmerizing.",
+            "sent5": "The density of information in the report was overwhelming."
         },
         {
             "definition": "The thickness of a substance.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The density of the fog made it hard to see through.",
+            "sent2": "The density of the paint affected its coverage.",
+            "sent3": "The density of the fog made it seem like a fluffy blanket.",
+            "sent4": "The density of the fog was like a veil over the landscape.",
+            "sent5": "The density of the fabric determined its warmth."
         }
     ]
 }

@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To cause damage or harm to.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Accidentally dropping the fragile vase could endamage it.",
+            "sent2": "The storm endamaged the roof of the house.",
+            "sent3": "Trying to juggle eggs may endamage your kitchen floor!",
+            "sent4": "His harsh words seemed to endamage her fragile emotions.",
+            "sent5": "The wildfire quickly spread, threatening to endamage the entire forest."
         },
         {
             "definition": "Damage or harm caused.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The endamage to the car was extensive after the accident.",
+            "sent2": "The endamage from the flood required significant repairs.",
+            "sent3": "The endamage to his reputation was a result of his own actions.",
+            "sent4": "The endamage to the environment was visible after the oil spill.",
+            "sent5": "The endamage to the ancient artifact was irreversible."
         }
     ]
 }

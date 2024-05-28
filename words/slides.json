@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Moves smoothly along a surface",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The penguin slides on the ice effortlessly.",
+            "sent2": "The sled slides down the hill quickly.",
+            "sent3": "The cat slides across the floor like a dancer.",
+            "sent4": "The car slides through the curves of the road gracefully.",
+            "sent5": "The skateboarder slides along the rail with skill and precision."
         },
         {
             "definition": "A playground equipment for children",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The children enjoy playing on the slides at the park.",
+            "sent2": "The slides in the playground are colorful and fun.",
+            "sent3": "The slides at the park always bring laughter and joy.",
+            "sent4": "The slides in the playground are like a gateway to happiness for kids.",
+            "sent5": "The slides provide endless entertainment for the little ones."
         },
         {
             "definition": "A presentation tool used in lectures or meetings",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The speaker used slides to illustrate the key points.",
+            "sent2": "The slides in the presentation were informative and clear.",
+            "sent3": "The audience found the slides to be both helpful and engaging.",
+            "sent4": "The slides acted as a visual aid for the audience to follow along.",
+            "sent5": "The slides enhanced the understanding of the topic for everyone present."
         }
     ]
 }

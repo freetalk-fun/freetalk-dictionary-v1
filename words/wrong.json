@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Not correct or accurate.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The answer was wrong on the test.",
+            "sent2": "It's wrong to lie to your friends.",
+            "sent3": "It would be wrong to wear pajamas to a fancy dinner.",
+            "sent4": "The map led us wrong, and we got lost.",
+            "sent5": "The wrong key wouldn't unlock the door."
         },
         {
             "definition": "Not morally right or just.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "Stealing is wrong and can get you in trouble.",
+            "sent2": "It's wrong to cheat on a test.",
+            "sent3": "It would be wrong to take someone else's lunch without asking.",
+            "sent4": "His actions spoke louder than words, showing how wrong he was.",
+            "sent5": "The wrong decision led to regret and guilt."
         },
         {
             "definition": "Not in accordance with the facts or truth.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The wrong information caused confusion.",
+            "sent2": "It's wrong to spread rumors about others.",
+            "sent3": "It would be wrong to believe everything you hear without checking.",
+            "sent4": "The wrong path led us astray.",
+            "sent5": "The wrong assumption led to a misunderstanding."
         }
     ]
 }

@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Test (something) beforehand to determine its effectiveness or suitability.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Before the big race, the coach decided to pretest the new running shoes.",
+            "sent2": "It is important to pretest the microphone before the event to avoid technical issues.",
+            "sent3": "The scientist pretested the new invention and accidentally made it explode in the lab!",
+            "sent4": "She pretested her negotiation skills in a mock scenario before the real meeting.",
+            "sent5": "The teacher pretested the students' knowledge to tailor the lesson accordingly."
         },
         {
             "definition": "The act of testing something beforehand.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The pretesting of the new software revealed several bugs that needed fixing.",
+            "sent2": "Before the launch, the team conducted thorough pretesting to ensure a smooth release.",
+            "sent3": "The pretesting of the roller coaster left the engineers feeling confident about its safety.",
+            "sent4": "The pretesting of the emergency procedures proved to be crucial during the drill.",
+            "sent5": "The pretesting of the recipe helped avoid any cooking disasters during the event."
         }
     ]
 }

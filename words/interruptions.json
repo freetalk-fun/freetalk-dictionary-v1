@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "The act of interrupting or causing a break in a process or activity.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "During the meeting, constant interruptions made it hard to focus on the discussion.",
+            "sent2": "Unexpected interruptions like phone calls can disrupt your workflow.",
+            "sent3": "The interruptions from the noisy construction outside turned the office into a chaotic place.",
+            "sent4": "Her laughter was like a pleasant interruption in the serious atmosphere of the room.",
+            "sent5": "The sudden power outage was a major interruption to our presentation."
         },
         {
             "definition": "Something that interrupts or causes a break in a process or activity.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Please try to minimize interruptions during the exam so everyone can concentrate.",
+            "sent2": "Technical interruptions in the live broadcast caused delays in the program.",
+            "sent3": "The cat's playful interruptions during the online class amused the students.",
+            "sent4": "His absence felt like an interruption in the usual flow of our daily routine.",
+            "sent5": "The loud noise outside was a constant interruption to their peaceful study session."
         }
     ]
 }

@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To register incorrectly or inaccurately.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She misregistered the student's attendance by mistake.",
+            "sent2": "The clerk misregistered the customer's information in the system.",
+            "sent3": "The magician misregistered the volunteer's name during the show, causing laughter.",
+            "sent4": "The compass misregistered the direction, leading the hikers astray.",
+            "sent5": "The scanner misregistered the barcode, causing a pricing error."
         },
         {
             "definition": "Not registered or recorded properly.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The misregistered document was rejected by the office.",
+            "sent2": "The misregistered parcel was returned to the sender due to incomplete address.",
+            "sent3": "The misregistered ticket caused confusion at the event entrance.",
+            "sent4": "Her misregistered name on the list made it difficult to find her.",
+            "sent5": "The misregistered transaction was flagged for further review by the bank."
         }
     ]
 }

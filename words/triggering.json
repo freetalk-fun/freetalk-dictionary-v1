@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Cause (an event or situation) to happen or exist.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Her loud scream was triggering the car alarm.",
+            "sent2": "The storm triggered a power outage in the neighborhood.",
+            "sent3": "The clown's silly dance triggered laughter from the audience.",
+            "sent4": "The unexpected news triggered a wave of panic among the students.",
+            "sent5": "The smell of fresh cookies triggered memories of childhood."
         },
         {
             "definition": "Evoke or provoke (a reaction or emotion).",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The sad movie scene was triggering tears in the audience.",
+            "sent2": "His apology triggered forgiveness from his friend.",
+            "sent3": "The funny meme triggered a burst of laughter from her.",
+            "sent4": "The old song triggered nostalgia for the good old days.",
+            "sent5": "The beautiful sunset triggered a sense of peace and calm."
         },
         {
             "definition": "Activate (a mechanism or process).",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Pressing the red button triggers the alarm system.",
+            "sent2": "The key card triggered the automatic door to open.",
+            "sent3": "The motion sensor triggered the lights to turn on.",
+            "sent4": "The timer triggered the sprinklers to start watering the garden.",
+            "sent5": "The remote control triggers the toy car to move forward."
         }
     ]
 }

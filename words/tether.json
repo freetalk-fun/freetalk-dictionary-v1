@@ -3,19 +3,39 @@
     "meanings": [
         {
             "definition": "A rope or chain used to tie an animal to a fixed object.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The farmer used a tether to secure the goat to the fence.",
+            "sent2": "The dog's tether allowed it to roam freely within a limited area.",
+            "sent3": "The mischievous goat chewed through its tether and went on a little adventure.",
+            "sent4": "The tether of responsibility kept the horse of chaos from running wild.",
+            "sent5": "The tether held the cow in place like an anchor in a storm."
         },
         {
             "definition": "The limit of one's resources or endurance.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "After a long day's work, she reached the end of her tether.",
+            "sent2": "The hiker pushed himself to the end of his tether to reach the mountaintop.",
+            "sent3": "The student's brain felt like it was at the end of its tether after studying for hours.",
+            "sent4": "Her patience was stretched to the limit, reaching the end of its tether.",
+            "sent5": "The marathon runner was at the end of his tether, but he pushed through to the finish line."
         },
         {
             "definition": "To tie with a tether.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He needed to tether the boat to the dock to keep it from drifting away.",
+            "sent2": "The climber tethered himself to the rock face for safety.",
+            "sent3": "She decided to tether her keys to her belt loop to avoid losing them.",
+            "sent4": "The astronaut tethered himself to the space station before venturing out into space.",
+            "sent5": "The child wanted to tether his toy airplane to his wrist to prevent it from flying away."
         },
         {
             "definition": "To restrict or confine.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The strict rules tethered his actions and limited his freedom.",
+            "sent2": "Her fear of failure tethered her potential for growth.",
+            "sent3": "The magician tethered the bird with an invisible string, creating a magical illusion.",
+            "sent4": "The heavy workload tethered his creativity, making it difficult to think outside the box.",
+            "sent5": "The old traditions tethered the community to the past, hindering progress."
         }
     ]
 }

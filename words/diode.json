@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A semiconductor device with two terminals, typically allowing the flow of current in one direction only.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The diode in the circuit ensures electricity flows in just one direction.",
+            "sent2": "I used a diode to make sure the current only went one way.",
+            "sent3": "The diode was like a traffic cop, letting current pass in one direction only.",
+            "sent4": "Her mind worked like a diode, filtering out negative thoughts.",
+            "sent5": "The diode acted as a gatekeeper, permitting current to pass in a single direction."
         },
         {
             "definition": "A device that allows electricity to flow in one direction only.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Make sure to connect the diode correctly so the electricity flows in the right way.",
+            "sent2": "The diode prevented the current from flowing back.",
+            "sent3": "The diode was like a one-way street for electricity.",
+            "sent4": "His decision-making process was as strict as a diode, allowing only one path.",
+            "sent5": "The diode acted as a bouncer, permitting only authorized electricity to enter."
         }
     ]
 }

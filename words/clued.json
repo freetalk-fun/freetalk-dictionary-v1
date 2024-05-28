@@ -2,16 +2,13 @@
     "term": "clued",
     "meanings": [
         {
-            "definition": "Provide (someone) with information or understanding about a situation.",
-            "pos": "verb"
-        },
-        {
-            "definition": "Having knowledge or understanding of a situation.",
-            "pos": "adjective"
-        },
-        {
             "definition": "A piece of evidence or information used in solving a mystery or problem.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The detective found a crucial clue at the crime scene.",
+            "sent2": "The missing puzzle piece was the final clue.",
+            "sent3": "The mysterious note turned out to be a helpful clue.",
+            "sent4": "Each clue led them closer to the treasure.",
+            "sent5": "The old photograph was a valuable clue in the investigation."
         }
     ]
 }

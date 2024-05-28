@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "The state of something with regard to its appearance, quality, or working order.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The old car was in poor conditions, with rust and dents all over.",
+            "sent2": "The factory had to meet safety conditions to continue operating.",
+            "sent3": "The cat thought the messy room was perfect conditions for a game of hide and seek.",
+            "sent4": "The garden flourished in the ideal conditions of sunlight and water.",
+            "sent5": "The storm created harsh conditions for the hikers, with strong winds and heavy rain."
         },
         {
             "definition": "The circumstances affecting the way in which people live or work, especially with regard to their well-being.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The poor living conditions in the village led to health problems for many residents.",
+            "sent2": "The working conditions in the mine were dangerous and unhealthy.",
+            "sent3": "The comedian joked about the extreme conditions of trying to cook a meal during a power outage.",
+            "sent4": "The artist thrived in the challenging conditions of a noisy studio.",
+            "sent5": "The new job offered excellent conditions, including flexible hours and great benefits."
         }
     ]
 }

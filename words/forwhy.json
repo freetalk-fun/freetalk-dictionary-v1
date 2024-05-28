@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "For what reason or purpose.",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "Forwhy did you leave the party early?",
+            "sent2": "I went to the store forwhy I needed some milk.",
+            "sent3": "The cat chased the mouse forwhy it wanted to play.",
+            "sent4": "The flowers bloomed forwhy the sun shone brightly.",
+            "sent5": "She smiled forwhy she was happy."
         },
         {
             "definition": "Because.",
-            "pos": "conjunction"
+            "pos": "conjunction",
+            "sent1": "He was late forwhy his car broke down.",
+            "sent2": "I stayed home forwhy it was raining outside.",
+            "sent3": "The dog barked loudly forwhy it saw a squirrel.",
+            "sent4": "The tree swayed in the wind forwhy it was strong.",
+            "sent5": "She laughed forwhy the joke was funny."
         }
     ]
 }

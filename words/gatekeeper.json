@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A person who controls access to something, such as information or resources.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The gatekeeper at the library ensures only registered members can borrow books.",
+            "sent2": "The gatekeeper checked everyone's tickets before allowing them into the concert.",
+            "sent3": "The gatekeeper at the zoo mistakenly let the penguins into the lion enclosure!",
+            "sent4": "As the gatekeeper of knowledge, she held the key to unlocking the mysteries of the universe.",
+            "sent5": "The gatekeeper guarded the ancient treasure with unwavering vigilance."
         },
         {
             "definition": "A system or device that controls access to a place or service.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The electronic gatekeeper required a security code to enter the building.",
+            "sent2": "The gatekeeper at the parking lot lifted the barrier once the ticket was scanned.",
+            "sent3": "The gatekeeper software prevented unauthorized users from accessing sensitive data.",
+            "sent4": "The firewall acted as a gatekeeper, blocking any suspicious incoming network traffic.",
+            "sent5": "The gatekeeper mechanism ensured only authorized personnel could operate the machinery."
         }
     ]
 }

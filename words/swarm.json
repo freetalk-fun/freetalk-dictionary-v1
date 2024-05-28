@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A large number of insects or other small organisms moving together in a group.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The swarm of bees buzzed around the flowers.",
+            "sent2": "We saw a swarm of ants marching across the sidewalk.",
+            "sent3": "The picnic was interrupted by a swarm of pesky mosquitoes.",
+            "sent4": "The swarm of tiny insects resembled a moving carpet on the ground.",
+            "sent5": "The swarm of fireflies lit up the night sky like tiny stars."
         },
         {
             "definition": "A large group of people or animals moving together.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The swarm of fans cheered loudly at the concert.",
+            "sent2": "A swarm of birds flew across the sky in perfect formation.",
+            "sent3": "The swarm of children ran excitedly towards the playground.",
+            "sent4": "The swarm of protesters marched peacefully down the street.",
+            "sent5": "The swarm of dolphins gracefully swam together in the ocean."
         },
         {
             "definition": "To move somewhere in large numbers.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Tourists swarm to the beach during the summer months.",
+            "sent2": "Shoppers swarm the mall on Black Friday looking for deals.",
+            "sent3": "Students swarm the library during exam week to study.",
+            "sent4": "Fans swarm the stadium to watch their favorite team play.",
+            "sent5": "Birds swarm to warmer regions when winter approaches."
         }
     ]
 }

@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A type of bird with long legs and a long neck.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The egrets gracefully waded through the shallow water.",
+            "sent2": "I saw a beautiful egret perched on the tree by the lake.",
+            "sent3": "The egret seemed to be showing off its elegant long legs.",
+            "sent4": "The egret's neck extended gracefully as it searched for fish in the pond.",
+            "sent5": "The egret's white plumage stood out against the green backdrop."
         },
         {
             "definition": "To feel regret or remorse.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She egrets not studying harder for the exam.",
+            "sent2": "He egrets not apologizing sooner for his mistake.",
+            "sent3": "After eating the last cookie, he egrets not saving it for later.",
+            "sent4": "She egrets missing the opportunity to travel abroad.",
+            "sent5": "He egrets not listening to his friend's advice."
         }
     ]
 }

@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "First person singular present of 'be'",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I am happy.",
+            "sent2": "I am going to the park.",
+            "sent3": "I am the fastest runner in my class.",
+            "sent4": "The sun am the center of our solar system.",
+            "sent5": "I am the captain of my soccer team."
         },
         {
             "definition": "To exist or live",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She am a talented singer.",
+            "sent2": "Birds am chirping in the morning.",
+            "sent3": "I am the only one who am awake at this hour.",
+            "sent4": "Hope am the last thing to leave Pandora's box.",
+            "sent5": "The old tree am a witness to many seasons."
         },
         {
             "definition": "To have the quality of",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The cake am delicious.",
+            "sent2": "His words am full of wisdom.",
+            "sent3": "I am the clumsiest person in the room.",
+            "sent4": "Her smile am a ray of sunshine on a rainy day.",
+            "sent5": "The painting am a masterpiece of colors."
         }
     ]
 }

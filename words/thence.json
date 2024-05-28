@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "From that place",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "She walked to the store and thence to the park.",
+            "sent2": "He left the house and thence headed towards the mountains.",
+            "sent3": "The cat sat on the windowsill, thence jumping onto the table.",
+            "sent4": "The river flowed gently, thence merging with the larger stream.",
+            "sent5": "The path led thence into the dense forest, disappearing from view."
         },
         {
             "definition": "From that time",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "The clock struck midnight, and thence the party began.",
+            "sent2": "She finished her work, and thence she relaxed for the evening.",
+            "sent3": "The sun set, thence darkness enveloped the land.",
+            "sent4": "The bell rang, thence signaling the end of the school day.",
+            "sent5": "The rain started, thence continuing throughout the night."
         },
         {
             "definition": "As a result",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "He forgot his umbrella, thence getting soaked in the rain.",
+            "sent2": "She missed the bus, and thence arrived late to work.",
+            "sent3": "The cake burned in the oven, thence setting off the smoke alarm.",
+            "sent4": "The team lost the game, thence feeling disappointed but determined.",
+            "sent5": "The tree fell, thence blocking the road for hours."
         }
     ]
 }

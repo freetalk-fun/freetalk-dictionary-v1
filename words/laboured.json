@@ -3,19 +3,39 @@
     "meanings": [
         {
             "definition": "Worked hard or with difficulty",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "She laboured through the math problems, trying her best.",
+            "sent2": "He laboured to finish the race, panting heavily.",
+            "sent3": "The squirrel laboured comically to carry the oversized nut.",
+            "sent4": "The old car laboured up the steep hill, groaning with effort.",
+            "sent5": "The ant laboured tirelessly to move the large crumb to its nest."
         },
         {
             "definition": "Showing signs of effort or strain",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "His laboured breathing indicated he had been running for a while.",
+            "sent2": "The laboured expression on her face revealed her exhaustion.",
+            "sent3": "The laboured attempt at a joke made everyone chuckle.",
+            "sent4": "The laboured pace of the turtle amused the onlookers.",
+            "sent5": "The laboured movements of the robot made it seem almost human."
         },
         {
             "definition": "To work hard or with difficulty",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "They laboured all day in the fields under the hot sun.",
+            "sent2": "She laboured over her painting, adding intricate details.",
+            "sent3": "The chef laboured over the perfect recipe, tasting and adjusting.",
+            "sent4": "The writer laboured to find the right words for his novel.",
+            "sent5": "The team laboured together to build the house before the storm."
         },
         {
             "definition": "To proceed with great effort",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The ship laboured through the rough waves of the storm.",
+            "sent2": "He laboured up the mountain, determined to reach the summit.",
+            "sent3": "The engine laboured as the car climbed the steep hill.",
+            "sent4": "The runner laboured towards the finish line, pushing through the pain.",
+            "sent5": "The ant laboured to carry the heavy leaf back to the colony."
         }
     ]
 }

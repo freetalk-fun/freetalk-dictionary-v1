@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To imitate the appearance or character of",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The robot simulates a human by walking and talking like one.",
+            "sent2": "The flight simulator simulates flying a plane in different weather conditions.",
+            "sent3": "The child simulates being a superhero by wearing a cape and running around.",
+            "sent4": "The artist simulates the beauty of nature in their paintings.",
+            "sent5": "The virtual reality game simulates a magical world where players can explore freely."
         },
         {
             "definition": "To create a computer model of",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Scientists use computers to simulate the behavior of complex systems.",
+            "sent2": "The software simulates the movement of planets in our solar system.",
+            "sent3": "The students simulate a volcano eruption using a computer program for their science project.",
+            "sent4": "The engineers simulate the stress on a bridge before construction begins.",
+            "sent5": "The simulation simulates a car crash to test the safety features of the vehicle."
         },
         {
             "definition": "To pretend to have or feel",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She simulates excitement when receiving a surprise gift.",
+            "sent2": "He simulates interest in a topic he knows nothing about.",
+            "sent3": "The actor simulates fear on stage during the thrilling scene.",
+            "sent4": "The child simulates being a doctor by using a toy stethoscope.",
+            "sent5": "The politician simulates concern for the environment to gain votes."
         }
     ]
 }

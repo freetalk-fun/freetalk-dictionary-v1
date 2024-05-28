@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To make automatic or mechanical.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The machine automatizes the process of sorting mail.",
+            "sent2": "The new technology automatizes many tasks that used to be done by hand.",
+            "sent3": "The robot automatizes its movements, making it look like a dance.",
+            "sent4": "The software automatizes the repetitive tasks, freeing up time for more creative work.",
+            "sent5": "The conveyor belt automatizes the production line, increasing efficiency."
         },
         {
             "definition": "To operate or control by automation.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The system automatizes the temperature control in the greenhouse.",
+            "sent2": "The smart home system automatizes the lighting based on the time of day.",
+            "sent3": "The coffee maker automatizes the brewing process, ensuring a perfect cup every time.",
+            "sent4": "The self-driving car automatizes the navigation, allowing passengers to relax during the journey.",
+            "sent5": "The assembly line automatizes the car manufacturing process, reducing human error."
         }
     ]
 }

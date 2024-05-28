@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Watched closely",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The monitored baby slept peacefully in her crib.",
+            "sent2": "The security camera monitored the entrance to the building.",
+            "sent3": "The monitored cat tried to sneak past the sleeping dog.",
+            "sent4": "The monitored progress of the experiment ensured accurate results.",
+            "sent5": "The monitored patient's vital signs showed improvement."
         },
         {
             "definition": "Kept track of",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The teacher monitored the students' progress in math class.",
+            "sent2": "The GPS system monitored the delivery truck's route.",
+            "sent3": "The detective monitored the suspect's movements from a distance.",
+            "sent4": "The scientist monitored the changes in temperature over time.",
+            "sent5": "The fitness tracker monitored the number of steps taken each day."
         },
         {
             "definition": "Checked regularly",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The monitored temperature of the fridge ensured food safety.",
+            "sent2": "The monitored email account received important updates.",
+            "sent3": "The monitored clock reminded him of the upcoming meeting.",
+            "sent4": "The monitored progress of the project kept it on schedule.",
+            "sent5": "The monitored plant growth showed signs of health."
         }
     ]
 }

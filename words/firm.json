@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Not easily moved or shaken; securely fixed in place.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "She stood firm on the ground during the earthquake.",
+            "sent2": "The tree's roots were firm in the soil.",
+            "sent3": "The firm grip of the toddler on the toy was impressive.",
+            "sent4": "His belief in justice was as firm as a mountain.",
+            "sent5": "The firm handshake showed his confidence."
         },
         {
             "definition": "A business organization or company.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The law firm specialized in corporate cases.",
+            "sent2": "My uncle works at a successful accounting firm.",
+            "sent3": "The firm's office was filled with busy employees.",
+            "sent4": "The advertising firm came up with a creative campaign.",
+            "sent5": "Starting a new firm requires careful planning."
         },
         {
             "definition": "To make something more solid or stable.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He used nails to firm the loose boards on the deck.",
+            "sent2": "The chef firmed the dough before baking.",
+            "sent3": "She firmed her resolve to finish the marathon.",
+            "sent4": "The workout routine helped firm her muscles.",
+            "sent5": "Adding more support beams will firm the structure."
         }
     ]
 }

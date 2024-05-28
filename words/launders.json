@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To wash (clothes, linens, etc.)",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She launders her clothes every Sunday.",
+            "sent2": "My mom launders the bedsheets with care.",
+            "sent3": "The washing machine launders the dirty socks.",
+            "sent4": "The river launders away the dirt from the rocks.",
+            "sent5": "The gentle rain launders the dusty streets clean."
         },
         {
             "definition": "A person or business that washes clothes for payment.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The launders down the street do a great job.",
+            "sent2": "I dropped off my clothes at the local launders.",
+            "sent3": "The launders in town always have a full schedule.",
+            "sent4": "The launders' shop is known for its quick service.",
+            "sent5": "The launders' van is filled with bags of clothes to wash."
         }
     ]
 }

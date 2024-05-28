@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Identical copies or instances of something.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I found duplicates of my favorite book at the library.",
+            "sent2": "The store had duplicates of the same toy on sale.",
+            "sent3": "It was funny to see duplicates of my friend's outfit at the party.",
+            "sent4": "The field was filled with duplicates of colorful flowers.",
+            "sent5": "The duplicates of the painting were so well-made, it was hard to tell them apart."
         },
         {
             "definition": "To make an identical copy of something.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She duplicates important documents for safekeeping.",
+            "sent2": "The artist duplicates his artwork to sell more pieces.",
+            "sent3": "He accidentally duplicates his email and sends it twice.",
+            "sent4": "The machine duplicates keys with precision.",
+            "sent5": "The chef duplicates the recipe to share with others."
         },
         {
             "definition": "To be or produce a copy of something.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The printer duplicates the report for each team member.",
+            "sent2": "The software duplicates files to ensure data safety.",
+            "sent3": "The student duplicates the experiment to confirm the results.",
+            "sent4": "The factory duplicates the design to create more products.",
+            "sent5": "The musician duplicates the melody to create harmony in the song."
         }
     ]
 }

@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Whole numbers",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Integers are used to count objects without fractions or decimals.",
+            "sent2": "Math problems often involve adding or subtracting integers.",
+            "sent3": "The integers at the party were all the even numbers from one to ten.",
+            "sent4": "In the game, the integers represented the different levels of difficulty.",
+            "sent5": "Understanding integers is crucial for basic arithmetic."
         },
         {
             "definition": "Positive or negative numbers without a fractional or decimal component",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "She only works with integers when analyzing financial data.",
+            "sent2": "The temperature can be represented by integers on the thermometer.",
+            "sent3": "His mood swings were as unpredictable as integers in a math problem.",
+            "sent4": "The integers on the scale showed a significant weight loss.",
+            "sent5": "The road signs displayed integers for the upcoming mile markers."
         }
     ]
 }

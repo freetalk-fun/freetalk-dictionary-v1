@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A function that is both injective and surjective.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "In mathematics, a bijection ensures that each element in the domain corresponds to exactly one element in the codomain.",
+            "sent2": "The bijection between the two sets guarantees a unique pairing for every element.",
+            "sent3": "The bijection dance at the math party made sure everyone had a partner.",
+            "sent4": "The bijection of colors to numbers was a clever way to represent data.",
+            "sent5": "The concept of bijection is like a perfect matching puzzle, where every piece fits exactly once."
         },
         {
             "definition": "A one-to-one correspondence between two sets.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The bijection between the sets ensures that each element has a unique match.",
+            "sent2": "The bijection establishes a clear relationship between the elements of the two sets.",
+            "sent3": "The bijection picnic seating plan made sure everyone had a designated partner.",
+            "sent4": "The bijection of keys to locks was a flawless security system.",
+            "sent5": "The idea of bijection is like a perfect pairing, where every item finds its perfect match."
         }
     ]
 }

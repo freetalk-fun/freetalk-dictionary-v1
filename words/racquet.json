@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A type of sports equipment used in games such as tennis and badminton, consisting of a handled frame with an open hoop across which a network of strings or catgut is stretched.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "During the tennis match, Sarah swung her racquet with precision.",
+            "sent2": "Players need a racquet to play badminton or tennis.",
+            "sent3": "The racquet decided to take a break from hitting balls and went for a walk instead.",
+            "sent4": "Her racquet was like a magic wand, guiding the ball exactly where she wanted.",
+            "sent5": "The shiny racquet gleamed under the bright stadium lights."
         },
         {
             "definition": "To hit or strike with a racquet.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He will racquet the ball over the net in the next serve.",
+            "sent2": "Players racquet the shuttlecock back and forth in badminton.",
+            "sent3": "The cat thought it could racquet the mouse away with its paw.",
+            "sent4": "She racqueted her frustrations out on the punching bag at the gym.",
+            "sent5": "The storm racqueted the leaves off the trees, scattering them everywhere."
         }
     ]
 }

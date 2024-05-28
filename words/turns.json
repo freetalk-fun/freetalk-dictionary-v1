@@ -2,20 +2,13 @@
     "term": "turns",
     "meanings": [
         {
-            "definition": "To move or cause to move in a circular direction",
-            "pos": "verb"
-        },
-        {
-            "definition": "A change in direction or course",
-            "pos": "noun"
-        },
-        {
-            "definition": "A chance or opportunity to do something",
-            "pos": "noun"
-        },
-        {
             "definition": "A movement or action in a game or activity",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "It's your turn to roll the dice and move your game piece.",
+            "sent2": "The player took his turn at bat and hit a home run.",
+            "sent3": "Her turn to draw a card in the game revealed a surprise twist.",
+            "sent4": "The chess player carefully planned his next turn to checkmate his opponent.",
+            "sent5": "In the game of charades, his turn to act out the word was hilarious."
         }
     ]
 }

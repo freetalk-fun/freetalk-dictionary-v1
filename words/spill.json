@@ -3,19 +3,39 @@
     "meanings": [
         {
             "definition": "To cause or allow (a liquid) to flow over the edge of its container.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Be careful not to spill the milk while pouring.",
+            "sent2": "I accidentally spilled my drink on the table.",
+            "sent3": "The mischievous cat tried to spill the water bowl.",
+            "sent4": "Her emotions spilled over like a waterfall.",
+            "sent5": "The overflowing river spilled its banks, flooding the fields."
         },
         {
             "definition": "An instance of liquid flowing over the edge of a container.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The spill on the floor needed to be cleaned up.",
+            "sent2": "She wiped up the spill with a paper towel.",
+            "sent3": "The colorful spill looked like a small rainbow.",
+            "sent4": "The spill from the cup formed a tiny puddle.",
+            "sent5": "The spill from the fountain created a shimmering pool."
         },
         {
             "definition": "To scatter or cause to scatter.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The wind can easily spill the pile of leaves.",
+            "sent2": "He accidentally spilled the marbles all over the floor.",
+            "sent3": "The magician's trick was to spill the cards in the air.",
+            "sent4": "Her laughter spilled out uncontrollably.",
+            "sent5": "The seeds spilled from the packet, scattering in the garden."
         },
         {
             "definition": "A quantity of liquid that has spilled.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The spill from the cup stained the carpet.",
+            "sent2": "She cleaned up the spill with a sponge.",
+            "sent3": "The spill on the counter was a sticky mess.",
+            "sent4": "The spill on the road caused a slippery surface.",
+            "sent5": "The spill in the kitchen smelled like coffee."
         }
     ]
 }

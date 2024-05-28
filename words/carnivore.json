@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "An animal that feeds on flesh.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The lion is a carnivore.",
+            "sent2": "The tiger is a carnivore in the wild.",
+            "sent3": "The carnivore at the zoo looked hungry.",
+            "sent4": "The carnivore's sharp teeth gleamed in the sunlight.",
+            "sent5": "The carnivore's hunting instincts are strong."
         },
         {
             "definition": "A person who eats meat.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The hunter is a carnivore.",
+            "sent2": "My friend is a carnivore and enjoys steak.",
+            "sent3": "The carnivore at the barbecue ate a lot.",
+            "sent4": "The carnivore's appetite for meat is insatiable.",
+            "sent5": "The carnivore savored every bite of the meal."
         }
     ]
 }

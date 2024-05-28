@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A short, informal video clip.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I watched a funny vid on my phone.",
+            "sent2": "She shared a vid of her cat playing.",
+            "sent3": "The vid of the dog dancing made me smile.",
+            "sent4": "The vid of the concert brought back memories.",
+            "sent5": "The vid of the baby laughing was adorable."
         },
         {
             "definition": "To see or perceive.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I can vid the mountains from my window.",
+            "sent2": "He could vid the car approaching.",
+            "sent3": "I vid the sun setting over the horizon.",
+            "sent4": "She could vid the sadness in his eyes.",
+            "sent5": "I vid the beauty of the flowers in the garden."
         },
         {
             "definition": "A visual display unit.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The computer monitor is a vid on my desk.",
+            "sent2": "The vid on the wall showed the weather forecast.",
+            "sent3": "The vid flickered and then went blank.",
+            "sent4": "The vid displayed colorful images.",
+            "sent5": "The vid showed the map of the city clearly."
         }
     ]
 }

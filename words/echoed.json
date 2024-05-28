@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Repeated or reflected sound.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The echo of his laughter bounced off the walls.",
+            "sent2": "The canyon was filled with the echoes of their footsteps.",
+            "sent3": "The echo in the cave sounded like a ghostly choir.",
+            "sent4": "The echo of the gunshot lingered in the air like a haunting melody.",
+            "sent5": "The echo of the bell was so loud, it felt like it was right next to me."
         },
         {
             "definition": "To repeat or imitate someone or something.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She echoed her mother's words to the younger children.",
+            "sent2": "His words echoed in the empty hallway.",
+            "sent3": "The parrot echoed the sounds of the busy market.",
+            "sent4": "Her actions echoed those of her role model.",
+            "sent5": "The cheers from the crowd echoed through the stadium."
         },
         {
             "definition": "To be reminiscent of something else.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The melody echoed a tune from her childhood.",
+            "sent2": "The painting echoed the style of a famous artist.",
+            "sent3": "His outfit echoed a fashion trend from the past.",
+            "sent4": "The scent of the flowers echoed memories of summer days.",
+            "sent5": "The flavors of the dish echoed those of a traditional recipe."
         }
     ]
 }

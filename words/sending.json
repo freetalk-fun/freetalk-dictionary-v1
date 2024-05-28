@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To cause to go or be taken to a destination.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She is sending a letter to her friend.",
+            "sent2": "I will be sending the package tomorrow.",
+            "sent3": "The cat keeps sending the toy mouse under the couch.",
+            "sent4": "His words were like sending a wave of comfort over her.",
+            "sent5": "The sun sending its warm rays through the window felt comforting."
         },
         {
             "definition": "The action of causing something to go or be taken to a destination.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The sending of the invitation was delayed.",
+            "sent2": "We received the sending of the documents yesterday.",
+            "sent3": "The sending of the balloons made the party more festive.",
+            "sent4": "Her smile was a sending of joy to everyone around.",
+            "sent5": "The sending of the birds migrating south signaled the change of season."
         }
     ]
 }

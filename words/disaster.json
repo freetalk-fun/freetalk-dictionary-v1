@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "a sudden event, such as an accident or natural catastrophe, that causes great damage or loss",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The earthquake was a disaster for the town, destroying many buildings.",
+            "sent2": "The hurricane was a natural disaster that left a path of destruction in its wake.",
+            "sent3": "The picnic turned into a disaster when it started raining heavily.",
+            "sent4": "Her failed attempt at baking a cake was a disaster of epic proportions.",
+            "sent5": "The tsunami was a disaster of unimaginable scale, wiping out entire villages."
         },
         {
             "definition": "a complete failure or fiasco",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The party was a disaster with no one showing up.",
+            "sent2": "The project turned into a disaster when all the files got deleted.",
+            "sent3": "His attempt at juggling ended in disaster as the balls went flying everywhere.",
+            "sent4": "The play was a disaster with actors forgetting their lines and props falling apart.",
+            "sent5": "The camping trip was a disaster with tents collapsing and food getting spoiled."
         }
     ]
 }

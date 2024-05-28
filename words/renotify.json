@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To notify again.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I need to renotify my friend about the meeting tomorrow.",
+            "sent2": "Please renotify the team about the change in schedule.",
+            "sent3": "It's important to renotify everyone so they don't forget.",
+            "sent4": "The alarm clock will renotify you if you oversleep.",
+            "sent5": "Don't worry, I will renotify you if there are any updates."
         },
         {
             "definition": "To send a notification again.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "After the technical issue is fixed, we can renotify the users.",
+            "sent2": "The system will automatically renotify the recipients if the message fails to send.",
+            "sent3": "I accidentally renotified the same person twice.",
+            "sent4": "The app will renotify you when your package is out for delivery.",
+            "sent5": "Make sure to renotify them if they haven't responded yet."
         }
     ]
 }

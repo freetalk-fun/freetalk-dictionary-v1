@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "The land along the edge of a sea, lake, or river.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The sandy shores were filled with seashells.",
+            "sent2": "We walked along the shores of the lake at sunset.",
+            "sent3": "The seagulls gathered on the shores, having a beach party.",
+            "sent4": "The shores whispered secrets to the waves as they kissed the sand.",
+            "sent5": "The colorful sunset painted the shores in hues of orange and pink."
         },
         {
             "definition": "To reach or come to the shore.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The boat slowly shores after a long journey.",
+            "sent2": "The swimmer shores exhausted but happy after the race.",
+            "sent3": "The fish shores to rest after swimming against the current.",
+            "sent4": "Hope shores on the horizon as the rescue ship approaches.",
+            "sent5": "The waves gently shore the boat to safety on the sandy beach."
         },
         {
             "definition": "To support or hold up.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The strong pillars shores the weight of the bridge.",
+            "sent2": "His friends shores him during tough times.",
+            "sent3": "The branches shores the weight of the swinging monkey.",
+            "sent4": "Kind words can shore someone's spirits during difficult times.",
+            "sent5": "Love can shore us up when we feel weak and lost."
         }
     ]
 }

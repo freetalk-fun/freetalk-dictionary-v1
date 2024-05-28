@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To stop something from happening",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Wearing a helmet can prevent head injuries during biking.",
+            "sent2": "Locking the door can prevent burglaries in the neighborhood.",
+            "sent3": "The superhero's cape could prevent any harm from reaching him.",
+            "sent4": "Her quick reflexes could prevent disaster from striking.",
+            "sent5": "The vaccine can prevent the spread of diseases effectively."
         },
         {
             "definition": "To keep something from happening",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Regular exercise can prevent weight gain and health issues.",
+            "sent2": "Installing a smoke detector can prevent fires in the house.",
+            "sent3": "The clever squirrel tried to prevent the acorns from rolling away.",
+            "sent4": "Her positive attitude can prevent negativity from taking over.",
+            "sent5": "Using sunscreen can prevent sunburns and skin damage."
         },
         {
             "definition": "To hinder or thwart something from occurring",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The heavy rain could prevent the outdoor event from happening.",
+            "sent2": "A strong password can prevent hackers from accessing your accounts.",
+            "sent3": "The mischievous cat tried to prevent the dog from entering the room.",
+            "sent4": "The thick fog can prevent drivers from seeing clearly on the road.",
+            "sent5": "The loud noise could prevent me from concentrating on my work."
         }
     ]
 }

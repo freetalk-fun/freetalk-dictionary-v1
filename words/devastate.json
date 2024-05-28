@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To destroy or ruin completely",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The hurricane will devastate the small town.",
+            "sent2": "The earthquake could devastate the entire city.",
+            "sent3": "The news of the canceled concert will devastate many fans.",
+            "sent4": "The wildfire has the potential to devastate the forest.",
+            "sent5": "The floodwaters will devastate the farmland if not controlled."
         },
         {
             "definition": "To overwhelm or shock with great sadness or disappointment",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Losing the championship game will devastate the team.",
+            "sent2": "The sudden loss of a loved one can devastate a family.",
+            "sent3": "The spoiled surprise party plan will devastate the birthday girl.",
+            "sent4": "The failed experiment results will devastate the scientist.",
+            "sent5": "The rejection letter from the dream college will devastate the student."
         }
     ]
 }

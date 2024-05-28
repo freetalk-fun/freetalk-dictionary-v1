@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A unit of heredity that is transferred from a parent to offspring and determines some characteristic of the offspring.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The blue eye gene was passed down from my grandmother.",
+            "sent2": "Scientists study how genes affect our traits.",
+            "sent3": "The gene for curly hair must have taken a detour in my family tree.",
+            "sent4": "In the genetic recipe book, the gene for height is a crucial chapter.",
+            "sent5": "The gene of freckles runs like a river through our family history."
         },
         {
             "definition": "A segment of DNA that contains the instructions for producing a specific protein.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The insulin gene provides the blueprint for making insulin.",
+            "sent2": "Genes hold the secrets to our body's functions.",
+            "sent3": "The gene for muscle growth seems to be working overtime in bodybuilders.",
+            "sent4": "Within the DNA library, the gene for enzymes is a bestseller.",
+            "sent5": "The gene of resilience shines brightly in times of adversity."
         },
         {
             "definition": "A distinct sequence of nucleotides forming part of a chromosome, the order of which determines the order of monomers in a polypeptide or nucleic acid molecule.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The gene on chromosome 3 is responsible for eye color.",
+            "sent2": "Genes are like the building blocks of life's instruction manual.",
+            "sent3": "The gene puzzle on the chromosome seems to be missing a piece.",
+            "sent4": "In the genetic code, the gene sequence is the master architect.",
+            "sent5": "The gene melody in the chromosome orchestra plays a vital role in our existence."
         }
     ]
 }

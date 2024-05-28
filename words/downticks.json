@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A decrease in the price of a security or commodity.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The downticks in the stock market worried investors.",
+            "sent2": "The downticks in oil prices led to lower profits for the company.",
+            "sent3": "The downticks in banana prices made the monkeys happy.",
+            "sent4": "The downticks in the housing market signaled a rough time ahead.",
+            "sent5": "The downticks in sales painted a bleak picture for the business."
         },
         {
             "definition": "To decrease in value or price.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The company downticks its products to attract more customers.",
+            "sent2": "If the demand decreases, the company downticks the prices.",
+            "sent3": "She downticks the volume on the radio when her favorite song comes on.",
+            "sent4": "The sun downticks its brightness as evening approaches.",
+            "sent5": "He downticks his offer to negotiate a better deal."
         }
     ]
 }

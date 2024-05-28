@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To show the way to someone by leading or directing them.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She will guide you through the forest.",
+            "sent2": "He guides tourists around the city.",
+            "sent3": "The robot guide led the group with its bright light.",
+            "sent4": "Her wisdom will guide you like a beacon in the dark.",
+            "sent5": "The stars above guide sailors safely home."
         },
         {
             "definition": "A person who shows the way to others.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The guide pointed out the landmarks.",
+            "sent2": "The mountain guide led the climbers to the summit.",
+            "sent3": "The friendly guide made the tour enjoyable.",
+            "sent4": "She was a guide in both knowledge and kindness.",
+            "sent5": "The guide's knowledge was as vast as the ocean."
         },
         {
             "definition": "A book or manual that provides information or instructions on a particular subject.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The travel guide listed all the attractions.",
+            "sent2": "The user guide helped set up the new device.",
+            "sent3": "The cooking guide made the recipe seem easy.",
+            "sent4": "His words were a guide through the complex topic.",
+            "sent5": "The guidebook was a treasure trove of knowledge."
         }
     ]
 }

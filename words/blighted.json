@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Spoil, harm, or destroy",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The storm blighted the crops, ruining the harvest.",
+            "sent2": "The disease blighted the beautiful garden, causing the flowers to wither.",
+            "sent3": "The mischievous squirrel blighted the picnic by stealing all the sandwiches.",
+            "sent4": "The dark clouds blighted the sunny day, casting a shadow over the park.",
+            "sent5": "The vandals blighted the playground, leaving it in a state of disrepair."
         },
         {
             "definition": "Affected by a blight",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The blighted tree stood alone in the forest, its leaves wilted.",
+            "sent2": "The blighted neighborhood was filled with abandoned houses and overgrown yards.",
+            "sent3": "The blighted cake looked sad with its lopsided frosting and burnt edges.",
+            "sent4": "The blighted hopes of the team were dashed when they lost the championship.",
+            "sent5": "The blighted city street was lined with boarded-up shops and broken windows."
         },
         {
             "definition": "To have a negative impact on something or someone",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The lack of rain blighted the farmer's crops, causing them to wilt.",
+            "sent2": "The economic downturn blighted many businesses, leading to layoffs.",
+            "sent3": "The noisy neighbors blighted the peaceful street with their late-night parties.",
+            "sent4": "The scandal blighted the politician's reputation, causing a drop in popularity.",
+            "sent5": "The negative comments blighted the online community, spreading discontent."
         }
     ]
 }

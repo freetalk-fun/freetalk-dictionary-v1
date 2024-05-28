@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To inspect or scrutinize closely",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I will examine the tiny bug under the microscope.",
+            "sent2": "The detective will examine the evidence carefully.",
+            "sent3": "Let's examine this mysterious clue Sherlock Holmes style!",
+            "sent4": "She will examine every detail like a detective solving a case.",
+            "sent5": "The scientist will examine the specimen with precision and care."
         },
         {
             "definition": "To test or try",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Please examine the new software to see if it works.",
+            "sent2": "The teacher will examine the students' knowledge with a quiz.",
+            "sent3": "Let's examine this new recipe by baking it together.",
+            "sent4": "He will examine his luck by buying a lottery ticket.",
+            "sent5": "The chef will examine the taste of the dish before serving it."
         },
         {
             "definition": "To question closely",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The lawyer will examine the witness on the stand.",
+            "sent2": "The journalist will examine the politician's statements.",
+            "sent3": "Let's examine the suspect in the interrogation room.",
+            "sent4": "She will examine the defendant's alibi thoroughly.",
+            "sent5": "The teacher will examine the student's explanation for the missing homework."
         }
     ]
 }

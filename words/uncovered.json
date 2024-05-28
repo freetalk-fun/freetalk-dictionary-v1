@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Not covered or protected",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The dog lay on the uncovered ground.",
+            "sent2": "The book was left uncovered on the table.",
+            "sent3": "The picnic was ruined by the uncovered food attracting ants.",
+            "sent4": "Her emotions were like an uncovered well, deep and raw.",
+            "sent5": "The storm left the city's streets uncovered and vulnerable."
         },
         {
             "definition": "Revealed or made known",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The detective uncovered the truth about the crime.",
+            "sent2": "The journalist uncovered a scandal that shocked the nation.",
+            "sent3": "The magician uncovered the hidden card with a flourish.",
+            "sent4": "The archaeologist uncovered ancient artifacts buried for centuries.",
+            "sent5": "The researcher uncovered a groundbreaking discovery in the archives."
         },
         {
             "definition": "To remove a cover or covering from something",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She uncovered the painting to reveal its true beauty.",
+            "sent2": "The chef uncovered the pot to check on the simmering soup.",
+            "sent3": "The child uncovered the gift hidden under the bed with glee.",
+            "sent4": "The wind uncovered the buried treasure hidden in the sand.",
+            "sent5": "He carefully uncovered the fragile statue to clean it gently."
         }
     ]
 }

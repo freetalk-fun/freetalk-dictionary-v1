@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A sudden loud noise, as of an explosion or a shot.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The bam of the fireworks startled the dog.",
+            "sent2": "I heard a loud bam coming from the construction site.",
+            "sent3": "The bam of the door slamming shut made everyone jump.",
+            "sent4": "The bam of the thunder shook the windows.",
+            "sent5": "The bam of the car crash echoed through the street."
         },
         {
             "definition": "To strike or hit suddenly and forcefully.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He bam the ball with all his might.",
+            "sent2": "She bam the table in frustration.",
+            "sent3": "The chef will bam the dough to make it flat.",
+            "sent4": "The boxer bam his opponent with a powerful punch.",
+            "sent5": "The hammer will bam the nail into the wall."
         },
         {
             "definition": "Used to emphasize the suddenness or force of an action or event.",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "She ran bam into the room, out of breath.",
+            "sent2": "He lifted the heavy box bam onto the shelf.",
+            "sent3": "The magician made the rabbit disappear bam!",
+            "sent4": "The news spread bam throughout the small town.",
+            "sent5": "The storm hit bam, causing chaos in the city."
         }
     ]
 }

@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A representation of a person or thing, typically on a smaller scale.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The toy store had many models of cars for sale.",
+            "sent2": "She is a fashion model who walks the runway.",
+            "sent3": "The tiny model of the Eiffel Tower made everyone smile.",
+            "sent4": "His detailed model of the solar system amazed the science fair judges.",
+            "sent5": "The artist's clay model of a dinosaur looked incredibly realistic."
         },
         {
             "definition": "A person employed to display clothes by wearing them.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The fashion show featured models in elegant dresses.",
+            "sent2": "She became a successful model after being discovered at a mall.",
+            "sent3": "The clumsy model accidentally tripped on the catwalk.",
+            "sent4": "She was the perfect model for the designer's new collection.",
+            "sent5": "The model confidently strutted down the runway, captivating the audience."
         },
         {
             "definition": "A simplified description, especially a mathematical one, of a system or process.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The teacher used a model to explain the concept of fractions.",
+            "sent2": "The scientist created a model to predict the weather patterns.",
+            "sent3": "The math model made solving the problem much easier.",
+            "sent4": "Her model of the water cycle was both informative and creative.",
+            "sent5": "The model of the human brain helped students understand its functions better."
         }
     ]
 }

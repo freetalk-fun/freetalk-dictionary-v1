@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A detective",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The sleuth solved the mystery by finding clues.",
+            "sent2": "The police officer turned into a sleuth to uncover the truth.",
+            "sent3": "The clever sleuth discovered the missing cookie jar in the pantry.",
+            "sent4": "She was a sleuth, unraveling the secrets of the old mansion.",
+            "sent5": "The young sleuth's keen eye spotted the hidden treasure in the attic."
         },
         {
             "definition": "To act as a detective",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She decided to sleuth around the neighborhood to find the lost cat.",
+            "sent2": "The kids love to sleuth during their pretend play detective games.",
+            "sent3": "He would sleuth through his messy room looking for his favorite toy.",
+            "sent4": "The journalist had to sleuth out the truth behind the scandal.",
+            "sent5": "The curious cat liked to sleuth around the garden, investigating every corner."
         }
     ]
 }

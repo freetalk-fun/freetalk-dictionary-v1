@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "One who translates spoken words from one language to another.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The interpreter helped the tourists understand the foreign language.",
+            "sent2": "The conference had an interpreter to assist with communication between different nationalities.",
+            "sent3": "The interpreter at the zoo had to decipher what the monkeys were saying to each other.",
+            "sent4": "She acted as an interpreter between the two arguing friends, helping them see each other's perspective.",
+            "sent5": "The interpreter's job was to bridge the language gap and ensure everyone could communicate effectively."
         },
         {
             "definition": "A person who explains or makes something clear.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The teacher was an excellent interpreter of complex scientific concepts.",
+            "sent2": "The book included an interpreter to guide readers through the difficult passages.",
+            "sent3": "The magician's assistant played the role of an interpreter, revealing the secrets behind the tricks.",
+            "sent4": "Her smile was like an interpreter, translating her true feelings to those around her.",
+            "sent5": "His gestures acted as an interpreter, conveying his emotions without words."
         },
         {
             "definition": "A device or program that converts code or data from one form to another.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The software acted as an interpreter between the old and new systems, ensuring compatibility.",
+            "sent2": "The interpreter converted the binary code into a user-friendly interface.",
+            "sent3": "The smartwatch served as an interpreter, translating the fitness data into easy-to-understand metrics.",
+            "sent4": "The AI interpreter transformed the raw data into meaningful insights for the researchers.",
+            "sent5": "The interpreter functioned as a bridge, allowing seamless communication between different software platforms."
         }
     ]
 }

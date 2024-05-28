@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To look at or examine closely",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She was scanning the book for her favorite chapter.",
+            "sent2": "The detective was scanning the crime scene for clues.",
+            "sent3": "While scanning the menu, she realized they had her favorite dessert.",
+            "sent4": "His eyes scanned the horizon, searching for any signs of movement.",
+            "sent5": "The teacher was scanning the students' faces for any signs of confusion."
         },
         {
             "definition": "To move a device over something in order to get information",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He was scanning the barcode at the checkout counter.",
+            "sent2": "The technician was scanning the patient's body with the MRI machine.",
+            "sent3": "While scanning the ticket, the machine beeped with approval.",
+            "sent4": "The security guard was scanning the bags for any prohibited items.",
+            "sent5": "The cashier was scanning each item quickly to calculate the total."
         },
         {
             "definition": "To quickly look over something to find specific information",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She was scanning the document for the key details.",
+            "sent2": "The student was scanning the textbook for the answer to the question.",
+            "sent3": "While scanning the map, he realized he was going the wrong way.",
+            "sent4": "The journalist was scanning the article for any errors before publishing.",
+            "sent5": "The librarian was scanning the shelves for the requested book."
         }
     ]
 }

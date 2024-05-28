@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To come into violent contact with another object.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The car will collide with the wall if the brakes fail.",
+            "sent2": "The two cars collided at the intersection.",
+            "sent3": "The clumsy waiter managed to collide with every table in the restaurant.",
+            "sent4": "Their opposing opinions collided like two raging storms.",
+            "sent5": "The collision between the soccer players was heard throughout the stadium."
         },
         {
             "definition": "To clash or conflict in a harmful or destructive way.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "If the two armies collide, it will result in chaos.",
+            "sent2": "The two rival gangs collided in a fierce battle for territory.",
+            "sent3": "The conflicting schedules of the siblings often collide, causing arguments.",
+            "sent4": "Their egos collided like titans in a battle for supremacy.",
+            "sent5": "The collision of their interests led to a heated argument."
         }
     ]
 }

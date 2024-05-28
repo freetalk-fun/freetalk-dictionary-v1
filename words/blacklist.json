@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A list of people or things that are disapproved of or are to be punished or avoided.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The company keeps a blacklist of employees who have broken the rules.",
+            "sent2": "She found her name on the blacklist and was not allowed to enter the building.",
+            "sent3": "The blacklist at the library only includes books that are damaged beyond repair.",
+            "sent4": "Being on the blacklist felt like wearing a scarlet letter for all to see.",
+            "sent5": "The blacklist served as a warning to others to follow the rules carefully."
         },
         {
             "definition": "To put someone on a blacklist.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The manager decided to blacklist the troublemaker from future events.",
+            "sent2": "They threatened to blacklist anyone who leaked confidential information.",
+            "sent3": "He joked that he would blacklist his friend from game night if he kept winning.",
+            "sent4": "She felt like she had to blacklist negative thoughts to stay positive.",
+            "sent5": "The teacher had to blacklist distractions to focus on grading papers."
         },
         {
             "definition": "To exclude someone from a group or activity.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The team captain decided to blacklist the player who kept causing trouble.",
+            "sent2": "They had to blacklist him from the party after he started a fight.",
+            "sent3": "She threatened to blacklist her brother from movie night if he didn't stop talking.",
+            "sent4": "He had to blacklist unhealthy foods from his diet to improve his health.",
+            "sent5": "The committee had to blacklist unreliable members to ensure smooth operations."
         }
     ]
 }

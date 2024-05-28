@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Chemical substances used for medicinal or recreational purposes.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The doctor prescribed some chems to help with my headache.",
+            "sent2": "I bought some cleaning chems to use in the kitchen.",
+            "sent3": "I accidentally mixed up the chems for my headache with the cleaning chems!",
+            "sent4": "The chems in the medicine worked like magic to relieve my pain.",
+            "sent5": "The chems in the pool water kept it crystal clear all summer."
         },
         {
             "definition": "A shortened form of the word 'chemicals'.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The scientist studied different types of chems in the lab.",
+            "sent2": "Make sure to label all the cleaning chems properly.",
+            "sent3": "I spilled the chems all over the floor while trying to mix them.",
+            "sent4": "The chems reacted unexpectedly when combined in the experiment.",
+            "sent5": "The smell of the chems in the air indicated a leak in the container."
         },
         {
             "definition": "A slang term for drugs or narcotics.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The police found illegal chems in the suspect's car.",
+            "sent2": "He was addicted to using harmful chems for a long time.",
+            "sent3": "I accidentally took the wrong chems from my friend's bag!",
+            "sent4": "The dangers of abusing chems are well-known in our community.",
+            "sent5": "The chems in his system caused him to behave erratically."
         }
     ]
 }

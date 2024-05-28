@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To comply with or follow the commands, restrictions, wishes, or instructions of someone in authority.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The dog obeys its owner's commands.",
+            "sent2": "She always obeys the traffic rules when driving.",
+            "sent3": "The robot obeys every order given by its programmer.",
+            "sent4": "The wind obeys the direction of the storm.",
+            "sent5": "The student obeys the teacher's guidance to excel in studies."
         },
         {
             "definition": "To act in accordance with a command, request, rule, or law.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He obeys his mother's request to clean his room.",
+            "sent2": "The employees must obey the company's policies.",
+            "sent3": "The car obeys the traffic light's signal to stop.",
+            "sent4": "The river obeys the laws of gravity as it flows downhill.",
+            "sent5": "The computer obeys the user's input to perform tasks efficiently."
         }
     ]
 }

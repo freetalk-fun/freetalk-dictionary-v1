@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A violent disturbance of the atmosphere with strong winds and usually rain, thunder, lightning, or snow.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The storm outside made the trees sway wildly.",
+            "sent2": "We had to cancel our picnic due to the approaching storm.",
+            "sent3": "The storm seemed to be in a bad mood today, shaking everything in its path.",
+            "sent4": "Her anger was like a storm, fierce and unpredictable.",
+            "sent5": "The storm roared through the night, leaving chaos in its wake."
         },
         {
             "definition": "A tumultuous reaction; an uproar or controversy.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The announcement caused a storm of excitement among the students.",
+            "sent2": "The political scandal created a media storm.",
+            "sent3": "The storm of laughter that followed his joke was contagious.",
+            "sent4": "Her words sparked a storm of emotions within him.",
+            "sent5": "The storm of applause filled the auditorium after the performance."
         },
         {
             "definition": "To move angrily or forcefully in a specified direction.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She stormed out of the room after the argument.",
+            "sent2": "The protesters stormed the gates of the government building.",
+            "sent3": "The toddler stormed around the house, upset about his lost toy.",
+            "sent4": "He stormed into the meeting, demanding to be heard.",
+            "sent5": "The team stormed to victory in the final minutes of the game."
         }
     ]
 }

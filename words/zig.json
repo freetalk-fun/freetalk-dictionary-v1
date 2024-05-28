@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To move in a sharp, sudden turn or change in direction.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The car will zig to avoid the obstacle.",
+            "sent2": "She likes to zig when she dances.",
+            "sent3": "The squirrel decided to zig instead of zag, surprising everyone.",
+            "sent4": "The river seemed to zig through the valley, cutting a new path.",
+            "sent5": "The kite zigged and zagged in the wind, soaring high above."
         },
         {
             "definition": "A sharp, sudden turn or change in direction.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The runner made a quick zig to avoid the defender.",
+            "sent2": "The mountain road had many zigs and zags.",
+            "sent3": "The cat's playful zigs and zags entertained the children.",
+            "sent4": "The plot of the story took an unexpected zig towards the end.",
+            "sent5": "The lightning took a zig before striking the ground."
         }
     ]
 }

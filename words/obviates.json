@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To prevent or eliminate (a problem, need, or difficulty)",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Wearing a seatbelt obviates the risk of injury in a car accident.",
+            "sent2": "Regular exercise obviates the need for drastic dieting.",
+            "sent3": "Bringing an umbrella obviates getting soaked in the rain.",
+            "sent4": "A good night's sleep obviates the need for caffeine in the morning.",
+            "sent5": "Having a spare key obviates the stress of being locked out."
         },
         {
             "definition": "To make unnecessary by preventing or avoiding",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Proper insulation obviates the need for constant heating in the winter.",
+            "sent2": "Planning ahead obviates last-minute rushing.",
+            "sent3": "Eating a big breakfast obviates the urge to snack before lunch.",
+            "sent4": "Clear communication obviates misunderstandings in a team.",
+            "sent5": "Regular maintenance obviates costly repairs in the future."
         },
         {
             "definition": "To anticipate and prevent (something which would otherwise have happened)",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Taking vitamins obviates the risk of getting sick.",
+            "sent2": "A well-timed apology obviates potential conflicts.",
+            "sent3": "Double-checking the address obviates the chance of getting lost.",
+            "sent4": "Early detection obviates the need for extensive treatment.",
+            "sent5": "A quick response obviates further damage."
         }
     ]
 }

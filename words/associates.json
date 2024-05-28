@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Connect or bring into relation, as thought, feeling, memory, etc.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She associates happy memories with her childhood home.",
+            "sent2": "He associates the color red with passion.",
+            "sent3": "The cat associates the sound of a can opener with mealtime.",
+            "sent4": "The smell of fresh bread associates with warmth and comfort.",
+            "sent5": "The song associates with a feeling of nostalgia."
         },
         {
             "definition": "To join as a partner, friend, or companion.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She associates with a group of talented musicians.",
+            "sent2": "He associates with his classmates during lunch.",
+            "sent3": "The dog associates with the neighbor's friendly Labrador.",
+            "sent4": "The new employee quickly associates with the team.",
+            "sent5": "The child associates with a new friend at the playground."
         },
         {
             "definition": "A person who shares actively in anything as a business, enterprise, or undertaking.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "She is one of the key associates in the marketing department.",
+            "sent2": "He became an associate in the law firm after passing the bar exam.",
+            "sent3": "The young entrepreneur's associate suggested a new marketing strategy.",
+            "sent4": "The associate's dedication to the project was commendable.",
+            "sent5": "The associate's innovative ideas brought success to the team."
         }
     ]
 }

@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Recognized or known",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The teacher quickly identified the correct answer.",
+            "sent2": "The identified problem was easily solved.",
+            "sent3": "The identified student was always the first to raise their hand.",
+            "sent4": "The identified leader guided the team to success.",
+            "sent5": "The bright red color identified the ripe apple."
         },
         {
             "definition": "Established the identity of",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The detective identified the suspect in the lineup.",
+            "sent2": "She identified the missing cat by its unique collar.",
+            "sent3": "The scientist identified the new species of butterfly.",
+            "sent4": "The doctor identified the cause of the patient's illness.",
+            "sent5": "The witness identified the criminal in court."
         },
         {
             "definition": "Associated or connected with",
-            "pos": "preposition"
+            "pos": "preposition",
+            "sent1": "The gift was identified with a small note attached.",
+            "sent2": "The suspect was identified with the crime scene.",
+            "sent3": "The success of the project was identified with teamwork.",
+            "sent4": "The artist was identified with their unique style.",
+            "sent5": "The smell of fresh bread was identified with the bakery."
         }
     ]
 }

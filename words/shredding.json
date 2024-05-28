@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To cut or tear into small pieces",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She was shredding the paper into tiny bits.",
+            "sent2": "The machine is shredding the old documents efficiently.",
+            "sent3": "The cat was caught shredding the tissue paper for fun.",
+            "sent4": "The wind was shredding the leaves off the trees in the storm.",
+            "sent5": "The chef was shredding the carrots for the salad with precision."
         },
         {
             "definition": "The act of playing a musical instrument with great skill and speed",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "His guitar shredding amazed the audience.",
+            "sent2": "The concert was filled with impressive shredding on the electric guitar.",
+            "sent3": "The band's shredding was so good, it made everyone dance.",
+            "sent4": "The violinist's shredding was like a whirlwind of music.",
+            "sent5": "The drummer's shredding added an electrifying energy to the performance."
         },
         {
             "definition": "The process of destroying documents or materials by cutting them into small pieces",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The office had a shredding day to dispose of confidential papers.",
+            "sent2": "Proper shredding of sensitive documents is crucial for security.",
+            "sent3": "The spy's mission involved shredding important files to protect secrets.",
+            "sent4": "The shredding of the evidence was necessary to cover up the crime.",
+            "sent5": "The shredding machine made quick work of the unwanted paperwork."
         }
     ]
 }

@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A large receptacle or storage container for liquid or gas.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The farmer filled the tanks with water for the thirsty cows.",
+            "sent2": "The gas station had huge tanks underground to store fuel.",
+            "sent3": "The tanks in the kitchen were overflowing with dirty dishes.",
+            "sent4": "Her mind was a tank of creative ideas waiting to be unleashed.",
+            "sent5": "The tanks on the roof collected rainwater for the garden."
         },
         {
             "definition": "A heavily armored combat vehicle used in warfare.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The army deployed tanks to protect the soldiers in battle.",
+            "sent2": "The tanks rolled through the battlefield, intimidating the enemy.",
+            "sent3": "The cartoon character drove a tank made of ice cream cones.",
+            "sent4": "His determination was a tank, unstoppable and unyielding.",
+            "sent5": "The tank's metal exterior gleamed under the sun, a symbol of strength."
         },
         {
             "definition": "To fail or fall behind in progress or development.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "If he tanks the exam, he will have to retake it.",
+            "sent2": "The project tanks if we don't meet the deadline.",
+            "sent3": "Her confidence tanks whenever she has to speak in public.",
+            "sent4": "His mood tanks when he receives negative feedback.",
+            "sent5": "The stock market tanks when there is uncertainty in the economy."
         }
     ]
 }

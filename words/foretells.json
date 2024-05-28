@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Predicts the future",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Grandma foretells that it will rain tomorrow.",
+            "sent2": "The fortune teller foretells events that will happen next week.",
+            "sent3": "The magic eight ball foretells a day full of surprises.",
+            "sent4": "The ancient prophecy foretells a hero who will save the kingdom.",
+            "sent5": "The old book foretells the rise and fall of civilizations."
         },
         {
             "definition": "Indicates beforehand",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The dark clouds foretells a storm approaching.",
+            "sent2": "The sudden drop in temperature foretells the arrival of winter.",
+            "sent3": "The early morning traffic foretells a busy day ahead.",
+            "sent4": "The teacher's stern look foretells trouble for the misbehaving student.",
+            "sent5": "The warning signs foretells danger ahead on the road."
         }
     ]
 }

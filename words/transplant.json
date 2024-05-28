@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To move or transfer (something) from one place to another.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I will transplant the flowers from the garden to the pot.",
+            "sent2": "The farmer decided to transplant the tree to a sunnier spot.",
+            "sent3": "The squirrel tried to transplant the acorn to a different tree.",
+            "sent4": "She wanted to transplant her love for gardening into her children.",
+            "sent5": "The idea of transplanting the old tradition into modern times excited the community."
         },
         {
             "definition": "A surgical procedure in which an organ or tissue is removed from one part of the body and placed in another.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The doctor performed a successful transplant on the patient's heart.",
+            "sent2": "She needed a kidney transplant to improve her health.",
+            "sent3": "The hospital had a special room for recovering transplant patients.",
+            "sent4": "The organ transplant saved his life and gave him a second chance.",
+            "sent5": "The community raised funds to support those in need of organ transplants."
         },
         {
             "definition": "A person or thing that has been moved or transferred from one place to another.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The new student was a transplant from a different city.",
+            "sent2": "The rare flower was a transplant from a tropical region.",
+            "sent3": "The cat, a transplant from the shelter, quickly adapted to its new home.",
+            "sent4": "The transplant of ideas from different cultures enriched the community.",
+            "sent5": "The transplant of the old clock brought new life to the room."
         }
     ]
 }

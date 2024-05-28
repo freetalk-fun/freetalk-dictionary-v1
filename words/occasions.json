@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A particular time or instance of an event.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "On special occasions, we celebrate with cake and balloons.",
+            "sent2": "Birthdays and holidays are common occasions for family gatherings.",
+            "sent3": "The cat knocking over the vase was an occasion for laughter.",
+            "sent4": "Her graduation was an occasion for pride and joy.",
+            "sent5": "The wedding was a beautiful occasion filled with love and happiness."
         },
         {
             "definition": "A reason or cause for doing something.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The lack of funds was the occasion for canceling the trip.",
+            "sent2": "His illness became the occasion for his friends to show their support.",
+            "sent3": "Running out of milk was an occasion for a quick trip to the store.",
+            "sent4": "The stormy weather was the occasion for staying indoors and reading a book.",
+            "sent5": "The broken car was the occasion for learning how to fix it."
         },
         {
             "definition": "To cause or bring about.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Her smile occasions happiness in everyone around her.",
+            "sent2": "The loud noise occasioned a startle among the crowd.",
+            "sent3": "His unexpected visit occasioned a pleasant surprise for his family.",
+            "sent4": "The new policy occasioned a lot of discussion among the employees.",
+            "sent5": "The success of the project occasioned a celebration in the office."
         }
     ]
 }

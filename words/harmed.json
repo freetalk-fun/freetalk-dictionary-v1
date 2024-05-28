@@ -3,19 +3,39 @@
     "meanings": [
         {
             "definition": "Physical injury or damage",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The doctor treated the harmed leg.",
+            "sent2": "The car accident resulted in severe harm to the vehicle.",
+            "sent3": "The puppy's playful antics often lead to unintended harm.",
+            "sent4": "The storm left a trail of harm in its wake.",
+            "sent5": "The firefighter rushed to help those in harm's way."
         },
         {
             "definition": "To cause physical harm or injury to",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He harmed his hand while working on the project.",
+            "sent2": "It is never right to harm another living being.",
+            "sent3": "The mischievous squirrel harmed the garden by digging up the plants.",
+            "sent4": "The harsh winter weather can harm delicate flowers.",
+            "sent5": "The reckless driver's actions could harm others on the road."
         },
         {
             "definition": "To damage or impair",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Leaving the phone in the sun can harm its battery.",
+            "sent2": "Using harsh chemicals can harm the environment.",
+            "sent3": "The loud music harmed his hearing over time.",
+            "sent4": "Neglecting regular maintenance can harm the car's engine.",
+            "sent5": "The strong winds can harm the fragile tree branches."
         },
         {
             "definition": "To hurt or injure emotionally",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "His harsh words harmed her feelings.",
+            "sent2": "Bullying can harm a person's self-esteem.",
+            "sent3": "The sad movie unexpectedly harmed his mood.",
+            "sent4": "Betrayal can harm trust between friends.",
+            "sent5": "Loneliness can harm one's mental well-being."
         }
     ]
 }

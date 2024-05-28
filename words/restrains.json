@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Prevent (someone or something) from doing something",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The fence restrains the dog from running into the street.",
+            "sent2": "The seatbelt restrains you in the car for safety.",
+            "sent3": "The superhero restrains the villain with a strong rope.",
+            "sent4": "Her fear of failure restrains her from taking risks.",
+            "sent5": "The lock on the door restrains unauthorized access."
         },
         {
             "definition": "Hold back; keep under control",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She restrains her excitement when receiving a surprise.",
+            "sent2": "He restrains his anger by taking deep breaths.",
+            "sent3": "The teacher restrains the class from laughing during a serious moment.",
+            "sent4": "The dam restrains the flow of water in the river.",
+            "sent5": "The parent restrains the child from touching hot objects."
         },
         {
             "definition": "Limit or restrict (someone or something)",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The rules restrain students from using phones in class.",
+            "sent2": "The diet restrains him from eating sugary snacks.",
+            "sent3": "The leash restrains the puppy from wandering too far.",
+            "sent4": "His injury restrains him from participating in sports.",
+            "sent5": "The budget restrains the company from expanding too quickly."
         }
     ]
 }

@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A wild animal's lair or shelter.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The bear found a cozy den in the forest to rest.",
+            "sent2": "The fox built its den under a large tree for protection.",
+            "sent3": "The den was so snug that even the squirrel wanted to move in.",
+            "sent4": "The den, hidden among the rocks, was a safe haven for the wolf.",
+            "sent5": "The den, with its earthy smell and warmth, felt like a secret hideaway."
         },
         {
             "definition": "A small, cozy room in a house where people can relax.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "After a long day, she retreated to her den to unwind.",
+            "sent2": "The den was filled with soft pillows and warm blankets.",
+            "sent3": "The den became the family's favorite spot for movie nights.",
+            "sent4": "The den, with its crackling fireplace, was the heart of the home.",
+            "sent5": "The den, with its inviting atmosphere, was perfect for lazy Sundays."
         },
         {
             "definition": "To live in or frequent a den.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The bear denning in the cave during the winter months.",
+            "sent2": "The rabbits den in the burrows they dig in the ground.",
+            "sent3": "He denning in his room all weekend playing video games.",
+            "sent4": "She denning in her office, buried under paperwork.",
+            "sent5": "The birds denning in the trees, chirping happily in the morning."
         }
     ]
 }

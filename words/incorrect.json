@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Not in accordance with fact; wrong.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The teacher marked my answer as incorrect.",
+            "sent2": "It is incorrect to say that the sun revolves around the Earth.",
+            "sent3": "It was quite incorrect of me to wear slippers to a formal event.",
+            "sent4": "Her incorrect assumption led to a series of unfortunate events.",
+            "sent5": "The incorrect map caused us to get lost in the forest."
         },
         {
             "definition": "Not in accordance with established standards or rules.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The player's incorrect behavior led to a penalty.",
+            "sent2": "It is incorrect to park in a handicapped spot without a permit.",
+            "sent3": "His incorrect attempt at dancing made everyone laugh.",
+            "sent4": "The incorrect move in chess cost him the game.",
+            "sent5": "The incorrect measurements resulted in a crooked bookshelf."
         },
         {
             "definition": "Not accurate; erroneous.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The weather forecast turned out to be incorrect.",
+            "sent2": "His incorrect calculations led to a failed experiment.",
+            "sent3": "It was quite incorrect of me to think I could fly like a bird.",
+            "sent4": "Her incorrect memory of the event caused confusion.",
+            "sent5": "The incorrect address on the package caused a delay in delivery."
         }
     ]
 }

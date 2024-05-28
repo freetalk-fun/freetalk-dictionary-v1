@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A person or thing that processes something.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The food processor quickly chopped the vegetables for the salad.",
+            "sent2": "The teacher is an excellent processor of information, always organizing it well for the students.",
+            "sent3": "The little processor robot in the kitchen danced while mixing the cake batter.",
+            "sent4": "Her mind worked like a processor, swiftly analyzing and solving problems.",
+            "sent5": "The processor in the factory efficiently sorted the packages for delivery."
         },
         {
             "definition": "A machine or device that processes data.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The computer processor is the brain of the device, handling all the calculations.",
+            "sent2": "The new smartphone has a faster processor, making it more responsive.",
+            "sent3": "The processor in the office printer decided to take a break and printed everything upside down.",
+            "sent4": "The processor hummed softly, processing the complex algorithms with ease.",
+            "sent5": "The powerful processor in the gaming console made the graphics incredibly realistic."
         }
     ]
 }

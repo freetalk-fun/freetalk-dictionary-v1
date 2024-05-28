@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A sign or signal",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The smoke rising from the chimney was an indicant of a fire inside.",
+            "sent2": "The flashing turn signal on the car was a clear indicant for the driver behind.",
+            "sent3": "The barking dog was an indicant that the mailman was approaching.",
+            "sent4": "The sudden drop in temperature was an indicant of the impending storm.",
+            "sent5": "The loud thunder was an indicant of the approaching storm."
         },
         {
             "definition": "Something that serves as evidence or proof",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The fingerprints found at the crime scene were a crucial indicant in solving the case.",
+            "sent2": "The DNA sample provided a solid indicant of the suspect's identity.",
+            "sent3": "The missing puzzle piece was an indicant that the cat had been playing with it.",
+            "sent4": "The footprints in the mud were an indicant of someone passing through the area.",
+            "sent5": "The broken window was a clear indicant of a break-in."
         }
     ]
 }

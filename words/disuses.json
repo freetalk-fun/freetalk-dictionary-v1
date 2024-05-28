@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To cease to use or practice",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She disuses her old toys when she gets new ones.",
+            "sent2": "He disuses his old phone after upgrading to a new model.",
+            "sent3": "The robot disuses its malfunctioning arm and switches to the backup.",
+            "sent4": "The athlete disuses his old training routine in favor of a more effective one.",
+            "sent5": "The chef disuses the outdated recipe and experiments with new flavors."
         },
         {
             "definition": "The state of not being used or practiced",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The disuses of the old factory led to its closure.",
+            "sent2": "The disuses of the park equipment made it unsafe for children.",
+            "sent3": "The disuses of the ancient language made it difficult to translate.",
+            "sent4": "The disuses of the old road resulted in it being overgrown with plants.",
+            "sent5": "The disuses of the traditional method paved the way for innovation."
         }
     ]
 }

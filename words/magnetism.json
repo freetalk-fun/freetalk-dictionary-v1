@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A physical phenomenon produced by the motion of electric charge, resulting in attractive and repulsive forces between objects.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The magnetism of the two magnets pulled them together.",
+            "sent2": "The fridge door's magnetism kept it closed.",
+            "sent3": "The magnetism between the socks in the laundry made them stick together.",
+            "sent4": "The magnetism of her personality drew people towards her.",
+            "sent5": "The magnetism of the north pole guides compass needles."
         },
         {
             "definition": "The ability of an object to attract iron or steel.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The magnetism of the horseshoe magnet picked up the paperclips.",
+            "sent2": "The magnetism of the earth's core affects the magnetic field.",
+            "sent3": "The magnetism of the fridge magnet made it the hero of the kitchen.",
+            "sent4": "The magnetism of the rock star drew fans from all over the world.",
+            "sent5": "The magnetism of the metal beam pulled the crane towards it."
         }
     ]
 }

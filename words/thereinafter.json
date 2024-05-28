@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Following that time or event",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "She finished her homework, and thereinafter, she went to bed.",
+            "sent2": "The rain stopped, and thereinafter, the sun came out.",
+            "sent3": "He ate all the cookies, and thereinafter, he regretted not saving some for later.",
+            "sent4": "The cat chased the mouse, and thereinafter, they became best friends.",
+            "sent5": "The clock struck midnight, and thereinafter, Cinderella's dress turned into rags."
         },
         {
             "definition": "In the following part of a document or text",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "The terms and conditions are stated clearly in the contract; thereinafter, the payment details are outlined.",
+            "sent2": "The introduction provides an overview of the topic; thereinafter, the main arguments are presented.",
+            "sent3": "The recipe lists the ingredients first; thereinafter, the cooking instructions are given.",
+            "sent4": "The map shows the starting point; thereinafter, the route to the destination is marked.",
+            "sent5": "The prologue sets the scene; thereinafter, the story unfolds."
         }
     ]
 }

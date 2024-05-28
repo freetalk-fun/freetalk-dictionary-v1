@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "The act or process of changing in form or nature.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "A mutation in the plant caused its leaves to turn purple.",
+            "sent2": "Scientists study how mutation occurs in cells to understand genetic diseases.",
+            "sent3": "The mutation in the recipe turned the cake into a savory dish instead of sweet.",
+            "sent4": "Her sudden mutation in behavior left everyone surprised.",
+            "sent5": "The mutation of the caterpillar into a butterfly is a beautiful transformation."
         },
         {
             "definition": "A sudden departure from the parent type in one or more heritable characteristics.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The genetic mutation resulted in the offspring having a unique color pattern.",
+            "sent2": "The mutation in the gene caused the child to have a rare disorder.",
+            "sent3": "The mutation in the family tree revealed an unexpected relative.",
+            "sent4": "The mutation in the population of birds led to a new species evolving.",
+            "sent5": "The sudden mutation in the virus made it more contagious."
         }
     ]
 }

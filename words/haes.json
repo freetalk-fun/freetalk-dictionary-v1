@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To have or possess something.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She haes a new book to read.",
+            "sent2": "I haes a lot of work to do today.",
+            "sent3": "He haes a sweet tooth for chocolate.",
+            "sent4": "The garden haes a variety of colorful flowers.",
+            "sent5": "The old house haes a mysterious past."
         },
         {
             "definition": "To be in a state of uncertainty or doubt.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "They haes doubts about the weather forecast.",
+            "sent2": "I haes uncertainty about my future plans.",
+            "sent3": "She haes a feeling of doubt creeping in.",
+            "sent4": "The decision haes left me in a state of uncertainty.",
+            "sent5": "The mystery haes shrouded in doubt."
         },
         {
             "definition": "To delay or hesitate in taking action.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He haes to make a decision soon.",
+            "sent2": "She haes before making a move.",
+            "sent3": "The cat haes before pouncing on the toy.",
+            "sent4": "The student haes to ask a question in class.",
+            "sent5": "The driver haes at the intersection."
         }
     ]
 }

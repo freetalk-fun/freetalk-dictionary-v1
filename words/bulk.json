@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "The mass or magnitude of something large.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The bulk of the mountain loomed over the valley.",
+            "sent2": "The ship's cargo was mostly made up of the bulk of the supplies.",
+            "sent3": "The elephant's bulk made it impossible to fit through the tiny door.",
+            "sent4": "The bulk of the storm clouds darkened the sky ominously.",
+            "sent5": "The bulk of the iceberg beneath the surface was a hidden danger to the ship."
         },
         {
             "definition": "The main part or body of something.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The bulk of the book contained the crucial information.",
+            "sent2": "The bulk of the team's effort went into the final project.",
+            "sent3": "The bulk of the cake was devoured within minutes of being served.",
+            "sent4": "The bulk of the population lived in the city center.",
+            "sent5": "The bulk of the tree's branches provided shade on hot days."
         },
         {
             "definition": "To be or appear to be massive in size.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The clouds began to bulk up before the storm.",
+            "sent2": "The wrestler tried to bulk up for the upcoming competition.",
+            "sent3": "I need to bulk up my savings before the big sale next month.",
+            "sent4": "The company decided to bulk up its security measures after the breach.",
+            "sent5": "The superhero's muscles seemed to bulk up as he prepared to fight the villain."
         }
     ]
 }

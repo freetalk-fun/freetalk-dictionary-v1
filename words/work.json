@@ -3,23 +3,48 @@
     "meanings": [
         {
             "definition": "Activity involving mental or physical effort done in order to achieve a purpose or result.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Her work on the project was impressive.",
+            "sent2": "I have a lot of work to do before the deadline.",
+            "sent3": "The robot complained about having to do all the work.",
+            "sent4": "Her dedication to her work is like a shining light in the office.",
+            "sent5": "The work required for the marathon was daunting."
         },
         {
             "definition": "A task or tasks to be undertaken.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Finishing this work will take some time.",
+            "sent2": "The teacher assigned us a lot of work for the weekend.",
+            "sent3": "The work of cleaning the garage seemed never-ending.",
+            "sent4": "The work of organizing the event felt like solving a puzzle.",
+            "sent5": "The work of painting the house was a colorful adventure."
         },
         {
             "definition": "A place where one is employed.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "She goes to work at the hospital every day.",
+            "sent2": "His work is demanding but fulfilling.",
+            "sent3": "The work at the bakery always smells delicious.",
+            "sent4": "The work at the farm is a breath of fresh air.",
+            "sent5": "The work at the office is always buzzing with activity."
         },
         {
             "definition": "To be engaged in physical or mental activity in order to achieve a result.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I work hard to improve my skills.",
+            "sent2": "She will work on the problem until it's solved.",
+            "sent3": "The squirrel worked tirelessly to gather nuts for winter.",
+            "sent4": "The artist worked magic with their paintbrush.",
+            "sent5": "The team worked together to build a strong bond."
         },
         {
             "definition": "To operate or function effectively.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The old car still works perfectly.",
+            "sent2": "The new machine needs some adjustments to work smoothly.",
+            "sent3": "The plan worked like a charm.",
+            "sent4": "Her smile worked wonders to brighten the room.",
+            "sent5": "The key worked its way into the lock with a satisfying click."
         }
     ]
 }

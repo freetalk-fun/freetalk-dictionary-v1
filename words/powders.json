@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A substance composed of finely ground particles.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The baby powder smelled sweet and soft.",
+            "sent2": "I spilled some powder on the floor while baking cookies.",
+            "sent3": "The magician's trick involved making colorful powders disappear.",
+            "sent4": "The field was covered in a powdery blanket of snow.",
+            "sent5": "The athlete's hands were covered in chalk powder before the competition."
         },
         {
             "definition": "To sprinkle or cover with powder.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She powders her face with makeup every morning.",
+            "sent2": "The chef powders the freshly baked donuts with sugar.",
+            "sent3": "The clown playfully powders the audience with confetti.",
+            "sent4": "The baker powders the dough with flour before kneading.",
+            "sent5": "He powders his hands with talcum before lifting weights."
         },
         {
             "definition": "To reduce to fine particles.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The blender powders the nuts for the cake.",
+            "sent2": "The wind powders the rocks over time in the desert.",
+            "sent3": "The artist powders the charcoal to create a smooth texture.",
+            "sent4": "The explosion powders the building into rubble.",
+            "sent5": "The miller powders the grains to make flour for baking."
         }
     ]
 }

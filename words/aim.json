@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "to point or direct (a weapon or camera) at a target",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She aimed the toy gun at the target.",
+            "sent2": "The archer aimed carefully before releasing the arrow.",
+            "sent3": "The cat aimed its laser pointer at the wall, entertaining itself.",
+            "sent4": "His words aimed straight at her heart, leaving her speechless.",
+            "sent5": "The detective aimed his flashlight into the dark alley, searching for clues."
         },
         {
             "definition": "a purpose or intention",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Her aim in life is to become a teacher.",
+            "sent2": "His aim was to make his parents proud.",
+            "sent3": "The aim of the game is to collect the most points.",
+            "sent4": "Love became his guiding aim in life, leading him to happiness.",
+            "sent5": "The aim of the project is to improve community health through education."
         },
         {
             "definition": "to strive or work towards a goal",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "They aimed to finish the race in under an hour.",
+            "sent2": "She aimed for a promotion by working hard every day.",
+            "sent3": "The team aimed for victory, practicing tirelessly.",
+            "sent4": "His efforts aimed at creating a better future for his children.",
+            "sent5": "The students aimed to excel in their exams through dedicated study."
         }
     ]
 }

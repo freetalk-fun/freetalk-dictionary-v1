@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A tray or box in which incoming mail is placed.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I put the letter in the inbox.",
+            "sent2": "My inbox is full of letters.",
+            "sent3": "The inbox was so full, it looked like a treasure chest of mail.",
+            "sent4": "Her inbox overflowed with letters, like a waterfall of paper.",
+            "sent5": "The inbox on my desk is like a hungry monster, always wanting more mail."
         },
         {
             "definition": "A folder in an email program where new messages are received and stored.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I checked my inbox for new emails.",
+            "sent2": "Her inbox had many unread messages.",
+            "sent3": "The inbox beeped happily as new emails arrived.",
+            "sent4": "His inbox was a digital library of messages, neatly organized.",
+            "sent5": "The inbox on my computer screen blinked with new messages, like a digital heartbeat."
         }
     ]
 }

@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "An action or event preceding or preparing for something more important or serious.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The team meeting was just a preliminary to the big presentation next week.",
+            "sent2": "The preliminary round of the competition helped determine the finalists.",
+            "sent3": "The preliminary taste test of the new recipe left everyone eager for more.",
+            "sent4": "His early morning jog was a preliminary to his daily workout routine.",
+            "sent5": "The preliminary investigation revealed crucial evidence for the case."
         },
         {
             "definition": "Serving as a preliminary step or stage in a process.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The preliminary report provided initial insights into the project's feasibility.",
+            "sent2": "She completed the preliminary research before diving deeper into the topic.",
+            "sent3": "The preliminary sketches of the building design were surprisingly detailed.",
+            "sent4": "The preliminary results hinted at a successful outcome for the experiment.",
+            "sent5": "The preliminary analysis highlighted key areas for improvement in the plan."
         }
     ]
 }

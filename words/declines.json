@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To politely refuse or reject something.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She declines the offer to go out tonight.",
+            "sent2": "He always declines dessert at the end of the meal.",
+            "sent3": "The cat declines the invitation to play with the new toy.",
+            "sent4": "The student declines the extra credit opportunity, much to the surprise of the teacher.",
+            "sent5": "The old man declines the kind offer with a gentle smile."
         },
         {
             "definition": "To decrease in quantity or quality.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The number of visitors to the museum declines during the winter months.",
+            "sent2": "The quality of the product declines after multiple uses.",
+            "sent3": "The flowers in the garden decline in beauty as the season changes.",
+            "sent4": "Her health declines rapidly after she stops following the doctor's advice.",
+            "sent5": "The team's performance declines as the game progresses."
         },
         {
             "definition": "A gradual downward slope or decrease in value or importance.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The decline of the ancient ruins is a result of neglect over the years.",
+            "sent2": "The economic decline of the town led to many businesses closing down.",
+            "sent3": "The decline in popularity of the band was unexpected by their fans.",
+            "sent4": "The decline in the stock market caused panic among investors.",
+            "sent5": "The decline of the old building symbolized the changing times."
         }
     ]
 }

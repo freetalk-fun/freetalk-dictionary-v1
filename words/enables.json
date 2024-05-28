@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To make possible or easy",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Having a map enables you to find your way easily.",
+            "sent2": "Studying regularly enables students to understand the material better.",
+            "sent3": "Using a calculator enables you to solve math problems without getting a headache.",
+            "sent4": "A good night's sleep enables your brain to function at its best.",
+            "sent5": "Regular exercise enables your body to stay healthy and strong."
         },
         {
             "definition": "To give someone the authority or means to do something",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The manager enables employees to make decisions on their own.",
+            "sent2": "Parents enable their children to learn independence by allowing them to make choices.",
+            "sent3": "The magic wand enables the wizard to cast powerful spells.",
+            "sent4": "The key enables access to the secret room where treasures are hidden.",
+            "sent5": "The special code enables entry into the top-secret facility."
         }
     ]
 }

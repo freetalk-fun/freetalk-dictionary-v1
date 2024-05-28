@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "An image or copy that is derived from an original.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The museum displayed an ectype of the famous painting.",
+            "sent2": "She made an ectype of the document for her records.",
+            "sent3": "The ectype of the painting looked so real, it fooled everyone!",
+            "sent4": "His drawing was an ectype of perfection, capturing every detail flawlessly.",
+            "sent5": "The ectype of the book cover was so vivid, it drew everyone's attention."
         },
         {
             "definition": "To reproduce or copy an image or text.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "They decided to ectype the ancient manuscript for preservation.",
+            "sent2": "He ectypeed the photograph to share with his friends.",
+            "sent3": "She ectypeed the recipe from the cookbook to try it out.",
+            "sent4": "The artist ectypeed the famous painting with incredible precision.",
+            "sent5": "The machine was able to ectype the design with amazing accuracy."
         }
     ]
 }

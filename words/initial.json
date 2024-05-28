@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Existing or occurring at the beginning",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The initial step in the project was to gather materials.",
+            "sent2": "The initial idea sparked a series of creative solutions.",
+            "sent3": "The initial excitement of the party quickly faded as it started raining.",
+            "sent4": "Her initial enthusiasm for the new job turned into disappointment.",
+            "sent5": "The initial sunrise painted the sky with vibrant colors."
         },
         {
             "definition": "The first letter of a name or word",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Please write your initial on the top right corner of the page.",
+            "sent2": "The company logo consists of the initials of the founders.",
+            "sent3": "His initials spell out a funny acronym that always makes me smile.",
+            "sent4": "The initials engraved on the tree trunk symbolized their everlasting love.",
+            "sent5": "The royal seal bore the king's ornate initials."
         },
         {
             "definition": "To mark or sign with one's initials",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She will initial the contract before it gets finalized.",
+            "sent2": "Remember to initial each page of the document for authentication.",
+            "sent3": "He decided to initial the gift card to personalize it.",
+            "sent4": "The artist would initial each painting to claim authorship.",
+            "sent5": "Before mailing the letter, make sure to initial it for security purposes."
         }
     ]
 }

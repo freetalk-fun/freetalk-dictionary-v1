@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To be owned by someone",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The toy car belongs to Tim.",
+            "sent2": "The red ball belongs to Sarah.",
+            "sent3": "The lost puppy decided to belong to the kind family.",
+            "sent4": "Her heart seemed to belong to the mysterious stranger.",
+            "sent5": "The old book seemed to belong to another era."
         },
         {
             "definition": "To be a member of a group or organization",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I belong to the chess club at school.",
+            "sent2": "She belongs to the choir in church.",
+            "sent3": "The mischievous cat tried to belong to the dog pack.",
+            "sent4": "His ideas seemed to belong to a different generation.",
+            "sent5": "The colorful puzzle piece seemed to belong to the wrong set."
         },
         {
             "definition": "To be in the right place or situation",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The missing key seemed to belong on the table.",
+            "sent2": "The warm blanket belongs on the bed.",
+            "sent3": "The silly hat decided to belong on the cat's head.",
+            "sent4": "The lonely shoe seemed to belong in a different pair.",
+            "sent5": "The shiny trophy seemed to belong in the winner's hands."
         }
     ]
 }

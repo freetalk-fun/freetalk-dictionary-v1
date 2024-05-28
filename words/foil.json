@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A thin sheet of metal",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The chef wrapped the fish in a foil before baking it.",
+            "sent2": "I used foil to cover the leftovers in the fridge.",
+            "sent3": "The shiny foil reflected the sunlight, making it sparkle.",
+            "sent4": "Her smile was like a foil, brightening up the room.",
+            "sent5": "The foil crinkled as she wrapped the gift, adding a festive touch."
         },
         {
             "definition": "Prevent (something considered wrong or undesirable) from succeeding",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She tried to foil the thief's plan by calling the police.",
+            "sent2": "The detective managed to foil the criminal's escape attempt.",
+            "sent3": "The clever cat managed to foil the dog's attempt to steal its food.",
+            "sent4": "The unexpected rain foiled our picnic plans.",
+            "sent5": "Her quick thinking foiled the bully's attempt to ruin her day."
         },
         {
             "definition": "A person or thing that contrasts with and so emphasizes and enhances the qualities of another",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "In the painting, the dark background served as a foil to the vibrant flowers.",
+            "sent2": "Her calm demeanor acted as a foil to his energetic personality.",
+            "sent3": "The comedian's silly jokes were a perfect foil to the serious tone of the meeting.",
+            "sent4": "The villain in the story was a perfect foil to the hero's noble character.",
+            "sent5": "The simple black dress was a great foil to her colorful accessories."
         }
     ]
 }

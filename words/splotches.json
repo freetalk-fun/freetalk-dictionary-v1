@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A spot or stain, especially of a contrasting color or substance.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The artist added splotches of red to the painting.",
+            "sent2": "The dog's fur had splotches of white and brown.",
+            "sent3": "The splotches of paint on the wall looked like a colorful map.",
+            "sent4": "Her dress was covered in splotches of mud after playing outside.",
+            "sent5": "The splotches of ink on the paper formed a unique pattern."
         },
         {
             "definition": "To mark or cover with splotches.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She accidentally splotches the table with paint.",
+            "sent2": "The rain splotches the window with water droplets.",
+            "sent3": "He splotches the canvas with different shades of blue.",
+            "sent4": "The chef splotches the plate with a drizzle of sauce.",
+            "sent5": "The artist carefully splotches the background of the artwork."
         }
     ]
 }

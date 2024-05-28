@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "The state of being away or not being present.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Her absence from the meeting was noticeable.",
+            "sent2": "The absence of noise made the room feel peaceful.",
+            "sent3": "In the absence of his favorite toy, he found a new game to play.",
+            "sent4": "The absence of stars in the city sky saddened her.",
+            "sent5": "The absence of sunlight in the cave created a sense of mystery."
         },
         {
             "definition": "The lack or nonexistence of something.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The absence of food in the fridge meant they had to order takeout.",
+            "sent2": "His absence of fear during the storm surprised everyone.",
+            "sent3": "The absence of color in the painting gave it a unique charm.",
+            "sent4": "The absence of laughter in the room made it feel somber.",
+            "sent5": "The absence of music in the park made the atmosphere dull."
         },
         {
             "definition": "Failure to attend or participate.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Her absence from the game disappointed her teammates.",
+            "sent2": "The student's absence from class affected his grades.",
+            "sent3": "In the absence of the lead actor, the play was canceled.",
+            "sent4": "The absence of applause at the end of the performance was awkward.",
+            "sent5": "The absence of cheers from the crowd made the victory less exciting."
         }
     ]
 }

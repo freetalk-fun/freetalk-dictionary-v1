@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Opposite in position, direction, order, or effect.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The inverses sides of the magnet repelled each other.",
+            "sent2": "The north and south poles are inverses to each other.",
+            "sent3": "The inverses paths of the two cars led to a funny mix-up.",
+            "sent4": "Her cheerful demeanor was the inverse of his gloomy outlook.",
+            "sent5": "The bright colors were the inverse of the dull room."
         },
         {
             "definition": "A relationship between two elements such that if one element is given, the other is uniquely determined.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "In mathematics, finding inverses helps solve equations.",
+            "sent2": "The inverse of addition is subtraction.",
+            "sent3": "The inverse of the missing number was easily calculated.",
+            "sent4": "Their friendship was the perfect inverse of their rivalry.",
+            "sent5": "The key to the puzzle was hidden in the inverse relationship between the symbols."
         }
     ]
 }

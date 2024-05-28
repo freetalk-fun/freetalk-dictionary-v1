@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "The background or setting of a scene or event.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The colorful sunset served as a beautiful backdrop for the wedding photos.",
+            "sent2": "The city skyline made a stunning backdrop for the outdoor concert.",
+            "sent3": "The mischievous squirrel added a playful touch to the peaceful backdrop of the park.",
+            "sent4": "The towering mountains created a majestic backdrop for the small village below.",
+            "sent5": "The shimmering lake provided a serene backdrop for the family picnic."
         },
         {
             "definition": "A large piece of cloth with a painted scene used as a background in a theater or studio.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The actors stood in front of the colorful backdrop during the play.",
+            "sent2": "The photographer set up a professional backdrop for the portrait session.",
+            "sent3": "The mischievous squirrel tried to climb the backdrop during the theater performance.",
+            "sent4": "The intricate backdrop transformed the stage into a magical forest.",
+            "sent5": "The detailed backdrop depicted a bustling city street for the film scene."
         },
         {
             "definition": "To provide a background for.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She wanted to backdrop the presentation with soothing music.",
+            "sent2": "The artist decided to backdrop the painting with vibrant colors.",
+            "sent3": "He tried to backdrop his story with humorous anecdotes.",
+            "sent4": "The designer chose to backdrop the fashion show with elegant decor.",
+            "sent5": "They planned to backdrop the event with a stunning light display."
         }
     ]
 }

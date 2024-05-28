@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To teach or provide knowledge or information to someone",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The teacher will instruct the students on how to solve the math problem.",
+            "sent2": "She will instruct the new employees on the company's policies.",
+            "sent3": "The robot was programmed to instruct the curious puppy on basic commands.",
+            "sent4": "The wise owl instructs the young owlets on the ways of the forest.",
+            "sent5": "The experienced chef will instruct you on the art of baking the perfect cake."
         },
         {
             "definition": "To give directions or orders",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Please instruct the delivery person to leave the package by the door.",
+            "sent2": "The sergeant will instruct the soldiers on the next steps of the mission.",
+            "sent3": "The GPS device will instruct you to turn left at the upcoming intersection.",
+            "sent4": "The captain instructs the crew to prepare for the storm ahead.",
+            "sent5": "The coach will instruct the team to focus on defense during the game."
         },
         {
             "definition": "To provide guidance or advice",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The counselor will instruct the students on making wise decisions.",
+            "sent2": "He will instruct his mentee on how to navigate the challenges ahead.",
+            "sent3": "The fortune cookie's message seemed to instruct her to follow her heart.",
+            "sent4": "The lighthouse's beam of light instructs ships to safety in the dark.",
+            "sent5": "The wise elder instructs the young ones on the importance of kindness."
         }
     ]
 }

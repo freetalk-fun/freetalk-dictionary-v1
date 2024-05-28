@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To place or store in a bin.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She was binning her toys after playing.",
+            "sent2": "He is binning the groceries in the pantry.",
+            "sent3": "The cat was binning its toys all over the room.",
+            "sent4": "The students were binning their books neatly on the shelves.",
+            "sent5": "Binning the tools in the toolbox made them easy to find."
         },
         {
             "definition": "The act of discarding or disposing of something.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "After the party, the binning of trash was necessary.",
+            "sent2": "Proper binning of old items can help declutter your space.",
+            "sent3": "The binning of expired food items was a smelly task.",
+            "sent4": "The binning of broken toys made room for new ones.",
+            "sent5": "Effective binning of papers can help in organizing your desk."
         },
         {
             "definition": "The process of grouping data into bins for analysis.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "In statistics, binning is important for data analysis.",
+            "sent2": "Researchers use binning to simplify complex data sets.",
+            "sent3": "The binning of information helped in drawing meaningful conclusions.",
+            "sent4": "Binning data into categories makes it easier to interpret.",
+            "sent5": "The accuracy of the analysis depended on proper binning of the data."
         }
     ]
 }

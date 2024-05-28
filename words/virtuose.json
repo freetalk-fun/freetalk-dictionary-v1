@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A person highly skilled in a particular art or field.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The virtuose played the piano beautifully at the concert.",
+            "sent2": "She admired the virtuose for his incredible talent in painting.",
+            "sent3": "The virtuose magician amazed the audience with his tricks.",
+            "sent4": "Her cooking skills were so advanced, she was a virtuose in the kitchen.",
+            "sent5": "The young virtuose violinist captivated everyone with her performance."
         },
         {
             "definition": "Showing great skill or technique.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The artist's virtuose brush strokes created a masterpiece.",
+            "sent2": "He was known for his virtuose handling of difficult situations.",
+            "sent3": "The virtuose chef prepared a meal that was out of this world.",
+            "sent4": "Her virtuose ability to solve puzzles impressed everyone around her.",
+            "sent5": "The virtuose dancer moved with grace and precision on stage."
         }
     ]
 }

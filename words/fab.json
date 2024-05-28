@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Fabulous: extremely pleasing or successful",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The party was fab with colorful decorations and delicious food.",
+            "sent2": "She looked fab in her new dress at the event.",
+            "sent3": "The cat's attempt at balancing on a ball was fabulously entertaining.",
+            "sent4": "The sunrise painted the sky in fab hues of pink and orange.",
+            "sent5": "The magician's tricks were so fab that the audience was left in awe."
         },
         {
             "definition": "Fabricate: to invent or concoct something, typically with deceitful intent",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He tried to fab a story to cover up his mistake.",
+            "sent2": "The suspect attempted to fabricate an alibi for the crime.",
+            "sent3": "The student decided to fab an excuse for not completing the assignment.",
+            "sent4": "The politician was caught fabricating evidence to support his claims.",
+            "sent5": "The author had to fabricate a believable plot twist for the novel."
         },
         {
             "definition": "Fab: short for fabulous, used informally to express approval or excitement",
-            "pos": "adjective, interjection"
+            "pos": "adjective, interjection",
+            "sent1": "The movie was fab, and everyone enjoyed it.",
+            "sent2": "Fab! Let's go celebrate your success.",
+            "sent3": "The unexpected gift was a fab surprise for her birthday.",
+            "sent4": "The team's victory was met with a fab cheer from the fans.",
+            "sent5": "Fab news! We won the competition."
         }
     ]
 }

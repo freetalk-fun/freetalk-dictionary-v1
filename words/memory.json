@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "The faculty by which the mind stores and remembers information.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "My memory helps me remember important dates.",
+            "sent2": "Her memory of the event was crystal clear.",
+            "sent3": "I have a terrible memory, I always forget where I put my keys.",
+            "sent4": "The memory of her smile brightened his day.",
+            "sent5": "The memory of his first bike ride stayed with him forever."
         },
         {
             "definition": "Something remembered from the past.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The old photo brought back a sweet memory.",
+            "sent2": "His memories of childhood are filled with laughter.",
+            "sent3": "Finding his favorite childhood toy brought back a flood of memories.",
+            "sent4": "The memory of her voice lingered in his mind.",
+            "sent5": "The memory of their first meeting still makes her smile."
         },
         {
             "definition": "The capacity of a computer to store and retrieve data.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The computer's memory allows it to run multiple programs.",
+            "sent2": "Upgrading the memory of the computer improved its performance.",
+            "sent3": "The computer's memory seemed to have a mind of its own, storing random files.",
+            "sent4": "The memory of the computer was like a vast library of information.",
+            "sent5": "The memory of the device was crucial for processing large amounts of data."
         }
     ]
 }

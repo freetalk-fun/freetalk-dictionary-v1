@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Suffering from an illness or disease.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The ailed patient rested in bed.",
+            "sent2": "The ailed cat sneezed frequently.",
+            "sent3": "The ailed puppy wore a tiny cone around its neck.",
+            "sent4": "The ailed flower drooped in the heat.",
+            "sent5": "The ailed child's pale face showed the severity of the illness."
         },
         {
             "definition": "To cause pain or trouble to.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The loud noise ailed my ears.",
+            "sent2": "The bitter cold ailed the hikers' exposed skin.",
+            "sent3": "The broken shoelace ailed the runner's progress.",
+            "sent4": "The haunting memories ailed her heart.",
+            "sent5": "The sharp criticism ailed his confidence."
         },
         {
             "definition": "To be troubled or distressed.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The student ailed over the upcoming exam.",
+            "sent2": "The worried mother ailed about her missing child.",
+            "sent3": "The ailing car refused to start on a cold morning.",
+            "sent4": "The ailing relationship needed attention to thrive.",
+            "sent5": "The ailing economy caused widespread concern among citizens."
         }
     ]
 }

@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A line of text that is smaller or secondary to the main line of text.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The subline at the bottom of the page contained additional information.",
+            "sent2": "The article had a subline summarizing the main points.",
+            "sent3": "The subline made a joke about being the 'little sibling' of the main text.",
+            "sent4": "Her words formed a subline of support beneath his main argument.",
+            "sent5": "The subline, though small, added depth to the overall message."
         },
         {
             "definition": "To place or arrange in a subordinate position.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She decided to subline the image to the corner of the poster.",
+            "sent2": "The manager asked her to subline the new data in the report.",
+            "sent3": "He sublined the task to show its importance in the project.",
+            "sent4": "The artist sublined the background to highlight the main subject.",
+            "sent5": "Sublining the details helped clarify the main idea."
         },
         {
             "definition": "To emphasize or underscore.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The speaker used gestures to subline his key points.",
+            "sent2": "She sublined the title to draw attention to it.",
+            "sent3": "He sublined the importance of teamwork in his speech.",
+            "sent4": "The music sublined the emotional impact of the scene.",
+            "sent5": "Sublining certain words can enhance the overall message."
         }
     ]
 }

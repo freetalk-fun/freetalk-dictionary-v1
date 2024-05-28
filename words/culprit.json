@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A person who is responsible for a crime or other misdeed.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The culprit stole the cookies from the jar.",
+            "sent2": "The police caught the culprit red-handed.",
+            "sent3": "The mischievous culprit left a trail of crumbs behind.",
+            "sent4": "The culprit's fingerprints were all over the scene.",
+            "sent5": "The culprit confessed to the crime after being caught."
         },
         {
             "definition": "The cause of a problem or defect.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The leaky faucet turned out to be the culprit of the high water bill.",
+            "sent2": "After investigation, they found the faulty wiring was the culprit of the power outage.",
+            "sent3": "The sneaky culprit hiding in the system caused the glitch.",
+            "sent4": "The lack of maintenance was the silent culprit behind the machine breakdown.",
+            "sent5": "Identifying the culprit is the first step to solving the issue."
         }
     ]
 }

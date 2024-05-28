@@ -3,19 +3,39 @@
     "meanings": [
         {
             "definition": "A nation or territory considered as an organized political community under one government.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The United States is a powerful state.",
+            "sent2": "The state of California is known for its beaches.",
+            "sent3": "The state of confusion at the party was hilarious.",
+            "sent4": "Her mind was a turbulent state of emotions.",
+            "sent5": "The state of war brought fear to the citizens."
         },
         {
             "definition": "The particular condition that someone or something is in at a specific time.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "She was in a happy state after receiving good news.",
+            "sent2": "The car was in a damaged state after the accident.",
+            "sent3": "His state of hunger made him eat everything in sight.",
+            "sent4": "The state of the room reflected her chaotic mind.",
+            "sent5": "The state of the garden showed neglect and overgrowth."
         },
         {
             "definition": "Express something definitely or clearly in speech or writing.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Please state your name for the record.",
+            "sent2": "He stated his opinion on the matter during the meeting.",
+            "sent3": "She stated her love for ice cream in a loud voice.",
+            "sent4": "His eyes stated his disapproval without a word.",
+            "sent5": "The sign stated the rules clearly for all to see."
         },
         {
             "definition": "Declare something to be the case without providing evidence or proof.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He likes to state his assumptions as facts.",
+            "sent2": "She stated that she would win the game with confidence.",
+            "sent3": "The detective stated the suspect's guilt without evidence.",
+            "sent4": "His bold statement shook the room into silence.",
+            "sent5": "The teacher stated the answer, expecting no arguments."
         }
     ]
 }

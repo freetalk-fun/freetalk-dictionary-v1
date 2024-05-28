@@ -2,16 +2,31 @@
     "term": "pharmas",
     "meanings": [
         {
-            "definition": "Pharmas (noun): pharmaceuticals or drugs",
-            "pos": "noun"
+            "definition": "pharmaceuticals or drugs",
+            "pos": "noun",
+            "sent1": "The hospital stocked various pharmas for the patients.",
+            "sent2": "She picked up her prescribed pharmas from the pharmacy.",
+            "sent3": "The cat knocked over the pharmas, thinking they were toys.",
+            "sent4": "His backpack was like a treasure chest, filled with pharmas.",
+            "sent5": "The colorful pharmas on the shelf caught her eye."
         },
         {
-            "definition": "Pharmas (verb): to dispense or distribute medications",
-            "pos": "verb"
+            "definition": "to dispense or distribute medications",
+            "pos": "verb",
+            "sent1": "The pharmacist will pharmas the prescribed medication.",
+            "sent2": "He pharmas the pills carefully to each patient.",
+            "sent3": "The robot was programmed to pharmas the correct dosage.",
+            "sent4": "She could pharmas relief to those in need.",
+            "sent5": "The nurse quickly pharmas the necessary injections."
         },
         {
-            "definition": "Pharmas (adjective): relating to the pharmaceutical industry or medications",
-            "pos": "adjective"
+            "definition": "relating to the pharmaceutical industry or medications",
+            "pos": "adjective",
+            "sent1": "She pursued a career in the pharmas field.",
+            "sent2": "The pharmas company announced a new product launch.",
+            "sent3": "The pharmas conference was filled with exciting innovations.",
+            "sent4": "His lab coat symbolized his dedication to the pharmas world.",
+            "sent5": "The pharmas industry plays a crucial role in healthcare."
         }
     ]
 }

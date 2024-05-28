@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To restrain or prevent (someone or something) from doing something",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Loud noises can inhibit concentration during a test.",
+            "sent2": "The locked gate will inhibit anyone from entering the restricted area.",
+            "sent3": "Trying to study with a noisy parrot can inhibit your focus.",
+            "sent4": "Her fear of failure seemed to inhibit her from taking risks.",
+            "sent5": "The bright light shining directly in his eyes seemed to inhibit his ability to see clearly."
         },
         {
             "definition": "To hinder or impede the progress or movement of someone or something",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The heavy traffic can inhibit the delivery trucks from reaching their destination on time.",
+            "sent2": "A broken bridge can inhibit travelers from crossing the river.",
+            "sent3": "Wearing shoes that are too tight can inhibit your ability to walk comfortably.",
+            "sent4": "The thick fog inhibited visibility on the road, causing delays.",
+            "sent5": "The tangled vines inhibited the explorers' progress through the dense jungle."
         },
         {
             "definition": "To suppress or limit the activity or function of someone or something",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Certain medications can inhibit the growth of bacteria in the body.",
+            "sent2": "The cold weather can inhibit the performance of electronic devices.",
+            "sent3": "Eating too much sugar can inhibit your body's ability to regulate blood sugar levels.",
+            "sent4": "The strict rules seemed to inhibit creativity in the art class.",
+            "sent5": "The lack of proper equipment can inhibit the team's ability to complete the project on time."
         }
     ]
 }

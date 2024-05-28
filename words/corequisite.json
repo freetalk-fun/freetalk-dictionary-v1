@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A course that must be taken concurrently with another course.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Math is a corequisite for Physics, meaning you have to take them together.",
+            "sent2": "In order to enroll in Chemistry, Biology is a corequisite.",
+            "sent3": "It's like peanut butter and jelly, they are corequisites in the sandwich of education.",
+            "sent4": "Learning to walk is a corequisite to running, they go hand in hand.",
+            "sent5": "Just like a key and a lock, the two courses are corequisites, one cannot work without the other."
         },
         {
             "definition": "A requirement that must be fulfilled at the same time as another requirement.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Completing the lab is a corequisite to passing the class.",
+            "sent2": "Attending the seminar is a corequisite for graduation.",
+            "sent3": "It's like needing a spoon to eat soup, they are corequisites for a successful meal.",
+            "sent4": "Time management is a corequisite to success, you can't have one without the other.",
+            "sent5": "Just like a puzzle piece, the two requirements are corequisites, fitting perfectly together."
         }
     ]
 }

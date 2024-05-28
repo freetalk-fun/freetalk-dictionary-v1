@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A phone call made using an automated dialing system.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I received a robocall about a survey yesterday.",
+            "sent2": "The robocall informed me about a new offer.",
+            "sent3": "The robocall from the telemarketer interrupted my dinner.",
+            "sent4": "The constant robocalls felt like a never-ending stream of interruptions.",
+            "sent5": "The loud robocall echoed through the empty house."
         },
         {
             "definition": "To make a phone call using an automated dialing system.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "They robocalled their entire contact list to spread the message.",
+            "sent2": "I will robocall you later with the details.",
+            "sent3": "He decided to robocall his friend as a prank.",
+            "sent4": "She robocalled the emergency hotline for help.",
+            "sent5": "The company robocalls customers for feedback on their services."
         }
     ]
 }

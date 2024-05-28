@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To lead or guide in the wrong direction.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The faulty map mislighted the hikers, causing them to get lost.",
+            "sent2": "She didn't want to mislight her friend, so she gave clear directions.",
+            "sent3": "The mischievous squirrel mislighted the other animals by leading them to a fake stash of acorns.",
+            "sent4": "His overconfidence mislighted him into thinking he could navigate the maze blindfolded.",
+            "sent5": "The flickering torchlight mislighted the path, making it hard to see the way ahead."
         },
         {
             "definition": "To deceive or mislead.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The con artist tried to mislight the old lady into buying a fake painting.",
+            "sent2": "It is unethical to mislight customers about the quality of a product.",
+            "sent3": "The magician's trick was to mislight the audience into believing he could fly.",
+            "sent4": "Her charming smile could mislight anyone into trusting her instantly.",
+            "sent5": "The fake news article was designed to mislight readers into believing a false narrative."
         },
         {
             "definition": "Incorrect or misleading information.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The mislight in the report led to a misunderstanding among the team.",
+            "sent2": "It's important to verify sources to avoid spreading mislight.",
+            "sent3": "The mislight in the advertisement made the product seem better than it actually was.",
+            "sent4": "The mislight in the contract caused a legal dispute between the parties.",
+            "sent5": "She was shocked to discover the mislight in the historical document she had been studying."
         }
     ]
 }

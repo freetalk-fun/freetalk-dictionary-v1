@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Marked or designated on a map or chart",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The plotted locations on the map helped us find our way.",
+            "sent2": "The plotted route showed us where to go.",
+            "sent3": "The plotted spots on the map made it easy to navigate.",
+            "sent4": "The plotted areas on the chart were like colorful markers.",
+            "sent5": "The plotted points on the map stood out clearly."
         },
         {
             "definition": "Formed a plan or scheme",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She plotted a surprise party for her friend.",
+            "sent2": "They plotted their escape carefully.",
+            "sent3": "He plotted a clever way to prank his brother.",
+            "sent4": "The villain plotted his evil scheme in secret.",
+            "sent5": "They plotted their strategy for the game."
         },
         {
             "definition": "Connected points on a graph or chart",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The plotted points on the graph showed a clear trend.",
+            "sent2": "The plotted lines on the chart helped visualize the data.",
+            "sent3": "The plotted dots on the graph looked like a constellation.",
+            "sent4": "The plotted connections on the chart revealed a pattern.",
+            "sent5": "The plotted graph displayed the information clearly."
         }
     ]
 }

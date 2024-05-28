@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Used to draw attention or express surprise.",
-            "pos": "interjection"
+            "pos": "interjection",
+            "sent1": "Lo! What a beautiful sunset!",
+            "sent2": "Lo, I found my missing sock!",
+            "sent3": "Lo, the cat chased its tail in circles!",
+            "sent4": "Lo, the stars danced in the night sky!",
+            "sent5": "Lo, a rainbow appeared after the storm!"
         },
         {
             "definition": "A look or glance.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "She gave him a quick lo before turning away.",
+            "sent2": "He caught a lo of the mysterious figure in the shadows.",
+            "sent3": "With a mischievous lo, she winked at her friend.",
+            "sent4": "The lo he received from the teacher made him nervous.",
+            "sent5": "The lo of admiration in her eyes was unmistakable."
         },
         {
             "definition": "A way of addressing someone in a casual or friendly manner.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Hey, lo, how's it going?",
+            "sent2": "She greeted her friend with a warm lo.",
+            "sent3": "Lo there, buddy, what's the latest gossip?",
+            "sent4": "He always used a cheerful lo when talking to customers.",
+            "sent5": "The old man's lo always made everyone feel welcome."
         }
     ]
 }

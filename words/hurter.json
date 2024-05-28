@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A person or thing that causes harm or injury.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The hurter in the story was the villain who wanted to harm others.",
+            "sent2": "The doctor treated the hurter's wounds after the accident.",
+            "sent3": "The hurter in the movie turned out to be the protagonist's best friend, which surprised everyone.",
+            "sent4": "Fear can be a silent hurter, slowly causing damage to one's mental health.",
+            "sent5": "The hurricane was a powerful hurter, destroying everything in its path."
         },
         {
             "definition": "To cause physical pain or injury to someone.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Be careful not to hurter yourself while using sharp tools.",
+            "sent2": "The bully tried to hurter the smaller kids on the playground.",
+            "sent3": "The mischievous kitten playfully tried to hurter its owner's toes.",
+            "sent4": "His harsh words seemed to hurter her more than any physical blow.",
+            "sent5": "The intense workout may hurter at first, but it will make you stronger in the long run."
         },
         {
             "definition": "Causing emotional pain or distress.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The sad movie had a hurter effect on her, making her cry.",
+            "sent2": "His hurter words left a lasting impact on her self-esteem.",
+            "sent3": "Despite the hurter news, she tried to stay positive and hopeful.",
+            "sent4": "The breakup was a hurter experience, but she learned to heal and move on.",
+            "sent5": "The loss of her pet was a deeply hurter event, leaving her heartbroken."
         }
     ]
 }

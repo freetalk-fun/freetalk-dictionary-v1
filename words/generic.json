@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Characteristic of or relating to a class or group of things; not specific",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The store sold a generic shirt that could be worn by anyone.",
+            "sent2": "She preferred the generic brand of cereal over the name brands.",
+            "sent3": "The generic party decorations made the event feel like a school project.",
+            "sent4": "His generic response to the question showed a lack of thought.",
+            "sent5": "The generic smell of fresh bread filled the room, making everyone hungry."
         },
         {
             "definition": "A product that is not branded or trademarked",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The pharmacy offered a generic version of the medication at a lower cost.",
+            "sent2": "He decided to buy the generic soda instead of the expensive brand.",
+            "sent3": "The generic snack tasted surprisingly delicious, even without a famous label.",
+            "sent4": "Her room was filled with generic items that she had collected over the years.",
+            "sent5": "The store only carried generic products, making it hard to find name brands."
         },
         {
             "definition": "A drug that is not protected by a trademark",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The doctor prescribed a generic medication for her condition.",
+            "sent2": "He chose the generic pain reliever because it was more affordable.",
+            "sent3": "The generic pill bottle looked plain compared to the colorful branded ones.",
+            "sent4": "She always kept a supply of generic drugs in her medicine cabinet.",
+            "sent5": "The generic medicine worked just as well as the expensive brand-name version."
         }
     ]
 }

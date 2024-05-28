@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A line or mark made by folding or wrinkling",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The paper had a crease from being folded.",
+            "sent2": "She ironed out the crease in her shirt.",
+            "sent3": "The cat sat on the paper, leaving a crease behind.",
+            "sent4": "His smile formed a crease in the corner of his eyes.",
+            "sent5": "The crease in the map showed where they had traveled."
         },
         {
             "definition": "To make a line or mark by folding or wrinkling",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He tried to crease the paper neatly.",
+            "sent2": "She accidentally creased the photograph while packing.",
+            "sent3": "The wind creased the pages of the book as it blew.",
+            "sent4": "His brow creased in confusion as he tried to understand.",
+            "sent5": "The tailor carefully creased the fabric before sewing."
         }
     ]
 }

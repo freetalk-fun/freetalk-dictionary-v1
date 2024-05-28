@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A group of three related works, such as books or films, that are connected in theme or story.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The fantasy trilogy was about three friends on a magical adventure.",
+            "sent2": "I enjoyed reading the entire trilogy over the weekend.",
+            "sent3": "The trilogy of detective novels kept me guessing until the very end.",
+            "sent4": "Her life felt like a trilogy of love, loss, and redemption.",
+            "sent5": "The trilogy of paintings depicted the changing seasons beautifully."
         },
         {
             "definition": "A series of three related events or actions.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The trilogy of thunderstorms caused flooding in the area.",
+            "sent2": "His trilogy of mistakes led to a major misunderstanding.",
+            "sent3": "The trilogy of family gatherings always ended in chaos.",
+            "sent4": "The trilogy of challenges at work tested her resilience.",
+            "sent5": "The trilogy of victories boosted their team's morale."
         }
     ]
 }

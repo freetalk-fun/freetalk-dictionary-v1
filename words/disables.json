@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To make unable or unfit; deprive of strength or ability",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "A broken leg disables him from running.",
+            "sent2": "The virus disables the computer system.",
+            "sent3": "His fear of heights disables him from climbing ladders.",
+            "sent4": "Lack of sleep disables our concentration like a fog over a city.",
+            "sent5": "The storm disables the power lines, plunging the town into darkness."
         },
         {
             "definition": "To impair physically or mentally",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The injury disables her arm movement.",
+            "sent2": "The illness disables his memory temporarily.",
+            "sent3": "Eating too much sugar can disable your focus.",
+            "sent4": "The loud noise disables her hearing for a while.",
+            "sent5": "The stress disables his ability to think clearly."
         },
         {
             "definition": "To render inoperative or incapable of use",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "A flat tire disables the car.",
+            "sent2": "The software update disables certain features.",
+            "sent3": "Spilling water on the phone can disable its functions.",
+            "sent4": "A power outage disables the elevator temporarily.",
+            "sent5": "The lock on the door disables entry without a key."
         }
     ]
 }

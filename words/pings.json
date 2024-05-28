@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A high-pitched, short sound.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The pings of the microwave signaled that the food was ready.",
+            "sent2": "I heard the pings of the wind chimes outside my window.",
+            "sent3": "The pings of the tiny bell made the kitten jump in surprise.",
+            "sent4": "The pings of raindrops on the roof created a soothing melody.",
+            "sent5": "The pings of the metal spoon against the glass echoed in the room."
         },
         {
             "definition": "To make a high-pitched, short sound.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The metal pipe pings when you tap it lightly.",
+            "sent2": "The old door pings every time it swings open.",
+            "sent3": "The toy robot pings as it moves around the room.",
+            "sent4": "The glass marble pings against the ceramic bowl.",
+            "sent5": "The small pebble pings as it bounces off the ground."
         },
         {
             "definition": "To send a quick, short message to a computer or device to check its status.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I will ping the server to see if it is responding.",
+            "sent2": "The technician pings the network to troubleshoot the issue.",
+            "sent3": "The computer program pings the devices for updates automatically.",
+            "sent4": "The smartwatch pings my phone to remind me of appointments.",
+            "sent5": "The security system pings the central monitoring station for alerts."
         }
     ]
 }

@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To explain again.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Please reexplain the math problem to me.",
+            "sent2": "I need you to reexplain the instructions for the game.",
+            "sent3": "He had to reexplain the joke to his little brother.",
+            "sent4": "The teacher had to reexplain the concept multiple times.",
+            "sent5": "She asked him to reexplain the plot of the movie in simpler terms."
         },
         {
             "definition": "To clarify by explaining again.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Can you reexplain the new policy to the team?",
+            "sent2": "The doctor had to reexplain the treatment plan to the patient.",
+            "sent3": "She had to reexplain the directions because they were confusing.",
+            "sent4": "The coach had to reexplain the strategy during halftime.",
+            "sent5": "He tried to reexplain the concept using a different example."
         }
     ]
 }

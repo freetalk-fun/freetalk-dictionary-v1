@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To blind temporarily with bright light",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The sun can dazzle your eyes if you look directly at it.",
+            "sent2": "The stage lights dazzled the audience during the performance.",
+            "sent3": "The flashlight accidentally dazzled the cat, making it run in circles.",
+            "sent4": "The fireworks in the night sky seemed to dazzle the stars themselves.",
+            "sent5": "The camera flash can dazzle and leave spots in your vision for a moment."
         },
         {
             "definition": "To impress or astonish greatly",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Her talent for singing never fails to dazzle the audience.",
+            "sent2": "The magician's tricks never fail to dazzle the children at the party.",
+            "sent3": "The clever plot twist in the movie managed to dazzle even the most critical viewer.",
+            "sent4": "His intelligence and wit never fail to dazzle his colleagues at work.",
+            "sent5": "The acrobat's daring stunts never fail to dazzle the crowd at the circus."
         },
         {
             "definition": "A brilliant display or effect",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The fireworks show was a dazzling display of colors and lights.",
+            "sent2": "The jewelry in the store window caught her eye with its dazzling sparkle.",
+            "sent3": "The costume designer created a dazzling outfit for the lead actress in the play.",
+            "sent4": "The city skyline at night was a dazzling sight with all the lights and skyscrapers.",
+            "sent5": "The dance performance ended with a dazzling finale that left the audience in awe."
         }
     ]
 }

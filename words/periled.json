@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To put in danger.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Leaving the gate open periled the safety of the animals.",
+            "sent2": "The hiker periled his life by venturing into the deep forest alone.",
+            "sent3": "Forgetting to bring an umbrella periled her hairdo in the rain.",
+            "sent4": "His reckless driving periled the lives of everyone on the road.",
+            "sent5": "Ignoring the warning signs periled their chances of survival in the wilderness."
         },
         {
             "definition": "In danger of being harmed or destroyed.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The old bridge was periled and could collapse at any moment.",
+            "sent2": "The periled ship struggled to stay afloat in the stormy sea.",
+            "sent3": "The periled castle was in need of urgent repairs to prevent collapse.",
+            "sent4": "The periled species faced extinction due to habitat loss.",
+            "sent5": "The periled city was evacuated before the hurricane hit to ensure safety."
         }
     ]
 }

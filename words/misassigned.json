@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Incorrectly assigned or designated to someone or something.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The misassigned book was placed in the wrong section.",
+            "sent2": "The misassigned label caused confusion among the students.",
+            "sent3": "The misassigned seat led to a mix-up during the event.",
+            "sent4": "The misassigned role in the play made for an unexpected twist.",
+            "sent5": "The misassigned key opened a door to a surprising room."
         },
         {
             "definition": "To assign or designate incorrectly.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She misassigned the tasks and caused delays in the project.",
+            "sent2": "The teacher misassigned the homework, creating extra work for the students.",
+            "sent3": "He misassigned the ingredients and ended up with a strange-tasting dish.",
+            "sent4": "The detective misassigned the suspect, leading to a mistaken arrest.",
+            "sent5": "The manager misassigned the roles, resulting in a chaotic work environment."
         }
     ]
 }

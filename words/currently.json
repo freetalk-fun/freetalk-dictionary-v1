@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "At the present time",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "She is currently reading a book.",
+            "sent2": "I am currently eating lunch.",
+            "sent3": "The cat is currently chasing its tail.",
+            "sent4": "The sun is currently shining brightly in the sky.",
+            "sent5": "The clock on the wall is currently ticking away the seconds."
         },
         {
             "definition": "At the moment",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "He is currently playing with his toys.",
+            "sent2": "They are currently watching a movie.",
+            "sent3": "The dog is currently barking at the mailman.",
+            "sent4": "The wind is currently blowing the leaves off the trees.",
+            "sent5": "The rain is currently falling gently on the roof."
         },
         {
             "definition": "Now",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "I am currently typing on the computer.",
+            "sent2": "She is currently talking on the phone.",
+            "sent3": "The bird is currently singing a sweet melody.",
+            "sent4": "The river is currently flowing peacefully downstream.",
+            "sent5": "The children are currently playing in the park."
         }
     ]
 }

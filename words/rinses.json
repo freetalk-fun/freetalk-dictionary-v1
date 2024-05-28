@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To wash lightly with water.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She rinses her face with water every morning.",
+            "sent2": "Mom rinses the dishes before putting them in the dishwasher.",
+            "sent3": "The cat rinses its paws in the puddle after playing outside.",
+            "sent4": "The gentle rain rinses the dusty leaves, making them sparkle.",
+            "sent5": "The stream rinses away the dirt from the rocks, revealing their true colors."
         },
         {
             "definition": "A liquid preparation used for washing or cleaning.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "She uses a special rinse for her hair to make it shiny.",
+            "sent2": "The dentist recommended a fluoride rinse for better oral health.",
+            "sent3": "The chef added a splash of vinegar rinse to the salad dressing.",
+            "sent4": "The car wash offers a wax rinse for extra protection.",
+            "sent5": "The laundry detergent includes a fabric softener rinse for freshness."
         }
     ]
 }

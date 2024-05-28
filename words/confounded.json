@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Used for emphasis or to express annoyance or anger.",
-            "pos": "interjection"
+            "pos": "interjection",
+            "sent1": "Confounded! I can't believe I forgot my keys again!",
+            "sent2": "Oh, confounded mosquitoes buzzing around me!",
+            "sent3": "Confounded! I spilled my drink all over my new shirt.",
+            "sent4": "The confounded rain ruined our picnic plans.",
+            "sent5": "Confounded! Why is the Wi-Fi not working when I need it the most?"
         },
         {
             "definition": "Confused or perplexed.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "She looked confounded when she saw the unexpected guest at the party.",
+            "sent2": "The confounded maze had us wandering in circles for hours.",
+            "sent3": "His confounded expression made me realize he misunderstood my joke.",
+            "sent4": "The confounded math problem seemed unsolvable at first.",
+            "sent5": "The confounded look on his face told me he was lost in thought."
         },
         {
             "definition": "Damned or cursed.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The confounded pirate ship was said to bring bad luck to all who boarded it.",
+            "sent2": "Legend has it that the confounded treasure was protected by a curse.",
+            "sent3": "The confounded ghost was said to haunt the old mansion at night.",
+            "sent4": "The confounded artifact was believed to hold a dark power within.",
+            "sent5": "The confounded curse was finally lifted after generations of misfortune."
         }
     ]
 }

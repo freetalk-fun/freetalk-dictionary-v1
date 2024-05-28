@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "The solid surface of the earth.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The puppy dug a hole in the ground.",
+            "sent2": "The earthquake shook the ground violently.",
+            "sent3": "The ground seemed to play hide and seek with the mole.",
+            "sent4": "Her words hit me like a ton of bricks, knocking me to the ground.",
+            "sent5": "The ground felt cool and damp beneath my bare feet."
         },
         {
             "definition": "The basis or foundation of something.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Trust is the ground of any strong relationship.",
+            "sent2": "The ground of his argument was solid and well-reasoned.",
+            "sent3": "The ground of the cake was made of chocolate, surprising everyone.",
+            "sent4": "Love is the ground on which happiness grows.",
+            "sent5": "The ground of the building was made of sturdy concrete."
         },
         {
             "definition": "To instruct in basic principles.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She will ground you on how to bake a cake.",
+            "sent2": "The teacher will ground the students on the importance of honesty.",
+            "sent3": "He tried to ground his friend on the art of fishing, but ended up tangled in the line.",
+            "sent4": "The coach grounded the team on the fundamentals of the game.",
+            "sent5": "I will ground you on the rules of the competition before it starts."
         }
     ]
 }

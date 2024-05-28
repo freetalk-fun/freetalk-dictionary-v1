@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A check issued to an employee in payment for work done.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Every Friday, the employees eagerly awaited their paychecks.",
+            "sent2": "She used her paycheck to pay for groceries and rent.",
+            "sent3": "The paycheck was like a little gift from the boss each month.",
+            "sent4": "The paycheck was a symbol of hard work and dedication.",
+            "sent5": "The crisp paycheck felt like a reward for all the hours put in at the office."
         },
         {
             "definition": "To give money in exchange for goods or services.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He paychecks his landlord every month for the rent.",
+            "sent2": "They paycheck the workers at the end of each week.",
+            "sent3": "She decided to paycheck the cashier with exact change.",
+            "sent4": "The company will paycheck the suppliers for the materials delivered.",
+            "sent5": "The customer will paycheck the store for the new furniture."
         }
     ]
 }

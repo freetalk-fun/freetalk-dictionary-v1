@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Used to express hesitation or uncertainty.",
-            "pos": "interjection"
+            "pos": "interjection",
+            "sent1": "Hmm, I'm not sure if I should go to the party.",
+            "sent2": "Hmm, let me think about it for a moment.",
+            "sent3": "Hmm, should I wear a hat to the beach?",
+            "sent4": "Hmm, the answer to the riddle seemed just out of reach.",
+            "sent5": "Hmm, the mysterious noise in the attic made me pause."
         },
         {
             "definition": "Used to indicate thinking or pondering.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She always hmm before giving her opinion.",
+            "sent2": "I hmm about what gift to buy for my friend.",
+            "sent3": "He hmm for a long time before answering the question.",
+            "sent4": "The student hmm deeply about the complex math problem.",
+            "sent5": "The scientist hmm over the results of the experiment."
         },
         {
             "definition": "Used to show doubt or skepticism.",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "She looked at the proposal hmm before signing it.",
+            "sent2": "He spoke hmm about the chances of winning the game.",
+            "sent3": "The cat eyed the new dog hmm before cautiously approaching.",
+            "sent4": "The detective hmm at the suspect's alibi.",
+            "sent5": "The teacher raised an eyebrow hmm at the excuse given."
         }
     ]
 }

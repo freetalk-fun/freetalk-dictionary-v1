@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "The act of performing an autopsy on a deceased body.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Autopsying helps doctors understand why someone passed away.",
+            "sent2": "The hospital staff conducted the autopsying to learn more about the patient's illness.",
+            "sent3": "The detective's autopsying of the crime scene revealed crucial evidence.",
+            "sent4": "The scientist's autopsying of the data uncovered hidden patterns.",
+            "sent5": "Autopsying is a vital tool in medical research and investigation."
         },
         {
             "definition": "The process of examining a body after death to determine the cause of death.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "After the accident, the doctors began autopsying to find out what happened.",
+            "sent2": "Autopsying is crucial in understanding the circumstances surrounding a death.",
+            "sent3": "The detective's autopsying of the evidence led to a breakthrough in the case.",
+            "sent4": "Autopsying the wreckage helped investigators piece together the sequence of events.",
+            "sent5": "The pathologist spent hours autopsying the body to uncover the truth."
         },
         {
             "definition": "To conduct a postmortem examination on a corpse.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The medical examiner is autopsying the deceased to determine the cause of death.",
+            "sent2": "The forensic team autopsied the body to gather evidence for the investigation.",
+            "sent3": "She jokingly said she would be autopsying her failed experiment to learn from it.",
+            "sent4": "The researcher autopsied the failed project to understand where things went wrong.",
+            "sent5": "Autopsying the old theories revealed new insights and possibilities."
         }
     ]
 }

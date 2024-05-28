@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To incorrectly analyze or interpret (a sentence or phrase)",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She misparsed the instructions and got confused.",
+            "sent2": "The software misparsed the data, leading to errors.",
+            "sent3": "He misparsed the joke and ended up laughing at the wrong part.",
+            "sent4": "The detective misparsed the evidence, leading to a wrongful arrest.",
+            "sent5": "The student misparsed the math problem, arriving at the wrong answer."
         },
         {
             "definition": "Incorrectly analyzed or interpreted",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "The data was misparsed, resulting in inaccurate conclusions.",
+            "sent2": "The report was misparsed by the reader, causing confusion.",
+            "sent3": "She misparsed the recipe and ended up with a strange-tasting dish.",
+            "sent4": "The melody was misparsed by the musician, creating a discordant sound.",
+            "sent5": "The directions were misparsed, leading them astray."
         }
     ]
 }

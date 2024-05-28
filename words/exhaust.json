@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To use up completely",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "After running for hours, the car will exhaust all its fuel.",
+            "sent2": "She felt exhausted after a long day of work.",
+            "sent3": "The marathon runner was determined to exhaust all her energy before the finish line.",
+            "sent4": "His constant chatter seemed to exhaust the patience of everyone around him.",
+            "sent5": "The intense workout routine will exhaust your muscles, but it's worth it for the results."
         },
         {
             "definition": "The waste gases or air expelled from an engine",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The old truck emitted thick exhaust that polluted the air.",
+            "sent2": "The mechanic checked the exhaust system for any leaks.",
+            "sent3": "The cartoon character's rocket had an exhaust that made funny noises.",
+            "sent4": "The exhaust from the factory's chimney darkened the sky.",
+            "sent5": "The smell of exhaust filled the garage as the car engine roared to life."
         },
         {
             "definition": "A pipe or system that removes waste gases from a building or vehicle",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The car's exhaust was making a strange noise, indicating a problem.",
+            "sent2": "The building's exhaust system needed maintenance to function properly.",
+            "sent3": "The exhaust pipe of the truck looked like a long metal snake.",
+            "sent4": "The exhaust of the airplane left a trail in the sky.",
+            "sent5": "The mechanic fixed the exhaust system to reduce harmful emissions."
         }
     ]
 }

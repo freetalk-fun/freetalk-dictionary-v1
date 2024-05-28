@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To come together as a team.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The students teamed up to solve the math problem.",
+            "sent2": "The players teamed together to win the game.",
+            "sent3": "The animals teamed up to outsmart the hunter.",
+            "sent4": "The clouds teamed together to create a storm.",
+            "sent5": "The superheroes teamed up to defeat the villain."
         },
         {
             "definition": "To work together as a team.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The friends teamed to clean up the park.",
+            "sent2": "The colleagues teamed on the project to meet the deadline.",
+            "sent3": "The ants teamed to carry the food back to their nest.",
+            "sent4": "The waves teamed up to crash against the shore.",
+            "sent5": "The robots teamed efficiently to complete the task."
         },
         {
             "definition": "A group of people working together as a team.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The basketball team showed great teamwork as they played.",
+            "sent2": "The medical team worked together to save the patient.",
+            "sent3": "The team of chefs cooked up a delicious meal.",
+            "sent4": "The team of firefighters rushed to put out the fire.",
+            "sent5": "The team of astronauts trained for the space mission."
         }
     ]
 }

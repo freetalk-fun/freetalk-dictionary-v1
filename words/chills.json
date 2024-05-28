@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A feeling of coldness, often accompanied by shivering",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The unexpected wind gave me chills.",
+            "sent2": "She felt chills down her spine as she entered the haunted house.",
+            "sent3": "Even the brave knight couldn't escape the chills of the icy cave.",
+            "sent4": "The eerie silence of the graveyard sent chills through her body.",
+            "sent5": "The chills from the frosty air made her teeth chatter."
         },
         {
             "definition": "A sudden feeling of fear or unease",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The horror movie filled her with chills.",
+            "sent2": "His words sent chills of dread down her back.",
+            "sent3": "The chills of anticipation before the roller coaster ride were thrilling.",
+            "sent4": "The chills of anxiety gripped her heart tightly.",
+            "sent5": "The chills of nervousness made her palms sweat."
         },
         {
             "definition": "To cause to feel cold or frightened",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The icy wind chills the bones.",
+            "sent2": "His ghost stories always chill the listeners.",
+            "sent3": "The unexpected twist in the plot will chill you to the core.",
+            "sent4": "The villain's evil laugh chilled the hero's soul.",
+            "sent5": "The eerie silence of the night chilled the entire town."
         }
     ]
 }

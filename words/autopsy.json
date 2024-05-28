@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A postmortem examination to discover the cause of death or the extent of disease.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The doctor conducted an autopsy to find out why the person passed away.",
+            "sent2": "The autopsy revealed that the illness had affected multiple organs.",
+            "sent3": "During the autopsy, the doctor discovered a surprising clue about the person's health.",
+            "sent4": "The autopsy was like a detective investigation into the person's final moments.",
+            "sent5": "The autopsy provided crucial insights into the mysterious death."
         },
         {
             "definition": "To perform an autopsy on a deceased body.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The medical examiner will autopsy the body to determine the cause of death.",
+            "sent2": "It is important to autopsy the deceased to understand what happened.",
+            "sent3": "The detective jokingly asked if they needed to autopsy the expired pizza.",
+            "sent4": "She decided to autopsy the problem to get to the root of it.",
+            "sent5": "He will autopsy the data to uncover any hidden patterns."
         }
     ]
 }

@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Having a sharp or pointed top",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The peaked mountain stood tall against the sky.",
+            "sent2": "The roof of the house had a peaked shape.",
+            "sent3": "The peaked hat made him look like a wizard.",
+            "sent4": "The peaked tower reached towards the clouds.",
+            "sent5": "The peaked trees formed a beautiful silhouette at sunset."
         },
         {
             "definition": "To reach a highest point",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The excitement peaked when the winner was announced.",
+            "sent2": "Her career peaked when she won the championship.",
+            "sent3": "The music peaked at the chorus, making everyone dance.",
+            "sent4": "His interest in the topic peaked after the fascinating lecture.",
+            "sent5": "The tension in the room peaked during the final moments of the game."
         },
         {
             "definition": "To become sickly or weak",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "After days of no sleep, he peaked and had to rest.",
+            "sent2": "Her health peaked after she caught the flu.",
+            "sent3": "The excitement of the party made her feel peaked the next day.",
+            "sent4": "The stress of the project caused him to peak and take a break.",
+            "sent5": "The illness peaked, leaving her feeling exhausted and achy."
         }
     ]
 }

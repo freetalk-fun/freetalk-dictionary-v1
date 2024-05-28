@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To search through something quickly and roughly in order to find something",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She rifled through her bag to find her keys before leaving the house.",
+            "sent2": "The detective rifled through the suspect's belongings looking for evidence.",
+            "sent3": "As she rifled through the pile of clothes, she found her missing earring tangled in a scarf.",
+            "sent4": "The strong wind rifled through the leaves, creating a rustling sound in the trees.",
+            "sent5": "He rifled through the pages of the book, searching for the passage he wanted to quote."
         },
         {
             "definition": "Having spiral grooves cut into the bore of a gun barrel to make a bullet spin and improve accuracy",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The rifled barrel of the rifle ensured precise shooting during the competition.",
+            "sent2": "The rifled design of the gun barrel helped the bullet maintain a straight trajectory.",
+            "sent3": "The rifled barrel was so accurate that even beginners could hit the target easily.",
+            "sent4": "The rifled surface of the gun barrel spun the bullet like a football in flight.",
+            "sent5": "The rifled gun barrel was a game-changer for sharpshooters aiming at distant targets."
         }
     ]
 }

@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To trace incorrectly or inaccurately.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She mistraced the map and got lost.",
+            "sent2": "The detective mistraced the suspect's steps in the investigation.",
+            "sent3": "He hilariously mistraced the drawing of a cat, making it look like a dog.",
+            "sent4": "Her memory mistraced the events of that day, blending reality with dreams.",
+            "sent5": "The teacher's guidance helped the students avoid mistracing their letters while learning to write."
         },
         {
             "definition": "To follow or track incorrectly.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The hound mistraced the scent and led the hunters astray.",
+            "sent2": "The robot's programming caused it to mistrace the path and bump into obstacles.",
+            "sent3": "The children giggled as they mistraced each other during the game of tag.",
+            "sent4": "Her thoughts mistraced back to happier times, longing for the past.",
+            "sent5": "The faulty GPS device often mistraced the user's location, causing confusion."
         },
         {
             "definition": "To incorrectly attribute or assign.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He mistraced the quote to the wrong author in his essay.",
+            "sent2": "The journalist accidentally mistraced the source of the information in the article.",
+            "sent3": "The comedian humorously mistraced the punchline to the wrong joke.",
+            "sent4": "Her superstitions mistraced the cause of the strange noises in the house to ghosts.",
+            "sent5": "The historian warned against mistracing historical events to fit a biased narrative."
         }
     ]
 }

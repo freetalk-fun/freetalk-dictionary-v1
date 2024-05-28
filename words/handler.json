@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A person who handles or manages something, such as an animal or a tool.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The zoo handler fed the monkeys their favorite fruits.",
+            "sent2": "The dog handler trained the puppies to sit and stay.",
+            "sent3": "The handler accidentally dropped the leash, and the dog ran off playfully.",
+            "sent4": "She was a skilled handler, effortlessly guiding the horse through the obstacle course.",
+            "sent5": "The handler's gentle touch soothed the nervous kitten."
         },
         {
             "definition": "A person who deals with something in a specified way, such as a problem or a situation.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The customer service handler resolved the complaint quickly and efficiently.",
+            "sent2": "The crisis handler remained calm under pressure and found a solution.",
+            "sent3": "The handler's creative approach turned the boring task into a fun challenge.",
+            "sent4": "She was a master handler of difficult situations, always finding a way to ease tensions.",
+            "sent5": "The handler's strategic thinking helped navigate through the complex issue."
         }
     ]
 }

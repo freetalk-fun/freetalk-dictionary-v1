@@ -3,19 +3,39 @@
     "meanings": [
         {
             "definition": "A quick summary or review of main points",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "During the meeting, the boss gave a rundown of the key decisions.",
+            "sent2": "I always like to read a rundown of the news to stay informed.",
+            "sent3": "The rundown of the story was so brief, it left everyone confused.",
+            "sent4": "Her rundown of the events was like a map guiding us through the details.",
+            "sent5": "The rundown of the rules made it easy to understand the game."
         },
         {
             "definition": "In poor condition or in need of repair",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The old house looked rundown with its peeling paint and broken windows.",
+            "sent2": "The rundown car sputtered and coughed as it struggled to start.",
+            "sent3": "Despite its rundown appearance, the cozy cabin had a lot of character.",
+            "sent4": "The rundown building stood like a forgotten relic of the past.",
+            "sent5": "The rundown playground equipment was a safety hazard for the children."
         },
         {
             "definition": "To physically exhaust or tire out",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "After the long hike, the steep trail really rundown me.",
+            "sent2": "I always feel rundown after a busy day at work.",
+            "sent3": "Trying to keep up with the energetic kids rundown the teacher quickly.",
+            "sent4": "The intense workout rundown my muscles, but it felt good.",
+            "sent5": "The marathon rundown the runners, but they crossed the finish line with pride."
         },
         {
             "definition": "To decrease in intensity or quality",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "As the movie progressed, the excitement began to rundown.",
+            "sent2": "The singer's voice started to rundown towards the end of the concert.",
+            "sent3": "The flavor of the soup seemed to rundown as it cooled down.",
+            "sent4": "The energy of the party started to rundown as the night went on.",
+            "sent5": "The enthusiasm for the project began to rundown after facing multiple challenges."
         }
     ]
 }

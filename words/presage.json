@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A sign or warning of a future event.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The dark clouds were a presage of the coming storm.",
+            "sent2": "The sudden drop in temperature was a presage of the approaching winter.",
+            "sent3": "The howling of the wind served as a presage for the spooky Halloween night.",
+            "sent4": "The old man's coughing was a presage of the illness that would soon follow.",
+            "sent5": "The distant sound of thunder acted as a presage for the impending rainstorm."
         },
         {
             "definition": "To predict or foretell.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The wise elder could presage the outcome of the battle.",
+            "sent2": "She tried to presage the winner of the race based on the athletes' past performances.",
+            "sent3": "The fortune teller claimed to presage the future using crystal balls.",
+            "sent4": "His dream seemed to presage the events that unfolded the next day.",
+            "sent5": "The scientist's research findings seemed to presage a breakthrough in the field."
         },
         {
             "definition": "An omen or portent.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The black cat crossing their path was seen as a presage of bad luck.",
+            "sent2": "The howling of the wolves was considered a presage of danger by the villagers.",
+            "sent3": "Finding a four-leaf clover was a presage of good fortune for the superstitious man.",
+            "sent4": "The sudden silence in the forest was a presage of an approaching predator.",
+            "sent5": "The eerie silence in the room was a presage of the ghostly presence."
         }
     ]
 }

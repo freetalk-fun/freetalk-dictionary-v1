@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A unit of digital information storage capacity equal to 1,024 terabytes.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "My computer's hard drive can store a whole petabyte of data.",
+            "sent2": "The company's server farm has multiple petabytes of storage space.",
+            "sent3": "I tried to download a petabyte of cat videos, but my internet crashed!",
+            "sent4": "Her memory was like a petabyte, storing every detail of our childhood.",
+            "sent5": "The petabyte of information overwhelmed the researchers with its sheer volume."
         },
         {
             "definition": "A very large amount of data storage capacity, typically used in reference to computer systems.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The new data center can hold a petabyte of information.",
+            "sent2": "Scientists are working on developing storage systems capable of handling petabytes of data.",
+            "sent3": "I have so many photos on my phone, it's like a petabyte of memories!",
+            "sent4": "The library's archives contain a petabyte of knowledge waiting to be explored.",
+            "sent5": "The petabyte of music files filled the room with a symphony of digital sound."
         }
     ]
 }

@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A fence or boundary formed by closely growing bushes or shrubs.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The squirrel ran along the hedge to hide from the cat.",
+            "sent2": "The gardener trimmed the hedge to keep it neat and tidy.",
+            "sent3": "The hedge looked like a green maze, confusing the curious rabbit.",
+            "sent4": "The hedge acted as a natural barrier, separating the garden from the forest.",
+            "sent5": "Children played hide-and-seek behind the hedge, giggling with excitement."
         },
         {
             "definition": "To avoid making a definite decision or commitment.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She tends to hedge when asked about her future plans.",
+            "sent2": "I don't want to hedge anymore; I need to make up my mind.",
+            "sent3": "The politician tried to hedge his answer, but everyone saw through it.",
+            "sent4": "Don't hedge your bets; sometimes you need to take a risk.",
+            "sent5": "He likes to hedge his options, keeping things open for as long as possible."
         },
         {
             "definition": "To protect oneself against loss by making balancing or compensating transactions.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Investors often hedge their investments to minimize risks.",
+            "sent2": "She decided to hedge against inflation by investing in gold.",
+            "sent3": "The company used futures contracts to hedge against price fluctuations.",
+            "sent4": "He hedged his position in the market to limit potential losses.",
+            "sent5": "Hedging can be a useful strategy to safeguard your finances in uncertain times."
         }
     ]
 }

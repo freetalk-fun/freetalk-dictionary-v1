@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To give up or hand over control or possession of something.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He surrenders his toy to his little sister.",
+            "sent2": "The soldier surrenders his weapon to the enemy.",
+            "sent3": "The cat surrenders the chase to the nimble mouse.",
+            "sent4": "The sun surrenders its warmth to the cool night.",
+            "sent5": "She surrenders her seat to the elderly lady."
         },
         {
             "definition": "To yield to the power, control, or possession of another.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The defeated team surrenders to the champions.",
+            "sent2": "The king surrenders his crown to the new ruler.",
+            "sent3": "The stubborn lock finally surrenders to the key's twist.",
+            "sent4": "The river surrenders to the force of the waterfall.",
+            "sent5": "The tree surrenders its leaves to the autumn breeze."
         },
         {
             "definition": "The act of surrendering or giving up.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "His surrender was a sign of peace.",
+            "sent2": "The treaty included the surrender of territories.",
+            "sent3": "The cat's surrender of the mouse was unexpected.",
+            "sent4": "The surrender of power led to a new beginning.",
+            "sent5": "Her surrender of the argument ended the debate."
         }
     ]
 }

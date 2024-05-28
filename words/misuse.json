@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Use (something) incorrectly or improperly.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She tends to misuse her phone by dropping it often.",
+            "sent2": "It is important not to misuse your power as a leader.",
+            "sent3": "He accidentally misuses the remote control as a phone.",
+            "sent4": "The student's attempt to misuse the scientific method led to confusion.",
+            "sent5": "The consequences of misuse can be severe."
         },
         {
             "definition": "Treat (something) badly or unfairly.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The company should not misuse its employees by overworking them.",
+            "sent2": "It is unfair to misuse someone's trust in this way.",
+            "sent3": "The cat playfully misuses the toy mouse as a real one.",
+            "sent4": "The storm's strong winds seemed to misuse the fragile trees.",
+            "sent5": "Misusing kindness can lead to strained relationships."
         },
         {
             "definition": "Improper or excessive use or treatment.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The misuse of antibiotics can lead to antibiotic resistance.",
+            "sent2": "The misuse of resources can harm the environment.",
+            "sent3": "The comedy skit humorously portrayed the misuse of a time machine.",
+            "sent4": "The misuse of power can have far-reaching consequences.",
+            "sent5": "The museum displayed examples of historical misuse of technology."
         }
     ]
 }

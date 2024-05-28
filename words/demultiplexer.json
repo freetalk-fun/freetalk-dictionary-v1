@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A device that takes a single input signal and routes it to one of several output lines.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The demultiplexer directed the signal to the correct output line.",
+            "sent2": "The technician connected the demultiplexer to the various output lines.",
+            "sent3": "The demultiplexer seemed to have a mind of its own, choosing where to send the signal.",
+            "sent4": "In the maze of wires, the demultiplexer acted as a guide, leading the signal to its destination.",
+            "sent5": "The demultiplexer was like a traffic controller, ensuring each signal reached its designated path."
         },
         {
             "definition": "A circuit that performs the reverse function of a multiplexer, taking a single input and distributing it to multiple outputs.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The demultiplexer split the input signal into different paths.",
+            "sent2": "Engineers designed the demultiplexer to handle multiple output connections.",
+            "sent3": "The demultiplexer was like a magician, multiplying the signal into many copies.",
+            "sent4": "In the digital world, the demultiplexer acted as a distributor, sending data in various directions.",
+            "sent5": "The demultiplexer functioned as a messenger, delivering the input signal to its intended destinations."
         }
     ]
 }

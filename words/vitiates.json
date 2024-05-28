@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Spoil the quality of",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Adding too much salt vitiates the taste of the soup.",
+            "sent2": "Leaving the milk out for too long vitiates its freshness.",
+            "sent3": "Overcooking the pasta vitiates its deliciousness.",
+            "sent4": "His constant complaints vitiates the positive atmosphere in the office.",
+            "sent5": "The rain vitiates the outdoor wedding, making everything soggy and damp."
         },
         {
             "definition": "Make ineffective",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Using expired medicine vitiates its ability to cure illnesses.",
+            "sent2": "Ignoring the warning signs can vitiates the effectiveness of the safety measures.",
+            "sent3": "Trying to fix the leak with tape only vitiates the repair effort.",
+            "sent4": "The lack of communication vitiates the team's chances of success.",
+            "sent5": "The fog vitiates the visibility on the road, making driving unsafe."
         },
         {
             "definition": "Invalidate or nullify",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "A missing signature can vitiates the contract.",
+            "sent2": "An error in the document vitiates its legal validity.",
+            "sent3": "The incorrect calculation vitiates the final result.",
+            "sent4": "The false testimony vitiates the entire case.",
+            "sent5": "The virus vitiates the effectiveness of the vaccine, rendering it useless."
         }
     ]
 }

@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "a person who has seen something happen and can give a first-hand account of it",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The eyewitness described the car accident to the police.",
+            "sent2": "The eyewitness was called to testify in court.",
+            "sent3": "The eyewitness couldn't stop talking about what they saw.",
+            "sent4": "Being an eyewitness to history is a privilege.",
+            "sent5": "The eyewitness's testimony was crucial for solving the case."
         },
         {
             "definition": "to see something happen and be able to give a first-hand account of it",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I eyewitnessed the whole incident from my window.",
+            "sent2": "She eyewitnesses every event with great attention to detail.",
+            "sent3": "We eyewitnessed the squirrel stealing nuts from the bird feeder.",
+            "sent4": "He eyewitnessed the sunrise over the mountains.",
+            "sent5": "Eyewitnessing the crime made her feel anxious."
         }
     ]
 }

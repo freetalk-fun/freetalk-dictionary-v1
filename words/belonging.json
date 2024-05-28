@@ -3,19 +3,39 @@
     "meanings": [
         {
             "definition": "To be owned by someone",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The toy car belongs to Tim.",
+            "sent2": "The red ball belongs to Sarah.",
+            "sent3": "The lost puppy found a new home, belonging to a kind family.",
+            "sent4": "Her heart belongs to the ocean, where she feels free.",
+            "sent5": "The old book belongs to a forgotten era, filled with stories of the past."
         },
         {
             "definition": "To be a member of a group or organization",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I belong to the soccer team.",
+            "sent2": "She belongs to the school choir.",
+            "sent3": "The mischievous cat pretended to belong to the dog club.",
+            "sent4": "His ideas belong to a different era, yet they still inspire.",
+            "sent5": "The stars belong to the night sky, shining brightly above us."
         },
         {
             "definition": "Something that is owned by someone",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The shiny necklace was her most prized belonging.",
+            "sent2": "His collection of stamps was a valuable belonging.",
+            "sent3": "The little girl's dollhouse was her favorite belonging to play with.",
+            "sent4": "The ancient artifact was a mysterious belonging of the museum.",
+            "sent5": "The old photograph was a cherished belonging, holding memories of the past."
         },
         {
             "definition": "A sense of fitting in or being connected to a group or place",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The warm welcome gave her a feeling of belonging.",
+            "sent2": "Being with friends gave him a sense of belonging.",
+            "sent3": "The quirky hat gave him a sense of belonging to the fun group.",
+            "sent4": "The melody of the song created a feeling of belonging to the moment.",
+            "sent5": "The cozy cabin provided a sense of belonging in the peaceful forest."
         }
     ]
 }

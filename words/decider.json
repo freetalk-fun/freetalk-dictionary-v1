@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A person who makes decisions.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The decider chose the movie for the group to watch.",
+            "sent2": "The team captain was the decider in the final match.",
+            "sent3": "At the family dinner, the decider picked the dessert everyone would enjoy.",
+            "sent4": "In the game of chess, the queen is often the decider of victory.",
+            "sent5": "The decider in the courtroom was the judge, who determined the verdict."
         },
         {
             "definition": "Something that determines an outcome.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The weather was the decider in canceling the outdoor event.",
+            "sent2": "The final goal scored became the decider of the match.",
+            "sent3": "The decider of the baking competition was the taste of the cake.",
+            "sent4": "In a race, the decider is often the finish line.",
+            "sent5": "The decider in the experiment was the variable that affected the results."
         }
     ]
 }

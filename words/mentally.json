@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "relating to the mind",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "She had a mentally challenging puzzle to solve.",
+            "sent2": "He is a mentally strong individual.",
+            "sent3": "The mentally stimulating book kept her entertained for hours.",
+            "sent4": "The mentally exhausting day left her drained.",
+            "sent5": "The mentally stimulating conversation sparked new ideas."
         },
         {
             "definition": "in a way that relates to the mind",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "She approached the problem mentally, analyzing every detail.",
+            "sent2": "He visualized the solution mentally before executing it.",
+            "sent3": "He mentally calculated the distance to the nearest store.",
+            "sent4": "She navigated the maze of thoughts mentally.",
+            "sent5": "The students mentally prepared for the upcoming exam."
         },
         {
             "definition": "in a way that affects the mind",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "The loud noise mentally disturbed her concentration.",
+            "sent2": "He was mentally affected by the traumatic experience.",
+            "sent3": "The unexpected news mentally shocked him.",
+            "sent4": "The suspense in the movie kept her mentally engaged.",
+            "sent5": "The challenging riddle mentally stimulated his brain."
         }
     ]
 }

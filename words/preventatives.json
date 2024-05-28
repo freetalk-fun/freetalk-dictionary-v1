@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Serving to prevent or hinder something from happening",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "Regular exercise is a preventative measure against illness.",
+            "sent2": "Wearing a helmet is a good preventative action for bike safety.",
+            "sent3": "The superhero's cape had preventative powers that kept the city safe.",
+            "sent4": "Her positive attitude acted as a preventative shield against negativity.",
+            "sent5": "The lock on the door was a strong preventative barrier against intruders."
         },
         {
             "definition": "Something that prevents or hinders something else from happening",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Seat belts are important preventatives in car accidents.",
+            "sent2": "Vaccines are crucial preventatives against diseases.",
+            "sent3": "The magician's wand was a preventative to stop the rabbit from escaping.",
+            "sent4": "Education is a powerful preventative that stops ignorance from spreading.",
+            "sent5": "The lighthouse serves as a preventative to guide ships away from rocks."
         }
     ]
 }

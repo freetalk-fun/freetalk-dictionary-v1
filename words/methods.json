@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A way of doing something, especially a systematic or established one.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "She used different methods to solve the math problem.",
+            "sent2": "Scientists rely on various methods to conduct experiments.",
+            "sent3": "The detective's unconventional methods led to solving the case.",
+            "sent4": "Her method of organizing files was like a well-oiled machine.",
+            "sent5": "Learning through hands-on methods is more effective for some students."
         },
         {
             "definition": "A particular form of procedure for accomplishing or approaching something.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Following the correct methods is crucial for baking a cake.",
+            "sent2": "The artist's unique methods resulted in a stunning masterpiece.",
+            "sent3": "His method of making coffee involved dancing while brewing.",
+            "sent4": "The team's winning method was like a secret recipe for success.",
+            "sent5": "Using trial and error is a common method for problem-solving."
         }
     ]
 }

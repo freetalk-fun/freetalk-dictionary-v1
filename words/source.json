@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A place, person, or thing from which something comes or can be obtained.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The library is a source of knowledge.",
+            "sent2": "She went to the store to buy ingredients for the cake.",
+            "sent3": "The source of the delicious smell was the bakery down the street.",
+            "sent4": "Her grandmother is a source of wisdom and advice.",
+            "sent5": "The old tree served as a source of shade on hot days."
         },
         {
             "definition": "The point of origin of a stream or river.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The source of the river is a small spring in the mountains.",
+            "sent2": "The water flows from the source down to the valley.",
+            "sent3": "The source of the river seemed to be singing a cheerful tune.",
+            "sent4": "The source of the stream was hidden among the rocks.",
+            "sent5": "The source of the waterfall was a hidden cave behind the rocks."
         },
         {
             "definition": "A person who provides information.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The journalist was a reliable source for news updates.",
+            "sent2": "She contacted her source to get the latest information.",
+            "sent3": "The source of the gossip was revealed to be her mischievous cousin.",
+            "sent4": "The source of the leak remained anonymous.",
+            "sent5": "The source of the secret documents was finally identified."
         }
     ]
 }

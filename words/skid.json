@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A piece of wood or metal on which something heavy can be slid or rolled along.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The workers used a skid to move the heavy crate across the warehouse floor.",
+            "sent2": "The mechanic placed the engine on the skid to transport it to the assembly line.",
+            "sent3": "The skid made it easy to move the large boulder in the garden.",
+            "sent4": "The skid acted like a smooth conveyor belt for the logs in the lumberyard.",
+            "sent5": "The skid helped the movers effortlessly shift the piano into the truck."
         },
         {
             "definition": "To slide along a surface, typically sideways or out of control.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The car started to skid on the icy road, causing the driver to lose control.",
+            "sent2": "The skateboarder accidentally skidded down the ramp and fell off.",
+            "sent3": "The penguin tried to skid gracefully on the ice but ended up tumbling comically.",
+            "sent4": "Her heart seemed to skid to a stop when she saw the unexpected sight.",
+            "sent5": "The dancer's feet skidded across the stage, adding a dynamic element to the performance."
         },
         {
             "definition": "To come to a sudden halt.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The car skidded to a stop just in time to avoid hitting the pedestrian.",
+            "sent2": "The bicycle skidded to a halt as the brakes were applied abruptly.",
+            "sent3": "The cat skidded to a stop when it saw the laser pointer dot on the wall.",
+            "sent4": "Time seemed to skid to a halt as she waited for the exam results.",
+            "sent5": "The train skidded to a sudden stop, causing everyone to lurch forward."
         }
     ]
 }

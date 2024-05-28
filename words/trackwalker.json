@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A person who walks along a track.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The trackwalker enjoyed the peaceful stroll along the train tracks.",
+            "sent2": "The trackwalker followed the path through the forest.",
+            "sent3": "The trackwalker found a shortcut by walking along the railway.",
+            "sent4": "She was a trackwalker, navigating the rails of life with steady steps.",
+            "sent5": "The trackwalker's footsteps echoed along the deserted track."
         },
         {
             "definition": "To walk along a track.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I trackwalked carefully to avoid tripping on the rails.",
+            "sent2": "He trackwalks every morning for exercise.",
+            "sent3": "The cat decided to trackwalk along the garden fence.",
+            "sent4": "She trackwalked through the maze of shelves in the library.",
+            "sent5": "The hiker trackwalked the mountain path with determination."
         }
     ]
 }

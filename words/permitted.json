@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Allowed",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The teacher permitted the students to work in groups.",
+            "sent2": "It is permitted to bring snacks to the movie theater.",
+            "sent3": "The cat permitted the dog to share its sunny spot by the window.",
+            "sent4": "The garden's beauty permitted visitors to stay for hours.",
+            "sent5": "The kind librarian permitted children to borrow extra books for the weekend."
         },
         {
             "definition": "Authorized",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "Only permitted personnel can access the restricted area.",
+            "sent2": "The permitted personnel have special badges for identification.",
+            "sent3": "The permitted guests were greeted with a red carpet and fanfare.",
+            "sent4": "The permitted driver swiftly navigated through the busy city streets.",
+            "sent5": "The permitted pilot safely landed the plane during a storm."
         },
         {
             "definition": "Allowed by rules or laws",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "Smoking is not permitted in this building.",
+            "sent2": "The sign clearly states that photography is not permitted in the museum.",
+            "sent3": "The mischievous squirrel was not permitted to enter the bird feeder.",
+            "sent4": "The forbidden fruit was not permitted to be eaten by anyone.",
+            "sent5": "The loud music was not permitted after midnight in the neighborhood."
         }
     ]
 }

@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Affected with nausea; inclined to vomit.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "She felt nauseated after the roller coaster ride.",
+            "sent2": "The nauseated child couldn't eat anything.",
+            "sent3": "The thought of eating broccoli made her feel nauseated.",
+            "sent4": "The sight of the gruesome movie scene left her feeling nauseated.",
+            "sent5": "The smell of the garbage was so strong that it made her nauseated."
         },
         {
             "definition": "To affect with nausea; sicken.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The spoiled food nauseated him instantly.",
+            "sent2": "The strong smell of the chemicals nauseated the workers.",
+            "sent3": "The idea of eating snails might nauseate some people.",
+            "sent4": "The constant spinning of the amusement park ride nauseated the girl.",
+            "sent5": "The bitter taste of the medicine nauseated the patient."
         }
     ]
 }

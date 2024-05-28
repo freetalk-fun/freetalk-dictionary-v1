@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "a person who defeats an enemy or opponent in a battle, game, or other competition",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The victor of the race crossed the finish line first.",
+            "sent2": "The soccer team celebrated their victory with cheers.",
+            "sent3": "The victor of the spelling bee proudly held up the trophy.",
+            "sent4": "She emerged as the victor in the heated debate.",
+            "sent5": "The victor's determination shone through in every competition."
         },
         {
             "definition": "to defeat an enemy or opponent in a battle, game, or other competition",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The knight managed to victor over the dragon in the epic battle.",
+            "sent2": "She hopes to victor in the upcoming chess tournament.",
+            "sent3": "The team will victor against their rivals with a strategic plan.",
+            "sent4": "He will victor over his fears and emerge stronger.",
+            "sent5": "The underdog managed to victor against all odds."
         }
     ]
 }

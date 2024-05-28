@@ -3,19 +3,39 @@
     "meanings": [
         {
             "definition": "The action of helping or doing work for someone.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The mechanic provided excellent service when fixing my car.",
+            "sent2": "The customer was happy with the service she received at the restaurant.",
+            "sent3": "The friendly service at the store made shopping a pleasant experience.",
+            "sent4": "Her dedication to service in the community was truly inspiring.",
+            "sent5": "The firefighter's bravery in the line of service was commendable."
         },
         {
             "definition": "A system supplying a public need such as transportation or communication.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The public transportation service in the city is reliable.",
+            "sent2": "The postal service delivers mail to homes and businesses.",
+            "sent3": "The internet service provider had a funny name that made everyone smile.",
+            "sent4": "The emergency response service acted swiftly during the crisis.",
+            "sent5": "The electric company's service kept the lights on in the neighborhood."
         },
         {
             "definition": "The act of maintaining equipment or machinery.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Regular service of the air conditioner ensures it works efficiently.",
+            "sent2": "The technician performed a thorough service on the printer.",
+            "sent3": "The robot's self-service feature made it unique among its kind.",
+            "sent4": "The car's engine purred smoothly after a tune-up service.",
+            "sent5": "The cleaning service kept the office equipment in top condition."
         },
         {
             "definition": "A ceremony or religious ritual.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The church service on Sunday was well attended.",
+            "sent2": "The wedding service was emotional and beautiful.",
+            "sent3": "The annual service for fallen soldiers was a solemn occasion.",
+            "sent4": "The traditional tea service in Japan is a cultural experience.",
+            "sent5": "The memorial service honored the memory of a beloved teacher."
         }
     ]
 }

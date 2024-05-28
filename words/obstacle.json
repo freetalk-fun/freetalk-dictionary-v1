@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A thing that blocks one's way or prevents or hinders progress.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The fallen tree was a big obstacle on the path.",
+            "sent2": "The construction site had an obstacle that required careful navigation.",
+            "sent3": "Trying to carry all the groceries in one trip was quite an obstacle.",
+            "sent4": "Miscommunication acted as an obstacle in their relationship.",
+            "sent5": "The thick fog became an insurmountable obstacle for the lost hikers."
         },
         {
             "definition": "Something that impedes or stands in the way of progress.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The lack of funding was a major obstacle for the project.",
+            "sent2": "Overcoming obstacles is a crucial part of personal growth.",
+            "sent3": "The unexpected rainstorm presented an obstacle to their picnic plans.",
+            "sent4": "Fear can sometimes be an invisible obstacle to success.",
+            "sent5": "The locked door was a frustrating obstacle for the escape room participants."
         },
         {
             "definition": "A difficulty or problem that prevents or slows down progress.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Time management can be an obstacle for students balancing work and school.",
+            "sent2": "The technical glitch posed an unexpected obstacle during the presentation.",
+            "sent3": "Forgetting his passport at home was a silly obstacle to their vacation.",
+            "sent4": "Lack of experience can sometimes be a significant obstacle in job interviews.",
+            "sent5": "The steep hill proved to be a challenging obstacle for the marathon runners."
         }
     ]
 }

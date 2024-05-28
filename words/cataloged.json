@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To make a systematic list of items.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She cataloged her books by genre.",
+            "sent2": "The librarian cataloged the new arrivals.",
+            "sent3": "He cataloged his collection of action figures with precision.",
+            "sent4": "The detective cataloged the clues in his mind.",
+            "sent5": "The scientist cataloged each specimen meticulously."
         },
         {
             "definition": "To enter items into a catalog.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The assistant cataloged the products in the database.",
+            "sent2": "They cataloged the artifacts in the museum's inventory.",
+            "sent3": "She cataloged the groceries in the shopping list app.",
+            "sent4": "The archivist cataloged the historical documents for preservation.",
+            "sent5": "The student cataloged the references for the research paper."
         },
         {
             "definition": "To organize information in a catalog.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The team cataloged the data for easy access.",
+            "sent2": "He cataloged the files according to date.",
+            "sent3": "She cataloged the recipes for quick meal planning.",
+            "sent4": "The artist cataloged the colors for the upcoming project.",
+            "sent5": "The librarian cataloged the books by author's last name."
         }
     ]
 }

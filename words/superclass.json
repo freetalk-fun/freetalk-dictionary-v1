@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A class that is higher in the hierarchy than another class.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "In the animal kingdom, the lion is considered the superclass of the jungle.",
+            "sent2": "The CEO belongs to the superclass of the company's executives.",
+            "sent3": "The superhero was jokingly referred to as the superclass of all caped crusaders.",
+            "sent4": "Her kindness and generosity made her the superclass of friends.",
+            "sent5": "The majestic oak tree stood as the superclass of the forest, towering over all other plants."
         },
         {
             "definition": "A class from which one or more other classes are derived.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The original painting served as the superclass for all the prints made from it.",
+            "sent2": "The ancient language is the superclass from which many modern dialects have evolved.",
+            "sent3": "The recipe book is the superclass of all the delicious meals we enjoy.",
+            "sent4": "His groundbreaking research paper became the superclass for future scientific studies.",
+            "sent5": "The classic novel remains the superclass for countless literary works that followed."
         }
     ]
 }

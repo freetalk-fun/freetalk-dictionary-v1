@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Clarify: to make clear or understandable",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She always claries her instructions to ensure everyone understands.",
+            "sent2": "Please claries your question so I can give you a proper answer.",
+            "sent3": "The teacher had to claries the assignment multiple times for the confused students.",
+            "sent4": "His explanation claries the situation like turning on a light in a dark room.",
+            "sent5": "The diagram will claries the complex process in a simple way."
         },
         {
             "definition": "Clarity: the quality of being clear or easy to understand",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The claries of her speech made it easy for everyone to follow.",
+            "sent2": "The report lacked clarity, causing confusion among the readers.",
+            "sent3": "The clarity of the instructions helped the team complete the task quickly.",
+            "sent4": "Her eyes held a clarity that seemed to see through all deception.",
+            "sent5": "The clarity of the water in the lake allowed us to see the fish swimming below."
         },
         {
             "definition": "Clarification: the act of making something clear or understandable",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The clarification provided by the expert helped us solve the issue.",
+            "sent2": "I asked for clarification on the new policy to avoid any misunderstandings.",
+            "sent3": "The clarification from the manual saved me from making a mistake.",
+            "sent4": "His clarification on the topic was like a beacon in the fog of confusion.",
+            "sent5": "The clarification in the contract prevented any future disputes."
         }
     ]
 }

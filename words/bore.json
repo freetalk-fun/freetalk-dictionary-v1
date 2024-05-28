@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To make a hole in something using a tool",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I used a drill to bore a hole in the wood.",
+            "sent2": "The construction worker bore through the concrete with a jackhammer.",
+            "sent3": "The squirrel tried to bore a hole in the bird feeder to get the seeds.",
+            "sent4": "The miner bore deep into the earth searching for precious minerals.",
+            "sent5": "The artist used a special tool to bore intricate patterns into the metal."
         },
         {
             "definition": "To make someone feel uninterested or annoyed",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The long lecture began to bore the students.",
+            "sent2": "The repetitive tasks at work can bore me sometimes.",
+            "sent3": "The movie's slow pace started to bore the audience to sleep.",
+            "sent4": "Her constant complaints bore her friends, and they stopped listening.",
+            "sent5": "The dry presentation managed to bore even the most attentive listeners."
         },
         {
             "definition": "A person who talks too much about uninteresting topics",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "He is such a bore at parties, always talking about the stock market.",
+            "sent2": "The office bore never fails to bring up the weather in every conversation.",
+            "sent3": "The history bore droned on about ancient battles for hours.",
+            "sent4": "She avoided sitting next to the bore at dinner parties to escape the dull stories.",
+            "sent5": "The science bore could talk endlessly about physics theories no one understood."
         }
     ]
 }

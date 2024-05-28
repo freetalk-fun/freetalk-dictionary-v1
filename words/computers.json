@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "An electronic device for storing and processing data.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "My dad bought a new computers for our home office.",
+            "sent2": "The computers at the library are available for public use.",
+            "sent3": "The computers in the classroom are always busy with students typing away.",
+            "sent4": "Her mind works like a complex computers, processing information quickly.",
+            "sent5": "The computers hummed softly as they worked on solving the complex problem."
         },
         {
             "definition": "A person who operates a computer.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The computers at the tech company are skilled at troubleshooting.",
+            "sent2": "My friend is a computers and helps fix any issues with my laptop.",
+            "sent3": "The computers in the IT department are always busy fixing technical problems.",
+            "sent4": "She is a computers who can navigate through any software with ease.",
+            "sent5": "The computers patiently explained the steps to resolve the issue with the printer."
         },
         {
             "definition": "To use a computer to perform a task.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I computers every day to check my emails.",
+            "sent2": "She computers to create beautiful digital art.",
+            "sent3": "He computers late into the night to finish his project.",
+            "sent4": "They computers quickly to finish the online quiz before the deadline.",
+            "sent5": "We computers together to design a new website for our business."
         }
     ]
 }

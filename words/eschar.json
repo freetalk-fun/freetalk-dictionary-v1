@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A thick, hard crust that forms over a wound as it heals.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The eschar protected the wound from further harm.",
+            "sent2": "The doctor carefully removed the eschar to clean the wound.",
+            "sent3": "The eschar looked like a shield guarding the wound.",
+            "sent4": "The eschar was a natural armor for the healing skin.",
+            "sent5": "The dark eschar contrasted sharply with the pink skin underneath."
         },
         {
             "definition": "To form an eschar.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The burn will eschar over time.",
+            "sent2": "If you touch a hot pan, your skin may eschar.",
+            "sent3": "I accidentally eschared my finger on the stove.",
+            "sent4": "The fire's heat seemed to eschar the wood.",
+            "sent5": "The scorching sun threatened to eschar my skin."
         }
     ]
 }

@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Two individuals united in some way",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "A couple of friends went to the park together.",
+            "sent2": "I saw a couple walking hand in hand down the street.",
+            "sent3": "The couple shared a big slice of cake at the party.",
+            "sent4": "Their love was like a couple of puzzle pieces fitting perfectly together.",
+            "sent5": "The elderly couple sat on the bench, reminiscing about their youth."
         },
         {
             "definition": "A small number of",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I only need a couple of minutes to finish this task.",
+            "sent2": "She grabbed a couple of apples from the fruit bowl.",
+            "sent3": "The kids found a couple of seashells on the beach.",
+            "sent4": "A couple of stars twinkled in the night sky.",
+            "sent5": "He bought a couple of books at the bookstore."
         },
         {
             "definition": "To join together or connect in some way",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I will couple the two wires to complete the circuit.",
+            "sent2": "The train cars will couple together before departing.",
+            "sent3": "The magician will couple the rings in his next trick.",
+            "sent4": "The ideas in the essay couple seamlessly to form a strong argument.",
+            "sent5": "The puzzle pieces couple easily to reveal the picture."
         }
     ]
 }

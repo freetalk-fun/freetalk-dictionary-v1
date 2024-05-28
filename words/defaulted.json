@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Fail to fulfill an obligation, especially a financial one.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He defaulted on his loan payment, causing financial trouble.",
+            "sent2": "She defaulted on her promise to help with the project.",
+            "sent3": "The squirrel defaulted on its duty to gather nuts for the winter.",
+            "sent4": "The student defaulted on studying for the exam, leading to a poor grade.",
+            "sent5": "The company defaulted on delivering the products on time, losing customers."
         },
         {
             "definition": "To fail to appear in court or respond to a legal summons.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The defendant defaulted on his court date, causing a warrant for his arrest.",
+            "sent2": "She defaulted on responding to the legal notice, resulting in a penalty.",
+            "sent3": "The cat defaulted on its jury duty summons, causing chaos in the courtroom.",
+            "sent4": "The clouds defaulted on showing up for the trial, leaving the sky clear.",
+            "sent5": "The dog defaulted on testifying, wagging its tail instead."
         },
         {
             "definition": "To revert to a standard setting or value.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The thermostat defaulted to its original temperature setting.",
+            "sent2": "The computer defaulted to the factory settings after the update.",
+            "sent3": "The plant defaulted to its natural growth pattern, surprising the gardener.",
+            "sent4": "The clock defaulted to the correct time after being reset.",
+            "sent5": "The phone defaulted to the default ringtone, much to the owner's annoyance."
         }
     ]
 }

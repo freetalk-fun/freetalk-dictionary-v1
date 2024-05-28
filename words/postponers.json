@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A person who delays or puts off something.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The postponers of the meeting caused confusion among the team.",
+            "sent2": "The postponers of the project deadline were given more time to complete their tasks.",
+            "sent3": "The postponers of the party made everyone wait longer for the fun to begin.",
+            "sent4": "She was known as the postponer queen, always pushing things off until later.",
+            "sent5": "The postponers in the group were often seen as indecisive and unreliable."
         },
         {
             "definition": "To delay or defer an action or event.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Please do not postponers the decision any further.",
+            "sent2": "The team decided to postponers the launch due to unforeseen circumstances.",
+            "sent3": "He tried to postponers doing his homework, but eventually had to complete it.",
+            "sent4": "The storm postponers the outdoor event, forcing everyone to move indoors.",
+            "sent5": "She always postponers cleaning her room until it becomes a big mess."
         }
     ]
 }

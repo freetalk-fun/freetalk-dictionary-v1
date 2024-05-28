@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A reason or explanation offered to justify or defend a fault or offense.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "She gave an excuse for being late to school.",
+            "sent2": "His excuse for not finishing the project was that he ran out of time.",
+            "sent3": "The dog's excuse for eating the homework was that it looked like a tasty snack.",
+            "sent4": "Her excuse for missing the meeting was as thin as a sheet of paper.",
+            "sent5": "The excuse he made up was like a shield protecting him from getting in trouble."
         },
         {
             "definition": "To forgive or overlook a fault or offense.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I will excuse your mistake this time.",
+            "sent2": "She decided to excuse his behavior because she understood his situation.",
+            "sent3": "He excused her lateness by saying traffic was unusually bad.",
+            "sent4": "Excusing his actions felt like lifting a heavy weight off her shoulders.",
+            "sent5": "Excusing his behavior was like giving him a free pass to do it again."
         },
         {
             "definition": "To release from an obligation or duty.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The teacher excused him from the assignment due to his illness.",
+            "sent2": "She excused herself from the meeting to take an important call.",
+            "sent3": "He excused his friend from helping with the move because of a prior commitment.",
+            "sent4": "Excusing him from the task was like removing a heavy burden from his shoulders.",
+            "sent5": "The boss excused her from the presentation, allowing her to focus on other tasks."
         }
     ]
 }

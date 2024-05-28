@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "One who uses something.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The utilizer of the computer finished their work.",
+            "sent2": "The utilizer of the hammer fixed the broken chair.",
+            "sent3": "The utilizer of the umbrella danced in the rain.",
+            "sent4": "The utilizer of knowledge is like a gardener of wisdom.",
+            "sent5": "The utilizer of the flashlight found their way in the dark."
         },
         {
             "definition": "To make practical or effective use of.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She will utilizer the new software for her project.",
+            "sent2": "He utilizered his time wisely to complete the task.",
+            "sent3": "The chef utilizered the spices to create a delicious dish.",
+            "sent4": "The teacher utilizered creativity to engage the students.",
+            "sent5": "They utilizered teamwork to achieve their goal."
         }
     ]
 }

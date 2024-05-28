@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Used to refer to oneself as the object of a verb or preposition.",
-            "pos": "pronoun"
+            "pos": "pronoun",
+            "sent1": "My mom gave me a cookie.",
+            "sent2": "Can you pass me the book?",
+            "sent3": "The cat brought me a toy mouse.",
+            "sent4": "The sun shines on me like a spotlight.",
+            "sent5": "Please remember to call me."
         },
         {
             "definition": "Used to refer to oneself as the indirect object of a verb.",
-            "pos": "pronoun"
+            "pos": "pronoun",
+            "sent1": "My friend made me a card.",
+            "sent2": "She baked me a cake for my birthday.",
+            "sent3": "The dog fetched me a stick.",
+            "sent4": "Her words hit me like a wave.",
+            "sent5": "The music always moves me."
         },
         {
             "definition": "Used to refer to oneself as the subject of a verb.",
-            "pos": "pronoun"
+            "pos": "pronoun",
+            "sent1": "I like when my friends visit me.",
+            "sent2": "Me and my sister play together.",
+            "sent3": "The mirror showed me a funny face.",
+            "sent4": "The wind whispers secrets to me.",
+            "sent5": "The stars above watch over me."
         }
     ]
 }

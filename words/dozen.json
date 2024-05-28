@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A group of twelve",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I bought a dozen eggs at the store.",
+            "sent2": "She baked a dozen cookies for the party.",
+            "sent3": "The baker accidentally added a dozen extra eggs to the cake batter!",
+            "sent4": "The garden was filled with a dozen colorful flowers, like a small rainbow.",
+            "sent5": "The teacher asked the students to count a dozen pencils in the box."
         },
         {
             "definition": "Twelve items or units",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "He picked up a dozen apples from the orchard.",
+            "sent2": "The store sold a dozen donuts in a box.",
+            "sent3": "The kids found a dozen seashells on the beach and made a necklace.",
+            "sent4": "The clock struck twelve, marking a dozen hours since they started the journey.",
+            "sent5": "The team needed to find a dozen more players to complete the roster."
         }
     ]
 }

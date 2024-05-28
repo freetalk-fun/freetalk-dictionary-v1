@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To type on a keyboard.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She keyboarded her essay for school.",
+            "sent2": "He keyboarded a quick email to his boss.",
+            "sent3": "The cat keyboarded a message asking for more treats.",
+            "sent4": "The rain keyboarded a soothing melody on the rooftop.",
+            "sent5": "The students keyboarded furiously during the typing competition."
         },
         {
             "definition": "Having been typed on a keyboard.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The keyboarded document was ready for printing.",
+            "sent2": "The keyboarded report was submitted before the deadline.",
+            "sent3": "The keyboarded invitation had a few typos.",
+            "sent4": "The keyboarded message was lost in the sea of emails.",
+            "sent5": "The keyboarded text was easy to edit on the computer."
         }
     ]
 }

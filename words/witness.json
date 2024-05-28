@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A person who sees an event, typically a crime or accident, take place.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The witness saw the car crash happen.",
+            "sent2": "The witness testified in court about what they saw.",
+            "sent3": "The witness couldn't believe their eyes when they saw the magician make the rabbit disappear.",
+            "sent4": "The witness to the crime was like a silent observer in a play.",
+            "sent5": "The witness's account of the incident was crystal clear."
         },
         {
             "definition": "To see (an event, typically a crime or accident) take place.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I witness the sunrise every morning.",
+            "sent2": "She witnessed the robbery while walking home.",
+            "sent3": "The cat seemed to witness the chaos in the house with amusement.",
+            "sent4": "The old tree has witnessed many storms over the years.",
+            "sent5": "Witnessing the dance performance was a breathtaking experience."
         },
         {
             "definition": "To provide evidence or proof of something.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The fingerprints on the weapon can witness his guilt.",
+            "sent2": "She was willing to witness against the corrupt official.",
+            "sent3": "The overflowing trash cans witness the negligence of the apartment residents.",
+            "sent4": "The blooming flowers witness the arrival of spring.",
+            "sent5": "The signed document can witness the agreement between the parties."
         }
     ]
 }

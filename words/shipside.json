@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "The side of a ship.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The sailors gathered at the shipside to unload the cargo.",
+            "sent2": "The waves crashed against the shipside as the vessel sailed through the rough sea.",
+            "sent3": "The seagull perched on the shipside, watching the sailors work below.",
+            "sent4": "The shipside loomed large, casting a shadow over the dock.",
+            "sent5": "The salty breeze from the shipside carried the scent of the ocean."
         },
         {
             "definition": "Located or situated on the side of a ship.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The shipside cabins offered stunning views of the sea.",
+            "sent2": "The shipside ladder provided access to the lower decks.",
+            "sent3": "The shipside windows rattled in the storm, making the passengers nervous.",
+            "sent4": "The shipside railing gleamed in the sunlight, guiding the way for the passengers.",
+            "sent5": "The shipside cannons were ready for any potential threats on the voyage."
         }
     ]
 }

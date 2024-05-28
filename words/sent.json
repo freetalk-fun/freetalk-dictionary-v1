@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "past tense of send",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Yesterday, I sent a letter to my friend.",
+            "sent2": "She sent an email to her boss this morning.",
+            "sent3": "The pigeon sent a message to its friends with a tiny scroll.",
+            "sent4": "His words sent a wave of excitement through the crowd.",
+            "sent5": "The wind sent the leaves dancing in the air."
         },
         {
             "definition": "to cause to go or be taken to a destination",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The captain sent the ship towards the harbor.",
+            "sent2": "The teacher sent the students to the library for research.",
+            "sent3": "The mischievous elf sent the cookies flying across the room.",
+            "sent4": "Her laughter sent happiness to everyone around her.",
+            "sent5": "The rocket sent the satellite into orbit around the Earth."
         }
     ]
 }

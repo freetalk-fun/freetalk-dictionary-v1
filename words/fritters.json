@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A small piece of food that has been coated in batter and fried",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Mom made delicious apple fritters for breakfast.",
+            "sent2": "I ordered some banana fritters at the fair.",
+            "sent3": "The fritters disappeared quickly at the party.",
+            "sent4": "The fritters sizzled in the hot oil.",
+            "sent5": "The aroma of freshly fried fritters filled the kitchen."
         },
         {
             "definition": "To waste time or money on unimportant things",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Stop frittering away your time on video games.",
+            "sent2": "She fritters her money on unnecessary gadgets.",
+            "sent3": "He always fritters his time on social media.",
+            "sent4": "Don't fritter your savings on frivolous purchases.",
+            "sent5": "They fritter their resources on meaningless projects."
         },
         {
             "definition": "To break or tear something into small pieces",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The dog frittered the paper into bits.",
+            "sent2": "She fritters the bread into crumbs for the recipe.",
+            "sent3": "The wind frittered the leaves into the air.",
+            "sent4": "The waves fritter the sand along the shore.",
+            "sent5": "He fritters the clay into tiny pieces for pottery."
         }
     ]
 }

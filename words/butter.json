@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A solid emulsion of fat globules, air, and water made by churning milk or cream.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I spread butter on my toast every morning.",
+            "sent2": "The butter melted on the hot pancakes.",
+            "sent3": "The butter decided to take a swim in the coffee cup.",
+            "sent4": "Her smile was as smooth as butter on a warm biscuit.",
+            "sent5": "The buttery sunset painted the sky in shades of gold."
         },
         {
             "definition": "To spread butter on.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She likes to butter her bread before adding jam.",
+            "sent2": "Please butter the pan before pouring the pancake batter.",
+            "sent3": "The cat tried to butter up to the dog for a treat.",
+            "sent4": "His words were meant to butter her up for a favor.",
+            "sent5": "The politician tried to butter up the voters with promises."
         }
     ]
 }

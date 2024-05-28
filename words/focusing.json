@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To concentrate on a particular subject or activity.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She was focusing on her homework to finish it quickly.",
+            "sent2": "He enjoys focusing on his favorite book every evening.",
+            "sent3": "The cat was focusing intently on a moving laser pointer.",
+            "sent4": "The detective was focusing on finding the missing clue.",
+            "sent5": "By focusing on her breathing, she calmed her nerves before the speech."
         },
         {
             "definition": "The act of adjusting the lens of a camera or microscope to make an image clear.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The photographer's focusing made the picture sharp and bright.",
+            "sent2": "He checked the focusing of the microscope before starting the experiment.",
+            "sent3": "The focusing of the camera lens was crucial for capturing the perfect shot.",
+            "sent4": "The focusing ring on the camera helped adjust the image clarity.",
+            "sent5": "With precise focusing, the details in the photograph became vivid."
         },
         {
             "definition": "The process of directing attention or effort towards a specific goal or objective.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The team's focusing on the project led to its successful completion.",
+            "sent2": "Her focusing on her studies paid off with excellent grades.",
+            "sent3": "The squirrel's focusing on gathering nuts was interrupted by a passing bird.",
+            "sent4": "The company's focusing on customer satisfaction improved its reputation.",
+            "sent5": "Through clear focusing on the target, he achieved his desired outcome."
         }
     ]
 }

@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "The place where one lives permanently, especially as a member of a family or household.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "My home is cozy and warm.",
+            "sent2": "I can't wait to go back home after school.",
+            "sent3": "The cat made our home its own.",
+            "sent4": "Her smile felt like coming home after a long journey.",
+            "sent5": "The old oak tree stood tall next to our home."
         },
         {
             "definition": "A place where something flourishes, is most typically found, or from which it originates.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The forest is the home of many animals.",
+            "sent2": "The library is the home of knowledge.",
+            "sent3": "The garden is the home of colorful flowers.",
+            "sent4": "The river is the home of the elusive otter.",
+            "sent5": "The classroom is the home of learning and growth."
         },
         {
             "definition": "To return by instinct to its territory after leaving it.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The bird will home to its nest at dusk.",
+            "sent2": "The salmon will home to the same river to spawn.",
+            "sent3": "The lost dog managed to home despite being far away.",
+            "sent4": "The migrating geese will home to their breeding grounds.",
+            "sent5": "The bees will home to their hive with nectar for the queen."
         }
     ]
 }

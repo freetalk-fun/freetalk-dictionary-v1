@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A space that is contained within another space.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The hidden room behind the bookshelf was a mysterious subspace in the house.",
+            "sent2": "The attic served as a subspace for storing old furniture and decorations.",
+            "sent3": "The subspace under the bed became a secret hideout for the children during their games.",
+            "sent4": "Her mind was a vast subspace of creativity waiting to be explored.",
+            "sent5": "The subspace between the two buildings was a shortcut for pedestrians."
         },
         {
             "definition": "A subset of a vector space that is itself a vector space.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "In mathematics, a subspace is a smaller vector space within a larger one.",
+            "sent2": "The subspace formed by the column vectors of a matrix is crucial in linear algebra.",
+            "sent3": "The subspace of solutions to the equation was a key concept in the math class.",
+            "sent4": "Her understanding of the subspace theory helped her excel in the geometry exam.",
+            "sent5": "The subspace of possible outcomes narrowed down as they solved more equations."
         },
         {
             "definition": "A space that is smaller in size or dimension than the space it is contained within.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The closet was a subspace compared to the spacious bedroom.",
+            "sent2": "The garden shed served as a subspace for storing gardening tools.",
+            "sent3": "The tiny subspace in the corner of the room was perfect for the cat's bed.",
+            "sent4": "Her heart felt like a subspace, overflowing with love for her family.",
+            "sent5": "The subspace of the kitchen felt cozy and inviting on a cold winter evening."
         }
     ]
 }

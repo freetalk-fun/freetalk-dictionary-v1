@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "One who steals in small quantities.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The pilferer took a few coins from the jar.",
+            "sent2": "The shop owner caught the pilferer stealing candy.",
+            "sent3": "The pilferer tried to sneak a cookie from the jar but got caught.",
+            "sent4": "The pilferer of hearts stole her affection with a smile.",
+            "sent5": "The sneaky pilferer always targeted small items to avoid suspicion."
         },
         {
             "definition": "To steal in small quantities.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She would pilferer a cookie from the jar every night.",
+            "sent2": "The thief would pilferer items from unlocked cars.",
+            "sent3": "He would pilferer a sip of juice from his sister's glass.",
+            "sent4": "The squirrel would pilferer nuts from the bird feeder.",
+            "sent5": "The raccoon would pilferer food from the campsite every evening."
         }
     ]
 }

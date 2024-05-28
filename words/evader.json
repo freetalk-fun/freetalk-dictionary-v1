@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A person who avoids or escapes from a situation or responsibility.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The evader slipped away from doing their chores.",
+            "sent2": "The teacher caught the evader trying to skip class.",
+            "sent3": "The mischievous evader pretended to be invisible to avoid cleaning up.",
+            "sent4": "Like a skilled evader, the cat stealthily dodged the bath.",
+            "sent5": "The evader was like a shadow, always managing to disappear when needed."
         },
         {
             "definition": "To avoid or escape from a situation or responsibility.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She tried to evader her homework by claiming she lost it.",
+            "sent2": "The criminal attempted to evader capture by hiding in the forest.",
+            "sent3": "The squirrel managed to evader the bird by climbing up the tree.",
+            "sent4": "He had to evader the angry dog by jumping over the fence.",
+            "sent5": "The spy's ability to evader detection made him a valuable asset."
         }
     ]
 }

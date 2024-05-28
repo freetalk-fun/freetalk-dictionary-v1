@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A feeling of nervousness or unease.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The dark alley gave me the willies.",
+            "sent2": "Being alone in a spooky house always gives me the willies.",
+            "sent3": "The creepy clown costume gave the children the willies.",
+            "sent4": "The eerie silence of the abandoned house sent shivers of willies down my spine.",
+            "sent5": "The strange noise in the attic filled me with the willies."
         },
         {
             "definition": "A state of fear or anxiety.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The horror movie filled me with the willies.",
+            "sent2": "Walking through the haunted forest gave me the willies.",
+            "sent3": "The thought of failing the test gave me the willies.",
+            "sent4": "The looming deadline for the project sent the willies through my body.",
+            "sent5": "The growling sound in the dark alleyway put me in a state of willies."
         },
         {
             "definition": "To cause someone to feel nervous or scared.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The sudden noise willies the cat.",
+            "sent2": "The ghost stories willies the kids before bedtime.",
+            "sent3": "The prankster loves to willies his friends with fake spiders.",
+            "sent4": "The unexpected jump scare in the movie willies the audience.",
+            "sent5": "The haunted house always manages to willies unsuspecting visitors."
         }
     ]
 }

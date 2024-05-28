@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To make or become unclear or indistinct",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The rain on the window caused the glass to blur.",
+            "sent2": "When I don't wear my glasses, everything starts to blur together.",
+            "sent3": "Trying to read without my glasses always makes the words blur into each other.",
+            "sent4": "Her tears began to blur the lines between reality and fantasy.",
+            "sent5": "The fog was so thick that it seemed to blur the entire landscape."
         },
         {
             "definition": "A shape or area that cannot be seen clearly or that has fuzzy edges",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "In the distance, I could see a blur of colors that turned out to be a beautiful sunset.",
+            "sent2": "The painting was intentionally created with a blur to evoke a sense of mystery.",
+            "sent3": "The blur of the distant mountains made them look like a watercolor painting.",
+            "sent4": "As the train sped by, the landscape outside the window became a blur of green and brown.",
+            "sent5": "The artist used a blur of colors to represent the chaos of the city streets."
         }
     ]
 }

@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A person who signs a document.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The signee put their signature on the contract.",
+            "sent2": "The signee signed the agreement with a pen.",
+            "sent3": "The signee joked that signing papers made them feel like a famous celebrity.",
+            "sent4": "The signee's signature on the document was as unique as a fingerprint.",
+            "sent5": "The signee carefully read the terms before putting pen to paper."
         },
         {
             "definition": "The person to whom a signature is addressed.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The letter was delivered to the signee at their office.",
+            "sent2": "The package was meant for the signee living at that address.",
+            "sent3": "The signee received so much mail, they joked about needing a bigger mailbox.",
+            "sent4": "The signee's name on the envelope was like a special invitation.",
+            "sent5": "The signee eagerly awaited the arrival of the important document."
         }
     ]
 }

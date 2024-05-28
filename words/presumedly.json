@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Presumedly (adverb): based on the assumption that something is true",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "She presumedly left her keys on the table.",
+            "sent2": "He presumedly knows the answer to the question.",
+            "sent3": "Presumedly, the cat thinks it's the boss of the house.",
+            "sent4": "The stars, presumedly, guide sailors through the night.",
+            "sent5": "The detective presumedly solved the case with ease."
         },
         {
             "definition": "Presumedly (adjective): assumed to be true without definite proof",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The presumedly haunted house scared the kids.",
+            "sent2": "She wore a presumedly lucky charm to the exam.",
+            "sent3": "The presumedly magical potion turned out to be just water.",
+            "sent4": "His presumedly perfect plan fell apart quickly.",
+            "sent5": "The presumedly abandoned building held many secrets."
         }
     ]
 }

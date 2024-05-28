@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "The highest or uppermost part of something.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The bird built its nest at the top of the tree.",
+            "sent2": "The cat climbed to the top of the stairs.",
+            "sent3": "The squirrel found a cozy spot at the top of the tree to rest.",
+            "sent4": "The sun peeked over the top of the mountain, signaling a new day.",
+            "sent5": "The flag fluttered proudly at the top of the pole."
         },
         {
             "definition": "A lid or cover for a container.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Please remember to put the top on the jar after using it.",
+            "sent2": "The coffee cup had a small opening on its top for sipping.",
+            "sent3": "The mischievous kitten tried to play with the top of the cookie jar.",
+            "sent4": "The chef carefully placed the top on the pot to let the soup simmer.",
+            "sent5": "The child struggled to open the top of the juice box."
         },
         {
             "definition": "To surpass or outdo.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She managed to top her previous score in the game.",
+            "sent2": "The new movie hopes to top the box office charts.",
+            "sent3": "The student aimed to top all others in the spelling bee.",
+            "sent4": "His dedication to practice helped him top the competition.",
+            "sent5": "The team worked hard to top their rivals in the championship match."
         }
     ]
 }

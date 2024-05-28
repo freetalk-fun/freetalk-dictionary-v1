@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Used as an intensifier to express annoyance or frustration.",
-            "pos": "interjection"
+            "pos": "interjection",
+            "sent1": "Oh doggoned, I forgot my lunch at home!",
+            "sent2": "Doggoned, why does it always rain on my day off?",
+            "sent3": "Well, doggoned if I didn't lock myself out of the car again!",
+            "sent4": "The doggoned traffic made me late for the meeting.",
+            "sent5": "I was so doggoned mad when my phone died during the movie!"
         },
         {
             "definition": "Used as an adjective to emphasize something as being annoying or frustrating.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "That doggoned printer keeps jamming every time I need it!",
+            "sent2": "She was so doggoned tired after working a double shift.",
+            "sent3": "The doggoned rain ruined our picnic plans.",
+            "sent4": "I can't find my keys in this doggoned mess!",
+            "sent5": "The doggoned alarm clock woke me up too early again."
         },
         {
             "definition": "Used as an adverb to intensify an action or feeling.",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "She ran doggoned fast to catch the bus.",
+            "sent2": "I'm doggoned sure I left my book on the table.",
+            "sent3": "He ate that pizza doggoned quickly!",
+            "sent4": "The kids were playing doggoned loudly in the yard.",
+            "sent5": "I was doggoned happy to see my old friend after so long."
         }
     ]
 }

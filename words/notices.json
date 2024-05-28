@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To become aware of something or someone by seeing or hearing them.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She notices the bird singing outside her window.",
+            "sent2": "He always notices when his dog wants to play.",
+            "sent3": "The cat notices the mouse and starts to chase it.",
+            "sent4": "The detective notices a small detail that solves the case.",
+            "sent5": "The teacher notices the student's hard work and praises them."
         },
         {
             "definition": "A written or printed announcement.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The notices about the school play were posted on the bulletin board.",
+            "sent2": "She read the notice about the upcoming event in the newspaper.",
+            "sent3": "The notice on the door informed visitors about the new opening hours.",
+            "sent4": "The notice on the wall reminded everyone about the safety rules.",
+            "sent5": "The notice on the website announced the winner of the contest."
         },
         {
             "definition": "To pay attention to something.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He notices the warning signs and acts accordingly.",
+            "sent2": "She always notices the beautiful flowers in the garden.",
+            "sent3": "The child notices the colorful balloons and gets excited.",
+            "sent4": "The hiker notices the change in weather and decides to head back.",
+            "sent5": "The chef notices the missing ingredient and quickly replaces it."
         }
     ]
 }

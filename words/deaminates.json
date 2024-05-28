@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Remove an amino group from (a molecule).",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The enzyme deaminates the amino acid, changing its structure.",
+            "sent2": "During digestion, the body deaminates proteins to obtain essential nutrients.",
+            "sent3": "The scientist's experiment accidentally deaminated the wrong molecule, causing a surprising result.",
+            "sent4": "In the chemical reaction, the catalyst deaminates the compound, leading to a new product.",
+            "sent5": "The process of deamination is crucial for the body to break down proteins effectively."
         },
         {
             "definition": "Undergo deamination.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "After ingestion, the protein will deaminate in the digestive system.",
+            "sent2": "During metabolism, certain compounds deaminate to release energy.",
+            "sent3": "The food in the fridge started to deaminate, creating a strange odor.",
+            "sent4": "As time passed, the organic matter began to deaminate, returning to its basic components.",
+            "sent5": "In nature, organic materials deaminate over time, contributing to the cycle of life."
         }
     ]
 }

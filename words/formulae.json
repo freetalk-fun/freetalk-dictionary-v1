@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A method or procedure for achieving something.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Following the formulae for baking a cake ensures a delicious result.",
+            "sent2": "Scientists use complex formulae to conduct experiments in a systematic way.",
+            "sent3": "I tried to use the formulae for assembling furniture, but ended up with a lopsided bookshelf!",
+            "sent4": "Her formulae for success in business include hard work and perseverance.",
+            "sent5": "Learning the formulae for solving a Rubik's cube can be challenging but rewarding."
         },
         {
             "definition": "A mathematical relationship or rule expressed in symbols.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "In algebra, students learn various formulae to solve equations.",
+            "sent2": "The formulae for calculating the area of a circle involve pi and radius.",
+            "sent3": "The magician's secret formulae for his tricks were written in invisible ink.",
+            "sent4": "The formulae of physics can be used to explain natural phenomena.",
+            "sent5": "Memorizing mathematical formulae can help students excel in exams."
         },
         {
             "definition": "A list of ingredients and their proportions for making a particular dish.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The chef followed the formulae for making the perfect pasta sauce.",
+            "sent2": "Grandma's cookie recipe includes a secret formulae for the best flavor.",
+            "sent3": "The potion recipe called for strange formulae like eye of newt and dragon scales.",
+            "sent4": "The ancient scrolls contained formulae for brewing potions with mystical powers.",
+            "sent5": "Experimenting with different formulae of spices can elevate a simple dish to gourmet level."
         }
     ]
 }

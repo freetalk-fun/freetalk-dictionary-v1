@@ -2,12 +2,22 @@
     "term": "sarge",
     "meanings": [
         {
-            "definition": "A shortened form of the word \"sergeant.\"",
-            "pos": "noun"
+            "definition": "A shortened form of the word 'sergeant.'",
+            "pos": "noun",
+            "sent1": "The sarge gave orders to the troops.",
+            "sent2": "The new recruit saluted the sarge.",
+            "sent3": "The sarge's hat kept falling off during training.",
+            "sent4": "The sarge's voice boomed like thunder across the field.",
+            "sent5": "The sarge's presence commanded respect from all."
         },
         {
             "definition": "To address or refer to a sergeant in the military.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Soldiers sarge their superiors with respect.",
+            "sent2": "During the briefing, the captain would often sarge the sergeant for updates.",
+            "sent3": "The private accidentally sarged the wrong officer, causing confusion.",
+            "sent4": "In the heat of battle, the lieutenant sarged orders swiftly.",
+            "sent5": "The cadet nervously sarged the sergeant for permission to leave."
         }
     ]
 }

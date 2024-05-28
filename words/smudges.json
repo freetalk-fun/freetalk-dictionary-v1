@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A dirty mark or smear.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I tried to clean the smudges off the window.",
+            "sent2": "The artist accidentally left smudges on the canvas.",
+            "sent3": "The mischievous raccoon left tiny smudges all over the kitchen floor.",
+            "sent4": "Her tears left smudges on the letter, making it hard to read.",
+            "sent5": "The detective found smudges on the glass, indicating a break-in."
         },
         {
             "definition": "To make or become smeared or blurred.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Be careful not to smudges the ink while writing.",
+            "sent2": "The rain smudges the ink on the paper, making it illegible.",
+            "sent3": "The playful puppy smudges the paint on the wall with its tail.",
+            "sent4": "Time smudges the memories, making them fade away.",
+            "sent5": "The artist gently smudges the charcoal to create shadows in the drawing."
         }
     ]
 }

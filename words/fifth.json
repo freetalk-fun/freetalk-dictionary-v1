@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Constituting number five in a sequence.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "She was the fifth person in line for the ride.",
+            "sent2": "The fifth book on the shelf is my favorite.",
+            "sent3": "The fifth time he told the joke, we all burst out laughing.",
+            "sent4": "Her fifth attempt at baking a cake finally turned out delicious.",
+            "sent5": "The fifth star from the left shone the brightest in the night sky."
         },
         {
             "definition": "One of five equal parts.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "He ate a fifth of the pizza all by himself.",
+            "sent2": "The cake was divided into fifths for each guest.",
+            "sent3": "The team won the game by a fifth of a point.",
+            "sent4": "She only had a fifth of the puzzle left to complete.",
+            "sent5": "A fifth of the class chose to study science as their major."
         },
         {
             "definition": "The interval between one note and another five notes higher or lower in a diatonic scale.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The musician played a beautiful melody with a perfect fifth.",
+            "sent2": "In the song, the chorus starts with a fifth above the main note.",
+            "sent3": "The cat meowed a fifth higher than usual, surprising everyone.",
+            "sent4": "The birds chirped in fifths, creating a harmonious tune.",
+            "sent5": "The choir sang the hymn with a powerful fifth that resonated throughout the church."
         }
     ]
 }

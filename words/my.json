@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Belonging to or associated with the speaker.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "This is my favorite toy.",
+            "sent2": "My dog is very friendly.",
+            "sent3": "I forgot my lunch at home again.",
+            "sent4": "The sound of my laughter filled the room.",
+            "sent5": "The warmth of my mother's hug was comforting."
         },
         {
             "definition": "Used before a noun to show possession or ownership.",
-            "pos": "article"
+            "pos": "article",
+            "sent1": "My cat loves to play with yarn.",
+            "sent2": "I need to find my keys before leaving.",
+            "sent3": "My, oh my, where did I put that book?",
+            "sent4": "The melody of my heart sings for you.",
+            "sent5": "The taste of my victory was sweet."
         }
     ]
 }

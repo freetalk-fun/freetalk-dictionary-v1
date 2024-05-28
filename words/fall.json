@@ -3,19 +3,39 @@
     "meanings": [
         {
             "definition": "To descend from a higher to a lower place",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I watch the leaves fall from the tree.",
+            "sent2": "Be careful not to fall off the ladder.",
+            "sent3": "The cat tried to fall gracefully from the shelf.",
+            "sent4": "Her tears fall like raindrops from her eyes.",
+            "sent5": "The snowflakes fall softly to the ground."
         },
         {
             "definition": "To come down suddenly from a standing position",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I trip and fall on the slippery floor.",
+            "sent2": "The child fell while running in the park.",
+            "sent3": "The clown pretended to fall for a laugh.",
+            "sent4": "His hopes fall like a house of cards.",
+            "sent5": "The raindrops fall heavily on the roof."
         },
         {
             "definition": "The season between summer and winter",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I love the colors of the leaves in fall.",
+            "sent2": "During fall, the weather gets cooler.",
+            "sent3": "In fall, we celebrate Thanksgiving.",
+            "sent4": "The fall of the leaves marks the season change.",
+            "sent5": "The fall breeze carries a hint of winter chill."
         },
         {
             "definition": "A decrease in value or quantity",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The fall in prices attracted many buyers.",
+            "sent2": "There was a sudden fall in the stock market.",
+            "sent3": "The fall in attendance was unexpected.",
+            "sent4": "His fall from grace was swift and public.",
+            "sent5": "The fall of the empire was inevitable."
         }
     ]
 }

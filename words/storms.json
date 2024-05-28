@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A violent disturbance of the atmosphere with strong winds and usually rain, thunder, lightning, or snow.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The dark clouds gathered, signaling the arrival of storms.",
+            "sent2": "The storms last night brought heavy rain and thunder.",
+            "sent3": "The picnic was ruined by unexpected storms, but we laughed it off.",
+            "sent4": "Her anger brewed like a storm, ready to unleash its fury.",
+            "sent5": "The storms painted the sky with shades of gray, a breathtaking sight."
         },
         {
             "definition": "A tumultuous reaction; an uproar or controversy.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The announcement caused a storm of excitement among the crowd.",
+            "sent2": "The political scandal created a media storm.",
+            "sent3": "The debate turned into a friendly storm of opinions.",
+            "sent4": "Her arrival at the party caused quite a storm of whispers.",
+            "sent5": "The storm of emotions inside him was hard to contain."
         },
         {
             "definition": "To move angrily or forcefully in a specified direction.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She storms out of the room after the argument.",
+            "sent2": "The protesters storm towards the government building.",
+            "sent3": "The cat storms into the kitchen looking for food.",
+            "sent4": "He storms through the paperwork, determined to finish quickly.",
+            "sent5": "The team storms onto the field, ready for victory."
         }
     ]
 }

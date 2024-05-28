@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Arranged in a particular way or pattern.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The toys were configured neatly on the shelf.",
+            "sent2": "The chairs were configured in a circle for the meeting.",
+            "sent3": "The puzzle pieces were configured in a funny shape.",
+            "sent4": "Her thoughts were configured like a carefully crafted puzzle.",
+            "sent5": "The garden was configured to resemble a beautiful maze."
         },
         {
             "definition": "Set up for a particular purpose or function.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She configured her phone settings to silent mode.",
+            "sent2": "The technician configured the computer network for optimal performance.",
+            "sent3": "He configured the room to surprise his friend.",
+            "sent4": "The team configured their strategy like a well-oiled machine.",
+            "sent5": "The chef configured the ingredients to create a delicious dish."
         }
     ]
 }

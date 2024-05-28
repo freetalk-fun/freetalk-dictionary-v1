@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "The range of frequencies within a given band, in particular that used for transmitting a signal.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The bandwidth of the radio waves determines how far the signal can reach.",
+            "sent2": "Our internet connection has a limited bandwidth, so we can't stream HD videos smoothly.",
+            "sent3": "I heard the music so clearly, it felt like the bandwidth was singing to me!",
+            "sent4": "Her emotions had a bandwidth that resonated with everyone in the room.",
+            "sent5": "The bandwidth of the colors in the painting created a vibrant and dynamic effect."
         },
         {
             "definition": "The amount of data that can be transmitted in a fixed amount of time.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The company upgraded its servers to increase the bandwidth for faster file transfers.",
+            "sent2": "Streaming services require a high bandwidth to deliver content without buffering.",
+            "sent3": "I wish my brain had more bandwidth to process all the information at once!",
+            "sent4": "Her speech had a bandwidth of words that captivated the audience.",
+            "sent5": "The bandwidth of the river flow determined the speed of data transfer for the sensors placed in it."
         }
     ]
 }

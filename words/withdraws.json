@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To remove or take away",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She withdraws the toy from the shelf.",
+            "sent2": "He withdraws his hand from the hot stove quickly.",
+            "sent3": "The magician withdraws the rabbit from the hat, surprising the audience.",
+            "sent4": "As the sun sets, it withdraws its warmth from the earth.",
+            "sent5": "The teacher withdraws the privilege of recess for misbehaving students."
         },
         {
             "definition": "To retreat or pull back",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The turtle withdraws into its shell when feeling threatened.",
+            "sent2": "The army decides to withdraw from the battle to regroup.",
+            "sent3": "The cat withdraws from the room after knocking over a vase.",
+            "sent4": "Like a tide, the ocean withdraws from the shore, revealing seashells.",
+            "sent5": "Feeling overwhelmed, she withdraws from social interactions to recharge."
         },
         {
             "definition": "To take money out of an account",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He withdraws cash from the ATM for the weekend trip.",
+            "sent2": "She needs to withdraw some money from her savings for the car repair.",
+            "sent3": "The piggy bank withdraws its contents for a special treat.",
+            "sent4": "The investor decides to withdraw funds from the stock market.",
+            "sent5": "After payday, many employees withdraw their salaries from the bank."
         }
     ]
 }

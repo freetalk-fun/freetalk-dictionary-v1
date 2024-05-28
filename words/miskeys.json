@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To press the wrong key on a keyboard while typing.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She often miskeys the password when logging in.",
+            "sent2": "He miskeys his email address and wonders why he doesn't receive replies.",
+            "sent3": "In a rush, she miskeys the address and sends the package to the wrong house.",
+            "sent4": "The detective miskeys a crucial clue, leading to a wrong suspect.",
+            "sent5": "Miskeying the code can lock you out of the system permanently."
         },
         {
             "definition": "The act of making a mistake while typing on a keyboard.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "His frequent miskeys often result in typos in his reports.",
+            "sent2": "The miskeys in the document made it difficult to read.",
+            "sent3": "The comedy of errors began with a miskey in the script.",
+            "sent4": "Her miskeys were like musical notes out of tune in the composition.",
+            "sent5": "The miskeys stood out like sore thumbs in the final draft."
         }
     ]
 }

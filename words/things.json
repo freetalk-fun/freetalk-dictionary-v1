@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Objects or articles",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "She collected shiny things like seashells and rocks.",
+            "sent2": "The store sells all sorts of things, from clothes to toys.",
+            "sent3": "He tripped over his own things and fell flat on his face.",
+            "sent4": "Her room was a treasure trove of colorful things that sparkled in the sunlight.",
+            "sent5": "The museum displayed ancient things that told stories of the past."
         },
         {
             "definition": "Matters of concern or interest",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Family and health are the most important things in life.",
+            "sent2": "Discussing important things with friends can be comforting.",
+            "sent3": "The cat's curiosity about new things always led to funny situations.",
+            "sent4": "Love is a powerful thing that can bring people together.",
+            "sent5": "The book club members shared their favorite things about the latest novel."
         },
         {
             "definition": "An action or activity",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Running is not my favorite thing to do, but I do it for exercise.",
+            "sent2": "Learning new things can be challenging but rewarding.",
+            "sent3": "His favorite thing to do on weekends is to go fishing with his friends.",
+            "sent4": "Laughter is a wonderful thing that can brighten anyone's day.",
+            "sent5": "Exploring new things can open up a world of possibilities."
         }
     ]
 }

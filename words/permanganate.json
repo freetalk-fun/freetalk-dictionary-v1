@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A compound containing the permanganate ion, MnO4-",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I added a small amount of permanganate to the solution.",
+            "sent2": "The permanganate compound turned the liquid a deep purple color.",
+            "sent3": "The permanganate ion was the star of the chemical reaction.",
+            "sent4": "The MnO4- in the permanganate compound acted as a powerful oxidizing agent.",
+            "sent5": "The MnO4- ion in permanganate is responsible for its distinctive color."
         },
         {
             "definition": "To treat or oxidize with permanganate.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The lab technician will permanganate the water samples for analysis.",
+            "sent2": "It is important to carefully permanganate the organic matter in the experiment.",
+            "sent3": "The scientist decided to permanganate the stubborn stain on his lab coat.",
+            "sent4": "She watched as the solution began to change color after permanganating it.",
+            "sent5": "The process of permanganating the substance was crucial for the experiment's success."
         }
     ]
 }

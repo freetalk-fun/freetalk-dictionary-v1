@@ -3,19 +3,39 @@
     "meanings": [
         {
             "definition": "The act of giving something in return for something else.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "At the school's book exchange, students trade books with each other.",
+            "sent2": "The toy exchange at the community center allows children to swap toys.",
+            "sent3": "During the holiday gift exchange, everyone eagerly waits to see what they receive.",
+            "sent4": "In the cultural exchange program, students from different countries learn about each other's traditions.",
+            "sent5": "The exchange of gifts between friends strengthens their bond."
         },
         {
             "definition": "A place where goods or services are bought and sold.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The bustling stock exchange is filled with traders buying and selling shares.",
+            "sent2": "The farmers' market is a vibrant exchange of fresh produce and handmade goods.",
+            "sent3": "The antique exchange is a treasure trove for collectors seeking unique items.",
+            "sent4": "The currency exchange at the airport offers different rates for various currencies.",
+            "sent5": "The online exchange allows users to purchase items from sellers worldwide."
         },
         {
             "definition": "To give or receive something in return for something else.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She exchanges her old clothes for new ones at the thrift store.",
+            "sent2": "They exchange gifts every year on their anniversary.",
+            "sent3": "He exchanges jokes with his friends to lighten the mood.",
+            "sent4": "The siblings exchange playful banter during family gatherings.",
+            "sent5": "The students exchange notes to help each other study for the exam."
         },
         {
             "definition": "To trade or swap something with someone else.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "They exchange their lunch items to try new flavors.",
+            "sent2": "The collectors often exchange rare stamps to expand their collections.",
+            "sent3": "The siblings exchange trading cards to complete their sets.",
+            "sent4": "She exchanges her recipe for his gardening tips.",
+            "sent5": "The neighbors exchange tools to help each other with home projects."
         }
     ]
 }

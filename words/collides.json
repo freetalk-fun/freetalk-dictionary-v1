@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To come into violent contact with another object.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The car collides with the wall.",
+            "sent2": "The two cars collided at the intersection.",
+            "sent3": "The ball collides with the window, making a loud noise.",
+            "sent4": "The storm collides with the coast, causing massive destruction.",
+            "sent5": "The asteroid collides with Earth, creating a crater."
         },
         {
             "definition": "To clash or conflict in a harmful way.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "His ideas collides with hers during the meeting.",
+            "sent2": "The two nations' interests collided, leading to tension.",
+            "sent3": "The cat's playful nature collides with the dog's serious demeanor.",
+            "sent4": "The loud music collides with the peaceful atmosphere of the library.",
+            "sent5": "The opposing armies collide on the battlefield, resulting in chaos."
         }
     ]
 }

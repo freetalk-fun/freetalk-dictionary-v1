@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To come into existence",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "A new idea originates from creative thinking.",
+            "sent2": "The river originates from a small spring in the mountains.",
+            "sent3": "The rumor that aliens live among us originates from a silly movie plot.",
+            "sent4": "Her passion for painting originates from a childhood memory of a colorful sunset.",
+            "sent5": "The tradition of blowing out candles on a birthday cake originates from ancient beliefs about warding off evil spirits."
         },
         {
             "definition": "To have a specified beginning",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The story originates with a brave knight on a quest.",
+            "sent2": "The road trip originates at the city's main square.",
+            "sent3": "The mystery novel's plot originates with a missing diamond necklace.",
+            "sent4": "His journey to success originates at a small-town school talent show.",
+            "sent5": "The recipe for the famous dish originates in a small village in Italy."
         },
         {
             "definition": "To be the source or cause of something",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "His careless actions originate the chaos in the classroom.",
+            "sent2": "The faulty wiring originates the fire in the building.",
+            "sent3": "The mischievous cat originates the mess in the living room.",
+            "sent4": "The lack of communication originates the misunderstanding between friends.",
+            "sent5": "The strong winds originate the power outage in the neighborhood."
         }
     ]
 }

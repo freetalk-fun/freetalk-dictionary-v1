@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Used to give a negative response or refusal.",
-            "pos": "interjection"
+            "pos": "interjection",
+            "sent1": "No, I don't want any more candy.",
+            "sent2": "She said no to the offer.",
+            "sent3": "No, I won't jump off the swing into the mud.",
+            "sent4": "The cat meowed a loud 'no' to going outside in the rain.",
+            "sent5": "The teacher's 'no' echoed through the classroom, silencing the students."
         },
         {
             "definition": "Not any.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "There is no milk left in the fridge.",
+            "sent2": "He has no siblings.",
+            "sent3": "The empty jar had no cookies left.",
+            "sent4": "The dark night sky had no stars to be seen.",
+            "sent5": "The abandoned house had no signs of life inside."
         },
         {
             "definition": "Not at all.",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "She was no longer interested in the game.",
+            "sent2": "He could no longer see the road ahead.",
+            "sent3": "The magician's hat was no longer empty after the trick.",
+            "sent4": "The once lively party was no longer fun for the tired guests.",
+            "sent5": "The old clock could no longer tick, its gears worn out."
         }
     ]
 }

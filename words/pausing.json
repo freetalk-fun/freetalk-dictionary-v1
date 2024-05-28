@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To stop briefly in speech or action.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She was pausing to catch her breath after running.",
+            "sent2": "The teacher was pausing to think before answering the question.",
+            "sent3": "The comedian kept pausing for dramatic effect during his stand-up routine.",
+            "sent4": "The music seemed to be pausing, creating a sense of anticipation.",
+            "sent5": "The movie director instructed the actors to pause, pausing the scene for added suspense."
         },
         {
             "definition": "A temporary stop or rest.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "During the hike, we took a pausing to enjoy the view.",
+            "sent2": "The meeting had a brief pausing for everyone to grab a snack.",
+            "sent3": "The cat found a cozy spot for a pausing in the sunbeam.",
+            "sent4": "The traffic jam caused a long pausing on the highway.",
+            "sent5": "The marathon runner needed a quick pausing to drink some water."
         }
     ]
 }

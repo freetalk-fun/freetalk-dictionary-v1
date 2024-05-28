@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "(adjective) Acting or operating in a manner essentially independent of external influence or control.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The automatics door at the store opens when someone approaches.",
+            "sent2": "The factory uses automatics machines to speed up production.",
+            "sent3": "The robot's automatics movements made it look like it was dancing.",
+            "sent4": "Her automatics response to danger saved her from harm.",
+            "sent5": "The automatics sprinkler system activated as soon as the fire alarm went off."
         },
         {
             "definition": "(noun) A firearm that loads and fires continuously with each pull of the trigger.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The soldier carried an automatics rifle into battle.",
+            "sent2": "Criminals often use automatics in violent crimes.",
+            "sent3": "The detective found the hidden stash of automatics in the criminal's hideout.",
+            "sent4": "The sound of automatics firing echoed through the valley.",
+            "sent5": "The police confiscated a cache of illegal automatics from the gang."
         },
         {
             "definition": "(adverb) In an automatic manner; without conscious thought or intention.",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "She automatically reached for her phone when it rang.",
+            "sent2": "The musician played the notes on the piano automatics, without hesitation.",
+            "sent3": "He automatically pressed the elevator button for the wrong floor out of habit.",
+            "sent4": "The cat automatically purred when its favorite spot was scratched.",
+            "sent5": "The athlete's body moved automatics as muscle memory kicked in during the race."
         }
     ]
 }

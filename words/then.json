@@ -3,23 +3,48 @@
     "meanings": [
         {
             "definition": "At that time",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "I finished my homework, and then I went to bed.",
+            "sent2": "She read a story, and then she fell asleep.",
+            "sent3": "The cat meowed, and then the dog barked.",
+            "sent4": "The sun set, and then the stars appeared in the sky.",
+            "sent5": "The bell rang, and then the students rushed out of the classroom."
         },
         {
             "definition": "Next in order",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "He followed the first step, and then he moved on to the next one.",
+            "sent2": "The second book on the shelf is the then one to read.",
+            "sent3": "The third cookie in the jar is the then treat for you.",
+            "sent4": "The last piece of the puzzle is the then one to complete the picture.",
+            "sent5": "The final destination on the map is the then place to reach."
         },
         {
             "definition": "In that case",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "If it rains, then we will stay indoors.",
+            "sent2": "If you are tired, then you should rest.",
+            "sent3": "If the store is closed, then we can't buy groceries.",
+            "sent4": "If the movie is sold out, then we will watch something else.",
+            "sent5": "If the bus is late, then we might miss our appointment."
         },
         {
             "definition": "In addition",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "She bought a dress, and then she purchased shoes in addition.",
+            "sent2": "He finished his meal, and then he ordered dessert in addition.",
+            "sent3": "The team won the game, and then they celebrated in addition.",
+            "sent4": "The cake was delicious, and then the ice cream was served in addition.",
+            "sent5": "The book was interesting, and then the movie adaptation was released in addition."
         },
         {
             "definition": "In consequence",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "He missed the bus, and then he was late for work in consequence.",
+            "sent2": "She forgot her umbrella, and then she got soaked in consequence.",
+            "sent3": "The oven timer didn't go off, and then the cookies burned in consequence.",
+            "sent4": "The road was closed, and then they had to take a detour in consequence.",
+            "sent5": "The phone died, and then she couldn't call for help in consequence."
         }
     ]
 }

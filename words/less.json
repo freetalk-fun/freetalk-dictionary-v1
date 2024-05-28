@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A smaller amount of something",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I have less candy than you.",
+            "sent2": "She ate less cake than her brother.",
+            "sent3": "The squirrel had less nuts than the chipmunk.",
+            "sent4": "His wallet was less full than a balloon losing air.",
+            "sent5": "The jar had less marbles after the game."
         },
         {
             "definition": "Not as much as something else",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "He runs less quickly than his friend.",
+            "sent2": "She talks less loudly than the teacher.",
+            "sent3": "The cat meowed less often than usual.",
+            "sent4": "The sun shines less brightly on a cloudy day.",
+            "sent5": "The flowers smell less sweet in the rain."
         },
         {
             "definition": "To a smaller extent or degree",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "They will travel less this year.",
+            "sent2": "He sings less now that he is older.",
+            "sent3": "The river flows less after the dam was built.",
+            "sent4": "Her smile shines less brightly when she is sad.",
+            "sent5": "The fire burns less fiercely as it dies down."
         }
     ]
 }

@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A person who practices augury, a form of divination.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The ancient augurers would study bird flights to predict the future.",
+            "sent2": "The augurers gathered around the fire, interpreting the signs from the gods.",
+            "sent3": "The young boy, pretending to be an augurer, used sticks to predict the outcome of his game.",
+            "sent4": "She had a knack for being an augurer of people's emotions, always knowing how they felt.",
+            "sent5": "The wise old augurer sat quietly, listening to the whispers of nature for guidance."
         },
         {
             "definition": "To predict or foretell the future using signs or omens.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The wise woman would augur the weather by observing the clouds.",
+            "sent2": "He tried to augur the outcome of the match based on the players' performance.",
+            "sent3": "The cat seemed to augur the arrival of guests by sitting at the window.",
+            "sent4": "Her dreams seemed to augur success in her upcoming project.",
+            "sent5": "The sudden silence in the forest augured an approaching storm."
         }
     ]
 }

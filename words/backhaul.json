@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "The transportation of goods or passengers on a return trip.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "After delivering the supplies, the truck driver loaded up with backhaul for the journey back.",
+            "sent2": "The bus company used backhaul to transport passengers from the event back to the city.",
+            "sent3": "The backhaul of empty crates made the return trip more profitable for the delivery company.",
+            "sent4": "The backhaul of tourists on the way back was a welcome surprise for the tour operator.",
+            "sent5": "The backhaul of fresh produce helped the farmer make the most of the return journey."
         },
         {
             "definition": "The process of transmitting data from a remote site to a central site.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The company's network relied on backhaul to send information securely to headquarters.",
+            "sent2": "Backhaul technology ensured that data from the field offices reached the main server efficiently.",
+            "sent3": "The backhaul of digital files was like a virtual courier service for the company.",
+            "sent4": "Backhaul acted as a digital bridge, connecting the remote locations to the central hub.",
+            "sent5": "The backhaul of online orders was crucial for the e-commerce business to operate smoothly."
         }
     ]
 }

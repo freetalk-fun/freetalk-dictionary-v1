@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Individuals",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The persons in the room were all smiling.",
+            "sent2": "She counted the persons waiting in line.",
+            "sent3": "The persons at the party were all wearing silly hats.",
+            "sent4": "The persons in the painting seemed to come to life.",
+            "sent5": "The persons in the story were brave adventurers."
         },
         {
             "definition": "Human beings",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Many persons enjoy spending time outdoors.",
+            "sent2": "The persons on the bus chatted happily.",
+            "sent3": "The persons in the movie were all aliens in disguise.",
+            "sent4": "The persons in the crowd moved like a single organism.",
+            "sent5": "The persons in the photograph looked happy and carefree."
         },
         {
             "definition": "People",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The persons in the park were having a picnic.",
+            "sent2": "She waved to the persons across the street.",
+            "sent3": "The persons at the concert were dancing wildly.",
+            "sent4": "The persons in the play wore colorful costumes.",
+            "sent5": "The persons in the book formed a close-knit community."
         }
     ]
 }

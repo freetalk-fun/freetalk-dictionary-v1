@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A unit of weight equal to 16 ounces.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "She placed five pounds of apples in the basket.",
+            "sent2": "The butcher sells meat by the pounds.",
+            "sent3": "The cat tried to carry a whole pound of fish in its mouth.",
+            "sent4": "His love for her weighed more than a thousand pounds of gold.",
+            "sent5": "The weightlifter lifted 200 pounds effortlessly."
         },
         {
             "definition": "The basic monetary unit of the United Kingdom.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "He exchanged his dollars for British pounds at the bank.",
+            "sent2": "The price of the item was listed in pounds and pence.",
+            "sent3": "She found a lucky penny and hoped it would turn into a pound.",
+            "sent4": "His savings were in pounds, ready for his trip to London.",
+            "sent5": "The pound coin had a picture of the Queen on it."
         },
         {
             "definition": "To strike or hit heavily.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He pounds the nail into the wood with a hammer.",
+            "sent2": "The waves pound against the shore during the storm.",
+            "sent3": "She pounds the dough to make the bread fluffy.",
+            "sent4": "The boxer pounds his opponent with powerful punches.",
+            "sent5": "The drummer pounds the drums with great energy."
         }
     ]
 }

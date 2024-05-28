@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Material such as coal, gas, or oil that is burned to produce heat or power.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The truck needed more fuel to keep running smoothly.",
+            "sent2": "The factory uses a lot of fuel to operate its machinery.",
+            "sent3": "The campfire ran out of fuel, so we had to roast marshmallows over a candle.",
+            "sent4": "Her passion for music was the fuel that kept her going through tough times.",
+            "sent5": "The fuel for the rocket ignited with a bright flame, propelling it into space."
         },
         {
             "definition": "To supply with fuel.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He had to fuel the car before starting the long journey.",
+            "sent2": "The workers needed to fuel the generator to keep the lights on.",
+            "sent3": "She tried to fuel her cat with coffee, thinking it would make him more energetic.",
+            "sent4": "His words of encouragement fueled her determination to succeed.",
+            "sent5": "The cheers from the crowd fueled the athlete's final sprint to the finish line."
         }
     ]
 }

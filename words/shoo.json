@@ -2,16 +2,31 @@
     "term": "shoo",
     "meanings": [
         {
-            "definition": "To drive away or urge to go away by or as if by crying \"shoo\"",
-            "pos": "verb"
+            "definition": "To drive away or urge to go away by or as if by crying 'shoo'",
+            "pos": "verb",
+            "sent1": "I had to shoo the cat out of the kitchen.",
+            "sent2": "Please shoo the flies away from the food.",
+            "sent3": "The little girl tried to shoo the clouds from the sky.",
+            "sent4": "He tried to shoo away his worries like pesky insects.",
+            "sent5": "The scarecrow's job is to shoo the birds from the crops."
         },
         {
             "definition": "Used to express impatience, disapproval, or disbelief",
-            "pos": "interjection"
+            "pos": "interjection",
+            "sent1": "Shoo! I can't believe you did that!",
+            "sent2": "Oh shoo! That's not fair at all.",
+            "sent3": "Shoo, don't interrupt me when I'm talking.",
+            "sent4": "Shoo, that's the silliest thing I've heard all day!",
+            "sent5": "Shoo! I'm so frustrated with this situation."
         },
         {
             "definition": "A cry used to frighten away animals or birds",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The loud shoo scared the pigeons away.",
+            "sent2": "I heard a shoo coming from the garden.",
+            "sent3": "The little boy's shoo made the squirrel run up the tree.",
+            "sent4": "The shoo echoed through the empty barn.",
+            "sent5": "The farmer's shoo was so loud, it startled the horses."
         }
     ]
 }

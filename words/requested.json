@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Asked for",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She requested a glass of water at the restaurant.",
+            "sent2": "He always requests extra ketchup with his fries.",
+            "sent3": "The cat requested to go outside by meowing at the door.",
+            "sent4": "The student requested more time to finish the test.",
+            "sent5": "The customer requested a refund for the damaged product."
         },
         {
             "definition": "Sought after",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The requested book was finally back in stock.",
+            "sent2": "The requested information was provided promptly.",
+            "sent3": "The requested dessert was a hit at the party.",
+            "sent4": "The requested painting was sold at a high price.",
+            "sent5": "The requested toy was the most popular item in the store."
         }
     ]
 }

@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A temporary stop in action or speech.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "During the movie, there was a brief pause for everyone to get more popcorn.",
+            "sent2": "The teacher asked for a pause in the lesson to answer a student's question.",
+            "sent3": "At the party, there was a funny pause when the music suddenly stopped.",
+            "sent4": "The pause in the conversation felt like an eternity, filled with awkward silence.",
+            "sent5": "The sudden pause in the music caught everyone's attention."
         },
         {
             "definition": "To stop temporarily before continuing.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The runner had to pause to catch his breath during the race.",
+            "sent2": "Please pause the video so we can discuss what just happened.",
+            "sent3": "I had to pause my baking when I realized I was out of flour.",
+            "sent4": "She decided to pause her studies to travel and explore different cultures.",
+            "sent5": "The musician paused before playing the final note, building anticipation."
         }
     ]
 }

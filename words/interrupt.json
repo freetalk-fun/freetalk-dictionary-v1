@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Stop the continuous progress of an activity or process.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Please do not interrupt the class while the teacher is speaking.",
+            "sent2": "I had to interrupt my work to answer an important phone call.",
+            "sent3": "It can be frustrating to interrupt a game right before reaching the final level.",
+            "sent4": "The sudden rainstorm interrupted our picnic plans.",
+            "sent5": "The loud noise outside interrupted my concentration."
         },
         {
             "definition": "Stop the continuous progress of a conversation or speech.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "It's rude to interrupt someone while they are talking.",
+            "sent2": "I didn't mean to interrupt your story, but I have a question.",
+            "sent3": "The cat tried to interrupt our discussion by meowing loudly.",
+            "sent4": "Her laughter interrupted the serious tone of the meeting.",
+            "sent5": "The phone call interrupted our deep conversation about life."
         },
         {
             "definition": "Break the continuity of a line or surface.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The fence was interrupted by a large tree growing through it.",
+            "sent2": "The straight road was interrupted by a sharp turn.",
+            "sent3": "The pattern on the fabric was interrupted by a misplaced stitch.",
+            "sent4": "The smooth surface of the lake was interrupted by ripples from the wind.",
+            "sent5": "The flow of the river was interrupted by a massive boulder."
         }
     ]
 }

@@ -3,19 +3,39 @@
     "meanings": [
         {
             "definition": "To move by turning over and over",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The cat rolls on the grass.",
+            "sent2": "The ball rolls down the hill.",
+            "sent3": "The playful puppy rolls around in the mud.",
+            "sent4": "The waves roll gently onto the shore.",
+            "sent5": "The snowball rolls quickly down the slope."
         },
         {
             "definition": "A small piece of bread",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "She ate a delicious roll with butter.",
+            "sent2": "The sandwich had a soft roll as the base.",
+            "sent3": "The bakery sells fresh rolls every morning.",
+            "sent4": "The dinner roll was warm and fluffy.",
+            "sent5": "The waiter brought a basket of warm rolls to the table."
         },
         {
             "definition": "A list of names or items",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The teacher called out the roll to check attendance.",
+            "sent2": "The roll of students' names was on the board.",
+            "sent3": "The roll of ingredients needed for the recipe was long.",
+            "sent4": "She checked the roll of guests invited to the party.",
+            "sent5": "The roll of tasks for the day was written on the whiteboard."
         },
         {
             "definition": "To make a deep, continuous sound",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The thunder rolls in the distance.",
+            "sent2": "The drums roll loudly during the performance.",
+            "sent3": "The old truck engine rolls noisily down the street.",
+            "sent4": "The storm clouds roll ominously overhead.",
+            "sent5": "The sound of the train rolling along the tracks filled the air."
         }
     ]
 }

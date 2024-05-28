@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Experienced or endured",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The brave explorer had undergone many challenges during his journey.",
+            "sent2": "The old tree had undergone years of harsh weather.",
+            "sent3": "The little puppy had undergone a 'spa day' with a bubble bath and pampering.",
+            "sent4": "Her face had undergone a transformation after applying makeup.",
+            "sent5": "The ancient ruins had undergone centuries of decay."
         },
         {
             "definition": "Passed through or completed",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The package had undergone multiple security checks before delivery.",
+            "sent2": "The caterpillar had undergone metamorphosis to become a butterfly.",
+            "sent3": "The cake had undergone a magical transformation in the oven.",
+            "sent4": "The river had undergone a sudden change in direction due to heavy rain.",
+            "sent5": "The athlete had undergone rigorous training to prepare for the competition."
         }
     ]
 }

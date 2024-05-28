@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A dark area or shape produced by a body coming between rays of light and a surface.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The tree cast long shadows in the evening sun.",
+            "sent2": "She saw her shadow on the ground as she walked.",
+            "sent3": "The mischievous cat pounced on its own shadow, thinking it was a rival.",
+            "sent4": "In the depths of the forest, the shadows seemed to dance with a life of their own.",
+            "sent5": "The shadow of the mountain loomed over the small village, signaling the approach of night."
         },
         {
             "definition": "A position of relative inferiority or obscurity.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "He always stayed in the shadows, avoiding the spotlight.",
+            "sent2": "The new intern preferred to work in the shadows, observing quietly.",
+            "sent3": "The shy student felt more comfortable in the shadows of the classroom.",
+            "sent4": "Her talent remained hidden in the shadows until the talent show.",
+            "sent5": "The forgotten hero emerged from the shadows to save the day."
         },
         {
             "definition": "To follow and observe (someone) closely and secretly.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The detective shadows the suspect to gather evidence.",
+            "sent2": "She decided to shadow her favorite author for a day.",
+            "sent3": "The curious child tried to shadow his older sibling everywhere.",
+            "sent4": "The spy was tasked to shadow the diplomat during the secret meeting.",
+            "sent5": "The paparazzi attempted to shadow the celebrity without being noticed."
         }
     ]
 }

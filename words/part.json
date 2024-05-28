@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A piece or segment of something",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "She handed me a small part of the puzzle to solve.",
+            "sent2": "The broken vase was missing a part.",
+            "sent3": "The squirrel stored each part of the nut in different places.",
+            "sent4": "His heart felt like a missing part of a jigsaw puzzle.",
+            "sent5": "The key part of the plan was to remain hidden."
         },
         {
             "definition": "To divide or separate into pieces",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Please part the hair in the middle for the hairstyle.",
+            "sent2": "The magician used a wand to part the sea of audience members.",
+            "sent3": "I had to part the curtains to let the sunlight in.",
+            "sent4": "The clouds seemed to part as the sun emerged.",
+            "sent5": "She used a knife to part the cake into equal slices."
         },
         {
             "definition": "To participate or take a role in something",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I will part in the school play as a tree.",
+            "sent2": "He decided to part in the charity event to help others.",
+            "sent3": "She didn't want to part in the argument between her friends.",
+            "sent4": "The students were eager to part in the science experiment.",
+            "sent5": "He was excited to part in the dance competition next week."
         }
     ]
 }

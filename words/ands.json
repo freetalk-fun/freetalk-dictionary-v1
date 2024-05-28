@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Used to connect words or phrases in a list or series.",
-            "pos": "conjunction"
+            "pos": "conjunction",
+            "sent1": "I like apples, bananas, and oranges.",
+            "sent2": "She enjoys reading books and playing games.",
+            "sent3": "The cat, the dog, and the bird all ran away together.",
+            "sent4": "His laughter, her smile, and their joy danced in harmony.",
+            "sent5": "The colors red, blue, and green painted a beautiful picture."
         },
         {
             "definition": "Used to connect two clauses or sentences.",
-            "pos": "conjunction"
+            "pos": "conjunction",
+            "sent1": "He woke up early, and he went for a run.",
+            "sent2": "She sang a song, and the audience clapped.",
+            "sent3": "The sun shone brightly, and the clouds played hide-and-seek.",
+            "sent4": "His words whispered love, and her eyes sparkled with understanding.",
+            "sent5": "The wind whispered secrets, and the trees danced in response."
         }
     ]
 }

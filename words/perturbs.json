@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To disturb greatly or unsettle",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The loud noise perturbs the sleeping cat.",
+            "sent2": "The unexpected news perturbs her calm demeanor.",
+            "sent3": "The idea of a penguin wearing a top hat perturbs me.",
+            "sent4": "The dark clouds perturb the otherwise clear sky.",
+            "sent5": "The eerie silence of the abandoned house perturbs my senses."
         },
         {
             "definition": "To cause anxiety or worry",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The upcoming exam perturbs the students.",
+            "sent2": "Her constant lateness perturbs her colleagues.",
+            "sent3": "The thought of a talking dog perturbs me more than it should.",
+            "sent4": "The uncertainty of the future perturbs her mind.",
+            "sent5": "The howling wind outside perturbs my sense of security."
         },
         {
             "definition": "To throw into confusion or disorder",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The sudden change in plans perturbs the schedule.",
+            "sent2": "The messy room perturbs her sense of order.",
+            "sent3": "The idea of a purple elephant perturbs my mental image.",
+            "sent4": "The conflicting instructions perturb the team's progress.",
+            "sent5": "The flickering lights perturb the eerie atmosphere of the old mansion."
         }
     ]
 }

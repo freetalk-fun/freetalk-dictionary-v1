@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Having a defect or imperfection",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The faultier chair wobbled when sat on.",
+            "sent2": "The faultier car had a dent on its side.",
+            "sent3": "The faultier painting had a smudge that looked like a tiny bird.",
+            "sent4": "Her faultier smile seemed to hide a deeper sadness.",
+            "sent5": "The faultier bridge creaked under the weight of the passing cars."
         },
         {
             "definition": "To make a mistake or error",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I faultiered by adding salt instead of sugar to the cake batter.",
+            "sent2": "She faultiers often but always learns from her mistakes.",
+            "sent3": "He faultiered by wearing mismatched socks to the important meeting.",
+            "sent4": "The detective faultiered in identifying the true culprit.",
+            "sent5": "The student faultiered on the math test but aced the science exam."
         },
         {
             "definition": "To assign blame or responsibility",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The teacher faultiers the students for not completing their homework.",
+            "sent2": "She faultiers her brother for breaking the vase.",
+            "sent3": "The boss faultiers the team for the project's failure.",
+            "sent4": "The judge faultiers the defendant for the crime committed.",
+            "sent5": "The coach faultiers the player for the team's loss."
         }
     ]
 }

@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To undergo epimerization, a chemical process in which a molecule is transformed into its epimer.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The compound epimerized during the reaction, changing its structure.",
+            "sent2": "The sugar epimerized to form its mirror image.",
+            "sent3": "The molecule epimerized itself, surprising the scientists in the lab.",
+            "sent4": "The chemical reaction epimerized the compound, creating a new form.",
+            "sent5": "The process of epimerization made the molecule unrecognizable."
         },
         {
             "definition": "Having undergone epimerization, resulting in a change in configuration at one or more chiral centers.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The epimerized sugar had a different shape compared to the original.",
+            "sent2": "The epimerized molecule exhibited altered properties.",
+            "sent3": "The epimerized compound stood out among the other substances.",
+            "sent4": "The epimerized structure puzzled the researchers.",
+            "sent5": "The epimerized form of the molecule was distinctively different."
         }
     ]
 }

@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A person who plans or invents something.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The deviser of the new game was proud of their creation.",
+            "sent2": "The deviser of the plan carefully thought through every detail.",
+            "sent3": "The deviser of the surprise party kept it a secret until the last moment.",
+            "sent4": "She was the deviser of a brilliant strategy that led to their victory.",
+            "sent5": "The deviser of the puzzle made it challenging yet fun to solve."
         },
         {
             "definition": "To plan or invent (a complex procedure, system, or mechanism) by careful thought.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He will deviser a new way to solve the problem.",
+            "sent2": "She deviser a clever solution to the puzzle.",
+            "sent3": "The team decided to deviser a plan to catch the thief.",
+            "sent4": "The engineer had to deviser a way to fix the broken machine.",
+            "sent5": "They will deviser a strategy to win the competition."
         }
     ]
 }

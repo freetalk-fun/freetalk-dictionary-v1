@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To examine or analyze",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She assays the soil samples to check for mineral content.",
+            "sent2": "The scientist assays the data to draw conclusions.",
+            "sent3": "The detective assays the evidence to solve the case.",
+            "sent4": "Her keen eye assays the intricate details of the painting.",
+            "sent5": "He assays each ingredient carefully to create the perfect recipe."
         },
         {
             "definition": "A test or analysis",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The lab technician conducts assays on blood samples.",
+            "sent2": "The quality control team performs assays on the product.",
+            "sent3": "The school organized an assay to measure students' knowledge.",
+            "sent4": "The market research included an assay of consumer preferences.",
+            "sent5": "The assay revealed the presence of harmful bacteria in the water."
         },
         {
             "definition": "Attempt or try",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He assays to climb the mountain despite the challenges.",
+            "sent2": "She assays to learn a new language every year.",
+            "sent3": "The child assays to ride a bike without training wheels.",
+            "sent4": "They assay to start a business in a competitive market.",
+            "sent5": "The team assays to win the championship this season."
         }
     ]
 }

@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "past participle of 'be'",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I have been to the store.",
+            "sent2": "She has been studying all day.",
+            "sent3": "The cat has been napping for hours.",
+            "sent4": "The sun has been shining brightly all morning.",
+            "sent5": "They have been waiting patiently for their turn."
         },
         {
             "definition": "existed in the past",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The ruins are from a been civilization.",
+            "sent2": "The been memories still linger in my mind.",
+            "sent3": "The been traditions are no longer practiced.",
+            "sent4": "The been era was filled with great achievements.",
+            "sent5": "The been culture left a lasting impact on history."
         },
         {
             "definition": "visited a place",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I have been to the beach many times.",
+            "sent2": "They have been to Europe for vacation.",
+            "sent3": "The tourists have been exploring the city all day.",
+            "sent4": "She has been to the famous landmarks in the area.",
+            "sent5": "He has been to the top of the mountain for the view."
         }
     ]
 }

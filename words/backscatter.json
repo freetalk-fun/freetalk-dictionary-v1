@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "The reflection of radiation or particles back in the direction from which they came.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The backscatter from the mirror made the light bounce back.",
+            "sent2": "The radar detected backscatter from the clouds.",
+            "sent3": "The mischievous cat caused backscatter by knocking over the shiny vase.",
+            "sent4": "Her laughter filled the room, creating a backscatter of joy.",
+            "sent5": "The backscatter of the flashlight illuminated the dark room."
         },
         {
             "definition": "To scatter radiation or particles in a backward direction.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He accidentally backscattered the paint while trying to fix the wall.",
+            "sent2": "The scientist backscattered the particles to study their behavior.",
+            "sent3": "The magician's trick involved backscattering the cards in a surprising way.",
+            "sent4": "Her words seemed to backscatter across the room, reaching everyone.",
+            "sent5": "The wind backscattered the leaves in all directions."
         }
     ]
 }

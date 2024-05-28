@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Afternoon",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I enjoy playing outside in the arvo.",
+            "sent2": "Let's meet at the park in the arvo.",
+            "sent3": "The arvo sun feels warm on my skin.",
+            "sent4": "The arvo breeze rustled the leaves gently.",
+            "sent5": "The arvo sky was painted with hues of orange and pink."
         },
         {
             "definition": "In the afternoon",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "We will go for a walk arvo.",
+            "sent2": "She always takes a nap arvo.",
+            "sent3": "The cat stretched lazily arvo.",
+            "sent4": "The shadows grew longer arvo.",
+            "sent5": "The birds chirped happily arvo."
         },
         {
             "definition": "This afternoon",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "I will finish my homework arvo.",
+            "sent2": "Let's bake cookies arvo.",
+            "sent3": "We might go swimming arvo.",
+            "sent4": "The movie starts at three arvo.",
+            "sent5": "The rain is expected arvo."
         }
     ]
 }

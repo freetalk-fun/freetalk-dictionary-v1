@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A sweet spread made from fruit and sugar.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I love to spread jam on my toast in the morning.",
+            "sent2": "The jam on the bread was delicious.",
+            "sent3": "The jam jar rolled off the table and broke, creating a sticky mess.",
+            "sent4": "The traffic was a jam of cars trying to get through the narrow street.",
+            "sent5": "The jam oozed out of the sandwich, tempting everyone with its sweetness."
         },
         {
             "definition": "To press or squeeze tightly between two surfaces.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She had to jam her clothes into the suitcase to make them fit.",
+            "sent2": "He accidentally jammed his finger in the door.",
+            "sent3": "The door wouldn't open because someone tried to jam a shoe in the gap.",
+            "sent4": "The gears jammed, causing the machine to stop suddenly.",
+            "sent5": "He tried to jam the last piece of the puzzle into place."
         },
         {
             "definition": "A situation in which movement is impeded or blocked.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The traffic jam lasted for hours due to the accident.",
+            "sent2": "We were stuck in a jam on the highway.",
+            "sent3": "The jam of people at the entrance made it hard to get inside.",
+            "sent4": "The jam in the hallway cleared up once the event ended.",
+            "sent5": "The jam of boxes in the doorway made it impossible to enter the room."
         }
     ]
 }

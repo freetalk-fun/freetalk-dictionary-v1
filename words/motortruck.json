@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A motor vehicle designed for carrying goods or passengers on a commercial basis.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The motortruck delivered packages to the store.",
+            "sent2": "The motortruck drove down the highway with a load of furniture.",
+            "sent3": "The motortruck and the delivery driver were always on time.",
+            "sent4": "The motortruck roared through the city streets like a giant metal beast.",
+            "sent5": "The shiny red motortruck stood out among the other vehicles."
         },
         {
             "definition": "To transport by motor truck.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "They motortruck the goods to the warehouse every morning.",
+            "sent2": "We motortruck the supplies to the construction site efficiently.",
+            "sent3": "I motortrucked the groceries home in record time.",
+            "sent4": "She motortrucks her tools around in the back of her pickup truck.",
+            "sent5": "The company motortrucks its products across the country for distribution."
         }
     ]
 }

@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To form a word by arranging letters in the correct order.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I can spell my name correctly now.",
+            "sent2": "Can you spell 'cat' for me?",
+            "sent3": "The cat tried to spell its name but ended up with 'meow'.",
+            "sent4": "Her smile spelled out happiness better than any words could.",
+            "sent5": "Spell it out slowly so I can understand."
         },
         {
             "definition": "A period of time during which a person is under a particular influence or feeling.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "After a long spell of sadness, she finally smiled.",
+            "sent2": "He had a spell of dizziness after standing up too quickly.",
+            "sent3": "The spell of laughter in the room was contagious.",
+            "sent4": "The spell of silence was broken by a loud crash.",
+            "sent5": "The spell of excitement before the party was palpable."
         },
         {
             "definition": "A short period of time.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Wait for a spell before entering the room.",
+            "sent2": "She took a short spell to catch her breath.",
+            "sent3": "The spell of rain was brief but refreshing.",
+            "sent4": "In a spell of panic, he dropped his keys.",
+            "sent5": "A spell of sunshine brightened up the day."
         }
     ]
 }

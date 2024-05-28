@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Kilos (noun): a unit of weight equal to 1,000 grams",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "She bought five kilos of apples at the market.",
+            "sent2": "The package weighed two kilos when it arrived.",
+            "sent3": "Carrying ten kilos of books in her backpack made her feel like a superhero.",
+            "sent4": "The importance of the task weighed on him like a thousand kilos.",
+            "sent5": "The kilos of flour spilled on the floor created a white sea in the kitchen."
         },
         {
             "definition": "Kilos (verb): to measure or weigh in kilograms",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The doctor will kilos your luggage before your flight.",
+            "sent2": "I need to kilos the ingredients for the recipe.",
+            "sent3": "He decided to kilos his pet cat just for fun.",
+            "sent4": "She could kilos the tension in the room as soon as she entered.",
+            "sent5": "The teacher asked the students to kilos the weight of different objects in the classroom."
         }
     ]
 }

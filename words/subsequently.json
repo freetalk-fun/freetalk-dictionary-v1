@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Following in time; coming after something else.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The sun sets, and subsequently, the stars begin to appear in the sky.",
+            "sent2": "The meeting was scheduled for 2 pm, but subsequently, it was postponed to 3 pm.",
+            "sent3": "The cake was delicious, and subsequently, everyone wanted the recipe.",
+            "sent4": "The student's hard work paid off, and subsequently, they received a scholarship.",
+            "sent5": "The rain stopped, and subsequently, a rainbow painted the sky with colors."
         },
         {
             "definition": "In a subsequent manner or order.",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "She finished her homework first, and subsequently, she helped her brother with his.",
+            "sent2": "The team won the match and subsequently celebrated their victory at a local restaurant.",
+            "sent3": "He tripped over his shoelaces, and subsequently, he fell flat on his face.",
+            "sent4": "The music gradually increased in tempo, and subsequently, the crowd started dancing.",
+            "sent5": "The chef added the spices carefully, and subsequently, the dish turned out perfectly seasoned."
         }
     ]
 }

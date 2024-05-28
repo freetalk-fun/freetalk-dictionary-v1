@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A line or shape that deviates from straightness in a smooth, continuous way.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The artist drew a beautiful cruve in the painting.",
+            "sent2": "The road took a gentle cruve around the hill.",
+            "sent3": "The cruve in the river made it look like a snake winding through the valley.",
+            "sent4": "Her smile formed a cruve that brightened up the room.",
+            "sent5": "The cruve of the rainbow stretched across the sky, painting it with colors."
         },
         {
             "definition": "To follow a curved path or trajectory.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The car will cruve around the bend in the road.",
+            "sent2": "She likes to cruve gracefully on the ice rink.",
+            "sent3": "The ball cruved perfectly into the goal, scoring a point for the team.",
+            "sent4": "His words cruved through the air, leaving a lasting impact on the audience.",
+            "sent5": "The airplane cruved smoothly through the clouds, heading towards its destination."
         },
         {
             "definition": "Having a shape that is not straight or linear.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The cruve line on the graph showed an interesting pattern.",
+            "sent2": "She admired the cruve branches of the old tree.",
+            "sent3": "The cruve road led them to a hidden waterfall in the forest.",
+            "sent4": "His cruve thoughts always led to creative ideas.",
+            "sent5": "The cruve bridge arched elegantly over the river, connecting the two banks."
         }
     ]
 }

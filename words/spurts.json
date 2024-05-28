@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A sudden gush or burst of something",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The water hose had spurts of water coming out.",
+            "sent2": "The soda can had spurts of fizz when opened.",
+            "sent3": "The popcorn machine had a few spurts of kernels popping out unexpectedly.",
+            "sent4": "The volcano erupted with spurts of lava shooting into the sky.",
+            "sent5": "The burst pipe caused spurts of water to flood the basement."
         },
         {
             "definition": "To gush or shoot out in a stream",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The fountain spurts water high into the air.",
+            "sent2": "The whale spurts water from its blowhole.",
+            "sent3": "The playful puppy spurts water from the hose while playing in the yard.",
+            "sent4": "The pressure washer spurts out a powerful stream to clean the driveway.",
+            "sent5": "The tea kettle spurts steam when it reaches boiling point."
         },
         {
             "definition": "To make a sudden, energetic effort",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She spurts ahead in the race with a burst of speed.",
+            "sent2": "The car spurts forward when the driver presses the gas pedal.",
+            "sent3": "The child spurts up the stairs to get to bed before bedtime.",
+            "sent4": "The athlete spurts towards the finish line with determination.",
+            "sent5": "The student spurts through the homework to finish before dinner."
         }
     ]
 }

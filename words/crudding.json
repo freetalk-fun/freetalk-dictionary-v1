@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To cover or become covered with crud.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The car was crudding with mud after the off-road trip.",
+            "sent2": "I crudded my hands with paint while working on the art project.",
+            "sent3": "He accidentally crudded his shirt with ketchup during lunch.",
+            "sent4": "The old book was crudding with dust on the forgotten shelf.",
+            "sent5": "The neglected garden was crudding with weeds, needing attention."
         },
         {
             "definition": "Used as a mild swear word or expletive.",
-            "pos": "interjection"
+            "pos": "interjection",
+            "sent1": "Crudding! I forgot my lunch at home.",
+            "sent2": "She exclaimed, 'Crudding! I missed the bus again.'",
+            "sent3": "Crudding! I spilled my drink all over the table.",
+            "sent4": "The child shouted, 'Crudding! I dropped my ice cream.'",
+            "sent5": "Crudding! I can't believe I lost my keys again."
         },
         {
             "definition": "A substance that is dirty, unpleasant, or of little value.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The corner of the room was filled with crudding from the construction work.",
+            "sent2": "She cleaned the kitchen counter, removing all the crudding left behind.",
+            "sent3": "The crudding on the sidewalk made it slippery after the rain.",
+            "sent4": "The old shed was full of crudding that needed to be thrown away.",
+            "sent5": "The crudding in the drain caused a blockage in the pipes."
         }
     ]
 }

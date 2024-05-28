@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A factor that decisively affects the nature or outcome of something.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The weather was a determinant in canceling the outdoor event.",
+            "sent2": "The determinant of her success was her hard work and dedication.",
+            "sent3": "The determinant of the cat's mood was the presence of a sunny spot.",
+            "sent4": "His attitude was the determinant that shaped his relationships.",
+            "sent5": "The determinant of a plant's growth is often the amount of sunlight it receives."
         },
         {
             "definition": "A quantity obtained by the multiplication of the elements of a square matrix and used in solving systems of linear equations.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The determinant of the matrix was crucial in solving the complex equation.",
+            "sent2": "Math students learn how to calculate determinants in algebra class.",
+            "sent3": "The determinant of the matrix decided the outcome of the math competition.",
+            "sent4": "The determinant of the equation acted as a key to unlock the solution.",
+            "sent5": "Understanding determinants is essential for mastering linear algebra."
         },
         {
             "definition": "A person or thing that determines the course of events.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "She was the determinant behind the success of the project.",
+            "sent2": "The determinant of the story's plot twist was unexpected.",
+            "sent3": "The cat became the determinant of who got the comfiest spot on the couch.",
+            "sent4": "His decision to leave town was the determinant of his future.",
+            "sent5": "The mysterious stranger turned out to be the determinant of their fate."
         }
     ]
 }

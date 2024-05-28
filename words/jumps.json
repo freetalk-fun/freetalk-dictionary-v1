@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Move suddenly and quickly in a specified way.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The cat jumps over the fence.",
+            "sent2": "She jumps high during the dance.",
+            "sent3": "The frog jumps happily in the pond.",
+            "sent4": "Her heart jumps with excitement.",
+            "sent5": "The kangaroo jumps effortlessly across the field."
         },
         {
             "definition": "An act of jumping from a surface by pushing upwards with one's legs and feet.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "His long jump broke the record.",
+            "sent2": "The kids love to watch the high jumps.",
+            "sent3": "The jump into the pool was refreshing.",
+            "sent4": "The jump in the movie was so realistic.",
+            "sent5": "The jump over the puddle was necessary to avoid getting wet."
         },
         {
             "definition": "A sudden increase in amount or level.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The price jumps surprised everyone.",
+            "sent2": "The jump in temperature caught us off guard.",
+            "sent3": "The jump in sales made the team celebrate.",
+            "sent4": "The jump in viewership was unexpected.",
+            "sent5": "The jump in speed was exhilarating."
         }
     ]
 }

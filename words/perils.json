@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Serious and immediate danger",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The hiker faced the perils of the steep mountain trail.",
+            "sent2": "Exploring the deep ocean is full of perils for inexperienced divers.",
+            "sent3": "The perils of forgetting your umbrella on a rainy day are all too real.",
+            "sent4": "In the jungle, the perils of the unknown lurked behind every tree.",
+            "sent5": "The perils of a dark alley at night made her heart race with fear."
         },
         {
             "definition": "Expose to danger; threaten",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The decision to climb the icy mountain would peril their lives.",
+            "sent2": "Leaving the gate open could peril the safety of the farm animals.",
+            "sent3": "His tendency to procrastinate would peril his chances of success.",
+            "sent4": "The villain's plan to destroy the city would peril thousands of lives.",
+            "sent5": "Ignoring the warning signs would peril the entire mission."
         }
     ]
 }

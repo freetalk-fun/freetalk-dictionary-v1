@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To convert (a coded message) into intelligible language",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She decodes the secret message to understand its meaning.",
+            "sent2": "He decodes the encrypted file to access its contents.",
+            "sent3": "The detective decodes the cryptic note to solve the mystery.",
+            "sent4": "Her keen eye decodes the subtle cues in body language effortlessly.",
+            "sent5": "The teacher decodes complex ideas into simple explanations for her students."
         },
         {
             "definition": "To interpret or decipher a message or information",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The scientist decodes the DNA sequence to reveal genetic information.",
+            "sent2": "They decodes the ancient symbols to understand the historical significance.",
+            "sent3": "The child decodes the treasure map and embarks on a thrilling adventure.",
+            "sent4": "His intuition decodes the underlying emotions behind her words.",
+            "sent5": "The codebreaker decodes the enemy's strategy, turning the tide of the battle."
         }
     ]
 }

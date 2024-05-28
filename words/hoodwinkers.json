@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Deceive or trick someone",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The sly fox tried to hoodwink the rabbit with false promises.",
+            "sent2": "She always tries to hoodwink her little brother into sharing his toys.",
+            "sent3": "The mischievous cat attempted to hoodwink the dog by pretending to be asleep.",
+            "sent4": "The magician's clever tricks seemed to hoodwink even the most skeptical audience members.",
+            "sent5": "The con artist's elaborate scheme was designed to hoodwink unsuspecting victims."
         },
         {
             "definition": "A person who deceives or tricks others",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Beware of the hoodwinkers who try to sell you things that seem too good to be true.",
+            "sent2": "The group of hoodwinkers managed to convince the townspeople to invest in a fake business.",
+            "sent3": "The hoodwinkers at the carnival booth were skilled at persuading people to play their rigged games.",
+            "sent4": "In the story, the main character encounters a group of hoodwinkers who lead him astray.",
+            "sent5": "The detective was determined to catch the notorious hoodwinkers who had been scamming elderly citizens."
         }
     ]
 }

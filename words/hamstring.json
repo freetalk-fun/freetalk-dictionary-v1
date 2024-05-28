@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "The tendon at the back of the knee.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I felt a sharp pain in my hamstring while running.",
+            "sent2": "The doctor advised me to stretch my hamstring to avoid injury.",
+            "sent3": "Trying to kick the ball, I pulled my hamstring and stumbled comically.",
+            "sent4": "His lack of flexibility was a hamstring in his attempt to touch his toes.",
+            "sent5": "The physical therapist showed me exercises to strengthen my hamstring."
         },
         {
             "definition": "To cripple by cutting the hamstring.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The villain attempted to hamstring the hero by cutting his tendons.",
+            "sent2": "The soldier's plan was to hamstring the enemy's advance by sabotaging their supply lines.",
+            "sent3": "The evil sorcerer's spell aimed to hamstring the knight's ability to fight.",
+            "sent4": "The unexpected setback threatened to hamstring their progress towards the goal.",
+            "sent5": "The coach warned the players not to let injuries hamstring their performance."
         },
         {
             "definition": "To make ineffective or powerless.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The lack of funding could hamstring the project's success.",
+            "sent2": "A sudden change in regulations could hamstring the company's expansion plans.",
+            "sent3": "The magician's trick was meant to hamstring the audience's ability to see through the illusion.",
+            "sent4": "The corrupt official's actions were designed to hamstring the efforts of honest citizens.",
+            "sent5": "A strong team spirit can help overcome obstacles that might otherwise hamstring progress."
         }
     ]
 }

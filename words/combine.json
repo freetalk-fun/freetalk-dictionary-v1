@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To join or unite together",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I will combine the red and blue paints to make purple.",
+            "sent2": "The chef will combine the ingredients to make a delicious soup.",
+            "sent3": "I tried to combine my socks, but ended up with mismatched pairs.",
+            "sent4": "Her voice and the music combined to create a beautiful harmony.",
+            "sent5": "The magician will combine the cards in a mesmerizing trick."
         },
         {
             "definition": "A group of people or things that are joined or united",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The team is a combine of talented players.",
+            "sent2": "The combine of farmers worked together to harvest the crops.",
+            "sent3": "The combine of toys in the playroom made it look cluttered.",
+            "sent4": "The combine of stars in the sky was a breathtaking sight.",
+            "sent5": "The combine of colors in the painting was vibrant and eye-catching."
         },
         {
             "definition": "A machine or device that combines two or more things",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The blender is a useful combine for making smoothies.",
+            "sent2": "The combine in the factory mixes the ingredients for the product.",
+            "sent3": "The combine in the kitchen broke down while mixing dough.",
+            "sent4": "The combine in the laboratory is used for scientific experiments.",
+            "sent5": "The combine in the garage helps in combining different materials efficiently."
         }
     ]
 }

@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A small portion or sample taken from a larger sample or population for analysis.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Scientists studied the subsamples of soil to understand its composition better.",
+            "sent2": "The researcher collected subsamples of water from different locations for testing.",
+            "sent3": "The chef only needed a few subsamples of spices to create a delicious dish.",
+            "sent4": "The artist used subsamples of different colors to create a beautiful painting.",
+            "sent5": "The detective carefully analyzed the subsamples of evidence to solve the case."
         },
         {
             "definition": "To take a smaller sample from a larger sample or population for analysis.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She subsamples the data to ensure accuracy in her research findings.",
+            "sent2": "The scientist subsamples the rocks to study their mineral composition.",
+            "sent3": "He subsamples the candies to taste each flavor before sharing them.",
+            "sent4": "The farmer subsamples the soil to determine the best crops to plant.",
+            "sent5": "The teacher subsamples the students' work to assess their understanding of the topic."
         }
     ]
 }

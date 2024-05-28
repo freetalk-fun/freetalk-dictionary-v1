@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A person who murmurs.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The murmurer in the library whispered quietly to themselves.",
+            "sent2": "The murmurer in the meeting spoke softly and hesitantly.",
+            "sent3": "The murmurer at the party seemed lost in their own thoughts.",
+            "sent4": "The murmurer of secrets revealed a tale of hidden treasures.",
+            "sent5": "The murmurer's voice was like a gentle breeze, barely heard but felt."
         },
         {
             "definition": "To speak in a low, soft voice.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She murmurered her apology, hoping it would not be noticed.",
+            "sent2": "He murmurered sweet nothings in her ear as they danced.",
+            "sent3": "The child murmurered a made-up language to their toys.",
+            "sent4": "The leaves murmurered in the wind, sharing their secrets.",
+            "sent5": "The old man murmurered his stories by the fireplace, captivating his audience."
         },
         {
             "definition": "To make a low, continuous sound.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The stream murmurered as it flowed over the smooth stones.",
+            "sent2": "The wind murmurered through the trees, creating a soothing melody.",
+            "sent3": "The cat murmurered contentedly as it curled up by the fire.",
+            "sent4": "The distant waves murmurered a lullaby to the weary sailors.",
+            "sent5": "The engine murmurered softly, lulling the passengers to sleep."
         }
     ]
 }

@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To strike or propel with the foot",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I like to kick the ball during soccer practice.",
+            "sent2": "She kicked the door open when her hands were full.",
+            "sent3": "He gave the stubborn vending machine a kick to make it work.",
+            "sent4": "The engine finally started after a hard kick to the starter.",
+            "sent5": "The horse kicked wildly, trying to break free from the reins."
         },
         {
             "definition": "A sudden forceful jolt or impact",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The car hit a bump and gave us a kick.",
+            "sent2": "He felt a kick in his chest as the roller coaster descended.",
+            "sent3": "The unexpected kick in the road made the journey more exciting.",
+            "sent4": "The kick of the explosion sent debris flying everywhere.",
+            "sent5": "The kick of the earthquake shook the entire building."
         },
         {
             "definition": "A feeling of excitement or exhilaration",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Winning the game gave her a kick of joy.",
+            "sent2": "The surprise party was a real kick for everyone.",
+            "sent3": "The kick of anticipation before the concert was thrilling.",
+            "sent4": "The kick of adrenaline fueled his performance on stage.",
+            "sent5": "The kick of excitement was palpable in the air."
         }
     ]
 }

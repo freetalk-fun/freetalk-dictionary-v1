@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A segment of a DNA or RNA molecule that codes for a protein.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The exon contains the genetic information needed to make a protein.",
+            "sent2": "Scientists study exons to understand how proteins are produced.",
+            "sent3": "The exon was like a recipe card for the protein-making process.",
+            "sent4": "Her DNA was a library, with each exon a chapter in the book of life.",
+            "sent5": "The exon, like a key, unlocked the secret of protein synthesis."
         },
         {
             "definition": "To remove introns from a pre-mRNA molecule.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "They will exon the unnecessary parts from the RNA sequence.",
+            "sent2": "It is important to exon the non-coding regions for proper gene expression.",
+            "sent3": "He decided to exon the jumbled words from his essay to make it clearer.",
+            "sent4": "She had to exon the distractions to focus on her work.",
+            "sent5": "Exoning out the errors improved the quality of the final product."
         }
     ]
 }

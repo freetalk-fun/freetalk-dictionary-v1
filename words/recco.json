@@ -3,19 +3,39 @@
     "meanings": [
         {
             "definition": "A recommendation or suggestion.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "My friend gave me a recco for a good book to read.",
+            "sent2": "I always appreciate a helpful recco on where to eat in town.",
+            "sent3": "The recco to try the new ice cream flavor was spot on!",
+            "sent4": "Her recco to visit the local museum was like finding a hidden gem.",
+            "sent5": "The recco to watch the sunset from the hill was unforgettable."
         },
         {
             "definition": "A warning or alert.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The weather forecast issued a recco about the upcoming storm.",
+            "sent2": "Heeded the recco about the slippery road, I drove cautiously.",
+            "sent3": "The recco to avoid the spicy dish saved me from a burning tongue.",
+            "sent4": "The recco to stay away from the abandoned house sent shivers down my spine.",
+            "sent5": "The recco to watch out for falling rocks was a lifesaver on the hike."
         },
         {
             "definition": "To recommend or suggest.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I recco this movie to anyone who loves adventure.",
+            "sent2": "She always knows how to recco the best places to shop.",
+            "sent3": "I reccoed the new cafe to my friends, and they loved it.",
+            "sent4": "He reccos trying the local cuisine for a true taste of the culture.",
+            "sent5": "The guide reccoing the scenic route made our road trip unforgettable."
         },
         {
             "definition": "To warn or alert.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The lifeguard reccos swimmers about the strong currents.",
+            "sent2": "The sign reccos visitors to beware of wild animals in the area.",
+            "sent3": "I reccoed my brother to be careful while biking down the steep hill.",
+            "sent4": "The teacher reccos students to study hard for the upcoming test.",
+            "sent5": "The app reccos users to update for improved security measures."
         }
     ]
 }

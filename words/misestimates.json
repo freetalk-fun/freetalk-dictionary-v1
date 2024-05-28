@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To estimate or judge incorrectly.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She misestimates the distance and always ends up taking longer to walk there.",
+            "sent2": "He often misestimates how long it will take to finish his homework.",
+            "sent3": "The cat misestimates the height of the table and fails to make the jump.",
+            "sent4": "The detective misestimates the suspect's alibi and follows the wrong lead.",
+            "sent5": "The weather forecast misestimates the chance of rain, and everyone gets caught in a sudden downpour."
         },
         {
             "definition": "An incorrect estimate or judgment.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "His misestimates about the project's cost led to budget overruns.",
+            "sent2": "The misestimates in the report caused confusion among the team.",
+            "sent3": "The misestimates in the recipe made the cake turn out too salty.",
+            "sent4": "The misestimates in the survey skewed the results significantly.",
+            "sent5": "The misestimates in the map led the hikers astray in the forest."
         }
     ]
 }

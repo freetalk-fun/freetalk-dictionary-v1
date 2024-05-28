@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A position in which a player's king is in check and there is no legal move to escape check.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "In chess, checkmate means the game is over.",
+            "sent2": "The chess player declared checkmate when the opponent's king had no moves left.",
+            "sent3": "The chess match ended with a surprising checkmate that caught everyone off guard.",
+            "sent4": "The final move was like a checkmate, sealing the victory decisively.",
+            "sent5": "The checkmate move was executed with precision and skill."
         },
         {
             "definition": "To place (an opponent's king) under direct attack.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He checkmated his opponent's king with a clever move.",
+            "sent2": "The chess player planned to checkmate the opponent's king in the next turn.",
+            "sent3": "She checkmated her friend's king in a friendly game of chess.",
+            "sent4": "The strategic move was like a masterstroke to checkmate the opponent.",
+            "sent5": "The player's goal was to checkmate the king and claim victory."
         }
     ]
 }

@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A digital image of the contents of a computer or mobile device screen.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I took a screenshot of my high score in the game.",
+            "sent2": "She showed me a screenshot of her new wallpaper.",
+            "sent3": "The screenshot of the funny text made me laugh.",
+            "sent4": "The screenshot captured the moment perfectly.",
+            "sent5": "The screenshot displayed all the information clearly."
         },
         {
             "definition": "To capture a screenshot of a computer or mobile device screen.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Can you screenshot this webpage for me?",
+            "sent2": "He always screenshots important messages.",
+            "sent3": "I will screenshot the recipe so I don't forget it.",
+            "sent4": "She managed to screenshot the error message quickly.",
+            "sent5": "Remember to screenshot the confirmation page after payment."
         }
     ]
 }

@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A verb form ending in -ing that functions as a noun.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Running is good exercise.",
+            "sent2": "I enjoy swimming in the pool.",
+            "sent3": "Eating ice cream makes me happy.",
+            "sent4": "Dancing through life brings joy.",
+            "sent5": "Singing loudly can be fun."
         },
         {
             "definition": "A gerund phrase is a phrase consisting of a gerund and any modifiers or complements it may have.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Her painting the beautiful landscape impressed everyone.",
+            "sent2": "I love reading books in my free time.",
+            "sent3": "His cooking skills saved the dinner party.",
+            "sent4": "The student's studying late into the night paid off.",
+            "sent5": "Their laughing at the joke echoed in the room."
         }
     ]
 }

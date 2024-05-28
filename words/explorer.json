@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A person who explores new or unfamiliar places.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The young explorer ventured into the dense forest to discover hidden treasures.",
+            "sent2": "The explorer traveled to distant lands in search of ancient artifacts.",
+            "sent3": "The explorer got lost in the supermarket while looking for the cereal aisle.",
+            "sent4": "Her curious mind turned her into an explorer of the unknown realms of science.",
+            "sent5": "The brave explorer faced many dangers on his quest to reach the mountain peak."
         },
         {
             "definition": "A program or tool used to navigate and search for files on a computer.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The new explorer software helped organize all the documents on the computer.",
+            "sent2": "She used the explorer to find the folder containing her photos.",
+            "sent3": "The explorer program made it easy to track down the missing file.",
+            "sent4": "With the explorer tool, he quickly located the spreadsheet he needed.",
+            "sent5": "The explorer application simplified the process of finding important files."
         },
         {
             "definition": "A spacecraft or vehicle designed for exploring outer space.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The explorer spacecraft was equipped with advanced technology for deep space missions.",
+            "sent2": "NASA launched the explorer to study distant planets in our solar system.",
+            "sent3": "The explorer shuttle made a smooth landing on the alien planet.",
+            "sent4": "The explorer probe transmitted fascinating data from the edge of the galaxy.",
+            "sent5": "The explorer spaceship embarked on a historic journey to the far reaches of the universe."
         }
     ]
 }

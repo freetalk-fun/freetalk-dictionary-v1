@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To send (something) to the wrong recipient.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She missends her letter to the neighbor instead of her friend.",
+            "sent2": "He often missends emails due to typing too quickly.",
+            "sent3": "The cat missends the toy mouse under the couch, confusing the dog.",
+            "sent4": "The wind can sometimes missends the leaves, scattering them in unexpected places.",
+            "sent5": "The postman's mistake in missending the package led to a mix-up in deliveries."
         },
         {
             "definition": "To send (something) incorrectly or inaccurately.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The student missends the homework assignment with the wrong answers.",
+            "sent2": "The GPS occasionally missends drivers to the wrong location.",
+            "sent3": "The chef missends the order to the kitchen, causing a delay in the meal.",
+            "sent4": "Her emotions often missend her words, leading to misunderstandings.",
+            "sent5": "The faulty machine missends the measurements, resulting in flawed products."
         }
     ]
 }

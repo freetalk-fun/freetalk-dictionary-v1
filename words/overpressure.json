@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Excessive pressure.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The overpressure in the balloon caused it to burst.",
+            "sent2": "The overpressure in the tire made it unsafe to drive.",
+            "sent3": "The overpressure in the soda can made it fizz everywhere when opened.",
+            "sent4": "The overpressure in the room was palpable, making everyone uneasy.",
+            "sent5": "The overpressure in the water pipe led to a sudden leak, flooding the basement."
         },
         {
             "definition": "To apply too much pressure.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Please do not overpressure the fragile glassware.",
+            "sent2": "If you overpressure the pump, it might break.",
+            "sent3": "He tends to overpressure the brakes, causing them to wear out quickly.",
+            "sent4": "She felt like life was overpressuring her with too many responsibilities.",
+            "sent5": "The coach warned the players not to overpressure themselves before the big game."
         },
         {
             "definition": "A condition of being subjected to excessive pressure.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The workers were under overpressure due to the tight deadline.",
+            "sent2": "The overpressure on the students to perform well was overwhelming.",
+            "sent3": "The overpressure on the elevator made it stop between floors.",
+            "sent4": "The overpressure on the team led to a lot of stress and tension.",
+            "sent5": "The overpressure on the dam caused concerns about its structural integrity."
         }
     ]
 }

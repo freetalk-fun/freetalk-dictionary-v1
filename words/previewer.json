@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A person who views or examines something in advance.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The previewer carefully looked at the movie trailer before deciding to watch the film.",
+            "sent2": "The previewer at the art gallery checked out the paintings before the exhibit opened.",
+            "sent3": "The previewer peeked at the last page of the book to see how it ended.",
+            "sent4": "She was like a previewer of the future, always trying to anticipate what would happen next.",
+            "sent5": "The previewer's job was to give a sneak peek of the upcoming products to the team."
         },
         {
             "definition": "A software tool that allows users to see a sample or preview of a document or file before opening it.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The previewer on the website showed a small image of the document before downloading.",
+            "sent2": "I used the previewer feature to check the layout of my presentation slides.",
+            "sent3": "The previewer glitched and displayed the wrong file, causing confusion.",
+            "sent4": "The previewer acted like a crystal ball, giving a glimpse of what was inside the document.",
+            "sent5": "With the previewer, I could see a snapshot of the report without opening it fully."
         }
     ]
 }

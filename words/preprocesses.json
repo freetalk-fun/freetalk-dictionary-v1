@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To process (something) beforehand.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She preprocesses the data before analyzing it.",
+            "sent2": "The software preprocesses the images to improve their quality.",
+            "sent3": "The chef preprocesses the ingredients for the recipe, making cooking faster.",
+            "sent4": "His mind preprocesses the information like a computer, organizing it efficiently.",
+            "sent5": "Preprocessing the documents ensures they are ready for presentation."
         },
         {
             "definition": "The action or process of processing something beforehand.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The preprocesses of data cleaning are crucial for accurate analysis.",
+            "sent2": "Automating the preprocesses saves time and reduces errors.",
+            "sent3": "The team's preprocesses of planning made the project run smoothly.",
+            "sent4": "The preprocesses act as a filter, refining the input for better output.",
+            "sent5": "Understanding the preprocesses is key to efficient workflow."
         }
     ]
 }

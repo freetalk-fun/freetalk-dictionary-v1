@@ -3,19 +3,39 @@
     "meanings": [
         {
             "definition": "Indicating the agent performing an action",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The cake was made by a skilled baker.",
+            "sent2": "The book was written by the author.",
+            "sent3": "The mystery was solved by a clever detective.",
+            "sent4": "The painting was created by a talented artist.",
+            "sent5": "The problem was fixed by a knowledgeable technician."
         },
         {
             "definition": "Indicating the means or method used",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "She cut the paper by using scissors.",
+            "sent2": "He traveled by train to reach the destination.",
+            "sent3": "The message was sent by email to avoid delays.",
+            "sent4": "The cake was baked by following the recipe.",
+            "sent5": "The puzzle was solved by thinking carefully."
         },
         {
             "definition": "Indicating the location or position of something",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The keys were found by the door.",
+            "sent2": "The cat sat by the window.",
+            "sent3": "The flowers were planted by the fence.",
+            "sent4": "The cup was placed by the sink.",
+            "sent5": "The dog slept by the fireplace."
         },
         {
             "definition": "Indicating the time at which something happens",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "The train arrives by noon.",
+            "sent2": "She finishes her work by the deadline.",
+            "sent3": "He wakes up by sunrise every day.",
+            "sent4": "The event starts by evening.",
+            "sent5": "The store closes by midnight."
         }
     ]
 }

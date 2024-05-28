@@ -3,19 +3,39 @@
     "meanings": [
         {
             "definition": "Plural of man",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The mans in the room were all wearing suits.",
+            "sent2": "There were many mans at the construction site.",
+            "sent3": "The mans at the party all danced together.",
+            "sent4": "In the story, the mans represented different virtues.",
+            "sent5": "The mans in the painting looked strong and determined."
         },
         {
             "definition": "Third person singular present of man",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "He mans the front desk at the hotel.",
+            "sent2": "She is the mans behind the success of the project.",
+            "sent3": "The mans always arrives early for work.",
+            "sent4": "The mysterious mans left a note on the table.",
+            "sent5": "The mans in the mirror seemed confident and calm."
         },
         {
             "definition": "To staff with men",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The company mans its customer service department with friendly agents.",
+            "sent2": "They mans the security team with trained professionals.",
+            "sent3": "He mans the kitchen during busy dinner hours.",
+            "sent4": "She mans the reception desk with a smile.",
+            "sent5": "The volunteers mans the event with enthusiasm."
         },
         {
             "definition": "To take one's place at the helm or oars of a boat",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The experienced sailor mans the ship during rough seas.",
+            "sent2": "She mans the rowboat with skill and precision.",
+            "sent3": "He mans the canoe effortlessly, gliding through the water.",
+            "sent4": "The captain mans the yacht, guiding it into the harbor.",
+            "sent5": "They mans the fishing boat, searching for the best spot to catch fish."
         }
     ]
 }

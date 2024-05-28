@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "The process of repeating items in a self-similar way.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Recursion involves repeating things in a similar manner.",
+            "sent2": "The recursion of patterns in nature is fascinating.",
+            "sent3": "I tried to use recursion to fold my laundry, but it just made a mess.",
+            "sent4": "Her thoughts spiraled in recursion, looping back on themselves endlessly.",
+            "sent5": "The artist's use of recursion in the painting created a mesmerizing effect."
         },
         {
             "definition": "The act of defining a function in terms of itself.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Understanding recursion means defining a function using itself.",
+            "sent2": "Recursion in programming can be both powerful and complex.",
+            "sent3": "The computer got confused when it encountered recursion within recursion.",
+            "sent4": "His mind worked like recursion, constantly referring back to the same ideas.",
+            "sent5": "The recursive nature of the problem required a creative solution."
         }
     ]
 }

@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Occurring or done at once; instant.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The teacher provided an immediate answer to the question.",
+            "sent2": "The immediate response to the fire alarm was to evacuate the building.",
+            "sent3": "The immediate arrival of the pizza delivery made everyone happy.",
+            "sent4": "His immediate decision to quit his job shocked everyone.",
+            "sent5": "The immediate burst of laughter filled the room with joy."
         },
         {
             "definition": "Close in time, space, or relationship.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The immediate family members gathered for a reunion.",
+            "sent2": "The store is located in the immediate vicinity of the park.",
+            "sent3": "The immediate neighbors always help each other out.",
+            "sent4": "Their immediate bond was evident from the first meeting.",
+            "sent5": "The immediate connection between the two friends was heartwarming."
         },
         {
             "definition": "Acting or done without delay.",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "She responded to the email immediately after receiving it.",
+            "sent2": "The team acted immediately upon hearing the news.",
+            "sent3": "He ran immediately to catch the bus but missed it.",
+            "sent4": "The decision was made immediately without any hesitation.",
+            "sent5": "The alarm sounded, and they evacuated the building immediately."
         }
     ]
 }

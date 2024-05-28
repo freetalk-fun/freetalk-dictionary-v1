@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A fact or piece of information",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The dato about the weather was important for planning the picnic.",
+            "sent2": "She wrote down every dato she learned in her notebook.",
+            "sent3": "The detective found a crucial dato that cracked the case wide open.",
+            "sent4": "In a world of uncertainty, a reliable dato can be a guiding light.",
+            "sent5": "The dato about the rare bird species fascinated the researchers."
         },
         {
             "definition": "A date or point in time",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Their wedding dato is set for next summer.",
+            "sent2": "He circled the important dato on the calendar.",
+            "sent3": "The dato of the concert coincided with her birthday.",
+            "sent4": "As the sun set on that dato, memories flooded back.",
+            "sent5": "The historical dato marked a significant event in the town's history."
         },
         {
             "definition": "To give or provide information",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Please dato me the details of your trip.",
+            "sent2": "He promised to dato us with updates on the project.",
+            "sent3": "The teacher will dato the students about the upcoming test.",
+            "sent4": "She decided to dato her findings at the meeting.",
+            "sent5": "The witness was asked to dato what he saw at the scene."
         }
     ]
 }

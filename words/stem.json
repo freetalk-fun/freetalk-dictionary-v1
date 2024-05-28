@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "The main body or stalk of a plant.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The flower grew from the tall stem.",
+            "sent2": "The stem of the tree was strong and sturdy.",
+            "sent3": "The stem of the plant waved in the breeze.",
+            "sent4": "The stem of the flower held the delicate petals.",
+            "sent5": "The green stem of the plant stood out against the brown soil."
         },
         {
             "definition": "To stop the flow or growth of something.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She tried to stem the tears by smiling.",
+            "sent2": "The dam was built to stem the river's flow.",
+            "sent3": "He hoped to stem the tide of negativity with his positive attitude.",
+            "sent4": "The new policy helped to stem the losses in the company.",
+            "sent5": "They worked hard to stem the spread of rumors in the office."
         },
         {
             "definition": "To arise or originate from.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "His passion for music stemmed from his childhood experiences.",
+            "sent2": "The idea stemmed from a conversation they had last week.",
+            "sent3": "Her creativity stemmed from her love for nature.",
+            "sent4": "The decision to expand the business stemmed from market research.",
+            "sent5": "Their friendship stemmed from a shared love of hiking."
         }
     ]
 }

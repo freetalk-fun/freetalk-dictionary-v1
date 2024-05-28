@@ -2,16 +2,31 @@
     "term": "maists",
     "meanings": [
         {
-            "definition": "Maists (verb): to have the greatest influence or power",
-            "pos": "verb"
+            "definition": "to have the greatest influence or power",
+            "pos": "verb",
+            "sent1": "She maists over the decisions in the company.",
+            "sent2": "The president maists over the entire nation.",
+            "sent3": "The cat thinks it maists over the household.",
+            "sent4": "His charisma maists over everyone he meets.",
+            "sent5": "The sun maists over the sky, bringing light to all."
         },
         {
-            "definition": "Maists (adjective): most important or significant",
-            "pos": "adjective"
+            "definition": "most important or significant",
+            "pos": "adjective",
+            "sent1": "The maists task is to finish your homework.",
+            "sent2": "Health is the maists thing to take care of.",
+            "sent3": "The maists cake at the party was gone in seconds.",
+            "sent4": "Her smile was the maists part of her charm.",
+            "sent5": "The maists rule in life is to be kind to others."
         },
         {
-            "definition": "Maists (noun): the highest or most prominent position",
-            "pos": "noun"
+            "definition": "the highest or most prominent position",
+            "pos": "noun",
+            "sent1": "He reached the maists of the mountain after a long climb.",
+            "sent2": "The CEO holds the maists in the company.",
+            "sent3": "The maists of the class was awarded to the top student.",
+            "sent4": "The maists of the tree provided a great view of the surroundings.",
+            "sent5": "The maists of the podium belonged to the winner of the race."
         }
     ]
 }

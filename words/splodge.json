@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A large, shapeless mass or spot of something.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The artist accidentally dropped a big splodge of paint on the canvas.",
+            "sent2": "I stepped in a splodge of mud on the path.",
+            "sent3": "The cat left a splodge of fur on the couch after napping there.",
+            "sent4": "The storm clouds gathered into a dark splodge over the horizon.",
+            "sent5": "The toddler's finger painting was a colorful splodge of creativity."
         },
         {
             "definition": "To mark or cover with splodges.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She splodged paint all over the paper during art class.",
+            "sent2": "The kids splodged glitter on the homemade card for their mom.",
+            "sent3": "He accidentally splodged ketchup on his shirt while eating a hotdog.",
+            "sent4": "The artist splodged vibrant colors onto the canvas, creating a masterpiece.",
+            "sent5": "The chef splodged sauce on the plate to add a decorative touch to the dish."
         },
         {
             "definition": "A blot or smear of something.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "There was a splodge of ink on the paper from the leaky pen.",
+            "sent2": "She noticed a splodge of sauce on her shirt after dinner.",
+            "sent3": "The detective found a suspicious splodge of blood at the crime scene.",
+            "sent4": "The map had a splodge of coffee on the corner from the morning rush.",
+            "sent5": "The mirror had a splodge of toothpaste from the morning routine."
         }
     ]
 }

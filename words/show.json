@@ -3,23 +3,48 @@
     "meanings": [
         {
             "definition": "Display or exhibit",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Can you show me how to draw a circle?",
+            "sent2": "She will show her painting at the art exhibition.",
+            "sent3": "The magician will show a disappearing act.",
+            "sent4": "His smile showed his happiness.",
+            "sent5": "The fireworks show lit up the night sky."
         },
         {
             "definition": "Performance or presentation",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The circus was a great show for the kids.",
+            "sent2": "We enjoyed the musical show last night.",
+            "sent3": "The puppet show made everyone laugh.",
+            "sent4": "Her dance show was full of energy.",
+            "sent5": "The magic show amazed the audience."
         },
         {
             "definition": "Appearance or demonstration",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "His new car is quite a show in the neighborhood.",
+            "sent2": "The fashion show featured the latest trends.",
+            "sent3": "The light show at the concert was mesmerizing.",
+            "sent4": "The art show displayed beautiful paintings.",
+            "sent5": "The flower show showcased various blooms."
         },
         {
             "definition": "Indicate or reveal",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "His tired eyes show that he needs rest.",
+            "sent2": "The dark clouds show that it might rain soon.",
+            "sent3": "The map will show you the way to the park.",
+            "sent4": "Her actions show her kindness towards others.",
+            "sent5": "The thermometer will show the temperature outside."
         },
         {
             "definition": "Prove or demonstrate",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Can you show that your theory is correct?",
+            "sent2": "The experiment will show if the hypothesis is true.",
+            "sent3": "His hard work will show in the final results.",
+            "sent4": "The data will show the impact of the new policy.",
+            "sent5": "Practice will show improvement over time."
         }
     ]
 }

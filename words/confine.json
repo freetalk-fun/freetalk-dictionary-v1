@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Keep or restrict within certain limits.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Please confine your toys to the playroom.",
+            "sent2": "It is important to confine the fire to the fireplace.",
+            "sent3": "I accidentally confine my cat in the closet once.",
+            "sent4": "Her fear of heights confined her to the ground.",
+            "sent5": "The fence will confine the chickens in the yard."
         },
         {
             "definition": "Restrict someone or something within certain limits.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "We need to confine our discussion to the main topic.",
+            "sent2": "The doctor advised him to confine his movements after surgery.",
+            "sent3": "The mischievous puppy tried to confine the cat in a box.",
+            "sent4": "His busy schedule confined him to his office most days.",
+            "sent5": "The storm confined everyone indoors for safety."
         },
         {
             "definition": "A boundary or limit.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The fence serves as a confine for the garden.",
+            "sent2": "The confine of the park is marked by a stone wall.",
+            "sent3": "The confine of the game is to stay within the board.",
+            "sent4": "She felt the confine of her responsibilities weighing on her.",
+            "sent5": "The confine of the river is where the two banks meet."
         }
     ]
 }

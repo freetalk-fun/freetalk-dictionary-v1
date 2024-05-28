@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "An event causing great and often sudden damage or suffering.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Natural catastrophes like hurricanes can be very destructive.",
+            "sent2": "The earthquake was a catastrophic event that left many people homeless.",
+            "sent3": "The picnic turned into a catastrophe when it started raining heavily.",
+            "sent4": "The financial market crash was a catastrophe for many investors.",
+            "sent5": "The tsunami was a catastrophic disaster that changed the coastal landscape forever."
         },
         {
             "definition": "A complete failure or fiasco.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The play was a catastrophe with actors forgetting their lines.",
+            "sent2": "The project turned into a catastrophe when the main server crashed.",
+            "sent3": "The birthday party became a catastrophe when the cake fell on the floor.",
+            "sent4": "The business deal was a catastrophe, leading to huge losses.",
+            "sent5": "The camping trip was a catastrophic failure due to bad weather and lack of supplies."
         }
     ]
 }

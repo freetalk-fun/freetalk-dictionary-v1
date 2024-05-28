@@ -3,19 +3,39 @@
     "meanings": [
         {
             "definition": "The upper limb of the human body, extending from the shoulder to the hand.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "She broke her arm while playing soccer.",
+            "sent2": "He waved his arm to say hello.",
+            "sent3": "The robot arm accidentally knocked over the vase.",
+            "sent4": "Her arm of support was always there for her friends.",
+            "sent5": "The arm of the chair was carved with intricate designs."
         },
         {
             "definition": "A weapon or a means of attack or defense.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The knight wielded his arm in battle.",
+            "sent2": "She carefully cleaned her firearm.",
+            "sent3": "The arm of the law caught the thief red-handed.",
+            "sent4": "His sharp wit was his strongest arm in debates.",
+            "sent5": "The arm of justice is blind but fair."
         },
         {
             "definition": "A branch or division of a family, organization, or company.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "She works in the marketing arm of the company.",
+            "sent2": "The legal arm of the organization handled the contracts.",
+            "sent3": "The arm of the family that lives abroad sent gifts for the holidays.",
+            "sent4": "The educational arm of the government focused on literacy programs.",
+            "sent5": "The medical arm of the hospital provided excellent care."
         },
         {
             "definition": "To supply or provide with weapons.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The soldiers were armed with rifles.",
+            "sent2": "She armed herself with knowledge before the exam.",
+            "sent3": "He armed his team with the latest technology.",
+            "sent4": "The police armed themselves with protective gear.",
+            "sent5": "The hero armed the villagers with courage to face the dragon."
         }
     ]
 }

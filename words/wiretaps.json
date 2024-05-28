@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A device used for intercepting telephone conversations.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The detectives used wiretaps to listen to the suspect's phone calls.",
+            "sent2": "The wiretaps were installed to monitor the target's conversations.",
+            "sent3": "The wiretaps were like secret ears on the phone line.",
+            "sent4": "The wiretaps acted as silent spies, capturing every word spoken.",
+            "sent5": "The wiretaps buzzed quietly, capturing every whispered secret."
         },
         {
             "definition": "The act of secretly listening to or recording someone's telephone conversations.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The discovery of wiretaps in the office raised concerns about privacy.",
+            "sent2": "The legality of using wiretaps without consent is a debated topic.",
+            "sent3": "The wiretaps were like nosy eavesdroppers on the phone line.",
+            "sent4": "The wiretaps revealed more than just words, they exposed secrets.",
+            "sent5": "The wiretaps were like hidden witnesses to every conversation."
         },
         {
             "definition": "To intercept or listen in on someone's telephone conversations.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The authorities decided to wiretaps the suspect's phone to gather evidence.",
+            "sent2": "It is illegal to wiretaps someone's phone without proper authorization.",
+            "sent3": "The detectives wiretaps the phone, hoping to catch the criminal in the act.",
+            "sent4": "She felt like someone was wiretaps into her personal life.",
+            "sent5": "The hackers attempted to wiretaps the company's confidential calls."
         }
     ]
 }

@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To take something away from someone",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The teacher will deprive the students of recess if they misbehave.",
+            "sent2": "The thief tried to deprive the old lady of her purse.",
+            "sent3": "I will deprive myself of dessert to stick to my diet.",
+            "sent4": "The storm will deprive us of electricity for hours.",
+            "sent5": "The strict rules deprive the employees of any flexibility."
         },
         {
             "definition": "To prevent someone from having or using something",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The lock on the door will deprive intruders of entry.",
+            "sent2": "The bad weather may deprive us of our beach day.",
+            "sent3": "I will deprive my dog of treats until he learns to behave.",
+            "sent4": "Her busy schedule deprives her of quality time with her family.",
+            "sent5": "The closed road will deprive us of our usual shortcut."
         }
     ]
 }

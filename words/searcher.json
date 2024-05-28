@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "One who searches.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The searcher looked for his lost keys under the bed.",
+            "sent2": "The searcher found a hidden treasure in the old chest.",
+            "sent3": "The searcher comically searched for his glasses while wearing them.",
+            "sent4": "The detective was a skilled searcher, uncovering clues others missed.",
+            "sent5": "The diligent searcher never gave up until the missing cat was found."
         },
         {
             "definition": "A person who conducts searches.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The searcher carefully examined the crime scene for evidence.",
+            "sent2": "The job of a searcher is to find relevant information quickly.",
+            "sent3": "The searcher playfully pretended to look for invisible treasure.",
+            "sent4": "The researcher was a dedicated searcher of historical documents.",
+            "sent5": "The professional searcher was known for his thoroughness and efficiency."
         },
         {
             "definition": "A tool or program used to search for information.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The online searcher quickly retrieved the requested data.",
+            "sent2": "The search engine is a popular online searcher for information.",
+            "sent3": "The searcher software humorously searched for a missing file in the wrong folder.",
+            "sent4": "The advanced searcher algorithm efficiently sorted through vast amounts of data.",
+            "sent5": "The powerful searcher tool made finding specific information a breeze."
         }
     ]
 }

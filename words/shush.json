@@ -2,12 +2,22 @@
     "term": "shush",
     "meanings": [
         {
-            "definition": "To silence or quiet someone by saying \"shush\"",
-            "pos": "verb"
+            "definition": "To silence or quiet someone by saying 'shush'",
+            "pos": "verb",
+            "sent1": "She quickly shushed the noisy children in the library.",
+            "sent2": "Please shush during the movie so others can hear.",
+            "sent3": "The cat tried to shush the barking dog with a meow.",
+            "sent4": "The falling snow seemed to shush the bustling city streets.",
+            "sent5": "His gentle shush calmed the crying baby instantly."
         },
         {
             "definition": "A command to be quiet or silent",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The teacher gave a loud shush to the chatty students.",
+            "sent2": "The librarian's shush echoed through the reading room.",
+            "sent3": "The unexpected shush from the audience made the comedian pause.",
+            "sent4": "The peaceful park was filled with the sound of nature's shush.",
+            "sent5": "The gentle shush of the wind through the trees was soothing."
         }
     ]
 }

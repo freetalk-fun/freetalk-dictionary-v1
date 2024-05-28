@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To determine the total number of something.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She counts the apples in the basket.",
+            "sent2": "Counting the stars in the sky is impossible.",
+            "sent3": "He counts the sheep to fall asleep, but they keep jumping over the fence!",
+            "sent4": "In her eyes, each smile counts as a precious moment.",
+            "sent5": "The teacher counts the pencils to make sure everyone has one."
         },
         {
             "definition": "To be of importance or significance.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Kindness counts more than wealth.",
+            "sent2": "Every opinion counts in a democracy.",
+            "sent3": "In his heart, her happiness counts the most.",
+            "sent4": "In times of need, every helping hand counts.",
+            "sent5": "Your effort counts towards your success."
         },
         {
             "definition": "A criminal charge or indictment.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The suspect faced multiple counts of theft.",
+            "sent2": "The prosecutor added a new count to the case.",
+            "sent3": "The count in the courtroom made him nervous.",
+            "sent4": "The count in the indictment surprised everyone.",
+            "sent5": "The criminal had a long list of counts against him."
         }
     ]
 }

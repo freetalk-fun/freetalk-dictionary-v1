@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Coming before all others in time or order",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The first book on the shelf is mine.",
+            "sent2": "She wore her first dress to the party.",
+            "sent3": "The first cat to arrive at the party was wearing a tiny hat.",
+            "sent4": "His first attempt at painting was a masterpiece.",
+            "sent5": "The first snowfall of the year covered the town in white."
         },
         {
             "definition": "The initial occurrence or instance",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "My first was a birthday party.",
+            "sent2": "The first of the month is always busy at work.",
+            "sent3": "The first of the puppies to wake up started licking everyone's toes.",
+            "sent4": "The first of the stars appeared in the evening sky.",
+            "sent5": "Her first in the race earned her a gold medal."
         },
         {
             "definition": "Before anything else in rank or importance",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "He always puts his family first.",
+            "sent2": "Please finish your homework first before playing.",
+            "sent3": "The cat always eats first, even before the dog.",
+            "sent4": "She arrived first at the finish line, winning the race.",
+            "sent5": "The safety of the passengers comes first in any emergency."
         }
     ]
 }

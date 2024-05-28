@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To incorrectly refer to something.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She misreferences the author's name in her essay.",
+            "sent2": "Please do not misreference the page number in your report.",
+            "sent3": "The student misreferences the historical event in a funny way.",
+            "sent4": "His speech misreferences the facts like a broken compass.",
+            "sent5": "The tour guide's misreference of the landmark left everyone confused."
         },
         {
             "definition": "An incorrect reference to something.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The misreference in the article caused confusion among readers.",
+            "sent2": "Make sure to correct any misreference in the bibliography.",
+            "sent3": "The misreference in the map led the hikers astray.",
+            "sent4": "Her misreference of the date made the party a week early.",
+            "sent5": "The misreference in the manual resulted in a faulty assembly."
         }
     ]
 }

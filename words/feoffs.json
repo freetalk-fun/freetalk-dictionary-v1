@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To grant or convey (property) by feoffment.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He feoffs his land to his son.",
+            "sent2": "She feoffs the house to her sister.",
+            "sent3": "The farmer feoffs his cows to the sheep.",
+            "sent4": "The teacher feoffs knowledge to her students.",
+            "sent5": "The king feoffs his kingdom to the prince."
         },
         {
             "definition": "A grant or conveyance of property by feoffment.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The feoffs of the estate were recorded in the documents.",
+            "sent2": "She received a feoffs of the land from her grandfather.",
+            "sent3": "The feoffs of the castle were celebrated with a feast.",
+            "sent4": "The feoffs of the company were carefully managed.",
+            "sent5": "The feoffs of the property were disputed among the heirs."
         }
     ]
 }

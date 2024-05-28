@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "An area of territory owned or controlled by a ruler or government.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The king's domain included the castle and surrounding lands.",
+            "sent2": "The forest was part of the queen's domain.",
+            "sent3": "The domain of the ruler extended to the neighboring villages.",
+            "sent4": "In the domain of the monarch, his word was law.",
+            "sent5": "The domain of the ruler was vast and majestic."
         },
         {
             "definition": "A specified sphere of activity or knowledge.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Mathematics is not within my domain of expertise.",
+            "sent2": "The field of medicine is a complex domain.",
+            "sent3": "Exploring the domain of art opened up new possibilities.",
+            "sent4": "She delved into the domain of literature with enthusiasm.",
+            "sent5": "Learning about different cultures falls within the domain of anthropology."
         },
         {
             "definition": "A distinct subset of the Internet with addresses sharing a common suffix.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The website belongs to the .com domain.",
+            "sent2": "Emails are sent and received within the same domain.",
+            "sent3": "The domain of the website was easy to remember.",
+            "sent4": "The domain name was unique and catchy.",
+            "sent5": "Registering a domain is essential for creating a website."
         }
     ]
 }

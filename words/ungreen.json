@@ -3,19 +3,39 @@
     "meanings": [
         {
             "definition": "Not green in color.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The ungreen apple was red instead.",
+            "sent2": "The grass was ungreen, it had turned brown.",
+            "sent3": "The ungreen marker was trying to color the grass.",
+            "sent4": "Her face turned ungreen with envy.",
+            "sent5": "The ungreen sky during the storm looked ominous."
         },
         {
             "definition": "Not environmentally friendly.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The ungreen factory polluted the river.",
+            "sent2": "Using plastic bags is ungreen for the environment.",
+            "sent3": "The ungreen car refused to recycle.",
+            "sent4": "His ungreen behavior towards nature was disappointing.",
+            "sent5": "The ungreen practices of the company harmed the ecosystem."
         },
         {
             "definition": "To make something less green in color.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She ungreened the leaves by painting them yellow.",
+            "sent2": "The artist ungreened the landscape by adding more brown tones.",
+            "sent3": "He ungreened his shirt by accidentally washing it with red socks.",
+            "sent4": "The drought ungreened the once lush garden.",
+            "sent5": "The pollution ungreened the riverbanks, turning them gray."
         },
         {
             "definition": "To make something less environmentally friendly.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The company ungreened their packaging by switching to non-recyclable materials.",
+            "sent2": "He ungreened the building by removing all the energy-saving features.",
+            "sent3": "The prankster ungreened the park by littering everywhere.",
+            "sent4": "Her careless actions ungreened the previously sustainable project.",
+            "sent5": "The construction ungreened the area, destroying natural habitats."
         }
     ]
 }

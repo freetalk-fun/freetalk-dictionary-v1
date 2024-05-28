@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To need or demand something as essential or necessary.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Finishing your homework will require focus and dedication.",
+            "sent2": "Studying regularly is a requirement for good grades.",
+            "sent3": "I didn't realize how much effort would be required to bake a cake from scratch!",
+            "sent4": "His new job will require him to think on his feet.",
+            "sent5": "The marathon will require all participants to push their limits."
         },
         {
             "definition": "To make necessary; compel or obligate.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The rainy weather may require us to reschedule the picnic.",
+            "sent2": "Following the rules will require everyone's cooperation.",
+            "sent3": "The unexpected delay required us to rethink our travel plans.",
+            "sent4": "Her dedication to the project required late nights at the office.",
+            "sent5": "The urgent situation required immediate action."
         },
         {
             "definition": "To ask or request something.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I will require your assistance with this task.",
+            "sent2": "The teacher may require additional help from the students.",
+            "sent3": "The customer may require a refund for the faulty product.",
+            "sent4": "The company will require feedback from its employees.",
+            "sent5": "The event organizer may require volunteers for the upcoming festival."
         }
     ]
 }

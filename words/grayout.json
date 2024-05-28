@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To become dim or faint",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "As the sun set, the room started to grayout.",
+            "sent2": "The screen slowly began to grayout as the battery died.",
+            "sent3": "The light bulb decided to grayout right when I needed it the most.",
+            "sent4": "Her memory of the event started to grayout like an old photograph.",
+            "sent5": "The colors of the painting started to grayout, losing their vibrancy."
         },
         {
             "definition": "A temporary loss of vision or consciousness",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "After the accident, he experienced a sudden grayout.",
+            "sent2": "She felt a grayout coming on and quickly sat down.",
+            "sent3": "The grayout lasted only a few seconds, but it felt much longer.",
+            "sent4": "The grayout was like a brief pause in the movie of his life.",
+            "sent5": "During the grayout, everything seemed to fade away into darkness."
         },
         {
             "definition": "A state of partial or temporary inactivity or suspension",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The project went into a grayout due to lack of funding.",
+            "sent2": "During the storm, the city was in a grayout, with most activities suspended.",
+            "sent3": "The grayout of the computer system caused delays in the office.",
+            "sent4": "The grayout of the traffic lights led to chaos on the streets.",
+            "sent5": "The grayout of the factory resulted in a temporary shutdown of production."
         }
     ]
 }

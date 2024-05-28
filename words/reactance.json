@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Opposition to the flow of electric current caused by inductance or capacitance.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The reactance in the circuit slowed down the electric current.",
+            "sent2": "The electrician measured the reactance to understand the circuit better.",
+            "sent3": "The reactance in the wire decided to take a break, causing a temporary power outage.",
+            "sent4": "The reactance in the system was like a stubborn gatekeeper, blocking the flow of electricity.",
+            "sent5": "The reactance acted like a traffic jam, creating a bottleneck in the circuit."
         },
         {
             "definition": "A measure of the opposition to the flow of alternating current in a circuit.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The high reactance indicated a significant impedance in the circuit.",
+            "sent2": "Engineers use reactance values to optimize the efficiency of electrical systems.",
+            "sent3": "The reactance in the circuit played hide and seek with the current, causing fluctuations.",
+            "sent4": "The reactance was a silent resistor, quietly hindering the flow of electricity.",
+            "sent5": "The reactance stood like a wall, challenging the current to find a way through."
         }
     ]
 }

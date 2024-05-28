@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A word in which no letter is repeated.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "An isogram is a word with no repeated letters.",
+            "sent2": "I love playing games that challenge me to find isograms.",
+            "sent3": "The detective quickly solved the case by deciphering the isogram left at the crime scene.",
+            "sent4": "Her mind was like an isogram, each thought unique and distinct.",
+            "sent5": "The isogram 'jumps' off the page when you see it in a word search puzzle."
         },
         {
             "definition": "A sequence of letters in which each letter appears only once.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "In cryptography, an isogram is a key element for secure communication.",
+            "sent2": "The password must be an isogram to ensure maximum security.",
+            "sent3": "The treasure map led to a hidden cave marked with an isogram of the pirate's name.",
+            "sent4": "The melody of the song flowed like a musical isogram, each note distinct and clear.",
+            "sent5": "The isogram of the ancient language was a crucial clue in deciphering the mysterious inscription."
         }
     ]
 }

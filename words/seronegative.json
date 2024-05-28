@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Testing negative for a specific antibody in the blood.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The doctor confirmed the patient's seronegative status after reviewing the test results.",
+            "sent2": "The lab technician identified the seronegative in the blood sample.",
+            "sent3": "Despite being seronegative, the patient remained optimistic about their health.",
+            "sent4": "The absence of the antibody was like finding a seronegative needle in a haystack.",
+            "sent5": "The seronegative result was a relief for the worried patient."
         },
         {
             "definition": "Not showing the presence of a particular antibody in a blood sample.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The seronegative test result indicated the absence of the specific antibody.",
+            "sent2": "Her seronegative status surprised the medical team.",
+            "sent3": "The seronegative blood sample played hide and seek with the doctors.",
+            "sent4": "The seronegative outcome painted a clear picture of the patient's health.",
+            "sent5": "The doctor's face lit up upon seeing the seronegative report."
         }
     ]
 }

@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A person who performs manual labor.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The workman lifted heavy boxes all day at the warehouse.",
+            "sent2": "The workman fixed the leaky faucet in no time.",
+            "sent3": "The workman tried to juggle hammers and nails, but it didn't end well.",
+            "sent4": "The workman's hands were like tools, precise and efficient.",
+            "sent5": "The workman's dedication to his job was admirable."
         },
         {
             "definition": "A skilled worker.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The workman carefully crafted a beautiful wooden table.",
+            "sent2": "The workman's expertise in carpentry was unmatched.",
+            "sent3": "The workman could paint a masterpiece with just a brush and paint.",
+            "sent4": "The workman's skills were like magic, turning raw materials into art.",
+            "sent5": "The workman's precision and attention to detail were evident in every piece he made."
         },
         {
             "definition": "To work as a laborer or craftsman.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He decided to workman his way through college by taking up carpentry.",
+            "sent2": "She workmaned diligently on the project, ensuring it was completed on time.",
+            "sent3": "The team workmaned together to build the house from the ground up.",
+            "sent4": "They workmaned tirelessly, shaping the raw materials into a work of art.",
+            "sent5": "The sculptor workmaned the clay with skill and passion, creating a masterpiece."
         }
     ]
 }

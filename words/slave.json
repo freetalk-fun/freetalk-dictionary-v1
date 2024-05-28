@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A person who is the legal property of another and is forced to obey them.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The cruel master treated the slave poorly.",
+            "sent2": "The slave worked in the fields from sunrise to sunset.",
+            "sent3": "The slave accidentally spilled the water bucket on the master's head.",
+            "sent4": "She felt like a slave to her never-ending to-do list.",
+            "sent5": "The image of the weary slave carrying heavy chains haunted her dreams."
         },
         {
             "definition": "A person who is excessively dependent on or controlled by something.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "He was a slave to his addiction, unable to break free.",
+            "sent2": "She was a slave to fashion, always following the latest trends.",
+            "sent3": "The cat was a slave to its curiosity, always getting into mischief.",
+            "sent4": "The politician was a slave to public opinion, changing his stance with every poll.",
+            "sent5": "The child was a slave to his fear of the dark, unable to sleep without a nightlight."
         },
         {
             "definition": "To work very hard for someone without receiving much in return.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She would slave away in the kitchen for hours preparing the feast.",
+            "sent2": "He slaved over his homework all night to get it done on time.",
+            "sent3": "The robot slaved tirelessly to clean every corner of the house.",
+            "sent4": "The artist slaved over the details of the painting, ensuring it was perfect.",
+            "sent5": "They slaved in the fields under the scorching sun, their backs aching from the labor."
         }
     ]
 }

@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A person or thing that remails.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The remailer delivered the package to the recipient.",
+            "sent2": "The remailer sent the letter to the correct address.",
+            "sent3": "The little remailer robot zipped around the office, delivering mail to everyone.",
+            "sent4": "She was like a diligent remailer, ensuring all messages reached their destinations.",
+            "sent5": "The remailer, a helpful assistant, made sure all parcels were sent out on time."
         },
         {
             "definition": "A service that forwards email messages anonymously.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The remailer protected the sender's identity when forwarding the email.",
+            "sent2": "I used a remailer to send the message without revealing my email address.",
+            "sent3": "The remailer service was like a secret agent, hiding the sender's information.",
+            "sent4": "Her remailer functioned like a cloak of invisibility for email addresses.",
+            "sent5": "Using the remailer, he sent the email incognito, like a digital ninja."
         },
         {
             "definition": "A computer program that retransmits email messages.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The remailer software automatically resends emails if they fail to deliver.",
+            "sent2": "He developed a remailer to ensure important messages reached their recipients.",
+            "sent3": "The mischievous remailer program kept sending the same email repeatedly.",
+            "sent4": "The remailer functioned like an echo, bouncing messages back and forth.",
+            "sent5": "With the remailer, she could send emails repeatedly, like an endless loop."
         }
     ]
 }

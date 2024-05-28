@@ -3,19 +3,39 @@
     "meanings": [
         {
             "definition": "The purpose or role of something.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The function of a hammer is to drive nails.",
+            "sent2": "Understanding the function of a heart is crucial for medical students.",
+            "sent3": "At the party, the function of the music was to keep everyone dancing.",
+            "sent4": "In the play, the function of the narrator was like a guiding light for the audience.",
+            "sent5": "The function of a map is to help you find your way."
         },
         {
             "definition": "A mathematical relationship between two sets of variables.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The function in the equation represents the relationship between x and y.",
+            "sent2": "Studying functions in math class can be challenging but rewarding.",
+            "sent3": "The function of the graph was to show the correlation between the data points.",
+            "sent4": "In calculus, understanding functions is key to solving complex problems.",
+            "sent5": "The function of the formula is to calculate the unknown variable."
         },
         {
             "definition": "To work or operate in a specified way.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The machine will function properly if you follow the instructions.",
+            "sent2": "Plants function by converting sunlight into energy through photosynthesis.",
+            "sent3": "The team will function better if everyone communicates effectively.",
+            "sent4": "Without water, the body cannot function optimally.",
+            "sent5": "To function efficiently, the computer needs regular maintenance."
         },
         {
             "definition": "A social event or gathering.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The charity function raised funds for a good cause.",
+            "sent2": "Attending a function at the embassy can be a great networking opportunity.",
+            "sent3": "The school function was a fun way to celebrate the end of the year.",
+            "sent4": "The annual function at the company is always a highlight for employees.",
+            "sent5": "The function at the park brought the community together for a day of fun."
         }
     ]
 }

@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A system of sending messages by holding and releasing a flag or light in a series of short and long signals.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The sailor communicated using morse with the ship.",
+            "sent2": "The morse signals helped the hiker find the right path.",
+            "sent3": "The morse code between the friends was full of jokes.",
+            "sent4": "His tapping on the table was like a morse of impatience.",
+            "sent5": "The morse from the lighthouse guided the boats safely."
         },
         {
             "definition": "A code used for transmitting messages by telegraph.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The spy decoded the morse to reveal the secret message.",
+            "sent2": "The telegraph operator sent the morse across the wires.",
+            "sent3": "The morse on the paper looked like a mysterious puzzle.",
+            "sent4": "Her tapping on the desk was a morse of urgency.",
+            "sent5": "The morse from the telegraph machine echoed in the room."
         }
     ]
 }

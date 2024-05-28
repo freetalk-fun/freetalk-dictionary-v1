@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A book or electronic list of names, addresses, and other information",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I found my friend's address in the school directory.",
+            "sent2": "The telephone directory helps you find contact information.",
+            "sent3": "The directory was so big, it could almost be a small library!",
+            "sent4": "Her mind was like a directory, neatly organizing every detail.",
+            "sent5": "The directory was like a treasure map, leading me to valuable information."
         },
         {
             "definition": "A folder on a computer that organizes files and subfolders",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I saved the document in the 'Work' directory on my computer.",
+            "sent2": "Make sure to keep your files organized in the computer directory.",
+            "sent3": "The computer directory was like a magical closet, storing all my digital belongings.",
+            "sent4": "His brain worked like a computer directory, quickly retrieving stored memories.",
+            "sent5": "Navigating through the computer directory felt like exploring a digital maze."
         },
         {
             "definition": "A list of websites or resources on a specific topic",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The library had a directory of recommended websites for research.",
+            "sent2": "I bookmarked the cooking directory for easy access to recipes.",
+            "sent3": "The online directory was like a virtual tour guide, showing me around the internet.",
+            "sent4": "Her knowledge was a directory of wisdom, guiding others to valuable resources.",
+            "sent5": "Exploring the directory of art websites was like visiting a digital art gallery."
         }
     ]
 }

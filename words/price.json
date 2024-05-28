@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "The amount of money expected, required, or given in payment for something.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The price of the toy was too high for me to buy.",
+            "sent2": "She asked for the price of the book before deciding to purchase it.",
+            "sent3": "The price of admission to the zoo was so high that I had to borrow money from my friend.",
+            "sent4": "The price of success is hard work and dedication.",
+            "sent5": "The price tag on the dress showed it was on sale."
         },
         {
             "definition": "To set the price of something.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He will price the old furniture before putting it up for sale.",
+            "sent2": "The company decided to price their new product competitively in the market.",
+            "sent3": "I will price the cookies at a reasonable rate to attract more customers.",
+            "sent4": "She priced her services higher after gaining more experience in the field.",
+            "sent5": "The artist priced his paintings based on their size and complexity."
         },
         {
             "definition": "To find out the price of something.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I need to price the laptop to see if it fits within my budget.",
+            "sent2": "She priced the concert tickets to see if they were affordable for her.",
+            "sent3": "I will price the shoes to check if they are worth the cost.",
+            "sent4": "He priced the car to determine its resale value.",
+            "sent5": "The customer priced the necklace before deciding to purchase it."
         }
     ]
 }

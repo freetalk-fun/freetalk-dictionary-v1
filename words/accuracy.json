@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "The quality or state of being correct or precise.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Her accuracy in solving math problems impressed the teacher.",
+            "sent2": "The scientist's accuracy in conducting experiments led to groundbreaking discoveries.",
+            "sent3": "Despite his lack of accuracy in estimating time, he always arrived early.",
+            "sent4": "Her accuracy in hitting the target was like a sharpshooter's aim.",
+            "sent5": "The surgeon's accuracy during the operation saved the patient's life."
         },
         {
             "definition": "The degree to which a measurement, calculation, or specification conforms to the correct value or a standard.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The accuracy of the scale was crucial for the experiment's success.",
+            "sent2": "The accuracy of the clock ensured everyone arrived on time.",
+            "sent3": "The weather forecast's accuracy was so off that it predicted snow in summer.",
+            "sent4": "His accuracy in predicting the stock market was like having a crystal ball.",
+            "sent5": "The map's accuracy guided them safely through the treacherous terrain."
         }
     ]
 }

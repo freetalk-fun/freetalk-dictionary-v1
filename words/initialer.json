@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A person who adds their initials to something.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The initialer signed the document with their initials.",
+            "sent2": "The initialer put their initials on the painting.",
+            "sent3": "The initialer jokingly added their initials to the cake with icing.",
+            "sent4": "The initialer's signature initials stood out on the contract.",
+            "sent5": "The initialer's unique initials made their mark on the artwork."
         },
         {
             "definition": "To mark or sign with initials.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She will initialer the form before submitting it.",
+            "sent2": "Remember to initialer each page of the agreement.",
+            "sent3": "He initialered the tree trunk with his initials as a prank.",
+            "sent4": "The artist initialered their masterpiece with a hidden symbol.",
+            "sent5": "The teacher asked the students to initialer their work for identification."
         }
     ]
 }

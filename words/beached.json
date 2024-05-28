@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Washed ashore on a beach.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The whale beached itself during the storm.",
+            "sent2": "The ship beached on the sandy shore.",
+            "sent3": "The seagull beached itself on purpose to catch some sun.",
+            "sent4": "The memories of childhood beached on the shores of my mind.",
+            "sent5": "The colorful shells beached along the coast sparkled in the sunlight."
         },
         {
             "definition": "Stranded on a beach.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The beached boat awaited rescue by the coast guard.",
+            "sent2": "The beached crab scuttled sideways in the sand.",
+            "sent3": "The beached tourists built a sandcastle while waiting for help.",
+            "sent4": "The beached surfboard lay forgotten by the water's edge.",
+            "sent5": "The beached starfish dried out under the hot sun."
         },
         {
             "definition": "To run or drive (a boat) aground on a beach.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The captain accidentally beached the ship on the hidden sandbar.",
+            "sent2": "The fishermen beached their boat to unload the day's catch.",
+            "sent3": "The pirates beached their vessel to bury their treasure on the island.",
+            "sent4": "The storm forced the sailors to beach their boat to avoid sinking.",
+            "sent5": "The explorers beached their canoe and set up camp for the night."
         }
     ]
 }

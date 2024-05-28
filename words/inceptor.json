@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A person who begins something.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The inceptor of the project had great ideas.",
+            "sent2": "The team leader was the inceptor of the new strategy.",
+            "sent3": "The inceptor of the surprise party was very sneaky.",
+            "sent4": "She was the inceptor of change in the organization.",
+            "sent5": "The inceptor's vision inspired everyone to work harder."
         },
         {
             "definition": "A device or substance that initiates a process.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The inceptor of the alarm system was a small sensor.",
+            "sent2": "The key card acted as the inceptor for the security system.",
+            "sent3": "The inceptor for the experiment malfunctioned, causing chaos.",
+            "sent4": "The inceptor for the growth of plants was sunlight.",
+            "sent5": "The inceptor for the machine's operation was the power button."
         },
         {
             "definition": "To start or introduce something.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She will inceptor the new project next week.",
+            "sent2": "The teacher inceptored the lesson with an interesting story.",
+            "sent3": "He inceptored the game by surprising everyone with a new rule.",
+            "sent4": "The CEO inceptored a bold marketing campaign.",
+            "sent5": "The chef inceptored a unique dish that became a hit."
         }
     ]
 }

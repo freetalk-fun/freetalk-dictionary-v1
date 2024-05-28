@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To obscure the light from or to by interposition of the moon, a planet, or another body",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The clouds eclipse the sun during a storm.",
+            "sent2": "She watched as the moon started to eclipse the sun.",
+            "sent3": "The mischievous cat tried to eclipse the flashlight beam with its tail.",
+            "sent4": "His talent for storytelling can eclipse even the most seasoned writers.",
+            "sent5": "The giant tree seemed to eclipse the entire garden with its shadow."
         },
         {
             "definition": "A total or partial obscuring of one celestial body by another",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The lunar eclipse was a breathtaking sight.",
+            "sent2": "During the solar eclipse, the moon passes between the sun and the Earth.",
+            "sent3": "The eclipse of the moon made stargazing impossible that night.",
+            "sent4": "The eclipse of the sun symbolized a new beginning for the ancient civilization.",
+            "sent5": "The eclipse of the moon cast an eerie glow over the landscape."
         },
         {
             "definition": "A reduction or loss of splendor, status, or reputation",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The scandal caused an eclipse in his political career.",
+            "sent2": "The once-famous singer experienced an eclipse in popularity after the incident.",
+            "sent3": "The sudden eclipse of the company's stock value shocked investors.",
+            "sent4": "Her unexpected resignation led to an eclipse of trust among her colleagues.",
+            "sent5": "The team's defeat marked an eclipse in their winning streak."
         }
     ]
 }

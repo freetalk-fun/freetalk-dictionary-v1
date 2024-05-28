@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "having no legal or binding force",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The contract became null after the signature was forged.",
+            "sent2": "The judge declared the document null and void.",
+            "sent3": "It was a null attempt to enter the closed building.",
+            "sent4": "Her argument was null and void in the eyes of the law.",
+            "sent5": "The expired license was now null and unenforceable."
         },
         {
             "definition": "a value of zero or no quantity",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The result of the equation was null, indicating no solution.",
+            "sent2": "The database returned a null value for the missing information.",
+            "sent3": "He felt a sense of null when he realized he had forgotten his keys.",
+            "sent4": "The empty field displayed as null on the form.",
+            "sent5": "The null in the equation represented the absence of a solution."
         },
         {
             "definition": "to make invalid or void",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The judge had to null the contract due to the breach of terms.",
+            "sent2": "She decided to null the agreement after discovering the hidden clauses.",
+            "sent3": "He tried to null the mistake by offering a sincere apology.",
+            "sent4": "The company had to null the faulty product from the market.",
+            "sent5": "The decision to null the merger was met with mixed reactions."
         }
     ]
 }

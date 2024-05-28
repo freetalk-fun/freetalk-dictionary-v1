@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A curve on a plane that winds around a fixed center point at a continuously increasing or decreasing distance from the point.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The seashell had a beautiful spiral shape.",
+            "sent2": "The staircase in the tower was a spiral that went up and up.",
+            "sent3": "The snail decided to take a break from spiraling and went for a straight walk instead.",
+            "sent4": "Her thoughts seemed to spiral out of control, like a whirlwind in her mind.",
+            "sent5": "The tornado formed a massive spiral of destruction as it moved across the land."
         },
         {
             "definition": "A three-dimensional curve that turns around an axis at a constant or continuously varying distance while moving parallel to the axis.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The DNA molecule has a double helix spiral structure.",
+            "sent2": "The galaxy is a vast collection of stars swirling in a spiral pattern.",
+            "sent3": "The ice cream cone toppled over, creating a delicious spiral mess on the floor.",
+            "sent4": "Her life took a sudden spiral downwards after losing her job.",
+            "sent5": "The tornado's spiral motion was mesmerizing yet terrifying to watch."
         },
         {
             "definition": "To take a spiral form or course.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The smoke began to spiral up from the chimney.",
+            "sent2": "The dancer started to spiral gracefully across the stage.",
+            "sent3": "The kite spiraled out of control in the strong wind, much to the amusement of the onlookers.",
+            "sent4": "His emotions spiraled as he tried to make sense of the situation.",
+            "sent5": "The airplane spiraled down towards the landing strip, making a smooth descent."
         }
     ]
 }

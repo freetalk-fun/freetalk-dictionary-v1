@@ -3,31 +3,66 @@
     "meanings": [
         {
             "definition": "A sudden, sharp noise",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The thunder made a loud crack in the sky.",
+            "sent2": "I heard a crack when the glass broke.",
+            "sent3": "The crack of the whip startled the horses.",
+            "sent4": "The crack of dawn signaled the start of a new day.",
+            "sent5": "The crack of the bat echoed through the stadium."
         },
         {
             "definition": "A narrow opening",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I found a small crack in the wall.",
+            "sent2": "The door had a crack where the light shone through.",
+            "sent3": "The crack in the door was just big enough for the cat to squeeze through.",
+            "sent4": "The crack in the sidewalk seemed to lead to another world.",
+            "sent5": "The crack in the ice was too thin to walk on."
         },
         {
             "definition": "A break or fracture in something",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The crack in the vase was barely visible.",
+            "sent2": "He noticed a crack in the mirror after dropping it.",
+            "sent3": "The crack in the sidewalk looked like a smile.",
+            "sent4": "The crack in the wall revealed a hidden compartment.",
+            "sent5": "The crack in the ceiling grew larger over time."
         },
         {
             "definition": "To break or cause to break without complete separation",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She tried to crack the nut open with a nutcracker.",
+            "sent2": "He managed to crack the code after hours of work.",
+            "sent3": "I accidentally cracked the egg into the bowl.",
+            "sent4": "The detective finally cracked the case after months of investigation.",
+            "sent5": "The ice cracked under the weight of the skater."
         },
         {
             "definition": "To make a sudden, sharp noise",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The branches cracked under the weight of the snow.",
+            "sent2": "The fire crackled and popped in the fireplace.",
+            "sent3": "She cracked her knuckles before starting the test.",
+            "sent4": "The ice cracked as the temperature dropped.",
+            "sent5": "The whip cracked in the air before striking the ground."
         },
         {
             "definition": "To solve a problem or figure something out",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He managed to crack the safe's combination.",
+            "sent2": "She cracked the mystery wide open with her deduction.",
+            "sent3": "I need to crack this math problem before the test.",
+            "sent4": "The team worked together to crack the code.",
+            "sent5": "After hours of brainstorming, she finally cracked the puzzle."
         },
         {
             "definition": "To hit or strike forcefully",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He cracked the whip to start the race.",
+            "sent2": "The batter cracked the ball out of the park.",
+            "sent3": "She cracked the door open to peek inside.",
+            "sent4": "The hammer cracked the rock into pieces.",
+            "sent5": "The thunder cracked loudly in the stormy sky."
         }
     ]
 }

@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A sentimental longing or wistful affection for the past.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The old photo album filled her with nostalgic memories.",
+            "sent2": "She felt nostalgic when she found her childhood toy in the attic.",
+            "sent3": "Looking at her favorite childhood book made her feel nostalgic.",
+            "sent4": "The smell of freshly baked cookies was a nostalgic reminder of her grandmother's kitchen.",
+            "sent5": "The sound of the ice cream truck brought a wave of nostalgic happiness."
         },
         {
             "definition": "Characterized by or exhibiting nostalgia.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The nostalgic music reminded him of his school days.",
+            "sent2": "The old movie theater had a nostalgic charm.",
+            "sent3": "His nostalgic love for retro video games was evident in his collection.",
+            "sent4": "The vintage dress had a nostalgic feel to it.",
+            "sent5": "The nostalgic atmosphere of the small town was comforting."
         }
     ]
 }

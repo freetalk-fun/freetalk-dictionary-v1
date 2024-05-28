@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To transfer data from a computer to a central server.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She uploads her photos to the cloud every evening.",
+            "sent2": "He uploads his documents to the shared drive for everyone to access.",
+            "sent3": "The cat tried to upload its meows to the internet, thinking it was a singer.",
+            "sent4": "His laughter uploads joy to everyone around him.",
+            "sent5": "The sun uploads warmth to the earth, making everything cozy."
         },
         {
             "definition": "The act of transferring data from a computer to a central server.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The uploads of the new software took longer than expected.",
+            "sent2": "I checked the server for any recent uploads of important files.",
+            "sent3": "The uploads of cat videos made the internet a happier place.",
+            "sent4": "Her smile was like an upload of positivity in the room.",
+            "sent5": "The uploads of knowledge from the internet expanded his understanding."
         }
     ]
 }

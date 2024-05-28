@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Edit text for publication.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She redacts the article to make it suitable for printing.",
+            "sent2": "The editor redacts unnecessary information from the manuscript.",
+            "sent3": "The writer redacts the story, turning it into a mystery for the readers.",
+            "sent4": "He redacts his speech, carefully choosing each word for impact.",
+            "sent5": "Redacting the document, she ensures only the essential details remain."
         },
         {
             "definition": "Prepare for publication by obscuring or removing sensitive information.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The government redacts classified documents before releasing them to the public.",
+            "sent2": "Before sharing the report, they redact any personal details to protect privacy.",
+            "sent3": "The spy redacts the top-secret file, turning it into a puzzle for unauthorized eyes.",
+            "sent4": "She redacts her diary, hiding her deepest thoughts from prying eyes.",
+            "sent5": "Redacting the email, he ensures no confidential information is revealed."
         }
     ]
 }

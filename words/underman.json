@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A person who is below average in strength or ability.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The underman struggled to lift the heavy box.",
+            "sent2": "The team captain noticed the underman's difficulty in keeping up during the game.",
+            "sent3": "The underman tried to reach the top shelf but had to ask for help.",
+            "sent4": "In a world of superheroes, he felt like an underman with no special powers.",
+            "sent5": "The underman's determination to improve his skills was truly inspiring."
         },
         {
             "definition": "To assign too few workers to a task.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The manager decided to underman the project, causing delays.",
+            "sent2": "It is important not to underman a construction site for safety reasons.",
+            "sent3": "The boss accidentally undermanned the event, leading to chaos.",
+            "sent4": "She realized she had undermanned the party when guests started arriving.",
+            "sent5": "Undermanning the shift resulted in a backlog of work that needed to be addressed."
         }
     ]
 }

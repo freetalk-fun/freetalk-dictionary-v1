@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A container filled with sand for children to play in.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The children built a castle in the sandbox at the park.",
+            "sent2": "The sandbox at the school playground is always busy with kids playing.",
+            "sent3": "The cat thought the sandbox was a giant litter box!",
+            "sent4": "Her mind was a sandbox of creativity, full of endless possibilities.",
+            "sent5": "The sandbox sparkled in the sunlight, inviting the children to come and play."
         },
         {
             "definition": "A protected environment for testing computer programs.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The developers used the sandbox to test the new software before releasing it.",
+            "sent2": "It is important to test programs in a sandbox to prevent any harm to the system.",
+            "sent3": "The computer virus felt lost in the sandbox, unable to cause any damage.",
+            "sent4": "The sandbox of code allowed the programmers to experiment freely.",
+            "sent5": "In the digital sandbox, errors can be easily fixed before going live."
         }
     ]
 }

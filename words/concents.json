@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Concentrate: To focus all one's attention or mental effort on a particular object or activity.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She needs to concents on her homework to finish it on time.",
+            "sent2": "He always concents on his breathing during meditation.",
+            "sent3": "The cat tried to concents on catching the elusive red dot.",
+            "sent4": "Her mind began to concents like a laser beam on the challenging puzzle.",
+            "sent5": "Concents on the target like a hawk hunting its prey."
         },
         {
             "definition": "Concentration: The action or power of focusing one's attention or mental effort on a particular object or activity.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "His intense concents helped him solve the complex math problem.",
+            "sent2": "The students' concents in the classroom impressed the teacher.",
+            "sent3": "The squirrel's concents on gathering nuts was interrupted by a falling acorn.",
+            "sent4": "The athlete's concents was like a shield against distractions during the race.",
+            "sent5": "The artist's concents on the canvas created a masterpiece."
         },
         {
             "definition": "Concentrated: Intensely focused or dense in nature.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The smell of the concentrated cleaner filled the room.",
+            "sent2": "The concentrated effort of the team led to a successful project completion.",
+            "sent3": "The concentrated flavor of the soup surprised the taste buds.",
+            "sent4": "Her concentrated gaze made the person uncomfortable.",
+            "sent5": "The concentrated light beam illuminated the dark cave."
         }
     ]
 }

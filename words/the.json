@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Denoting one or more people or things already mentioned or assumed to be common knowledge.",
-            "pos": "pronoun"
+            "pos": "pronoun",
+            "sent1": "She saw the cat in the garden.",
+            "sent2": "The sun is shining brightly.",
+            "sent3": "The dog thought he was the king of the house.",
+            "sent4": "The stars in the sky twinkled like diamonds.",
+            "sent5": "The teacher explained the lesson clearly."
         },
         {
             "definition": "Used to point forward to a following qualifying or defining clause or phrase.",
-            "pos": "conjunction"
+            "pos": "conjunction",
+            "sent1": "I will go to the park if the weather is nice.",
+            "sent2": "He will only eat vegetables if they are fresh.",
+            "sent3": "She will dance at the party if the music is good.",
+            "sent4": "The plan will succeed only if everyone works together.",
+            "sent5": "The team will win the game if they play strategically."
         },
         {
             "definition": "Used to make a generalized reference to something.",
-            "pos": "pronoun"
+            "pos": "pronoun",
+            "sent1": "The more, the merrier.",
+            "sent2": "The bigger, the better.",
+            "sent3": "The sooner, the faster.",
+            "sent4": "The higher, the harder.",
+            "sent5": "The longer, the stronger."
         }
     ]
 }

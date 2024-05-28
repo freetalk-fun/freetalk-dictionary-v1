@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To guide or direct incorrectly",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I missteer the car and ended up on the wrong road.",
+            "sent2": "Please don't missteer the ship towards the dangerous rocks.",
+            "sent3": "Trying to missteer the cat into the bathtub was a hilarious challenge.",
+            "sent4": "Her false directions missteered me into a maze of confusion.",
+            "sent5": "The faulty GPS missteered us into a deserted area."
         },
         {
             "definition": "A mistake or error in direction",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Making a missteer in navigation can lead to getting lost.",
+            "sent2": "The missteer in the map caused us to take the longer route.",
+            "sent3": "His missteer in the treasure hunt made everyone laugh.",
+            "sent4": "The missteer in the blueprint led to a crooked building.",
+            "sent5": "The missteer in the flight plan resulted in a delay."
         }
     ]
 }

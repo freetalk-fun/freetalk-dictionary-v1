@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Allowing frequencies below a certain point to pass through.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The lowpass filter lets only the quiet sounds come out.",
+            "sent2": "The lowpass setting on the radio makes the music softer.",
+            "sent3": "I tried to listen to the whispers, but the lowpass filter blocked them out.",
+            "sent4": "Her voice was like a lowpass signal, gentle and soothing.",
+            "sent5": "The lowpass effect made the background noise fade away smoothly."
         },
         {
             "definition": "A filter that allows frequencies below a certain point to pass through.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The lowpass helps the deep tones sound clear in the music.",
+            "sent2": "He adjusted the lowpass on the amplifier to improve the sound quality.",
+            "sent3": "The lowpass filter acted like a gatekeeper for the bass notes.",
+            "sent4": "The lowpass was like a tunnel for the low frequencies to travel through.",
+            "sent5": "With the lowpass engaged, the subwoofer produced a rich, deep sound."
         }
     ]
 }

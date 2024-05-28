@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A person who tells lies.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The fibber claimed to have seen a unicorn in the park.",
+            "sent2": "My little brother is known as the fibber in our family.",
+            "sent3": "The fibber said he could fly if he ate enough broccoli.",
+            "sent4": "She was a master fibber, spinning tales as colorful as a rainbow.",
+            "sent5": "The fibber's nose grew longer with each lie, just like Pinocchio's."
         },
         {
             "definition": "To tell a lie.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Please don't fibber about finishing your homework.",
+            "sent2": "He tends to fibber when he's nervous.",
+            "sent3": "I caught him trying to fibber his way out of doing the dishes.",
+            "sent4": "She fibbered her way through the interview, claiming skills she didn't have.",
+            "sent5": "The politician continued to fibber about his involvement in the scandal."
         }
     ]
 }

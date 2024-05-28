@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Followed or chased after",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The dog pursued the cat down the street.",
+            "sent2": "The detective pursued the criminal through the crowded market.",
+            "sent3": "The playful puppy pursued its tail in circles.",
+            "sent4": "The wind pursued the fallen leaves, swirling them into the air.",
+            "sent5": "The determined athlete pursued victory with unwavering focus."
         },
         {
             "definition": "Engaged in or carried out",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "She was a pursued artist, always creating new masterpieces.",
+            "sent2": "The pursued project was finally completed after months of hard work.",
+            "sent3": "The pursued chef crafted a delicious meal for the guests.",
+            "sent4": "The pursued plan unfolded smoothly, much to everyone's delight.",
+            "sent5": "The pursued goal was achieved through dedication and perseverance."
         },
         {
             "definition": "Sought after or strived for",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The pursued treasure was rumored to be hidden deep in the jungle.",
+            "sent2": "She was a pursued actress, always in high demand for roles.",
+            "sent3": "The pursued opportunity finally presented itself after years of hard work.",
+            "sent4": "The pursued dream seemed closer with each passing day.",
+            "sent5": "The pursued prize gleamed enticingly, motivating the competitors."
         }
     ]
 }

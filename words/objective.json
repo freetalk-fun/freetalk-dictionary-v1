@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Not influenced by personal feelings or opinions; unbiased.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The scientist conducted an objective experiment to ensure unbiased results.",
+            "sent2": "It is important to remain objective when making important decisions.",
+            "sent3": "The objective judge made a fair ruling in the competition.",
+            "sent4": "Her objective viewpoint helped to resolve the conflict peacefully.",
+            "sent5": "The detective approached the case with an objective mindset to uncover the truth."
         },
         {
             "definition": "A goal or purpose that is not influenced by personal feelings or opinions.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "His objective is to finish the project before the deadline.",
+            "sent2": "Setting clear objectives can help you stay focused on your goals.",
+            "sent3": "The team's objective was to score the winning goal in the match.",
+            "sent4": "Her objective in life is to make a positive impact on others.",
+            "sent5": "The company's main objective is to provide excellent customer service."
         }
     ]
 }

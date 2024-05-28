@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "The absence of sound or noise.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The library was filled with peaceful silences.",
+            "sent2": "The silences of the night were interrupted by a distant howl.",
+            "sent3": "The silences in the room made everyone feel calm and relaxed.",
+            "sent4": "The silences between the notes of the music created a sense of anticipation.",
+            "sent5": "The silences in the forest were broken only by the rustling of leaves."
         },
         {
             "definition": "To make someone or something silent.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The teacher silences the class before starting the lesson.",
+            "sent2": "The loud noise outside silences the chirping birds.",
+            "sent3": "The baby's cry was quickly silenced by a gentle lullaby.",
+            "sent4": "The sudden applause silenced the speaker mid-sentence.",
+            "sent5": "The referee's whistle silences the crowd as the game begins."
         },
         {
             "definition": "To suppress or prevent from speaking.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The government tries to silence any dissenting voices.",
+            "sent2": "Fear silences the witness from speaking the truth.",
+            "sent3": "The comedian's jokes never fail to silence the audience with laughter.",
+            "sent4": "The powerful speech silenced the room, leaving everyone in awe.",
+            "sent5": "The threat of punishment silences the students from misbehaving."
         }
     ]
 }

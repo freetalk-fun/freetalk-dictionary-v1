@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To come into sight",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The sun will appear in the morning sky.",
+            "sent2": "The stars appear at night.",
+            "sent3": "The magician made a coin appear out of thin air.",
+            "sent4": "Hope can appear when you least expect it.",
+            "sent5": "The rainbow appeared after the rain, painting the sky with colors."
         },
         {
             "definition": "To seem",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She appears happy when she smiles.",
+            "sent2": "It appears that the cat wants to play.",
+            "sent3": "The cake appears to be delicious; I can't wait to taste it.",
+            "sent4": "His words appeared to be sincere, but his actions said otherwise.",
+            "sent5": "The forest appears mysterious under the moonlight, hiding secrets within."
         },
         {
             "definition": "To be published or made available",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The new book will appear in stores next week.",
+            "sent2": "The latest issue of the magazine appears on the shelves today.",
+            "sent3": "The announcement will appear on the website shortly.",
+            "sent4": "The results will appear on the screen once the test is completed.",
+            "sent5": "The movie will appear in theaters this Friday, ready to entertain the audience."
         }
     ]
 }

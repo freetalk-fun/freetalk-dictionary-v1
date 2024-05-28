@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Pulling something along forcefully or with difficulty.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She drags the heavy suitcase across the floor.",
+            "sent2": "The worker drags the trash bin to the curb every Monday.",
+            "sent3": "The cat drags its toy mouse around the house, thinking it's a real catch.",
+            "sent4": "Time drags like a heavy weight when waiting for exciting news.",
+            "sent5": "The old car drags its rusty muffler along the bumpy road."
         },
         {
             "definition": "A person or thing that is boring or annoying.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The meeting felt like a real drag with all the long speeches.",
+            "sent2": "He always complains about his job, calling it a drag.",
+            "sent3": "The rainy weather turned the picnic into a drag as everyone huddled under umbrellas.",
+            "sent4": "The broken record player was a real drag at the party, ruining the music.",
+            "sent5": "The slow internet speed is such a drag when trying to watch videos."
         },
         {
             "definition": "A slow, tedious journey or task.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The hike up the mountain was a real drag for the tired hikers.",
+            "sent2": "Cleaning out the garage turned into a long drag with all the clutter.",
+            "sent3": "The snail race was a funny drag as the slowest snail won unexpectedly.",
+            "sent4": "Life can sometimes feel like a drag, but there are always bright moments.",
+            "sent5": "The endless paperwork at the office made the day a real drag for the employees."
         }
     ]
 }

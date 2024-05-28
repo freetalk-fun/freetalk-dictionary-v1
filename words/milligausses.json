@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "One thousandth of a gauss.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The magnet had a measurement of milligausses on the scale.",
+            "sent2": "The scientist measured the magnetic field in milligausses.",
+            "sent3": "The tiny magnet only registered a few milligausses, much to the amusement of the researchers.",
+            "sent4": "The milligausses of magnetic force in the room made the compasses spin wildly.",
+            "sent5": "The milligausses were so low that the compass barely moved, showing the weak magnetic field."
         },
         {
             "definition": "A unit of magnetic flux density equal to one thousandth of a gauss.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The device measured the magnetic field in milligausses accurately.",
+            "sent2": "The milligausses reading indicated a weak magnetic field in the area.",
+            "sent3": "The machine beeped loudly when it reached the milligausses level, causing a moment of amusement in the lab.",
+            "sent4": "The milligausses of magnetic energy in the room felt almost palpable, like a gentle breeze.",
+            "sent5": "The milligausses were so low that even the most sensitive equipment struggled to detect them."
         }
     ]
 }

@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Past tense of tell.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Yesterday, she told me a story.",
+            "sent2": "He told his friends about the exciting adventure.",
+            "sent3": "The cat told the dog a secret, but the dog didn't understand.",
+            "sent4": "The wind told the leaves to dance in the air.",
+            "sent5": "Grandma's tales always told of magical lands and brave heroes."
         },
         {
             "definition": "Informed.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "She was told about the surprise party.",
+            "sent2": "The students were told about the upcoming test.",
+            "sent3": "The cat looked very told after hearing the news.",
+            "sent4": "The stars in the sky looked like they were told of the mysteries of the universe.",
+            "sent5": "The old book had a told look, as if it held many stories within its pages."
         },
         {
             "definition": "Narrated.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The teacher told the class a funny story.",
+            "sent2": "He told the legend of the lost city to the children.",
+            "sent3": "The parrot told a joke, making everyone laugh.",
+            "sent4": "The river told a tale of its journey from the mountains.",
+            "sent5": "The ancient scroll told of a prophecy that foretold great change."
         }
     ]
 }

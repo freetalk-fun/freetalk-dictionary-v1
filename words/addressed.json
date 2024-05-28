@@ -3,19 +3,39 @@
     "meanings": [
         {
             "definition": "To speak to or write to (someone)",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I addressed my friend in a letter.",
+            "sent2": "She addressed the audience during the speech.",
+            "sent3": "The cat addressed the mouse in a playful manner.",
+            "sent4": "The teacher addressed the class with authority.",
+            "sent5": "He addressed the issue directly and clearly."
         },
         {
             "definition": "To deal with or discuss (a matter)",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "We need to address the problem as a team.",
+            "sent2": "The committee will address the issue at the meeting.",
+            "sent3": "Let's address the elephant in the room.",
+            "sent4": "She addressed the difficult topic with grace.",
+            "sent5": "They addressed the concerns raised by the community."
         },
         {
             "definition": "To direct one's efforts or attention towards (a problem)",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He addressed the challenge with determination.",
+            "sent2": "The team addressed the issue promptly.",
+            "sent3": "She addressed the puzzle with curiosity.",
+            "sent4": "They addressed the task with focus and dedication.",
+            "sent5": "The scientist addressed the research question meticulously."
         },
         {
             "definition": "To give a name or title to (a letter or package) for delivery",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I addressed the envelope with my friend's name.",
+            "sent2": "She addressed the package to the recipient.",
+            "sent3": "The child addressed the letter to Santa Claus.",
+            "sent4": "He addressed the parcel with care.",
+            "sent5": "They addressed the postcard to their grandparents."
         }
     ]
 }

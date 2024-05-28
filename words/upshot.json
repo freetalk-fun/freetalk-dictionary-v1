@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "The final result or outcome.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The upshot of the experiment was success.",
+            "sent2": "The upshot of the game was a tie.",
+            "sent3": "The upshot of eating too much cake was a stomachache.",
+            "sent4": "The upshot of her hard work was a promotion.",
+            "sent5": "The upshot of the storm was a rainbow in the sky."
         },
         {
             "definition": "The conclusion or consequence.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The upshot of the argument was an apology.",
+            "sent2": "The upshot of skipping class was detention.",
+            "sent3": "The upshot of forgetting her birthday was a disappointed friend.",
+            "sent4": "The upshot of his lie was losing trust.",
+            "sent5": "The upshot of the movie was a standing ovation."
         },
         {
             "definition": "The end result.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The upshot of the project was a beautiful presentation.",
+            "sent2": "The upshot of the journey was a breathtaking view.",
+            "sent3": "The upshot of the recipe was a delicious meal.",
+            "sent4": "The upshot of the race was a new personal record.",
+            "sent5": "The upshot of the concert was an encore performance."
         }
     ]
 }

@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To offer a certain amount of money for something at an auction.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I will bid $10 for the painting.",
+            "sent2": "She decided to bid on the antique vase.",
+            "sent3": "The auctioneer joked that I should bid my weight in gold.",
+            "sent4": "In the intense bidding war, she bid with determination.",
+            "sent5": "His final bid echoed through the silent room."
         },
         {
             "definition": "To command or request someone to do something.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The coach bid the team to give their best effort.",
+            "sent2": "He bid his dog to sit before giving it a treat.",
+            "sent3": "She playfully bid her friend to dance like a chicken.",
+            "sent4": "The king bid his subjects to attend the royal banquet.",
+            "sent5": "The teacher bid the students to open their textbooks."
         },
         {
             "definition": "An attempt or effort to achieve something.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "His bid to climb the mountain was successful.",
+            "sent2": "The company made a bid to win the contract.",
+            "sent3": "The squirrel's bid to steal the birdseed ended in failure.",
+            "sent4": "Her bid for a promotion was met with praise from her boss.",
+            "sent5": "The child's bid to build a sandcastle was filled with determination."
         }
     ]
 }

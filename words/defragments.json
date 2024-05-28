@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To remove fragments from (a computer file or disk) in order to improve performance.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She defragments her computer regularly to make it run faster.",
+            "sent2": "The IT technician defragments the hard drive to optimize its speed.",
+            "sent3": "After the defragmentation, her computer felt like it had a good spring cleaning.",
+            "sent4": "Defragmenting the files was like putting together a jigsaw puzzle for the computer.",
+            "sent5": "The software defragments the data, making everything neat and tidy."
         },
         {
             "definition": "The process of rearranging fragmented data on a disk to improve efficiency.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The defragmentation of the disk was necessary to boost its performance.",
+            "sent2": "He learned about defragments in his computer science class.",
+            "sent3": "The defragments on the disk were like puzzle pieces waiting to be put together.",
+            "sent4": "The defragmentation process was like organizing a messy room.",
+            "sent5": "The technician explained the benefits of defragments for the computer's speed."
         }
     ]
 }

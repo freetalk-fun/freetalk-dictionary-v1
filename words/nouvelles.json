@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "News",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "She reads the nouvelles every morning to stay informed.",
+            "sent2": "The nouvelles about the upcoming event spread quickly through the town.",
+            "sent3": "The cat seemed interested in the nouvelles on the TV, thinking they were about mice.",
+            "sent4": "The nouvelles of her promotion brought a smile to her face.",
+            "sent5": "The teacher shared exciting nouvelles with the students about their upcoming field trip."
         },
         {
             "definition": "New",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "He bought a nouvelles shirt for the party.",
+            "sent2": "The nouvelles shoes she wore were stylish and comfortable.",
+            "sent3": "The nouvelles student in class was eager to make friends.",
+            "sent4": "The nouvelles day brought fresh opportunities for adventure.",
+            "sent5": "The nouvelles book on the shelf caught her eye with its vibrant cover."
         },
         {
             "definition": "Novel",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The artist showcased his nouvelles painting at the gallery.",
+            "sent2": "Her nouvelles approach to problem-solving impressed her colleagues.",
+            "sent3": "The nouvelles recipe she tried turned out to be a delicious disaster.",
+            "sent4": "His nouvelles idea for the project sparked creativity in the team.",
+            "sent5": "The nouvelles design of the building stood out among the traditional architecture."
         }
     ]
 }

@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "By injection",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "The medication was given parenterally to ensure quick absorption.",
+            "sent2": "The doctor administered the vaccine parenterally into the patient's arm.",
+            "sent3": "The nurse parenterally injected the flu shot, making the patient jump in surprise.",
+            "sent4": "The medicine flowed parenterally into the bloodstream like a swift river.",
+            "sent5": "The insulin was delivered parenterally, bypassing the need for digestion."
         },
         {
             "definition": "Administered through a route other than the digestive tract",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The parenteral route of medication delivery is often used for faster effects.",
+            "sent2": "The parenteral nutrition provided essential nutrients directly into the bloodstream.",
+            "sent3": "The cat received parenteral hydration, feeling like a pampered feline.",
+            "sent4": "The parenteral method of treatment took a different path to healing, avoiding the stomach.",
+            "sent5": "The parenteral injection was a direct route to health, skipping the digestive system entirely."
         }
     ]
 }

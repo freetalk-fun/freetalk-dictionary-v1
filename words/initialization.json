@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "The action of setting a variable or data structure to a starting value.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "During the initialization of the game, all player scores are set to zero.",
+            "sent2": "Software developers always ensure proper initialization of variables before using them.",
+            "sent3": "The robot's initialization went wrong, and it started speaking gibberish.",
+            "sent4": "The initialization of the project was like planting a seed for future growth.",
+            "sent5": "The teacher explained the importance of initialization using a simple analogy of planting seeds in a garden."
         },
         {
             "definition": "The process of preparing a computer program for execution.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Before running the program, the initialization step ensures all components are ready.",
+            "sent2": "Proper initialization is crucial for the smooth functioning of software applications.",
+            "sent3": "The initialization of the computer program felt like pressing a magical start button.",
+            "sent4": "The initialization process is like laying out all the ingredients before baking a cake.",
+            "sent5": "The IT specialist explained the importance of initialization by comparing it to turning on a car engine."
         }
     ]
 }

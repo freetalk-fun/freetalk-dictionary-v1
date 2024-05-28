@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A trigonometric function used in navigation to determine the great-circle distance between two points on a sphere.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Sailors rely on the haversine to calculate distances when sailing across oceans.",
+            "sent2": "The captain used the haversine to plot the shortest route between the two islands.",
+            "sent3": "The mischievous sailor tried to use the haversine to measure the distance to a hidden treasure.",
+            "sent4": "In the vast ocean, the haversine acted as a magical tool guiding the ship through unknown waters.",
+            "sent5": "The haversine function is like a secret code that unlocks the mysteries of navigation."
         },
         {
             "definition": "The value of this function for a given angle.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The haversine of 30 degrees is 0.5, indicating half the distance around the sphere.",
+            "sent2": "Navigators need to know the haversine for various angles to accurately determine distances.",
+            "sent3": "The math teacher challenged the students to calculate the haversine of different angles for homework.",
+            "sent4": "As the angle increased, the haversine values became crucial for precise navigation.",
+            "sent5": "Understanding the haversine value helps in finding the shortest path between points on a globe."
         }
     ]
 }

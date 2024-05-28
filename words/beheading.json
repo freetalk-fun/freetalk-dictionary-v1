@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "The act of cutting off someone's head.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The beheading of the criminal was a shocking event.",
+            "sent2": "The king ordered the beheading of the traitor.",
+            "sent3": "The magician's trick involved a fake beheading that amazed the audience.",
+            "sent4": "In chess, sacrificing a piece can be like a strategic beheading of the opponent's plan.",
+            "sent5": "The historical reenactment of a beheading left a lasting impression on the spectators."
         },
         {
             "definition": "To cut off someone's head.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The executioner beheading the condemned prisoner was a grim sight.",
+            "sent2": "The guillotine was used to behead the captured enemy.",
+            "sent3": "The chef joked that he would be beheading the vegetables for the stew.",
+            "sent4": "The company decided to behead the project due to budget constraints.",
+            "sent5": "The samurai's swift strike beheading his opponent demonstrated his skill in combat."
         }
     ]
 }

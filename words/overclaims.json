@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Asserts too much or without sufficient evidence.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He always overclaims his abilities, but then struggles to deliver.",
+            "sent2": "She overclaims her achievements to impress others.",
+            "sent3": "The cat overclaims its hunting skills by chasing butterflies.",
+            "sent4": "The politician overclaims his popularity to win votes.",
+            "sent5": "The student overclaims his knowledge, but fails the test."
         },
         {
             "definition": "Makes excessive or exaggerated claims.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The advertisement was overclaims, promising unrealistic results.",
+            "sent2": "She was known for her overclaims stories that entertained everyone.",
+            "sent3": "The overclaims weather forecast predicted a snowstorm in summer.",
+            "sent4": "His overclaims resume made him seem like a superhero.",
+            "sent5": "The overclaims product description made it sound too good to be true."
         },
         {
             "definition": "To claim more than is justified or reasonable.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He tends to overclaims credit for group projects.",
+            "sent2": "She overclaims ownership of items that are not hers.",
+            "sent3": "The comedian overclaims jokes from other comedians.",
+            "sent4": "The company overclaims success without acknowledging its failures.",
+            "sent5": "The child overclaims toys, causing disputes with siblings."
         }
     ]
 }

@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Unable to fly.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The penguin is a flightless bird.",
+            "sent2": "The ostrich is a large flightless bird.",
+            "sent3": "The flightless chicken tried to jump and reach the sky.",
+            "sent4": "The flightless kite struggled to soar in the wind.",
+            "sent5": "The flightless duck waddled on the ground, dreaming of the sky."
         },
         {
             "definition": "A bird that cannot fly.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The kiwi is a small flightless bird.",
+            "sent2": "The emu is a fast flightless bird.",
+            "sent3": "The flightless penguin joked about taking flying lessons.",
+            "sent4": "The flightless ostrich stood tall, a symbol of grounded freedom.",
+            "sent5": "The flightless dodo became a legend of extinction, unable to escape danger."
         }
     ]
 }

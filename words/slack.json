@@ -3,19 +3,39 @@
     "meanings": [
         {
             "definition": "Not taut or held tightly in position",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The rope was slack, causing the flag to droop.",
+            "sent2": "The loose pants felt comfortable with their slack fit.",
+            "sent3": "The slack leash allowed the dog to wander off on its own.",
+            "sent4": "Her attention to detail was slack, leading to mistakes in her work.",
+            "sent5": "The slack grip on the steering wheel made driving feel unsafe."
         },
         {
             "definition": "A period of time when work is not done or when rules are not followed",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "During the lunch break, there was a slack in productivity.",
+            "sent2": "The teacher noticed a slack in attendance after the holiday.",
+            "sent3": "The team took advantage of the slack to relax and recharge.",
+            "sent4": "The slack in regulations allowed for some creative problem-solving.",
+            "sent5": "The slack in the schedule gave them extra time to prepare."
         },
         {
             "definition": "To be lazy or negligent",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He tends to slack off when the boss is not around.",
+            "sent2": "Don't slack on your responsibilities; they are important.",
+            "sent3": "She decided to slack for a bit before getting back to work.",
+            "sent4": "The students chose to slack instead of studying for the test.",
+            "sent5": "It's easy to slack when no one is watching, but it's not productive."
         },
         {
             "definition": "To reduce in activity or speed",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The company had to slack production due to the supply chain issues.",
+            "sent2": "As the day progressed, the wind began to slack.",
+            "sent3": "The storm started to slack, giving way to clear skies.",
+            "sent4": "The traffic seemed to slack as they approached the outskirts of town.",
+            "sent5": "The music gradually began to slack, signaling the end of the performance."
         }
     ]
 }

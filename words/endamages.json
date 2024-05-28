@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To cause harm or damage to.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Running in the hallway can endamages the floor.",
+            "sent2": "Be careful not to endamages the fragile vase.",
+            "sent3": "Accidentally stepping on a banana peel can endamages your reputation.",
+            "sent4": "His careless words endamages her feelings like a sharp knife.",
+            "sent5": "The storm's strong winds endamages the roof of the house."
         },
         {
             "definition": "Harm or damage caused.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The endamages to the car were extensive after the accident.",
+            "sent2": "The flood left behind a trail of endamages to the crops.",
+            "sent3": "The endamages to the painting were so severe that it had to be restored.",
+            "sent4": "The endamages from the fire were visible on the charred walls.",
+            "sent5": "The earthquake's endamages to the city were heartbreaking to witness."
         }
     ]
 }

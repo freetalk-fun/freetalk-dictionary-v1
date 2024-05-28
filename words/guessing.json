@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Estimate or suppose (something) without sufficient information to be sure of being correct.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I am just guessing, but I think the answer is seven.",
+            "sent2": "She was guessing the number of jellybeans in the jar at the fair.",
+            "sent3": "The magician was guessing which card I picked, but he got it wrong!",
+            "sent4": "Her intuition was like a magic wand, guessing the right path to take.",
+            "sent5": "The detective was guessing the suspect's alibi, trying to solve the case."
         },
         {
             "definition": "An act of estimating or supposing something without sufficient information to be sure of being correct.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "His guessing led him to the wrong conclusion about the mystery.",
+            "sent2": "The game show involved a lot of guessing to win prizes.",
+            "sent3": "The teacher's guessing of the student's age was way off!",
+            "sent4": "The scientist's guessing about the experiment's outcome was surprisingly accurate.",
+            "sent5": "The child's guessing of the number of candies in the jar was close to the actual count."
         }
     ]
 }

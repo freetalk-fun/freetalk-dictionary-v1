@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To convert a variable of a lower data type to a higher data type.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She was upcasting the integer to a double for more precision.",
+            "sent2": "In programming, upcasting is essential for avoiding data loss.",
+            "sent3": "The computer tried upcasting a small number to a larger one, but it got confused!",
+            "sent4": "Upcasting is like turning a small cup into a big bucket in the digital world.",
+            "sent5": "Imagine upcasting as upgrading your data type to a deluxe version."
         },
         {
             "definition": "The act of casting an object to a superclass type.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The upcasting of the object allowed it to access superclass methods.",
+            "sent2": "Developers often use upcasting to treat objects more generically.",
+            "sent3": "During the play, the toy characters joked about upcasting to become superheroes.",
+            "sent4": "Upcasting is like giving a toy car the powers of a superhero figurine.",
+            "sent5": "The concept of upcasting can make your programming skills soar to new heights."
         }
     ]
 }

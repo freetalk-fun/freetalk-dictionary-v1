@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "The result of encryption performed on plaintext using an algorithm.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The ciphertext kept the message safe from hackers.",
+            "sent2": "The spy transmitted the ciphertext to headquarters for decoding.",
+            "sent3": "The detective found a ciphertext hidden in the old book.",
+            "sent4": "Her smile was like a ciphertext, revealing nothing of her true feelings.",
+            "sent5": "The ciphertext glowed on the screen, a jumble of letters and numbers."
         },
         {
             "definition": "A secret or disguised way of writing or communicating.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The ancient scroll contained a mysterious ciphertext.",
+            "sent2": "The treasure map was written in a complex ciphertext to protect its location.",
+            "sent3": "The students created a fun ciphertext for their secret club messages.",
+            "sent4": "His eyes held a hidden ciphertext, betraying his true intentions.",
+            "sent5": "The magician's spellbook was filled with strange ciphertexts and symbols."
         }
     ]
 }

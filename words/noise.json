@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A sound, especially one that is loud, unpleasant, or disturbing.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The noise of the thunder scared the little dog.",
+            "sent2": "The noise of the traffic outside woke me up early.",
+            "sent3": "The noise of the squeaky toy made the puppy jump with excitement.",
+            "sent4": "The noise of the alarm clock shattered the peaceful morning.",
+            "sent5": "The noise of the fireworks filled the night sky with color and sound."
         },
         {
             "definition": "A disturbance or interference that interrupts a signal or communication.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The static noise on the radio made it hard to hear the music.",
+            "sent2": "The noise on the phone call made it difficult to understand the conversation.",
+            "sent3": "The noise on the baby monitor accidentally woke up the sleeping parents.",
+            "sent4": "The noise on the TV screen distorted the image on the news report.",
+            "sent5": "The noise on the walkie-talkie disrupted the important message from being received."
         },
         {
             "definition": "Irrelevant or meaningless information.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The noise in the background of the meeting made it hard to focus on the speaker.",
+            "sent2": "The noise in the email thread was confusing and unnecessary.",
+            "sent3": "The noise in the textbook made it challenging to find the key information.",
+            "sent4": "The noise in the report distracted from the main points being discussed.",
+            "sent5": "The noise in the conversation led to misunderstandings and confusion among the group."
         }
     ]
 }

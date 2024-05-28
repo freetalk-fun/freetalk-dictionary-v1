@@ -3,19 +3,39 @@
     "meanings": [
         {
             "definition": "past tense of lead",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Yesterday, she led the group in the dance performance.",
+            "sent2": "The teacher led the students on a nature walk.",
+            "sent3": "The cat led the way to its favorite napping spot.",
+            "sent4": "His passion for music led him to start a band.",
+            "sent5": "The bright flashlight led us through the dark cave."
         },
         {
             "definition": "guided or directed",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The led tour took us to all the famous landmarks.",
+            "sent2": "She followed the led path through the forest.",
+            "sent3": "The led arrows pointed towards the exit.",
+            "sent4": "The led missile hit the target with precision.",
+            "sent5": "The led light illuminated the room."
         },
         {
             "definition": "served as a leader for",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He led the team to victory in the championship.",
+            "sent2": "The captain led the crew through the storm.",
+            "sent3": "The dog led the pack during the race.",
+            "sent4": "She led the discussion on environmental issues.",
+            "sent5": "The king led his people with wisdom and courage."
         },
         {
             "definition": "conducted or showed the way",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The tour guide led us through the historical museum.",
+            "sent2": "The map led them to the hidden treasure.",
+            "sent3": "The stars led the lost travelers back home.",
+            "sent4": "The compass led the hikers out of the forest.",
+            "sent5": "The lighthouse led ships safely to shore."
         }
     ]
 }

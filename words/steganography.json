@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "The practice of concealing messages or information within other non-secret text or data.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "In steganography, secret messages are hidden within plain text.",
+            "sent2": "Steganography is used to hide information in digital images.",
+            "sent3": "The detective chuckled at the clever steganography used by the spy.",
+            "sent4": "Her smile was a steganography of her true feelings, hidden behind a mask of happiness.",
+            "sent5": "The concept of steganography is like a secret code, invisible to the untrained eye."
         },
         {
             "definition": "The art or practice of concealing a message, image, or file within another message, image, or file.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Artists use steganography to embed hidden images within their paintings.",
+            "sent2": "The steganography in digital photography allows for hidden data to be stored in images.",
+            "sent3": "The magician's trick was like a playful steganography, where the real object was hidden in plain sight.",
+            "sent4": "The layers of her personality were a steganography waiting to be uncovered by those who truly knew her.",
+            "sent5": "The beauty of steganography lies in its ability to hide something in plain view, like a secret within a puzzle."
         }
     ]
 }

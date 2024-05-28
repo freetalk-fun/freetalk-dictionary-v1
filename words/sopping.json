@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Completely wet; soaked through.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "After playing in the rain, my clothes were sopping.",
+            "sent2": "The sponge was sopping with water after cleaning up the spill.",
+            "sent3": "The dog came inside sopping wet from jumping in the pool.",
+            "sent4": "The fields were sopping with rain, making it impossible to work.",
+            "sent5": "She wrung out the sopping towel, releasing a stream of water."
         },
         {
             "definition": "To soak or drench with liquid.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I sopped the bread in the soup until it was sopping.",
+            "sent2": "The heavy rain sopped the ground, causing flooding.",
+            "sent3": "He sopped his pancakes in syrup until they were sopping.",
+            "sent4": "The river sopped the banks, leading to a mudslide.",
+            "sent5": "She sopped her hair with conditioner, leaving it sopping with moisture."
         },
         {
             "definition": "To be soaked with liquid.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The cloth sopped up the spilled milk until it was sopping.",
+            "sent2": "The sponge sopped up the water quickly, leaving the counter dry.",
+            "sent3": "The rain sopped the ground, making it sopping wet.",
+            "sent4": "The towel sopped up the spilled juice, leaving the table clean.",
+            "sent5": "The mop sopped up the spilled soda, leaving the floor sopping."
         }
     ]
 }

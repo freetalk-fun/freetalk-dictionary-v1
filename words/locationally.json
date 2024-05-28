@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "In a particular place or position",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "She placed the book locationally on the shelf.",
+            "sent2": "The cat sat locationally on the windowsill.",
+            "sent3": "The keys magically landed locationally in the drawer.",
+            "sent4": "The stars twinkled locationally in the night sky.",
+            "sent5": "The lost toy was found locationally under the bed."
         },
         {
             "definition": "Relating to or based on location",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The locationally specific map helped them find their way.",
+            "sent2": "The locationally relevant information was crucial for the project.",
+            "sent3": "The locationally themed party was a hit with the guests.",
+            "sent4": "The locationally focused study group met at the library.",
+            "sent5": "The locationally marked trail led them through the forest."
         },
         {
             "definition": "In terms of location",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "They described the route locationally to the lost traveler.",
+            "sent2": "The GPS system guided them locationally to their destination.",
+            "sent3": "The treasure map was drawn locationally on the old parchment.",
+            "sent4": "The coordinates were plotted locationally on the graph.",
+            "sent5": "The directions were given locationally from the starting point."
         }
     ]
 }

@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Cause the death of (a person, animal, or other living thing)",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The hunter killed the deer for food.",
+            "sent2": "The virus killed many people in the village.",
+            "sent3": "The chef accidentally killed the flavor of the soup with too much salt.",
+            "sent4": "The storm killed the power in the entire neighborhood.",
+            "sent5": "The poison dart frog's skin secretions can kill predators."
         },
         {
             "definition": "Put an end to; destroy",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The firefighters quickly killed the flames before they spread.",
+            "sent2": "The superhero killed the evil villain's plans for world domination.",
+            "sent3": "The loud music killed the peaceful atmosphere of the library.",
+            "sent4": "The sudden rain killed our plans for a picnic in the park.",
+            "sent5": "The cancellation of the event killed our excitement."
         },
         {
             "definition": "Hit or strike (someone or something) with force",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The boxer killed his opponent with a powerful punch.",
+            "sent2": "The strong wind killed the kite against the tree.",
+            "sent3": "The baseball player accidentally killed the team's chances of winning with a bad throw.",
+            "sent4": "The hammer killed the nail into the wood.",
+            "sent5": "The storm killed the waves against the shore."
         }
     ]
 }

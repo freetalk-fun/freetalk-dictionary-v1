@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To reduce in quantity or exhaust",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The constant use of water was depleting the well.",
+            "sent2": "The company's resources were depleting rapidly due to poor management.",
+            "sent3": "The marathon runner joked that he was depleting the snack supply at the finish line.",
+            "sent4": "Her energy was depleting like a sinking ship taking on water.",
+            "sent5": "The wildfire was depleting the forest, leaving behind a barren landscape."
         },
         {
             "definition": "Becoming less in amount or size",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The depleting sunlight signaled the end of the day.",
+            "sent2": "The depleting funds forced the family to cut back on expenses.",
+            "sent3": "The depleting ice cream cone made the child pout.",
+            "sent4": "Her depleting patience was like a deflating balloon.",
+            "sent5": "The depleting crowd at the concert made the venue feel empty."
         }
     ]
 }

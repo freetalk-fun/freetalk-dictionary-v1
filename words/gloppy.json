@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Covered in a thick, sticky substance",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The gloppy mud stuck to my shoes.",
+            "sent2": "Her hands were gloppy after playing with the slime.",
+            "sent3": "The gloppy paint dripped down the canvas in a messy swirl.",
+            "sent4": "The gloppy syrup oozed slowly over the pancakes.",
+            "sent5": "The gloppy glue made it hard to separate the papers."
         },
         {
             "definition": "A thick, sticky substance",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "He accidentally stepped in a puddle of gloppy.",
+            "sent2": "The chef added a dollop of gloppy to the stew.",
+            "sent3": "The kids giggled as they played with the gloppy slime.",
+            "sent4": "The gloppy mess on the floor was a nightmare to clean up.",
+            "sent5": "The jar contained a mysterious gloppy substance."
         },
         {
             "definition": "To make something thick and sticky",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She gloppied the mixture by adding too much flour.",
+            "sent2": "The recipe calls for gloppying the sauce with cornstarch.",
+            "sent3": "He gloppied the sandwich with an excessive amount of mayo.",
+            "sent4": "The rain gloppied the dirt into a muddy mess.",
+            "sent5": "The artist gloppied the paint onto the canvas for a textured effect."
         }
     ]
 }

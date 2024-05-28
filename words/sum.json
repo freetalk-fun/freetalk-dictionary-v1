@@ -3,19 +3,39 @@
     "meanings": [
         {
             "definition": "The total amount resulting from the addition of two or more numbers.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The sum of 5 and 3 is 8.",
+            "sent2": "She calculated the sum of all the apples in the basket.",
+            "sent3": "The sum of candies in the jar was so big, it looked like a mountain.",
+            "sent4": "His kindness added up to a sum of joy in everyone's hearts.",
+            "sent5": "The sum of stars in the sky was breathtaking."
         },
         {
             "definition": "A particular amount of money.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "He won a large sum in the lottery.",
+            "sent2": "The sum required for the new car was too high.",
+            "sent3": "The sum he spent on ice cream was enough to buy a small toy.",
+            "sent4": "Her savings added up to a sum that made her smile.",
+            "sent5": "The sum he donated to charity made a big difference."
         },
         {
             "definition": "To calculate the total of two or more numbers.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She needs to sum the prices of all the items in the list.",
+            "sent2": "I will sum the scores of the students to find the average.",
+            "sent3": "He tried to sum the numbers in his head but got confused.",
+            "sent4": "The teacher asked the students to sum the fractions for homework.",
+            "sent5": "Can you sum the total distance we have traveled so far?"
         },
         {
             "definition": "To be the total amount of something.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The expenses sum to a large amount at the end of the month.",
+            "sent2": "His hard work will sum to success in the long run.",
+            "sent3": "The laughter in the room seemed to sum to a joyful atmosphere.",
+            "sent4": "Her dedication will sum to a successful career.",
+            "sent5": "The love and care they showed will sum to a happy family."
         }
     ]
 }

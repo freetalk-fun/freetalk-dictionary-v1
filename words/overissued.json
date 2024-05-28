@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Issue too much of (something)",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The company overissued stocks, causing a drop in their value.",
+            "sent2": "She accidentally overissued the invitations for the party.",
+            "sent3": "The teacher overissued homework, making the students groan.",
+            "sent4": "His generosity overissued goodwill among his colleagues.",
+            "sent5": "The chef overissued salt in the soup, making it too salty to eat."
         },
         {
             "definition": "Excessive issuance of (something)",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The overissued currency led to inflation in the economy.",
+            "sent2": "The overissued tickets caused chaos at the event entrance.",
+            "sent3": "The overissued coupons resulted in a rush of customers to the store.",
+            "sent4": "The overissued permits flooded the market with new vendors.",
+            "sent5": "The overissued certificates devalued the original ones in circulation."
         }
     ]
 }

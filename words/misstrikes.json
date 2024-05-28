@@ -2,12 +2,22 @@
     "term": "misstrikes",
     "meanings": [
         {
-            "definition": "Misstrikes (verb): to make a mistake in striking or hitting something.",
-            "pos": "verb"
+            "definition": "to make a mistake in striking or hitting something.",
+            "pos": "verb",
+            "sent1": "She misstrikes the nail and hits her thumb instead.",
+            "sent2": "He often misstrikes the ball during baseball practice.",
+            "sent3": "The robot misstrikes the target and hits the wall instead.",
+            "sent4": "The archer misstrikes the bullseye, landing the arrow just outside the target.",
+            "sent5": "The chef misstrikes the cutting board, chopping off a small piece of finger."
         },
         {
-            "definition": "Misstrikes (noun): plural form of misstrike, referring to errors in striking or hitting.",
-            "pos": "noun"
+            "definition": "plural form of misstrike, referring to errors in striking or hitting.",
+            "pos": "noun",
+            "sent1": "The misstrikes on the metal surface were visible under the bright light.",
+            "sent2": "The artist carefully corrected the misstrikes on the canvas before showcasing the painting.",
+            "sent3": "The misstrikes in the dance routine added a comedic element to the performance.",
+            "sent4": "Her speech was full of misstrikes, but the audience found it endearing.",
+            "sent5": "The misstrikes in the musical composition created a unique sound that captivated listeners."
         }
     ]
 }

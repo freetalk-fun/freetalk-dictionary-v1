@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To extract the original information from a modulated carrier wave.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I am demodulating the radio signal to hear the music clearly.",
+            "sent2": "The technician is demodulating the transmission to retrieve the data.",
+            "sent3": "The demodulating process revealed the hidden message in the broadcast.",
+            "sent4": "She skillfully demodulated the encrypted communication.",
+            "sent5": "Demodulating the audio improved the sound quality significantly."
         },
         {
             "definition": "The process of removing modulation from a signal.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The demodulating of the signal was necessary for accurate analysis.",
+            "sent2": "His job involves the demodulating of various types of signals.",
+            "sent3": "The demodulating equipment malfunctioned, causing a disruption in the transmission.",
+            "sent4": "The demodulating process stripped away the unnecessary interference.",
+            "sent5": "The demodulating device efficiently cleaned up the signal for better reception."
         }
     ]
 }

@@ -3,23 +3,48 @@
     "meanings": [
         {
             "definition": "Moving in one side and out of the other side of (an opening, channel, or location).",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The ball went through the hoop.",
+            "sent2": "The train passed through the tunnel.",
+            "sent3": "The cat tried to walk through the closed door.",
+            "sent4": "Her words pierced through his heart.",
+            "sent5": "The sunlight filtered through the trees, creating a beautiful pattern on the ground."
         },
         {
             "definition": "Finished; completed.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The project is through, and we can relax now.",
+            "sent2": "After the exam, I felt relieved that it was through.",
+            "sent3": "The cake was through, and everyone enjoyed it.",
+            "sent4": "The book reached its through stage, ready for publishing.",
+            "sent5": "The marathon runner was exhausted but happy to be through with the race."
         },
         {
             "definition": "By means of; using.",
-            "pos": "preposition"
+            "pos": "preposition",
+            "sent1": "She communicated through sign language.",
+            "sent2": "He solved the puzzle through logical reasoning.",
+            "sent3": "The friends planned their trip through text messages.",
+            "sent4": "They navigated through the forest using a map.",
+            "sent5": "The message was conveyed through a series of gestures."
         },
         {
             "definition": "From beginning to end.",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "She read the book through in one sitting.",
+            "sent2": "The movie kept us entertained through.",
+            "sent3": "He sang the song through without missing a beat.",
+            "sent4": "The journey was tough, but they persevered through.",
+            "sent5": "The storm raged through the night, keeping everyone awake."
         },
         {
             "definition": "Into and out of.",
-            "pos": "preposition"
+            "pos": "preposition",
+            "sent1": "The cat darted through the door and into the garden.",
+            "sent2": "The river flowed through the valley and out to the sea.",
+            "sent3": "She passed through the crowd and out of sight.",
+            "sent4": "The car drove through the tunnel and out into the sunlight.",
+            "sent5": "The bird flew through the window and back into the open sky."
         }
     ]
 }

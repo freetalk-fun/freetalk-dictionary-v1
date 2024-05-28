@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A musical instrument consisting of a flat wooden sound box with numerous strings stretched across it, placed horizontally and played with the fingers and a plectrum.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "She learned to play the zither beautifully at her music class.",
+            "sent2": "The musician strummed the zither gently, creating a soothing melody.",
+            "sent3": "During the concert, the zither decided to play a solo, surprising everyone.",
+            "sent4": "The zither's strings hummed like a chorus of tiny birds in the forest.",
+            "sent5": "The sound of the zither echoed through the room, enchanting all who listened."
         },
         {
             "definition": "To play a zither.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He would zither away in the evenings, lost in the music.",
+            "sent2": "They zithered together, creating harmonious tunes under the starlit sky.",
+            "sent3": "The cat tried to zither with the strings of the curtains, much to the amusement of the family.",
+            "sent4": "Her fingers zithered across the keys of the piano, producing a beautiful melody.",
+            "sent5": "The wind seemed to zither through the leaves, mimicking the sound of the instrument."
         }
     ]
 }

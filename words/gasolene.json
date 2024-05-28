@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A volatile flammable liquid obtained by distillation of petroleum and used as fuel in internal combustion engines.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The car's engine ran smoothly thanks to the gasolene in the tank.",
+            "sent2": "I need to fill up the tank with gasolene before we go on a road trip.",
+            "sent3": "The gasolene spilled on the ground, creating a rainbow-like sheen.",
+            "sent4": "Her determination burned like gasolene, propelling her towards her goals.",
+            "sent5": "The gasolene smell lingered in the air, reminding me of long drives with my family."
         },
         {
             "definition": "To fuel with gasolene.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I will gasolene the lawnmower before starting it.",
+            "sent2": "The mechanic gasolenes the car to ensure it runs efficiently.",
+            "sent3": "He accidentally gasolened the generator instead of the lawnmower, causing a small explosion.",
+            "sent4": "Her words gasolened his determination to prove her wrong.",
+            "sent5": "The coach's pep talk gasolened the team's motivation to win the game."
         }
     ]
 }

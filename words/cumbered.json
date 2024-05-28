@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Burdened or hindered by something",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The tired traveler felt cumbered by his heavy backpack.",
+            "sent2": "The cumbered student struggled to carry all his books home.",
+            "sent3": "The cumbered ant tried to lift a leaf bigger than itself.",
+            "sent4": "Her heart felt cumbered with sorrow after the loss of her pet.",
+            "sent5": "The cumbered branches of the tree sagged under the weight of snow."
         },
         {
             "definition": "Cluttered or filled with unnecessary items",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The cumbered desk was covered in papers and pens.",
+            "sent2": "Her room looked cumbered with toys scattered everywhere.",
+            "sent3": "The cumbered closet overflowed with old clothes and shoes.",
+            "sent4": "The cumbered kitchen counter was cluttered with appliances.",
+            "sent5": "The cumbered garage was filled with boxes and tools."
         },
         {
             "definition": "To obstruct or hinder progress",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The fallen tree cumbered the path, blocking their way.",
+            "sent2": "The heavy rain cumbered their journey to the top of the hill.",
+            "sent3": "The slow traffic cumbered their drive to the airport.",
+            "sent4": "His fear cumbered his ability to speak in front of the crowd.",
+            "sent5": "The thick fog cumbered their visibility on the road."
         }
     ]
 }

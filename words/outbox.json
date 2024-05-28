@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A box or tray in which outgoing mail is placed.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I put my letter in the outbox at the post office.",
+            "sent2": "The outbox on my desk is full of envelopes.",
+            "sent3": "The outbox was so full, it looked like a colorful stack of papers.",
+            "sent4": "Her outbox overflowed with letters, like a waterfall of mail.",
+            "sent5": "The outbox, a container for outgoing mail, sat by the door."
         },
         {
             "definition": "The collection of messages waiting to be sent in an email program.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I checked my outbox to see if my emails were ready to send.",
+            "sent2": "The outbox in my email app shows all my unsent messages.",
+            "sent3": "His outbox was like a digital queue of messages waiting for their turn.",
+            "sent4": "The outbox was a virtual holding area for messages, like a digital mailbox.",
+            "sent5": "In the outbox, emails patiently waited to be sent."
         },
         {
             "definition": "To move a message from the outbox to the sent folder.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I outbox my emails once I'm sure they're ready to go.",
+            "sent2": "Remember to outbox your messages after composing them.",
+            "sent3": "She outboxes her emails with a sense of accomplishment.",
+            "sent4": "He outboxes his messages swiftly, like a digital courier.",
+            "sent5": "Outboxing emails is a crucial step before they are officially sent."
         }
     ]
 }

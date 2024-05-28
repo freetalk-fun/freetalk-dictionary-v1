@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Used to identify a specific person or thing close at hand or being indicated or experienced.",
-            "pos": "pronoun"
+            "pos": "pronoun",
+            "sent1": "I need to find this book for my homework.",
+            "sent2": "Can you pass me this pen, please?",
+            "sent3": "I can't believe I forgot this important document at home!",
+            "sent4": "Her smile was as bright as this sunny day.",
+            "sent5": "The sound of this thunderstorm is both frightening and exciting."
         },
         {
             "definition": "Referring to the current situation or thing just mentioned.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "I am interested in this topic for my research paper.",
+            "sent2": "The teacher explained this concept in detail.",
+            "sent3": "The cake was delicious, but this icing was too sweet.",
+            "sent4": "His words had a weight as heavy as this responsibility.",
+            "sent5": "The colors of this painting are vibrant and captivating."
         },
         {
             "definition": "Used to introduce a topic or subject.",
-            "pos": "conjunction"
+            "pos": "conjunction",
+            "sent1": "Let's discuss this issue further in our next meeting.",
+            "sent2": "This problem requires immediate attention.",
+            "sent3": "I wanted to go for a walk, but this rain ruined my plans.",
+            "sent4": "The tension in the room was as thick as this fog.",
+            "sent5": "The excitement in her voice was as contagious as this laughter."
         }
     ]
 }

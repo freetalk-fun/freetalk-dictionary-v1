@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "The lower surface of a room on which one may walk.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The floor in my bedroom is made of wood.",
+            "sent2": "Please sweep the floor before the guests arrive.",
+            "sent3": "I accidentally dropped my phone on the floor again!",
+            "sent4": "Her smile lit up the room, making it feel like the floor was glowing.",
+            "sent5": "The floor creaked under the weight of the heavy furniture."
         },
         {
             "definition": "A level area or space used for a specific purpose, such as dancing or sports.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The dance floor was crowded with people enjoying the music.",
+            "sent2": "The basketball court has a shiny wooden floor.",
+            "sent3": "I tripped on the floor during my dance performance!",
+            "sent4": "The soccer field was a battlefield, each player fighting for control of the floor.",
+            "sent5": "The gym floor echoed with the sound of sneakers squeaking."
         },
         {
             "definition": "To cover or furnish with a floor.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "We need to floor the living room with new carpet.",
+            "sent2": "The workers will floor the stage with black tiles for the concert.",
+            "sent3": "I accidentally floored the hallway with too much paint!",
+            "sent4": "Her kindness floored me, leaving me speechless.",
+            "sent5": "The team decided to floor the entire office with a sleek, modern design."
         }
     ]
 }

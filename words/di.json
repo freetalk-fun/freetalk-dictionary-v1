@@ -3,19 +3,39 @@
     "meanings": [
         {
             "definition": "Two",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "I have di apples in my bag.",
+            "sent2": "The twins are di years old.",
+            "sent3": "The di puppies played together in the park.",
+            "sent4": "The di sides of the coin are heads and tails.",
+            "sent5": "She wore a di-colored dress to the party."
         },
         {
             "definition": "Apart",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "After the argument, they sat di at the table.",
+            "sent2": "The friends stood di from each other in line.",
+            "sent3": "The magician made the two rabbits disappear di on stage.",
+            "sent4": "The two lovers were di for a long time before reuniting.",
+            "sent5": "The siblings lived di from each other but stayed close at heart."
         },
         {
             "definition": "Day",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The sun shines brightly during the di.",
+            "sent2": "I love spending time at the beach during the di.",
+            "sent3": "The di was filled with laughter and joy.",
+            "sent4": "The di seemed to pass by quickly.",
+            "sent5": "She enjoyed a relaxing picnic on a beautiful di."
         },
         {
             "definition": "From",
-            "pos": "preposition"
+            "pos": "preposition",
+            "sent1": "She traveled di Paris to Rome.",
+            "sent2": "The package was sent di the sender to the recipient.",
+            "sent3": "The cat jumped di the table to the chair.",
+            "sent4": "He moved di the city to the countryside.",
+            "sent5": "The river flowed di the mountains to the valley."
         }
     ]
 }

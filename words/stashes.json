@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A collection of items stored in a hidden or secret place.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "She found her brother's stashes of candy hidden under the bed.",
+            "sent2": "The detective discovered the thief's stashes of stolen goods in the attic.",
+            "sent3": "The squirrel's stashes of acorns were so well hidden that even the other animals couldn't find them.",
+            "sent4": "His stashes of memories were carefully preserved in an old shoebox.",
+            "sent5": "The pirate's stashes of treasure were rumored to be buried on a distant island."
         },
         {
             "definition": "To hide or store something in a secret or secure place.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She stashes her favorite snacks in a secret compartment in her backpack.",
+            "sent2": "The spy quickly stashes the classified documents in a hidden safe.",
+            "sent3": "He always stashes extra cash in his sock for emergencies.",
+            "sent4": "The magician skillfully stashes the disappearing coin up his sleeve.",
+            "sent5": "The squirrel stashes nuts in various places to prepare for winter."
         }
     ]
 }

@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To confuse or perplex",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The tricky riddle really baffles me.",
+            "sent2": "Her complex explanation always baffles the students.",
+            "sent3": "The magician's disappearing act truly baffles the audience.",
+            "sent4": "The unexpected plot twist in the movie baffles the viewers.",
+            "sent5": "The mysterious disappearance of the key baffles everyone."
         },
         {
             "definition": "A device used to control the flow of fluid or sound",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The soundproof baffles in the room help reduce noise.",
+            "sent2": "The car's exhaust system includes baffles to regulate airflow.",
+            "sent3": "The concert hall's acoustic baffles enhance the music experience.",
+            "sent4": "The underwater microphone uses baffles to block excess noise.",
+            "sent5": "The engineer installed baffles in the pipe to manage water flow."
         },
         {
             "definition": "A partition or barrier to control the movement of air or sound",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The office cubicles have baffles for privacy.",
+            "sent2": "The sound studio uses baffles to improve audio quality.",
+            "sent3": "The classroom baffles help separate different learning areas.",
+            "sent4": "The airport installed baffles to reduce noise pollution.",
+            "sent5": "The gymnasium's sound baffles prevent echoes during events."
         }
     ]
 }

@@ -3,19 +3,39 @@
     "meanings": [
         {
             "definition": "The possibility of something happening.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "There is a chance of rain later today.",
+            "sent2": "I will take a chance and try to win the game.",
+            "sent3": "By some chance, I found my lost keys in the couch.",
+            "sent4": "She took a chance on love and it paid off.",
+            "sent5": "The chance of winning the lottery is very slim."
         },
         {
             "definition": "An opportunity or occasion.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I will give you a chance to prove yourself.",
+            "sent2": "Don't miss the chance to visit the museum.",
+            "sent3": "I had a chance encounter with an old friend at the store.",
+            "sent4": "Life sometimes gives us a second chance to make things right.",
+            "sent5": "Seizing the chance to travel, she booked a spontaneous trip."
         },
         {
             "definition": "Luck or fortune.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Good chance smiled upon him during the competition.",
+            "sent2": "She believed in chance and fate guiding her path.",
+            "sent3": "By pure chance, they both wore the same outfit to the party.",
+            "sent4": "He felt like he was pushing his luck by taking too many chances.",
+            "sent5": "Winning the raffle was just a stroke of chance."
         },
         {
             "definition": "To risk or gamble.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I will chance it and go for the higher reward.",
+            "sent2": "He decided to chance his luck at the casino.",
+            "sent3": "I wouldn't chance driving without a seatbelt.",
+            "sent4": "She chanced upon a rare flower while hiking.",
+            "sent5": "They chanced upon a hidden treasure in the old attic."
         }
     ]
 }

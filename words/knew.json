@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Past tense of know.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Yesterday, I knew the answer to the question.",
+            "sent2": "She knew the song lyrics by heart.",
+            "sent3": "The cat knew it was time for dinner when it heard the can opener.",
+            "sent4": "As the sun set, he knew his journey was coming to an end.",
+            "sent5": "The detective knew the culprit's identity all along."
         },
         {
             "definition": "To be aware of through observation, inquiry, or information.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I knew the weather would change because of the dark clouds.",
+            "sent2": "They knew about the surprise party before it happened.",
+            "sent3": "The teacher knew the students were up to something when they whispered and giggled.",
+            "sent4": "She knew the truth would eventually come out, so she confessed.",
+            "sent5": "The scientist knew the experiment would succeed after months of research."
         }
     ]
 }

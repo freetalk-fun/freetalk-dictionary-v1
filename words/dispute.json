@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A disagreement or argument.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The siblings had a dispute over who gets to sit in the front seat.",
+            "sent2": "The neighbors settled their dispute over the property line with a friendly conversation.",
+            "sent3": "During the family game night, a dispute arose over the rules of Monopoly.",
+            "sent4": "The dispute between the two countries was finally resolved through peaceful negotiations.",
+            "sent5": "The dispute between the students escalated into a shouting match in the cafeteria."
         },
         {
             "definition": "To argue or debate.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The team members would often dispute about the best strategy to win the game.",
+            "sent2": "They would dispute for hours about which movie to watch on movie night.",
+            "sent3": "The siblings would playfully dispute over who could run faster.",
+            "sent4": "The politicians would dispute fiercely during the debate on national television.",
+            "sent5": "The friends would often dispute about which restaurant to go to for dinner."
         },
         {
             "definition": "To question the truth or validity of something.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The detective began to dispute the suspect's alibi.",
+            "sent2": "She would often dispute the accuracy of the weather forecast.",
+            "sent3": "The students would dispute the teacher's explanation with their own theories.",
+            "sent4": "He would dispute the claims made by the salesman before making a purchase.",
+            "sent5": "The scientist would dispute the findings of the research paper based on new evidence."
         }
     ]
 }

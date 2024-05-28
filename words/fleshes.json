@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "The soft substance consisting of muscle and fat that is found between the skin and bones of an animal or a human.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The butcher carefully removed the fleshes from the chicken.",
+            "sent2": "The doctor explained that the fleshes under the skin provide protection.",
+            "sent3": "The chef joked that the secret to a tasty dish lies in the fleshes of the meat.",
+            "sent4": "The artist's painting captured the vibrant colors of the fleshes on the subject's face.",
+            "sent5": "The sunlight highlighted the delicate fleshes of the flower petals."
         },
         {
             "definition": "To cover or coat with flesh.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She fleshes the fish with a flavorful marinade before grilling.",
+            "sent2": "The sculptor carefully fleshes out the details of the statue.",
+            "sent3": "The baker decided to flesh the cake with a rich cream frosting.",
+            "sent4": "The writer fleshes the characters in the story with vivid descriptions.",
+            "sent5": "The gardener fleshes the garden beds with fresh soil every spring."
         },
         {
             "definition": "To grow or develop flesh.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "After the injury, her wound started to flesh and heal.",
+            "sent2": "The baby's chubby cheeks began to flesh out as she grew.",
+            "sent3": "The athlete's muscles fleshes quickly after intense training.",
+            "sent4": "The plant fleshes out with new leaves in the spring.",
+            "sent5": "The scar slowly fleshes over time, becoming less noticeable."
         }
     ]
 }

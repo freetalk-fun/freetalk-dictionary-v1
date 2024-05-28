@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A person or thing that switches.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The switcher turned off the lights.",
+            "sent2": "The train conductor is a switcher who changes the tracks.",
+            "sent3": "The switcher decided to become a light switch for Halloween.",
+            "sent4": "Her cat is a switcher, always changing its favorite nap spot.",
+            "sent5": "The switcher at the office is known for always changing the radio station."
         },
         {
             "definition": "A device for changing the direction of an electric current.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The switcher on the wall controls the flow of electricity.",
+            "sent2": "The electrician used a switcher to redirect the power.",
+            "sent3": "The switcher at the power plant went on strike, causing a blackout.",
+            "sent4": "The switcher in the circuit board is like a traffic cop for electricity.",
+            "sent5": "Make sure to flip the switcher to turn on the lights."
         }
     ]
 }

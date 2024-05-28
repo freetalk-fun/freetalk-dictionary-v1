@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To package (something) incorrectly.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She mispackaged the gift, putting the toy in the wrong box.",
+            "sent2": "The company often mispackaged orders, causing delays in delivery.",
+            "sent3": "The clumsy elf mispackaged the presents, wrapping the cookies in the toy box.",
+            "sent4": "His words were mispackaged, leading to confusion among the listeners.",
+            "sent5": "The chef mispackaged the ingredients, mixing up the salt and sugar."
         },
         {
             "definition": "Incorrectly packaged.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The mispackaged box had items missing from the order.",
+            "sent2": "Customers complained about the mispackaged products they received.",
+            "sent3": "The mispackaged parcel looked like a puzzle with pieces sticking out.",
+            "sent4": "Her mispackaged luggage burst open during the journey.",
+            "sent5": "The mispackaged goods were returned due to damaged packaging."
         }
     ]
 }

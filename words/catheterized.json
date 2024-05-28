@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Inserted a catheter into (a body part)",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The nurse catheterized the patient's bladder to drain urine.",
+            "sent2": "After surgery, the doctor catheterized the patient to monitor fluid output.",
+            "sent3": "The clumsy intern accidentally catheterized the wrong patient, causing confusion.",
+            "sent4": "The plumber catheterized the clogged pipe, allowing water to flow freely again.",
+            "sent5": "In the medical drama, the skilled surgeon catheterized the heart with precision."
         },
         {
             "definition": "Treated with a catheter",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The catheterized patient felt relieved after the procedure.",
+            "sent2": "The catheterized tube helped the patient receive necessary medication.",
+            "sent3": "The catheterized cat seemed uncomfortable with the device attached.",
+            "sent4": "The catheterized hose ensured proper irrigation of the garden.",
+            "sent5": "The catheterized area was kept clean and sterile to prevent infection."
         }
     ]
 }

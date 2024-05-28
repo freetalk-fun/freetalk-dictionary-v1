@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Cause deliberate harm or damage to something.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Playing with fire destructs the toy.",
+            "sent2": "The hurricane destructs houses along the coast.",
+            "sent3": "Eating too much candy destructs your teeth.",
+            "sent4": "Gossip can destruct relationships like a wrecking ball.",
+            "sent5": "Neglecting regular maintenance destructs machinery over time."
         },
         {
             "definition": "Destroy or demolish something.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The wrecking ball destructs the old building.",
+            "sent2": "The explosion destructs the bridge in seconds.",
+            "sent3": "The toddler's tantrum destructs the tower of blocks.",
+            "sent4": "The tornado destructs everything in its path.",
+            "sent5": "The virus can silently destruct computer files."
         },
         {
             "definition": "Act in a way that leads to the breakdown or ruin of something.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Skipping regular check-ups can destruct your health.",
+            "sent2": "Neglecting to water the plants can destruct them.",
+            "sent3": "Procrastination can destruct your chances of success.",
+            "sent4": "Lack of communication can destruct a team's cohesion.",
+            "sent5": "Ignoring warning signs can destruct a relationship slowly."
         }
     ]
 }

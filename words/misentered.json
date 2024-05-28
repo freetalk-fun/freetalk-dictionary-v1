@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Entered incorrectly or inaccurately.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The misentered number caused confusion.",
+            "sent2": "The misentered address led the delivery person to the wrong house.",
+            "sent3": "The misentered password made me laugh.",
+            "sent4": "Her misentered name painted a confusing picture.",
+            "sent5": "The misentered data stood out like a sore thumb."
         },
         {
             "definition": "To make a mistake in entering information.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He misentered the phone number in his contacts.",
+            "sent2": "She misentered the date of the event in the calendar.",
+            "sent3": "The cashier misentered the price and gave me a discount.",
+            "sent4": "The detective misentered a crucial clue in the report.",
+            "sent5": "The student misentered the answer and lost points on the test."
         }
     ]
 }

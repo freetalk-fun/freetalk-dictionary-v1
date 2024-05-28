@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To divide into two equal parts",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She was bisecting the cake to share it with her friend.",
+            "sent2": "The teacher explained the concept of bisecting a line in geometry class.",
+            "sent3": "The magician performed a trick by bisecting a rope and then magically joining it back together.",
+            "sent4": "The river seemed to bisect the forest, creating two distinct halves.",
+            "sent5": "The surgeon skillfully performed the bisecting incision during the operation."
         },
         {
             "definition": "Dividing into two equal parts",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The bisecting line on the map separated the two territories.",
+            "sent2": "The bisecting mirror perfectly reflected the image on both sides.",
+            "sent3": "The bisecting wall in the room gave it a unique and symmetrical look.",
+            "sent4": "The bisecting road led to two different neighborhoods with equal distances.",
+            "sent5": "The bisecting tree trunk stood tall in the middle of the forest."
         }
     ]
 }

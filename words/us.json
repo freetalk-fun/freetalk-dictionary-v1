@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Used by the speaker to refer to himself or herself and one or more other people as the object of a verb or preposition.",
-            "pos": "pronoun"
+            "pos": "pronoun",
+            "sent1": "She gave us a gift on our birthday.",
+            "sent2": "Can you please help us with our homework?",
+            "sent3": "The cat thinks us humans are strange creatures.",
+            "sent4": "In the story, the forest welcomed us with open arms.",
+            "sent5": "The teacher reminded us to always be kind to others."
         },
         {
             "definition": "Used to refer to the speaker and one or more other people as the indirect object of a verb.",
-            "pos": "pronoun"
+            "pos": "pronoun",
+            "sent1": "He told us a funny joke yesterday.",
+            "sent2": "They sang us a beautiful song at the concert.",
+            "sent3": "The dog considers us his loyal companions.",
+            "sent4": "The stars above seem to guide us on our journey.",
+            "sent5": "The chef promised us a delicious meal for dinner."
         },
         {
             "definition": "Used to refer to the speaker and one or more other people as the object of a verb or preposition.",
-            "pos": "pronoun"
+            "pos": "pronoun",
+            "sent1": "Mom baked us cookies for dessert.",
+            "sent2": "Dad always reads us bedtime stories.",
+            "sent3": "The aliens find us fascinating creatures on Earth.",
+            "sent4": "The ocean waves gently carried us to shore.",
+            "sent5": "The map showed us the way to the hidden treasure."
         }
     ]
 }

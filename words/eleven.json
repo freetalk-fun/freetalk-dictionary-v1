@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "The number that is one more than ten.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I counted to eleven before stopping.",
+            "sent2": "There are eleven cookies in the jar.",
+            "sent3": "Why did the baker only bake eleven cupcakes?",
+            "sent4": "The clock struck eleven, signaling the end of the day.",
+            "sent5": "She won eleven marbles in the game."
         },
         {
             "definition": "A team of eleven players in a sports game.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The soccer team had eleven players on the field.",
+            "sent2": "Eleven athletes competed in the relay race.",
+            "sent3": "The coach selected eleven players for the match.",
+            "sent4": "The team's unity was evident with eleven players working together.",
+            "sent5": "The basketball team scored eleven points in the first quarter."
         }
     ]
 }

@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Perceived something that is not actually present",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The child's hallucinated friend was invisible to everyone else.",
+            "sent2": "The doctor explained that a hallucinated image is not real.",
+            "sent3": "During the play, the actor pretended to interact with a hallucinated object.",
+            "sent4": "Her fear of spiders made every tiny speck on the wall seem like a hallucinated spider.",
+            "sent5": "The artist's painting depicted a vivid hallucinated world of fantasy."
         },
         {
             "definition": "Experienced a hallucination",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She hallucinated a pink elephant in the room.",
+            "sent2": "After staying awake for days, he hallucinated strange sounds.",
+            "sent3": "The tired hiker hallucinated a talking squirrel on the trail.",
+            "sent4": "In the dark forest, the lost traveler hallucinated ghostly figures around him.",
+            "sent5": "The feverish patient hallucinated a beautiful garden in her hospital room."
         },
         {
             "definition": "Had a false perception of reality",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He hallucinated that he was flying through the sky like a superhero.",
+            "sent2": "The exhausted student hallucinated that the clock was moving backwards.",
+            "sent3": "The chef hallucinated that the onions were dancing in the pan.",
+            "sent4": "The tired driver hallucinated that the road signs were speaking to him.",
+            "sent5": "The artist hallucinated that the paintbrush was a magic wand."
         }
     ]
 }

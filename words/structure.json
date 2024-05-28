@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "The arrangement of and relations between the parts or elements of something complex.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The structure of the building was carefully planned to ensure stability.",
+            "sent2": "She studied the structure of the sentence to understand its meaning.",
+            "sent3": "The structure of the puzzle was so confusing that it took hours to solve.",
+            "sent4": "The structure of the family resembled a tightly knit web of relationships.",
+            "sent5": "The intricate structure of the spider's web glistened in the sunlight."
         },
         {
             "definition": "The way in which the parts of a system or object are arranged or organized.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The organizational structure of the company was hierarchical.",
+            "sent2": "The structure of the essay was clear and easy to follow.",
+            "sent3": "The structure of the game was so well-designed that it kept everyone entertained.",
+            "sent4": "The structure of the argument crumbled under scrutiny.",
+            "sent5": "The structure of the music piece was harmonious and pleasing to the ears."
         },
         {
             "definition": "Construct or arrange according to a plan; give a pattern or organization to.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She decided to structure her day by creating a detailed schedule.",
+            "sent2": "The architect structured the building to withstand earthquakes.",
+            "sent3": "He structured his speech in a way that captivated the audience.",
+            "sent4": "The team structured the project timeline for maximum efficiency.",
+            "sent5": "The artist structured the painting with bold strokes and vibrant colors."
         }
     ]
 }

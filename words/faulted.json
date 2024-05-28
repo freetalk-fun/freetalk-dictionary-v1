@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Having a defect or imperfection",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The faulted toy had a broken wheel.",
+            "sent2": "The faulted painting had a small tear in the corner.",
+            "sent3": "The faulted cup had a chip on its rim.",
+            "sent4": "The faulted plan had a crucial flaw that needed fixing.",
+            "sent5": "The faulted bridge had a weak support beam."
         },
         {
             "definition": "To find fault or criticize",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She faulted her friend for being late.",
+            "sent2": "He faulted the chef for overcooking the steak.",
+            "sent3": "The teacher faulted the student for not completing the assignment.",
+            "sent4": "The coach faulted the team for their lack of effort.",
+            "sent5": "The customer faulted the company for poor customer service."
         },
         {
             "definition": "To have a crack or break in a rock formation",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The earthquake faulted the mountain, creating a visible crack.",
+            "sent2": "Over time, the weather faulted the cliff, causing it to crumble.",
+            "sent3": "The pickaxe faulted the boulder, splitting it in half.",
+            "sent4": "The dynamite faulted the rock, shattering it into pieces.",
+            "sent5": "The erosion faulted the canyon, carving intricate patterns."
         }
     ]
 }

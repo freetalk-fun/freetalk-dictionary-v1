@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "An outline representing or bounding the shape or form of something.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The artist carefully traced the contour of the mountain in her painting.",
+            "sent2": "I could see the contour of the tree against the sunset.",
+            "sent3": "The contour of the cake looked so perfect that it seemed almost too beautiful to eat.",
+            "sent4": "Her smile created a contour of happiness on her face.",
+            "sent5": "The detective followed the contour of the footprints to solve the mystery."
         },
         {
             "definition": "To mold into a specific shape or form.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She used her hands to contour the clay into a beautiful vase.",
+            "sent2": "The sculptor carefully contoured the marble to create a masterpiece.",
+            "sent3": "He tried to contour the playdough into a perfect circle but ended up with a funny shape instead.",
+            "sent4": "The dancer's movements seemed to contour the music itself.",
+            "sent5": "The chef expertly contoured the cake into the shape of a flower."
         },
         {
             "definition": "A line on a map joining points of equal elevation.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The hiker followed the contour on the map to reach the mountain peak.",
+            "sent2": "The contour on the map showed where the river valley began.",
+            "sent3": "The contour on the map looked like a squiggly line drawn by a child.",
+            "sent4": "The contour on the map seemed to guide them through the wilderness like a secret path.",
+            "sent5": "The contour on the map revealed the hidden beauty of the landscape."
         }
     ]
 }

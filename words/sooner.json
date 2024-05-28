@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A person who arrives or does something before another.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The sooner finished the race first.",
+            "sent2": "I am the sooner to reach the finish line.",
+            "sent3": "The sooner snail beat the others in the race.",
+            "sent4": "She was a sooner in getting to the party.",
+            "sent5": "The sooner always wins the competition."
         },
         {
             "definition": "In preference; rather.",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "I would sooner eat pizza than salad.",
+            "sent2": "He would sooner go to the park than stay indoors.",
+            "sent3": "I'd sooner swim in a pool than in the ocean.",
+            "sent4": "She'd sooner read a book than watch TV.",
+            "sent5": "They'd sooner walk than take the bus."
         },
         {
             "definition": "As soon as possible.",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "Please finish your homework sooner.",
+            "sent2": "I will leave sooner than expected.",
+            "sent3": "Let's eat sooner so we can go to the movies.",
+            "sent4": "She arrived sooner than I thought she would.",
+            "sent5": "We need to leave sooner to catch the train."
         }
     ]
 }

@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Suggest or assume the existence, fact, or truth of something as a basis for reasoning or argument.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She postulates that the missing keys are under the couch.",
+            "sent2": "The scientist postulates a new theory based on the experimental results.",
+            "sent3": "The detective postulates a wild theory about the mysterious disappearance.",
+            "sent4": "His postulates about human behavior challenge traditional beliefs.",
+            "sent5": "The teacher postulates a scenario to illustrate the concept to the students."
         },
         {
             "definition": "A fundamental principle or proposition that is accepted as true without proof.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "One of the postulates of geometry is that a line extends infinitely.",
+            "sent2": "The postulates of the theory form the basis for further research.",
+            "sent3": "The postulates of the ancient philosophy still influence modern thought.",
+            "sent4": "The postulates of democracy are deeply ingrained in our society.",
+            "sent5": "Understanding the postulates is crucial for grasping the theory's foundation."
         }
     ]
 }

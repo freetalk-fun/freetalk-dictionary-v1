@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "a person who holds something",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The book holder kept the novel safe.",
+            "sent2": "The cup holder in the car is convenient for drinks.",
+            "sent3": "The key holder forgot where they put the spare set.",
+            "sent4": "She was the holder of the winning lottery ticket.",
+            "sent5": "The holder of the trophy beamed with pride."
         },
         {
             "definition": "a device or container that holds something",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The pencil holder on the desk is full of colorful pens.",
+            "sent2": "The phone holder secured the device while driving.",
+            "sent3": "The toothbrush holder fell and made a loud clatter.",
+            "sent4": "The umbrella holder by the door was overflowing with umbrellas.",
+            "sent5": "The candle holder added a warm glow to the room."
         },
         {
             "definition": "a person who owns or possesses something",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The land holder had vast acres of farmland.",
+            "sent2": "The ticket holder eagerly awaited the show.",
+            "sent3": "The pet holder showered their cat with love.",
+            "sent4": "The stock holder closely monitored the market.",
+            "sent5": "The house holder took pride in their well-maintained home."
         }
     ]
 }

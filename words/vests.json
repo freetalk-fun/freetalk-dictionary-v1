@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To give someone the legal right or power to do something",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The judge vests the authority in the jury to make the final decision.",
+            "sent2": "The president vests the power to declare war in Congress.",
+            "sent3": "The king vests the magical amulet in the chosen hero to defeat the dragon.",
+            "sent4": "The teacher vests the responsibility of leading the class discussion in the student with the most knowledge.",
+            "sent5": "The CEO vests the control of the company's finances in the trusted accountant."
         },
         {
             "definition": "A sleeveless garment worn over a shirt",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "She wore a stylish vest over her white shirt.",
+            "sent2": "The hiker packed a warm vest for the chilly mountain trek.",
+            "sent3": "The cowboy's vest had shiny buttons and intricate embroidery.",
+            "sent4": "The fisherman's vest was filled with various hooks and lures.",
+            "sent5": "The detective's vest had hidden pockets for storing evidence."
         },
         {
             "definition": "To invest or endow with a particular quality or attribute",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The mentor vests her protege with confidence before the big presentation.",
+            "sent2": "Parents often vest their children with a sense of responsibility from a young age.",
+            "sent3": "The wizard vests the sword with the power to vanquish evil.",
+            "sent4": "The artist vests her paintings with emotion and depth.",
+            "sent5": "The chef vests the dish with a burst of flavor using fresh herbs."
         }
     ]
 }

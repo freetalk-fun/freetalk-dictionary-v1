@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A liquid mixture in which food is soaked before cooking.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I made a tasty marinade for the chicken.",
+            "sent2": "The steak was left in the marinade overnight.",
+            "sent3": "The marinade gave the meat a delicious flavor.",
+            "sent4": "The marinade acted like a flavorful bath for the meat.",
+            "sent5": "The aroma of the marinade filled the kitchen."
         },
         {
             "definition": "To soak food in a marinade.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I will marinade the shrimp for the barbecue.",
+            "sent2": "She likes to marinade her tofu in soy sauce.",
+            "sent3": "He accidentally marinaded the vegetables for too long.",
+            "sent4": "The flavors marinade together perfectly in the fridge.",
+            "sent5": "Marinading the meat tenderizes it for grilling."
         }
     ]
 }

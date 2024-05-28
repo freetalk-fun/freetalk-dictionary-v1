@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A person who rents property from a tenant.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The subtenants in the apartment building pay rent to the main tenant.",
+            "sent2": "The subtenants moved in after signing a lease agreement with the tenant.",
+            "sent3": "The subtenants threw a surprise party for the tenant to show their appreciation.",
+            "sent4": "The subtenants were like puzzle pieces fitting perfectly into the tenant's life.",
+            "sent5": "The subtenants were happy to have found a cozy place to call home."
         },
         {
             "definition": "To rent property to a subtenant.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The landlord decided to sublet the apartment and subtenants moved in.",
+            "sent2": "She subtenants her extra room to help cover the rent.",
+            "sent3": "He subtenants the garage to store his vintage car collection.",
+            "sent4": "They subtenants the office space to a startup company.",
+            "sent5": "The family subtenants their vacation home during the summer months."
         }
     ]
 }

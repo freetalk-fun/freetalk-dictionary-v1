@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A person or thing that makes something accessible to everyone.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The new library was a democratizer, offering books to all.",
+            "sent2": "The internet acts as a democratizer, providing information to people worldwide.",
+            "sent3": "The magic wand turned out to be a democratizer, granting wishes to all who held it.",
+            "sent4": "In the land of make-believe, the fairy godmother was seen as a democratizer, spreading joy to all.",
+            "sent5": "The key to the treasure chest was like a democratizer, unlocking wealth for anyone who found it."
         },
         {
             "definition": "To make something accessible to everyone.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The new law aimed to democratize access to education for all students.",
+            "sent2": "Technology has democratized communication, allowing people to connect easily.",
+            "sent3": "The chef's secret recipe was democratized when it was accidentally published online.",
+            "sent4": "The invention of the printing press democratized knowledge, spreading information far and wide.",
+            "sent5": "The company's mission is to democratize healthcare, making it affordable for everyone."
         }
     ]
 }

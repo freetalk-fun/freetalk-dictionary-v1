@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "One who forms an opinion or conjecture about something without sufficient evidence.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The surmiser guessed the answer without any proof.",
+            "sent2": "The surmiser thought the movie would be good even though they hadn't seen the trailer.",
+            "sent3": "The surmiser believed the rumor that aliens were coming to visit.",
+            "sent4": "The surmiser's mind was like a detective, always trying to solve mysteries without clues.",
+            "sent5": "The surmiser's hunches were often right, even though they couldn't explain why."
         },
         {
             "definition": "To form an opinion or conjecture about something without sufficient evidence.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She would often surmise the outcome of the game before it even started.",
+            "sent2": "He surmised that it would rain based on the dark clouds in the sky.",
+            "sent3": "The detective surmised that the butler was the culprit, but he was wrong.",
+            "sent4": "The teacher surmised that the student was cheating because of the sudden increase in grades.",
+            "sent5": "The scientist surmised that the experiment would fail, but was pleasantly surprised when it succeeded."
         }
     ]
 }

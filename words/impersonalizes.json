@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To make impersonal",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She impersonalizes her emails by avoiding personal greetings.",
+            "sent2": "The company's automated response system impersonalizes customer interactions.",
+            "sent3": "The robot impersonalizes the task, making it seem like a machine is doing it.",
+            "sent4": "His cold tone impersonalizes the conversation, draining it of emotion.",
+            "sent5": "The software impersonalizes the user experience, making it feel distant and detached."
         },
         {
             "definition": "To remove personal or individual characteristics",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The artist impersonalizes the portrait, focusing on shapes rather than features.",
+            "sent2": "The editing process impersonalizes the story, stripping away personal anecdotes.",
+            "sent3": "The magician's trick impersonalizes the object, making it unrecognizable.",
+            "sent4": "The mask impersonalizes his identity, hiding his true self.",
+            "sent5": "The algorithm impersonalizes the data, removing any personal identifiers."
         },
         {
             "definition": "To treat or describe in an impersonal manner",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The journalist impersonalizes the news, presenting facts without bias.",
+            "sent2": "The report impersonalizes the incident, focusing on statistics rather than emotions.",
+            "sent3": "The comedian impersonalizes the situation, turning it into a joke.",
+            "sent4": "The textbook impersonalizes history, reducing it to dates and events.",
+            "sent5": "The professor impersonalizes the topic, discussing it objectively without personal opinions."
         }
     ]
 }

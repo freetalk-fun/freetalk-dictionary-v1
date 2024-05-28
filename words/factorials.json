@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "The product of an integer and all the integers below it.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "In math class, we learned how to calculate factorials by multiplying numbers together.",
+            "sent2": "Factorials are often used in permutations and combinations to find the total number of possibilities.",
+            "sent3": "I asked the math magician to perform a trick with factorials, and he made the numbers disappear one by one!",
+            "sent4": "The concept of factorials is like a chain reaction, where each number pulls the next one into the calculation.",
+            "sent5": "Factorials are like a mathematical chain that links numbers together in a special way."
         },
         {
             "definition": "A function that calculates factorials.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The factorial function is essential in solving many mathematical problems.",
+            "sent2": "Programmers often use recursive functions to compute factorials efficiently.",
+            "sent3": "At the math competition, the calculator challenged the factorial function to a duel!",
+            "sent4": "The factorial function works like a magic wand, transforming numbers into their factorial forms.",
+            "sent5": "The factorial function is like a mathematical wizard that can conjure up the factorial of any number."
         },
         {
             "definition": "The symbol ! used to denote factorials.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "In algebra, the exclamation mark symbol (!) represents factorials.",
+            "sent2": "Factorials are indicated by placing the exclamation mark after the number.",
+            "sent3": "The exclamation mark in factorials always looks so excited to multiply numbers!",
+            "sent4": "The exclamation mark in factorials is like a superhero symbol for numbers, ready to save the day.",
+            "sent5": "The exclamation mark in factorials is like a mathematical cheerleader, rooting for the numbers to multiply."
         }
     ]
 }

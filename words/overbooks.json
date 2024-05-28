@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To reserve too many seats or rooms than are available.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The airline overbooks flights to ensure all seats are filled.",
+            "sent2": "The hotel accidentally overbooks rooms during the holiday season.",
+            "sent3": "The restaurant overbooks tables, leading to a chaotic dining experience.",
+            "sent4": "The theater overbooks tickets, causing a frenzy at the entrance.",
+            "sent5": "The tour company overbooks excursions, leaving some customers disappointed."
         },
         {
             "definition": "To schedule too many appointments or events.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The busy doctor often overbooks patients, causing long wait times.",
+            "sent2": "The event planner accidentally overbooks weddings on the same day.",
+            "sent3": "The hair salon overbooks clients, resulting in a hectic day for the stylists.",
+            "sent4": "The conference organizer overbooks speakers, leading to a packed agenda.",
+            "sent5": "The trainer overbooks fitness classes, making it hard for everyone to find space."
         },
         {
             "definition": "To exceed the capacity or limit of something.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The river overbooks its banks after heavy rainfall.",
+            "sent2": "The elevator overbooks with too many passengers, causing it to stop.",
+            "sent3": "The suitcase overbooks with clothes, making it impossible to close.",
+            "sent4": "The car overbooks its weight limit with too much luggage.",
+            "sent5": "The plate overbooks with food, almost toppling over."
         }
     ]
 }

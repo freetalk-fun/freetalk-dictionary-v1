@@ -3,19 +3,39 @@
     "meanings": [
         {
             "definition": "To shut something",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Please close the door before leaving the room.",
+            "sent2": "I always close my eyes when I go to sleep.",
+            "sent3": "Why did the chicken close the gate? To keep the fox out!",
+            "sent4": "Her heart closed to the idea of love after being hurt.",
+            "sent5": "The magician's hands moved swiftly to close the box before the audience's eyes."
         },
         {
             "definition": "Near in space or time",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The store is close to our house, so we walk there.",
+            "sent2": "My birthday is close to Christmas, so we celebrate together.",
+            "sent3": "The close friendship between the cat and the dog surprised everyone.",
+            "sent4": "The close bond between the siblings was unbreakable.",
+            "sent5": "The close relationship between the two countries led to many collaborations."
         },
         {
             "definition": "To end a business or organization",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The company had to close due to financial difficulties.",
+            "sent2": "They decided to close the shop after many years of operation.",
+            "sent3": "The decision to close the school caused a lot of sadness among the students.",
+            "sent4": "She had to close her bakery but hoped to reopen in the future.",
+            "sent5": "The pandemic forced many businesses to close their doors permanently."
         },
         {
             "definition": "A nearby area or location",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The park is a close where children play every evening.",
+            "sent2": "The beach is a close where families gather for picnics.",
+            "sent3": "The secret treasure was hidden in a close behind the old house.",
+            "sent4": "The forest was a close full of mystery and adventure.",
+            "sent5": "The mountain was a close that offered breathtaking views of the valley below."
         }
     ]
 }

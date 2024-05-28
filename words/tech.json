@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Technology: the application of scientific knowledge for practical purposes, especially in industry.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The new tech allows us to communicate instantly with people around the world.",
+            "sent2": "She works in the field of tech, developing innovative solutions for everyday problems.",
+            "sent3": "The tech in our smartphones seems like magic sometimes, doesn't it?",
+            "sent4": "In today's fast-paced world, staying updated with the latest tech is crucial.",
+            "sent5": "The tech behind self-driving cars is both fascinating and complex."
         },
         {
             "definition": "Technician: a person skilled in the practical application of technical processes or methods.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The tech fixed my computer in no time, he's really good at what he does.",
+            "sent2": "The technician arrived promptly to repair the faulty equipment.",
+            "sent3": "It takes a skilled tech to troubleshoot and solve complex technical issues.",
+            "sent4": "The technician's expertise in handling machinery is unmatched.",
+            "sent5": "The tech's precision and attention to detail are commendable."
         },
         {
             "definition": "Technical: relating to a particular subject, art, or craft, or its techniques.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The manual provides technical details on how to assemble the furniture.",
+            "sent2": "She has a technical background in computer programming.",
+            "sent3": "His technical drawings are so detailed, they look like works of art.",
+            "sent4": "The technical aspects of the project require careful planning and execution.",
+            "sent5": "Understanding the technical jargon can be challenging for beginners."
         }
     ]
 }

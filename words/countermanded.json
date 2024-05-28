@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Revoke (an order)",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The general countermanded the troops to retreat.",
+            "sent2": "The teacher countermanded the homework assignment.",
+            "sent3": "The cat countermanded the dog's plan to steal treats.",
+            "sent4": "The sudden rain countermanded our picnic in the park.",
+            "sent5": "The judge's decision to countermanded the verdict shocked everyone in the courtroom."
         },
         {
             "definition": "Cancel (a command)",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She quickly countermanded the order to stop the project.",
+            "sent2": "The captain countermanded the crew's departure.",
+            "sent3": "The magician countermanded the rabbit's disappearance trick.",
+            "sent4": "The unexpected snowstorm countermanded our plans for a hike.",
+            "sent5": "The CEO's decision to countermanded the merger surprised the shareholders."
         },
         {
             "definition": "Overrule (a decision)",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The judge countermanded the jury's verdict.",
+            "sent2": "The principal countermanded the student council's proposal.",
+            "sent3": "The referee countermanded the goal due to a foul.",
+            "sent4": "The loud noise countermanded our conversation.",
+            "sent5": "The president's veto countermanded the bill passed by Congress."
         }
     ]
 }

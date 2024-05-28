@@ -3,19 +3,39 @@
     "meanings": [
         {
             "definition": "Existing or occurring now",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The teacher's present lesson is about animals.",
+            "sent2": "The present weather is sunny and warm.",
+            "sent3": "The present moment is perfect for a picnic.",
+            "sent4": "The present time feels like a gift of peace.",
+            "sent5": "The present situation demands our attention."
         },
         {
             "definition": "A gift given to someone",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "She received a beautiful present on her birthday.",
+            "sent2": "The present from her friend was thoughtful.",
+            "sent3": "The present made her smile with joy.",
+            "sent4": "The present symbolized their friendship.",
+            "sent5": "The present brought happiness to her day."
         },
         {
             "definition": "To show or introduce something to others",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He will present his project to the class tomorrow.",
+            "sent2": "She likes to present her ideas clearly and confidently.",
+            "sent3": "He will present his magic tricks at the talent show.",
+            "sent4": "She can present a compelling argument in debates.",
+            "sent5": "He will present his findings at the conference."
         },
         {
             "definition": "To be in a particular place or situation",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "They present at the park every weekend.",
+            "sent2": "She will present at the meeting this afternoon.",
+            "sent3": "He will present at the front of the line for tickets.",
+            "sent4": "The flowers present beautifully in the garden.",
+            "sent5": "The opportunity to present at the event is exciting."
         }
     ]
 }

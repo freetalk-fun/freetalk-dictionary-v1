@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "An advantage or profit gained from something.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Eating fruits and vegetables regularly is a benefit to your health.",
+            "sent2": "The benefit of exercising daily is feeling more energetic.",
+            "sent3": "It's a benefit to have a friend who always makes you laugh.",
+            "sent4": "The benefit of reading is that it opens up new worlds to explore.",
+            "sent5": "The benefit of learning a new language is expanding your horizons."
         },
         {
             "definition": "A payment or gift made by an employer, insurance company, or government agency.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Receiving a benefit from your employer can help cover medical expenses.",
+            "sent2": "The company provides a retirement benefit to its long-term employees.",
+            "sent3": "Getting a benefit from the government feels like a small victory.",
+            "sent4": "The insurance benefit acted as a safety net during tough times.",
+            "sent5": "The benefit package includes health insurance and paid time off."
         }
     ]
 }

@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A file containing instructions or information about how to use a software program.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I always check the readme before installing any new software.",
+            "sent2": "The readme file helped me set up the program on my computer.",
+            "sent3": "The readme was like a map guiding me through the software jungle.",
+            "sent4": "The readme acted as a wise mentor, showing me the way to navigate the program.",
+            "sent5": "The readme was my trusty companion, revealing all the secrets of the software."
         },
         {
             "definition": "To look at and understand the meaning of written or printed words.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I will readme the book to find the answer.",
+            "sent2": "She likes to readme slowly to fully grasp the story.",
+            "sent3": "He tried to readme the menu upside down for fun.",
+            "sent4": "Reading the poem made her readme the world in a new light.",
+            "sent5": "The detective could readme the clues hidden in the mysterious letter."
         }
     ]
 }

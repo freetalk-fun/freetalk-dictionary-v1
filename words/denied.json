@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Refused to admit the truth or existence of something.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She denied seeing the missing cookie.",
+            "sent2": "He denied his involvement in the prank.",
+            "sent3": "The cat denied knocking over the vase with a straight face.",
+            "sent4": "The clouds denied the sun's attempt to shine through.",
+            "sent5": "The child denied eating the chocolate, but her face was covered in it."
         },
         {
             "definition": "Refused to give or grant something requested or desired.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The store denied the return without a receipt.",
+            "sent2": "He denied her request for a raise.",
+            "sent3": "The tree denied the squirrel access to its highest branches.",
+            "sent4": "The lock denied entry to anyone without the correct key.",
+            "sent5": "The gate denied passage to those without the secret code."
         }
     ]
 }

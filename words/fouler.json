@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To make dirty or unclean.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Please do not fouler the clean floor with muddy shoes.",
+            "sent2": "She accidentally fouled her dress with spaghetti sauce.",
+            "sent3": "The mischievous puppy decided to fouler the freshly washed towels.",
+            "sent4": "The rain continued to fouler the once pristine garden.",
+            "sent5": "The careless child managed to fouler every room in the house within minutes."
         },
         {
             "definition": "A person who commits a foul in a sport.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The referee warned the fouler for his rough play on the field.",
+            "sent2": "The basketball player was known as a notorious fouler during games.",
+            "sent3": "The clumsy fouler tripped over his own feet while trying to steal the ball.",
+            "sent4": "The soccer team's fouler received a yellow card for his aggressive tackle.",
+            "sent5": "The coach benched the fouler to prevent further penalties in the match."
         },
         {
             "definition": "More foul.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The smell from the garbage bin grew fouler as the days passed.",
+            "sent2": "The pond water became fouler with each new pollutant dumped into it.",
+            "sent3": "The spoiled milk was the fouler of the two cartons left in the fridge.",
+            "sent4": "The storm clouds grew darker and fouler as the evening approached.",
+            "sent5": "The alleyway had a fouler stench than any other part of the city."
         }
     ]
 }

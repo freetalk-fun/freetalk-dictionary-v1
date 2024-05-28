@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A person who has committed a crime.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The criminal was caught stealing from the store.",
+            "sent2": "The police arrested the criminal for breaking into the house.",
+            "sent3": "The criminal tried to sneak away with the cookies, but got caught red-handed.",
+            "sent4": "Her sweet tooth was a criminal, always leading her to the cookie jar.",
+            "sent5": "The image of the criminal's mask was burned into her memory."
         },
         {
             "definition": "Involving illegal activity or wrongdoing.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The police investigated the criminal activities in the area.",
+            "sent2": "She was wary of the criminal behavior of her new neighbor.",
+            "sent3": "The criminal cupcakes were so delicious, they should be illegal!",
+            "sent4": "The criminal silence in the room spoke volumes about their guilt.",
+            "sent5": "The criminal intent behind his smile sent shivers down her spine."
         }
     ]
 }

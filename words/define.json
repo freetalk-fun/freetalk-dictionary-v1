@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To state or show the meaning of (a word or phrase)",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Can you define what 'happy' means?",
+            "sent2": "She will define the word 'courage' for the class.",
+            "sent3": "The dictionary tried to define 'unicorn' as a magical horse.",
+            "sent4": "His smile defined his joy in a single moment.",
+            "sent5": "The teacher used pictures to define the word 'tree' for the students."
         },
         {
             "definition": "To describe the nature or basic qualities of (something)",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Please define the characteristics of a good friend.",
+            "sent2": "The scientist will define the properties of the new material.",
+            "sent3": "The chef tried to define the taste of the mysterious dish.",
+            "sent4": "Her kindness defined her as a person of great empathy.",
+            "sent5": "The artist used colors to define the beauty of the landscape."
         },
         {
             "definition": "To mark out the boundary or limits of (something)",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "They need to define the area where the garden will be.",
+            "sent2": "The surveyor will define the property lines accurately.",
+            "sent3": "The children tried to define the boundaries of their game.",
+            "sent4": "The river defined the edge of the ancient kingdom.",
+            "sent5": "The fence helped define the border between the two fields."
         }
     ]
 }

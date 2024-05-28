@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Not complete; lacking some part or element.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The puzzle was incompletely finished, missing a few pieces.",
+            "sent2": "Her drawing was incompletely colored, with some areas left blank.",
+            "sent3": "The cake looked incompletely baked, as if the oven forgot about it.",
+            "sent4": "His explanation was incompletely understood, leaving everyone confused.",
+            "sent5": "The garden appeared incompletely tended, with weeds growing everywhere."
         },
         {
             "definition": "In a manner that is not fully or thoroughly done.",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "She incompletely answered the question, leaving out important details.",
+            "sent2": "The job was incompletely done, with many mistakes left uncorrected.",
+            "sent3": "He sang incompletely, forgetting the lyrics halfway through the song.",
+            "sent4": "The project was incompletely planned, resulting in chaos during execution.",
+            "sent5": "The story ended incompletely, leaving readers wondering about the characters' fates."
         }
     ]
 }

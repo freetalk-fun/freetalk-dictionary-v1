@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A device that uses error-sensing feedback to correct the performance of a mechanism.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The servo in the robot arm adjusted its position to pick up the object.",
+            "sent2": "The mechanic fixed the servo in the car's engine to improve its performance.",
+            "sent3": "The servo in the toaster went rogue and started burning all the toast.",
+            "sent4": "Her brain acted like a servo, constantly adjusting her thoughts to stay on track.",
+            "sent5": "The servo hummed softly as it worked tirelessly to maintain balance."
         },
         {
             "definition": "A type of motor that is used in control systems to provide precise control of angular or linear position.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The drone's servo helped it steer smoothly through the air.",
+            "sent2": "The engineer installed a new servo to control the robot's arm movements.",
+            "sent3": "The servo at the amusement park made the roller coaster ride even more thrilling.",
+            "sent4": "His heart felt like a servo, guiding him towards his true passion.",
+            "sent5": "The servo whirred as it adjusted the telescope's position to focus on the stars."
         }
     ]
 }

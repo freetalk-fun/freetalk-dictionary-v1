@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To remove an amino group from a molecule.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The scientist deaminized the compound to study its structure.",
+            "sent2": "She carefully deaminized the protein to analyze its components.",
+            "sent3": "The potion deaminized the magical elixir, causing unexpected results.",
+            "sent4": "His words deaminized her confidence, leaving her feeling exposed.",
+            "sent5": "The enzyme deaminized the substrate, transforming it into a new product."
         },
         {
             "definition": "Having had an amino group removed.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The deaminized molecule showed different properties under the microscope.",
+            "sent2": "The deaminized protein exhibited altered behavior in the experiment.",
+            "sent3": "The deaminized fruit had a peculiar taste that surprised the chef.",
+            "sent4": "Her deaminized hair color attracted attention at the party.",
+            "sent5": "The deaminized solution glowed under the UV light, indicating a successful reaction."
         }
     ]
 }

@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Something that is necessary or mandatory.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Finishing your homework on time is a requirement for getting a good grade.",
+            "sent2": "Meeting all the safety requirements is important before starting the experiment.",
+            "sent3": "Forgetting your lunch at home is not a requirement for having a fun day at school.",
+            "sent4": "Patience is a key requirement for successfully growing a garden.",
+            "sent5": "Understanding the rules is a requirement to play the game."
         },
         {
             "definition": "A condition or stipulation that must be met.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Having a valid ID is a requirement to enter the building.",
+            "sent2": "The job offer came with several requirements that needed to be fulfilled.",
+            "sent3": "Wearing a hat indoors is a strange requirement for this restaurant.",
+            "sent4": "Trust is a fundamental requirement for any successful relationship.",
+            "sent5": "Following the recipe exactly is a requirement for baking a perfect cake."
         },
         {
             "definition": "A need or necessity.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Water is a basic requirement for all living organisms.",
+            "sent2": "Rest is a crucial requirement for maintaining good health.",
+            "sent3": "A requirement for a happy cat is a cozy place to nap.",
+            "sent4": "Laughter is a universal requirement for a joyful life.",
+            "sent5": "Love is a fundamental requirement for emotional well-being."
         }
     ]
 }

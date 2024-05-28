@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "An area of land set aside for public use, typically for recreation or leisure activities.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Let's have a picnic at the park today.",
+            "sent2": "The children played on the swings at the park.",
+            "sent3": "The park was filled with laughter and joy on a sunny day.",
+            "sent4": "Her smile was a park of happiness in a sea of sadness.",
+            "sent5": "The park's green grass and colorful flowers made it a beautiful place to relax."
         },
         {
             "definition": "To bring a vehicle to a stop and leave it temporarily.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I will park the car in front of the store.",
+            "sent2": "She parked her bicycle by the entrance.",
+            "sent3": "The car decided to park itself in the middle of the road.",
+            "sent4": "His mind would park on thoughts of her, unable to move forward.",
+            "sent5": "The truck parked next to the curb, blocking the driveway."
         },
         {
             "definition": "To place something in a specified position for a period of time.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I will park the books on the shelf for now.",
+            "sent2": "She parked her bag on the chair before leaving.",
+            "sent3": "The idea parked itself in the back of his mind, waiting to be explored.",
+            "sent4": "His emotions parked at the door, not ready to enter.",
+            "sent5": "The memories parked themselves in her heart, never to be forgotten."
         }
     ]
 }

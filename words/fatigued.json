@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Exhausted or tired from physical or mental exertion.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "After a long day of hiking, I felt fatigued and just wanted to rest.",
+            "sent2": "She looked fatigued after staying up all night studying for her exam.",
+            "sent3": "The marathon runner was so fatigued, he accidentally put his shoes on the wrong feet.",
+            "sent4": "The old car sputtered to a stop, its engine fatigued from years of use.",
+            "sent5": "The students' faces were pale and fatigued after the challenging math test."
         },
         {
             "definition": "To cause to be tired or exhausted.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The long hike fatigued my legs, and I could barely walk the next day.",
+            "sent2": "Staying up late to finish the project fatigued him, but he was proud of the result.",
+            "sent3": "The chef fatigued his arm whisking the batter for the cake.",
+            "sent4": "The constant noise from the construction site fatigued the residents in the neighborhood.",
+            "sent5": "The repetitive tasks fatigued the worker, making him yearn for a change in routine."
         }
     ]
 }

@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Suitable or proper in the circumstances",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "Wearing pajamas to bed is appropriate.",
+            "sent2": "It is appropriate to say 'thank you' when someone helps you.",
+            "sent3": "It was not appropriate to wear a swimsuit to a job interview.",
+            "sent4": "Her laughter was appropriate for the joyous occasion.",
+            "sent5": "The teacher's smile was appropriate for the happy news she shared."
         },
         {
             "definition": "To take for one's own use, typically without the owner's permission",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He tried to appropriate his friend's toy without asking.",
+            "sent2": "The thief decided to appropriate the valuable painting from the museum.",
+            "sent3": "She jokingly threatened to appropriate her sister's dessert.",
+            "sent4": "The villain's plan was to appropriate the treasure for himself.",
+            "sent5": "The pirate captain wanted to appropriate the enemy ship for his crew."
         },
         {
             "definition": "To allocate (money or resources) for a particular purpose",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The government will appropriate funds for the new school building.",
+            "sent2": "It is important to appropriate enough time for studying before the exam.",
+            "sent3": "She decided to appropriate a portion of her allowance for charity.",
+            "sent4": "The company will appropriate resources for the upcoming project.",
+            "sent5": "The team leader will appropriate tasks to each member for the assignment."
         }
     ]
 }

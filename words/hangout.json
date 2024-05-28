@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "a place where a person frequently spends time",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The park is our favorite hangout after school.",
+            "sent2": "The coffee shop is a popular hangout for students.",
+            "sent3": "The library became a hangout for book lovers.",
+            "sent4": "The beach is a hangout where the sun and sand meet.",
+            "sent5": "The treehouse was our secret hangout spot."
         },
         {
             "definition": "to spend time relaxing or socializing in a casual manner",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Let's hangout at the mall this weekend.",
+            "sent2": "We like to hangout at the park on sunny days.",
+            "sent3": "I hangout with my friends to have fun.",
+            "sent4": "She loves to hangout and chat with her neighbors.",
+            "sent5": "They hangout by the river to enjoy nature."
         }
     ]
 }

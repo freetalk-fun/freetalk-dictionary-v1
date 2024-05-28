@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Confuses or bewilders",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The tricky riddle fuddles my mind.",
+            "sent2": "The complex instructions fuddles many students.",
+            "sent3": "Trying to solve the puzzle fuddles me every time.",
+            "sent4": "Her unexpected question fuddles me like a maze.",
+            "sent5": "The magician's illusion fuddles the audience completely."
         },
         {
             "definition": "A state of confusion or bewilderment",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The unexpected news left him in a fuddles.",
+            "sent2": "She looked around in a fuddles after waking up in a new place.",
+            "sent3": "The mix-up at the party caused a fuddles among the guests.",
+            "sent4": "The sudden change in plans put everyone in a fuddles.",
+            "sent5": "The foggy weather added to the fuddles of finding the way home."
         },
         {
             "definition": "To mix or blend together in a confused manner",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The colors fuddles together in the painting.",
+            "sent2": "She accidentally fuddles the ingredients while baking.",
+            "sent3": "The music fuddles with the sounds of nature outside.",
+            "sent4": "The different scents fuddles in the kitchen during dinner preparation.",
+            "sent5": "The overlapping voices fuddles the message being conveyed."
         }
     ]
 }

@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A unit of digital information equal to 1,048,576 bytes.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "My computer has 8 megabytes of memory.",
+            "sent2": "The file size is 5 megabytes.",
+            "sent3": "I accidentally sent a picture that was too many megabytes in size!",
+            "sent4": "Her laughter echoed through the room, filling it with megabytes of joy.",
+            "sent5": "The teacher's explanation was as clear as a megabyte on a screen."
         },
         {
             "definition": "A unit of storage capacity equal to 1,000,000 bytes.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The new hard drive can store up to 500 megabytes of data.",
+            "sent2": "The camera's memory card has 32 megabytes of space left.",
+            "sent3": "I bought a bag that can hold megabytes of snacks for the road trip!",
+            "sent4": "His mind was a vast library, storing megabytes of memories.",
+            "sent5": "The excitement in the air was palpable, like a megabyte waiting to be accessed."
         }
     ]
 }

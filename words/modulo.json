@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "With respect to a specified modulus.",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "She solved the problem modulo the given constraints.",
+            "sent2": "He calculated the answer modulo the set conditions.",
+            "sent3": "The team worked modulo the coach's instructions.",
+            "sent4": "The project progressed modulo the timeline set by the manager.",
+            "sent5": "The event will proceed modulo the weather forecast."
         },
         {
             "definition": "A mathematical operation that finds the remainder when one number is divided by another.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "In this equation, the modulo is crucial to determine the final result.",
+            "sent2": "The modulo of 10 divided by 3 is 1.",
+            "sent3": "The modulo of the division surprised the students.",
+            "sent4": "She explained the concept of modulo using a simple example.",
+            "sent5": "The modulo operation is commonly used in programming."
         }
     ]
 }

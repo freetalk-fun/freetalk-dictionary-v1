@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A sentence that contains every letter of the alphabet.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The quick brown fox jumps over the lazy dog is a pangram.",
+            "sent2": "Can you think of a pangram that uses all the letters of the alphabet?",
+            "sent3": "The detective's favorite tool was a pangram to quickly check for all the letters.",
+            "sent4": "Her handwriting was like a pangram, neat and complete with every letter.",
+            "sent5": "In school, we learned about a special type of sentence called a pangram."
         },
         {
             "definition": "A phrase that includes all 26 letters of the English alphabet.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Sphinx of black quartz, judge my vow is a famous pangram.",
+            "sent2": "Have you ever tried creating your own pangram with all the letters?",
+            "sent3": "The pangram he came up with was so silly, it made everyone laugh.",
+            "sent4": "The crossword puzzle seemed like a pangram waiting to be solved.",
+            "sent5": "The artist's masterpiece was like a pangram of colors, each one perfectly placed."
         }
     ]
 }

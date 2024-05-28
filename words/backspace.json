@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "The key on a computer keyboard that deletes the character to the left of the cursor.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Press the backspace to erase the mistake.",
+            "sent2": "Make sure to use the backspace key when correcting errors.",
+            "sent3": "The backspace key is like a magic eraser for typos.",
+            "sent4": "Her finger hovered over the backspace, ready to undo the error.",
+            "sent5": "The backspace key is a lifesaver for fixing typos quickly."
         },
         {
             "definition": "To delete or erase text by pressing the backspace key.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I backspace to correct spelling errors.",
+            "sent2": "Remember to backspace if you make a mistake.",
+            "sent3": "He had to backspace several times to get the sentence right.",
+            "sent4": "Backspacing through the paragraph, she revised her work.",
+            "sent5": "The writer's fingers flew over the keyboard, backspacing to perfect the text."
         }
     ]
 }

@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A group of birds or sheep",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The colorful flock of birds flew across the sky.",
+            "sent2": "The shepherd counted his flock of sheep before sunset.",
+            "sent3": "The mischievous cat tried to join the flock of birds but failed.",
+            "sent4": "The field was a sea of white as the sheep flock grazed peacefully.",
+            "sent5": "The flock of birds created a mesmerizing pattern in the sky."
         },
         {
             "definition": "To gather or move in a crowd or group",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "People flock to the park on sunny weekends.",
+            "sent2": "Tourists flock to the beach during the summer months.",
+            "sent3": "The children flock around the ice cream truck when it arrives.",
+            "sent4": "Supporters flock to the stadium to cheer for their favorite team.",
+            "sent5": "Customers flock to the store for the big sale event."
         }
     ]
 }

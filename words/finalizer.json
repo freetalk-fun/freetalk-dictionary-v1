@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A person or thing that finalizes something.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The finalizer put the finishing touches on the project.",
+            "sent2": "The finalizer made sure everything was complete before the deadline.",
+            "sent3": "The finalizer was like the last puzzle piece, completing the whole picture.",
+            "sent4": "She was the finalizer, bringing everything together like a conductor leading an orchestra.",
+            "sent5": "The finalizer was the key to wrapping up the task successfully."
         },
         {
             "definition": "A function in programming that performs cleanup operations before an object is destroyed.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The finalizer ensured all resources were properly released.",
+            "sent2": "In programming, the finalizer is crucial for memory management.",
+            "sent3": "The finalizer in the code was like a diligent janitor, tidying up before closing time.",
+            "sent4": "The finalizer function acted like a guardian angel, protecting the program from clutter.",
+            "sent5": "The finalizer was the unsung hero, quietly doing its job behind the scenes."
         },
         {
             "definition": "A chemical substance used to complete a reaction or process.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The finalizer was added to ensure the reaction reached completion.",
+            "sent2": "The scientist carefully mixed in the finalizer to finish the experiment.",
+            "sent3": "The finalizer chemical was like the magic ingredient that made everything work perfectly.",
+            "sent4": "The finalizer acted as the fairy godmother, transforming the reaction into a success.",
+            "sent5": "The finalizer was the missing piece that made the whole process come together smoothly."
         }
     ]
 }

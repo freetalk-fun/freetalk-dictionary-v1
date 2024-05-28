@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To record a debit in an account.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I am debiting the amount from your account.",
+            "sent2": "She always debits her expenses promptly.",
+            "sent3": "The computer made a mistake by debiting twice the amount.",
+            "sent4": "Debiting the incorrect amount can lead to financial errors.",
+            "sent5": "Remember to debit the correct amount to avoid confusion."
         },
         {
             "definition": "To deduct or subtract from a balance.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He is debiting the overcharge from the bill.",
+            "sent2": "They debited the returned items from the total.",
+            "sent3": "The cashier mistakenly started debiting the wrong amount.",
+            "sent4": "Debiting unnecessary fees can impact your savings.",
+            "sent5": "Make sure to carefully debit any discounts from the total."
         },
         {
             "definition": "The act of debiting an account.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The debiting of expenses is crucial for financial records.",
+            "sent2": "She handles the debiting of accounts with precision.",
+            "sent3": "The sudden debiting of funds surprised everyone.",
+            "sent4": "The debiting of funds felt like a loss to the company.",
+            "sent5": "His expertise lies in the accurate debiting of accounts."
         }
     ]
 }

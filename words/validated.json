@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Confirm or substantiate",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The scientist validated her hypothesis through careful experimentation.",
+            "sent2": "The judge validated the parking ticket, allowing the driver to leave without a fine.",
+            "sent3": "The detective validated the suspect's alibi, leading to a surprising twist in the case.",
+            "sent4": "Her smile validated his efforts, making all the hard work worth it.",
+            "sent5": "The teacher's approval validated the student's hard work and dedication."
         },
         {
             "definition": "Prove or declare valid",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The signature on the document was validated by a handwriting expert.",
+            "sent2": "The certificate validated his qualifications for the job.",
+            "sent3": "The magician validated his prediction by correctly guessing the card chosen by the audience member.",
+            "sent4": "The success of the project validated their innovative approach to problem-solving.",
+            "sent5": "The official stamp validated the authenticity of the passport."
         },
         {
             "definition": "Support or corroborate",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The witness's testimony validated the victim's account of the incident.",
+            "sent2": "The data from the study validated the researcher's hypothesis.",
+            "sent3": "The reviews from critics validated the artist's unique style.",
+            "sent4": "The positive feedback from customers validated the company's commitment to quality.",
+            "sent5": "The results of the experiment validated the theory proposed by the scientist."
         }
     ]
 }

@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Require something because it is essential or very important.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I need food to survive.",
+            "sent2": "She needs help with her homework.",
+            "sent3": "The cat thinks it needs to chase its tail to be happy.",
+            "sent4": "His car needs a new engine to keep running smoothly.",
+            "sent5": "In the desert, water is a need more important than gold."
         },
         {
             "definition": "Lack something essential or very important.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "They need sleep after a long day.",
+            "sent2": "He needs more time to finish the project.",
+            "sent3": "The phone needs charging to wake up.",
+            "sent4": "The garden needs sunlight to grow.",
+            "sent5": "Without air, we would all need oxygen tanks to breathe."
         },
         {
             "definition": "A thing that is required because it is essential or very important.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Water is a need for all living things.",
+            "sent2": "His biggest need is a warm place to sleep.",
+            "sent3": "The robot's need for batteries is never-ending.",
+            "sent4": "The plant's need for sunlight is evident in its growth.",
+            "sent5": "In a survival situation, shelter becomes a need for protection."
         }
     ]
 }

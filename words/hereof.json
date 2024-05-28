@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Of this.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "This book is a hereof edition, meaning it is about this specific topic.",
+            "sent2": "The hereof paragraph in the contract refers to this particular section.",
+            "sent3": "The hereof cupcake is the one with this frosting on top.",
+            "sent4": "Her smile was a hereof beacon of joy in the room.",
+            "sent5": "The hereof painting captured the essence of this beautiful landscape."
         },
         {
             "definition": "Concerning this.",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "She spoke hereof, discussing only this matter.",
+            "sent2": "The report hereof highlights the key points about this issue.",
+            "sent3": "He danced hereof, moving gracefully around this topic.",
+            "sent4": "The music played hereof, setting the mood for this event.",
+            "sent5": "The speech focused hereof, addressing only this specific concern."
         },
         {
             "definition": "From this.",
-            "pos": "preposition"
+            "pos": "preposition",
+            "sent1": "The river flows hereof, originating from this source.",
+            "sent2": "The scent wafted hereof, coming from this delicious meal.",
+            "sent3": "The laughter echoed hereof, starting from this hilarious joke.",
+            "sent4": "The road leads hereof, beginning from this point.",
+            "sent5": "The light shines hereof, emanating from this bright lamp."
         }
     ]
 }

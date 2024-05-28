@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To make impure by contact or mixture",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The dirty water contaminated the clean stream.",
+            "sent2": "The spilled oil contaminated the ocean.",
+            "sent3": "The mischievous raccoon contaminated the picnic by knocking over the trash can.",
+            "sent4": "His negative attitude contaminated the team's morale.",
+            "sent5": "The virus quickly contaminated the entire population."
         },
         {
             "definition": "To expose to infection or disease",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The sick person contaminated the others in the room.",
+            "sent2": "The moldy food contaminated the entire batch.",
+            "sent3": "The sneezing clown contaminated the party with laughter.",
+            "sent4": "Her contagious laughter contaminated the serious meeting.",
+            "sent5": "The virus easily contaminated the entire school."
         },
         {
             "definition": "To make unfit for use by the introduction of unwholesome or undesirable elements",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The expired milk contaminated the recipe.",
+            "sent2": "The broken glass contaminated the salad.",
+            "sent3": "The clumsy chef contaminated the dish with too much salt.",
+            "sent4": "The loud music contaminated the peaceful atmosphere.",
+            "sent5": "The negative comments contaminated the positive vibes."
         }
     ]
 }

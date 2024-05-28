@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Used to introduce examples or additional information.",
-            "pos": "conjunction"
+            "pos": "conjunction",
+            "sent1": "I like many fruits, including apples and bananas.",
+            "sent2": "She enjoys outdoor activities, including hiking and biking.",
+            "sent3": "The picnic was a success, with everyone bringing something to share, including delicious desserts.",
+            "sent4": "His collection of stamps is vast, including rare and unique pieces.",
+            "sent5": "The library offers a variety of books, including fiction and non-fiction titles."
         },
         {
             "definition": "Comprising as part of a whole.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The inclusive package covers all expenses, including meals and accommodation.",
+            "sent2": "The team worked together on the inclusive project, including members from different departments.",
+            "sent3": "The puzzle was challenging, with missing pieces including the corners.",
+            "sent4": "The diverse menu had options for everyone, including vegetarian and gluten-free dishes.",
+            "sent5": "The comprehensive report covered all aspects of the study, including methodology and results."
         }
     ]
 }

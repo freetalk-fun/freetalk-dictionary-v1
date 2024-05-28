@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Taxies: the plural form of the noun 'taxi', meaning a vehicle used to transport passengers for a fare.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The taxies lined up outside the airport were all yellow.",
+            "sent2": "I took one of the taxies waiting outside the train station.",
+            "sent3": "The competition between the two taxies for customers was fierce.",
+            "sent4": "The fleet of taxies in the city resembled a colorful parade.",
+            "sent5": "The sound of honking taxies filled the busy streets."
         },
         {
             "definition": "Taxies: the third person singular form of the verb 'taxi', meaning to move an aircraft on the ground under its own power.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The airplane taxies slowly towards the runway.",
+            "sent2": "The pilot expertly taxies the plane to the gate after landing.",
+            "sent3": "The tiny toy plane taxies around the miniature airport.",
+            "sent4": "The aircraft taxies gracefully, guided by the ground crew.",
+            "sent5": "The plane taxies smoothly, ready for takeoff."
         }
     ]
 }

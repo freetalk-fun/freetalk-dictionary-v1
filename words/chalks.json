@@ -3,19 +3,39 @@
     "meanings": [
         {
             "definition": "A soft, white, porous sedimentary rock made of calcium carbonate.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The teacher used chalks to write on the blackboard.",
+            "sent2": "The children drew pictures on the sidewalk with colorful chalks.",
+            "sent3": "The artist accidentally dropped the box of chalks, creating a cloud of white dust.",
+            "sent4": "The cliffs along the beach resembled giant chalks towering over the shore.",
+            "sent5": "The scientist explained how chalks are formed from tiny sea creatures' shells."
         },
         {
             "definition": "Marks made with chalk, typically used for writing or drawing.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The teacher's chalks left clear lines on the board.",
+            "sent2": "The hopscotch grid was drawn with colorful chalks on the pavement.",
+            "sent3": "The detective found chalks outlining the victim's body at the crime scene.",
+            "sent4": "The artist's masterpiece was created using various colored chalks.",
+            "sent5": "The children's drawings covered the sidewalk in a rainbow of chalks."
         },
         {
             "definition": "To mark or draw with chalk.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She chalks the lines on the soccer field before each game.",
+            "sent2": "The children chalk the sidewalks with their imaginative creations.",
+            "sent3": "He chalks a funny face on the back of his friend's shirt as a prank.",
+            "sent4": "The artist carefully chalks the outline of the portrait before painting.",
+            "sent5": "The gymnast chalks her hands before attempting the difficult routine."
         },
         {
             "definition": "To accumulate or gather something, such as points or wins.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The team chalks up another victory in the championship.",
+            "sent2": "She chalks points on the scoreboard with each successful shot.",
+            "sent3": "He chalks up wins in every competition he enters.",
+            "sent4": "The company chalks up record profits for the third consecutive year.",
+            "sent5": "The student chalks up achievements in academics and sports alike."
         }
     ]
 }

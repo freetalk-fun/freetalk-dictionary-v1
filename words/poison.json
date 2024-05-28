@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A substance that is capable of causing illness or death when ingested, inhaled, or absorbed.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The poison in the bottle made the person very sick.",
+            "sent2": "She accidentally ingested poison from the contaminated food.",
+            "sent3": "The poison in the cake turned the birthday party into a disaster.",
+            "sent4": "His words were like poison, slowly eroding her self-esteem.",
+            "sent5": "The poison ivy leaves were a vibrant green, but dangerous to touch."
         },
         {
             "definition": "To administer poison to (a person or animal).",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The evil witch tried to poison the princess with a cursed apple.",
+            "sent2": "He plotted to poison the king's drink to seize the throne.",
+            "sent3": "The mischievous cat attempted to poison the dog's water bowl.",
+            "sent4": "Her jealousy began to poison her relationships with others.",
+            "sent5": "The villain's plan to poison the town's water supply was thwarted by the hero."
         },
         {
             "definition": "Something harmful or destructive.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Gossip can be a poison that spreads negativity.",
+            "sent2": "The pollution in the river was a poison to the fish population.",
+            "sent3": "His laziness was a poison to the productivity of the team.",
+            "sent4": "The toxic relationship was a slow-acting poison on her mental health.",
+            "sent5": "The invasive species was a poison to the delicate ecosystem of the forest."
         }
     ]
 }

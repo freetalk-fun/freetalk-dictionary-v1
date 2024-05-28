@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "In a harmful or damaging way",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "She ran detrimentally fast, tripping over her own feet.",
+            "sent2": "The storm affected the crops detrimentally, causing a decrease in yield.",
+            "sent3": "The cat detrimentally knocked over the vase, creating a mess on the floor.",
+            "sent4": "His absence was detrimentally felt in the team, leading to a loss in the game.",
+            "sent5": "The loud noise detrimentally startled the birds, making them fly away in a panic."
         },
         {
             "definition": "Causing harm or damage",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The detrimental effects of the pollution were evident in the river.",
+            "sent2": "Using a sharp knife is detrimental when handling delicate materials.",
+            "sent3": "The detrimental behavior of the child resulted in a time-out.",
+            "sent4": "The detrimental decision to cut corners led to a faulty product.",
+            "sent5": "The detrimental impact of the earthquake left the town in ruins."
         }
     ]
 }

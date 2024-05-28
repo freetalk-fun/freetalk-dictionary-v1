@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A person or thing that makes partial or minor changes to something.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The mechanic is a skilled modifier of cars.",
+            "sent2": "The teacher is a helpful modifier of students' behavior.",
+            "sent3": "The cat, a sneaky modifier of the curtains, left them in disarray.",
+            "sent4": "Time is a silent modifier of memories, shaping them over the years.",
+            "sent5": "The artist's brush, a delicate modifier of the canvas, brought the painting to life."
         },
         {
             "definition": "A word or phrase that qualifies or limits the meaning of another word or phrase.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "In the sentence, 'very' is a common modifier used to emphasize.",
+            "sent2": "The word 'not' is a useful modifier to indicate negation.",
+            "sent3": "The joke, a clever modifier of the punchline, made everyone laugh.",
+            "sent4": "Her smile, a bright modifier of her face, lit up the room.",
+            "sent5": "The key detail, an important modifier of the story, changed everything."
         },
         {
             "definition": "A device or substance that alters the properties of another substance.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The chemical modifier enhanced the cleaning power of the detergent.",
+            "sent2": "The filter is a necessary modifier for purifying water.",
+            "sent3": "The potion, a magical modifier of strength, made the hero unbeatable.",
+            "sent4": "The sunlight, a natural modifier of colors, brightened the landscape.",
+            "sent5": "The spice, a flavorful modifier of the dish, added a delicious kick."
         }
     ]
 }

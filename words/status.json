@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "The position of an individual in relation to others.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Her status as the team captain made her a leader among her peers.",
+            "sent2": "The social status of the family was well-known in the community.",
+            "sent3": "Despite his status as the youngest, he always had the best ideas.",
+            "sent4": "In the hierarchy of the jungle, the lion's status as king was unquestioned.",
+            "sent5": "The status of the CEO was evident in the way everyone deferred to her decisions."
         },
         {
             "definition": "The condition or state of something.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The status of the project was marked as 'in progress'.",
+            "sent2": "The car's status as 'out of gas' explained why it wouldn't start.",
+            "sent3": "The status of the cake went from raw batter to a delicious dessert.",
+            "sent4": "The status of the weather changed from sunny to stormy in a matter of minutes.",
+            "sent5": "The status of the garden transformed from a barren land to a blooming paradise."
         },
         {
             "definition": "A legal or official position.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "His status as a witness in the trial required him to tell the truth.",
+            "sent2": "The company's status as a corporation provided certain legal protections.",
+            "sent3": "The status of being a juror meant he had to listen carefully to the evidence.",
+            "sent4": "The official status of the document was confirmed by the notary public.",
+            "sent5": "The legal status of the contract was binding once both parties signed it."
         }
     ]
 }

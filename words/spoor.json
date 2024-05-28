@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "The track or scent left by a person or animal.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "We followed the spoor of the deer through the forest.",
+            "sent2": "The hunter found the spoor of the bear near the river.",
+            "sent3": "The detective carefully examined the spoor left at the crime scene.",
+            "sent4": "The spoor of the lost dog led us to the park.",
+            "sent5": "The spoor of the rabbit was faint but still visible on the path."
         },
         {
             "definition": "To track or follow the trail of an animal.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The wildlife expert decided to spoor the tiger in the jungle.",
+            "sent2": "We spoor the wolves to study their migration patterns.",
+            "sent3": "I will spoor the cat to see where it goes every night.",
+            "sent4": "She spoor the fox through the snowy fields.",
+            "sent5": "The researchers spoor the elephants to observe their behavior."
         },
         {
             "definition": "To search for or follow the trail of an animal.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The tracker began to spoor the missing dog in the neighborhood.",
+            "sent2": "We spoor the mountain lion to ensure it stays away from the campsite.",
+            "sent3": "The children decided to spoor the mysterious creature in the woods.",
+            "sent4": "He spoor the injured bird to help it find its way back to the nest.",
+            "sent5": "She spoor the elusive fox through the thick underbrush."
         }
     ]
 }

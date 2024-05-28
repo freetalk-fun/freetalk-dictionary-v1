@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Food",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The vittling at the party was delicious.",
+            "sent2": "I need to buy some vittling for the picnic.",
+            "sent3": "The vittling seemed to disappear as soon as it was served.",
+            "sent4": "Her love for vittling was evident in the way she cooked for her friends.",
+            "sent5": "The aroma of the vittling filled the kitchen, making everyone hungry."
         },
         {
             "definition": "To provide food for",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She enjoys vittling her family with homemade meals.",
+            "sent2": "The restaurant will vittle the guests at the event.",
+            "sent3": "The chef vittled the customers with a special menu.",
+            "sent4": "The volunteers vittled the homeless with warm meals.",
+            "sent5": "He vittles his pets with nutritious food every day."
         },
         {
             "definition": "To eat or consume food",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "After a long day, I was ready to vittle on some comfort food.",
+            "sent2": "The children vittled on the snacks during the movie.",
+            "sent3": "She couldn't resist vittling on the freshly baked cookies.",
+            "sent4": "The travelers vittled on local cuisine during their trip.",
+            "sent5": "The athletes vittled on energy bars before the race."
         }
     ]
 }

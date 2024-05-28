@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Give something and receive something of the same kind in return.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I will exchange my toy car for your action figure.",
+            "sent2": "Let's exchange our books so we can read something new.",
+            "sent3": "The siblings decided to exchange their sandwiches at lunch.",
+            "sent4": "In the game, players can exchange their cards to build a stronger deck.",
+            "sent5": "She wanted to exchange her old phone for a newer model."
         },
         {
             "definition": "The act of giving something and receiving something in return.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The exchange of gifts during the holidays is always exciting.",
+            "sent2": "Their exchange of ideas led to a brilliant solution.",
+            "sent3": "The exchange of smiles between the friends showed their happiness.",
+            "sent4": "The cultural exchange program allowed students to learn about different traditions.",
+            "sent5": "The exchange of vows at the wedding brought tears of joy to everyone."
         },
         {
             "definition": "A place where securities or commodities are bought and sold.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The stock exchange was bustling with traders buying and selling shares.",
+            "sent2": "She visited the currency exchange to get euros for her trip.",
+            "sent3": "The food exchange at the market offered a variety of fresh produce.",
+            "sent4": "The exchange of gold in the market reflected the fluctuating prices.",
+            "sent5": "The exchange of goods at the auction raised funds for charity."
         }
     ]
 }

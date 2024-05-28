@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A person who subleases property to another.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The sublessor rented out the apartment to a new tenant.",
+            "sent2": "The sublessor signed a contract with the sublessee.",
+            "sent3": "The sublessor accidentally locked themselves out of the subleased property.",
+            "sent4": "The sublessor's role is like a bridge between the landlord and the sublessee.",
+            "sent5": "The sublessor is responsible for maintaining the subleased property in good condition."
         },
         {
             "definition": "To sublease property to another party.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She decided to sublessor her apartment while she was away on vacation.",
+            "sent2": "He sublessors his office space to freelancers looking for a workspace.",
+            "sent3": "The company will sublessor the warehouse to reduce costs.",
+            "sent4": "They chose to sublessor the property rather than terminate the lease.",
+            "sent5": "Sublessoring the house allowed them to earn extra income."
         }
     ]
 }

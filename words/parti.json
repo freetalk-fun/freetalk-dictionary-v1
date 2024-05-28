@@ -3,23 +3,48 @@
     "meanings": [
         {
             "definition": "A group of people forming a distinct unit within a larger group",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "During the school project, our team was a parti that worked together.",
+            "sent2": "The book club was a parti of avid readers who met every week.",
+            "sent3": "At the family reunion, each household became a parti for the fun games.",
+            "sent4": "In the bustling city, each neighborhood was like a parti with its own character.",
+            "sent5": "The choir members were a harmonious parti, blending their voices beautifully."
         },
         {
             "definition": "A political party",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The election campaign focused on the promises made by each parti.",
+            "sent2": "The citizens debated which parti's policies aligned with their beliefs.",
+            "sent3": "The animal kingdom had a playful parti where the lions and zebras discussed their issues.",
+            "sent4": "In the forest, the trees and bushes formed a green parti, advocating for nature's rights.",
+            "sent5": "The superhero team was a powerful parti, fighting for justice and equality."
         },
         {
             "definition": "A social gathering or event",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The birthday party was a lively parti with music and cake.",
+            "sent2": "The community organized a parti to celebrate the harvest festival.",
+            "sent3": "The animals in the zoo had a colorful parti, enjoying the visitors' attention.",
+            "sent4": "The beach party turned into a wild parti with dancing and laughter.",
+            "sent5": "The school dance was a memorable parti where friendships were formed."
         },
         {
             "definition": "A piece or portion of something",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "She cut a parti of the cake to share with her friends.",
+            "sent2": "The puzzle was missing a parti, making it challenging to complete.",
+            "sent3": "The artist painted each parti of the landscape with great detail.",
+            "sent4": "The recipe called for a parti of sugar to sweeten the dish.",
+            "sent5": "The map highlighted each parti of the city, showing different landmarks."
         },
         {
             "definition": "To divide into parts or shares",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "They decided to parti the profits equally among the team members.",
+            "sent2": "The teacher asked the students to parti the group work tasks.",
+            "sent3": "The siblings agreed to parti the chores to finish them faster.",
+            "sent4": "The company planned to parti the project into smaller tasks for efficiency.",
+            "sent5": "The chef needed to parti the ingredients carefully for the recipe."
         }
     ]
 }

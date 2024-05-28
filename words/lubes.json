@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Lubricates: to apply a substance to reduce friction",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Dad lubes the bike chain to make it move smoothly.",
+            "sent2": "She always lubes the door hinges to prevent squeaking.",
+            "sent3": "The robot lubes its joints with oil for a dance routine.",
+            "sent4": "The mechanic lubes the engine, making it purr like a contented cat.",
+            "sent5": "The skater lubes the wheels, gliding effortlessly across the rink."
         },
         {
             "definition": "Lubricant: a substance used to reduce friction",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "He bought a bottle of lubes for his squeaky bicycle chain.",
+            "sent2": "The mechanic applied lubes to the gears for smooth operation.",
+            "sent3": "The chef used the cooking lubes to prevent sticking in the pan.",
+            "sent4": "The car engine ran smoothly thanks to the high-quality lubes.",
+            "sent5": "The factory workers always have a supply of lubes for the machines."
         },
         {
             "definition": "Lubrication: the act of applying a substance to reduce friction",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Regular lubes of the gears keep the machine running smoothly.",
+            "sent2": "The bike maintenance includes regular lubes of the moving parts.",
+            "sent3": "The clown's act involved comically exaggerated lubes of his shoes.",
+            "sent4": "The team's success was due in part to the efficient lubes of communication.",
+            "sent5": "The singer's voice glided effortlessly through the song, like a well-lubed machine."
         }
     ]
 }

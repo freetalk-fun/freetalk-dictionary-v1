@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Representing an abstract concept in a concrete form.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The artist's instantiating painting brought life to the museum.",
+            "sent2": "The instantiating sculpture beautifully captured the essence of nature.",
+            "sent3": "The instantiating design of the building made it look like a real-life fairy tale castle.",
+            "sent4": "Her instantiating imagination turned the dull room into a magical wonderland.",
+            "sent5": "The instantiating colors on the canvas made the artwork truly mesmerizing."
         },
         {
             "definition": "Creating an instance or example of a class or object.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She was instantiating a new character in her story.",
+            "sent2": "The programmer was instantiating a new object in the code.",
+            "sent3": "Instantiating a new recipe, she accidentally added too much salt.",
+            "sent4": "The chef was instantiating a masterpiece dish for the competition.",
+            "sent5": "Instantiating a new friendship, they shared a special bond from the start."
         }
     ]
 }

@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A binary digit, either 0 or 1.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "In computers, a binit can only be either 0 or 1.",
+            "sent2": "The binit in the code represents either a 0 or a 1.",
+            "sent3": "I tried to use a binit to count my fingers, but it didn't work.",
+            "sent4": "His mind worked like a binit, always switching between 0 and 1.",
+            "sent5": "The binit on the screen blinked rapidly, indicating data transmission."
         },
         {
             "definition": "To combine two items into a single unit.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Let's binit these two ingredients to make a delicious dish.",
+            "sent2": "She decided to binit her old clothes to create a new outfit.",
+            "sent3": "I binit my socks and shoes to save time in the morning.",
+            "sent4": "Their friendship was so strong, it felt like they binit into one person.",
+            "sent5": "The artist binit different colors to create a beautiful painting."
         }
     ]
 }

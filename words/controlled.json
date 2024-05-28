@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To exercise restraint or direction over; dominate; command.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The teacher controlled the class during the lesson.",
+            "sent2": "The traffic lights controlled the flow of cars on the road.",
+            "sent3": "The remote-controlled toy car kept crashing into walls, much to the amusement of the children.",
+            "sent4": "Her calm demeanor controlled the chaotic situation like a skilled conductor leading an orchestra.",
+            "sent5": "The strict rules in the game controlled the players' actions, ensuring fair play."
         },
         {
             "definition": "To hold in check; curb.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She controlled her temper and didn't lash out in anger.",
+            "sent2": "The medication helped to control his allergy symptoms.",
+            "sent3": "The controlled burn of the field prevented a larger wildfire from spreading.",
+            "sent4": "His fear of failure controlled his willingness to take risks, like a heavy weight holding him back.",
+            "sent5": "The scientist carefully controlled the variables in the experiment to ensure accurate results."
         },
         {
             "definition": "To regulate or manage.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The thermostat controlled the temperature in the room.",
+            "sent2": "She controlled her spending by creating a budget.",
+            "sent3": "The chef controlled the heat of the stove with precision, like a maestro conducting a symphony.",
+            "sent4": "His strict diet controlled his intake of unhealthy foods, like a gatekeeper allowing only the good stuff in.",
+            "sent5": "The manager controlled the workflow to ensure efficiency in the office."
         }
     ]
 }

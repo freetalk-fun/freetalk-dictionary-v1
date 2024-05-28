@@ -3,19 +3,39 @@
     "meanings": [
         {
             "definition": "The front part of a person's head where the eyes, nose, and mouth are located.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Her face lit up with a smile.",
+            "sent2": "I washed my face before going to bed.",
+            "sent3": "The clown's face was painted with colorful patterns.",
+            "sent4": "The old clock face reminded him of his childhood home.",
+            "sent5": "The baby's chubby face was irresistible to everyone."
         },
         {
             "definition": "The surface of a shape.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The cube has six faces.",
+            "sent2": "The diamond's faces sparkled in the sunlight.",
+            "sent3": "The cake was decorated with edible faces of animals.",
+            "sent4": "The mountain's rocky face was challenging to climb.",
+            "sent5": "The building's glass face reflected the city skyline."
         },
         {
             "definition": "To confront or deal with a difficult situation.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She faces her fears bravely.",
+            "sent2": "He faces a tough decision ahead.",
+            "sent3": "The team faces a formidable opponent in the final match.",
+            "sent4": "Facing the storm, they stood strong together.",
+            "sent5": "The detective faces a puzzling mystery to solve."
         },
         {
             "definition": "To be positioned towards a certain direction.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The house faces the ocean, offering a stunning view.",
+            "sent2": "The statue faces east, welcoming the sunrise.",
+            "sent3": "The garden faces the setting sun, creating a peaceful atmosphere.",
+            "sent4": "The classroom faces the playground, allowing the children to see outside.",
+            "sent5": "The restaurant faces the busy street, attracting many customers."
         }
     ]
 }

@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Third person singular present of be.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He isit happy.",
+            "sent2": "The cat isit sleeping.",
+            "sent3": "Isit the sun that shines or the moon?",
+            "sent4": "Her laughter isit music to my ears.",
+            "sent5": "The flower isit blooming beautifully."
         },
         {
             "definition": "Used to ask for confirmation or agreement.",
-            "pos": "interjection"
+            "pos": "interjection",
+            "sent1": "Isit okay if I join you?",
+            "sent2": "Isit really your birthday today?",
+            "sent3": "Isit time for ice cream already?",
+            "sent4": "His talent isit impressive!",
+            "sent5": "Isit a lovely day for a picnic?"
         },
         {
             "definition": "Used to express doubt or uncertainty.",
-            "pos": "interjection"
+            "pos": "interjection",
+            "sent1": "Isit going to rain later?",
+            "sent2": "Isit safe to cross the street now?",
+            "sent3": "Isit possible to travel back in time?",
+            "sent4": "Isit true that elephants can fly?",
+            "sent5": "Isit really you in that costume?"
         }
     ]
 }

@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To look at or examine again.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I need to relook at my notes before the test.",
+            "sent2": "She decided to relook at the map to find the right direction.",
+            "sent3": "Let's relook at the recipe to make sure we didn't miss any steps.",
+            "sent4": "The detective had to relook at the evidence to solve the case.",
+            "sent5": "It's important to relook at your work to catch any mistakes."
         },
         {
             "definition": "A second look or examination.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "He took a quick relook at the painting before leaving the gallery.",
+            "sent2": "She gave the document a thorough relook to spot any errors.",
+            "sent3": "The relook at the puzzle revealed the missing piece under the table.",
+            "sent4": "The relook at the data showed a pattern that was previously missed.",
+            "sent5": "The relook at the contract uncovered a clause that needed revision."
         }
     ]
 }

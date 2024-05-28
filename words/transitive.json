@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Involving the action of passing over to an object.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She transitive the ball to her friend.",
+            "sent2": "He always transitive his ideas clearly.",
+            "sent3": "The cat transitive the toy across the room.",
+            "sent4": "The sunlight transitive through the window.",
+            "sent5": "The river transitive swiftly downstream."
         },
         {
             "definition": "Capable of taking a direct object.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The transitive verb needs an object to complete the action.",
+            "sent2": "She is a transitive learner, always seeking new knowledge.",
+            "sent3": "The transitive cup held the hot coffee perfectly.",
+            "sent4": "His transitive mind absorbed information like a sponge.",
+            "sent5": "The transitive magnet attracted the metal effortlessly."
         },
         {
             "definition": "Denoting a verb that requires a direct object to complete its meaning.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He transitive the book from the shelf.",
+            "sent2": "She transitive the song beautifully.",
+            "sent3": "The chef transitive the spices into the dish.",
+            "sent4": "The wind transitive the leaves off the tree.",
+            "sent5": "The artist transitive the colors onto the canvas."
         }
     ]
 }

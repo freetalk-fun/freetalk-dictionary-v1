@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "No longer fresh or pleasant to eat",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The bread became stale after sitting out for a few days.",
+            "sent2": "The cookies tasted stale because they were left uncovered.",
+            "sent3": "The joke was as stale as the bread left out too long.",
+            "sent4": "Her ideas were as stale as the old bread in the pantry.",
+            "sent5": "The air in the room was so stale, it felt like breathing in dust."
         },
         {
             "definition": "Lacking in originality or interest",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The movie was stale, following the same predictable plot.",
+            "sent2": "His jokes were getting stale, and no one laughed anymore.",
+            "sent3": "The party had a stale atmosphere, with nothing new or exciting happening.",
+            "sent4": "Her artwork felt stale, lacking the creativity it once had.",
+            "sent5": "The conversation grew stale, with no fresh ideas being shared."
         },
         {
             "definition": "To become less appealing or interesting due to overuse or repetition",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The meme quickly became stale after being shared too many times.",
+            "sent2": "His stories tend to stale when he tells them repeatedly.",
+            "sent3": "The song started to stale after being played on the radio non-stop.",
+            "sent4": "The magic trick would stale if performed too frequently.",
+            "sent5": "Her enthusiasm for the project began to stale as the same tasks were repeated."
         }
     ]
 }

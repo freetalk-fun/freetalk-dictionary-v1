@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To process (something) again.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "After making a mistake, she reprocesses the document to correct it.",
+            "sent2": "The factory reprocesses old materials to create new products.",
+            "sent3": "He accidentally reprocesses the same file multiple times, creating a loop of errors.",
+            "sent4": "Her mind constantly reprocesses memories, trying to make sense of them.",
+            "sent5": "The computer program reprocesses data at lightning speed, improving efficiency."
         },
         {
             "definition": "To subject (something) to a further process or treatment.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The chef reprocesses the sauce to enhance its flavor.",
+            "sent2": "The lab reprocesses samples for more accurate results.",
+            "sent3": "The machine reprocesses the material, giving it a shiny new look.",
+            "sent4": "The artist reprocesses old paintings, adding new layers of meaning.",
+            "sent5": "The company reprocesses waste to reduce environmental impact."
         }
     ]
 }

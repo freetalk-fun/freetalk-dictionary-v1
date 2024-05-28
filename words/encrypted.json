@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To convert (information or data) into a code in order to prevent unauthorized access.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She encrypted her diary to keep her brother from reading it.",
+            "sent2": "The spy encrypted the message to protect it from enemy interception.",
+            "sent3": "The squirrel encrypted its nut stash location to outsmart the other animals.",
+            "sent4": "His love for her was encrypted in every heartfelt gesture.",
+            "sent5": "The wizard encrypted the spell to safeguard its power."
         },
         {
             "definition": "Encoded in a way that only authorized parties can access or understand.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The encrypted file could only be opened with a special key.",
+            "sent2": "The treasure map was encrypted with symbols known only to the pirate crew.",
+            "sent3": "The cat's encrypted meows seemed like a secret language to the curious dog.",
+            "sent4": "Her eyes held an encrypted message of sorrow that only he could decipher.",
+            "sent5": "The ancient scroll contained encrypted wisdom waiting to be unlocked."
         }
     ]
 }

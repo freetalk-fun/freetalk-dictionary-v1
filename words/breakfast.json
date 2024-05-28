@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "The first meal of the day, typically eaten in the morning.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Every morning, I enjoy a delicious breakfast of cereal and milk.",
+            "sent2": "I always make sure to have breakfast before starting my day.",
+            "sent3": "The breakfast table was set with colorful plates and steaming coffee.",
+            "sent4": "The sunrise painted the sky with hues of orange, just like a breakfast of fruit.",
+            "sent5": "The smell of bacon sizzling on the stove filled the kitchen, signaling breakfast time."
         },
         {
             "definition": "To eat breakfast.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I breakfasted on toast and jam this morning.",
+            "sent2": "She always breakfasts on oatmeal to stay healthy.",
+            "sent3": "The family breakfasted together, sharing stories and laughter.",
+            "sent4": "As the birds chirped outside, she breakfasted peacefully by the window.",
+            "sent5": "He breakfasted quickly, eager to start his day of adventure."
         }
     ]
 }

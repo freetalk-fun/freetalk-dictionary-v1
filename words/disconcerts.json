@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To disturb the composure of; unsettle",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The loud noise disconcerts me.",
+            "sent2": "Unexpected news always disconcerts him.",
+            "sent3": "The magician's disappearing act disconcerts the audience.",
+            "sent4": "The sudden change in weather disconcerts the picnic plans.",
+            "sent5": "The eerie silence of the abandoned house disconcerts visitors."
         },
         {
             "definition": "To frustrate (plans, efforts, etc.)",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Her constant interruptions disconcert our study group.",
+            "sent2": "The technical issues disconcerted the team's progress.",
+            "sent3": "The mischievous cat disconcerts the dog's attempts to nap.",
+            "sent4": "The unexpected rain disconcerted our outdoor event.",
+            "sent5": "The missing ingredient disconcerted the chef's recipe."
         },
         {
             "definition": "To throw into disorder or confusion",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The messy room disconcerts her sense of order.",
+            "sent2": "The conflicting instructions disconcerted the new employees.",
+            "sent3": "The jumbled words disconcert the young reader.",
+            "sent4": "The maze of corridors disconcerted the lost travelers.",
+            "sent5": "The complex puzzle disconcerts even the experienced solver."
         }
     ]
 }

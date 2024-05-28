@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A short, sharp sound made by a computer mouse or keyboard when a button is pressed.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I heard a click when I pressed the mouse button.",
+            "sent2": "The click of the keyboard keys filled the quiet room.",
+            "sent3": "The click of the mouse sounded like a tiny drumbeat.",
+            "sent4": "The click of the keyboard was like raindrops on a tin roof.",
+            "sent5": "The click of the mouse was as loud as a tiny bell ringing."
         },
         {
             "definition": "To make a short, sharp sound.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I like to click my pen when I'm thinking.",
+            "sent2": "The door handle clicked shut behind me.",
+            "sent3": "The old clock clicked away the seconds in the room.",
+            "sent4": "Her heels clicked on the pavement as she walked away.",
+            "sent5": "The gears clicked into place with a satisfying sound."
         },
         {
             "definition": "To select an item on a computer screen by pressing a button on a mouse.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I click on the icon to open the program.",
+            "sent2": "She clicked on the link to visit the website.",
+            "sent3": "The cat tried to click on the moving cursor on the screen.",
+            "sent4": "With a click, the file was successfully saved.",
+            "sent5": "He clicked on the image to zoom in for a closer look."
         }
     ]
 }

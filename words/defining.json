@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To determine or identify the essential qualities or meaning of something.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She is defining the main idea of the story.",
+            "sent2": "The dictionary is defining the word 'courage'.",
+            "sent3": "By defining the rules clearly, everyone knows what to do.",
+            "sent4": "Her smile is defining her happiness.",
+            "sent5": "The bright colors defining the beauty of the painting."
         },
         {
             "definition": "Serving to describe or distinguish something.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The defining feature of the car is its speed.",
+            "sent2": "His defining characteristic is his kindness.",
+            "sent3": "The defining moment of the party was when the cake fell.",
+            "sent4": "The sunset painted the sky with defining colors.",
+            "sent5": "The defining trait of the flower is its fragrance."
         },
         {
             "definition": "The act of outlining or explaining the nature of something.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "His defining of the problem helped us solve it.",
+            "sent2": "The defining of the theory took hours of research.",
+            "sent3": "The defining of the joke made everyone laugh.",
+            "sent4": "The defining of the mountain's peak was breathtaking.",
+            "sent5": "The defining of the plan made it clear for everyone."
         }
     ]
 }

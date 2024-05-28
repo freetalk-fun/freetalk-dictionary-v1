@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Packetising (verb): the act of dividing data into packets for transmission",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I am packetising the information to send it over the internet.",
+            "sent2": "The computer is packetising the file before sending it to the printer.",
+            "sent3": "Packetising the data is like putting it into small envelopes for delivery.",
+            "sent4": "She packetised her thoughts into concise messages for better communication.",
+            "sent5": "Packetising the data ensures efficient and organized transmission."
         },
         {
             "definition": "Packetising (adjective): relating to the process of packetising data for communication",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The packetising software helps in organizing the information for transfer.",
+            "sent2": "We need a packetising tool to prepare the data for network transmission.",
+            "sent3": "His packetising skills make him the go-to person for data organization.",
+            "sent4": "The packetising process streamlines the data flow like a well-oiled machine.",
+            "sent5": "The packetising technology ensures smooth and efficient data transfer."
         }
     ]
 }

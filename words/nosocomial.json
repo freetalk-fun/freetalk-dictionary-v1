@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "relating to or originating in a hospital",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The doctor explained that the patient's nosocomial infection was caused by germs in the hospital.",
+            "sent2": "The nurse followed strict protocols to prevent nosocomial spread of infections within the hospital.",
+            "sent3": "The nosocomial bacteria threw a party in the hospital, but nobody showed up.",
+            "sent4": "The nosocomial origins of the virus spread like wildfire through the hospital corridors.",
+            "sent5": "The smell of disinfectant in the hospital reminded everyone of the nosocomial risks."
         },
         {
             "definition": "an infection acquired in a hospital by a patient who was admitted for a reason other than that infection",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The patient developed a nosocomial infection after surgery in the hospital.",
+            "sent2": "The hospital staff took extra precautions to prevent nosocomial infections among patients.",
+            "sent3": "The nosocomial infection decided to take a vacation from the hospital and visit the nearby park.",
+            "sent4": "The nosocomial infection was like an unwelcome guest that overstayed its welcome in the hospital.",
+            "sent5": "The severity of the nosocomial infection made the patient realize the importance of hospital hygiene."
         }
     ]
 }

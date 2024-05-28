@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A six-carbon alkyl group.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The molecule consisted of a hexyl attached to the main structure.",
+            "sent2": "The chemist identified the hexyl in the compound using spectroscopy.",
+            "sent3": "The hexyl group threw a party for all the other molecules in the compound.",
+            "sent4": "The hexyl group acted as the leader, guiding the other molecules in their reactions.",
+            "sent5": "Under the microscope, the hexyl looked like a tiny chain of six carbon atoms."
         },
         {
             "definition": "A compound containing a hexyl group.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The new chemical synthesis included a hexyl for its unique properties.",
+            "sent2": "The hexyl compound had a distinct smell that lingered in the lab.",
+            "sent3": "The hexyl compound and its neighbors formed a colorful chemical community.",
+            "sent4": "In the mixture, the hexyl compound stood out like a bright star in the night sky.",
+            "sent5": "The hexyl compound was the key ingredient in the experiment, providing crucial results."
         },
         {
             "definition": "Pertaining to or derived from hexane.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The hexyl solution was prepared using hexane as the base solvent.",
+            "sent2": "The hexyl derivative exhibited unique properties due to its hexane origin.",
+            "sent3": "The hexyl aroma filled the room, reminiscent of the hexane used in production.",
+            "sent4": "The hexyl characteristics mirrored those found in hexane, showing a strong connection.",
+            "sent5": "The hexyl compound's hexane roots gave it a familiar and comforting scent."
         }
     ]
 }

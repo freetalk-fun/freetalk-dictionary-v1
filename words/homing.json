@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "(verb) to move or be directed toward a specific target or destination",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The pigeon was homing in on its nest high up in the tree.",
+            "sent2": "The missile was homing in on the enemy's base.",
+            "sent3": "The lost dog was homing in on the smell of freshly baked cookies.",
+            "sent4": "Her thoughts kept homing in on the upcoming exam, causing her anxiety.",
+            "sent5": "The detective's instincts were homing in on the suspect's whereabouts."
         },
         {
             "definition": "(adjective) relating to the ability to return to a specific location or target",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The homing pigeon found its way back home with ease.",
+            "sent2": "The homing beacon guided the ship safely through the storm.",
+            "sent3": "The homing instinct of the salmon led them back to their birthplace to spawn.",
+            "sent4": "His homing device ensured he never got lost in the wilderness.",
+            "sent5": "The homing radar helped the aircraft navigate through dense fog."
         }
     ]
 }

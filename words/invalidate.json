@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To make something legally or officially void or ineffective.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The judge had to invalidate the contract due to missing signatures.",
+            "sent2": "The new evidence will invalidate the previous ruling.",
+            "sent3": "The magician's trick was to invalidate the contract by tearing it up.",
+            "sent4": "The storm's damage seemed to invalidate any hope of repair.",
+            "sent5": "The teacher's red pen seemed to invalidate every mistake on the test."
         },
         {
             "definition": "To show that something is false or incorrect.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The scientist's experiment results could invalidate the theory.",
+            "sent2": "The witness testimony may invalidate the defendant's alibi.",
+            "sent3": "The detective's findings seemed to invalidate the suspect's story.",
+            "sent4": "The broken compass would invalidate any sense of direction.",
+            "sent5": "The faulty map seemed to invalidate every attempt to navigate the forest."
         },
         {
             "definition": "To weaken or destroy the validity of something.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The virus could potentially invalidate the vaccine's effectiveness.",
+            "sent2": "The constant criticism began to invalidate her self-confidence.",
+            "sent3": "The rain threatened to invalidate the ink on the document.",
+            "sent4": "The relentless waves seemed to invalidate the sandcastle's stability.",
+            "sent5": "The faulty foundation would invalidate any hope of a sturdy house."
         }
     ]
 }

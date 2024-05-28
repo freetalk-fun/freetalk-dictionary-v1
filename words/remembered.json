@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To have in or be able to bring to one's mind an awareness of (someone or something from the past)",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I remembered my friend's birthday and sent her a card.",
+            "sent2": "She remembered the lyrics to her favorite song.",
+            "sent3": "He remembered to bring an umbrella on a sunny day, just in case.",
+            "sent4": "The old photograph remembered a time long gone.",
+            "sent5": "The smell of fresh cookies baking in the oven remembered her of her childhood home."
         },
         {
             "definition": "To retain in the memory",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The story was so interesting that I remembered every detail.",
+            "sent2": "Even after many years, she remembered the lessons her grandmother taught her.",
+            "sent3": "He remembered the password after writing it down on a sticky note.",
+            "sent4": "The melody of the song remembered in his mind long after it ended.",
+            "sent5": "The smell of the ocean breeze remembered him of his summer vacations as a child."
         },
         {
             "definition": "To keep in mind for attention or consideration",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I remembered to buy milk on my way home.",
+            "sent2": "She remembered to call her friend on her birthday.",
+            "sent3": "He remembered to water the plants after seeing them wilting.",
+            "sent4": "The promise he made to his grandmother was always remembered.",
+            "sent5": "The warning sign on the road remembered drivers to slow down in the curve."
         }
     ]
 }

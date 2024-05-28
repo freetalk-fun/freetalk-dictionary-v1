@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A warning or indication of a future event.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The dark clouds were a forewarning of the coming storm.",
+            "sent2": "The loud thunder was a forewarning of the approaching rain.",
+            "sent3": "The chirping birds served as a forewarning of the sunrise.",
+            "sent4": "The sudden drop in temperature was a forewarning of the winter ahead.",
+            "sent5": "The distant sound of sirens acted as a forewarning of danger."
         },
         {
             "definition": "To warn or inform in advance.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She tried to forewarning her friends about the traffic jam.",
+            "sent2": "The weather forecast forewarned us of the heavy snowfall.",
+            "sent3": "He forewarned his brother about the surprise party to avoid spoiling it.",
+            "sent4": "The teacher forewarned the students about the upcoming pop quiz.",
+            "sent5": "The wise old man forewarned the villagers of the approaching drought."
         }
     ]
 }

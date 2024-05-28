@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Money in the form of coins or banknotes, especially that which is immediately available.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I always keep some cash in my wallet for emergencies.",
+            "sent2": "She paid for the groceries with cash at the supermarket.",
+            "sent3": "The vending machine only accepts cash, no credit cards allowed!",
+            "sent4": "His hard work finally turned into cash when he received his paycheck.",
+            "sent5": "The sound of coins jingling in his pocket was a comforting reminder of his cash reserves."
         },
         {
             "definition": "To give or obtain cash for (a check, money order, etc.).",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He needed to cash his paycheck before the bank closed.",
+            "sent2": "The teller cashed the customer's check without any issues.",
+            "sent3": "She joked that she would cash in her lottery ticket and retire early.",
+            "sent4": "The opportunity to cash in on the investment was too good to pass up.",
+            "sent5": "The player decided to cash out his chips and leave the casino while he was ahead."
         },
         {
             "definition": "To exchange for or convert into cash.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "They wanted to cash their foreign currency at the airport.",
+            "sent2": "The pawnshop offered to cash the old jewelry for a fair price.",
+            "sent3": "He decided to cash out his loyalty points for a gift card.",
+            "sent4": "The decision to cash in the stocks proved to be profitable.",
+            "sent5": "She planned to cash out her savings bonds to fund her trip abroad."
         }
     ]
 }

@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A person who is very skilled or knowledgeable in a particular field.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The computer wiz fixed my laptop in no time.",
+            "sent2": "She is a math wiz and can solve any problem.",
+            "sent3": "The baking wiz whipped up a delicious cake for the party.",
+            "sent4": "He is a wiz at playing the guitar, making it sing like a bird.",
+            "sent5": "The gardening wiz transformed the backyard into a beautiful oasis."
         },
         {
             "definition": "To move quickly with a whizzing sound.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The toy car wizzes around the track with great speed.",
+            "sent2": "I heard a bee wiz past my ear in the garden.",
+            "sent3": "The wind wizzed through the trees, creating a soothing sound.",
+            "sent4": "The rocket wizzed into the sky, leaving a trail of smoke behind.",
+            "sent5": "The skateboarder wizzed down the ramp, performing impressive tricks."
         },
         {
             "definition": "A wizard or magician.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The birthday party had a wiz who entertained the children with magic tricks.",
+            "sent2": "In the fairy tale, the wiz cast a spell to save the kingdom.",
+            "sent3": "The costume party featured a wiz with a wand and a pointy hat.",
+            "sent4": "The old book described a powerful wiz who could control the elements.",
+            "sent5": "The mysterious wiz lived in a hidden tower, practicing spells and potions."
         }
     ]
 }

@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Fires (noun): Combustion or burning in which substances combine chemically with oxygen from the air and typically give out bright light, heat, and smoke.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The campers gathered around the warm fires to roast marshmallows.",
+            "sent2": "The firefighters quickly extinguished the raging fires in the forest.",
+            "sent3": "The fires crackled and danced in the night, creating a mesmerizing display.",
+            "sent4": "Her passion for music burns like a fierce fire in her soul.",
+            "sent5": "The fires of industry fueled the growth of the city."
         },
         {
             "definition": "Fires (verb): Dismiss (an employee) from a job.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The company fires employees who do not meet their performance standards.",
+            "sent2": "She fires people without hesitation if they violate company policies.",
+            "sent3": "He fires workers who are consistently late, but he always gives them a warning first.",
+            "sent4": "The manager fires individuals who do not follow safety protocols.",
+            "sent5": "The boss fires those who do not take their job seriously."
         },
         {
             "definition": "Fires (adjective): Very enthusiastic or passionate.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "She is known for her fires dedication to environmental causes.",
+            "sent2": "The team showed fires support for their captain during the game.",
+            "sent3": "His fires speech inspired everyone in the audience.",
+            "sent4": "The fires fans cheered loudly for their favorite team.",
+            "sent5": "Their fires commitment to the project ensured its success."
         }
     ]
 }

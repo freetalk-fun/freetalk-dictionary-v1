@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Strength or energy as an attribute of physical action or movement.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The strong force of the wind knocked over the tree.",
+            "sent2": "She used all her force to push the heavy door open.",
+            "sent3": "The force of the water made the boat rock back and forth.",
+            "sent4": "The force of his punch was like a hammer hitting a nail.",
+            "sent5": "The force of the explosion shook the entire building."
         },
         {
             "definition": "Coercion or compulsion, especially with the use of violence or threats.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The robber used force to make the cashier open the safe.",
+            "sent2": "The dictator ruled with an iron fist, using force to suppress dissent.",
+            "sent3": "The force of the bully's words made the other kids scared.",
+            "sent4": "The force of the law compelled him to pay the fine.",
+            "sent5": "The force of the storm forced everyone to seek shelter."
         },
         {
             "definition": "A person or thing that has a powerful influence.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "She was a force to be reckoned with in the business world.",
+            "sent2": "The mentor became a guiding force in his life.",
+            "sent3": "The force of her personality drew people to her.",
+            "sent4": "His determination was a driving force behind his success.",
+            "sent5": "The force of his argument convinced everyone in the room."
         }
     ]
 }

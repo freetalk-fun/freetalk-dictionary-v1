@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A classification or ranking based on a scale of quality or importance.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The movie received a high rating from the critics.",
+            "sent2": "The hotel has a five-star rating for its exceptional service.",
+            "sent3": "I gave my cooking skills a rating of 'master chef'.",
+            "sent4": "Her kindness towards others earned her a top rating in my book.",
+            "sent5": "The customer feedback survey revealed a low rating for the product's durability."
         },
         {
             "definition": "An evaluation or assessment of something.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The teacher's rating of my essay was very positive.",
+            "sent2": "The app store allows users to leave a rating and review.",
+            "sent3": "My cat's rating of the new catnip toy was two paws up.",
+            "sent4": "The company's environmental rating was through the roof.",
+            "sent5": "The restaurant's rating on cleanliness was impeccable."
         },
         {
             "definition": "The act of assigning a value or score to something.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The rating of the exam papers took several hours.",
+            "sent2": "The credit agency provides a credit rating for individuals.",
+            "sent3": "The dog's rating of the new dog food was a wagging tail.",
+            "sent4": "The rating of the artwork was based on creativity and skill.",
+            "sent5": "The rating of the performance was displayed on a large screen for all to see."
         }
     ]
 }

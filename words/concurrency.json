@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "The fact of two or more events or circumstances happening or existing at the same time.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The concurrency of the two meetings caused confusion.",
+            "sent2": "The teacher explained the concept of concurrency using a clock analogy.",
+            "sent3": "The concurrency of the dog barking and the baby crying made for a chaotic morning.",
+            "sent4": "The concurrency of the traffic lights turning green created a smooth flow of cars.",
+            "sent5": "The concurrency of the thunder and lightning made the storm seem more intense."
         },
         {
             "definition": "The state of being simultaneous or parallel.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The concurrency of the two trains on separate tracks was impressive.",
+            "sent2": "The software was designed to handle multiple tasks with concurrency.",
+            "sent3": "The concurrency of the two siblings finishing their homework at the same time surprised their parents.",
+            "sent4": "The concurrency of the two rivers flowing side by side was a beautiful sight.",
+            "sent5": "The concurrency of the dancers' movements on stage created a mesmerizing performance."
         }
     ]
 }

@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A person who warns or advises.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The kind warner told us about the storm coming.",
+            "sent2": "The warner reminded us to look both ways before crossing the street.",
+            "sent3": "The warner joked that the cookies were so good, they should come with a warning label.",
+            "sent4": "Her intuition acted as a warner, alerting her to potential dangers.",
+            "sent5": "The warner's voice was as clear as a bell, making sure everyone heard the safety instructions."
         },
         {
             "definition": "A device or system that alerts or notifies of danger.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The smoke detector is an important warner in case of fire.",
+            "sent2": "The weather radio serves as a reliable warner for approaching storms.",
+            "sent3": "The car alarm acted as a warner, scaring away potential thieves.",
+            "sent4": "The lighthouse stood as a silent warner, guiding ships away from the dangerous rocks.",
+            "sent5": "The alarm clock was a persistent warner, ensuring he woke up on time every morning."
         }
     ]
 }

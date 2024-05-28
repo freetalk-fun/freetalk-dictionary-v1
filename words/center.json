@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "The middle point or part of something.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The center of the room is where we put the table.",
+            "sent2": "She placed the vase in the center of the shelf.",
+            "sent3": "The cat loves to nap in the center of the warm sunbeam.",
+            "sent4": "His kindness was the center of attention at the party.",
+            "sent5": "The bright red dot in the center of the target was hard to miss."
         },
         {
             "definition": "A point or place that is equally distant from all sides or boundaries.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The playground has a merry-go-round at its center.",
+            "sent2": "The town square is the center of all the activity.",
+            "sent3": "The pizza with extra cheese had a gooey center that everyone loved.",
+            "sent4": "Her laughter was the center of joy in the room.",
+            "sent5": "The calm lake had a small island at its center."
         },
         {
             "definition": "To place in the middle or at the center of something.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She likes to center the picture frame on the wall.",
+            "sent2": "He centered the text on the page before printing.",
+            "sent3": "The chef tried to center the toppings on the pizza but they kept sliding off.",
+            "sent4": "His goal was to center the team's focus on the upcoming match.",
+            "sent5": "The artist carefully centered the sculpture in the gallery for maximum impact."
         }
     ]
 }

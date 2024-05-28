@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Able to be done, achieved, or happening",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "Finishing the puzzle in one hour is possible.",
+            "sent2": "It is possible to learn a new language with practice.",
+            "sent3": "It's possible to bake a cake without an oven.",
+            "sent4": "Her dream of becoming an astronaut seemed more possible with each passing day.",
+            "sent5": "The idea of time travel may not be possible in reality."
         },
         {
             "definition": "Capable of existing or occurring",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "In this universe, life on other planets is possible.",
+            "sent2": "Is it possible for unicorns to exist?",
+            "sent3": "It's possible that aliens are among us disguised as cats.",
+            "sent4": "The concept of parallel universes makes the impossible possible.",
+            "sent5": "The legend of a hidden treasure is still possible in this modern age."
         },
         {
             "definition": "Within the limits of ability, capacity, or realization",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "She ran as fast as possible to catch the bus.",
+            "sent2": "He studied as hard as possible for the exam.",
+            "sent3": "The magician performed the trick as smoothly as possible.",
+            "sent4": "The team worked as efficiently as possible to meet the deadline.",
+            "sent5": "The car was driven as carefully as possible on the icy road."
         }
     ]
 }

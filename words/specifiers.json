@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A person or thing that specifies.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The teacher was the specifier of the rules in the classroom.",
+            "sent2": "The architect was the specifier of the building design.",
+            "sent3": "The squirrel became the specifier of which acorn to bury first.",
+            "sent4": "The detective acted as the specifier, pointing out the key evidence.",
+            "sent5": "The referee served as the specifier, determining the winner of the game."
         },
         {
             "definition": "A word or phrase that provides additional information about a noun or pronoun.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The word 'beautiful' is a specifier that describes the flower.",
+            "sent2": "The phrase 'in the garden' is a specifier for the location of the party.",
+            "sent3": "The cat's meow was a specifier of its hunger.",
+            "sent4": "The star on the map acted as a specifier, guiding the travelers.",
+            "sent5": "The color 'red' served as a specifier, distinguishing the car from the rest."
         },
         {
             "definition": "A symbol or character used to indicate a particular quality or attribute.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The checkmark is a specifier for a correct answer.",
+            "sent2": "The dollar sign is a specifier for currency.",
+            "sent3": "The heart emoji was a specifier of love in the message.",
+            "sent4": "The plus sign acts as a specifier for addition in math.",
+            "sent5": "The exclamation mark serves as a specifier for excitement in the sentence."
         }
     ]
 }

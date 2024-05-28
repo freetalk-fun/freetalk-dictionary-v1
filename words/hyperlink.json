@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A highlighted word or image in a document or webpage that, when clicked, takes the user to another location or document.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The hyperlink on the webpage led me to a fun game.",
+            "sent2": "I clicked on the hyperlink to read more about the topic.",
+            "sent3": "The hyperlink decided to take a detour and led me to a recipe instead.",
+            "sent4": "Her smile was like a hyperlink, instantly transporting me to a happy memory.",
+            "sent5": "The bright blue hyperlink stood out among the text, beckoning me to click."
         },
         {
             "definition": "To create a hyperlink in a document or webpage.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I will hyperlink the text to the relevant page.",
+            "sent2": "She hyperlinked the image to the main website.",
+            "sent3": "The magician hyperlinked the rabbit to a carrot instead of a hat.",
+            "sent4": "His words hyperlinked our hearts, connecting us in a special way.",
+            "sent5": "The artist hyperlinked the colors, creating a beautiful digital masterpiece."
         }
     ]
 }

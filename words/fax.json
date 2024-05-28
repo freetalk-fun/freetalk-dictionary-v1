@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A document sent by fax machine.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I received the contract through fax.",
+            "sent2": "Please send me the form via fax.",
+            "sent3": "The fax arrived just in time for the meeting.",
+            "sent4": "The fax brought news of the upcoming event.",
+            "sent5": "The fax of the report was clear and easy to read."
         },
         {
             "definition": "To send a document by fax.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Can you fax the papers to the office?",
+            "sent2": "I will fax the information to you shortly.",
+            "sent3": "He tried to fax the document upside down by mistake.",
+            "sent4": "She faxed her resignation, signaling a new beginning.",
+            "sent5": "Remember to fax the contract before the deadline."
         },
         {
             "definition": "A machine used to send and receive faxes.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The fax is located in the corner of the office.",
+            "sent2": "Our new fax is faster than the old one.",
+            "sent3": "The fax machine beeped loudly when receiving a fax.",
+            "sent4": "The fax hummed with activity during peak hours.",
+            "sent5": "The sleek design of the fax makes it easy to use."
         }
     ]
 }

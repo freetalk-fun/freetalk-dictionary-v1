@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To record in a protocol or official document.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The nurse protocolled the patient's vital signs accurately.",
+            "sent2": "The secretary protocolled the meeting minutes for future reference.",
+            "sent3": "The detective protocolled the suspect's alibi with precision.",
+            "sent4": "The historian protocolled the ancient artifacts to preserve history.",
+            "sent5": "The scientist protocolled the experiment results meticulously."
         },
         {
             "definition": "To follow a set of rules or guidelines.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The students protocolled the laboratory safety rules during the experiment.",
+            "sent2": "The athletes protocolled the coach's training regimen diligently.",
+            "sent3": "The chef protocolled the recipe instructions to create a delicious dish.",
+            "sent4": "The driver protocolled the traffic laws to ensure safe travels.",
+            "sent5": "The employees protocolled the company policies to maintain order."
         },
         {
             "definition": "A set of rules or guidelines for communication or behavior.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The school has a strict protocol for visitors entering the premises.",
+            "sent2": "Following the protocol, the diplomat greeted the foreign dignitary with respect.",
+            "sent3": "The wedding planner ensured that the event protocol was adhered to by all guests.",
+            "sent4": "In the military, soldiers must learn and abide by the protocol of saluting superiors.",
+            "sent5": "The protocol for online etiquette includes being polite and respectful in all interactions."
         }
     ]
 }

@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Move hurriedly with short, quick steps.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The rabbit was scuttering across the field to escape the fox.",
+            "sent2": "I saw a squirrel scuttering up the tree trunk in the park.",
+            "sent3": "The children were scuttering around the playground, full of energy.",
+            "sent4": "The leaves scuttered along the ground in the strong wind.",
+            "sent5": "The mouse scuttered into its hole as soon as it heard a noise."
         },
         {
             "definition": "The sound of something moving quickly and noisily.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The scuttering of the squirrel's claws on the tree bark echoed through the forest.",
+            "sent2": "I woke up to the scuttering of tiny feet in the attic.",
+            "sent3": "The scuttering of the rain on the roof made it hard to fall asleep.",
+            "sent4": "The scuttering of the skateboard wheels on the pavement filled the air.",
+            "sent5": "The scuttering of the ants marching in a line was fascinating to watch."
         },
         {
             "definition": "To scatter or disperse quickly.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The wind scuttered the fallen leaves across the yard.",
+            "sent2": "She scuttered the papers on her desk in a rush to find the important document.",
+            "sent3": "The kids scuttered the toys all over the living room during playtime.",
+            "sent4": "The birds scuttered in all directions when the cat approached.",
+            "sent5": "The sand scuttered away from the shovel as he dug in the beach."
         }
     ]
 }

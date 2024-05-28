@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Present tense of the verb 'be', used with plural subjects.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "They are playing outside.",
+            "sent2": "We are going to the park.",
+            "sent3": "The cookies are having a party in the jar.",
+            "sent4": "Her eyes are windows to her soul.",
+            "sent5": "The stars are twinkling in the night sky."
         },
         {
             "definition": "Second person singular and plural form of the verb 'be'.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "You are my best friend.",
+            "sent2": "They are waiting for the bus.",
+            "sent3": "The pencils are having a race on the desk.",
+            "sent4": "His words are a soothing melody to my ears.",
+            "sent5": "The waves are dancing with the shore."
         },
         {
             "definition": "A unit of area equal to 100 square meters.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The garden measures 2 ares.",
+            "sent2": "The land for sale is 5 ares in size.",
+            "sent3": "The ares in the field are having a picnic.",
+            "sent4": "His love for her is as vast as an are.",
+            "sent5": "The ares of land stretch as far as the eye can see."
         }
     ]
 }

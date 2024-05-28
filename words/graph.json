@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A diagram representing a system of connections or interrelations among two or more things.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I drew a simple graph to show how the planets are connected in our solar system.",
+            "sent2": "The teacher used a graph to explain the relationship between temperature and ice cream sales.",
+            "sent3": "The graph of my friendships looked like a tangled web of lines and dots.",
+            "sent4": "Her mind was a complex graph of thoughts, each one connected to the next.",
+            "sent5": "The graph of the forest ecosystem was filled with intricate patterns of interconnections."
         },
         {
             "definition": "A diagram representing a system of connections or interrelations among two or more things using points and lines.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The graph of the subway system showed how each station was connected by lines.",
+            "sent2": "She used a graph to map out the relationships between characters in the novel.",
+            "sent3": "The graph of the family tree resembled a tangled mess of branches and roots.",
+            "sent4": "His emotions were like a graph, with highs and lows marked by points on a line.",
+            "sent5": "The graph of the city's infrastructure revealed a complex network of roads and bridges."
         },
         {
             "definition": "To plot or represent on a graph.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I will graph the data points to see if there is a pattern.",
+            "sent2": "She decided to graph the results of the experiment to make it easier to understand.",
+            "sent3": "He graphed his daily mood on a chart to track his emotional ups and downs.",
+            "sent4": "The artist graphed the movement of the dancers on a large canvas.",
+            "sent5": "They will graph the population growth over the past decade to analyze the trend."
         }
     ]
 }

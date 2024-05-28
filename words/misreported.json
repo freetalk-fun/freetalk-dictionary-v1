@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To report incorrectly or inaccurately.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The journalist misreported the facts in the news article.",
+            "sent2": "She misreported the number of attendees at the event.",
+            "sent3": "The detective misreported the suspect's alibi, causing confusion in the investigation.",
+            "sent4": "The weather app misreported the temperature, leading people to dress inappropriately.",
+            "sent5": "The student misreported the historical date, resulting in a lower grade on the assignment."
         },
         {
             "definition": "Incorrectly reported information.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The misreported data caused a misunderstanding among the team.",
+            "sent2": "He discovered a misreported figure in the financial report.",
+            "sent3": "The misreported details in the newspaper article made it hard to trust the source.",
+            "sent4": "The misreported facts created a ripple effect of confusion in the community.",
+            "sent5": "The misreported statistics skewed the results of the study."
         }
     ]
 }

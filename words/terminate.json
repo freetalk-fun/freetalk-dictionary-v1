@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To bring to an end.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I will terminate the game when the time is up.",
+            "sent2": "The movie will terminate at midnight.",
+            "sent3": "Let's terminate this argument and move on to something fun.",
+            "sent4": "The journey through the forest will terminate at the magical waterfall.",
+            "sent5": "The teacher will terminate the lesson with a surprise quiz."
         },
         {
             "definition": "To kill.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The poison will terminate the pests in the garden.",
+            "sent2": "The villain planned to terminate the hero's existence.",
+            "sent3": "The detective's job is to terminate the criminal's plans.",
+            "sent4": "The virus can silently terminate the body's defenses.",
+            "sent5": "The hunter aimed to terminate the deer with one shot."
         },
         {
             "definition": "To dismiss from employment.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The company decided to terminate the employee due to budget cuts.",
+            "sent2": "The manager had to terminate the new hire for repeated tardiness.",
+            "sent3": "The boss had to terminate the lazy worker to improve productivity.",
+            "sent4": "The HR department will terminate the contract of the underperforming staff.",
+            "sent5": "The supervisor will terminate the probationary period for the trainee."
         }
     ]
 }

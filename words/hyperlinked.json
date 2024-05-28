@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "(verb) to create a hyperlink in a document or webpage",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I hyperlinked the article to the main page.",
+            "sent2": "She hyperlinked the references for easy access.",
+            "sent3": "The teacher hyperlinked the quiz to the wrong lesson by mistake.",
+            "sent4": "His words were hyperlinked to his actions, making it easy to follow.",
+            "sent5": "The map was hyperlinked with detailed information about each location."
         },
         {
             "definition": "(adjective) containing hyperlinks to other documents or webpages",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The website was hyperlinked with useful resources.",
+            "sent2": "The report was hyperlinked to related articles.",
+            "sent3": "The hyperlinked document led to a never-ending loop of information.",
+            "sent4": "Her mind was like a hyperlinked encyclopedia, full of interconnected knowledge.",
+            "sent5": "The book was hyperlinked with footnotes for further reading."
         }
     ]
 }

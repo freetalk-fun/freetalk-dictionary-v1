@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To make a mistake or be incorrect.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She errs by adding instead of subtracting.",
+            "sent2": "He often errs in his calculations.",
+            "sent3": "The robot errs in its programming, causing chaos.",
+            "sent4": "His judgment errs on the side of caution.",
+            "sent5": "The student's answer errs on the side of being too simplistic."
         },
         {
             "definition": "To deviate from the right course or path.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The hiker errs off the trail and gets lost.",
+            "sent2": "The ship errs from its intended route due to a storm.",
+            "sent3": "The cat errs from its usual routine and explores a new room.",
+            "sent4": "Her thoughts often err from reality into fantasy.",
+            "sent5": "The car's GPS system errs, leading them down a dead-end street."
         }
     ]
 }

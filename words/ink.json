@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A colored fluid used for writing or drawing.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I spilled ink on my paper while drawing a picture.",
+            "sent2": "She bought a new bottle of ink for her calligraphy hobby.",
+            "sent3": "The mischievous cat knocked over the ink bottle, creating a colorful mess.",
+            "sent4": "His words flowed from his pen like ink onto the page.",
+            "sent5": "The ink shimmered under the light, revealing its vibrant color."
         },
         {
             "definition": "To mark or stain with ink.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He accidentally inked his shirt while refilling the pen.",
+            "sent2": "The artist carefully inked the outlines of the sketch.",
+            "sent3": "She playfully inked a fake mustache on her friend's face.",
+            "sent4": "The memories of that day are forever inked in my mind.",
+            "sent5": "The tattoo artist skillfully inked the intricate design on her arm."
         },
         {
             "definition": "To sign or write with ink.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The author inked his signature on the title page of the book.",
+            "sent2": "She carefully inked her name on the dotted line of the contract.",
+            "sent3": "The student nervously inked the answers on the exam paper.",
+            "sent4": "His commitment to the cause was inked in every word he wrote.",
+            "sent5": "The poet inked his emotions onto the blank page, creating a masterpiece."
         }
     ]
 }

@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To exert force on something in order to move it or cause it to be moved.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She had to press the button to open the door.",
+            "sent2": "The workers press the lever to start the machine.",
+            "sent3": "Trying to press a cat into a small box is not a good idea.",
+            "sent4": "The weight of the world seemed to press down on his shoulders.",
+            "sent5": "The strong wind began to press against the windows."
         },
         {
             "definition": "A machine or device used to apply pressure or force in order to flatten, shape, or compress something.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The tailor used a press to iron the shirt.",
+            "sent2": "The factory has a large press for molding metal parts.",
+            "sent3": "The sandwich press made a funny noise when it was turned on.",
+            "sent4": "The press of the stamping machine echoed through the workshop.",
+            "sent5": "The hydraulic press slowly flattened the metal sheet."
         },
         {
             "definition": "A group of journalists or news organizations collectively.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The press gathered outside the courthouse for the trial.",
+            "sent2": "The local press covered the community event extensively.",
+            "sent3": "The press joked about the mayor's funny hat at the press conference.",
+            "sent4": "The press uncovered a scandal that shook the political world.",
+            "sent5": "The press room buzzed with excitement before the announcement."
         }
     ]
 }

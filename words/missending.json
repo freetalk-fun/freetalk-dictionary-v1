@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To send (something) to the wrong recipient or address.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I missend my letter to the wrong house.",
+            "sent2": "She always double-checks the address to avoid missending packages.",
+            "sent3": "The cat missending the ball into the neighbor's yard made everyone laugh.",
+            "sent4": "Her absent-mindedness led to missending important documents, causing chaos.",
+            "sent5": "The image of missending a love letter to her boss stuck in his mind."
         },
         {
             "definition": "The act of sending something to the wrong recipient or address.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The missending of the package resulted in a delay.",
+            "sent2": "He was frustrated by the constant missending of his emails.",
+            "sent3": "The missending of the invitation added a comical twist to the event.",
+            "sent4": "The missending of signals between the two countries caused confusion.",
+            "sent5": "The company implemented new procedures to prevent missending in the future."
         }
     ]
 }

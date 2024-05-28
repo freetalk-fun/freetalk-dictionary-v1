@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A human being regarded as an individual.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Every person has their own unique thoughts and feelings.",
+            "sent2": "The person walking down the street waved hello.",
+            "sent3": "The person with the funny hat made everyone laugh.",
+            "sent4": "She was a ray of sunshine, a person full of joy.",
+            "sent5": "The person in the mirror smiled back at me."
         },
         {
             "definition": "An individual's body.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "His injured person needed immediate medical attention.",
+            "sent2": "She took care of her person by eating healthy food.",
+            "sent3": "The detective found a clue on the person lying on the ground.",
+            "sent4": "Her person was tired after a long day of work.",
+            "sent5": "The athlete's strong person helped him win the race."
         },
         {
             "definition": "A character in a play or story.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The main person in the movie was a brave knight.",
+            "sent2": "The author created a mysterious person to drive the plot.",
+            "sent3": "The funny person in the comedy made everyone laugh.",
+            "sent4": "Her kindness made her the most beloved person in the story.",
+            "sent5": "The villain was a dark and sinister person in the play."
         }
     ]
 }

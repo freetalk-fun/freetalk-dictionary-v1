@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Happen",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Every morning, breakfast occurs in the kitchen.",
+            "sent2": "Rain occurs frequently in the spring season.",
+            "sent3": "The funny part occurs when the cat chases its own tail.",
+            "sent4": "A brilliant idea occurs like a light bulb turning on in your mind.",
+            "sent5": "Learning to ride a bike occurs with practice and patience."
         },
         {
             "definition": "Take place",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The meeting occurs at noon in the conference room.",
+            "sent2": "Family gatherings occur during the holidays.",
+            "sent3": "The magic show occurs when the magician pulls a rabbit out of a hat.",
+            "sent4": "A change of heart occurs like a flower blooming in spring.",
+            "sent5": "The transition from day to night occurs gradually."
         },
         {
             "definition": "Come to pass",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The predicted event occurs exactly as foretold.",
+            "sent2": "Accidents occur unexpectedly and can be prevented.",
+            "sent3": "The twist ending occurs when the hero turns out to be the villain.",
+            "sent4": "A realization occurs like a light shining in a dark room.",
+            "sent5": "Success occurs when hard work meets opportunity."
         }
     ]
 }

@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Each of the parts into which something is or may be divided.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The orange was divided into segments for easy sharing.",
+            "sent2": "She counted the segments of the orange before eating them.",
+            "sent3": "The segments of the puzzle fit perfectly together.",
+            "sent4": "The segments of the market cater to different customer needs.",
+            "sent5": "The caterpillar moved in distinct segments along the branch."
         },
         {
             "definition": "A part of a line that is bounded by two distinct end points.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The line was divided into segments to measure its length.",
+            "sent2": "He marked the segments on the ruler for accurate measurements.",
+            "sent3": "The segments of the road were clearly marked for drivers.",
+            "sent4": "The segments of the song flowed seamlessly from one to the next.",
+            "sent5": "The segments of the bridge connected the two sides of the river."
         },
         {
             "definition": "To divide into segments.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She carefully segments the cake before serving it.",
+            "sent2": "The chef segments the vegetables for the stir-fry.",
+            "sent3": "He segments his study time to cover all subjects effectively.",
+            "sent4": "The company plans to segment the market for targeted advertising.",
+            "sent5": "The teacher segments the class into small groups for discussions."
         }
     ]
 }

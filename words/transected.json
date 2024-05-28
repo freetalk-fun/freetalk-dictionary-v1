@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To cut across or divide by cutting.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I transected the cake with a knife to share it with my friends.",
+            "sent2": "The construction workers transected the road to make way for a new sidewalk.",
+            "sent3": "The chef transected the pizza into equal slices, but one piece was missing!",
+            "sent4": "The river transected the forest, creating a natural barrier for the animals.",
+            "sent5": "She carefully transected the paper with scissors, creating a straight line."
         },
         {
             "definition": "Divided or intersected by a line or plane.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The transected field had different types of crops on each side.",
+            "sent2": "The map showed the transected area where the property line divided the land.",
+            "sent3": "The transected cake had alternating layers of chocolate and vanilla.",
+            "sent4": "The transected tree trunk revealed its age through the growth rings.",
+            "sent5": "The transected wire fence marked the boundary between the two properties."
         }
     ]
 }

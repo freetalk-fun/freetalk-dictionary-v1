@@ -2,12 +2,22 @@
     "term": "shushes",
     "meanings": [
         {
-            "definition": "To silence or quiet someone by saying \"shush\"",
-            "pos": "verb"
+            "definition": "To silence or quiet someone by saying 'shush'",
+            "pos": "verb",
+            "sent1": "Mom shushes the noisy children during the movie.",
+            "sent2": "She shushes the barking dog to calm it down.",
+            "sent3": "The librarian shushes the chatty students in a funny way.",
+            "sent4": "The falling snow shushes the bustling city streets.",
+            "sent5": "The gentle rain shushes the leaves in the forest."
         },
         {
-            "definition": "The act of telling someone to be quiet by saying \"shush\"",
-            "pos": "noun"
+            "definition": "The act of telling someone to be quiet by saying 'shush'",
+            "pos": "noun",
+            "sent1": "His constant shushes annoyed the other moviegoers.",
+            "sent2": "The teacher's quick shushes kept the classroom peaceful.",
+            "sent3": "The cat's repeated shushes to the birds outside were ignored.",
+            "sent4": "The sound of waves crashing was nature's calming shushes.",
+            "sent5": "The baby's soft shushes helped him fall asleep."
         }
     ]
 }

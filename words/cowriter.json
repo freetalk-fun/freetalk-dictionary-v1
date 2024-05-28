@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A person who collaborates with another in writing.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The cowriter helped me with my story.",
+            "sent2": "The cowriter and I worked together on the project.",
+            "sent3": "The cowriter had a great sense of humor, making writing fun.",
+            "sent4": "She was the cowriter of my success story.",
+            "sent5": "The cowriter's creativity brought the characters to life."
         },
         {
             "definition": "To write (a script, book, etc.) in collaboration with another person.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I cowritered the screenplay with my friend.",
+            "sent2": "They cowritered a best-selling novel together.",
+            "sent3": "We cowritered the script over coffee and laughter.",
+            "sent4": "Her ideas cowritered a new chapter in our writing journey.",
+            "sent5": "Cowritering with him was a rewarding experience."
         }
     ]
 }

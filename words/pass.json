@@ -3,19 +3,39 @@
     "meanings": [
         {
             "definition": "Move in a specified direction.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I will pass the ball to you.",
+            "sent2": "The cars pass by quickly on the highway.",
+            "sent3": "I tried to pass the salt, but it slipped from my hand!",
+            "sent4": "Time seems to pass like a river flowing endlessly.",
+            "sent5": "The clouds pass overhead, casting shadows on the ground."
         },
         {
             "definition": "Go past or across.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The train will pass through the tunnel.",
+            "sent2": "I pass the park on my way to work every day.",
+            "sent3": "I tried to pass the finish line first, but you beat me!",
+            "sent4": "The years pass by like pages turning in a book.",
+            "sent5": "The sun will pass behind the mountains soon, ending the day."
         },
         {
             "definition": "Succeed in an examination or test.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I hope to pass my math test tomorrow.",
+            "sent2": "She studied hard to pass the driving exam.",
+            "sent3": "I tried to pass the quiz by guessing all the answers!",
+            "sent4": "If you study diligently, you will pass with flying colors.",
+            "sent5": "Passing the test felt like a weight lifted off my shoulders."
         },
         {
             "definition": "A document granting permission to do something.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Please show your pass to enter the building.",
+            "sent2": "The security guard checked my pass before letting me in.",
+            "sent3": "I lost my pass, so I had to wait outside.",
+            "sent4": "The golden pass allowed access to all areas of the theme park.",
+            "sent5": "Having a pass makes it easier to move around the restricted area."
         }
     ]
 }

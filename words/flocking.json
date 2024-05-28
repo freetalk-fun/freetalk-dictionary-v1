@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A group of birds or animals that live, travel, or feed together.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The flocking of geese in the sky was a beautiful sight.",
+            "sent2": "The zookeeper fed the flocking of ducks by the pond.",
+            "sent3": "The flocking of penguins waddling around made everyone smile.",
+            "sent4": "The flocking of sheep resembled a moving white cloud on the hill.",
+            "sent5": "The flocking of sparrows chirping in unison created a symphony of nature."
         },
         {
             "definition": "To gather or move in a crowd or mass.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "People started flocking to the park for the concert.",
+            "sent2": "Tourists were flocking to the beach during the summer.",
+            "sent3": "The kids began flocking around the ice cream truck as soon as it arrived.",
+            "sent4": "Customers were flocking to the store for the big sale.",
+            "sent5": "Fans were flocking to the stadium to see their favorite team play."
         },
         {
             "definition": "To coat or cover with flocking material.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She decided to flock the Christmas tree with white snow-like flocking.",
+            "sent2": "The artist carefully flocked the sculpture to give it a textured finish.",
+            "sent3": "The decorator flocked the walls with a soft velvet material for a luxurious look.",
+            "sent4": "The tailor flocked the costume with glitter for a sparkling effect on stage.",
+            "sent5": "The gardener flocked the garden gnome with green moss for a natural appearance."
         }
     ]
 }

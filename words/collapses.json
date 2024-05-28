@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Collapses (verb): to fall down or inward suddenly",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The old building collapses after the earthquake.",
+            "sent2": "The tired hiker collapses on the ground after a long hike.",
+            "sent3": "The cake collapses in the oven, turning into a delicious mess.",
+            "sent4": "Her hopes and dreams collapse like a house of cards.",
+            "sent5": "The bridge collapses with a loud crash, startling everyone nearby."
         },
         {
             "definition": "Collapses (noun): a sudden failure or breakdown",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The economic collapse led to widespread unemployment.",
+            "sent2": "The collapse of the company was unexpected and devastating.",
+            "sent3": "The collapse of the Jenga tower caused laughter among friends.",
+            "sent4": "The collapse of the plan left them scrambling for a solution.",
+            "sent5": "The collapse of the market sent shockwaves through the industry."
         },
         {
             "definition": "Collapses (adjective): describing something that has fallen down or inward suddenly",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The collapsed roof needed urgent repairs.",
+            "sent2": "The collapsed tent was no longer usable for camping.",
+            "sent3": "The collapsed sandcastle was a result of playful destruction.",
+            "sent4": "The collapsed balloon lay deflated on the floor.",
+            "sent5": "The collapsed umbrella offered no protection from the rain."
         }
     ]
 }

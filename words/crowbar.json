@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A heavy iron bar with a flattened end, used as a lever to pry things open.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "He used a crowbar to lift the heavy rock.",
+            "sent2": "The burglar tried to break into the house with a crowbar.",
+            "sent3": "The crowbar made the stubborn door finally budge.",
+            "sent4": "Her determination was the crowbar that opened new opportunities.",
+            "sent5": "The crowbar's steel glinted in the sunlight as it pried the lid off the crate."
         },
         {
             "definition": "To pry or force open with a crowbar.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She had to crowbar the window open to let in some fresh air.",
+            "sent2": "The detective crowbarred the truth out of the suspect.",
+            "sent3": "He tried to crowbar a smile after a long day at work.",
+            "sent4": "The idea of a vacation crowbarred its way into her mind.",
+            "sent5": "The team had to crowbar the old door open to access the hidden room."
         }
     ]
 }

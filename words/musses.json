@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Make (a person's hair) untidy.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She musses her hair before going to bed.",
+            "sent2": "He always musses his hair when he wakes up.",
+            "sent3": "The wind musses her hair into a wild tangle.",
+            "sent4": "The playful puppy musses up the child's hair with its paws.",
+            "sent5": "The mischievous toddler musses his hair with chocolate pudding."
         },
         {
             "definition": "A state of disorder or untidiness.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The room was in a complete muss after the party.",
+            "sent2": "She couldn't stand the muss in her workspace.",
+            "sent3": "The muss of papers on his desk made him laugh.",
+            "sent4": "The garden was a beautiful muss of wildflowers.",
+            "sent5": "The artist's studio was a creative muss of paints and brushes."
         }
     ]
 }

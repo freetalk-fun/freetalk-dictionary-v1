@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "In a way that relates to cryptography.",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "She encrypted the message cryptographically to keep it secure.",
+            "sent2": "The data was sent cryptographically to protect it from hackers.",
+            "sent3": "The spy tried to decode the cryptographically hidden message but failed.",
+            "sent4": "Her love for puzzles was cryptographically expressed in her secret codes.",
+            "sent5": "The treasure map was cryptographically designed to lead to the hidden chest."
         },
         {
             "definition": "Using or involving cryptography.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The cryptographically secure system prevented unauthorized access.",
+            "sent2": "They developed a cryptographically strong algorithm for data encryption.",
+            "sent3": "The cryptographically locked safe remained impenetrable.",
+            "sent4": "His cryptographically encoded password kept his accounts safe.",
+            "sent5": "The cryptographically signed document ensured its authenticity."
         }
     ]
 }

@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "scrams: to leave quickly or suddenly",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The cat scrams when it hears a loud noise.",
+            "sent2": "I need to scrams before the storm hits.",
+            "sent3": "The squirrel scrams up the tree when it sees the dog.",
+            "sent4": "Time scrams away like sand slipping through fingers.",
+            "sent5": "The thief scrams from the scene before anyone notices."
         },
         {
             "definition": "scrams: a command to leave quickly or suddenly",
-            "pos": "noun, interjection"
+            "pos": "noun, interjection",
+            "sent1": "The teacher gave the class a scrams when the bell rang.",
+            "sent2": "Scrams! We need to evacuate the building immediately.",
+            "sent3": "The scrams was heard loud and clear, prompting everyone to run.",
+            "sent4": "The sound of the scrams echoed through the empty hallway.",
+            "sent5": "In times of danger, a single scrams can save lives."
         }
     ]
 }

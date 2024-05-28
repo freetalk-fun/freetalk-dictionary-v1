@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A person living next door to or near another.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "My neighbour borrowed sugar from me.",
+            "sent2": "The neighbour's dog barks loudly every morning.",
+            "sent3": "My neighbour always waves hello when we pass by.",
+            "sent4": "The neighbour's garden blooms like a colorful painting.",
+            "sent5": "The neighbour's cat is always napping in the sun."
         },
         {
             "definition": "To be situated next to or near something.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The park neighbours the school.",
+            "sent2": "The two houses neighbour each other.",
+            "sent3": "The coffee shop neighbours the bookstore.",
+            "sent4": "The river neighbours the forest, creating a peaceful scene.",
+            "sent5": "The playground neighbours the busy street, filled with laughter."
         },
         {
             "definition": "To be friendly or helpful to someone in need.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The kind lady always neighbours those who are struggling.",
+            "sent2": "In times of trouble, it's important to neighbour one another.",
+            "sent3": "The community neighbours each other during difficult times.",
+            "sent4": "Her generosity neighbours her compassionate nature.",
+            "sent5": "Neighbouring with kindness can make a big difference in someone's day."
         }
     ]
 }

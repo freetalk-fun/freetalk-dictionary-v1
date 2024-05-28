@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To act or behave toward someone in a specified way.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She will treat her friends with kindness.",
+            "sent2": "He likes to treat his family with respect.",
+            "sent3": "The cat treats the mouse like a toy.",
+            "sent4": "The sun treats the flowers to its warm rays.",
+            "sent5": "In the story, the wizard treats the hero with magic powers."
         },
         {
             "definition": "An event or item that is out of the ordinary and gives great pleasure.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Ice cream is a delicious treat on a hot day.",
+            "sent2": "Going to the movies is always a fun treat.",
+            "sent3": "The surprise party was a delightful treat for the birthday girl.",
+            "sent4": "The vacation was a much-needed treat after a long year of work.",
+            "sent5": "The concert was a musical treat for the audience."
         }
     ]
 }

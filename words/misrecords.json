@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To record inaccurately or incorrectly.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She misrecords the meeting minutes by accident.",
+            "sent2": "He always misrecords the sales numbers in the report.",
+            "sent3": "The detective misrecords the suspect's alibi, causing confusion.",
+            "sent4": "Her memory misrecords the events like a faulty camera.",
+            "sent5": "The student misrecords the lecture, mixing up key points."
         },
         {
             "definition": "A record that contains errors or mistakes.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The misrecords of the patient's medical history led to a misdiagnosis.",
+            "sent2": "The archive room is full of misrecords from past years.",
+            "sent3": "The misrecords in the database made the accountant's job harder.",
+            "sent4": "The misrecords are like puzzle pieces that don't fit together.",
+            "sent5": "The misrecords stand out like red flags in the report."
         }
     ]
 }

@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To signal in advance",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Before the storm arrived, the dark clouds presignaled its approach.",
+            "sent2": "The traffic light presignaled the upcoming stop with a yellow glow.",
+            "sent3": "The chirping birds presignaled the sunrise, waking everyone up.",
+            "sent4": "The distant thunder presignaled the impending storm's arrival.",
+            "sent5": "The teacher's raised hand presignaled the end of the lesson."
         },
         {
             "definition": "A signal given in advance of a main signal",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The bell ringing was a presignal for the students to change classes.",
+            "sent2": "The flag raised on the ship served as a presignal for the upcoming arrival.",
+            "sent3": "The smell of baking cookies was a delicious presignal of the upcoming treat.",
+            "sent4": "The distant sound of drums acted as a presignal for the start of the ceremony.",
+            "sent5": "The chirping of crickets was a presignal of the approaching night."
         },
         {
             "definition": "To give a signal before an action or event",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The referee presignaled the start of the race with a loud whistle.",
+            "sent2": "The alarm clock presignaled the beginning of a new day.",
+            "sent3": "The smell of popcorn presignaled the start of the movie.",
+            "sent4": "The opening act presignaled the main performance of the night.",
+            "sent5": "The first raindrops presignaled the coming storm."
         }
     ]
 }

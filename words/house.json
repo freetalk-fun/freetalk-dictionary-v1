@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A building for human habitation.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The small house had a red door.",
+            "sent2": "My family and I live in a cozy house.",
+            "sent3": "The house seemed to be smiling with its bright windows.",
+            "sent4": "In the bustling city, the house stood like a quiet giant.",
+            "sent5": "The haunted house sent shivers down my spine."
         },
         {
             "definition": "A family living together in one building.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The Smith family is a happy house.",
+            "sent2": "Our house always gathers for dinner together.",
+            "sent3": "The house of laughter echoed through the halls.",
+            "sent4": "Their house was a symphony of voices and footsteps.",
+            "sent5": "The house was filled with love and warmth."
         },
         {
             "definition": "To provide with a place to live or stay.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "We will house the guests in the spare room.",
+            "sent2": "The hotel will house us during our vacation.",
+            "sent3": "I can house your plants while you're away.",
+            "sent4": "The garage can house all our camping gear.",
+            "sent5": "The barn will house the animals for the night."
         }
     ]
 }

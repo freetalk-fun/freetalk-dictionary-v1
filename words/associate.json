@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Connect or bring into relation",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I associate the colors red and green with Christmas.",
+            "sent2": "She likes to associate with people who share her interests.",
+            "sent3": "The cat seemed to associate the sound of the can opener with food.",
+            "sent4": "In his mind, he would always associate the beach with happy memories.",
+            "sent5": "The smell of fresh cookies would forever associate with his grandmother's house."
         },
         {
             "definition": "A person with whom one works or is associated",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "My associate helped me with the project.",
+            "sent2": "She is a trusted associate in the company.",
+            "sent3": "The detective's associate turned out to be the culprit!",
+            "sent4": "He considered his dog his closest associate.",
+            "sent5": "The professor's associate was always there to assist with research."
         },
         {
             "definition": "To join or connect in a relationship or partnership",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I associate myself with the best in the business.",
+            "sent2": "They decided to associate their companies for a joint project.",
+            "sent3": "The two rival companies agreed to associate for a charity event.",
+            "sent4": "She wanted to associate her brand with a well-known celebrity.",
+            "sent5": "The artist chose to associate her work with environmental causes."
         }
     ]
 }

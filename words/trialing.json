@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Test or experiment with something",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She is trialing a new recipe for dinner tonight.",
+            "sent2": "Scientists often trial new medications before releasing them to the public.",
+            "sent3": "The chef was trialing a bizarre combination of ingredients in the kitchen.",
+            "sent4": "The students were trialing different study methods to see which one worked best.",
+            "sent5": "The company is trialing a new software system to improve efficiency."
         },
         {
             "definition": "Participating in a trial or test",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The trialing participants were eager to see the results.",
+            "sent2": "She felt nervous about being part of the trialing group.",
+            "sent3": "The trialing team celebrated after completing the challenge successfully.",
+            "sent4": "The trialing athletes pushed themselves to the limit during the competition.",
+            "sent5": "The trialing students were excited to showcase their project to the judges."
         },
         {
             "definition": "The act of undergoing a trial or test",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The trialing of the new product was met with positive feedback.",
+            "sent2": "She was selected to participate in the trialing of the prototype.",
+            "sent3": "The trialing of the new technology brought unexpected challenges.",
+            "sent4": "The trialing of the vaccine showed promising results in the initial stages.",
+            "sent5": "The company invested in the trialing of different marketing strategies to boost sales."
         }
     ]
 }

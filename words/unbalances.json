@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Disturb the stability or equilibrium of (something)",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The strong wind unbalances the stack of books on the table.",
+            "sent2": "Walking on a tightrope unbalances the performer's body.",
+            "sent3": "Trying to juggle too many tasks unbalances my schedule.",
+            "sent4": "The unexpected news unbalances her emotions like a sudden storm.",
+            "sent5": "The earthquake unbalances the entire landscape, leaving it forever changed."
         },
         {
             "definition": "Cause to be unsteady or unsteady",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The slippery floor unbalances the dancer during the performance.",
+            "sent2": "Wearing high heels can unbalance your posture if you're not used to them.",
+            "sent3": "The mischievous kitten unbalances the tower of blocks with a playful paw.",
+            "sent4": "His unexpected question unbalances her thoughts, making her stumble over her words.",
+            "sent5": "The sudden gust of wind unbalances the umbrella, turning it inside out."
         },
         {
             "definition": "Lack of balance or stability",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The unbalances in the budget led to financial difficulties for the company.",
+            "sent2": "The construction of the tower is at risk due to the unbalances in its structure.",
+            "sent3": "The unbalances in her diet caused her to feel lightheaded and weak.",
+            "sent4": "The unbalances in power between the two nations created tension in the region.",
+            "sent5": "The unbalances in the ecosystem resulted in a decline in biodiversity."
         }
     ]
 }

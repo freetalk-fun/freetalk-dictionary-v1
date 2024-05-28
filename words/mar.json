@@ -3,19 +3,39 @@
     "meanings": [
         {
             "definition": "To damage or spoil the appearance of",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I accidentally marred the table when I spilled paint on it.",
+            "sent2": "The scratch on the car's door will mar its resale value.",
+            "sent3": "My attempt at painting the wall ended up being a mar on the room's decor.",
+            "sent4": "The graffiti on the historic building marred its beauty and history.",
+            "sent5": "The permanent marker marred the clean white paper with a big blot."
         },
         {
             "definition": "A mark or blemish on a surface",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "There was a small mar on the mirror that caught my eye.",
+            "sent2": "The antique vase had a tiny mar on its delicate surface.",
+            "sent3": "The cake was perfect except for the mar from the baker's fingerprint.",
+            "sent4": "The old painting had a mysterious mar that added character to it.",
+            "sent5": "The new phone had a noticeable mar on its screen, affecting its display."
         },
         {
             "definition": "To impair the quality or perfection of",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The loud noise from the construction site marred the peaceful atmosphere.",
+            "sent2": "A single mistake can mar the entire project's success.",
+            "sent3": "The rain threatened to mar our outdoor picnic plans.",
+            "sent4": "The negative comments online can mar a person's self-esteem.",
+            "sent5": "The lack of sleep can mar your ability to focus and perform well."
         },
         {
             "definition": "A disfiguring mark or scar",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The deep mar on his face was a constant reminder of the accident.",
+            "sent2": "She covered the mar on her arm with a long-sleeved shirt.",
+            "sent3": "The mar on the statue made it look like it had a story to tell.",
+            "sent4": "The old tree bore the mar of lightning strikes over the years.",
+            "sent5": "The mar on the antique furniture hinted at its long history and previous owners."
         }
     ]
 }

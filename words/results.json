@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A consequence, effect, or outcome of something.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The test results showed that she had studied well.",
+            "sent2": "The results of the experiment were unexpected.",
+            "sent3": "His love for spicy food always results in a runny nose.",
+            "sent4": "The results of their teamwork were like a beautiful painting coming to life.",
+            "sent5": "The results of the election were clear and decisive."
         },
         {
             "definition": "To occur or happen as a consequence of something.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Skipping breakfast often results in feeling hungry later.",
+            "sent2": "Careful planning results in a successful event.",
+            "sent3": "His attempt to juggle too many tasks results in chaos.",
+            "sent4": "The storm resulted in a power outage across the city.",
+            "sent5": "Consistent practice results in improvement over time."
         },
         {
             "definition": "To produce a particular outcome or consequence.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Hard work results in achieving your goals.",
+            "sent2": "Proper care of plants results in healthy growth.",
+            "sent3": "Mixing red and blue paint results in a purple color.",
+            "sent4": "Her dedication resulted in a promotion at work.",
+            "sent5": "Regular exercise results in better physical fitness."
         }
     ]
 }

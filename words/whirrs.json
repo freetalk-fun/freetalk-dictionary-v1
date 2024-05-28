@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A low, continuous, regular sound resembling that of a rapidly revolving object.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The whirrs of the fan filled the room with a soothing hum.",
+            "sent2": "I heard the whirrs of the helicopter as it flew overhead.",
+            "sent3": "The whirrs of the old washing machine made it seem like it was singing a lullaby.",
+            "sent4": "The whirrs of the wind turbines echoed across the vast field.",
+            "sent5": "The whirrs of the distant train grew louder as it approached the station."
         },
         {
             "definition": "To make a low, continuous, regular sound resembling that of a rapidly revolving object.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The machine whirrs softly as it operates in the background.",
+            "sent2": "She whirrs the toy airplane around her head, making airplane noises.",
+            "sent3": "The cat whirrs happily as it chases after a toy mouse.",
+            "sent4": "The bicycle whirrs as the wheels spin rapidly down the hill.",
+            "sent5": "He whirrs the drill to life, ready to start working on the project."
         }
     ]
 }

@@ -3,23 +3,48 @@
     "meanings": [
         {
             "definition": "A wound or incision made by a sharp object",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The doctor used a sharp tool to make small cuts on the patient's skin.",
+            "sent2": "The deep cuts on his hand required stitches to heal properly.",
+            "sent3": "The clumsy chef accidentally made cuts on his fingers while chopping vegetables.",
+            "sent4": "Her words were like emotional cuts that left lasting scars on his heart.",
+            "sent5": "The cuts on the tree trunk revealed its age and history."
         },
         {
             "definition": "A reduction in size or amount",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The company had to make budget cuts to survive the economic downturn.",
+            "sent2": "The teacher made cuts to the long essay to meet the word limit.",
+            "sent3": "The sudden price cuts on the products attracted many customers to the store.",
+            "sent4": "His excessive spending habits led to severe cuts in his savings account.",
+            "sent5": "The weight loss program promised quick cuts in body fat."
         },
         {
             "definition": "A passage or channel made by cutting",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The explorer found a hidden cuts through the dense forest.",
+            "sent2": "The river created a natural cuts in the rocky terrain.",
+            "sent3": "The shortcut through the park was a secret cuts known only to locals.",
+            "sent4": "The ancient civilization used cuts to navigate through the mountains.",
+            "sent5": "The artist carefully carved intricate cuts into the marble sculpture."
         },
         {
             "definition": "A style or shape of a garment",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The latest fashion trend includes cuts that are both elegant and comfortable.",
+            "sent2": "She admired the intricate cuts on the traditional dress.",
+            "sent3": "The designer showcased a collection of unique cuts at the fashion show.",
+            "sent4": "The tailor suggested altering the cuts of the dress for a better fit.",
+            "sent5": "The vintage cuts of the jacket gave it a timeless appeal."
         },
         {
             "definition": "A piece of meat or fish suitable for stewing or frying",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The chef selected the best cuts of beef for the steak dish.",
+            "sent2": "She seasoned the cuts of fish before placing them on the grill.",
+            "sent3": "The butcher displayed a variety of fresh cuts at the market.",
+            "sent4": "The recipe called for tender cuts of chicken for the curry.",
+            "sent5": "The cuts of pork were marinated overnight for a flavorful roast."
         }
     ]
 }

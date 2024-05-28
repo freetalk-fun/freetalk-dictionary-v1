@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Preferred above all others",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "My favorite color is blue.",
+            "sent2": "She wore her favorite dress to the party.",
+            "sent3": "The cat's favorite toy is a small mouse.",
+            "sent4": "The sunflower is the garden's favorite, always turning towards the sun.",
+            "sent5": "His favorite song always brings a smile to his face."
         },
         {
             "definition": "A person or thing that is preferred above all others",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "My favorite is chocolate ice cream.",
+            "sent2": "The bookworm's favorite is the library.",
+            "sent3": "The dog's favorite is chasing squirrels in the park.",
+            "sent4": "The mountain peak is nature's favorite, standing tall and proud.",
+            "sent5": "The teacher's favorite student always excels in class."
         },
         {
             "definition": "To regard with special favor or preference",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I favorite spending time with my family.",
+            "sent2": "She favorites reading books in her free time.",
+            "sent3": "The cat favorites napping in the sunbeam.",
+            "sent4": "The tree favorites the gentle breeze rustling its leaves.",
+            "sent5": "He favorites helping others whenever he can."
         }
     ]
 }

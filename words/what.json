@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Asking for information or specifying something",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Tell me what you want for dinner.",
+            "sent2": "I wonder what time the movie starts.",
+            "sent3": "What do you think the clouds are made of?",
+            "sent4": "Her eyes searched the room, trying to see what was hidden.",
+            "sent5": "The detective asked the witness what he saw that night."
         },
         {
             "definition": "Anything that",
-            "pos": "pronoun"
+            "pos": "pronoun",
+            "sent1": "I will eat what is on my plate.",
+            "sent2": "She can choose what she wants from the store.",
+            "sent3": "What you wear to the party doesn't matter.",
+            "sent4": "The box contained what she needed to fix the broken toy.",
+            "sent5": "He picked up what he thought was a rock, but it turned out to be a fossil."
         },
         {
             "definition": "The thing or things that",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The book is what I need to finish my project.",
+            "sent2": "She showed me what she bought at the store.",
+            "sent3": "What you said made her smile.",
+            "sent4": "His collection of stamps is what he is most proud of.",
+            "sent5": "The treasure map led them to what they had been searching for all along."
         }
     ]
 }

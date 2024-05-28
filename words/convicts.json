@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A person found guilty of a crime and sentenced to imprisonment.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The convicts worked in the prison garden.",
+            "sent2": "The convicts wore striped uniforms.",
+            "sent3": "The convicts tried to plant flowers upside down for fun.",
+            "sent4": "The image of the convicts behind bars was a stark reminder of their actions.",
+            "sent5": "The sound of the prison gates closing echoed around the convicts."
         },
         {
             "definition": "To declare guilty of an offense.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The judge convicts the thief of stealing.",
+            "sent2": "The jury convicts the suspect based on evidence.",
+            "sent3": "The detective jokingly convicts the cat of stealing treats.",
+            "sent4": "The evidence convicts the culprit beyond doubt.",
+            "sent5": "The confession convicts the liar in the end."
         },
         {
             "definition": "To prove or show to be guilty.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The fingerprints convict the suspect of the crime.",
+            "sent2": "The video footage convicts the robber of the theft.",
+            "sent3": "The detective cleverly convicts the cookie jar of being empty.",
+            "sent4": "The undeniable facts convict the defendant in court.",
+            "sent5": "The witness's testimony convicts the criminal without a doubt."
         }
     ]
 }

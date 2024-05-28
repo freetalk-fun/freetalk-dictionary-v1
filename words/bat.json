@@ -3,19 +3,39 @@
     "meanings": [
         {
             "definition": "A flying mammal typically active at night.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The bat flew silently through the night sky.",
+            "sent2": "I saw a bat hanging upside down in the cave.",
+            "sent3": "The bat decided to take a nap during the day instead of at night.",
+            "sent4": "Her hair was as dark as a bat's wings.",
+            "sent5": "The bat's echolocation abilities help it navigate in the dark."
         },
         {
             "definition": "A piece of equipment used in sports such as baseball or cricket.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The baseball player grabbed his bat before stepping up to the plate.",
+            "sent2": "She swung the cricket bat with precision and hit the ball far.",
+            "sent3": "The bat was so heavy that it made a great doorstop.",
+            "sent4": "His words were like a bat, hitting me hard with their truth.",
+            "sent5": "The shiny new bat gleamed under the stadium lights."
         },
         {
             "definition": "To strike or hit something with a bat.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He tried to bat the ball out of the park.",
+            "sent2": "She batted the mosquito away from her arm.",
+            "sent3": "The cat batted at the toy mouse playfully.",
+            "sent4": "The wind batted the leaves against the window.",
+            "sent5": "She batted her eyelashes to get his attention."
         },
         {
             "definition": "To flutter or fly erratically.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The butterfly batted its wings gently in the breeze.",
+            "sent2": "The moth batted around the porch light.",
+            "sent3": "The paper bat batted around in the wind before landing on the ground.",
+            "sent4": "Her heart batted nervously in her chest before the big presentation.",
+            "sent5": "The flag batted in the wind, signaling the start of the race."
         }
     ]
 }

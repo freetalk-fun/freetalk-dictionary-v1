@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To cover with flour.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She floured the dough before baking it.",
+            "sent2": "The baker always floured the surface before rolling out the dough.",
+            "sent3": "The mischievous child accidentally floured the kitchen instead of the dough.",
+            "sent4": "The snowflakes gently floured the ground, creating a winter wonderland.",
+            "sent5": "The chef's hands expertly floured the chicken, preparing it for frying."
         },
         {
             "definition": "Covered with flour.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The freshly baked bread was floured on top.",
+            "sent2": "The floured surface left a white trail as she walked across the kitchen.",
+            "sent3": "The cat's paws were floured after playing in the spilled flour.",
+            "sent4": "The floured table resembled a snowy mountain peak.",
+            "sent5": "The floured pastries glistened under the bakery lights."
         }
     ]
 }

@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Involving many carefully arranged parts or details; detailed and complicated.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The elaborate cake had intricate designs and many layers.",
+            "sent2": "She wore an elaborate dress to the party.",
+            "sent3": "The elaborate puzzle took hours to complete.",
+            "sent4": "The elaborate plan to surprise her worked perfectly.",
+            "sent5": "The elaborate painting captured every tiny detail beautifully."
         },
         {
             "definition": "To develop or present in detail.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He asked her to elaborate on her idea during the meeting.",
+            "sent2": "The author will elaborate on the plot in the next chapter.",
+            "sent3": "She decided to elaborate on her story with more interesting characters.",
+            "sent4": "The teacher asked the student to elaborate on his answer.",
+            "sent5": "The chef will elaborate on the recipe during the cooking show."
         },
         {
             "definition": "To add more detail or information to something.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Can you elaborate on the instructions for me?",
+            "sent2": "She will elaborate on the project during the presentation.",
+            "sent3": "He likes to elaborate on his stories with funny anecdotes.",
+            "sent4": "The scientist will elaborate on the findings in the research paper.",
+            "sent5": "Please elaborate on your reasons for choosing that option."
         }
     ]
 }

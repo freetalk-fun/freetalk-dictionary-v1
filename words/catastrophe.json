@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "An event causing great and often sudden damage or suffering.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The earthquake was a catastrophe for the small town.",
+            "sent2": "The hurricane was a natural catastrophe that devastated the coastline.",
+            "sent3": "The picnic turned into a catastrophe when it started raining heavily.",
+            "sent4": "Losing the championship game was a catastrophe for the team.",
+            "sent5": "The forest fire was a catastrophic event that left the land barren."
         },
         {
             "definition": "A complete failure or fiasco.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The play was a catastrophe with actors forgetting their lines.",
+            "sent2": "The business deal turned into a catastrophe when the investors backed out.",
+            "sent3": "The birthday party was a catastrophe with the cake falling on the floor.",
+            "sent4": "The experiment was a catastrophe, resulting in a big mess in the lab.",
+            "sent5": "The camping trip turned into a catastrophic failure when they got lost in the woods."
         },
         {
             "definition": "A sudden and widespread disaster.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The tsunami was a catastrophe that affected multiple countries.",
+            "sent2": "The pandemic was a global catastrophe that changed the way we live.",
+            "sent3": "The snowstorm turned into a catastrophe when the power went out.",
+            "sent4": "The volcanic eruption was a catastrophe that covered the entire island in ash.",
+            "sent5": "The flood was a catastrophic event that destroyed homes and crops."
         }
     ]
 }

@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A person who looks or observes.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The lookee watched the birds in the park.",
+            "sent2": "I saw a lookee staring at the painting in the gallery.",
+            "sent3": "The lookee chuckled as they observed the playful puppies.",
+            "sent4": "She was a lookee, always taking in the beauty of nature.",
+            "sent5": "The lookee's keen eyes spotted the hidden treasure."
         },
         {
             "definition": "An exclamation used to draw attention to something.",
-            "pos": "interjection"
+            "pos": "interjection",
+            "sent1": "Lookee! There's a rainbow in the sky!",
+            "sent2": "Lookee, I found a four-leaf clover!",
+            "sent3": "Lookee, the cat is chasing its tail again!",
+            "sent4": "Lookee, the stars are shining brightly tonight!",
+            "sent5": "Lookee, the cake is ready to be served!"
         },
         {
             "definition": "To look or gaze at something.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She likes to lookee at the stars before bedtime.",
+            "sent2": "I lookee out the window and saw a rainbow.",
+            "sent3": "He lookee at the menu, trying to decide what to order.",
+            "sent4": "The child lookee in wonder at the colorful balloons.",
+            "sent5": "The artist lookee at the blank canvas, envisioning a masterpiece."
         }
     ]
 }

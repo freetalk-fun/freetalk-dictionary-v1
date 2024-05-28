@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A loud, harsh sound made by a goose or horn.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The honk of the goose echoed across the lake.",
+            "sent2": "I heard a honk as the car passed by.",
+            "sent3": "The honk of the goose startled the other birds.",
+            "sent4": "The honk of the horn pierced through the traffic noise.",
+            "sent5": "The honk of the horn was unmistakable in the quiet night."
         },
         {
             "definition": "To make a loud, harsh sound with a horn or voice.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The clown would honk his horn to make the children laugh.",
+            "sent2": "Please honk the horn to let them know we're here.",
+            "sent3": "I accidentally honked the horn while trying to find the light switch.",
+            "sent4": "The geese honked loudly as they flew overhead.",
+            "sent5": "She honked the horn repeatedly to get the driver's attention."
         }
     ]
 }

@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Used to introduce a phrase or clause contrasting with what has already been mentioned.",
-            "pos": "conjunction"
+            "pos": "conjunction",
+            "sent1": "She wanted to go to the park, but it started raining.",
+            "sent2": "I like ice cream, but I don't like chocolate.",
+            "sent3": "He was excited to play outside, but the thunderstorm ruined his plans.",
+            "sent4": "Her smile was bright, but her eyes told a different story.",
+            "sent5": "The book was thin, but its content was profound."
         },
         {
             "definition": "Except; apart from; other than.",
-            "pos": "preposition"
+            "pos": "preposition",
+            "sent1": "Everyone was invited to the party but John.",
+            "sent2": "I like all fruits but bananas.",
+            "sent3": "The store had everything but the item I needed.",
+            "sent4": "The garden was full of flowers but one lonely rose.",
+            "sent5": "The room was empty but for a single chair."
         },
         {
             "definition": "On the contrary; in contrast.",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "She thought he was angry, but he was actually laughing.",
+            "sent2": "The day seemed dull, but the sunset was breathtaking.",
+            "sent3": "He looked tired, but he danced all night.",
+            "sent4": "The movie appeared boring, but it turned out to be exciting.",
+            "sent5": "The room felt cold, but the fireplace warmed it up quickly."
         }
     ]
 }

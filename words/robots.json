@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A machine capable of carrying out a complex series of actions automatically, especially one programmable by a computer.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The robots in the factory assembled cars quickly.",
+            "sent2": "Many sci-fi movies feature robots as advanced beings.",
+            "sent3": "The robots at the party danced awkwardly but efficiently.",
+            "sent4": "Her heart felt like a robot, mechanically going through the motions.",
+            "sent5": "The robots hummed and whirred, creating a symphony of automation."
         },
         {
             "definition": "A person who behaves in a mechanical or unemotional manner.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "He spoke like a robot, showing no emotion.",
+            "sent2": "The teacher's strict demeanor made her seem like a robot.",
+            "sent3": "At the comedy show, the comedian joked about a robot trying to tell a joke.",
+            "sent4": "Her eyes were cold and distant, like those of a robot.",
+            "sent5": "His robotic response to the news showed his lack of empathy."
         },
         {
             "definition": "To replace or supplement human labor with machines.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The company decided to robots the assembly line for efficiency.",
+            "sent2": "In the future, many tasks may be robotsed for speed.",
+            "sent3": "The family joked that they would robots themselves with robotic clones.",
+            "sent4": "The new technology aims to robots mundane tasks and free up time.",
+            "sent5": "As technology advances, more industries will robots human workers with automation."
         }
     ]
 }

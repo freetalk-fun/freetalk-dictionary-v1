@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "The point that is the center of mass of a geometric figure.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The centroid of the shape shows where the weight is balanced.",
+            "sent2": "In math class, we learned how to find the centroid of different shapes.",
+            "sent3": "The centroid of the triangle decided to go on a diet to maintain its balance.",
+            "sent4": "The centroid of the figure stood still, holding everything together like a glue.",
+            "sent5": "Finding the centroid is like finding the heart of a shape."
         },
         {
             "definition": "The point within a triangle where the medians intersect.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The centroid of the triangle is where all the lines meet.",
+            "sent2": "The centroid of a triangle is not always at the center.",
+            "sent3": "The centroid of the triangle threw a party at the intersection point.",
+            "sent4": "The centroid of the triangle is like the meeting point of all roads.",
+            "sent5": "The centroid of the triangle is like the boss of the lines, calling the shots."
         },
         {
             "definition": "The point within a parallelogram where the diagonals intersect.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The centroid of the parallelogram is where the lines cross.",
+            "sent2": "We calculated the centroid of the parallelogram in geometry class.",
+            "sent3": "The centroid of the parallelogram decided to play hopscotch on the diagonals.",
+            "sent4": "The centroid of the parallelogram is like the meeting point of two highways.",
+            "sent5": "The centroid of the parallelogram is like the crossroads of the shape."
         }
     ]
 }

@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To evaluate or estimate the nature, ability, or quality of someone or something.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She assesses the students' progress in math every week.",
+            "sent2": "The teacher assesses the students' understanding of the lesson through quizzes.",
+            "sent3": "The detective assesses the crime scene for any clues.",
+            "sent4": "The chef assesses the ingredients before starting to cook.",
+            "sent5": "The doctor carefully assesses the patient's symptoms to make a diagnosis."
         },
         {
             "definition": "To determine the value or amount of something.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He assesses the cost of repairing the car before giving an estimate.",
+            "sent2": "The appraiser assesses the value of the antique vase.",
+            "sent3": "The accountant assesses the company's financial situation before making recommendations.",
+            "sent4": "The real estate agent assesses the market value of the house before listing it.",
+            "sent5": "The scientist assesses the data collected to draw conclusions."
         }
     ]
 }

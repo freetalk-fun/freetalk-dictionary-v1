@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Something that is derived from another source",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The book was a derivative of a famous novel.",
+            "sent2": "The painting was a derivative of a famous artist's work.",
+            "sent3": "The movie was a derivative of the original screenplay, but with a twist.",
+            "sent4": "Her fashion designs were a derivative of nature's beauty.",
+            "sent5": "The recipe was a derivative of her grandmother's secret cooking method."
         },
         {
             "definition": "A financial instrument whose value is based on the value of another asset",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "He invested in derivatives to diversify his portfolio.",
+            "sent2": "The bank offered various derivatives to their clients.",
+            "sent3": "Trading derivatives can be risky but rewarding.",
+            "sent4": "The value of the derivative fluctuated with the stock market.",
+            "sent5": "Understanding derivatives is crucial for successful investing."
         },
         {
             "definition": "Showing little originality or creativity",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "Her artwork was criticized for being derivative and unoriginal.",
+            "sent2": "The film received negative reviews for its derivative plot.",
+            "sent3": "His jokes were so derivative that no one found them funny.",
+            "sent4": "The fashion industry is often accused of producing derivative designs.",
+            "sent5": "The artist's work was dismissed as derivative and uninspired."
         }
     ]
 }

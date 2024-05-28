@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Nothing",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "She found niente in her pocket.",
+            "sent2": "The box contained niente but dust.",
+            "sent3": "The magician pulled a rabbit out of his hat, but it turned into niente!",
+            "sent4": "The room was filled with niente but silence.",
+            "sent5": "The treasure chest held niente but disappointment."
         },
         {
             "definition": "None",
-            "pos": "pronoun"
+            "pos": "pronoun",
+            "sent1": "Niente of the cookies were left.",
+            "sent2": "There were niente of us at the party.",
+            "sent3": "The detective searched for clues, but found niente.",
+            "sent4": "The garden was empty, niente were there.",
+            "sent5": "The jar was full of candies, but now there is niente left."
         },
         {
             "definition": "Zero",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "He scored niente in the game.",
+            "sent2": "The thermometer showed niente degrees.",
+            "sent3": "The bank account had niente balance.",
+            "sent4": "The scale displayed niente pounds.",
+            "sent5": "The clock struck midnight, and it was niente o'clock."
         }
     ]
 }

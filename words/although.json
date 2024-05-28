@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "In spite of the fact that; even though.",
-            "pos": "conjunction"
+            "pos": "conjunction",
+            "sent1": "Although it rained, we still had fun at the park.",
+            "sent2": "I wanted to go for a walk, although it was getting dark outside.",
+            "sent3": "Although the cat tried to act tough, it was scared of the vacuum cleaner.",
+            "sent4": "The flower bloomed beautifully, although it had been neglected for weeks.",
+            "sent5": "Although the cake looked delicious, it tasted terrible."
         },
         {
             "definition": "However.",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "I wanted to go for a run, although I was feeling tired.",
+            "sent2": "She was busy with work, although she managed to find time for a quick break.",
+            "sent3": "Although the movie was boring, she stayed until the end out of politeness.",
+            "sent4": "The team lost the game, although they had practiced hard all week.",
+            "sent5": "Although the book was long, she finished reading it in one sitting."
         }
     ]
 }

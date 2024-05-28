@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A person who plays a musical keyboard.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The talented keyboarder performed a beautiful melody on the piano.",
+            "sent2": "The keyboarder entertained the audience with his piano skills.",
+            "sent3": "The keyboarder made the piano keys dance with his fingers.",
+            "sent4": "The keyboarder's fingers moved across the keys like a gentle breeze.",
+            "sent5": "The audience was mesmerized by the keyboarder's musical talent."
         },
         {
             "definition": "A person who types on a computer keyboard.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The office keyboarder quickly typed up the report for the meeting.",
+            "sent2": "The keyboarder's job involves a lot of typing on the computer.",
+            "sent3": "The keyboarder's fingers danced across the keys, typing away furiously.",
+            "sent4": "The keyboarder's typing speed was as fast as lightning.",
+            "sent5": "The keyboarder's accuracy in typing was impressive to watch."
         }
     ]
 }

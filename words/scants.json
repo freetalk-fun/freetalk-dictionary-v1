@@ -2,16 +2,31 @@
     "term": "scants",
     "meanings": [
         {
-            "definition": "Scants: to provide in a limited or insufficient quantity",
-            "pos": "verb"
+            "definition": "to provide in a limited or insufficient quantity",
+            "pos": "verb",
+            "sent1": "She scants her time on social media to focus on her studies.",
+            "sent2": "The company scants resources for the new project, causing delays.",
+            "sent3": "The chef scants the salt in the soup, making it taste bland.",
+            "sent4": "His generosity scants no one, always willing to help those in need.",
+            "sent5": "The teacher scants praise, only giving it to exceptional work."
         },
         {
-            "definition": "Scants: lacking in quantity or extent",
-            "pos": "adjective"
+            "definition": "lacking in quantity or extent",
+            "pos": "adjective",
+            "sent1": "The scants supply of food left the villagers hungry.",
+            "sent2": "Her scants savings made it difficult to afford the trip.",
+            "sent3": "The scants rainfall resulted in a dry and dusty summer.",
+            "sent4": "His scants knowledge of the subject showed in his test scores.",
+            "sent5": "The scants light in the room made it hard to see clearly."
         },
         {
-            "definition": "Scants: a small or insufficient amount",
-            "pos": "noun"
+            "definition": "a small or insufficient amount",
+            "pos": "noun",
+            "sent1": "He only had scants of time to finish the project before the deadline.",
+            "sent2": "The beggar asked for help, showing scants of hope in his eyes.",
+            "sent3": "The scants of sugar left in the jar were just enough for one cup of tea.",
+            "sent4": "She felt scants of energy after a long day at work.",
+            "sent5": "The scants of laughter in the room indicated a somber mood."
         }
     ]
 }

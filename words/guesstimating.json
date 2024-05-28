@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Estimate (a quantity, value, or extent) without precise information; guess.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I was guesstimating the number of candies in the jar.",
+            "sent2": "She is guesstimating the cost of the project.",
+            "sent3": "While guesstimating the weight of the suitcase, I accidentally included my shoes.",
+            "sent4": "He was guesstimating the time it would take to finish the race, but he ended up being faster than expected.",
+            "sent5": "Guesstimating the distance to the moon is like trying to count the stars in the sky."
         },
         {
             "definition": "An estimate based on a mixture of guesswork and calculation.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Her guesstimate of the crowd size was surprisingly accurate.",
+            "sent2": "The financial report included a guesstimate of future expenses.",
+            "sent3": "The guesstimate of how many cookies to bake for the party was way off.",
+            "sent4": "The guesstimate of the storm's arrival time helped people prepare in advance.",
+            "sent5": "Making a guesstimate about the winner of the game is always exciting."
         }
     ]
 }

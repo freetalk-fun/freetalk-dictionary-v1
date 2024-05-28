@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A substance in a form like air that is neither solid nor liquid and can be burned to produce heat or light.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The car runs on gas.",
+            "sent2": "She filled up the tank with gas.",
+            "sent3": "The balloon popped with a loud gas.",
+            "sent4": "The city lights glowed like gas lamps.",
+            "sent5": "The gas stove warmed the room quickly."
         },
         {
             "definition": "To give off gas.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The soda will gas when you open it.",
+            "sent2": "The volcano began to gas and rumble.",
+            "sent3": "The beans made him gas all night.",
+            "sent4": "The car engine started to gas heavily.",
+            "sent5": "The flowers gasped out a sweet scent."
         },
         {
             "definition": "To talk a lot.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She tends to gas about her day.",
+            "sent2": "He likes to gas with his friends.",
+            "sent3": "The parrot can gas for hours.",
+            "sent4": "The radio host would gas on and on.",
+            "sent5": "The children would gas excitedly about the party."
         }
     ]
 }

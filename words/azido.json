@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A chemical group containing three nitrogen atoms.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The scientist studied the azido in the molecule.",
+            "sent2": "The azido is an important part of the compound's structure.",
+            "sent3": "The azido group threw a nitrogen party in the chemical reaction.",
+            "sent4": "The azido stood out in the compound like a trio of nitrogen stars.",
+            "sent5": "The azido group's three nitrogen atoms bonded tightly together."
         },
         {
             "definition": "A compound containing the azido group.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The lab technician analyzed the azido in the sample.",
+            "sent2": "The azido compound showed unique properties under the microscope.",
+            "sent3": "The azido group in the compound seemed to have a nitrogen dance party.",
+            "sent4": "The azido compound shone brightly in the chemical mixture.",
+            "sent5": "The azido group's presence in the compound was unmistakable."
         },
         {
             "definition": "To treat or combine with azide compounds.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The chemist azidoed the solution for the experiment.",
+            "sent2": "It is important to azido the substance carefully.",
+            "sent3": "The researcher accidentally azidoed the wrong flask, causing a small explosion.",
+            "sent4": "She azidoed the mixture with precision, creating a new compound.",
+            "sent5": "The team azidoed the chemicals together to form a stable reaction."
         }
     ]
 }

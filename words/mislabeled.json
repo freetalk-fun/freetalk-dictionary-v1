@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To label incorrectly.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The store mislabeled the price on the shirt.",
+            "sent2": "She realized the package was mislabeled with the wrong address.",
+            "sent3": "The mischievous elf mislabeled the toy boxes for fun.",
+            "sent4": "His memory mislabeled the date as his birthday.",
+            "sent5": "The scientist's error mislabeled the chemicals, causing a reaction."
         },
         {
             "definition": "Incorrectly labeled.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The mislabeled box confused the delivery person.",
+            "sent2": "They received a mislabeled package with the wrong contents.",
+            "sent3": "The mislabeled sign led them in the opposite direction.",
+            "sent4": "Her mislabeled luggage ended up in a different country.",
+            "sent5": "The mislabeled jars were all mixed up on the shelf."
         }
     ]
 }

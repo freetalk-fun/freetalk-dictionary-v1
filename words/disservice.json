@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "An action that harms or damages someone or something.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Not fixing the leak in the roof was a real disservice to the house.",
+            "sent2": "The disservice of spreading false rumors can hurt others deeply.",
+            "sent3": "It would be quite a disservice to wear muddy shoes on the clean carpet.",
+            "sent4": "Ignoring the warning signs is a disservice akin to playing with fire.",
+            "sent5": "The disservice of skipping meals can lead to health problems."
         },
         {
             "definition": "To harm or damage someone or something by failing to do something.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She felt she had done a disservice by not speaking up when she should have.",
+            "sent2": "You can easily disservice your car by neglecting regular maintenance.",
+            "sent3": "Forgetting to water the plants would disservice them greatly.",
+            "sent4": "Procrastinating on assignments can disservice your academic performance.",
+            "sent5": "He didn't mean to disservice his friend by arriving late."
         }
     ]
 }

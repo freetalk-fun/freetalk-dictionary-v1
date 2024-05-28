@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Make (something) smaller or more compressed.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I minified the image to save space on my computer.",
+            "sent2": "Developers often minify their code to improve website loading times.",
+            "sent3": "The magician minified the rabbit, making it fit into a tiny hat.",
+            "sent4": "She minified her worries into a single thought, freeing her mind.",
+            "sent5": "The chef minified the recipe, condensing it to just a few key ingredients."
         },
         {
             "definition": "To reduce (something) to the smallest possible size.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The email attachment was minified for faster sending.",
+            "sent2": "The company minified their expenses to increase profits.",
+            "sent3": "The students minified their project, making it fit on one page.",
+            "sent4": "His words were minified to a mere whisper in the vast auditorium.",
+            "sent5": "The artist minified the painting, capturing the essence in a small frame."
         }
     ]
 }

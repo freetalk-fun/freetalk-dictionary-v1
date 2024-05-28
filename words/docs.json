@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Documents",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I need to organize my docs for the meeting tomorrow.",
+            "sent2": "The important docs are kept in a secure folder.",
+            "sent3": "The docs were scattered all over the desk, making it look messy.",
+            "sent4": "Her backpack was a treasure trove of docs from different eras.",
+            "sent5": "The docs fluttered in the wind as they were scattered across the room."
         },
         {
             "definition": "Doctor",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The docs prescribed some medicine for my cough.",
+            "sent2": "The docs at the hospital work long hours to help patients.",
+            "sent3": "The docs in the white coats always seem to be in a rush.",
+            "sent4": "She was like a magician, the way the docs made people feel better.",
+            "sent5": "The docs' stethoscope hung around their neck, a symbol of care and expertise."
         },
         {
             "definition": "Documentation",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Make sure to keep all the project docs in one folder.",
+            "sent2": "The documentation provided clear instructions on how to use the software.",
+            "sent3": "The docs for the new software update were as thick as a brick.",
+            "sent4": "The documentation acted as a roadmap for the team to follow.",
+            "sent5": "The docs were like a flashlight in the dark, guiding us through the process."
         }
     ]
 }

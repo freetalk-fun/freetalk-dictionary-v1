@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A male given name.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "My friend's name is Sams.",
+            "sent2": "Sams is a common name in our town.",
+            "sent3": "Sams always makes everyone smile.",
+            "sent4": "When Sams enters the room, it lights up.",
+            "sent5": "I will never forget meeting Sams."
         },
         {
             "definition": "Plural of 'sam', meaning a unit of weight in India, equal to about 80 pounds.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The package weighed 160 sams.",
+            "sent2": "Farmers use sams to measure their produce.",
+            "sent3": "Carrying 80 sams on my back would be quite a workout!",
+            "sent4": "Her determination was as heavy as 80 sams.",
+            "sent5": "The elephant weighed as much as 2 sams."
         },
         {
             "definition": "Third person singular present of 'sam', meaning to gather or collect.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He sams all the fallen leaves in the garden.",
+            "sent2": "She sams flowers for her vase.",
+            "sent3": "The squirrel sams nuts for the winter.",
+            "sent4": "The teacher sams all the homework at the end of the day.",
+            "sent5": "The ants sams food for the colony."
         }
     ]
 }

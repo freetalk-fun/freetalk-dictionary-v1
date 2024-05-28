@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A person or thing that constructs or builds something.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The constructors worked hard to build the new bridge.",
+            "sent2": "The constructors used heavy machinery to construct the skyscraper.",
+            "sent3": "The constructors joked that they could build a house in a day.",
+            "sent4": "The constructors were like busy bees, buzzing around the construction site.",
+            "sent5": "The constructors' job is to bring ideas to life through building."
         },
         {
             "definition": "A member function of a class that initializes objects of a class.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "In the programming class, we learned how to create constructors for our objects.",
+            "sent2": "The constructors in the code set the initial values for the variables.",
+            "sent3": "The constructors seemed like magical spells that brought our objects to life.",
+            "sent4": "Using constructors is like giving birth to new instances in the program.",
+            "sent5": "Understanding constructors is key to creating functional classes in programming."
         }
     ]
 }

@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "During the time that",
-            "pos": "preposition"
+            "pos": "preposition",
+            "sent1": "I read a book whilst waiting for the bus.",
+            "sent2": "She sang a song whilst walking to school.",
+            "sent3": "The cat napped whilst the dog chased its tail.",
+            "sent4": "The stars twinkled whilst the moon hid behind the clouds.",
+            "sent5": "The flowers bloomed whilst the sun shone brightly."
         },
         {
             "definition": "At the same time as",
-            "pos": "preposition"
+            "pos": "preposition",
+            "sent1": "He cooked dinner whilst she set the table.",
+            "sent2": "They arrived at the party whilst it was still early.",
+            "sent3": "The birds chirped whilst the squirrels gathered nuts.",
+            "sent4": "The children played outside whilst the adults chatted indoors.",
+            "sent5": "The rain fell softly whilst the wind whispered through the trees."
         },
         {
             "definition": "While",
-            "pos": "conjunction"
+            "pos": "conjunction",
+            "sent1": "She danced whilst he sang.",
+            "sent2": "They laughed whilst watching a funny movie.",
+            "sent3": "The cat purred whilst the dog barked.",
+            "sent4": "The river flowed swiftly whilst the leaves rustled in the wind.",
+            "sent5": "The students listened attentively whilst the teacher explained the lesson."
         }
     ]
 }

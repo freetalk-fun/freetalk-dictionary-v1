@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Failure to fulfill an obligation, especially a financial one.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "When he didn't pay back the loan, his default caused a lot of problems.",
+            "sent2": "The company went bankrupt due to multiple defaults on their loans.",
+            "sent3": "His habit of defaulting on payments became a running joke among his friends.",
+            "sent4": "The default on the mortgage was a heavy weight on their shoulders.",
+            "sent5": "The consequences of his financial defaults were severe and long-lasting."
         },
         {
             "definition": "A preselected option adopted by a computer program or other mechanism when no alternative is specified.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The software's default setting was easy to change to suit individual preferences.",
+            "sent2": "The default font size on the document was too small for comfortable reading.",
+            "sent3": "The default choice on the website made the user experience smooth and efficient.",
+            "sent4": "She always stuck with the default settings on her phone, never bothering to customize them.",
+            "sent5": "The default option on the app made navigation simple and intuitive."
         },
         {
             "definition": "To fail to fulfill an obligation, especially a financial one.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He defaults on his rent every month, causing stress for his landlord.",
+            "sent2": "If you default on your loan, your credit score will be negatively affected.",
+            "sent3": "She jokingly threatened to default on her promise to bring dessert to the party.",
+            "sent4": "The company's decision to default on their debt led to legal consequences.",
+            "sent5": "He chose to default on his responsibilities, leading to a loss of trust from his colleagues."
         }
     ]
 }

@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Avoiding work or responsibility by being lazy or idle.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The bludging student always skipped his homework.",
+            "sent2": "She noticed her coworker's bludging attitude towards their project.",
+            "sent3": "The cat's bludging behavior of sleeping all day made everyone laugh.",
+            "sent4": "The bludging clouds lazily drifted across the sky.",
+            "sent5": "The bludging sloth moved slowly through the trees, avoiding any effort."
         },
         {
             "definition": "To shirk or evade one's duties or obligations.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He was caught bludging by pretending to be sick to avoid work.",
+            "sent2": "She always bludges on her chores by claiming she forgot.",
+            "sent3": "The dog tried to bludge its bath time by hiding under the bed.",
+            "sent4": "The politician bludged on answering the tough questions.",
+            "sent5": "The student bludged on studying for the test, hoping to get by with luck."
         },
         {
             "definition": "A person who avoids work or responsibility by being lazy or idle.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The office bludging was always the last to arrive and first to leave.",
+            "sent2": "She was labeled as the team's bludging for never completing her tasks.",
+            "sent3": "The squirrel became the garden's bludging, stealing all the nuts without helping.",
+            "sent4": "The bludging of the family always found excuses to avoid helping out.",
+            "sent5": "The bludging in the group chat never contributed but always expected others to do the work."
         }
     ]
 }

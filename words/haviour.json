@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Behavior: the way in which one acts or conducts oneself",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Her haviour at the party was polite and friendly.",
+            "sent2": "The teacher praised the student's good haviour in class.",
+            "sent3": "His haviour at the dinner table was impeccable, using proper manners.",
+            "sent4": "The dog's haviour towards strangers was cautious, like a guard dog.",
+            "sent5": "The haviour of the birds in the flock was synchronized and beautiful to watch."
         },
         {
             "definition": "Misbehaviour: improper or unacceptable behavior",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The child's misbehaviour in the store caused a scene.",
+            "sent2": "The principal had to address the student's repeated misbehaviour in school.",
+            "sent3": "The misbehaviour of the cat knocking over the vase was met with a stern 'no'.",
+            "sent4": "The misbehaviour of the storm left a trail of destruction in its wake.",
+            "sent5": "The misbehaviour of the computer virus caused chaos in the system."
         },
         {
             "definition": "Behavioural: relating to behavior or conduct",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The psychologist studied the child's behavioural patterns.",
+            "sent2": "The behavioural changes in the patient were noted by the doctor.",
+            "sent3": "The behavioural experiment with the rats yielded interesting results.",
+            "sent4": "The behavioural training of the dog was successful, and it learned new tricks.",
+            "sent5": "The behavioural analysis of the market trends helped predict future outcomes."
         }
     ]
 }

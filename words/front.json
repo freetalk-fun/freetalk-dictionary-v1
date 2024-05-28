@@ -3,19 +3,39 @@
     "meanings": [
         {
             "definition": "The side or part of an object that faces forward or is most often seen",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The front of the house had a beautiful garden.",
+            "sent2": "She stood at the front of the line to buy tickets.",
+            "sent3": "The cat sat at the front of the window, watching the birds outside.",
+            "sent4": "The front of the book had an intriguing illustration that caught my eye.",
+            "sent5": "The bright red door at the front of the building made it easy to spot."
         },
         {
             "definition": "The foremost part or surface of something",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The front of the car was dented in the accident.",
+            "sent2": "The front of the classroom is where the teacher's desk is placed.",
+            "sent3": "The front of the cake was decorated with colorful frosting.",
+            "sent4": "The front of the stage was lit up with bright lights for the performance.",
+            "sent5": "The front of the line was filled with eager customers waiting to enter the store."
         },
         {
             "definition": "The position directly ahead of someone or something",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The car in front suddenly stopped, causing a traffic jam.",
+            "sent2": "He always likes to sit in the front during movie screenings.",
+            "sent3": "The squirrel ran to the front of the tree to hide its acorns.",
+            "sent4": "The front of the race was filled with competitive runners.",
+            "sent5": "The front of the line moved quickly as people entered the theater."
         },
         {
             "definition": "To face forward or be positioned at the front of something",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Please front the camera so we can take a picture.",
+            "sent2": "The singer will front the band during the concert.",
+            "sent3": "He decided to front the group in the upcoming presentation.",
+            "sent4": "She will front the project team in the meeting tomorrow.",
+            "sent5": "The captain will front the team in the championship game."
         }
     ]
 }

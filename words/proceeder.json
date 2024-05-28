@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "One who proceeds.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The proceeder walked confidently down the street.",
+            "sent2": "The teacher asked the proceeder to come to the front of the class.",
+            "sent3": "The little proceeder made everyone laugh with their silly dance.",
+            "sent4": "The proceeder of the group led them to victory.",
+            "sent5": "The proceeder in the race crossed the finish line first."
         },
         {
             "definition": "Something that proceeds.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The box contained various proceeders for the experiment.",
+            "sent2": "The museum displayed historical proceeders from different eras.",
+            "sent3": "The magician pulled out a hat full of colorful proceeders.",
+            "sent4": "The treasure chest was filled with valuable proceeders.",
+            "sent5": "The bag was full of mysterious proceeders waiting to be discovered."
         },
         {
             "definition": "To move forward or onward.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The car will proceed along the highway.",
+            "sent2": "Please wait for the green light before you proceed.",
+            "sent3": "The squirrel decided to proceed with caution after seeing the dog.",
+            "sent4": "The river seemed to proceed endlessly into the horizon.",
+            "sent5": "The project will proceed as planned without any delays."
         }
     ]
 }

@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Not signed",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The contract remained unsigned, so it was not valid.",
+            "sent2": "The artist's painting was left unsigned, making it difficult to identify the creator.",
+            "sent3": "The birthday card was left unsigned, causing confusion about who sent it.",
+            "sent4": "The book was an unsigned masterpiece, leaving readers curious about the author's identity.",
+            "sent5": "The package arrived with an unsigned note, adding mystery to its delivery."
         },
         {
             "definition": "Not having a signature",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The check was considered unsigned because it lacked the required signature.",
+            "sent2": "The painting was left unsigned, missing the artist's signature in the corner.",
+            "sent3": "The letter was left unsigned, leading to a mix-up in the mailroom.",
+            "sent4": "The document was an unsigned declaration, lacking the official stamp of approval.",
+            "sent5": "The contract was returned unsigned, indicating a lack of agreement."
         },
         {
             "definition": "Not bearing a signature",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The photograph was left unsigned, without the photographer's name at the bottom.",
+            "sent2": "The book was an unsigned copy, missing the author's signature on the title page.",
+            "sent3": "The painting was left unsigned, causing confusion about its origin.",
+            "sent4": "The document was an unsigned form, lacking the required endorsement.",
+            "sent5": "The letter arrived unsigned, without a signature to confirm the sender."
         }
     ]
 }

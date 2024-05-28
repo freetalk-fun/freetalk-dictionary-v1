@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To join or unite together",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She combines flour and sugar to make a cake.",
+            "sent2": "The artist combines different colors to create a beautiful painting.",
+            "sent3": "The magician combines cards in a way that surprises the audience.",
+            "sent4": "His speech combines passion and logic to persuade the listeners.",
+            "sent5": "The puzzle combines pieces to form a complete picture."
         },
         {
             "definition": "A machine that harvests crops",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The farmer uses a combines to harvest wheat from the field.",
+            "sent2": "The combines efficiently gathers the ripe crops from the farm.",
+            "sent3": "The old combines broke down during the harvest season.",
+            "sent4": "The shiny combines hummed as it worked in the golden fields.",
+            "sent5": "The combines' blades cut through the crops with precision."
         },
         {
             "definition": "A group of people or things working together",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The team combines their skills to win the championship.",
+            "sent2": "The orchestra combines various instruments to create beautiful music.",
+            "sent3": "The combines of students organized a charity event.",
+            "sent4": "The combines of ants efficiently gather food for the colony.",
+            "sent5": "The combines of workers completed the project ahead of schedule."
         }
     ]
 }

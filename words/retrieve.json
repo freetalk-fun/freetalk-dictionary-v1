@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To get or bring back something",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I need to retrieve my lost keys from the couch.",
+            "sent2": "She will retrieve the ball that went over the fence.",
+            "sent3": "The cat tried to retrieve its toy from under the bed.",
+            "sent4": "He managed to retrieve the information from his memory.",
+            "sent5": "The detective had to retrieve the evidence before it was destroyed."
         },
         {
             "definition": "To find and bring back something",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Can you retrieve the book I left on the table?",
+            "sent2": "The dog loves to retrieve the stick thrown by its owner.",
+            "sent3": "The robot was programmed to retrieve objects for the elderly.",
+            "sent4": "She had to retrieve her thoughts before giving a speech.",
+            "sent5": "The explorer had to retrieve the ancient artifact from the cave."
         },
         {
             "definition": "To recover or regain something",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He tried to retrieve his lost memories from childhood.",
+            "sent2": "The company aims to retrieve its reputation after the scandal.",
+            "sent3": "The magician attempted to retrieve the vanished coin.",
+            "sent4": "She managed to retrieve her stolen bike from the thief.",
+            "sent5": "The athlete had to retrieve his strength after a long race."
         }
     ]
 }

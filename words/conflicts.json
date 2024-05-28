@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A serious disagreement or argument.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The conflicts between the two friends were causing tension.",
+            "sent2": "The conflicts at the meeting led to a heated debate.",
+            "sent3": "The conflicts over who gets the last cookie were quite amusing.",
+            "sent4": "The conflicts in the movie made the plot more exciting.",
+            "sent5": "The conflicts in the story made it hard to predict the ending."
         },
         {
             "definition": "To be incompatible or at variance; clash.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Their schedules conflicts, so they couldn't meet up.",
+            "sent2": "The colors of the painting conflicts with the room's decor.",
+            "sent3": "It conflicts with my plans to go to the beach on a rainy day.",
+            "sent4": "The loud music conflicts with my ability to concentrate.",
+            "sent5": "The strong winds conflicts with the stability of the tent."
         },
         {
             "definition": "To engage in a fight or battle.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The two armies conflicts on the battlefield for hours.",
+            "sent2": "The superheroes conflicts against the villains in the movie.",
+            "sent3": "The siblings conflicts over who gets to sit in the front seat.",
+            "sent4": "The conflicting nations have been at war for years.",
+            "sent5": "The conflicting teams will face off in the championship game."
         }
     ]
 }

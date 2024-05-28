@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Pretends",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She feigns being a superhero when playing with her friends.",
+            "sent2": "He often feigns interest in topics he knows nothing about.",
+            "sent3": "The cat feigns innocence after knocking over the vase.",
+            "sent4": "The actor feigns sadness on stage, but his eyes sparkle with joy.",
+            "sent5": "The child feigns sleep to avoid bedtime, but his giggles give him away."
         },
         {
             "definition": "Fakes",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The magician feigns pulling a rabbit out of his hat.",
+            "sent2": "She feigns surprise when receiving the unexpected gift.",
+            "sent3": "The student feigns illness to skip the test, but the teacher sees through the act.",
+            "sent4": "The artist feigns brushstrokes to create a masterpiece on the canvas.",
+            "sent5": "The chef feigns a smile while tasting the burnt dish, trying not to show disappointment."
         },
         {
             "definition": "Falsely represents",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The witness feigns memory loss to avoid testifying in court.",
+            "sent2": "He feigns wealth by driving a rented luxury car.",
+            "sent3": "The politician feigns concern for the environment, but his actions speak otherwise.",
+            "sent4": "The website feigns legitimacy with fake reviews to attract customers.",
+            "sent5": "The news article feigns objectivity while subtly pushing a biased agenda."
         }
     ]
 }

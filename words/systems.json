@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A set of connected things or parts forming a complex whole.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The solar system includes the sun, planets, and moons.",
+            "sent2": "The circulatory system in our bodies helps transport blood.",
+            "sent3": "The alarm system in the house went off when the cat tried to sneak in.",
+            "sent4": "Her family was like a well-oiled system, each member playing a crucial role.",
+            "sent5": "The nervous system is like a network of messengers sending signals throughout the body."
         },
         {
             "definition": "A method or procedure for achieving something.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Following a strict study system helped him ace the exam.",
+            "sent2": "The recycling system in our community encourages environmental sustainability.",
+            "sent3": "Her baking system involved precise measurements and a lot of patience.",
+            "sent4": "The legal system ensures justice is served in society.",
+            "sent5": "The voting system allows citizens to have a say in government decisions."
         },
         {
             "definition": "An organized scheme or method.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The school system includes different grade levels and subjects.",
+            "sent2": "The transportation system in the city consists of buses, trains, and subways.",
+            "sent3": "His cleaning system involved color-coding and specific tasks for each day.",
+            "sent4": "The political system determines how leaders are chosen and policies are made.",
+            "sent5": "The communication system at work ensures messages are relayed efficiently."
         }
     ]
 }

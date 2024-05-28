@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A ghost or apparition.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The children told spooky stories about the specters haunting the old house.",
+            "sent2": "The town was abuzz with rumors of specters wandering the cemetery at night.",
+            "sent3": "The friendly specters decided to play a prank on the unsuspecting visitors.",
+            "sent4": "The misty forest was filled with spectral specters, creating an eerie atmosphere.",
+            "sent5": "The haunted mansion was said to be teeming with ghostly specters, sending shivers down the spine of anyone who dared to enter."
         },
         {
             "definition": "Something widely feared as a possible unpleasant or dangerous occurrence.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The specter of war loomed over the peaceful village, causing anxiety among the residents.",
+            "sent2": "The specter of a global pandemic kept people on edge, leading to increased precautions.",
+            "sent3": "The specters of failure and rejection haunted his thoughts, making him doubt his abilities.",
+            "sent4": "The specter of economic collapse cast a shadow over the nation, prompting urgent action.",
+            "sent5": "The looming specter of climate change urged policymakers to take immediate steps to protect the environment."
         }
     ]
 }

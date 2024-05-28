@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To give a new name to something.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I will rename my dog from Max to Buddy.",
+            "sent2": "I need to rename the file to make it easier to find.",
+            "sent3": "My cat asked me to rename her 'Princess Fluffy Paws'.",
+            "sent4": "The town decided to rename the street after a famous poet.",
+            "sent5": "After the wedding, the bride will rename herself with her husband's last name."
         },
         {
             "definition": "To change the name of something.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Can you help me rename this document before sending it?",
+            "sent2": "It is important to rename the project for clarity.",
+            "sent3": "The computer got confused when I tried to rename the folder 'Nothing'.",
+            "sent4": "The artist decided to rename the painting to better reflect its theme.",
+            "sent5": "She had to rename her business due to a trademark issue."
         }
     ]
 }

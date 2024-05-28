@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A group of people working together.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The ganging of friends helped each other with the project.",
+            "sent2": "The ganging of workers completed the task efficiently.",
+            "sent3": "The ganging of classmates made studying more fun.",
+            "sent4": "The ganging of ants carried the food back to their nest.",
+            "sent5": "The ganging of birds flew in perfect formation."
         },
         {
             "definition": "To join or form a group.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She enjoys ganging with her friends after school.",
+            "sent2": "Let's gang together to solve this puzzle.",
+            "sent3": "The kids decided to gang up for the scavenger hunt.",
+            "sent4": "The clouds seemed to gang together before the storm.",
+            "sent5": "We should gang to support our teammate in the game."
         },
         {
             "definition": "To move or walk together.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The ducks were ganging along the pond.",
+            "sent2": "People were ganging towards the concert venue.",
+            "sent3": "The toys ganged up and rolled down the hill.",
+            "sent4": "The leaves ganged in the wind, swirling around.",
+            "sent5": "The students ganging to the cafeteria for lunch."
         }
     ]
 }

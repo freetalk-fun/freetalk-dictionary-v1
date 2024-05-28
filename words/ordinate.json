@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To arrange or order in a sequence",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She will ordinate the books on the shelf by size.",
+            "sent2": "Please ordinate the numbers from smallest to largest.",
+            "sent3": "The teacher asked the students to ordinate themselves in a line based on height.",
+            "sent4": "The chef will ordinate the ingredients for the recipe like a conductor leading an orchestra.",
+            "sent5": "He carefully ordinated the puzzle pieces to complete the picture."
         },
         {
             "definition": "A value on a coordinate axis",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The point (3, 4) is an ordinate on the y-axis.",
+            "sent2": "The x-ordinate represents the horizontal position on the graph.",
+            "sent3": "The ordinate of the graph showed the temperature changes throughout the day.",
+            "sent4": "The ordinate on the map indicated the elevation of the mountain.",
+            "sent5": "She marked the ordinate where the two lines intersect on the graph."
         },
         {
             "definition": "To direct or command",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The manager will ordinate the team members to start the project.",
+            "sent2": "He ordinated the troops to march in formation.",
+            "sent3": "The coach will ordinate the players on the field during the game.",
+            "sent4": "She ordinated the volunteers to help with the event smoothly.",
+            "sent5": "The captain ordinated the crew to prepare the ship for departure."
         }
     ]
 }

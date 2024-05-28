@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A person who presents news on television or radio.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The newsreader on TV reported about the weather.",
+            "sent2": "The newsreader announced the breaking news to the audience.",
+            "sent3": "The newsreader made a funny face while reading the news.",
+            "sent4": "The newsreader's voice was a beacon of information in the sea of chaos.",
+            "sent5": "The newsreader's bright smile made the news more engaging."
         },
         {
             "definition": "A software application used to read and manage news articles from websites.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I use a newsreader to stay updated on current events.",
+            "sent2": "The newsreader app organizes all the latest articles for easy access.",
+            "sent3": "The newsreader software had a glitch and showed sports news instead of politics.",
+            "sent4": "The newsreader program sifted through the vast ocean of news like a diligent librarian.",
+            "sent5": "With the newsreader, finding specific articles is as easy as flipping through a book."
         }
     ]
 }

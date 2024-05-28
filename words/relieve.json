@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To ease or alleviate pain or discomfort.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I took a pill to relieve my headache.",
+            "sent2": "The medicine helped relieve her back pain.",
+            "sent3": "He used a heating pad to relieve his sore muscles.",
+            "sent4": "Her laughter relieved the tension in the room.",
+            "sent5": "The massage therapist worked to relieve the tension in my shoulders."
         },
         {
             "definition": "To provide assistance or aid.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The firefighter rushed to relieve the trapped cat from the tree.",
+            "sent2": "She volunteered to relieve her colleague by taking over his shift.",
+            "sent3": "The superhero swooped in to relieve the town from the villain's grasp.",
+            "sent4": "The kind gesture of a stranger relieved her from missing the bus.",
+            "sent5": "The teacher's explanation relieved the confusion of the students."
         },
         {
             "definition": "To free from a burden or obligation.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Paying off the debt will relieve him of financial stress.",
+            "sent2": "The completion of the project relieved her of a heavy workload.",
+            "sent3": "The unexpected help relieved him of the responsibility to fix the car.",
+            "sent4": "The apology relieved the guilt she carried for weeks.",
+            "sent5": "The decision to cancel the meeting relieved everyone from a boring presentation."
         }
     ]
 }

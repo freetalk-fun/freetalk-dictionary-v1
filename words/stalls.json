@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A small compartment for one person in a public restroom.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The restroom had clean stalls for privacy.",
+            "sent2": "I waited outside the stall for my turn.",
+            "sent3": "The stall door wouldn't open, making me feel like a magician stuck in a box.",
+            "sent4": "In the crowded restroom, each stall was a tiny sanctuary.",
+            "sent5": "The stall was so small, I could touch both walls at once."
         },
         {
             "definition": "To come to a standstill.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The car suddenly stalls at the intersection.",
+            "sent2": "The engine stalls when it's low on fuel.",
+            "sent3": "The racehorse stalls at the starting line, causing a delay.",
+            "sent4": "Time seems to stall when waiting for exciting news.",
+            "sent5": "The music stalls for a moment before the grand finale."
         },
         {
             "definition": "To delay or put off.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She stalls making a decision until the last minute.",
+            "sent2": "The student stalls doing homework by watching TV.",
+            "sent3": "The cat stalls coming inside, pretending to be busy outside.",
+            "sent4": "Procrastination often stalls progress in projects.",
+            "sent5": "The politician stalls answering the tough questions."
         }
     ]
 }

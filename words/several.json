@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "More than two but not many",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "I have several toys to play with.",
+            "sent2": "There are several apples on the tree.",
+            "sent3": "The squirrel gathered several nuts for the winter.",
+            "sent4": "The teacher praised the student for making several improvements.",
+            "sent5": "The detective found several clues to solve the mystery."
         },
         {
             "definition": "Separate or distinct individuals or items",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "In the garden, I planted several flowers.",
+            "sent2": "The store sells several types of candy.",
+            "sent3": "At the party, there were several guests wearing hats.",
+            "sent4": "The artist painted several birds in the sky.",
+            "sent5": "The library has several books on different topics."
         },
         {
             "definition": "An indefinite small number",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I only need several minutes to finish this task.",
+            "sent2": "There are several reasons why I like this movie.",
+            "sent3": "The chef added several spices to enhance the flavor.",
+            "sent4": "The musician played several notes on the piano.",
+            "sent5": "The hiker saw several deer in the forest."
         }
     ]
 }

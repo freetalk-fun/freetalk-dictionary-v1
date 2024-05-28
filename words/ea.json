@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "The abbreviation for \"each\"",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I bought one apple ea.",
+            "sent2": "Please take one ea and pass the rest.",
+            "sent3": "The teacher gave ea student a book.",
+            "sent4": "In the game, ea player must find the hidden treasure.",
+            "sent5": "She counted ea cookie before putting them in the jar."
         },
         {
             "definition": "A river in England",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The ea flows gently through the countryside.",
+            "sent2": "We had a picnic by the ea on a sunny day.",
+            "sent3": "The ducks happily swam in the ea.",
+            "sent4": "The ea sparkled under the morning sun.",
+            "sent5": "Fishermen often fish in the ea for trout."
         },
         {
             "definition": "A suffix used to form nouns referring to a state or condition, such as \"idea\" or \"area\"",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Happiness is a wonderful ea to be in.",
+            "sent2": "The town's main shopping ea is bustling with activity.",
+            "sent3": "The children played in the sandy ea at the beach.",
+            "sent4": "The peaceful ea of relaxation enveloped her as she read a book.",
+            "sent5": "The storm left a trail of destruction in its ea."
         }
     ]
 }

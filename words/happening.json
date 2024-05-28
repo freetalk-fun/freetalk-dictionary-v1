@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "An event or occurrence.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The school play was a big happening in our town.",
+            "sent2": "The wedding was a beautiful happening that brought everyone together.",
+            "sent3": "The surprise party was a happening that made everyone smile.",
+            "sent4": "The concert was a happening that lit up the night.",
+            "sent5": "The parade was a happening that filled the streets with joy."
         },
         {
             "definition": "Currently taking place or in progress.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The happening party was full of laughter and music.",
+            "sent2": "The happening storm caused a lot of excitement in the neighborhood.",
+            "sent3": "The happening game kept us on the edge of our seats.",
+            "sent4": "The happening market was bustling with activity.",
+            "sent5": "The happening festival was a lively celebration of culture."
         },
         {
             "definition": "A fashionable or popular event or activity.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The music festival was the happening spot to be this weekend.",
+            "sent2": "The new restaurant in town became the happening place for locals.",
+            "sent3": "The dance club was the happening scene for all the young people.",
+            "sent4": "The art exhibit was the happening event for art enthusiasts.",
+            "sent5": "The fashion show was the happening event of the season."
         }
     ]
 }

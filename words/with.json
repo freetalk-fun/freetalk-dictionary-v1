@@ -3,23 +3,48 @@
     "meanings": [
         {
             "definition": "Accompanied by",
-            "pos": "preposition"
+            "pos": "preposition",
+            "sent1": "She went to the park with her friends.",
+            "sent2": "He walked to school with his sister.",
+            "sent3": "The cat sat on the couch with the dog, looking quite cozy.",
+            "sent4": "The stars shone brightly with the moon in the night sky.",
+            "sent5": "The child held hands with their parent, feeling safe and happy."
         },
         {
             "definition": "Having",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The girl with the red hat waved hello.",
+            "sent2": "He is a man with a big heart.",
+            "sent3": "The house with the blue door stood out on the street.",
+            "sent4": "The tree with the most colorful leaves was a sight to behold.",
+            "sent5": "She is a student with a passion for learning."
         },
         {
             "definition": "Using",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She cut the paper with scissors.",
+            "sent2": "He wrote a letter with a pen.",
+            "sent3": "The chef cooked the meal with care.",
+            "sent4": "The artist painted the canvas with vibrant colors.",
+            "sent5": "He fixed the broken toy with glue."
         },
         {
             "definition": "In the company of",
-            "pos": "preposition"
+            "pos": "preposition",
+            "sent1": "She went to the party with her best friend.",
+            "sent2": "He traveled to the beach with his family.",
+            "sent3": "The bird flew through the sky with its flock.",
+            "sent4": "The child played in the park with other kids.",
+            "sent5": "They explored the forest with a guide."
         },
         {
             "definition": "In relation to",
-            "pos": "preposition"
+            "pos": "preposition",
+            "sent1": "She felt happy with the news of her promotion.",
+            "sent2": "He was sad with the loss of his pet.",
+            "sent3": "The price of the item increased with demand.",
+            "sent4": "The plant grew taller with each passing day.",
+            "sent5": "The room felt cozy with the addition of a rug."
         }
     ]
 }

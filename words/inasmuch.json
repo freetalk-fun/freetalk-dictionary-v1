@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To the extent that",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She succeeded inasmuch as she worked hard.",
+            "sent2": "He failed inasmuch as he didn't study for the test.",
+            "sent3": "The cat caught the mouse inasmuch as it pounced swiftly.",
+            "sent4": "His determination soared inasmuch as the challenges grew tougher.",
+            "sent5": "The flower bloomed beautifully inasmuch as the sun shone brightly."
         },
         {
             "definition": "In view of the fact that",
-            "pos": "conjunction"
+            "pos": "conjunction",
+            "sent1": "Inasmuch as it rained, the picnic was canceled.",
+            "sent2": "We decided to postpone the meeting inasmuch as many attendees were absent.",
+            "sent3": "The party was a success inasmuch as everyone danced joyfully.",
+            "sent4": "The project was completed on time inasmuch as the team worked efficiently.",
+            "sent5": "The decision was made inasmuch as it was the best option available."
         }
     ]
 }

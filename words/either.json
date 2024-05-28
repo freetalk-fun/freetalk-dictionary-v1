@@ -3,19 +3,39 @@
     "meanings": [
         {
             "definition": "One or the other of two options",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I can't decide between either option.",
+            "sent2": "You can choose either the red or the blue shirt.",
+            "sent3": "I asked for either ice cream flavor, but they gave me both!",
+            "sent4": "The treasure map led to either a chest of gold or a chest of jewels.",
+            "sent5": "In the game, you must pick either the sword or the shield to continue."
         },
         {
             "definition": "Used before the first of two or more alternatives",
-            "pos": "article"
+            "pos": "article",
+            "sent1": "I can't find either book on the shelf.",
+            "sent2": "You can have either apple for a snack.",
+            "sent3": "I need either hand to hold the umbrella in this wind!",
+            "sent4": "The magician will pull a rabbit out of either hat.",
+            "sent5": "You can wear either shoe to the party; they both match your outfit."
         },
         {
             "definition": "Used before the second of two alternatives",
-            "pos": "conjunction"
+            "pos": "conjunction",
+            "sent1": "You can have tea or coffee, but not either.",
+            "sent2": "She can either walk to the park or ride her bike.",
+            "sent3": "I can either study for the test or watch a movie.",
+            "sent4": "The cat will sleep either on the bed or on the couch.",
+            "sent5": "You can either swim in the pool or play basketball in the yard."
         },
         {
             "definition": "Used to introduce a statement that contrasts with a previous statement",
-            "pos": "conjunction"
+            "pos": "conjunction",
+            "sent1": "I don't like coffee; either way, I prefer tea.",
+            "sent2": "She didn't want to go out; either she was tired or not feeling well.",
+            "sent3": "I thought it was a good idea; either way, I was wrong.",
+            "sent4": "He said he would come early; either he forgot or got stuck in traffic.",
+            "sent5": "The movie was either too long or too boring for my taste."
         }
     ]
 }

@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To damage again.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He accidentally redamaged his phone by dropping it.",
+            "sent2": "She carefully redamaged the fragile vase while cleaning.",
+            "sent3": "The clumsy cat redamaged the curtains while chasing a fly.",
+            "sent4": "The storm redamaged the roof, causing leaks in the house.",
+            "sent5": "The repeated use of harsh chemicals redamaged the delicate fabric."
         },
         {
             "definition": "Damaged again.",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "The car window shattered redamaged during the bumpy ride.",
+            "sent2": "The old bridge redamaged after the heavy rainstorm.",
+            "sent3": "The cake frosting redamaged when the kids bumped into the table.",
+            "sent4": "The repaired toy redamaged quickly, disappointing the child.",
+            "sent5": "The fragile package redamaged easily during shipping."
         }
     ]
 }

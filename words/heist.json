@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A robbery or theft",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The heist at the bank shocked the entire town.",
+            "sent2": "The police are investigating the heist that took place last night.",
+            "sent3": "During the heist, the thief accidentally dropped his wallet.",
+            "sent4": "The heist was like a dark cloud hanging over the peaceful neighborhood.",
+            "sent5": "The heist was executed with precision and cunning."
         },
         {
             "definition": "To commit a robbery or theft",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The criminals planned to heist the valuable paintings from the museum.",
+            "sent2": "He decided to heist the jewelry store to get quick money.",
+            "sent3": "The cat tried to heist the fish from the bowl when no one was looking.",
+            "sent4": "She managed to heist the top spot in the competition with her talent.",
+            "sent5": "The magician skillfully heisted the watch from the volunteer's wrist during the show."
         }
     ]
 }

@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "An exciting or unusual experience",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Going on an adventure to explore the forest was thrilling.",
+            "sent2": "The children had an adventure at the amusement park.",
+            "sent3": "The adventure of trying a new ice cream flavor was surprisingly fun.",
+            "sent4": "Life is an adventure full of twists and turns.",
+            "sent5": "The adventure of traveling to a new country left a lasting impression."
         },
         {
             "definition": "A bold, risky, or uncertain undertaking",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Embarking on a risky adventure like skydiving requires courage.",
+            "sent2": "Starting a business can be a challenging adventure.",
+            "sent3": "The adventure of trying to juggle too many tasks at once ended in chaos.",
+            "sent4": "Taking on a new project at work felt like diving into an unknown adventure.",
+            "sent5": "The adventure of climbing a steep mountain tested their limits."
         },
         {
             "definition": "To engage in daring or risky activity",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "They decided to adventure into the deep cave despite the warnings.",
+            "sent2": "She loves to adventure into uncharted territories when hiking.",
+            "sent3": "The friends planned to adventure into the haunted house for fun.",
+            "sent4": "He would often adventure into the unknown just for the thrill.",
+            "sent5": "The group chose to adventure across the rough terrain for an adrenaline rush."
         }
     ]
 }

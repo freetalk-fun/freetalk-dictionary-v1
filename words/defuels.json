@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To remove fuel from (a nuclear reactor)",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The technician carefully defuels the nuclear reactor for maintenance.",
+            "sent2": "It is important to defuel the reactor before conducting any repairs.",
+            "sent3": "Why did the clumsy scientist defuel the reactor right before the experiment?",
+            "sent4": "The process of defueling the reactor is like taking a sip from a full glass.",
+            "sent5": "The loud alarm signaled the need to defuel the reactor immediately."
         },
         {
             "definition": "To deplete the fuel supply of (a vehicle)",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The long journey defuels the car quickly.",
+            "sent2": "Make sure to refuel before the trip to avoid defueling halfway.",
+            "sent3": "The mischievous kids tried to defuel the car by siphoning gas.",
+            "sent4": "The road trip seemed to defuel the car faster than usual.",
+            "sent5": "The old truck struggled as it started to defuel on the highway."
         },
         {
             "definition": "To reduce the amount of fuel in (a system)",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The energy-saving mode defuels the system to conserve power.",
+            "sent2": "The new software update aims to defuel the system for better efficiency.",
+            "sent3": "The unexpected power outage defueled the system, causing chaos.",
+            "sent4": "The constant use of the device slowly defuels its battery over time.",
+            "sent5": "The engineer's goal is to defuel the system without affecting its performance."
         }
     ]
 }

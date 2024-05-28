@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Convert (a coded message) into intelligible language.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I can decode the secret message with my special decoder.",
+            "sent2": "She used the key to decode the encrypted file.",
+            "sent3": "Trying to decode my brother's handwriting is like solving a puzzle.",
+            "sent4": "Her smile seemed to decode the hidden emotions behind his words.",
+            "sent5": "The detective's job is to decode the clues and solve the mystery."
         },
         {
             "definition": "To interpret or decipher a message.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Can you help me decode this ancient script?",
+            "sent2": "The linguist was able to decode the meaning of the ancient text.",
+            "sent3": "Trying to decode the cat's meows is like playing a guessing game.",
+            "sent4": "Her eyes seemed to decode the unspoken thoughts in his mind.",
+            "sent5": "The scientist's goal is to decode the genetic information hidden in the DNA."
         },
         {
             "definition": "To analyze and understand the meaning of something.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I need to decode the data to make sense of it.",
+            "sent2": "The students worked together to decode the complex math problem.",
+            "sent3": "Trying to decode the recipe without measurements is like a cooking challenge.",
+            "sent4": "Her intuition helped her decode the underlying emotions in his words.",
+            "sent5": "The archaeologist's task is to decode the ancient symbols and uncover their significance."
         }
     ]
 }

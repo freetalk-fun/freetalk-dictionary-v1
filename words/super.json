@@ -3,19 +3,39 @@
     "meanings": [
         {
             "definition": "Very good or excellent",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "She did a super job on her project.",
+            "sent2": "The cake was super delicious.",
+            "sent3": "His super drawing won first place in the contest.",
+            "sent4": "The super athlete broke the world record.",
+            "sent5": "The super sunset painted the sky in vibrant colors."
         },
         {
             "definition": "Above or beyond",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "The bird flew super high in the sky.",
+            "sent2": "She ran super fast to catch the bus.",
+            "sent3": "The cat jumped super far to catch the toy.",
+            "sent4": "The rocket soared super high into space.",
+            "sent5": "The music was super loud at the concert."
         },
         {
             "definition": "A person who supervises or manages",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The super at the store ensures everything runs smoothly.",
+            "sent2": "The super of the building handles tenant concerns.",
+            "sent3": "The super organized a fun team-building activity.",
+            "sent4": "The super guided the team to success.",
+            "sent5": "The super's leadership skills are commendable."
         },
         {
             "definition": "A prefix meaning above, over, or beyond",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The word 'supermarket' uses 'super' as a prefix.",
+            "sent2": "In 'superhuman,' 'super' means above normal abilities.",
+            "sent3": "The superhero's powers were described as 'superhuman.'",
+            "sent4": "The spacecraft traveled at supersonic speeds.",
+            "sent5": "The superhighway connected cities for faster travel."
         }
     ]
 }

@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Inclined at an angle",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The slanting roof allowed rainwater to flow easily.",
+            "sent2": "The artist painted a slanting line across the canvas.",
+            "sent3": "The slanting shadow made the room look mysterious.",
+            "sent4": "The slanting rays of the sun illuminated the valley.",
+            "sent5": "The slanting tree trunk created a unique shape in the forest."
         },
         {
             "definition": "A biased or distorted point of view",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Her article had a slanting towards a specific political party.",
+            "sent2": "The news report was accused of having a slanting against certain communities.",
+            "sent3": "The comedian joked about the slanting of conspiracy theories.",
+            "sent4": "The documentary exposed the slanting of corporate interests in the media.",
+            "sent5": "The teacher warned against writing with a slanting in academic essays."
         },
         {
             "definition": "To slope or lean in a particular direction",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The tower was slanting slightly due to strong winds.",
+            "sent2": "She noticed the picture frame slanting on the wall.",
+            "sent3": "The old house seemed to be slanting towards the river.",
+            "sent4": "The tree was slanting towards the sunlight for better growth.",
+            "sent5": "The road started slanting upwards as they approached the hill."
         }
     ]
 }

@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "The edge or border of something.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The cat walked along the margins of the garden, staying close to the fence.",
+            "sent2": "She wrote her name neatly at the margins of the paper.",
+            "sent3": "The squirrel played a game of tag with the bird, always staying within the margins of the tree branches.",
+            "sent4": "The old house stood at the margins of the forest, its roof barely visible through the trees.",
+            "sent5": "The river flowed gently along the margins of the meadow, reflecting the colors of the sunset."
         },
         {
             "definition": "An amount by which something is won or falls short.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The company's profits increased, showing positive margins for the first time in years.",
+            "sent2": "The team lost the game by a narrow margin, but they played well.",
+            "sent3": "The chef added a pinch of salt to the soup, just to give it that extra margin of flavor.",
+            "sent4": "She calculated the margin of error in her experiment to ensure accurate results.",
+            "sent5": "The student scored above the passing margin on the test, feeling relieved."
         },
         {
             "definition": "The blank space surrounding the text on a page.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "She doodled in the margins of her notebook during the boring lecture.",
+            "sent2": "The book had wide margins, allowing for notes to be written beside the text.",
+            "sent3": "The teacher reminded the students to write their names in the margins of their test papers.",
+            "sent4": "The magazine had colorful illustrations in the margins, making it more engaging to read.",
+            "sent5": "He circled new vocabulary words in the margins of his textbook to remember them better."
         }
     ]
 }

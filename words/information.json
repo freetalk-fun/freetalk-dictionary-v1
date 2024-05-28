@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Facts provided or learned about something or someone.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The teacher shared important information with the students.",
+            "sent2": "I need more information before making a decision.",
+            "sent3": "The detective gathered information to solve the mystery.",
+            "sent4": "Her eyes held a wealth of information about her emotions.",
+            "sent5": "The map provided clear information about the hiking trail."
         },
         {
             "definition": "What is conveyed or represented by a particular arrangement or sequence of things.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The painting conveys a lot of information about the artist's emotions.",
+            "sent2": "The website displayed useful information about upcoming events.",
+            "sent3": "The music concert was a symphony of information for the ears.",
+            "sent4": "The intricate dance routine was a visual information overload.",
+            "sent5": "The infographic presented complex information in a simple way."
         },
         {
             "definition": "Knowledge communicated or received concerning a particular fact or circumstance.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The book provided valuable information about ancient civilizations.",
+            "sent2": "She shared insider information about the upcoming project.",
+            "sent3": "The gossip column was filled with juicy information about celebrities.",
+            "sent4": "His expression gave away information about his true feelings.",
+            "sent5": "The documentary offered eye-opening information about climate change."
         }
     ]
 }

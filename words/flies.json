@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "(verb) moves through the air using wings",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The bird flies high in the sky.",
+            "sent2": "The airplane flies passengers to different countries.",
+            "sent3": "The superhero flies faster than a speeding bullet.",
+            "sent4": "Time flies when you're having fun.",
+            "sent5": "The kite flies gracefully in the wind."
         },
         {
             "definition": "(noun) small insects with wings",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I saw many flies buzzing around the garbage can.",
+            "sent2": "Flies can be annoying during a picnic.",
+            "sent3": "The kitchen was full of flies after leaving fruit out.",
+            "sent4": "The flies gathered around the ripe fruit like a tiny cloud.",
+            "sent5": "The flies landed on the picnic food, causing a commotion."
         },
         {
             "definition": "(noun) the plural form of fly (a zipper on clothing)",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "She quickly fixed the broken flies on her jacket.",
+            "sent2": "The tailor replaced the flies on the pants with new ones.",
+            "sent3": "He struggled to zip up the flies on his backpack.",
+            "sent4": "The flies on the jacket were stuck, making it hard to close.",
+            "sent5": "The flies on the dress were shiny and easy to use."
         }
     ]
 }

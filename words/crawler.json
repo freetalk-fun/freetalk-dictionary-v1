@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A person or animal that crawls.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The baby crawler moved slowly across the floor.",
+            "sent2": "The crawler in the garden was searching for food.",
+            "sent3": "The crawler in the race was determined to win.",
+            "sent4": "The crawler in the jungle navigated through the dense foliage.",
+            "sent5": "The crawler on the beach left tiny footprints in the sand."
         },
         {
             "definition": "A type of vehicle used for digging or moving heavy objects.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The construction crawler dug deep into the ground.",
+            "sent2": "The crawler at the mine carried heavy loads effortlessly.",
+            "sent3": "The crawler at the excavation site was a hard worker.",
+            "sent4": "The crawler on the construction site moved mountains of debris.",
+            "sent5": "The crawler in the quarry lifted massive rocks with ease."
         },
         {
             "definition": "A type of software that systematically browses the internet for information.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The web crawler searched the entire website for data.",
+            "sent2": "The crawler indexed web pages for the search engine.",
+            "sent3": "The crawler algorithm worked tirelessly to gather data.",
+            "sent4": "The internet crawler navigated through vast amounts of information.",
+            "sent5": "The web crawler efficiently gathered data for analysis."
         }
     ]
 }

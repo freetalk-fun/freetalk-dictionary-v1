@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A person or thing that classifies.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The librarian is a classifier who organizes books by genre.",
+            "sent2": "The teacher used a classifier to sort the students into different groups.",
+            "sent3": "The classifier at the recycling plant had a knack for separating materials efficiently.",
+            "sent4": "Her brain worked like a classifier, neatly categorizing information into distinct groups.",
+            "sent5": "The classifier's job is to assign labels to items based on their characteristics."
         },
         {
             "definition": "A word or symbol used in a formal language to specify the class to which an item belongs.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "In programming, a classifier helps identify the type of data being processed.",
+            "sent2": "The barcode on the product serves as a classifier for inventory management.",
+            "sent3": "The crossword puzzle clue was a tricky classifier for the hidden word.",
+            "sent4": "The traffic light acted as a classifier, signaling the cars when to stop and go.",
+            "sent5": "The fingerprint scanner is a reliable classifier for security access."
         }
     ]
 }

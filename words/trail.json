@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A path or track made by the passage of animals or people.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "We hiked along the trail in the forest.",
+            "sent2": "The trail through the park was lined with colorful flowers.",
+            "sent3": "The squirrel scampered along the trail, looking for acorns.",
+            "sent4": "Her laughter echoed through the trail of fallen leaves.",
+            "sent5": "The trail snaked through the canyon, offering breathtaking views."
         },
         {
             "definition": "To follow or pursue the track, traces, or footprints of.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "We decided to trail the deer through the woods.",
+            "sent2": "The detective trailed the suspect through the crowded streets.",
+            "sent3": "I tried to trail my little brother in a game of hide-and-seek.",
+            "sent4": "Her thoughts would always trail back to that fateful day.",
+            "sent5": "The scent of fresh bread trailed from the bakery, tempting passersby."
         },
         {
             "definition": "To lag behind; to be behind in competition.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Despite his efforts, he would always trail behind in the race.",
+            "sent2": "The team knew they couldn't afford to trail in the final quarter.",
+            "sent3": "The little turtle would trail behind the rest of the group.",
+            "sent4": "Her mind would often trail off during long lectures.",
+            "sent5": "The old car would trail smoke as it struggled up the hill."
         }
     ]
 }

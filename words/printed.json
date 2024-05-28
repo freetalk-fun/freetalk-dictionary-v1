@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Text or images produced on paper or another material using a printing press or similar method.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The printed document contained important information about the event.",
+            "sent2": "I picked up the printed flyer from the front desk.",
+            "sent3": "The printed menu made me hungry just by looking at it.",
+            "sent4": "Her dress was a colorful canvas of printed flowers.",
+            "sent5": "The library was filled with rows of printed books waiting to be read."
         },
         {
             "definition": "Having words or images in ink on paper or another material.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The printed page was filled with beautiful illustrations.",
+            "sent2": "She showed me the printed invitation to the party.",
+            "sent3": "The printed map helped us find our way through the city.",
+            "sent4": "His shirt had a unique printed design that caught everyone's eye.",
+            "sent5": "The printed poster was hung on the wall for everyone to see."
         },
         {
             "definition": "To produce books, newspapers, etc., by a process involving the transfer of text or images to paper or another material.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The company printed thousands of copies of the new book.",
+            "sent2": "We printed the latest edition of the newspaper this morning.",
+            "sent3": "He printed out the directions to the meeting so he wouldn't get lost.",
+            "sent4": "The artist printed her own illustrations to sell at the market.",
+            "sent5": "The machine printed the labels for the products efficiently."
         }
     ]
 }

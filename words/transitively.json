@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "In a way that requires a direct object to complete the meaning of the verb.",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "She painted the wall transitively.",
+            "sent2": "He read the book transitively.",
+            "sent3": "The cat chased the mouse transitively around the house.",
+            "sent4": "His words cut through her defenses transitively.",
+            "sent5": "The chef seasoned the dish transitively with care."
         },
         {
             "definition": "In a way that involves an action being done to someone or something else.",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "The teacher explained the concept transitively.",
+            "sent2": "The doctor treated the patient transitively.",
+            "sent3": "The dog wagged its tail transitively when it saw its owner.",
+            "sent4": "Her smile brightened the room transitively.",
+            "sent5": "The rain soaked the ground transitively, nourishing the plants."
         }
     ]
 }

@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A small container or package, typically containing a quantity of something.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Mom handed me a packet of cookies for my snack.",
+            "sent2": "The delivery person left a packet of letters at the door.",
+            "sent3": "I accidentally sat on the packet of chips and heard a loud crunch.",
+            "sent4": "Her laughter was like a packet of joy spreading through the room.",
+            "sent5": "The colorful packet of balloons caught the children's attention at the party."
         },
         {
             "definition": "A small group or collection of things.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The students formed a packet to work on the project together.",
+            "sent2": "She received a packet of seeds to plant in her garden.",
+            "sent3": "The packet of toys spilled out of the box and scattered on the floor.",
+            "sent4": "The team worked together like a tightly knit packet, achieving their goal.",
+            "sent5": "The packet of books on the shelf caught her eye with its variety of genres."
         },
         {
             "definition": "A unit of data transmitted over a network.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The computer sent a packet of information to the server.",
+            "sent2": "He received a packet of emails in his inbox.",
+            "sent3": "The packet of data traveled through the network at lightning speed.",
+            "sent4": "Her words were like a packet of wisdom shared with her followers.",
+            "sent5": "The encrypted packet of data contained vital details for the project."
         }
     ]
 }

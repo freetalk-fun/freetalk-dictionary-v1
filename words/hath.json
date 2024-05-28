@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Third person singular present indicative of have.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She hath a book.",
+            "sent2": "He hath a dog.",
+            "sent3": "The cat hath decided to nap in the sun.",
+            "sent4": "Time hath a way of changing everything.",
+            "sent5": "The wind hath a gentle touch on the leaves."
         },
         {
             "definition": "Used archaically to indicate possession or ownership.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "His hath of land was vast.",
+            "sent2": "The hath of the king was undeniable.",
+            "sent3": "The hath of the treasure chest was a mystery to all.",
+            "sent4": "Her hath of knowledge impressed everyone.",
+            "sent5": "The hath of the ancient artifact intrigued historians."
         }
     ]
 }

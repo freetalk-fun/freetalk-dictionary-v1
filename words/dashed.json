@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Run quickly or suddenly",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She dashed across the finish line with a big smile.",
+            "sent2": "The cat dashed out of the room when the door opened.",
+            "sent3": "I dashed to the store only to realize it was closed.",
+            "sent4": "His hopes of winning the race were dashed by a sudden cramp.",
+            "sent5": "The thunderstorm dashed through the town, leaving puddles everywhere."
         },
         {
             "definition": "Damaged or ruined",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The dashed car was beyond repair.",
+            "sent2": "The vase lay on the floor in dashed pieces.",
+            "sent3": "She felt a bit dashed when her cake didn't turn out as expected.",
+            "sent4": "The dashed dreams of the old house haunted him.",
+            "sent5": "The dashed painting was barely recognizable after the fire."
         },
         {
             "definition": "Used to express mild annoyance or surprise",
-            "pos": "interjection"
+            "pos": "interjection",
+            "sent1": "Dashed! I forgot my keys again.",
+            "sent2": "Oh, dashed! I spilled my drink on the carpet.",
+            "sent3": "Dashed if I can remember where I put my phone.",
+            "sent4": "Well, dashed if that isn't the biggest cake I've ever seen!",
+            "sent5": "Dashed, I can't believe it's already time to leave."
         }
     ]
 }

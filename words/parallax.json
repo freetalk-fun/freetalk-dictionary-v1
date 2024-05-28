@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "The apparent displacement of an object when viewed from different positions.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The parallax of the tree made it seem like it was moving as I walked past.",
+            "sent2": "Scientists use parallax to understand how stars appear to shift in the night sky.",
+            "sent3": "The parallax of the painting created a fun optical illusion for visitors.",
+            "sent4": "Her changing perspective on life was like a parallax, shifting with each new experience.",
+            "sent5": "The parallax of the mountain range against the sunset was breathtaking."
         },
         {
             "definition": "The difference in the apparent position of an object when viewed along two different lines of sight.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The parallax between the two photographs showed how angles can change perception.",
+            "sent2": "A telescope can detect parallax in stars to determine their distance from Earth.",
+            "sent3": "The parallax in the mirror made her reflection seem like it was waving.",
+            "sent4": "The parallax in opinions between the two friends created a rift in their relationship.",
+            "sent5": "The parallax of the moon against the night sky was mesmerizing."
         },
         {
             "definition": "To measure the distance to a star by observing its parallax.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Astronomers parallax stars to calculate their distance from Earth.",
+            "sent2": "They will parallax the star tonight to determine its location in the galaxy.",
+            "sent3": "I tried to parallax the tree's height by looking at it from different angles.",
+            "sent4": "She will parallax the building's height by measuring its shadow at noon.",
+            "sent5": "The scientist will parallax the comet's trajectory to predict its path."
         }
     ]
 }

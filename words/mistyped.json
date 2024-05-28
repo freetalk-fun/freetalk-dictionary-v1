@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To type incorrectly.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I mistyped my password and couldn't log in.",
+            "sent2": "She often mistyped words when typing quickly.",
+            "sent3": "The computer mistyped my name as 'Jenifer' instead of 'Jennifer'.",
+            "sent4": "His mistyped email caused confusion among the recipients.",
+            "sent5": "The student mistyped the answer, leading to a wrong calculation."
         },
         {
             "definition": "Incorrectly typed.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The mistyped document had many errors.",
+            "sent2": "He noticed the mistyped phone number on the flyer.",
+            "sent3": "The mistyped address made the package delivery delayed.",
+            "sent4": "The mistyped code resulted in a software malfunction.",
+            "sent5": "The mistyped name on the badge caused some confusion."
         }
     ]
 }

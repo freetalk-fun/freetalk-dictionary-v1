@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A liquid fuel derived from petroleum, used in internal combustion engines.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "My car runs on petrols to make it go.",
+            "sent2": "The petrols at the gas station are expensive today.",
+            "sent3": "I accidentally spilled petrols on my shoes while refueling.",
+            "sent4": "The smell of petrols at the gas station always reminds me of road trips.",
+            "sent5": "The petrols in the engine ignited with a loud roar."
         },
         {
             "definition": "To supply with petrol.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I need to petrols my car before the long drive.",
+            "sent2": "The gas station attendant petrols the vehicles quickly.",
+            "sent3": "My friend jokingly offered to petrols my bicycle for me.",
+            "sent4": "The mechanic carefully petrols the engine to ensure smooth operation.",
+            "sent5": "She always petrols her motorcycle before going on a ride."
         },
         {
             "definition": "To drive a vehicle.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I petrols to work every morning in my car.",
+            "sent2": "He petrols carefully on the icy roads to avoid accidents.",
+            "sent3": "The kids pretended to petrols their toy cars around the living room.",
+            "sent4": "She petrols through the winding roads with ease.",
+            "sent5": "The race car driver petrols skillfully around the track."
         }
     ]
 }

@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "The way in which something is arranged or set out.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The teacher explained the format of the test to the students.",
+            "sent2": "The book follows a specific format with chapters and subheadings.",
+            "sent3": "The format of the puzzle was so confusing that no one could solve it.",
+            "sent4": "Her artwork challenged the traditional format of painting by using unconventional materials.",
+            "sent5": "The format of the recipe made it easy for even beginners to follow along."
         },
         {
             "definition": "To arrange or set out something in a particular way.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She needed to format the document before printing it out.",
+            "sent2": "Please format the text in bold for emphasis.",
+            "sent3": "He decided to format his room in a way that maximized space.",
+            "sent4": "The team had to format their presentation to fit the time limit.",
+            "sent5": "It is important to format your resume in a professional manner for job applications."
         }
     ]
 }

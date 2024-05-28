@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To decide not to consider or deal with something",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She dismisses the idea of going to the park today.",
+            "sent2": "He dismisses the suggestion to try a new restaurant.",
+            "sent3": "The cat dismisses the toy mouse as boring and walks away.",
+            "sent4": "The teacher dismisses the student's excuse as unbelievable.",
+            "sent5": "The detective dismisses the suspect's alibi as unreliable."
         },
         {
             "definition": "To send someone away or allow them to leave",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The guard dismisses the visitors after the museum closes.",
+            "sent2": "She dismisses her guests with a warm smile at the door.",
+            "sent3": "The magician dismisses the audience after his final trick.",
+            "sent4": "The captain dismisses the crew to enjoy their shore leave.",
+            "sent5": "The principal dismisses the students for summer vacation."
         },
         {
             "definition": "To remove someone from their job or position",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The company dismisses the manager due to poor performance.",
+            "sent2": "He dismisses the employee for violating company policies.",
+            "sent3": "The coach dismisses the player from the team for misconduct.",
+            "sent4": "The board dismisses the CEO for financial mismanagement.",
+            "sent5": "The school dismisses the teacher for inappropriate behavior."
         }
     ]
 }

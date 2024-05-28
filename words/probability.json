@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "The likelihood of something happening or being the case.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The probability of winning the lottery is very low.",
+            "sent2": "There is a high probability of rain tomorrow.",
+            "sent3": "The magician's trick had a high probability of success.",
+            "sent4": "The probability of finding a needle in a haystack is like searching for a lost treasure.",
+            "sent5": "The probability of getting a hole-in-one in golf is extremely rare."
         },
         {
             "definition": "A probable event or outcome.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The team winning the championship is a strong probability.",
+            "sent2": "It is a high probability that she will arrive on time.",
+            "sent3": "The probability of the cat catching the laser dot entertained the children.",
+            "sent4": "The probability of success is like a beacon guiding us through the storm.",
+            "sent5": "The probability of a snowstorm in July is highly unlikely."
         }
     ]
 }

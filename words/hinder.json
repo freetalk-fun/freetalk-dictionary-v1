@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Create difficulties for (someone or something), resulting in delay or obstruction.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The heavy rain will hinder our progress on the hike.",
+            "sent2": "Traffic can hinder your commute to work in the morning.",
+            "sent3": "Trying to tie my shoes with mittens on will surely hinder my efforts.",
+            "sent4": "Her fear of failure seemed to always hinder her from taking risks.",
+            "sent5": "The thick fog hindered our ability to see the path clearly."
         },
         {
             "definition": "A thing that provides resistance, delay, or obstruction to something or someone.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The locked gate acted as a hinder to our escape from the maze.",
+            "sent2": "Lack of funding can be a hinder to the completion of the project.",
+            "sent3": "The broken elevator was a hinder to our plans of reaching the top floor.",
+            "sent4": "The old tree roots served as a hinder to the construction of the new road.",
+            "sent5": "The language barrier proved to be a significant hinder in their communication."
         }
     ]
 }

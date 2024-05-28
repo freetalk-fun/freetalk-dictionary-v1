@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "From",
-            "pos": "preposition"
+            "pos": "preposition",
+            "sent1": "She came frae the store.",
+            "sent2": "He walked frae the house to the park.",
+            "sent3": "The cat jumped frae the table to the chair.",
+            "sent4": "The river flowed frae the mountains to the sea.",
+            "sent5": "The bird flew frae the tree to the ground."
         },
         {
             "definition": "Away",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "She ran frae quickly.",
+            "sent2": "He moved frae from the danger.",
+            "sent3": "The kids played tag, running frae each other.",
+            "sent4": "The balloon floated frae into the sky.",
+            "sent5": "The magician disappeared frae in a puff of smoke."
         }
     ]
 }

@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Identical with or the same as previously mentioned.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The selfsame dress she wore yesterday is hanging in the closet.",
+            "sent2": "The selfsame book I read last week is on the shelf.",
+            "sent3": "It was the selfsame cat that always got stuck in the tree.",
+            "sent4": "The selfsame melody played in my mind all day long.",
+            "sent5": "The selfsame flower bloomed in the garden every spring."
         },
         {
             "definition": "The same person or thing.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "She saw the selfsame squirrel in the park every morning.",
+            "sent2": "The selfsame car passed by our house twice today.",
+            "sent3": "The selfsame cup was used for every tea party she hosted.",
+            "sent4": "He was the selfsame student who always asked insightful questions.",
+            "sent5": "The selfsame tree provided shade for generations of picnickers."
         }
     ]
 }

@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Be obliged to; have to",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I must finish my homework before dinner.",
+            "sent2": "You must brush your teeth every morning.",
+            "sent3": "The cat must think it must chase its tail for fun.",
+            "sent4": "The sun must rise every day, a rule it must follow.",
+            "sent5": "The teacher's rule is clear: you must raise your hand to speak."
         },
         {
             "definition": "Essential; necessary",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "Water is a must for survival.",
+            "sent2": "A good night's sleep is a must for a productive day.",
+            "sent3": "The must ingredient in the recipe is salt.",
+            "sent4": "Patience is a must when dealing with children.",
+            "sent5": "Safety gear is a must when riding a bike."
         },
         {
             "definition": "A requirement or necessity",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Following the rules is a must in this school.",
+            "sent2": "Packing snacks for the trip is a must.",
+            "sent3": "The must for the party is to wear a costume.",
+            "sent4": "Laughter is a must in a happy home.",
+            "sent5": "Good communication is a must in any relationship."
         }
     ]
 }

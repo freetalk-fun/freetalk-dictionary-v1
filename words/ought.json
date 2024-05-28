@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Used to indicate duty or obligation.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Children ought to listen to their parents.",
+            "sent2": "You ought to finish your homework before playing.",
+            "sent3": "I ought to clean my room, but I'd rather take a nap.",
+            "sent4": "The student felt he ought to study harder to pass the test.",
+            "sent5": "She knew she ought to apologize for her mistake."
         },
         {
             "definition": "Used to indicate a desirable or expected state of affairs.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "A good friend ought to be trustworthy.",
+            "sent2": "This cake ought to be delicious with all those ingredients.",
+            "sent3": "The sunny weather made for an ought day at the beach.",
+            "sent4": "The new painting brought an ought touch to the room.",
+            "sent5": "The garden looked like an ought paradise with all the flowers."
         }
     ]
 }

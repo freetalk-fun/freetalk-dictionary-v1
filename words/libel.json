@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A published false statement that is damaging to a person's reputation.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The newspaper published a libel about the mayor, causing a lot of trouble.",
+            "sent2": "The court case focused on the libel written in the magazine.",
+            "sent3": "It would be a silly libel to say that the cat can speak English.",
+            "sent4": "The rumor spread like a libel through the small town.",
+            "sent5": "The libel written on the bathroom wall was quickly erased."
         },
         {
             "definition": "To publish a libel about.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He threatened to libel the company if they didn't pay him off.",
+            "sent2": "She was accused of trying to libel her ex-boyfriend on social media.",
+            "sent3": "I wouldn't libel my best friend even as a joke.",
+            "sent4": "The angry customer decided to libel the restaurant online.",
+            "sent5": "The author chose to libel the politician in his new book."
         }
     ]
 }

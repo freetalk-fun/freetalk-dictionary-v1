@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A particular form or variant of something.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I prefer the digital version of the book over the printed one.",
+            "sent2": "The new version of the game includes exciting new features.",
+            "sent3": "My sister's version of events always makes me laugh.",
+            "sent4": "His version of the story was like a colorful painting.",
+            "sent5": "The updated version of the recipe made it much tastier."
         },
         {
             "definition": "A translation of a text into another language.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The Spanish version of the book is beautifully translated.",
+            "sent2": "She is working on the French version of the document.",
+            "sent3": "The cat's meow sounded like a funny version of a song.",
+            "sent4": "Her words were a poetic version of the original text.",
+            "sent5": "The ancient version of the story was told in many languages."
         },
         {
             "definition": "A particular edition or release of a piece of software or technology.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The latest version of the app fixed many bugs.",
+            "sent2": "Downloading the new version of the software took only a few minutes.",
+            "sent3": "The robot's malfunction was like a comical version of a software glitch.",
+            "sent4": "The upgraded version of the device was a technological marvel.",
+            "sent5": "The beta version of the game was full of exciting surprises."
         }
     ]
 }

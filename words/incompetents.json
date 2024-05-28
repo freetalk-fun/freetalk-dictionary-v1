@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Not having the necessary skills or abilities to do something successfully.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The team of incompetents struggled to complete the simple task.",
+            "sent2": "The new employee was labeled as incompetent due to frequent mistakes.",
+            "sent3": "The incompetent chef mistook salt for sugar, creating a disastrous dessert.",
+            "sent4": "The incompetent driver caused chaos on the road with reckless maneuvers.",
+            "sent5": "Her incompetent attempts at painting resulted in a messy canvas."
         },
         {
             "definition": "A person lacking the necessary skills or abilities to do something successfully.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The office was filled with incompetents who couldn't meet deadlines.",
+            "sent2": "The manager had to deal with an incompetent who couldn't operate the machinery.",
+            "sent3": "The group of incompetents tried to fix the broken printer with no success.",
+            "sent4": "The team of incompetents fumbled through the presentation, causing embarrassment.",
+            "sent5": "The company suffered losses due to hiring incompetents for critical roles."
         }
     ]
 }

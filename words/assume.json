@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To take for granted or without proof.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I assume the sun will rise tomorrow.",
+            "sent2": "She assumes the bus will be on time.",
+            "sent3": "Don't assume the cat will catch the mouse easily.",
+            "sent4": "He assumes his team will win the game effortlessly.",
+            "sent5": "Let's assume the answer is correct for now."
         },
         {
             "definition": "To take upon oneself.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I assume the responsibility for the project.",
+            "sent2": "She assumes the role of team leader.",
+            "sent3": "He assumes the task of fixing the broken chair.",
+            "sent4": "The superhero assumes the duty of protecting the city.",
+            "sent5": "Let's assume the duty of cleaning up after the party."
         },
         {
             "definition": "To suppose to be true.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I assume he will arrive late.",
+            "sent2": "She assumes the story is accurate.",
+            "sent3": "Don't assume the weather will be sunny all day.",
+            "sent4": "He assumes his theory is correct.",
+            "sent5": "Let's assume the plan will succeed."
         }
     ]
 }

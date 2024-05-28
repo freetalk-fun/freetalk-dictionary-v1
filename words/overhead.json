@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Located above someone's head",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The bird flew overhead in the sky.",
+            "sent2": "The chandelier hung overhead in the grand hall.",
+            "sent3": "The mischievous squirrel climbed overhead and dropped acorns on the unsuspecting picnic below.",
+            "sent4": "The dark clouds loomed overhead, threatening a storm.",
+            "sent5": "The airplane soared overhead, leaving a trail of white behind."
         },
         {
             "definition": "The cost of operating a business",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The company had to carefully manage their overhead to stay profitable.",
+            "sent2": "The overhead for the new restaurant included rent, utilities, and salaries.",
+            "sent3": "The magician's biggest expense was the overhead for his elaborate stage props.",
+            "sent4": "The small business owner struggled to reduce overhead without sacrificing quality.",
+            "sent5": "The consultant advised cutting overhead costs to increase the company's bottom line."
         },
         {
             "definition": "A pass or shot in sports that goes over the head of an opponent",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The soccer player made a perfect overhead kick to score a goal.",
+            "sent2": "The basketball player attempted an overhead pass to a teammate.",
+            "sent3": "The tennis player surprised everyone with an overhead smash that landed right on the line.",
+            "sent4": "The volleyball player's powerful overhead serve was impossible to return.",
+            "sent5": "The athlete practiced his overhead shot tirelessly to improve his game."
         }
     ]
 }

@@ -3,19 +3,21 @@
     "meanings": [
         {
             "definition": "Perpetrator: a person who carries out a harmful, illegal, or immoral act",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The perp was caught red-handed by the police.",
+            "sent2": "The perp was sentenced to prison for their crimes.",
+            "sent3": "The perp tried to steal a cookie from the cookie jar but got caught.",
+            "sent4": "The perp's mask slipped off, revealing their identity to everyone.",
+            "sent5": "The perp's actions left a trail of evidence leading straight to them."
         },
         {
             "definition": "Perpendicular: at an angle of 90 degrees to a given line, plane, or surface",
-            "pos": "adjective"
-        },
-        {
-            "definition": "Perpetual: never ending or changing",
-            "pos": "adjective"
-        },
-        {
-            "definition": "Perpendicular: a line or plane at an angle of 90 degrees to a given line, plane, or surface",
-            "pos": "noun"
+            "pos": "adjective",
+            "sent1": "The perp line intersected the main line at a right angle.",
+            "sent2": "The perp walls of the room formed a perfect right angle.",
+            "sent3": "The perp angle of the corner was exactly 90 degrees.",
+            "sent4": "The perp intersection created a sharp right angle.",
+            "sent5": "The perp line stood straight up, perpendicular to the ground."
         }
     ]
 }

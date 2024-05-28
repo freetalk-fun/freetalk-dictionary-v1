@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Make (an idea, situation, or problem) clear to someone by describing it in more detail.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Can you explain how to solve this math problem?",
+            "sent2": "I will explain the rules of the game to you.",
+            "sent3": "Let me explain why the chicken crossed the road.",
+            "sent4": "She tried to explain the concept of time to her young child.",
+            "sent5": "The teacher used diagrams to explain photosynthesis to the students."
         },
         {
             "definition": "Give a reason or justification for (an action or event).",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Please explain why you were late to class.",
+            "sent2": "He had to explain his absence from the meeting.",
+            "sent3": "I can't explain why the cat knocked over the vase.",
+            "sent4": "The detective needed to explain the suspect's alibi.",
+            "sent5": "She had to explain her decision to resign from her job."
         }
     ]
 }

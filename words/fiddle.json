@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To play a violin or similar instrument.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She loves to fiddle with her violin every evening.",
+            "sent2": "He decided to fiddle with the strings to create a beautiful melody.",
+            "sent3": "Don't fiddle with the violin strings too much, or you might break them!",
+            "sent4": "Her fingers danced on the violin strings as if they were fiddling with magic.",
+            "sent5": "The musician's passion for fiddling was evident in every note she played."
         },
         {
             "definition": "To tamper or manipulate something dishonestly.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He tried to fiddle with the evidence to cover up his mistake.",
+            "sent2": "It's not right to fiddle with the numbers to make the report look better.",
+            "sent3": "The mischievous cat loves to fiddle with the yarn, making a mess everywhere.",
+            "sent4": "The hacker managed to fiddle with the security system, gaining unauthorized access.",
+            "sent5": "The con artist's plan was to fiddle with the truth to deceive others."
         },
         {
             "definition": "A violin.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "She held the fiddle carefully, admiring its beautiful craftsmanship.",
+            "sent2": "The musician played a lively tune on the fiddle during the concert.",
+            "sent3": "The old fiddle had been passed down through generations, each owner adding a story.",
+            "sent4": "The fiddle's melancholic melody filled the room, touching the hearts of all who listened.",
+            "sent5": "In the corner of the room, an antique fiddle rested, waiting to be played once more."
         }
     ]
 }

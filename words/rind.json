@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "The tough outer layer of a fruit or vegetable.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The orange rind is bitter.",
+            "sent2": "She peeled the apple rind before eating it.",
+            "sent3": "The watermelon rind made a funny hat.",
+            "sent4": "The rind of the lemon added a zesty touch to the dish.",
+            "sent5": "The thick rind protected the juicy fruit inside."
         },
         {
             "definition": "The outer layer of cheese.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The Parmesan rind can be used to flavor soups.",
+            "sent2": "He cut off the cheddar rind before slicing the cheese.",
+            "sent3": "The cheese rind looked like a tiny wall around the cheese.",
+            "sent4": "The brie rind added a creamy texture to the cheese.",
+            "sent5": "The rind of the cheese had a strong aroma."
         },
         {
             "definition": "To remove the outer layer of something.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She will rind the cucumber for the salad.",
+            "sent2": "He rinds the oranges carefully to avoid wasting the fruit.",
+            "sent3": "Rinding the potato was a messy task.",
+            "sent4": "The chef rinds the lemon zest for the dessert.",
+            "sent5": "They rind the bark off the tree to make furniture."
         }
     ]
 }

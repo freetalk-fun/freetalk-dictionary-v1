@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A representation, usually on a flat surface, of a region of the earth or heavens.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I used maps to find my way around the city.",
+            "sent2": "The maps in the library helped me locate the books I needed.",
+            "sent3": "The child drew colorful maps of imaginary lands on the sidewalk.",
+            "sent4": "Her mind maps of complex ideas made studying easier.",
+            "sent5": "The treasure map led the pirates to a hidden chest."
         },
         {
             "definition": "A diagrammatic representation of an area of land or sea showing physical features, cities, roads, etc.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The maps displayed the different hiking trails in the park.",
+            "sent2": "She studied the maps to plan the best route for the road trip.",
+            "sent3": "The artist created unique maps of underwater cities in her paintings.",
+            "sent4": "His heart maps out a path to her love.",
+            "sent5": "The treasure hunter followed the old map to the buried treasure."
         },
         {
             "definition": "To make a map of.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She maps out the best spots for picnics in the park.",
+            "sent2": "The cartographer maps the uncharted territories with precision.",
+            "sent3": "He maps his progress in learning new languages on a chart.",
+            "sent4": "Their friendship maps a journey of shared memories.",
+            "sent5": "The explorer maps the stars to navigate through the night sky."
         }
     ]
 }

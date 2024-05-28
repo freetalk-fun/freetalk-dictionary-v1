@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Display or show (a quality or feeling) clearly",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Her smile manifests her happiness.",
+            "sent2": "His hard work manifests in his excellent grades.",
+            "sent3": "The excitement of the puppy manifests in its wagging tail.",
+            "sent4": "The beauty of the sunset manifests in its vibrant colors.",
+            "sent5": "The pride of the team manifests in their victory dance."
         },
         {
             "definition": "A list of passengers or cargo on a ship or plane",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The captain checked the manifest before departure.",
+            "sent2": "The manifest showed the names of all passengers.",
+            "sent3": "The manifest revealed the weight of the cargo.",
+            "sent4": "The manifest listed the items for delivery.",
+            "sent5": "The manifest indicated the number of passengers on board."
         },
         {
             "definition": "A document listing the contents of a shipment",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The warehouse manager prepared the manifest for the shipment.",
+            "sent2": "The manifest detailed each item in the package.",
+            "sent3": "The manifest was carefully checked for accuracy.",
+            "sent4": "The manifest included a description of the goods.",
+            "sent5": "The manifest was signed by the sender for confirmation."
         }
     ]
 }

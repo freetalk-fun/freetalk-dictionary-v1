@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A response to a question or problem.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "She provided the correct answers to the quiz.",
+            "sent2": "The teacher asked a question, and Sarah gave her answers.",
+            "sent3": "The answers to the riddle were so obvious that everyone laughed.",
+            "sent4": "His silence was an answer in itself, revealing more than words could.",
+            "sent5": "The answers in the crossword puzzle were challenging but satisfying to complete."
         },
         {
             "definition": "To respond to a question or problem.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He answers the phone whenever it rings.",
+            "sent2": "When someone knocks on the door, please answer it.",
+            "sent3": "The cat answers to the name 'Whiskers' even though it's a silly name for a cat.",
+            "sent4": "Her smile answered his unspoken question, putting him at ease.",
+            "sent5": "The detective carefully answers each clue to solve the mystery."
         },
         {
             "definition": "To be responsible or accountable for something.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "As the team leader, she answers for any mistakes made by the group.",
+            "sent2": "The CEO answers directly to the board of directors.",
+            "sent3": "The mischievous puppy answers for the mess in the living room.",
+            "sent4": "The captain of the ship answers for the safety of all passengers on board.",
+            "sent5": "The mayor answers for the decisions that affect the entire city."
         }
     ]
 }

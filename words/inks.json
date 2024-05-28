@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A colored fluid used for writing, drawing, or printing.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I spilled inks on my drawing.",
+            "sent2": "The artist used different inks to create a beautiful painting.",
+            "sent3": "The mischievous cat knocked over the bottle of inks, creating a colorful mess.",
+            "sent4": "Her creativity flows like inks onto the canvas, bringing her imagination to life.",
+            "sent5": "The inks shimmered under the light, adding depth to the artwork."
         },
         {
             "definition": "To mark or cover with ink.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She carefully inks her signature on the contract.",
+            "sent2": "The writer inks the final edits on the manuscript.",
+            "sent3": "The detective inks the suspect's fingerprint for evidence.",
+            "sent4": "His words inks a lasting impression on the reader's mind.",
+            "sent5": "The calligrapher inks each letter with precision and grace."
         },
         {
             "definition": "To sign or write with ink.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He inks his name at the bottom of the letter.",
+            "sent2": "The student carefully inks the answers on the test paper.",
+            "sent3": "The chef inks the recipe on the parchment paper before baking.",
+            "sent4": "Her love for him inks every word she writes in her journal.",
+            "sent5": "The poet inks his emotions onto the paper, creating heartfelt verses."
         }
     ]
 }

@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Withdraws or moves back",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The soldier retreats from the battlefield.",
+            "sent2": "She retreats to her room when feeling overwhelmed.",
+            "sent3": "The cat retreats from the playful puppy.",
+            "sent4": "As the sun sets, the tide retreats from the shore.",
+            "sent5": "In the face of danger, he retreats to safety."
         },
         {
             "definition": "Places of seclusion or privacy",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The mountain retreats offer a peaceful escape.",
+            "sent2": "Their family owns a cozy retreat in the woods.",
+            "sent3": "The writer found inspiration in the quiet retreat.",
+            "sent4": "The cabin by the lake is a perfect retreat from city life.",
+            "sent5": "The spa retreats pamper guests with luxurious treatments."
         },
         {
             "definition": "Acts of surrender or defeat",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The army's retreats signaled the end of the battle.",
+            "sent2": "His retreats in negotiations led to a compromise.",
+            "sent3": "The team's retreats were met with disappointment.",
+            "sent4": "Her retreats in the debate were evident to all.",
+            "sent5": "The retreats of the defeated army echoed through history."
         }
     ]
 }

@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To style incorrectly or inappropriately.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She misstyled her hair for the party, using too much gel.",
+            "sent2": "The fashion designer misstyled the outfit, causing it to look mismatched.",
+            "sent3": "He misstyled his look for Halloween, accidentally dressing as a clown instead of a pirate.",
+            "sent4": "The interior decorator misstyled the room, turning it into a chaotic mess of colors and patterns.",
+            "sent5": "The hairstylist misstyled the customer's hair, resulting in a lopsided and uneven cut."
         },
         {
             "definition": "Incorrectly or inappropriately styled.",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "She walked misstyled into the room, with her dress inside out.",
+            "sent2": "The model strutted down the runway misstyled, with her shoes on the wrong feet.",
+            "sent3": "He danced misstyled at the party, moving in a clumsy and awkward manner.",
+            "sent4": "The singer performed misstyled on stage, singing off-key and out of tune.",
+            "sent5": "The actor delivered his lines misstyled, with exaggerated gestures and expressions."
         }
     ]
 }

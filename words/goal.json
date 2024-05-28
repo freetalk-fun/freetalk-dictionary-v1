@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "The object of a person's ambition or effort.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Her main goal is to become a teacher.",
+            "sent2": "His goal is to save enough money for a new bike.",
+            "sent3": "Trying to eat all the cookies in one sitting is not a very achievable goal.",
+            "sent4": "Reaching for the stars, her goal was to make a difference in the world.",
+            "sent5": "The goal of winning the science fair motivated him to work hard on his project."
         },
         {
             "definition": "The result or achievement toward which effort is directed.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "After weeks of practice, her goal of running a mile was finally achieved.",
+            "sent2": "The team celebrated reaching their goal of winning the championship.",
+            "sent3": "His goal of finishing all his homework in five minutes seemed impossible.",
+            "sent4": "The goal of finding a cure for cancer drives many scientists in their research.",
+            "sent5": "The ultimate goal of the experiment was to prove the theory correct."
         },
         {
             "definition": "A point scored in sports.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The soccer player kicked the ball into the net, scoring a goal.",
+            "sent2": "The basketball team cheered as they made another goal.",
+            "sent3": "In a game of hockey, the penguin scored a goal against the polar bear team.",
+            "sent4": "The crowd erupted in cheers as the home team scored the winning goal.",
+            "sent5": "Scoring a goal in the final seconds of the match, she secured the victory for her team."
         }
     ]
 }

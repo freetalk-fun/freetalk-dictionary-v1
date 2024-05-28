@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To cause to be out of balance or out of proportion.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She misbalanced the seesaw by sitting on one end.",
+            "sent2": "The chef misbalanced the flavors in the dish by adding too much salt.",
+            "sent3": "The magician misbalanced the deck of cards to perform a trick.",
+            "sent4": "His sudden outburst misbalanced the harmony of the meeting.",
+            "sent5": "The earthquake misbalanced the fragile stack of plates on the shelf."
         },
         {
             "definition": "Not balanced or in equilibrium.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The misbalanced scale gave inaccurate readings.",
+            "sent2": "The misbalanced load caused the truck to tip over.",
+            "sent3": "The misbalanced jenga tower collapsed with a loud crash.",
+            "sent4": "Her misbalanced emotions led to a series of poor decisions.",
+            "sent5": "The misbalanced bicycle wobbled uncontrollably down the hill."
         }
     ]
 }

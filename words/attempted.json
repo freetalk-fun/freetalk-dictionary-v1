@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Made an effort to do something",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She attempted to bake a cake for the first time.",
+            "sent2": "He attempted to lift the heavy box but couldn't.",
+            "sent3": "The cat attempted to chase its tail, looking quite silly.",
+            "sent4": "The seed attempted to grow in the rocky soil.",
+            "sent5": "The student attempted to solve the difficult math problem with determination."
         },
         {
             "definition": "Tried to achieve a goal",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "They attempted to reach the mountain peak before sunset.",
+            "sent2": "She attempted to learn a new language over the summer.",
+            "sent3": "The robot attempted to make a perfect pancake, but it ended up on the ceiling.",
+            "sent4": "The sun attempted to break through the thick clouds.",
+            "sent5": "The athlete attempted to break the world record in the race."
         },
         {
             "definition": "Tried to commit a crime",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The thief attempted to break into the house but was caught by the police.",
+            "sent2": "He attempted to steal the diamond from the museum.",
+            "sent3": "The squirrel attempted to steal the bird's food, but the bird caught it in the act.",
+            "sent4": "The hacker attempted to breach the company's security system.",
+            "sent5": "The spy attempted to gather classified information without being detected."
         }
     ]
 }

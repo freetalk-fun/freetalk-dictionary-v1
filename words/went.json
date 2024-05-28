@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "past tense of go",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Yesterday, I went to the store.",
+            "sent2": "She went home after school.",
+            "sent3": "The cat went to investigate the noise.",
+            "sent4": "The sun went down, signaling the end of the day.",
+            "sent5": "The rocket went up into the sky with a loud roar."
         },
         {
             "definition": "moved from one place to another",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The ball went rolling down the hill.",
+            "sent2": "The children went running in the park.",
+            "sent3": "The squirrel went hopping from tree to tree.",
+            "sent4": "The river went winding through the valley.",
+            "sent5": "The wind went blowing through the leaves, creating a rustling sound."
         },
         {
             "definition": "traveled to a destination",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "They went on a road trip to the beach.",
+            "sent2": "He went by train to visit his grandparents.",
+            "sent3": "The family went camping in the mountains.",
+            "sent4": "The airplane went soaring through the clouds.",
+            "sent5": "The hikers went trekking through the dense forest."
         }
     ]
 }

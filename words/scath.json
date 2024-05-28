@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Harm or injury",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The scath to his arm was painful.",
+            "sent2": "She felt the scath from the fall.",
+            "sent3": "The scath to the cake was evident when it fell on the floor.",
+            "sent4": "The scath to his reputation spread quickly.",
+            "sent5": "The scath left a lasting mark on the tree."
         },
         {
             "definition": "To harm or injure",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He didn't mean to scath the flower.",
+            "sent2": "The storm could scath the crops.",
+            "sent3": "She tried not to scath the delicate vase.",
+            "sent4": "His words seemed to scath her feelings.",
+            "sent5": "The harsh sun can easily scath your skin."
         }
     ]
 }

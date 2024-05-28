@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A unit of linear measure equal to one twelfth of a foot.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "She measured the table using inches.",
+            "sent2": "The ruler has markings in inches and centimeters.",
+            "sent3": "The inchworm traveled one inch at a time.",
+            "sent4": "His patience was wearing thin, inch by inch.",
+            "sent5": "The inch of snow made the road slippery."
         },
         {
             "definition": "To move slowly and carefully in a specified direction.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The cat inches closer to the mouse.",
+            "sent2": "He inches his way through the crowded room.",
+            "sent3": "The snail inches along the garden path.",
+            "sent4": "She inches towards the finish line in the race.",
+            "sent5": "The car inches forward in the traffic jam."
         },
         {
             "definition": "To enclose or separate with a fence or other barrier.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "They decided to inch the garden with a wooden fence.",
+            "sent2": "The farmer inches the livestock with electric wire.",
+            "sent3": "The kids playfully inch their friend with a jump rope.",
+            "sent4": "The wall inches the property from the neighbor's land.",
+            "sent5": "The security guard inches the area with caution tape."
         }
     ]
 }

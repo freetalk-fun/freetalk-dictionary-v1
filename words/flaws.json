@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A mark, fault, or imperfection that impairs worth or utility",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The mirror had a few flaws, making it difficult to see clearly.",
+            "sent2": "She noticed the flaws in the painting, but still found it beautiful.",
+            "sent3": "The cake's flaws gave it a quirky charm.",
+            "sent4": "Her flaws were like cracks in a vase, visible but not diminishing her beauty.",
+            "sent5": "The flaws in the plan were glaring, causing it to fail spectacularly."
         },
         {
             "definition": "To make a flaw or flaws in; to render imperfect or defective",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He accidentally flaws the vase while trying to fix it.",
+            "sent2": "The storm flaws the roof, causing leaks in the house.",
+            "sent3": "She flaws her drawing by spilling ink on it.",
+            "sent4": "The virus flaws the computer system, making it crash frequently.",
+            "sent5": "The chef flaws the dish by adding too much salt, ruining the flavor."
         }
     ]
 }

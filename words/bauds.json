@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A unit used to measure the speed of data transmission.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The computer sent data at a rate of 2400 bauds per second.",
+            "sent2": "The modem's maximum speed is 56 kilobauds per second.",
+            "sent3": "I tried to count the bauds flying out of the computer, but they were too fast!",
+            "sent4": "The bauds raced through the cables like tiny messengers of information.",
+            "sent5": "The sound of the bauds clicking and whirring filled the room with a sense of urgency."
         },
         {
             "definition": "The number of signal or symbol changes per second in a data transmission.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The old system could only handle 300 bauds, which was quite slow.",
+            "sent2": "The new technology allows for thousands of bauds in a single transmission.",
+            "sent3": "The bauds in the data stream danced like little digital fireflies.",
+            "sent4": "As the bauds increased, the information flow became a rushing river.",
+            "sent5": "Each baud represented a moment of communication, a tiny pulse of data in the stream."
         }
     ]
 }

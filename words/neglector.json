@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A person who neglects or fails to care for someone or something.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The neglector forgot to feed the cat for two days.",
+            "sent2": "The neglector at the park didn't notice the trash piling up.",
+            "sent3": "The neglector at the party was too busy chatting to notice the spilled drink.",
+            "sent4": "She was a neglector of plants, leaving them to wither in the sun.",
+            "sent5": "The neglector of books had a dusty, untouched shelf in the corner."
         },
         {
             "definition": "To fail to give proper attention or care to someone or something.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Don't neglector your responsibilities at work.",
+            "sent2": "She tends to neglector her emails until they pile up.",
+            "sent3": "He accidentally neglector to water the plants, and they wilted sadly.",
+            "sent4": "Neglectoring your health can lead to serious consequences.",
+            "sent5": "If you neglector your car maintenance, it may break down unexpectedly."
         }
     ]
 }

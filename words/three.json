@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "The cardinal number that is the sum of two and one.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I have three apples in my bag.",
+            "sent2": "The traffic light changed after counting to three.",
+            "sent3": "The three little kittens lost their mittens.",
+            "sent4": "The three musketeers fought bravely together.",
+            "sent5": "She wore three colorful bracelets on her wrist."
         },
         {
             "definition": "A group or set of three people or things.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "They formed a team of three for the relay race.",
+            "sent2": "The three friends went to the park together.",
+            "sent3": "The three wise men brought gifts to the baby.",
+            "sent4": "The three primary colors are red, blue, and yellow.",
+            "sent5": "The three little pigs built different houses."
         },
         {
             "definition": "Being one more than two.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "She bought three new books at the bookstore.",
+            "sent2": "The family adopted three adorable kittens.",
+            "sent3": "The three happy children played in the park.",
+            "sent4": "The three bright stars shone in the night sky.",
+            "sent5": "He wore three mismatched socks to school."
         }
     ]
 }

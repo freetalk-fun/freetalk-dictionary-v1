@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "In a manner that involves an automatic response to a stimulus.",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "She reacted reflexively when the bell rang.",
+            "sent2": "He reflexively blinked when a bug flew near his eye.",
+            "sent3": "The cat reflexively pounced on the moving toy.",
+            "sent4": "The soldier's training kicked in reflexively during the drill.",
+            "sent5": "The baby's hand reflexively grasped the parent's finger."
         },
         {
             "definition": "In a way that involves reflecting back on oneself.",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "After the argument, she thought reflexively about her words.",
+            "sent2": "He reflexively analyzed his actions after the game.",
+            "sent3": "The student reflexively pondered his choices for the exam.",
+            "sent4": "Her mind reflexively wandered to past memories.",
+            "sent5": "The artist reflexively examined her own work for flaws."
         },
         {
             "definition": "Done or performed without conscious thought.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "His reflexively quick response saved the situation.",
+            "sent2": "The reflexively habitual action surprised everyone.",
+            "sent3": "The reflexively repeated task became second nature to him.",
+            "sent4": "Her reflexively polite manners charmed the guests.",
+            "sent5": "The reflexively defensive reaction caught him off guard."
         }
     ]
 }

@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To make a mistake or error.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I misteuked the answer on the test.",
+            "sent2": "She always misteuked the time for our meetings.",
+            "sent3": "The robot misteuked the commands and started dancing instead of cleaning.",
+            "sent4": "His plan misteuked the target completely, hitting the wrong building.",
+            "sent5": "The chef misteuked the recipe, adding salt instead of sugar."
         },
         {
             "definition": "A wrong action or judgment.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Making a misteuk can lead to consequences.",
+            "sent2": "Her misteuk caused a lot of confusion in the project.",
+            "sent3": "The misteuk in the play made the audience burst into laughter.",
+            "sent4": "His misteuk was like a pebble causing ripples in a pond.",
+            "sent5": "The misteuk was so obvious, everyone noticed it immediately."
         },
         {
             "definition": "Incorrect or inaccurate.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "He gave a misteuk answer during the interview.",
+            "sent2": "The misteuk information led to a misunderstanding.",
+            "sent3": "The misteuk map sent them in the wrong direction.",
+            "sent4": "Her misteuk calculations resulted in a failed experiment.",
+            "sent5": "The misteuk weather forecast ruined their picnic plans."
         }
     ]
 }

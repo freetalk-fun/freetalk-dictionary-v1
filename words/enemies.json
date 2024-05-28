@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A person who is actively opposed or hostile to someone or something.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "My enemies tried to stop me from winning the game.",
+            "sent2": "The hero fought bravely against his enemies to protect the town.",
+            "sent3": "The enemies in the video game kept getting defeated by the player.",
+            "sent4": "In the battle of good versus evil, the enemies were relentless in their attacks.",
+            "sent5": "The enemies' evil plans were finally foiled by the courageous protagonist."
         },
         {
             "definition": "A thing that harms or weakens something else.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The harsh weather was the plant's enemies, causing it to wither.",
+            "sent2": "The lack of sleep is one of the biggest enemies of productivity.",
+            "sent3": "The loud noise became the enemies of peace and quiet in the neighborhood.",
+            "sent4": "Procrastination is the silent enemy that hinders progress.",
+            "sent5": "Negativity can be a powerful enemy to happiness and success."
         },
         {
             "definition": "A country or organization that is hostile to another.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "During the war, the two countries became bitter enemies.",
+            "sent2": "The rival companies were fierce enemies in the market competition.",
+            "sent3": "The enemies on the battlefield paused to share a moment of camaraderie.",
+            "sent4": "The political enemies clashed in a heated debate.",
+            "sent5": "The enemies' trade restrictions hurt the economy of the neighboring country."
         }
     ]
 }

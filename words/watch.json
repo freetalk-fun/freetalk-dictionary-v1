@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To look at or observe attentively",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I watch the birds fly in the sky.",
+            "sent2": "She likes to watch the stars at night.",
+            "sent3": "Let's watch the ants carry their food.",
+            "sent4": "He watches the waves crash against the shore.",
+            "sent5": "Watch the leaves dance in the wind."
         },
         {
             "definition": "A small timepiece worn typically on a strap on one's wrist",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "My watch tells me it's time for lunch.",
+            "sent2": "She bought a new watch with a leather strap.",
+            "sent3": "His watch beeped to remind him of the meeting.",
+            "sent4": "The watch's hands moved slowly around the dial.",
+            "sent5": "The watch's face glowed in the dark."
         },
         {
             "definition": "To be alert and vigilant, especially for danger or opportunity",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "We need to watch for any signs of trouble.",
+            "sent2": "She always watches out for her little brother.",
+            "sent3": "Let's watch for shooting stars in the night sky.",
+            "sent4": "He watches for the perfect moment to strike.",
+            "sent5": "Watch carefully for any changes in behavior."
         }
     ]
 }

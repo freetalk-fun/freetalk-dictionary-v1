@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "In a way that is determined by a specific cause or set of conditions.",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "The computer program ran deterministically based on the input provided.",
+            "sent2": "The outcome of the experiment was determined deterministically by the initial conditions.",
+            "sent3": "She always knew deterministically that her cat would come running when she shook the treat bag.",
+            "sent4": "The gears in the clock moved deterministically, each cog fitting perfectly into the next.",
+            "sent5": "The river flowed deterministically, following the path carved by centuries of water erosion."
         },
         {
             "definition": "In a manner that is predictable and certain.",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "The sun rises deterministically in the east every morning.",
+            "sent2": "The train schedule is planned deterministically to ensure timely arrivals and departures.",
+            "sent3": "He could deterministically predict that his little brother would ask for a bedtime story every night.",
+            "sent4": "The flowers bloomed deterministically, opening their petals to the warmth of the sun.",
+            "sent5": "The teacher's instructions were followed deterministically by the students, each step clear and expected."
         }
     ]
 }

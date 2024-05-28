@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "The act of causing death",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The killing of the plant was accidental.",
+            "sent2": "The killing of innocent animals is wrong.",
+            "sent3": "The detective solved the case by finding the plant's killer.",
+            "sent4": "The silence in the forest after the killing of the bird was eerie.",
+            "sent5": "The killing of the mosquito left a satisfying feeling of peace."
         },
         {
             "definition": "Extremely funny or entertaining",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The comedian's jokes were killing the audience with laughter.",
+            "sent2": "The movie was so killing that everyone was laughing non-stop.",
+            "sent3": "The clown's silly antics were absolutely killing the kids at the party.",
+            "sent4": "The sitcom's humor was killing, making it a hit among viewers.",
+            "sent5": "The stand-up comedian's performance was killing, leaving the crowd in stitches."
         },
         {
             "definition": "Overwhelmingly successful or impressive",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The new product launch was a killing success for the company.",
+            "sent2": "The team's strategy was killing, leading them to victory.",
+            "sent3": "The magician's trick was so killing that everyone was amazed.",
+            "sent4": "The artist's painting was a killing masterpiece, attracting many admirers.",
+            "sent5": "The athlete's performance was killing, earning them a standing ovation."
         }
     ]
 }

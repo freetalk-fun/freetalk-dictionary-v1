@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To say or write something in response to a question or statement.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She will reply to the email soon.",
+            "sent2": "He always replies to messages promptly.",
+            "sent3": "The cat seemed to reply with a meow when asked if it wanted food.",
+            "sent4": "His actions replied louder than his words ever could.",
+            "sent5": "The echo in the cave seemed to reply to every sound."
         },
         {
             "definition": "A response to a question or statement.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I am waiting for her reply to my invitation.",
+            "sent2": "The quick reply to the inquiry was appreciated.",
+            "sent3": "The reply from the robot was unexpected and made everyone laugh.",
+            "sent4": "Her smile was the perfect reply to his apology.",
+            "sent5": "The reply from the audience was a resounding applause."
         }
     ]
 }

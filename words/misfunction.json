@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To fail to function properly.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The old clock misfunctions often and stops ticking.",
+            "sent2": "My computer misfunctions when too many programs are open.",
+            "sent3": "It's like the toaster decided to misfunction just when I wanted toast!",
+            "sent4": "The team's communication misfunctioned like a broken telephone chain.",
+            "sent5": "The car's engine misfunctioned loudly, causing a cloud of smoke to billow out."
         },
         {
             "definition": "A failure to operate correctly.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The misfunction of the printer delayed the report's printing.",
+            "sent2": "The misfunction of the traffic lights caused a long delay.",
+            "sent3": "The misfunction in the vending machine gave out free snacks by mistake!",
+            "sent4": "The misfunction in the system was like a glitch in a video game.",
+            "sent5": "The misfunction of the elevator left everyone stranded on different floors."
         }
     ]
 }

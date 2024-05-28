@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Automatically dials a phone number.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The robot autodials the emergency number when there is danger.",
+            "sent2": "My phone autodials my mom's number when I say 'call mom'.",
+            "sent3": "The smartwatch autodials the pizza place every time I mention 'pizza'.",
+            "sent4": "The alarm system autodials the security company in case of a break-in.",
+            "sent5": "The car autodials roadside assistance if it detects a flat tire."
         },
         {
             "definition": "A device that automatically dials phone numbers.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The autodial is a helpful gadget for seniors to call for help.",
+            "sent2": "I keep an autodial by the bed for quick access to emergency services.",
+            "sent3": "The autodial on my desk makes calling my friends so much easier.",
+            "sent4": "The autodial in the office ensures quick communication with clients.",
+            "sent5": "The autodial in the car is a lifesaver during road trips."
         },
         {
             "definition": "The act of automatically dialing a phone number.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The autodial of the security system alerted the police immediately.",
+            "sent2": "Her quick thinking and the autodial saved the day during the emergency.",
+            "sent3": "The autodial of the old phone went rogue and kept calling random numbers.",
+            "sent4": "The autodial of the smart home system worked like magic during the blackout.",
+            "sent5": "The autodial of the alarm went off, signaling a possible intrusion."
         }
     ]
 }

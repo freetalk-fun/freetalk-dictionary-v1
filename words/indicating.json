@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Pointing out or showing something",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She was indicating the correct path with her finger.",
+            "sent2": "The teacher was indicating the answer on the board.",
+            "sent3": "The cat was indicating its favorite toy by meowing loudly.",
+            "sent4": "The compass needle was indicating north with precision.",
+            "sent5": "His smile was indicating his happiness to everyone around."
         },
         {
             "definition": "Suggesting or demonstrating something",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The dark clouds were indicating an incoming storm.",
+            "sent2": "Her tired eyes were indicating a lack of sleep.",
+            "sent3": "The broken umbrella was indicating a rainy day ahead.",
+            "sent4": "The loud music was indicating a party in the neighborhood.",
+            "sent5": "His frown was indicating his displeasure with the situation."
         },
         {
             "definition": "Serving as a sign or signal of something",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The red traffic light was indicating a stop.",
+            "sent2": "The sudden drop in temperature was indicating the arrival of winter.",
+            "sent3": "The chirping birds were indicating the start of a new day.",
+            "sent4": "The distant thunder was indicating an approaching storm.",
+            "sent5": "The bright smile was indicating her excitement for the event."
         }
     ]
 }

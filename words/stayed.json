@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To remain in a particular place or position.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The cat stayed on the windowsill all day.",
+            "sent2": "I stayed at home during the storm.",
+            "sent3": "The toy car stayed on the track without falling off.",
+            "sent4": "Her words stayed in my mind long after she left.",
+            "sent5": "The memory of his laughter stayed with me forever."
         },
         {
             "definition": "To continue to be in a particular state or condition.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The fire stayed hot for hours.",
+            "sent2": "She stayed calm during the emergency.",
+            "sent3": "The colors of the painting stayed vibrant over time.",
+            "sent4": "His determination stayed unwavering despite the challenges.",
+            "sent5": "The smell of fresh bread stayed in the kitchen all day."
         },
         {
             "definition": "To stop or wait.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Please stay here and wait for me.",
+            "sent2": "I stayed to watch the sunset.",
+            "sent3": "The bus stayed at the stop for a long time.",
+            "sent4": "The clock stayed at midnight, frozen in time.",
+            "sent5": "The teacher stayed after class to help the students."
         }
     ]
 }

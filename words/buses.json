@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Plural of bus",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The yellow buses carried children to school.",
+            "sent2": "The city buses were always crowded during rush hour.",
+            "sent3": "The buses lined up like colorful caterpillars on the road.",
+            "sent4": "The buses roared through the streets like giant metal beasts.",
+            "sent5": "The image of the buses chugging along became a symbol of public transportation."
         },
         {
             "definition": "Third person singular present of bus",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She buses to work every morning.",
+            "sent2": "He buses to the airport for his flight.",
+            "sent3": "The cat buses lazily in the sun.",
+            "sent4": "The idea buses through his mind as he plans his trip.",
+            "sent5": "The music buses softly in the background as they talk."
         },
         {
             "definition": "Present participle of bus",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "They are busing tourists around the city.",
+            "sent2": "The students were busing tables after lunch.",
+            "sent3": "The dog happily busing around the park.",
+            "sent4": "The thoughts were busing in his head as he studied.",
+            "sent5": "The wind busing through the trees created a soothing sound."
         }
     ]
 }

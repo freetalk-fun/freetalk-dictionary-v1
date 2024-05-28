@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Opposed to red in color.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The antired shirt was blue.",
+            "sent2": "The antired car was green.",
+            "sent3": "The antired apple looked confused among the red ones.",
+            "sent4": "Her antired hair shone like a beacon in the sea of red.",
+            "sent5": "The antired flag stood out boldly against the red sky."
         },
         {
             "definition": "A substance that counteracts the color red.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "She used an antired to change the color of the paint.",
+            "sent2": "The artist mixed the antired with the paint to create a new shade.",
+            "sent3": "The antired spilled on the canvas, creating a rainbow effect.",
+            "sent4": "The antired worked like magic, turning the red into a soft pink.",
+            "sent5": "The antired was a lifesaver for fixing mistakes in the artwork."
         },
         {
             "definition": "To act against the color red.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He antired the red wall by painting it blue.",
+            "sent2": "She antired the red dress by dyeing it a different color.",
+            "sent3": "The artist antired the red canvas, creating a unique masterpiece.",
+            "sent4": "They antired the red carpet, transforming it into a stunning runway.",
+            "sent5": "The team antired the red room, making it feel more inviting."
         }
     ]
 }

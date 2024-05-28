@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Moderately",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "She walked moderato towards the finish line.",
+            "sent2": "He spoke moderato during the meeting.",
+            "sent3": "The cat moved moderato as it chased the butterfly.",
+            "sent4": "Time passed moderato, like a gentle stream flowing.",
+            "sent5": "The sun set moderato, casting a soft glow over the horizon."
         },
         {
             "definition": "A tempo marking indicating a moderate speed in music",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The pianist played the piece at moderato tempo.",
+            "sent2": "The conductor signaled for the orchestra to play moderato.",
+            "sent3": "The birds chirped in a moderato rhythm, creating a peaceful melody.",
+            "sent4": "The car engine hummed along at a moderato pace.",
+            "sent5": "The dancers moved in perfect synchrony to the moderato beat of the music."
         }
     ]
 }

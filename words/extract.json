@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Remove or take out (something) from a place.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I need to extract the toy from the box.",
+            "sent2": "The dentist will extract my tooth tomorrow.",
+            "sent3": "I tried to extract the last cookie from the jar, but it got stuck!",
+            "sent4": "She managed to extract the truth from his lies.",
+            "sent5": "The detective had to extract the key evidence from the suspect's alibi."
         },
         {
             "definition": "Obtain (a substance or resource) from a material.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "We can extract oil from olives.",
+            "sent2": "Miners extract valuable minerals from the earth.",
+            "sent3": "I tried to extract some luck from my lucky charm.",
+            "sent4": "She managed to extract useful information from the old documents.",
+            "sent5": "The scientist had to extract DNA from the blood sample."
         }
     ]
 }

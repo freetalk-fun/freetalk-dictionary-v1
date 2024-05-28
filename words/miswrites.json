@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To write or copy incorrectly.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She often miswrites her name on the test papers.",
+            "sent2": "He miswrites the address on the envelope.",
+            "sent3": "The detective miswrites the suspect's alibi in his notes, causing confusion.",
+            "sent4": "Her memory miswrites the events of that day like a faulty recorder.",
+            "sent5": "The student miswrites the equation, leading to a wrong answer."
         },
         {
             "definition": "A piece of writing that has been written or copied incorrectly.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The miswrites in the report made it hard to understand.",
+            "sent2": "She found a miswrite in the book that changed the plot.",
+            "sent3": "The miswrite in the menu turned 'chicken' into 'kitchen'!",
+            "sent4": "The miswrite in the contract altered the entire agreement.",
+            "sent5": "The miswrite on the sign caused confusion among the visitors."
         }
     ]
 }

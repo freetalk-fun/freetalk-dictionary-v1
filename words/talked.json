@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Past tense of talk.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Yesterday, I talked to my friend on the phone.",
+            "sent2": "She talked to her teacher after class.",
+            "sent3": "The cat talked to the dog in a dream.",
+            "sent4": "The wind talked to the trees, whispering secrets.",
+            "sent5": "The old book talked to me, sharing its stories."
         },
         {
             "definition": "Engaged in conversation.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The talked students were excited about the project.",
+            "sent2": "She is a talked person who enjoys socializing.",
+            "sent3": "The talked group laughed and shared stories.",
+            "sent4": "The talked friends chatted happily at the party.",
+            "sent5": "The talked family gathered around the dinner table."
         },
         {
             "definition": "Communicated verbally.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The talked message was clear and concise.",
+            "sent2": "He is a talked speaker who captivates the audience.",
+            "sent3": "The talked instructions helped us complete the task.",
+            "sent4": "Her talked words resonated with everyone in the room.",
+            "sent5": "The talked announcement spread quickly throughout the office."
         }
     ]
 }

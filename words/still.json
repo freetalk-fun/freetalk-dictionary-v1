@@ -3,19 +3,39 @@
     "meanings": [
         {
             "definition": "Not moving or making a sound",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The cat sat still on the windowsill.",
+            "sent2": "The lake was still as a mirror in the morning.",
+            "sent3": "The still room was so quiet that you could hear a pin drop.",
+            "sent4": "The still forest seemed to hold its breath in anticipation.",
+            "sent5": "The still air in the room felt heavy and unmoving."
         },
         {
             "definition": "Despite that; nevertheless",
-            "pos": "conjunction"
+            "pos": "conjunction",
+            "sent1": "She was tired; still, she continued to work hard.",
+            "sent2": "It was raining; still, they decided to go for a walk.",
+            "sent3": "He knew it was risky; still, he took the chance.",
+            "sent4": "The movie was long; still, they enjoyed every minute of it.",
+            "sent5": "The cake looked burnt; still, it tasted delicious."
         },
         {
             "definition": "To make or become still",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She tried to still her racing heart before the presentation.",
+            "sent2": "The teacher asked the students to still their chatter in the classroom.",
+            "sent3": "He attempted to still his nerves by taking deep breaths.",
+            "sent4": "The music helped to still her mind after a long day.",
+            "sent5": "The calming voice of the speaker helped to still the crowd's murmurs."
         },
         {
             "definition": "Up to and including the present or a specified time",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "I have still not received a reply to my email.",
+            "sent2": "She is still working on her project.",
+            "sent3": "The store is still open for another hour.",
+            "sent4": "He is still waiting for his turn in line.",
+            "sent5": "The sun is still shining brightly in the sky."
         }
     ]
 }

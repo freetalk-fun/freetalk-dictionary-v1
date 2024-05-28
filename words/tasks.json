@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A piece of work to be done or undertaken",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "My teacher gave me several tasks to complete over the weekend.",
+            "sent2": "Completing daily tasks helps me stay organized and productive.",
+            "sent3": "I tried to convince my dog to do my tasks for me, but he just wagged his tail.",
+            "sent4": "The tasks on my to-do list piled up like a mountain, daunting and unyielding.",
+            "sent5": "The tasks at hand felt like heavy burdens on my shoulders, weighing me down."
         },
         {
             "definition": "A specific duty or responsibility",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "One of my tasks as a student is to study for exams regularly.",
+            "sent2": "As a parent, taking care of my children is one of my most important tasks.",
+            "sent3": "My cat thinks her only task is to nap all day, what a life!",
+            "sent4": "The task of keeping the house clean felt like a never-ending battle.",
+            "sent5": "The task of teaching young minds is both challenging and rewarding."
         },
         {
             "definition": "To assign a task to someone",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I will tasks you with organizing the event decorations.",
+            "sent2": "The manager tasks each team member with specific responsibilities.",
+            "sent3": "I tried to tasks my little brother with cleaning his room, but he just played instead.",
+            "sent4": "She tasks her assistant with scheduling all her appointments.",
+            "sent5": "The teacher tasks the students with completing a group project together."
         }
     ]
 }

@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "The thing to which a linguistic expression refers.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The referent of the word 'dog' is the furry animal with four legs.",
+            "sent2": "In the sentence 'She loves her cat', the referent of 'cat' is the pet she adores.",
+            "sent3": "The referent of 'unicorn' in the story was a magical creature that only existed in dreams.",
+            "sent4": "Her smile was the referent of happiness, lighting up the room with joy.",
+            "sent5": "The referent of 'mountain' was a towering peak covered in snow, visible from miles away."
         },
         {
             "definition": "A person or thing to which a linguistic expression refers.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The referent of the pronoun 'he' in the sentence is the boy playing in the park.",
+            "sent2": "When she said 'that book', the referent was the novel on the shelf.",
+            "sent3": "The referent of 'Santa Claus' in the story turned out to be her mischievous brother in disguise.",
+            "sent4": "His laughter became the referent of joy, echoing through the halls.",
+            "sent5": "The referent of 'ocean' was a vast body of water teeming with life and mystery."
         }
     ]
 }

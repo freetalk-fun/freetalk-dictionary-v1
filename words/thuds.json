@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A dull, heavy sound, such as that made by an object falling to the ground.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The thuds of the hammer hitting the nail echoed in the room.",
+            "sent2": "I heard the thuds of footsteps approaching from a distance.",
+            "sent3": "The thuds of the basketball hitting the rim repeatedly made me chuckle.",
+            "sent4": "The thuds of the raindrops on the roof sounded like a drumbeat.",
+            "sent5": "The thuds of the heavy books hitting the floor startled the cat."
         },
         {
             "definition": "To make a dull, heavy sound, as of an object hitting the ground.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The door thuds shut behind him as he leaves the room.",
+            "sent2": "The apples thud against the ground as they fall from the tree.",
+            "sent3": "She thuds the pillow against the wall to fluff it up.",
+            "sent4": "His heart thuds loudly in his chest as he waits for the results.",
+            "sent5": "The waves thud against the shore in a rhythmic pattern."
         }
     ]
 }

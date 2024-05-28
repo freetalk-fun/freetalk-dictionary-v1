@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "a person who steals",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The thief was caught red-handed with the stolen jewels.",
+            "sent2": "The police are searching for the thief who stole the purse.",
+            "sent3": "The mischievous thief tried to steal a cookie from the jar but got caught.",
+            "sent4": "Her smile was a thief, stealing away all his worries and leaving only joy.",
+            "sent5": "The thief's shadow crept silently along the wall, ready to pounce on its next target."
         },
         {
             "definition": "to steal",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He tried to thief some candy from the store, but the owner saw him.",
+            "sent2": "She decided to thief a glance at the secret document on the desk.",
+            "sent3": "The raccoon managed to thief a shiny object from the campsite without anyone noticing.",
+            "sent4": "Time is a thief, stealing moments we can never get back.",
+            "sent5": "The wind seemed to thief the warmth from the room, leaving it chilly and unwelcoming."
         }
     ]
 }

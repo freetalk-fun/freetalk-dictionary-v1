@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A wrapped or boxed object or group of objects.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I received a package in the mail today.",
+            "sent2": "The package contained a surprise gift.",
+            "sent3": "The package was so big, it barely fit through the door!",
+            "sent4": "Her smile was like a beautifully wrapped package.",
+            "sent5": "The package was neatly tied with a bow, making it look special."
         },
         {
             "definition": "A set of related items sold together.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The store offered a special package deal on the electronics.",
+            "sent2": "The vacation package included flights and hotel stay.",
+            "sent3": "Buying the package saved me money on each item individually.",
+            "sent4": "The package of books was a treasure trove for book lovers.",
+            "sent5": "The package deal was too good to pass up."
         },
         {
             "definition": "To wrap or box something for transport or storage.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I need to package these cookies before they go stale.",
+            "sent2": "She carefully packaged the fragile items for shipping.",
+            "sent3": "He tried to package the oversized gift in a tiny box.",
+            "sent4": "The memories were carefully packaged in her mind.",
+            "sent5": "The company packaged the products in eco-friendly materials."
         }
     ]
 }

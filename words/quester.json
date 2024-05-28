@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "One who quests or seeks.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The brave quester embarked on a journey to find the hidden treasure.",
+            "sent2": "The young quester searched the forest for the missing puppy.",
+            "sent3": "The quester's determination to find the lost key was both admirable and amusing.",
+            "sent4": "Like a dedicated quester, she pursued her dreams with unwavering focus.",
+            "sent5": "The quester's relentless pursuit of knowledge inspired those around him."
         },
         {
             "definition": "To search or seek for something.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She decided to quester through the library for the book she needed.",
+            "sent2": "The detective questered for clues at the crime scene.",
+            "sent3": "He questered through the fridge looking for a midnight snack.",
+            "sent4": "The explorer questered through the dense jungle in search of ancient ruins.",
+            "sent5": "The students questered for answers to the challenging riddle."
         }
     ]
 }

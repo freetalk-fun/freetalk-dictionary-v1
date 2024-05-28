@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To cut apart or separate into pieces",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She dissects the frog in science class.",
+            "sent2": "The chef dissects the chicken before cooking it.",
+            "sent3": "The curious cat dissects the toy mouse to see how it works.",
+            "sent4": "The detective dissects the evidence to solve the case.",
+            "sent5": "The surgeon dissects the tumor with precision."
         },
         {
             "definition": "To analyze or examine in detail",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He dissects the poem to understand its meaning.",
+            "sent2": "The scientist dissects the data to draw conclusions.",
+            "sent3": "The student dissects the math problem to find the solution.",
+            "sent4": "The researcher dissects the theory to uncover its flaws.",
+            "sent5": "The historian dissects the document for hidden clues."
         }
     ]
 }

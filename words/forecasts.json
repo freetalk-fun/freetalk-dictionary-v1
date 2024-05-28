@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Predictions about future events or conditions.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The weather forecasts said it would rain today.",
+            "sent2": "I always check the forecasts before planning a picnic.",
+            "sent3": "The cat made forecasts about when the food would be served.",
+            "sent4": "Her forecasts for the stock market were surprisingly accurate.",
+            "sent5": "The ancient book's forecasts of the future were mysterious and intriguing."
         },
         {
             "definition": "To predict or estimate (a future event or trend).",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She forecasts that the team will win the championship.",
+            "sent2": "The economist forecasts a rise in interest rates next month.",
+            "sent3": "The parrot forecasts the weather by imitating the meteorologist.",
+            "sent4": "His intuition forecasts success in the upcoming project.",
+            "sent5": "The fortune teller forecasts a journey in your future."
         }
     ]
 }

@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "past tense of go",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Yesterday, I gaed to the store to buy some milk.",
+            "sent2": "She gaed to the park to play with her friends.",
+            "sent3": "The cat gaed around the house, looking for a cozy spot to nap.",
+            "sent4": "The river gaed swiftly through the valley, carrying fallen leaves with it.",
+            "sent5": "The children gaed happily through the meadow, chasing butterflies."
         },
         {
             "definition": "a Scottish term for a path or way",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The hikers followed the gaed through the forest, enjoying the scenic route.",
+            "sent2": "The shepherd led his flock along the gaed towards the grazing fields.",
+            "sent3": "The curious squirrel explored the gaed, hopping from stone to stone.",
+            "sent4": "The ancient gaed wound its way up the hill, revealing breathtaking views.",
+            "sent5": "The villagers gathered at the gaed for the annual summer festival."
         }
     ]
 }

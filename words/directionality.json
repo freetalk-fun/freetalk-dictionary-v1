@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "The quality of having a direction or orientation.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The map showed the directionality of the roads in the city.",
+            "sent2": "The compass needle always points north, demonstrating directionality.",
+            "sent3": "The confused squirrel's directionality led it in circles around the tree.",
+            "sent4": "Her strong sense of directionality guided her through the maze of city streets.",
+            "sent5": "The arrow's directionality was clear as it pointed towards the target."
         },
         {
             "definition": "The property of being unidirectional or bidirectional.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The new microphone had excellent directionality, capturing sound from one direction only.",
+            "sent2": "The antenna's directionality allowed it to receive signals from multiple sources.",
+            "sent3": "The robot's faulty directionality caused it to spin in circles instead of moving forward.",
+            "sent4": "The flashlight's strong directionality illuminated the path ahead clearly.",
+            "sent5": "The traffic sign's directionality indicated which way to turn at the intersection."
         },
         {
             "definition": "The tendency to move or progress in a particular direction.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The river's directionality carried the leaves downstream.",
+            "sent2": "The wind's directionality determined the path of the kite in the sky.",
+            "sent3": "The puppy's playful directionality led it straight to the ball every time.",
+            "sent4": "The team's directionality towards the goal ensured their success in the match.",
+            "sent5": "The sunflower's directionality as it turned towards the sun was a beautiful sight."
         }
     ]
 }

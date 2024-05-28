@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To say or do something again.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I will repeat the song for you.",
+            "sent2": "She likes to repeat her favorite stories.",
+            "sent3": "The parrot can repeat what you say.",
+            "sent4": "Her laughter seemed to repeat in the empty room.",
+            "sent5": "The echo made her words repeat endlessly."
         },
         {
             "definition": "To occur or happen again.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The pattern will repeat every hour.",
+            "sent2": "History tends to repeat itself.",
+            "sent3": "The magic trick will repeat itself automatically.",
+            "sent4": "The melody seemed to repeat in his mind all day.",
+            "sent5": "The cycle of seasons repeat year after year."
         },
         {
             "definition": "A broadcast or performance that is repeated.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The TV channel will air a repeat of the show.",
+            "sent2": "The audience enjoyed the repeat of the concert.",
+            "sent3": "The repeat of the play was even better than the first.",
+            "sent4": "The repeat of the speech was met with applause.",
+            "sent5": "The radio station played a repeat of the interview."
         }
     ]
 }

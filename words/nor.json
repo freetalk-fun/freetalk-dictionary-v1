@@ -2,12 +2,22 @@
     "term": "nor",
     "meanings": [
         {
-            "definition": "used before the second or further of two or more alternatives (the first being introduced by a negative such as \"neither\" or \"not\") to indicate that they are each untrue or each do not happen",
-            "pos": "conjunction"
+            "definition": "used before the second or further of two or more alternatives (the first being introduced by a negative such as 'neither' or 'not') to indicate that they are each untrue or each do not happen",
+            "pos": "conjunction",
+            "sent1": "I neither like apples nor oranges.",
+            "sent2": "She does not eat meat nor fish.",
+            "sent3": "The cat neither chased the mouse nor played with it.",
+            "sent4": "His words were neither heard nor understood by the crowd.",
+            "sent5": "The storm brought neither rain nor wind to the town."
         },
         {
             "definition": "and not; not either",
-            "pos": "conjunction"
+            "pos": "conjunction",
+            "sent1": "He wanted neither tea nor coffee.",
+            "sent2": "She could neither sing nor dance.",
+            "sent3": "The book was neither interesting nor informative.",
+            "sent4": "The tree bore neither fruits nor flowers this season.",
+            "sent5": "The child could neither read nor write at such a young age."
         }
     ]
 }

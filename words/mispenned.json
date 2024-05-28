@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To write or spell incorrectly.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She mispenned the word on her test and got it wrong.",
+            "sent2": "He often mispenned his friend's name in emails.",
+            "sent3": "The teacher mispenned 'banana' as 'bananana' on the board.",
+            "sent4": "Her mispenned address led the delivery person to the wrong house.",
+            "sent5": "The mispenned sign caused confusion for the visitors."
         },
         {
             "definition": "Incorrectly written or spelled.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The mispenned letter had many errors that needed correction.",
+            "sent2": "He received a mispenned invitation with his name misspelled.",
+            "sent3": "The mispenned note made everyone laugh at the party.",
+            "sent4": "Her mispenned essay was a colorful mess of words.",
+            "sent5": "The mispenned label on the package caused delays in delivery."
         }
     ]
 }

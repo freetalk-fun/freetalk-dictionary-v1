@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A way or manner in which something is done or happens.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "She always drives in a cautious mode to ensure safety.",
+            "sent2": "Using a keyboard is a common mode of input for computers.",
+            "sent3": "In a playful mode, the cat chased after a butterfly.",
+            "sent4": "His storytelling mode captivated the audience's attention.",
+            "sent5": "The teacher explained the concept in a clear and understandable mode."
         },
         {
             "definition": "A particular form or type of something.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The new car model comes in a sleek and modern mode.",
+            "sent2": "The dress code for the event is formal attire.",
+            "sent3": "The cake was decorated in a festive mode for the celebration.",
+            "sent4": "Her artwork showcased a unique and creative mode of expression.",
+            "sent5": "The museum displayed artifacts from different historical modes."
         },
         {
             "definition": "The most frequently occurring value in a set of data.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "In the survey results, the mode was 5, indicating popular choice.",
+            "sent2": "The mode of the dataset helped identify the peak performance.",
+            "sent3": "The mode of the test scores showed a clear trend in student performance.",
+            "sent4": "The mode temperature for the month was higher than usual.",
+            "sent5": "Identifying the mode value can simplify data analysis."
         }
     ]
 }

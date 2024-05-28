@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A medication used to treat parasitic infections in humans and animals.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The veterinarian prescribed ivermectin to help the dog with worms.",
+            "sent2": "Ivermectin is commonly used to treat parasites in livestock.",
+            "sent3": "The zoo animals joked that the ivermectin was their 'magic worm potion.'",
+            "sent4": "The ivermectin worked like a superhero, fighting off the parasites in the cow.",
+            "sent5": "After taking ivermectin, the cat's fur was free from any parasites."
         },
         {
             "definition": "To administer or prescribe ivermectin for medical treatment.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The doctor decided to ivermectin the patient for the parasitic infection.",
+            "sent2": "They ivermectin the horses regularly to prevent worm infestations.",
+            "sent3": "The nurse playfully asked if she should 'ivermectin' the medicine to the patient.",
+            "sent4": "The farmer ivermectined the cattle to keep them healthy.",
+            "sent5": "The vet always ivermectins the dogs after a check-up to ensure their well-being."
         }
     ]
 }

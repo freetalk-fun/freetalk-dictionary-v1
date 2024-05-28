@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To square or make square",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She quadrates the paper to create a perfect square.",
+            "sent2": "The carpenter quadrates the wood to fit the frame.",
+            "sent3": "The artist quadrates the canvas with precision, like a human ruler.",
+            "sent4": "His mind quadrates the problem, breaking it down into manageable parts.",
+            "sent5": "The teacher quadrates the classroom, organizing desks neatly in rows."
         },
         {
             "definition": "A square or rectangular shape",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The tile on the floor is a quadrates.",
+            "sent2": "The garden has a beautiful quadrates of flowers.",
+            "sent3": "The cake was cut into perfect quadrates, each piece identical.",
+            "sent4": "The city map shows the quadrates of the different blocks.",
+            "sent5": "The screen displayed a clear quadrates, making it easy to read the text."
         }
     ]
 }

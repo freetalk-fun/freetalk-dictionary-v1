@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A person who waits in line.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The queuer patiently stood in line at the grocery store.",
+            "sent2": "The queuer at the movie theater was excited to see the new film.",
+            "sent3": "The queuer joked with others in line to pass the time.",
+            "sent4": "Like a queuer in a line, the ants followed each other in an orderly queue.",
+            "sent5": "The queuer's determination to wait for the concert tickets paid off in the end."
         },
         {
             "definition": "A data structure in computing that stores elements in a specific order.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The queuer in the program arranged the data in a sequential manner.",
+            "sent2": "The queuer efficiently managed the order of tasks in the system.",
+            "sent3": "The queuer in the code made sure everything was in its proper place.",
+            "sent4": "The queuer function in the software organized the information neatly.",
+            "sent5": "The queuer algorithm kept the data organized and easily accessible."
         }
     ]
 }

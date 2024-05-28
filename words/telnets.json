@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Telnets (verb): to establish a connection with a remote computer using the Telnet protocol.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I telnets to my work computer from home to check emails.",
+            "sent2": "She telnets into the server to troubleshoot network issues.",
+            "sent3": "The cat tried to telnets into the mouse's secret database.",
+            "sent4": "His words telnets into the hearts of the audience, leaving a lasting impact.",
+            "sent5": "The key to success is to telnets into opportunities when they arise."
         },
         {
             "definition": "Telnets (noun): a type of network protocol used for remote access to computers.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The IT technician set up the telnets for secure remote access.",
+            "sent2": "Telnets allows users to connect to servers over the internet.",
+            "sent3": "The telnets hummed quietly in the background, ensuring smooth communication.",
+            "sent4": "In the world of technology, telnets acts as a bridge between distant devices.",
+            "sent5": "The company upgraded its systems to include the latest telnets for faster connections."
         },
         {
             "definition": "Telnets (adjective): relating to or characteristic of the Telnet protocol.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The IT team discussed the telnets security measures.",
+            "sent2": "The new software update includes enhanced telnets features.",
+            "sent3": "Her telnets knowledge impressed the entire tech department.",
+            "sent4": "The telnets connection remained stable even during peak hours.",
+            "sent5": "The company's network infrastructure is built on reliable telnets technology."
         }
     ]
 }

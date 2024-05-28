@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To confess or acknowledge something is true",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I must admit that I ate the last cookie.",
+            "sent2": "She admitted her mistake and apologized.",
+            "sent3": "The cat had to admit defeat when it couldn't catch the laser pointer.",
+            "sent4": "The evidence was overwhelming, forcing him to admit his guilt.",
+            "sent5": "He had to admit the truth, even though it was difficult."
         },
         {
             "definition": "To allow someone to enter a place",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The security guard will admit you into the concert venue.",
+            "sent2": "Please admit the guests into the party.",
+            "sent3": "The door refused to admit anyone without the secret password.",
+            "sent4": "The key finally admitted the lock and allowed the door to open.",
+            "sent5": "The gatekeeper admitted the travelers into the castle."
         },
         {
             "definition": "To accept someone into a group or organization",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The club will admit new members next month.",
+            "sent2": "They admitted her into the prestigious organization.",
+            "sent3": "The secret society only admits those who can solve the riddle.",
+            "sent4": "The exclusive club admitted him after a thorough interview.",
+            "sent5": "The team decided to admit the talented player into their ranks."
         }
     ]
 }

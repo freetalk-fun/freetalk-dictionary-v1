@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A bucket typically having a handle, used for carrying liquids.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I filled the pails with water from the well.",
+            "sent2": "The farmer carried the milk in pails from the barn to the house.",
+            "sent3": "The mischievous kitten knocked over the pails, spilling water everywhere.",
+            "sent4": "Her laughter bubbled over like water from a pail.",
+            "sent5": "The pails clanked together as the workers carried them across the field."
         },
         {
             "definition": "To fail or break down, especially suddenly or catastrophically.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The old car pails on the way to the mechanic.",
+            "sent2": "If you don't maintain the engine, it will eventually pail.",
+            "sent3": "The plan to surprise her with a cake pailed when she walked in early.",
+            "sent4": "His confidence pailed like a sinking ship in rough waters.",
+            "sent5": "The team's hopes pailed as they lost the championship game."
         }
     ]
 }

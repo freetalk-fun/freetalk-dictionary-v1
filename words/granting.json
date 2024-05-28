@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To agree to give or allow (something requested or desired)",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She is granting permission to go to the party.",
+            "sent2": "The teacher is granting extra time to finish the assignment.",
+            "sent3": "After much begging, he finally gave in, granting her request.",
+            "sent4": "The sun, granting its warmth to the flowers, helped them bloom beautifully.",
+            "sent5": "The king, granting a wish to his loyal subject, made him the happiest man alive."
         },
         {
             "definition": "Used to introduce a statement that is contrary to what has just been said",
-            "pos": "conjunction"
+            "pos": "conjunction",
+            "sent1": "She wanted to go out; granting, it was already too late.",
+            "sent2": "He claimed to be innocent; granting, there were witnesses against him.",
+            "sent3": "I thought it was a good idea; granting, I changed my mind after hearing more details.",
+            "sent4": "The forecast predicted rain; granting, the sky was clear all day.",
+            "sent5": "He said he would help; granting, he never showed up."
         },
         {
             "definition": "Used to introduce a clause that concedes the truth of something mentioned in the main clause",
-            "pos": "conjunction"
+            "pos": "conjunction",
+            "sent1": "She was tired; granting that she had been working all day.",
+            "sent2": "He was upset; granting that his team had lost the game.",
+            "sent3": "The cake was delicious; granting that it was a bit too sweet for my taste.",
+            "sent4": "The movie was entertaining; granting that the plot was a bit predictable.",
+            "sent5": "The dog was cute; granting that it barked a lot."
         }
     ]
 }

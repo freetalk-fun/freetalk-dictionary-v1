@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Make (an unpleasant feeling) less intense.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Listening to music assuages my sadness after a long day.",
+            "sent2": "A warm cup of tea always assuages my worries.",
+            "sent3": "The funny movie assuaged my fear of the dark.",
+            "sent4": "Her kind words assuaged the tension in the room.",
+            "sent5": "The gentle breeze assuages the heat of the summer day."
         },
         {
             "definition": "Satisfy (an appetite or desire).",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Eating a piece of chocolate assuages my craving for something sweet.",
+            "sent2": "A hearty meal can assuage hunger after a long day.",
+            "sent3": "The delicious cake assuaged my longing for dessert.",
+            "sent4": "Winning the game assuaged his competitive spirit.",
+            "sent5": "The beautiful scenery assuages my wanderlust."
         },
         {
             "definition": "Calm (an emotion).",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "Her assuaging presence always brings peace to the situation.",
+            "sent2": "The soothing music had an assuaging effect on my nerves.",
+            "sent3": "The playful puppy had an assuaging effect on my stress.",
+            "sent4": "The calming colors of the painting had an assuaging impact on my mood.",
+            "sent5": "The serene garden had an assuaging influence on my anxiety."
         }
     ]
 }

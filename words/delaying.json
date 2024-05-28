@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To postpone or put off an action or event.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She kept delaying her homework until it was almost bedtime.",
+            "sent2": "The traffic jam was delaying our arrival at the party.",
+            "sent3": "The cat was delaying its pounce on the toy mouse, making the game more exciting.",
+            "sent4": "The dark clouds were delaying the sunrise, casting a shadow over the morning.",
+            "sent5": "The procrastinator's habit of delaying tasks led to a pile of unfinished work."
         },
         {
             "definition": "To cause to be late or slow.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The heavy rain was delaying the construction work on the road.",
+            "sent2": "His slow pace was delaying the group's progress on the hike.",
+            "sent3": "The snail was delaying the race, much to the amusement of the spectators.",
+            "sent4": "The tangled wires were delaying the internet connection, frustrating the user.",
+            "sent5": "The faulty alarm clock was delaying his wake-up time, making him late for work."
         },
         {
             "definition": "The act of delaying or being delayed.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The delay in the train schedule caused inconvenience for the passengers.",
+            "sent2": "The delay in the delivery of the package was due to bad weather.",
+            "sent3": "The delay in the movie start time led to impromptu popcorn sharing among the audience.",
+            "sent4": "The delay in the flight departure made the passengers anxious about missing their connections.",
+            "sent5": "The unexpected delay in the meeting gave him extra time to prepare his presentation."
         }
     ]
 }

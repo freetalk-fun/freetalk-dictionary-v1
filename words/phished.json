@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To deceive or trick someone into providing personal information, typically through fraudulent emails or websites.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She was phished by a fake email claiming she won a prize.",
+            "sent2": "He phished for passwords by pretending to be a bank representative.",
+            "sent3": "The scammer phished so much, he started to believe his own lies.",
+            "sent4": "The hacker phished for data like a fisherman casting a net.",
+            "sent5": "The dangers of being phished online are real and alarming."
         },
         {
             "definition": "The act of attempting to obtain sensitive information by posing as a trustworthy entity in electronic communication.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The phished information was used to steal identities.",
+            "sent2": "He fell victim to a phished email that looked like it came from his bank.",
+            "sent3": "The phished data was like a treasure chest for cybercriminals.",
+            "sent4": "The phished emails were like wolves in sheep's clothing.",
+            "sent5": "The consequences of falling for a phished message can be devastating."
         }
     ]
 }

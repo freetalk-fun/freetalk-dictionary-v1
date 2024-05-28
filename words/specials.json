@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Better, greater, or otherwise different from what is usual.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The cake was very special because it had extra frosting.",
+            "sent2": "She felt special when she received a handmade card from her friend.",
+            "sent3": "The cat thought it was special when it caught a mouse.",
+            "sent4": "The sunset painted the sky in special hues of pink and orange.",
+            "sent5": "The special toy was the most popular item at the store."
         },
         {
             "definition": "A product or service offered at a reduced price or with added features for a limited time.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The restaurant had delicious specials on the menu.",
+            "sent2": "She always checked the specials board before ordering.",
+            "sent3": "The specials at the grocery store made her smile.",
+            "sent4": "The hotel offered specials for guests staying over the weekend.",
+            "sent5": "The specials flyer advertised discounts on various items."
         },
         {
             "definition": "A television or radio program that is not part of a regular series.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "They decided to watch a special about animals on TV.",
+            "sent2": "The radio station announced a special broadcast for the holiday.",
+            "sent3": "The special on cooking made her hungry for a snack.",
+            "sent4": "The special on space exploration fascinated the students.",
+            "sent5": "The TV guide highlighted the upcoming specials for the week."
         }
     ]
 }

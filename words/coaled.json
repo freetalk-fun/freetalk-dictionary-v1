@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Past tense of coal: to supply or cover with coal",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The workers coaled the furnace to keep it burning.",
+            "sent2": "The train was coaled up before starting its long journey.",
+            "sent3": "The dragon coaled its lair with shiny black rocks.",
+            "sent4": "The night sky coaled over as the storm approached.",
+            "sent5": "She coaled the barbecue with charcoal, ready for grilling."
         },
         {
             "definition": "Past participle of coal: supplied or covered with coal",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The coaled ship sailed smoothly across the ocean.",
+            "sent2": "The coaled mine was a vital source of energy for the town.",
+            "sent3": "The coaled garden path glistened in the sunlight.",
+            "sent4": "His hands were coaled black after working in the coal mine.",
+            "sent5": "The coaled locomotive billowed dark smoke into the sky."
         }
     ]
 }

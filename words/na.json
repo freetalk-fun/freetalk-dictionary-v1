@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Used to express negation or refusal.",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "I do na want to go to the store.",
+            "sent2": "She said na to the offer.",
+            "sent3": "Na, I don't think so.",
+            "sent4": "His answer was a firm na.",
+            "sent5": "Na, I won't change my mind."
         },
         {
             "definition": "A unit of force equal to the force that would give a mass of one kilogram an acceleration of one meter per second per second.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The object experienced a force of one na.",
+            "sent2": "The na of the impact was measured.",
+            "sent3": "He calculated the na of the object.",
+            "sent4": "The na of the push was strong.",
+            "sent5": "The na was enough to move the object."
         },
         {
             "definition": "A Japanese syllabary used in writing words borrowed from foreign languages.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "She studied the na characters.",
+            "sent2": "The book explained the use of na in writing.",
+            "sent3": "He practiced writing with na.",
+            "sent4": "The teacher taught the students about na.",
+            "sent5": "Na is an important part of Japanese writing."
         }
     ]
 }

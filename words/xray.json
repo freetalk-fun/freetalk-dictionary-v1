@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A form of electromagnetic radiation used for imaging internal structures.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The doctor used an xray to see inside the patient's body.",
+            "sent2": "The xray showed a broken bone in the arm.",
+            "sent3": "The mischievous cat tried to hide from the xray machine during its check-up.",
+            "sent4": "Her intuition was like an xray, seeing through people's facades effortlessly.",
+            "sent5": "The xray image of the chest was clear and detailed."
         },
         {
             "definition": "To examine or treat with X-rays.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The dentist will xray your teeth to check for cavities.",
+            "sent2": "They xrayed the package at the airport security checkpoint.",
+            "sent3": "The chef jokingly asked if he could xray the cake to see if it was cooked perfectly.",
+            "sent4": "She felt like her mother could xray her thoughts with just a glance.",
+            "sent5": "The detective decided to xray the evidence for any hidden clues."
         }
     ]
 }

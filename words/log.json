@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A thick piece of tree trunk or branch, especially one cut for burning in a fire.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "We gathered some logs for the campfire.",
+            "sent2": "The fallen log served as a bridge over the stream.",
+            "sent3": "The squirrel used the log as a balance beam, showing off its acrobatic skills.",
+            "sent4": "The log in the fireplace crackled and popped as it burned brightly.",
+            "sent5": "The log was so heavy that it took two people to carry it."
         },
         {
             "definition": "An official record of events during a voyage or activity.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The captain kept a detailed log of the ship's journey.",
+            "sent2": "The log showed the exact time the incident occurred.",
+            "sent3": "The log book mysteriously disappeared, causing chaos on the ship.",
+            "sent4": "The log of the meeting revealed surprising decisions made by the committee.",
+            "sent5": "The log entry was so neat and organized, it impressed everyone."
         },
         {
             "definition": "To enter something in a log.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I need to log the new data into the system.",
+            "sent2": "She quickly logged the customer's complaint for future reference.",
+            "sent3": "He decided to log his daily activities to track his productivity.",
+            "sent4": "Logging the information accurately is crucial for the report.",
+            "sent5": "They will log the results of the experiment in their research paper."
         }
     ]
 }

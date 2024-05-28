@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Holding the attention or interest of someone",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The movie was rivetting, keeping me glued to my seat throughout.",
+            "sent2": "The book had a rivetting plot that made it hard to put down.",
+            "sent3": "The magician's tricks were so rivetting that even the skeptics were amazed.",
+            "sent4": "Her rivetting storytelling painted vivid pictures in our minds.",
+            "sent5": "The rivetting performance left the audience in awe."
         },
         {
             "definition": "To fasten or secure with a rivet",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He rivetted the metal pieces together to create a strong bond.",
+            "sent2": "The blacksmith rivetted the horseshoe onto the horse's hoof.",
+            "sent3": "The tailor rivetted the buttons onto the coat with precision.",
+            "sent4": "The chef rivetted the handle onto the knife for a secure grip.",
+            "sent5": "The carpenter rivetted the joints to ensure the table's stability."
         },
         {
             "definition": "A metal pin for passing through holes in two or more plates to hold them together",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The engineer used a rivet to join the steel beams securely.",
+            "sent2": "The aircraft's wings were connected by rivets for strength.",
+            "sent3": "The artist used colorful rivets to embellish the metal sculpture.",
+            "sent4": "The construction worker hammered the rivet into place with precision.",
+            "sent5": "The old bridge was repaired with new rivets to ensure safety."
         }
     ]
 }

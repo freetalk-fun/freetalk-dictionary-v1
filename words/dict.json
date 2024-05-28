@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To say or read aloud words for someone else to write down.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She will dict the story for me to write.",
+            "sent2": "The teacher will dict the spelling words to the students.",
+            "sent3": "The parrot tried to dict a message to the cat.",
+            "sent4": "The wind seemed to dict the leaves to dance in the air.",
+            "sent5": "His clear dictation made it easy to transcribe the notes."
         },
         {
             "definition": "To command or order.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The general will dict the troops' movements.",
+            "sent2": "The boss will dict the new project deadlines.",
+            "sent3": "The cat tried to dict the dog to bring its toy.",
+            "sent4": "The storm seemed to dict the waves to crash against the shore.",
+            "sent5": "Her confident tone seemed to dict authority in the room."
         },
         {
             "definition": "A spoken word or phrase.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "His favorite dict is 'hello'.",
+            "sent2": "The child's first dict was 'mom'.",
+            "sent3": "The cat's meow sounded like a strange dict.",
+            "sent4": "The music seemed to be a dict of emotions.",
+            "sent5": "The dict echoed through the empty hallways."
         }
     ]
 }

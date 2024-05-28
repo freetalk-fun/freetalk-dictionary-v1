@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To count less than the actual number.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She always undercounts the number of cookies in the jar.",
+            "sent2": "The cashier undercounts the change she gives back.",
+            "sent3": "The magician's trick is to undercounts the number of cards in his hand.",
+            "sent4": "Her excitement undercounts the hours she spends playing video games.",
+            "sent5": "The scale undercounts her weight after a big meal."
         },
         {
             "definition": "A count that is lower than the true number.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The undercounts in the inventory caused confusion in the warehouse.",
+            "sent2": "The undercounts in the election results led to a recount.",
+            "sent3": "The undercounts in the treasure hunt made the game more challenging.",
+            "sent4": "The undercounts in the attendance record raised suspicions of cheating.",
+            "sent5": "The undercounts in the budget led to unexpected expenses."
         }
     ]
 }

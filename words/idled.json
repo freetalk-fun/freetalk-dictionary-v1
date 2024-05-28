@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To spend time doing nothing",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "After finishing his homework, he idled away the afternoon playing video games.",
+            "sent2": "The cat idled lazily in the sun, enjoying the warmth.",
+            "sent3": "The student idled in class, daydreaming about summer vacation.",
+            "sent4": "Time idled by as they waited for the bus in the rain.",
+            "sent5": "She idled on the park bench, watching the clouds drift by."
         },
         {
             "definition": "To run at a slow speed without engaging the gears",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The car idled at the traffic light before accelerating smoothly.",
+            "sent2": "The boat idled along the river, giving passengers a leisurely ride.",
+            "sent3": "The engine idled noisily, indicating a need for maintenance.",
+            "sent4": "The truck idled quietly as it waited to be loaded with supplies.",
+            "sent5": "The motorcycle idled smoothly, ready to hit the road."
         },
         {
             "definition": "Not in use or operation",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The idled machinery gathered dust in the abandoned factory.",
+            "sent2": "The idled computer sat silent on the desk, waiting to be restarted.",
+            "sent3": "The idled phone buzzed with notifications, longing for attention.",
+            "sent4": "The idled printer remained dormant until new ink cartridges were installed.",
+            "sent5": "The idled oven stayed cold until it was preheated for baking."
         }
     ]
 }

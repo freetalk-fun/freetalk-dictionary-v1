@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A very large number, typically one with nine zeros after it.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The company produced billions of products last year.",
+            "sent2": "The population of the world is in the billions.",
+            "sent3": "I have billions of ideas for our school project!",
+            "sent4": "The stars in the night sky seemed like billions of diamonds.",
+            "sent5": "The teacher's explanation made the concept clear as billions in my mind."
         },
         {
             "definition": "A very large amount of money.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The billionaire donated billions to charity.",
+            "sent2": "Winning the lottery could make you a billionaire with billions in your bank account.",
+            "sent3": "I wish I had billions to buy all the toys in the store!",
+            "sent4": "The cost of the new building project was estimated in the billions.",
+            "sent5": "The treasure chest was overflowing with gold coins, worth billions in total."
         }
     ]
 }

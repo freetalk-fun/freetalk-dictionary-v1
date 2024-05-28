@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A name that describes someone's position or job.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Her title at work is manager.",
+            "sent2": "The title on his business card reads 'Director'.",
+            "sent3": "The title 'Queen Bee' suits her well in the office.",
+            "sent4": "She wears the title of 'team leader' with pride.",
+            "sent5": "The title 'CEO' carries a sense of authority and responsibility."
         },
         {
             "definition": "A word or phrase that is used to identify a book, movie, or other work.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The title of the book is 'The Adventures of Tom Sawyer'.",
+            "sent2": "What is the title of the latest Marvel movie?",
+            "sent3": "The title 'Gone with the Wind' makes me think of a windy day.",
+            "sent4": "The title 'The Great Gatsby' hints at a grand story.",
+            "sent5": "The title 'Jurassic Park' evokes images of dinosaurs and adventure."
         },
         {
             "definition": "The legal right to own property or a piece of land.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "He has the title deed to his house.",
+            "sent2": "The title to the land was passed down through generations.",
+            "sent3": "She joked that her cat had the title to the backyard.",
+            "sent4": "The title to the beachfront property was highly sought after.",
+            "sent5": "The title to the estate came with a lot of responsibilities."
         }
     ]
 }

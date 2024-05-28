@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "postsyncs: to synchronize data after a specified event or action",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "After the event, the system postsyncs the information for accuracy.",
+            "sent2": "She always postsyncs the files after completing a task.",
+            "sent3": "The computer postsyncs the data like a diligent worker.",
+            "sent4": "The team postsyncs their efforts to ensure seamless collaboration.",
+            "sent5": "Postsyncs the data to keep everything in order."
         },
         {
             "definition": "postsyncs: the act of synchronizing data after a specified event or action",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The postsyncs occur automatically to update the information.",
+            "sent2": "I reviewed the postsyncs to confirm the accuracy of the data.",
+            "sent3": "The postsyncs process is crucial for data integrity.",
+            "sent4": "The postsyncs dance between devices is like a well-choreographed routine.",
+            "sent5": "The postsyncs ensure all systems are on the same page."
         },
         {
             "definition": "postsyncs: data that has been synchronized after a specified event or action",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The postsyncs were completed successfully, ensuring data consistency.",
+            "sent2": "The postsyncs are stored in a separate folder for reference.",
+            "sent3": "The postsyncs data is like a puzzle coming together.",
+            "sent4": "The postsyncs information acts as a bridge between events.",
+            "sent5": "The postsyncs provide a snapshot of the system's status."
         }
     ]
 }

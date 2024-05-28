@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "One who moves in a circular path.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The circler walked around the tree.",
+            "sent2": "The circler in the race completed laps around the track.",
+            "sent3": "The circler danced in circles at the party.",
+            "sent4": "The planets in the solar system are like circlers around the sun.",
+            "sent5": "The circler's path was smooth and continuous."
         },
         {
             "definition": "A shape that is round and continuous.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The artist drew a perfect circler on the paper.",
+            "sent2": "The wheel on the bike is a circler.",
+            "sent3": "The circler cake looked delicious at the party.",
+            "sent4": "The circler of the moon in the night sky was mesmerizing.",
+            "sent5": "The circler of the hula hoop never seemed to end."
         },
         {
             "definition": "To move in a circular path around something.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The car will circler around the block before parking.",
+            "sent2": "The airplane will circler the airport before landing.",
+            "sent3": "The dog likes to circler around its favorite tree in the park.",
+            "sent4": "The thoughts would circler in his mind, never settling.",
+            "sent5": "The dancers will circler around the stage during the performance."
         }
     ]
 }

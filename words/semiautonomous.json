@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Acting independently to a certain extent.",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "The robot moved semiautonomously around the room.",
+            "sent2": "The car drove semiautonomously on the highway.",
+            "sent3": "The vacuum cleaner seemed semiautonomous as it navigated the living room.",
+            "sent4": "The wind carried the kite semiautonomously through the sky.",
+            "sent5": "The leaves rustled semiautonomously in the breeze."
         },
         {
             "definition": "Having a degree of self-governing authority.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The school's student council is semiautonomous in decision-making.",
+            "sent2": "The local community has a semiautonomous organization for park maintenance.",
+            "sent3": "The cat acted semiautonomous when choosing where to nap.",
+            "sent4": "The artist's brush seemed semiautonomous as it painted the canvas.",
+            "sent5": "The toddler felt semiautonomous when picking out their own clothes."
         },
         {
             "definition": "Capable of functioning with some degree of autonomy.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The drone is semiautonomous and can fly pre-programmed routes.",
+            "sent2": "The smart thermostat is semiautonomous in regulating the temperature.",
+            "sent3": "The plant appeared semiautonomous in seeking sunlight for photosynthesis.",
+            "sent4": "The clockwork toy moved semiautonomously across the floor.",
+            "sent5": "The computer program runs semiautonomously to complete tasks."
         }
     ]
 }

@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A person employed to clean and maintain a building.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The janitor swept the floors every evening.",
+            "sent2": "The school janitor is responsible for keeping the hallways clean.",
+            "sent3": "The janitor found a lost sock while cleaning the classroom.",
+            "sent4": "She was like a janitor, tidying up the mess of broken promises.",
+            "sent5": "The janitor's keychain jingled as he walked down the corridor."
         },
         {
             "definition": "To clean or maintain a building as a janitor.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He will janitor the office after everyone leaves.",
+            "sent2": "She janitors the entire apartment complex on weekends.",
+            "sent3": "I need to janitor my room before guests arrive.",
+            "sent4": "The team will janitor the stadium before the big game.",
+            "sent5": "They janitor the school gymnasium every summer break."
         }
     ]
 }

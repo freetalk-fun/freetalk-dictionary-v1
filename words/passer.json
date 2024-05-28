@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A person who passes by or through a place.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The passer walked quickly past the park.",
+            "sent2": "The passer waved as they strolled by the store.",
+            "sent3": "The passer accidentally bumped into a sign while looking at their phone.",
+            "sent4": "The passer of the torch handed it off smoothly to the next runner.",
+            "sent5": "The passer in the crowd stood out with their bright red hat."
         },
         {
             "definition": "A player who throws or hands the ball to a teammate in sports.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The football passer made a perfect throw to the receiver.",
+            "sent2": "The basketball passer assisted in scoring a goal with a great pass.",
+            "sent3": "The baseball passer pretended to throw the ball to confuse the opponent.",
+            "sent4": "The soccer passer skillfully maneuvered the ball past the defenders.",
+            "sent5": "The volleyball passer set up the perfect spike for their teammate."
         },
         {
             "definition": "A document or ticket that allows a person to pass through a gate or enter a building.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The security guard checked the passer's ticket before letting them in.",
+            "sent2": "The airport passer quickly showed their boarding pass and proceeded to the gate.",
+            "sent3": "The museum passer accidentally dropped their ticket and had to retrieve it.",
+            "sent4": "The event passer held up the VIP pass to gain exclusive access.",
+            "sent5": "The theater passer smoothly scanned their ticket and entered the auditorium."
         }
     ]
 }

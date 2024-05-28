@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A suffix forming nouns that refer to a state or condition (e.g. kingdom, freedom).",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "In wisdom, there is great wis-dom.",
+            "sent2": "The king ruled over his king-dom with fairness.",
+            "sent3": "The land of boredom was ruled by a sleepy king.",
+            "sent4": "Her happiness was a shining beacon in the dark dom of sadness.",
+            "sent5": "The dom of peace enveloped the war-torn land like a warm blanket."
         },
         {
             "definition": "A suffix forming nouns that refer to a realm or domain (e.g. Christendom, fandom).",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The fan's fan-dom for the team was unwavering.",
+            "sent2": "In the vast dom of the internet, she found her community.",
+            "sent3": "The cat declared itself ruler of the cardboard box dom.",
+            "sent4": "Her love for music created a colorful dom of melodies in her mind.",
+            "sent5": "The dom of imagination knows no bounds."
         },
         {
             "definition": "A suffix forming nouns that refer to a system or institution (e.g. feudalism, capitalism).",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The capi-dom of the city controlled the flow of money.",
+            "sent2": "Feu-dom was a social structure based on loyalty and land ownership.",
+            "sent3": "The school's detention dom was a place of quiet reflection.",
+            "sent4": "In the dom of fashion, trends come and go like the changing seasons.",
+            "sent5": "The dom of law ensured justice for all."
         }
     ]
 }

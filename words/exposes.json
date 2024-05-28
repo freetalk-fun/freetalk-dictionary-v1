@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Make (something) visible, typically by uncovering it.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The sun exposes the hidden treasure in the sand.",
+            "sent2": "The detective exposes the criminal's hiding place.",
+            "sent3": "The magician's trick exposes how the rabbit disappears.",
+            "sent4": "The storm exposes the vulnerability of the old house.",
+            "sent5": "The flashlight exposes the dark corners of the room."
         },
         {
             "definition": "Reveal the true nature of (someone or something).",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The documentary exposes the harsh reality of poverty.",
+            "sent2": "The investigation exposes the dishonesty of the politician.",
+            "sent3": "The comedy show exposes the silliness of everyday life.",
+            "sent4": "The mirror exposes the flaws we try to hide.",
+            "sent5": "The test exposes the student's true knowledge."
         },
         {
             "definition": "Subject (someone or something) to an action or influence.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The medicine exposes the patient to potential side effects.",
+            "sent2": "The experiment exposes the plant to different light conditions.",
+            "sent3": "The game exposes players to new challenges.",
+            "sent4": "The training exposes employees to innovative techniques.",
+            "sent5": "The journey exposes travelers to diverse cultures."
         }
     ]
 }

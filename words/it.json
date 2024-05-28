@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Used to refer to a thing previously mentioned or easily identified.",
-            "pos": "pronoun"
+            "pos": "pronoun",
+            "sent1": "I saw the book on the table, and it was very interesting.",
+            "sent2": "When the cat saw the mouse, it pounced quickly.",
+            "sent3": "The pencil rolled off the desk, and it seemed to have a mind of its own.",
+            "sent4": "The wind carried the kite high up into the sky, making it dance gracefully.",
+            "sent5": "The sun shone brightly, making it a perfect day for a picnic."
         },
         {
             "definition": "Used to represent a situation or circumstance.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "When the storm hit, it caused a lot of damage to the houses.",
+            "sent2": "After the long journey, it was finally time to rest.",
+            "sent3": "The party was so fun, it felt like a dream.",
+            "sent4": "The news hit him hard, making it difficult to process.",
+            "sent5": "The silence in the room made it awkward for everyone."
         },
         {
             "definition": "Used to refer to an action or event.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "When the bell rang, it signaled the end of class.",
+            "sent2": "As the clock struck midnight, it marked the beginning of a new day.",
+            "sent3": "The concert was so loud, it made it hard to hear anything else.",
+            "sent4": "The explosion shook the ground, making it feel like an earthquake.",
+            "sent5": "The applause filled the room, making it a memorable performance."
         }
     ]
 }

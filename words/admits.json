@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To allow to enter; grant entry",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The kind teacher admits the students into the classroom every morning.",
+            "sent2": "The security guard admits visitors into the building after checking their IDs.",
+            "sent3": "The door admits the sunlight into the room, making it warm and cozy.",
+            "sent4": "The key finally admits the lock's request to turn and open the door.",
+            "sent5": "The gate admits only those with the secret code, keeping intruders out."
         },
         {
             "definition": "To acknowledge the truth or existence of",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She admits that she was wrong about the answer to the math problem.",
+            "sent2": "He admits the beauty of the sunset as it paints the sky in vibrant colors.",
+            "sent3": "The cat admits defeat when the dog catches the toy first during playtime.",
+            "sent4": "The mirror admits the reflection of the person standing in front of it.",
+            "sent5": "The scientist admits the importance of conducting experiments to learn new things."
         },
         {
             "definition": "To confess to be true or to be the case",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The suspect admits to stealing the cookies from the jar.",
+            "sent2": "She admits her love for chocolate by always having a stash in her drawer.",
+            "sent3": "The child admits to being the one who broke the vase while playing ball indoors.",
+            "sent4": "The student admits to forgetting about the homework assignment due today.",
+            "sent5": "He admits to feeling nervous before giving a speech in front of the class."
         }
     ]
 }

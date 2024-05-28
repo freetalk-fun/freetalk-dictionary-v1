@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Ob: used to indicate opposition or contradiction",
-            "pos": "conjunction"
+            "pos": "conjunction",
+            "sent1": "She wanted to go to the park, ob her brother insisted on going to the zoo.",
+            "sent2": "I like ice cream, ob my sister prefers cake.",
+            "sent3": "The cat wanted to play outside, ob the dog wanted to nap.",
+            "sent4": "His actions spoke louder than words, ob his words were full of promises.",
+            "sent5": "The sun was shining brightly, ob the clouds quickly covered it."
         },
         {
             "definition": "Ob: a prefix meaning 'toward' or 'against'",
-            "pos": "prefix"
+            "pos": "prefix",
+            "sent1": "The car moved ob the finish line with great speed.",
+            "sent2": "She leaned ob the door to listen carefully.",
+            "sent3": "The students worked ob the project together.",
+            "sent4": "The army marched ob the enemy's stronghold.",
+            "sent5": "The river flowed ob the mountains, carrying debris with it."
         },
         {
             "definition": "Ob: a slang term for an objection or complaint",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "He raised an ob about the unfair treatment.",
+            "sent2": "She had a valid ob about the late delivery.",
+            "sent3": "The customer's ob was quickly resolved by the manager.",
+            "sent4": "The ob from the team led to a change in the rules.",
+            "sent5": "Her ob was heard and taken into consideration by the committee."
         }
     ]
 }

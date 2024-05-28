@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Having the effect of inverting or reversing something.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The inversive process turned the colors upside down.",
+            "sent2": "The mirror showed an inversive reflection of the room.",
+            "sent3": "The magician's hat had an inversive trick that made the rabbit disappear and reappear.",
+            "sent4": "Her laughter had an inversive effect, turning his frown into a smile.",
+            "sent5": "The inversive potion transformed the frog into a prince."
         },
         {
             "definition": "A mathematical operation that reverses the order of elements in a set.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Inversive is used in mathematics to reverse the sequence of numbers.",
+            "sent2": "The inversive of the set {1, 2, 3} is {3, 2, 1}.",
+            "sent3": "The student's mistake in the test was to forget the inversive of the equation.",
+            "sent4": "The inversive function rearranged the elements in a different order.",
+            "sent5": "Understanding the concept of inversive is crucial in solving this problem."
         },
         {
             "definition": "A transformation that changes the orientation of an object.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The artist used an inversive to rotate the sculpture in a new direction.",
+            "sent2": "The inversive of the image made it appear upside down.",
+            "sent3": "The inversive of the map confused the travelers, making them go in the wrong direction.",
+            "sent4": "The storm had an inversive effect on the landscape, altering its appearance.",
+            "sent5": "The inversive of the clock hands made it look like time was running backward."
         }
     ]
 }

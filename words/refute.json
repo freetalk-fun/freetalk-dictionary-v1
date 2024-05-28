@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Prove (a statement or theory) to be wrong or false.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She used facts to refute his claim.",
+            "sent2": "The scientist was able to refute the outdated theory.",
+            "sent3": "The detective tried to refute the suspect's alibi.",
+            "sent4": "Her actions refuted any doubts about her honesty.",
+            "sent5": "The clear evidence served to effectively refute his argument."
         },
         {
             "definition": "Disprove (an argument or theory) by evidence or argument.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The experiment results helped to refute the hypothesis.",
+            "sent2": "The lawyer was able to refute the opposing counsel's claims.",
+            "sent3": "The magician tried to refute the audience's skepticism.",
+            "sent4": "His research findings refuted the commonly held belief.",
+            "sent5": "The data presented was enough to effectively refute the theory."
         },
         {
             "definition": "Deny or contradict (a statement or accusation).",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He tried to refute the rumors about him.",
+            "sent2": "She was able to refute the false allegations against her.",
+            "sent3": "The comedian tried to refute the audience's laughter.",
+            "sent4": "His actions seemed to refute his earlier denial.",
+            "sent5": "The witness's testimony helped to effectively refute the accusation."
         }
     ]
 }

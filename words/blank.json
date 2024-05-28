@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "(adj.) Not marked or filled in",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The test paper had a blank space for my name.",
+            "sent2": "She stared at the blank canvas, unsure of what to paint.",
+            "sent3": "The magician pulled a blank card out of his hat, surprising the audience.",
+            "sent4": "His mind felt as blank as a white sheet of paper, unable to come up with any ideas.",
+            "sent5": "The room was so quiet, it felt like a blank page waiting to be filled with sound."
         },
         {
             "definition": "(n.) A space left empty for writing or drawing",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Please fill in the blank with your answer.",
+            "sent2": "She doodled in the blank margins of her notebook during the meeting.",
+            "sent3": "The artist left a blank in the painting, creating a sense of mystery.",
+            "sent4": "The blank on the form seemed to stare back at him, demanding to be completed.",
+            "sent5": "The teacher asked the students to complete the blanks in the story with their own words."
         },
         {
             "definition": "(v.) To cover or obscure something with a blank surface",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He tried to blank out the graffiti on the wall with white paint.",
+            "sent2": "The snowfall blanketed the city in a layer of white.",
+            "sent3": "She accidentally blanked the important message with a swipe of her hand.",
+            "sent4": "The fog blanketed the valley, hiding everything from view.",
+            "sent5": "The darkness of the night blanketed the landscape, making it hard to see."
         }
     ]
 }

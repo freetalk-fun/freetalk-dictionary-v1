@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A particular time or instance of an event.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "On the special occasion of her birthday, she received many gifts.",
+            "sent2": "The wedding was a joyous occasion for the entire family.",
+            "sent3": "It was a rare occasion to see all the siblings together in one place.",
+            "sent4": "The graduation ceremony was an occasion filled with pride and accomplishment.",
+            "sent5": "The holiday season is always a festive occasion for everyone."
         },
         {
             "definition": "A reason or cause for doing something.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "His lack of experience was the occasion for his nervousness during the presentation.",
+            "sent2": "The poor weather was the occasion for the cancellation of the outdoor event.",
+            "sent3": "Forgetting his lines was the occasion for much laughter from the audience.",
+            "sent4": "The unexpected arrival of guests was the occasion for a quick clean-up of the house.",
+            "sent5": "The broken oven was the occasion for ordering takeout for dinner."
         },
         {
             "definition": "An opportunity or suitable time for doing something.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "She took the occasion to thank everyone for their hard work.",
+            "sent2": "The long weekend provided the perfect occasion for a road trip.",
+            "sent3": "The power outage was an occasion to bond over board games by candlelight.",
+            "sent4": "The delay in the meeting was an occasion to catch up on emails.",
+            "sent5": "The arrival of the new year is an occasion to reflect on the past and plan for the future."
         }
     ]
 }

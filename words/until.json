@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Up to the point in time that",
-            "pos": "preposition"
+            "pos": "preposition",
+            "sent1": "I will wait until you finish your homework.",
+            "sent2": "We can't leave until the rain stops.",
+            "sent3": "I'll keep dancing until the cows come home!",
+            "sent4": "Her patience lasted until the last grain of sand fell.",
+            "sent5": "The suspense built until the final moment of the movie."
         },
         {
             "definition": "Before (a specified time)",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "She didn't eat breakfast until noon.",
+            "sent2": "They couldn't start the game until everyone arrived.",
+            "sent3": "He joked that he wouldn't wake up until pigs fly.",
+            "sent4": "The secret was safe until the truth finally came out.",
+            "sent5": "The excitement grew until the clock struck midnight."
         }
     ]
 }

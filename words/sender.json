@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "One who sends.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The sender of the letter put it in the mailbox.",
+            "sent2": "The sender of the gift was my friend.",
+            "sent3": "The sender of the message forgot to sign their name.",
+            "sent4": "The sender of the invitation spread joy to all recipients.",
+            "sent5": "The sender of the email clicked 'send' eagerly."
         },
         {
             "definition": "A person or organization that sends a message or package.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The sender of the parcel included a lovely note.",
+            "sent2": "The sender of the email was the marketing team.",
+            "sent3": "The sender of the package used colorful wrapping paper.",
+            "sent4": "The sender of the text message was unknown.",
+            "sent5": "The sender of the letter had neat handwriting."
         },
         {
             "definition": "The transmitter of a message or signal.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The radio tower acts as the sender of the broadcast.",
+            "sent2": "The sender of the signal was located in the control room.",
+            "sent3": "The sender of the radio waves was a mystery to the scientists.",
+            "sent4": "The sender of the transmission ensured clear communication.",
+            "sent5": "The sender of the Morse code tapped out a secret message."
         }
     ]
 }

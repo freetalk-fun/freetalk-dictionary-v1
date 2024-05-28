@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Probably: used to indicate the likelihood of something happening or being true.",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "She will prob arrive late to the party.",
+            "sent2": "It will prob rain tomorrow.",
+            "sent3": "He is so slow, he will prob get there after everyone leaves.",
+            "sent4": "The chances of winning the lottery are as slim as her prob showing up on time.",
+            "sent5": "The teacher's prediction was spot on, as she prob knew the outcome in advance."
         },
         {
             "definition": "Probability: the likelihood of something happening or being true.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The prob of winning the game is low.",
+            "sent2": "There is a high prob of success with this plan.",
+            "sent3": "The prob of finding a four-leaf clover is like searching for a needle in a haystack.",
+            "sent4": "The prob of encountering a unicorn is as likely as winning the lottery.",
+            "sent5": "The prob of passing the test increased after studying diligently."
         },
         {
             "definition": "Probable: likely to happen or be true.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "It is prob that she will attend the event.",
+            "sent2": "The storm clouds make it prob that it will rain soon.",
+            "sent3": "His excuse for being late was so ridiculous, it was prob the dog ate his homework.",
+            "sent4": "The prob outcome of the experiment was exactly as predicted.",
+            "sent5": "The detective found the most prob suspect based on the evidence."
         }
     ]
 }

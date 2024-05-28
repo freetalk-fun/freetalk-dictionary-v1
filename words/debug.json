@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To remove errors or defects from (a computer program)",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I need to debug my code to fix the problem.",
+            "sent2": "Programmers often debug their software before releasing it.",
+            "sent3": "Why did the computer go to therapy? To debug its issues!",
+            "sent4": "Debugging code is like finding a needle in a haystack.",
+            "sent5": "She used her debugging skills to save the project from crashing."
         },
         {
             "definition": "To identify and remove errors from (a system or process)",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The IT team will debug the network to improve performance.",
+            "sent2": "Engineers debugged the manufacturing process to increase efficiency.",
+            "sent3": "Why did the robot break up with the computer? It couldn't handle the debugging!",
+            "sent4": "Debugging a complex system is like untangling a knot.",
+            "sent5": "He debugged the problem swiftly to prevent any further issues."
         }
     ]
 }

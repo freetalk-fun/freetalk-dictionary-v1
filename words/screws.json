@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A metal fastener with a helical ridge, used to join objects together by being rotated.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I needed screws to fix the loose shelf in my room.",
+            "sent2": "The carpenter used screws to secure the wooden planks together.",
+            "sent3": "Why did the screws refuse to hold the shelf up? They must be on strike!",
+            "sent4": "The screws of friendship hold us together through thick and thin.",
+            "sent5": "The shiny screws gleamed under the bright light of the workshop."
         },
         {
             "definition": "To tighten or fasten with a screw.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He carefully screws the lid onto the jar to keep the cookies fresh.",
+            "sent2": "She screws the bulb into the lamp socket to light up the room.",
+            "sent3": "Why did the chef screw up the recipe by adding too much salt?",
+            "sent4": "The storm screws the waves into a frenzy, crashing against the shore.",
+            "sent5": "She screws her face into a frown when she hears the bad news."
         },
         {
             "definition": "A prison guard.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The screws patrol the prison corridors to ensure security.",
+            "sent2": "The new screws were trained on how to handle the inmates.",
+            "sent3": "Why did the screws play hide-and-seek with the prisoners? It's not their job!",
+            "sent4": "The screws keep a watchful eye on the inmates, ready to intervene if needed.",
+            "sent5": "The clinking of keys announces the arrival of the screws for their shift."
         }
     ]
 }

@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Hares: plural of hare",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The field was filled with hares hopping around.",
+            "sent2": "I saw a family of hares in the meadow.",
+            "sent3": "The hares played hide and seek in the tall grass.",
+            "sent4": "The hares darted across the field like lightning.",
+            "sent5": "The hares' soft fur shimmered in the sunlight."
         },
         {
             "definition": "Hares: third person singular present of hare",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She hares through the forest every morning.",
+            "sent2": "He hares to catch the bus before it leaves.",
+            "sent3": "The squirrel challenged the hare to a race.",
+            "sent4": "Time hares away when you're having fun.",
+            "sent5": "The wind hares through the trees, rustling the leaves."
         }
     ]
 }

@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A person or thing that precedes or comes before; forerunner",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The chirping of birds in the morning is a herald of the new day.",
+            "sent2": "The first snowflake was a herald of the approaching winter.",
+            "sent3": "The blooming flowers were the heralds of spring's arrival.",
+            "sent4": "The distant sound of thunder acted as a herald for the approaching storm.",
+            "sent5": "The distant sound of thunder acted as a herald for the approaching storm."
         },
         {
             "definition": "A person who announces important news or events; messenger",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The herald rode into the village, carrying news of the king's victory.",
+            "sent2": "The herald's trumpet sounded, signaling the start of the ceremony.",
+            "sent3": "The herald's colorful attire caught everyone's attention as he delivered the news.",
+            "sent4": "The herald's voice echoed through the halls, announcing the arrival of the guests.",
+            "sent5": "The herald's voice echoed through the halls, announcing the arrival of the guests."
         },
         {
             "definition": "To announce or proclaim; to signal the coming of something",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The church bells heralded the beginning of the wedding ceremony.",
+            "sent2": "The dark clouds heralded the arrival of a summer storm.",
+            "sent3": "The loud music heralded the start of the party.",
+            "sent4": "The ringing phone heralded the news of a long-lost friend calling.",
+            "sent5": "The ringing phone heralded the news of a long-lost friend calling."
         }
     ]
 }

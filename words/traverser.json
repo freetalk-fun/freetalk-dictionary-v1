@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A person or thing that traverses or crosses over a place or obstacle.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The brave traverser crossed the river on a shaky bridge.",
+            "sent2": "The hiker was a skilled traverser of the mountain trails.",
+            "sent3": "The little squirrel became a traverser of the backyard fence.",
+            "sent4": "The migratory birds were expert traversers of the vast sky.",
+            "sent5": "The determined ant was a tiny but mighty traverser of the kitchen floor."
         },
         {
             "definition": "To pass or move over, along, or through.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The cat tried to traverser the narrow ledge without falling.",
+            "sent2": "The car will traverser the bridge to reach the other side of the city.",
+            "sent3": "The balloon traversered through the clouds, enjoying the view from above.",
+            "sent4": "Her thoughts traversered various memories before settling on a decision.",
+            "sent5": "The river traversered the forest, carving its path through the trees."
         }
     ]
 }

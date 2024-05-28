@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "The state of something with regard to its appearance, quality, or working order.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The old car was in poor condition, with rust covering the entire body.",
+            "sent2": "The doctor checked the patient's condition and prescribed medication.",
+            "sent3": "The cat's playful condition made it chase after the laser pointer endlessly.",
+            "sent4": "Her love for him was in a fragile condition, like a delicate glass sculpture.",
+            "sent5": "The abandoned house was in such a dilapidated condition that it was deemed unsafe to enter."
         },
         {
             "definition": "A restriction or limitation on the way in which something can be done or used.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The terms and conditions of the contract were clearly outlined.",
+            "sent2": "The teacher imposed a strict condition on using electronic devices in class.",
+            "sent3": "The condition of no dessert until finishing dinner was met with pouts from the children.",
+            "sent4": "The condition of silence in the library was broken by a loud sneeze.",
+            "sent5": "The condition of having to wear a helmet while biking ensured safety for the riders."
         },
         {
             "definition": "A situation that must exist before something else is possible or permitted.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The condition for entry to the club was wearing formal attire.",
+            "sent2": "The job offer was contingent on the condition of passing a background check.",
+            "sent3": "The condition of finishing homework before watching TV was a daily struggle for the student.",
+            "sent4": "The condition of having enough funds determined whether they could go on vacation.",
+            "sent5": "The condition of having a valid ticket allowed access to the concert venue."
         }
     ]
 }

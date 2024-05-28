@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "past tense of send",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Yesterday, she sents a letter to her friend.",
+            "sent2": "He sents the package through the mail.",
+            "sent3": "The pigeon sents a message to its mate.",
+            "sent4": "The wind sents the leaves swirling in the air.",
+            "sent5": "The teacher sents the students home early due to the storm."
         },
         {
             "definition": "plural of sent",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The post office received many sents today.",
+            "sent2": "The museum displayed historical sents from the war.",
+            "sent3": "She collected stamps from different countries as sents.",
+            "sent4": "The library has a collection of old sents from famous authors.",
+            "sent5": "The package contained various sents from different cultures."
         },
         {
             "definition": "third person singular present of sent",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He sents a message to his colleague every morning.",
+            "sent2": "The bird sents signals to its flock using chirps.",
+            "sent3": "The cat sents its owner to fetch its favorite toy.",
+            "sent4": "The alarm clock sents a loud ring to wake him up.",
+            "sent5": "The lighthouse sents a beam of light to guide ships at night."
         }
     ]
 }

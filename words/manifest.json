@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Clear or obvious to the eye or mind",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The bright stars were manifest in the night sky.",
+            "sent2": "The happiness on her face was manifest to everyone around.",
+            "sent3": "It was manifest that the cat had stolen the treat with its guilty look.",
+            "sent4": "The excitement in the air was manifest, like a tangible force.",
+            "sent5": "The smell of fresh bread was manifest as soon as you entered the bakery."
         },
         {
             "definition": "Display or show (a quality or feeling) by one's acts or appearance",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She tried to manifest her love for him through small gestures.",
+            "sent2": "His frustration manifested in a loud outburst.",
+            "sent3": "The magician could manifest a rabbit out of an empty hat.",
+            "sent4": "The tension between them manifested like a storm brewing.",
+            "sent5": "Her talent for painting manifested in every stroke of the brush."
         },
         {
             "definition": "A list of passengers or cargo on a ship or plane",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The captain checked the manifest before setting sail.",
+            "sent2": "The manifest listed all the items loaded onto the plane.",
+            "sent3": "The manifest revealed a surprise passenger hiding in the cargo hold.",
+            "sent4": "The manifest was like a roadmap for the journey ahead.",
+            "sent5": "The manifest was crucial for keeping track of all the passengers on board."
         }
     ]
 }

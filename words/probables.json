@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Likely to happen or be true",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The sunny weather makes a picnic seem probables.",
+            "sent2": "The teacher said it was probables that the test would be easy.",
+            "sent3": "It's probables that the cat will chase its own tail.",
+            "sent4": "The probables outcome of the game was a tie.",
+            "sent5": "The dark clouds made rain probables."
         },
         {
             "definition": "A person or thing that is likely to be chosen or succeed",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Among the candidates, she was one of the probables for the job.",
+            "sent2": "The coach considered him one of the probables for the team captain.",
+            "sent3": "The probables for the lead role in the play were all talented actors.",
+            "sent4": "She stood out as one of the probables for the scholarship.",
+            "sent5": "The probables for the award were announced at the ceremony."
         }
     ]
 }

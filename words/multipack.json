@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A package containing multiple items",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I bought a multipack of pencils for school.",
+            "sent2": "The store sells a multipack of snacks for a better value.",
+            "sent3": "Carrying a multipack of water bottles can be heavy but convenient.",
+            "sent4": "Her laughter was like opening a multipack of joy.",
+            "sent5": "The multipack of colorful markers caught my eye immediately."
         },
         {
             "definition": "To package multiple items together for sale or distribution",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The company will multipack the candies before shipping them out.",
+            "sent2": "We need to multipack the products to save time during packaging.",
+            "sent3": "I accidentally multipacked my socks with my friend's laundry.",
+            "sent4": "She multipacked her thoughts into a coherent presentation.",
+            "sent5": "The team decided to multipack the items for easier distribution."
         }
     ]
 }

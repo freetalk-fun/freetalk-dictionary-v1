@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "By that means",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "She saved money and thereby bought a new book.",
+            "sent2": "He studied hard and thereby passed the exam.",
+            "sent3": "The cat knocked over the vase, thereby creating a mess.",
+            "sent4": "The sun set, thereby signaling the end of the day.",
+            "sent5": "The chef added spices, thereby enhancing the flavor of the dish."
         },
         {
             "definition": "In consequence of that",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "She missed the bus and thereby arrived late to work.",
+            "sent2": "He forgot his umbrella and thereby got soaked in the rain.",
+            "sent3": "The dog barked loudly, thereby scaring away the birds.",
+            "sent4": "The wind picked up speed, thereby causing the trees to sway.",
+            "sent5": "The team won the game, thereby securing their spot in the finals."
         }
     ]
 }

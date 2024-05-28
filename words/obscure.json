@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Not clear or easily understood.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The writing on the old map was so obscure that I couldn't read it.",
+            "sent2": "The meaning of the ancient text was obscure to the modern reader.",
+            "sent3": "The teacher's explanation was so obscure that the students couldn't follow along.",
+            "sent4": "The fog was so thick that it obscured the view of the mountains in the distance.",
+            "sent5": "The mysterious figure in the shadows remained obscure, leaving us wondering who it was."
         },
         {
             "definition": "To conceal or make unclear.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She tried to obscure her identity by wearing a disguise.",
+            "sent2": "The suspect attempted to obscure the evidence of the crime.",
+            "sent3": "The magician used smoke and mirrors to obscure the audience's view.",
+            "sent4": "The bright light from the sun obscured the details of the painting.",
+            "sent5": "The dense forest vegetation obscured the path, making it hard to find our way."
         },
         {
             "definition": "To darken or make dim.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The storm clouds started to obscure the sun, casting a shadow over the field.",
+            "sent2": "The thick curtains were drawn to obscure the bright streetlights outside.",
+            "sent3": "The artist used a special technique to obscure the colors in the painting, creating a unique effect.",
+            "sent4": "The heavy fog began to obscure the outlines of the buildings in the city.",
+            "sent5": "As the day turned to night, the darkness slowly obscured the landscape, making it hard to see."
         }
     ]
 }

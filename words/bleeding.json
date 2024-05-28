@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "(verb) to lose blood",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She was bleeding after the fall.",
+            "sent2": "The wound was bleeding heavily.",
+            "sent3": "The strawberry was bleeding juice when she bit into it.",
+            "sent4": "The sunset painted the sky with bleeding colors.",
+            "sent5": "The tree was bleeding sap from the cut branch."
         },
         {
             "definition": "(adjective) causing or involving the loss of blood",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The bleeding wound needed immediate attention.",
+            "sent2": "The bleeding patient was rushed to the emergency room.",
+            "sent3": "The bleeding cake left a trail of red frosting on the table.",
+            "sent4": "The bleeding heart plant added a touch of red to the garden.",
+            "sent5": "The bleeding nose made him feel dizzy."
         },
         {
             "definition": "(adverb) used as an intensifier, typically expressing annoyance or emphasis",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "She was bleeding annoyed by his constant interruptions.",
+            "sent2": "He was bleeding tired after a long day at work.",
+            "sent3": "The cat was bleeding determined to catch the elusive mouse.",
+            "sent4": "The storm was bleeding loud, rattling the windows.",
+            "sent5": "The teacher was bleeding strict about homework deadlines."
         }
     ]
 }

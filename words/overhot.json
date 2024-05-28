@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Excessively hot",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The overhot sun made the playground unbearable for the children.",
+            "sent2": "The coffee was overhot, so I had to wait for it to cool down before drinking.",
+            "sent3": "The overhot pavement made the ice cream melt faster than expected.",
+            "sent4": "Her cheeks turned overhot with embarrassment when she realized her mistake.",
+            "sent5": "The overhot metal handle burned my hand when I touched it."
         },
         {
             "definition": "To heat to an excessive degree",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Please do not overhot the soup, or it will burn.",
+            "sent2": "She accidentally overhot the iron and scorched her favorite shirt.",
+            "sent3": "The chef overhot the pan, causing the food to stick and burn.",
+            "sent4": "He overhot the engine, leading to a breakdown on the highway.",
+            "sent5": "The instructions clearly stated not to overhot the mixture to avoid ruining the experiment."
         },
         {
             "definition": "To become too hot",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The tea started to overhot after being left on the stove for too long.",
+            "sent2": "The room began to overhot as the heater malfunctioned.",
+            "sent3": "The cake seemed to overhot in the oven, filling the kitchen with a burnt smell.",
+            "sent4": "The laptop battery tends to overhot if used continuously for hours.",
+            "sent5": "The car engine can overhot if the coolant levels are not checked regularly."
         }
     ]
 }

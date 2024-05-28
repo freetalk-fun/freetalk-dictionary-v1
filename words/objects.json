@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A material thing that can be seen and touched.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The shiny objects on the table caught my eye.",
+            "sent2": "She collected various objects during her travels.",
+            "sent3": "The mischievous cat batted the objects off the shelf.",
+            "sent4": "Her smile was as bright as the objects in the display window.",
+            "sent5": "The objects in the museum were carefully preserved for generations to admire."
         },
         {
             "definition": "A person or thing to which a specified action or feeling is directed.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "He considered her the object of his affection.",
+            "sent2": "The teacher made the student the object of praise.",
+            "sent3": "The object of their game was to reach the finish line first.",
+            "sent4": "She became the object of envy among her peers.",
+            "sent5": "The object of his desire was always just out of reach."
         },
         {
             "definition": "A goal or purpose.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Her main object was to finish the race.",
+            "sent2": "The object of the meeting was to discuss the new project.",
+            "sent3": "His object in life was to make a positive impact on others.",
+            "sent4": "The object of the mission was to bring back valuable data.",
+            "sent5": "Their object was to create a peaceful and harmonious community."
         }
     ]
 }

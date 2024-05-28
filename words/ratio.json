@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "The quantitative relation between two amounts showing the number of times one value contains or is contained within the other.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The ratio of apples to oranges in the basket was 2:3.",
+            "sent2": "She mixed paint in a 1:2 ratio of blue to white.",
+            "sent3": "The chef's secret sauce had a ratio of spices that made it irresistible.",
+            "sent4": "In the world of fashion, the ratio of style to comfort is often a delicate balance.",
+            "sent5": "The ratio of laughter to tears in the comedy show was perfect."
         },
         {
             "definition": "A relationship between two numbers indicating how many times the first number contains the second.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The ratio of 10 to 5 is 2.",
+            "sent2": "The teacher explained the concept of ratio using simple examples.",
+            "sent3": "The ratio of cats to dogs in the neighborhood was surprisingly equal.",
+            "sent4": "Her passion for music had a ratio of dedication that inspired others.",
+            "sent5": "The ratio of goals scored to games played determined the team's success."
         }
     ]
 }

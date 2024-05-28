@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A competition or game in which people or teams compete against each other.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The school held a contest to see who could run the fastest.",
+            "sent2": "She won first place in the singing contest.",
+            "sent3": "The contest for the best Halloween costume was fierce.",
+            "sent4": "The contest between the two siblings for the last cookie was intense.",
+            "sent5": "The spelling contest was a great opportunity to show off her skills."
         },
         {
             "definition": "To engage in a competition or rivalry.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "They will contest in the final round of the tournament.",
+            "sent2": "The two friends decided to contest in a friendly game of chess.",
+            "sent3": "He likes to contest with his brother over who can finish their chores first.",
+            "sent4": "The athletes will contest for the gold medal in the upcoming race.",
+            "sent5": "She will contest against the reigning champion in the tennis match."
         },
         {
             "definition": "To challenge or dispute.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She plans to contest the decision made by the committee.",
+            "sent2": "The lawyer will contest the evidence presented in court.",
+            "sent3": "He likes to contest his friends' opinions just for fun.",
+            "sent4": "The siblings often contest each other's choices in movies.",
+            "sent5": "The student will contest the grade given by the teacher for the essay."
         }
     ]
 }

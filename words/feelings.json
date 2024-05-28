@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "An emotional state or reaction",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Her feelings were hurt when her friend didn't invite her to the party.",
+            "sent2": "I have so many feelings about this movie; it made me cry and laugh.",
+            "sent3": "His feelings about broccoli are quite strong; he thinks it's the worst vegetable.",
+            "sent4": "The storm outside mirrored the turbulent feelings raging within her.",
+            "sent5": "The painting captured the feelings of loneliness perfectly, making viewers empathize."
         },
         {
             "definition": "Sensations experienced through touch",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The soft fur of the kitten gave her warm feelings of comfort.",
+            "sent2": "The rough texture of the sandpaper caused unpleasant feelings on his fingertips.",
+            "sent3": "The feelings of the fluffy blanket against his skin made him want to stay in bed all day.",
+            "sent4": "The icy cold water sent shivers of strange feelings down her spine.",
+            "sent5": "The warm embrace of a hug can evoke feelings of safety and love."
         },
         {
             "definition": "Beliefs or opinions about something or someone",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Her feelings about the new policy were clear; she disagreed with it completely.",
+            "sent2": "My feelings towards him have changed after hearing his side of the story.",
+            "sent3": "His feelings about pineapple on pizza are quite controversial among his friends.",
+            "sent4": "The community's feelings on the matter were divided, leading to heated discussions.",
+            "sent5": "The teacher's feelings about the student's potential were optimistic and encouraging."
         }
     ]
 }

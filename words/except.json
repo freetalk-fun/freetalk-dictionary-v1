@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Not including; other than",
-            "pos": "preposition"
+            "pos": "preposition",
+            "sent1": "I like all fruits except bananas.",
+            "sent2": "Everyone is going to the party except for Sarah.",
+            "sent3": "The picnic was perfect except for the sudden rain.",
+            "sent4": "His smile lit up the room, except for his eyes which held a hint of sadness.",
+            "sent5": "The forest was peaceful, except for the occasional rustling of leaves."
         },
         {
             "definition": "With the exclusion of",
-            "pos": "preposition"
+            "pos": "preposition",
+            "sent1": "She cleaned the entire house except the attic.",
+            "sent2": "All the students passed the test except John.",
+            "sent3": "The cake was delicious except for the burnt edges.",
+            "sent4": "The garden was beautiful, except for the wilting flowers.",
+            "sent5": "The room was silent, except for the ticking of the clock."
         },
         {
             "definition": "To object or take exception to",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He always excepts when it comes to sharing his toys.",
+            "sent2": "She never excepts any criticism of her work.",
+            "sent3": "The cat excepted loudly when the vet tried to give it a shot.",
+            "sent4": "The child excepted vehemently to going to bed early.",
+            "sent5": "The dog excepted by barking at the mailman every morning."
         }
     ]
 }

@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To make smaller or less significant in comparison.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The large tree bedwarfs the tiny flower next to it.",
+            "sent2": "The big mountain bedwarfs the small hill beside it.",
+            "sent3": "The giant cake bedwarfs the tiny cupcake on the table.",
+            "sent4": "The massive building bedwarfs the small shed nearby.",
+            "sent5": "The huge elephant bedwarfs the tiny mouse in the room."
         },
         {
             "definition": "To overshadow or dominate in size or importance.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The bright sun bedwarfs the dim stars in the sky.",
+            "sent2": "The loud thunder bedwarfs the soft rain outside.",
+            "sent3": "The big umbrella bedwarfs the small raindrop falling.",
+            "sent4": "The powerful lion bedwarfs the timid rabbit in the forest.",
+            "sent5": "The grand castle bedwarfs the humble cottage nearby."
         }
     ]
 }

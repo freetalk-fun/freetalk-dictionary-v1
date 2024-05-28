@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Feel sad, repentant, or disappointed over (something that has happened or been done, especially a loss or missed opportunity)",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She regretted not studying for the test.",
+            "sent2": "He regretted missing the bus to work.",
+            "sent3": "The cat regretted knocking over the vase.",
+            "sent4": "The tree regretted losing its leaves in winter.",
+            "sent5": "The child regretted breaking the toy beyond repair."
         },
         {
             "definition": "Express disappointment over (something that one has done or failed to do)",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "They regretted not attending the party.",
+            "sent2": "She regretted not calling her friend on her birthday.",
+            "sent3": "The clown regretted dropping the pie on his face.",
+            "sent4": "The student regretted spilling ink on the assignment.",
+            "sent5": "He regretted forgetting his lines during the play."
         }
     ]
 }

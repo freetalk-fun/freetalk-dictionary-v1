@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "In addition to; also",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "Besides apples, I like oranges too.",
+            "sent2": "I enjoy swimming, besides running.",
+            "sent3": "The cat wanted to play, besides sleeping all day.",
+            "sent4": "His talent in painting shines, besides his skill in music.",
+            "sent5": "The garden was filled with colorful flowers, besides the fragrant roses."
         },
         {
             "definition": "Moreover; furthermore",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "Besides being smart, she is also kind.",
+            "sent2": "He is a great cook, besides being an excellent baker.",
+            "sent3": "The book was interesting, besides having a torn cover.",
+            "sent4": "The team won the game, besides facing tough competition.",
+            "sent5": "The movie was entertaining, besides having a predictable plot."
         },
         {
             "definition": "Apart from; except for",
-            "pos": "preposition"
+            "pos": "preposition",
+            "sent1": "Besides the rainy weather, the picnic was a success.",
+            "sent2": "She ate all the cookies, besides one.",
+            "sent3": "The dog ate everything, besides the bone.",
+            "sent4": "The room was empty, besides a small table.",
+            "sent5": "The park was quiet, besides the chirping birds."
         }
     ]
 }

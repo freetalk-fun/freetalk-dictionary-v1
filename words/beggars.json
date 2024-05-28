@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A person who begs for money or food.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The beggars on the street asked for spare change.",
+            "sent2": "The city had many beggars who relied on the kindness of others.",
+            "sent3": "The beggars in the park shared a laugh as they asked for help.",
+            "sent4": "The image of the beggars under the bridge haunted his dreams.",
+            "sent5": "The beggars' plea for help echoed through the alleyways."
         },
         {
             "definition": "To reduce someone to poverty.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The economic crisis beggars many families in the country.",
+            "sent2": "Unexpected medical bills can beggars even the most financially stable individuals.",
+            "sent3": "His reckless spending habits beggars belief.",
+            "sent4": "The natural disaster beggars the once thriving community.",
+            "sent5": "The loss of his job beggars him overnight."
         }
     ]
 }

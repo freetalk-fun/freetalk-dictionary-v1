@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A word that is more specific than a given word.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "In the sentence, 'poodle' is a hyponym of 'dog'.",
+            "sent2": "The hyponyms of 'fruit' include 'apple' and 'banana'.",
+            "sent3": "The detective quickly identified the hyponym 'poodle' in the suspect's alibi.",
+            "sent4": "Her love for animals was so specific that she could only think of 'poodle' as a hyponym of 'dog'.",
+            "sent5": "The teacher used 'poodle' as a hyponym to explain the concept of subcategories to the students."
         },
         {
             "definition": "Words that are more specific than a given word.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The 'red' and 'yellow' colors are hyponyms of 'color'.",
+            "sent2": "She preferred the hyponyms 'thriller' and 'romance' over other movie genres.",
+            "sent3": "The party planner had a hyponym dilemma when choosing between 'indoor' and 'outdoor' decorations.",
+            "sent4": "His mind was a colorful garden, with 'red' and 'yellow' as the hyponyms of his emotions.",
+            "sent5": "The artist's palette was filled with hyponyms like 'vibrant' and 'muted' to create a masterpiece."
         }
     ]
 }

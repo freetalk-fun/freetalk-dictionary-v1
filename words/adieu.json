@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "goodbye",
-            "pos": "interjection"
+            "pos": "interjection",
+            "sent1": "Adieu! See you later!",
+            "sent2": "She waved adieu as the train departed.",
+            "sent3": "Adieu, my sandwich! You will be missed.",
+            "sent4": "The setting sun whispered adieu to the day.",
+            "sent5": "With a heavy heart, he bid adieu to his childhood home."
         },
         {
             "definition": "farewell",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "They exchanged warm farewells before parting.",
+            "sent2": "The farewell party was filled with laughter and tears.",
+            "sent3": "The cat's farewell to the mouse was short-lived.",
+            "sent4": "The old tree's farewell to its leaves was a colorful display.",
+            "sent5": "The soldier's farewell to his family was a solemn moment."
         }
     ]
 }

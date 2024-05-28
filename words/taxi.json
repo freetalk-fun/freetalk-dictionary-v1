@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A car that carries passengers for a fare.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I took a taxi to the airport.",
+            "sent2": "The taxi driver knew all the shortcuts in the city.",
+            "sent3": "The taxi driver joked that his car was a magic carpet.",
+            "sent4": "In the bustling city, taxis are like bees buzzing around.",
+            "sent5": "The yellow taxi stood out among the sea of cars."
         },
         {
             "definition": "To travel in a taxi.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "We will taxi to the hotel after landing.",
+            "sent2": "She decided to taxi instead of taking the bus.",
+            "sent3": "The family planned to taxi around the city for sightseeing.",
+            "sent4": "The plane began to taxi down the runway for takeoff.",
+            "sent5": "They always taxi to the train station for convenience."
         },
         {
             "definition": "To transport by taxi.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The company will taxi the employees to the conference.",
+            "sent2": "He offered to taxi his friends to the party.",
+            "sent3": "The idea to taxi the pets to the vet seemed amusing.",
+            "sent4": "The storm would taxi the leaves across the yard.",
+            "sent5": "The crane carefully taxied the heavy load to its destination."
         }
     ]
 }

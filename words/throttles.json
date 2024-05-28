@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A device controlling the flow of fuel or power to an engine.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The airplane's throttles determine how fast it can fly.",
+            "sent2": "The mechanic adjusted the throttles to increase the engine's power.",
+            "sent3": "The race car driver accidentally bumped the throttles, causing the engine to rev loudly.",
+            "sent4": "In the spaceship, the throttles were like magic wands, guiding the craft through the galaxy.",
+            "sent5": "The captain skillfully maneuvered the throttles, smoothly landing the plane on the runway."
         },
         {
             "definition": "Chokes or strangles someone.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He slowly throttles the balloon's neck to prevent air from escaping.",
+            "sent2": "The villain tries to throttle the hero with a rope during the intense fight scene.",
+            "sent3": "The comedian joked that his tie felt like it was trying to throttle him during his performance.",
+            "sent4": "The thick fog seemed to throttle the city, making it hard to see beyond a few feet.",
+            "sent5": "The snake silently throttles its prey, tightening its grip with each passing moment."
         },
         {
             "definition": "Suppresses or restricts something.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She tries to throttle her laughter during the serious meeting.",
+            "sent2": "The government's new policy threatens to throttle the freedom of speech.",
+            "sent3": "The tight deadline seemed to throttle their creativity, leaving them feeling stuck.",
+            "sent4": "The heavy workload can sometimes throttle productivity in the office.",
+            "sent5": "The strict rules seemed to throttle the students' enthusiasm for the project."
         }
     ]
 }

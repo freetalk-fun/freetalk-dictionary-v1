@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A person whose name is on a list.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The teacher called out the listee's name for attendance.",
+            "sent2": "The listee waited patiently to be called for their turn.",
+            "sent3": "The listee on the party invitation felt special and important.",
+            "sent4": "She stood out as a listee among the crowd of students.",
+            "sent5": "The listee's name was highlighted in bold on the roster."
         },
         {
             "definition": "To put someone's name on a list.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Please listee the new members on the club roster.",
+            "sent2": "He will listee the groceries we need to buy.",
+            "sent3": "She decided to listee her friends for the upcoming event.",
+            "sent4": "The secretary will listee the attendees for the meeting.",
+            "sent5": "Remember to listee your name on the sign-up sheet."
         }
     ]
 }

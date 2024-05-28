@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A person who violates a law or rule.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The violator was caught stealing from the store.",
+            "sent2": "The police officer arrested the violator for speeding.",
+            "sent3": "The violator tried to sneak past the security guard but got caught.",
+            "sent4": "The violator of the no-smoking policy was fined heavily.",
+            "sent5": "The teacher reminded the students that being a violator of the classroom rules would have consequences."
         },
         {
             "definition": "Something that violates a law or rule.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The graffiti on the wall was considered a violator of public property.",
+            "sent2": "The broken lock was a violator of the security protocol.",
+            "sent3": "The loud music from the party was a violator of the neighbor's peace and quiet.",
+            "sent4": "The overflowing trash can was a violator of the cleanliness standards.",
+            "sent5": "The unauthorized access to the computer system was a violator of company policy."
         }
     ]
 }

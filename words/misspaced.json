@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Misplaced or incorrectly positioned",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The misspaced book was found under the bed.",
+            "sent2": "The keys were misspaced on the kitchen counter.",
+            "sent3": "The misspaced socks ended up in the drawer for kitchen towels.",
+            "sent4": "Her thoughts felt misspaced, scattered like puzzle pieces.",
+            "sent5": "The misspaced painting on the wall caught everyone's attention."
         },
         {
             "definition": "To have put something in the wrong place",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She misspaced her phone in her backpack.",
+            "sent2": "He misspaced the important document in the wrong folder.",
+            "sent3": "The magician misspaced the rabbit during the trick.",
+            "sent4": "Time seemed to misspace itself during the long journey.",
+            "sent5": "The chef accidentally misspaced the salt for sugar in the recipe."
         }
     ]
 }

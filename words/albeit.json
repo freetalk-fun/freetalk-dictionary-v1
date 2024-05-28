@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Although",
-            "pos": "conjunction"
+            "pos": "conjunction",
+            "sent1": "She decided to go for a walk, albeit it was raining outside.",
+            "sent2": "He wanted to stay up late, albeit his parents told him to go to bed.",
+            "sent3": "The cat, albeit small, managed to scare away the big dog.",
+            "sent4": "The tree stood tall, albeit surrounded by shorter bushes.",
+            "sent5": "The team won the game, albeit they were the underdogs."
         },
         {
             "definition": "Even though",
-            "pos": "conjunction"
+            "pos": "conjunction",
+            "sent1": "He finished the project on time, albeit he had started late.",
+            "sent2": "She smiled, albeit feeling nervous inside.",
+            "sent3": "The cake tasted delicious, albeit it looked a bit lopsided.",
+            "sent4": "The sun shone brightly, albeit the clouds threatened rain.",
+            "sent5": "The child laughed, albeit having fallen down moments before."
         }
     ]
 }

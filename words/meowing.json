@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "The act of making a high-pitched sound, as a cat does.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The meowing of the kitten was so cute.",
+            "sent2": "I heard the meowing of a cat outside my window.",
+            "sent3": "The meowing of the cat interrupted our conversation.",
+            "sent4": "The meowing of the cat filled the silent room like music.",
+            "sent5": "The meowing of the cat echoed through the house."
         },
         {
             "definition": "To make a meow sound, as a cat does.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The cat was meowing loudly for food.",
+            "sent2": "I can hear my cat meowing for attention.",
+            "sent3": "She started meowing when she saw her favorite toy.",
+            "sent4": "The cat meowing in the middle of the night woke me up.",
+            "sent5": "The kitten meowing softly was a soothing sound."
         }
     ]
 }

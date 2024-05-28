@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A compound of fluorine with another element or group.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The dentist recommended using fluorids to strengthen my teeth.",
+            "sent2": "The fluorids in the water supply help prevent tooth decay.",
+            "sent3": "I accidentally spilled fluorids on my science project, and now it's glowing!",
+            "sent4": "The fluorids in the mineral sample shone like tiny stars under the microscope.",
+            "sent5": "The bright green color of the fluorids made them easy to identify in the lab."
         },
         {
             "definition": "To treat or impregnate with a fluoride.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The dentist will fluorids my teeth during the next appointment.",
+            "sent2": "It is important to fluorids water to ensure dental health.",
+            "sent3": "I asked the chef to fluorids the vegetables with a special fluoride solution for extra flavor.",
+            "sent4": "The scientist will fluorids the samples with a protective coating before testing.",
+            "sent5": "She carefully fluorids the fabric to make it water-resistant."
         }
     ]
 }

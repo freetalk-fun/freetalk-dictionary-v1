@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Words that express an action or state of being.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She runs every morning.",
+            "sent2": "He sings beautifully.",
+            "sent3": "The cat dances around the room.",
+            "sent4": "The sun whispers goodbye as it sets.",
+            "sent5": "The wind howls through the night."
         },
         {
             "definition": "Words that show what someone or something is doing.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "They eat lunch together every day.",
+            "sent2": "The dog barks loudly at strangers.",
+            "sent3": "The flowers gossip about the bees.",
+            "sent4": "Her smile dances across her face.",
+            "sent5": "The waves crash against the shore."
         },
         {
             "definition": "Words that describe an action or occurrence.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The thunder rumbles in the distance.",
+            "sent2": "The car speeds down the highway.",
+            "sent3": "The clock chatters away the hours.",
+            "sent4": "His laughter echoes in the room.",
+            "sent5": "The fire crackles and pops in the fireplace."
         }
     ]
 }

@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Something that accompanies or is associated with something else.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The salad was a perfect accompaniment to the main dish.",
+            "sent2": "The dog was a loyal accompaniment to the little girl wherever she went.",
+            "sent3": "The funny hat was an unexpected accompaniment to his serious suit.",
+            "sent4": "Her laughter was the joyful accompaniment to the quiet library.",
+            "sent5": "The colorful painting was a vibrant accompaniment to the plain wall."
         },
         {
             "definition": "Music played or sung with another instrument or voice.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The piano provided beautiful accompaniment to the singer's voice.",
+            "sent2": "The guitar player added a lovely accompaniment to the band's performance.",
+            "sent3": "The trumpet's accompaniment to the song was like a cheerful friend joining in.",
+            "sent4": "The violin's accompaniment weaved through the melody like a gentle stream.",
+            "sent5": "The drums' accompaniment gave a strong rhythm to the music."
         }
     ]
 }

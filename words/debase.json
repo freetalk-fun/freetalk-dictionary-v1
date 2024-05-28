@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Reduce in quality or value",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "They debase the product by using cheap materials.",
+            "sent2": "It is not right to debase someone's hard work.",
+            "sent3": "The magician tried to debase the value of the coin by turning it into a button.",
+            "sent4": "The artist felt like using that color would debase the entire painting.",
+            "sent5": "The chef knew that adding too much salt would debase the flavor of the dish."
         },
         {
             "definition": "Degrade in character or dignity",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He would never debase himself by lying to others.",
+            "sent2": "It is important not to debase others with hurtful words.",
+            "sent3": "The comedian's jokes sometimes debase the seriousness of the situation.",
+            "sent4": "The gossip magazine's articles often debase the reputations of celebrities.",
+            "sent5": "The teacher reminded the students not to debase their classmates with mean comments."
         },
         {
             "definition": "Lower in rank or position",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The debased soldier was assigned to menial tasks.",
+            "sent2": "She felt debased after being demoted at work.",
+            "sent3": "The debased chair in the waiting room was always empty.",
+            "sent4": "The debased team struggled to win any games this season.",
+            "sent5": "The debased employee had to report to a new supervisor."
         }
     ]
 }

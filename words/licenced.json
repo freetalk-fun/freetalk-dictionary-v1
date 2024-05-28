@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Having official permission to do something.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The licenced driver safely drove the car.",
+            "sent2": "She was licenced to operate the machinery.",
+            "sent3": "The licenced chef cooked up a storm in the kitchen.",
+            "sent4": "The licenced pilot soared through the sky with ease.",
+            "sent5": "The licenced doctor provided expert care to the patients."
         },
         {
             "definition": "To grant a license to.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The government licenced the new business.",
+            "sent2": "He licenced his invention to a company for production.",
+            "sent3": "The magician licenced his tricks for public use.",
+            "sent4": "She licenced her artwork to be reproduced on merchandise.",
+            "sent5": "The company licenced the software for distribution."
         }
     ]
 }

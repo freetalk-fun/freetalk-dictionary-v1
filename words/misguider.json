@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "One who leads astray or gives incorrect directions.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The misguider intentionally led the hikers off the trail.",
+            "sent2": "The lost tourists followed the misguider and ended up in the wrong part of town.",
+            "sent3": "The misguider told the children that the library was actually a candy store!",
+            "sent4": "The misguider's map was like a puzzle with all the wrong pieces.",
+            "sent5": "Beware of the misguider who pretends to know the way but only confuses you."
         },
         {
             "definition": "To lead or direct in the wrong direction.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The tricky signs misguidered the drivers onto the closed road.",
+            "sent2": "The faulty GPS misguiders many travelers to dead ends.",
+            "sent3": "The misguidered cat thought the fishbowl was the litter box!",
+            "sent4": "His misleading advice misguidered her thoughts down a dangerous path.",
+            "sent5": "The misguidered compass pointed south instead of north, causing confusion."
         }
     ]
 }

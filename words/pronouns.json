@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A word that can function by itself as a noun phrase and that refers either to the participants in the discourse (e.g., I, you) or to someone or something mentioned elsewhere in the discourse (e.g., she, it, this).",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "She used pronouns like 'I' and 'you' to talk about herself and her friend.",
+            "sent2": "When writing, it's important to use pronouns like 'she' and 'it' to avoid repetition.",
+            "sent3": "The pronouns 'he' and 'they' got into an argument about who should do the dishes.",
+            "sent4": "In the story, the pronouns 'I' and 'you' danced together in perfect harmony.",
+            "sent5": "The teacher explained pronouns by using examples like 'we' and 'them' to make it easier to understand."
         },
         {
             "definition": "A word that replaces a noun or noun phrase (e.g., he, she, it).",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "He forgot his book, so she lent him hers.",
+            "sent2": "When the cat meowed, it wanted food.",
+            "sent3": "The pronoun 'it' decided to take a nap in the sun.",
+            "sent4": "Her laughter echoed through the room like a pronoun replacing a noun.",
+            "sent5": "The pronoun 'they' can represent a group of people or things, making sentences clearer."
         }
     ]
 }

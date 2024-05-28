@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A word or set of words by which a person, animal, place, or thing is known, addressed, or referred to.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "My name is Lily.",
+            "sent2": "Please write your name on the paper.",
+            "sent3": "The cat's name is Fluffy, but it acts more like a lion!",
+            "sent4": "Her name was a beacon of hope in the dark night of despair.",
+            "sent5": "The name 'Rose' brings to mind beauty and elegance."
         },
         {
             "definition": "To give a title or designation to.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Let's name our new puppy 'Buddy'.",
+            "sent2": "We should name this painting 'Sunset Serenity'.",
+            "sent3": "I'll name you the champion of the cookie eating contest!",
+            "sent4": "She named her car 'Speedy' for its quick acceleration.",
+            "sent5": "Naming a star after a loved one is a special gift."
         },
         {
             "definition": "To identify by name; call by a specific name.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Can you name all the countries in Europe?",
+            "sent2": "I always name my plants to give them personality.",
+            "sent3": "He named the stray cat 'Whiskers' because of its long whiskers.",
+            "sent4": "She named her fears one by one and faced them bravely.",
+            "sent5": "Naming the constellations in the night sky is a fun challenge."
         }
     ]
 }

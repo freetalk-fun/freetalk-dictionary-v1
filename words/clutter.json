@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A collection of things lying about in an untidy mass.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The room was a mess of clutter, with toys scattered everywhere.",
+            "sent2": "She couldn't find her keys in the clutter on the table.",
+            "sent3": "The clutter of shoes by the door made it look like a shoe store.",
+            "sent4": "Her mind was a clutter of thoughts, making it hard to focus.",
+            "sent5": "The clutter of papers on his desk seemed to multiply overnight."
         },
         {
             "definition": "Fill or cover with scattered or disordered things; untidy.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Please don't clutter the hallway with your shoes.",
+            "sent2": "The shelves were cluttered with books of all sizes.",
+            "sent3": "She would clutter the kitchen counter with empty coffee cups.",
+            "sent4": "His mind would clutter with worries before an important meeting.",
+            "sent5": "The streets were cluttered with fallen leaves after the storm."
         }
     ]
 }

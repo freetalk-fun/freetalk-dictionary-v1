@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To convert (an image or graphic) into a vector format.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I will vectorize the logo to make it scalable.",
+            "sent2": "Graphic designers often vectorize images for better quality.",
+            "sent3": "I tried to vectorize a photo of my cat, but now it looks like a cartoon!",
+            "sent4": "She managed to vectorize her thoughts into a clear plan of action.",
+            "sent5": "The artist's ability to vectorize landscapes brought them to life on the canvas."
         },
         {
             "definition": "To represent (a quantity) as a vector.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Let's vectorize the velocity of the car for analysis.",
+            "sent2": "In physics, it's common to vectorize forces for calculations.",
+            "sent3": "I accidentally vectorized the speed of my running shoes - now they seem faster!",
+            "sent4": "Her determination to succeed was vectorized in her focused gaze.",
+            "sent5": "The teacher used diagrams to help students understand how to vectorize data effectively."
         },
         {
             "definition": "To change (a program or algorithm) to operate on vectors.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The software engineer will vectorize the code for better performance.",
+            "sent2": "It's important to vectorize algorithms for efficient processing.",
+            "sent3": "When I tried to vectorize the program, it started solving math problems on its own!",
+            "sent4": "His ability to vectorize complex problems made him a sought-after programmer.",
+            "sent5": "The scientist's breakthrough was to vectorize the algorithm, revolutionizing data analysis."
         }
     ]
 }

@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Superlative form of blow",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Yesterday, the wind blew blowiest I have ever seen!",
+            "sent2": "The hurricane blew blowiest last year.",
+            "sent3": "The birthday candles were blown blowiest by the excited child.",
+            "sent4": "The whistle blew blowiest at the end of the game.",
+            "sent5": "The strong gust of wind blew blowiest through the open window."
         },
         {
             "definition": "Comparative form of blowy",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "Today is windier, but yesterday was blowier than today.",
+            "sent2": "The blowiest day of the week was Thursday.",
+            "sent3": "The kite flew highest on the blowiest day.",
+            "sent4": "The blowiest balloon popped first in the strong wind.",
+            "sent5": "The blowiest storm of the season caused a lot of damage."
         }
     ]
 }

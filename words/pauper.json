@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A person who is very poor and has no means of support.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The pauper asked for help on the street.",
+            "sent2": "The kind lady gave some food to the pauper.",
+            "sent3": "The pauper found a penny and felt like a millionaire.",
+            "sent4": "In the land of plenty, he felt like a pauper with nothing.",
+            "sent5": "The image of the pauper's empty pockets stayed with her."
         },
         {
             "definition": "To reduce to poverty.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The illness could pauper a family in no time.",
+            "sent2": "The economic crisis threatened to pauper many households.",
+            "sent3": "His spending habits could easily pauper him if he wasn't careful.",
+            "sent4": "The unexpected expenses could pauper them within a month.",
+            "sent5": "The loss of the job would pauper them beyond imagination."
         }
     ]
 }

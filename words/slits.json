@@ -3,19 +3,39 @@
     "meanings": [
         {
             "definition": "A long, narrow cut or opening.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The cat squeezed through the slits in the fence.",
+            "sent2": "The slits in the wall allowed a bit of light to filter through.",
+            "sent3": "The slits in the curtain made it look like a peek-a-boo game.",
+            "sent4": "Her eyes were like slits as she squinted in the bright sunlight.",
+            "sent5": "The slits in the paper created a beautiful pattern of light and shadow."
         },
         {
             "definition": "To make a long, narrow cut or opening in.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She carefully slits the envelope open with scissors.",
+            "sent2": "The chef slits the vegetables before adding them to the stir-fry.",
+            "sent3": "He slits the cake with precision, ensuring equal portions for everyone.",
+            "sent4": "The magician slits the box, revealing a surprise inside.",
+            "sent5": "The tailor slits the fabric to create a perfect seam."
         },
         {
             "definition": "A small, narrow opening or crack.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The slits in the rock allowed water to trickle through.",
+            "sent2": "She peered through the slits in the door to see who was outside.",
+            "sent3": "The slits in the armor made the knight look like a futuristic warrior.",
+            "sent4": "The slits in the ice revealed the fish swimming below.",
+            "sent5": "The slits in the mask provided ventilation for the diver."
         },
         {
             "definition": "To cut or tear into narrow strips or pieces.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She slits the paper into tiny confetti for the celebration.",
+            "sent2": "The tailor slits the fabric to create fringes on the edges.",
+            "sent3": "He slits the bread into thin slices for the sandwiches.",
+            "sent4": "The artist slits the canvas to create a unique texture in the painting.",
+            "sent5": "The chef slits the meat to prepare it for grilling."
         }
     ]
 }

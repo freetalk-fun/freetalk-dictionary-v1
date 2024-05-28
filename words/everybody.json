@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Every person",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Everybody in the room was clapping.",
+            "sent2": "I saw everybody at the party last night.",
+            "sent3": "Everybody in the family loves to play board games together.",
+            "sent4": "In the city, everybody is like a small piece of a big puzzle.",
+            "sent5": "The teacher made sure everybody understood the math lesson."
         },
         {
             "definition": "Every person in a group",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Everybody on the team worked hard to win the game.",
+            "sent2": "Let's make sure everybody in the class gets a turn.",
+            "sent3": "At the picnic, everybody in the group brought delicious snacks.",
+            "sent4": "In the choir, everybody's voice blended harmoniously.",
+            "sent5": "The tour guide made sure everybody stayed together during the hike."
         }
     ]
 }

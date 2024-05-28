@@ -3,23 +3,48 @@
     "meanings": [
         {
             "definition": "To strike or come into contact with forcefully",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He hit the ball with the bat.",
+            "sent2": "The hammer hit the nail perfectly.",
+            "sent3": "The cat hit the vase, and it crashed to the floor!",
+            "sent4": "The storm hit the coast with great power.",
+            "sent5": "The boxer's punch hit his opponent hard."
         },
         {
             "definition": "A successful or popular song, movie, or book",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The new song by the band became a hit overnight.",
+            "sent2": "The movie was a big hit at the box office.",
+            "sent3": "The catchy tune of the hit got stuck in everyone's head.",
+            "sent4": "The book was a hit among young readers.",
+            "sent5": "The artist's latest painting was a hit with the critics."
         },
         {
             "definition": "A successful or lucky guess",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Her prediction about the outcome was a hit.",
+            "sent2": "Guessing the right answer on the first try was a hit.",
+            "sent3": "His random choice turned out to be a hit in the end.",
+            "sent4": "The accurate guess was a hit with everyone present.",
+            "sent5": "The lucky hit saved the day for the team."
         },
         {
             "definition": "A dose of a drug",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The doctor prescribed a hit of pain medication.",
+            "sent2": "He took a hit of the cough syrup to soothe his throat.",
+            "sent3": "The nurse administered the hit of medicine to the patient.",
+            "sent4": "The pharmacist measured out the exact hit of the prescription.",
+            "sent5": "The athlete needed a hit of the performance-enhancing drug."
         },
         {
             "definition": "A premeditated murder, especially of a public figure",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The crime scene investigation revealed it was a hit.",
+            "sent2": "The hit on the politician shocked the nation.",
+            "sent3": "The detective suspected a hit in the high-profile case.",
+            "sent4": "The news of the hit spread quickly through the media.",
+            "sent5": "The criminal organization planned the hit meticulously."
         }
     ]
 }

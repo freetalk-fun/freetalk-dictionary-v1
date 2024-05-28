@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A piece of furniture for seating multiple people.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The couches in the living room are very comfortable.",
+            "sent2": "We all sat on the couches to watch a movie together.",
+            "sent3": "The couches in the waiting room made the long wait more bearable.",
+            "sent4": "The couches in the cafe embraced customers like old friends.",
+            "sent5": "The plush couches beckoned tired travelers to rest their feet."
         },
         {
             "definition": "To express something in a particular way.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She couches her opinions carefully to avoid conflict.",
+            "sent2": "He couches his feedback in a positive manner.",
+            "sent3": "The comedian couches his jokes in self-deprecation.",
+            "sent4": "The politician couches his promises in vague language.",
+            "sent5": "The teacher couches her corrections with encouraging words."
         },
         {
             "definition": "To lie down in a comfortable position.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "After a long day, she couches on the sofa to relax.",
+            "sent2": "The cat often couches on the sunny windowsill.",
+            "sent3": "He couches on the grass to enjoy the warm sun.",
+            "sent4": "The dog couches on the rug near the fireplace.",
+            "sent5": "The baby couches in the crib, surrounded by toys."
         }
     ]
 }

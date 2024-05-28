@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "The smallest number of something.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "She had the fewest toys in the class.",
+            "sent2": "Out of all the students, he had the fewest pencils.",
+            "sent3": "The birthday party had the fewest guests, but it was still fun.",
+            "sent4": "In the competition, she had the fewest points, but she never gave up.",
+            "sent5": "The team with the fewest players showed great teamwork and won the game."
         },
         {
             "definition": "A small number of something.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "He only had a fewest coins in his pocket.",
+            "sent2": "The store had the fewest apples left on the shelf.",
+            "sent3": "The group made do with the fewest supplies they had.",
+            "sent4": "Despite having the fewest ingredients, she managed to make a delicious meal.",
+            "sent5": "The garden with the fewest flowers still looked beautiful in the sunlight."
         }
     ]
 }

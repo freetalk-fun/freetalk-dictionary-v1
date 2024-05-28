@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Offer suggestions or recommendations",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She advised her friend on which book to read.",
+            "sent2": "The teacher advised the students to study for the upcoming test.",
+            "sent3": "The cat advised the dog on the best sleeping spots in the house.",
+            "sent4": "The wise owl advised the young birds on how to build a strong nest.",
+            "sent5": "The experienced hiker advised the beginners to pack light for the hike."
         },
         {
             "definition": "Informed or notified",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The advised customers were aware of the store's upcoming sale.",
+            "sent2": "The advised passengers knew about the delayed flight.",
+            "sent3": "The advised students were prepared for the surprise quiz.",
+            "sent4": "The advised employees were informed about the new company policy.",
+            "sent5": "The advised travelers were updated about the road closure."
         },
         {
             "definition": "Given advice or guidance",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The advised individual followed the expert's suggestions.",
+            "sent2": "The advised team listened to the coach's strategies.",
+            "sent3": "The advised group of friends always made wise decisions.",
+            "sent4": "The advised patient trusted the doctor's recommendations.",
+            "sent5": "The advised student sought help from the knowledgeable tutor."
         }
     ]
 }

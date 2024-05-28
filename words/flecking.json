@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A small patch or spot",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The bird had a flecking of red on its wing.",
+            "sent2": "I noticed a flecking of paint on the wall.",
+            "sent3": "The cat's fur had a cute flecking of white.",
+            "sent4": "The night sky was a flecking of twinkling stars.",
+            "sent5": "The forest floor was a flecking of fallen leaves."
         },
         {
             "definition": "To cover with small spots or marks",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She was flecking the canvas with bright colors.",
+            "sent2": "The rain was flecking the window with droplets.",
+            "sent3": "He couldn't help but flecking paint on his shirt while painting.",
+            "sent4": "The artist's brush was flecking the mural with intricate details.",
+            "sent5": "The chef was flecking the dish with herbs for added flavor."
         }
     ]
 }

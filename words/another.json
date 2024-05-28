@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "One more; an additional.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "She bought another book at the store.",
+            "sent2": "I need another pencil for my homework.",
+            "sent3": "He ate another cookie, even though he was already full.",
+            "sent4": "The sky turned another shade of pink as the sun set.",
+            "sent5": "The teacher gave another example to help the students understand."
         },
         {
             "definition": "Different or distinct from the one first considered.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "She chose another dress for the party.",
+            "sent2": "I prefer another flavor of ice cream.",
+            "sent3": "The cat chose another box to sleep in, ignoring the cozy bed.",
+            "sent4": "The new painting had another style compared to the artist's previous works.",
+            "sent5": "The puzzle had another piece missing, making it impossible to complete."
         },
         {
             "definition": "A different person or thing.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "He is looking for another to join the team.",
+            "sent2": "I saw another waiting at the bus stop.",
+            "sent3": "The child asked for another to play with in the park.",
+            "sent4": "She felt like another in a crowd of strangers.",
+            "sent5": "The store had another of the same toy on the shelf."
         }
     ]
 }

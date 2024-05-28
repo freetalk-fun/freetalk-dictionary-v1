@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To move in a specified direction",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The train passes through the tunnel.",
+            "sent2": "The car passes by the park every day.",
+            "sent3": "The squirrel passes the tree with a quick hop.",
+            "sent4": "Time passes like a river flowing steadily.",
+            "sent5": "The wind passes through the leaves, rustling them gently."
         },
         {
             "definition": "To go by or beyond",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The bus passes the school on its way to town.",
+            "sent2": "The birds pass over the house in the morning.",
+            "sent3": "The cat passes the sleeping dog without waking it.",
+            "sent4": "The sun passes the horizon, signaling the end of the day.",
+            "sent5": "The river passes the rocks, smoothing them over time."
         },
         {
             "definition": "A route over or through mountains",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The hikers took a scenic route through the mountain pass.",
+            "sent2": "The map showed multiple passes for crossing the range.",
+            "sent3": "The pass was covered in snow, making the journey challenging.",
+            "sent4": "The narrow pass was guarded by a group of mountain goats.",
+            "sent5": "The pass offered breathtaking views of the valleys below."
         }
     ]
 }

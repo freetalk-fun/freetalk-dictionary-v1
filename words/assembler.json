@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A person or thing that assembles.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The toy assembler put together all the parts of the robot.",
+            "sent2": "The furniture assembler quickly built the new desk.",
+            "sent3": "The cake assembler carefully stacked each layer to create a delicious masterpiece.",
+            "sent4": "The puzzle assembler effortlessly connected all the pieces to reveal the complete picture.",
+            "sent5": "The car assembler meticulously joined each component to form the finished vehicle."
         },
         {
             "definition": "A computer program that translates assembly language into machine code.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The software assembler converted the code into a language the computer could understand.",
+            "sent2": "The program assembler efficiently processed the instructions to generate executable files.",
+            "sent3": "The game assembler humorously translated the commands into a secret language only gamers could decipher.",
+            "sent4": "The code assembler magically transformed the complex script into a streamlined program.",
+            "sent5": "The language assembler skillfully converted the text into a series of binary digits."
         }
     ]
 }

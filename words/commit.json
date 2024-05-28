@@ -3,23 +3,48 @@
     "meanings": [
         {
             "definition": "To pledge or bind oneself to a certain course of action",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I commit to finishing my homework before dinner.",
+            "sent2": "She always commits to helping her friends in need.",
+            "sent3": "He decided to commit to waking up early every day, even on weekends.",
+            "sent4": "The team captain asked everyone to commit to attending all practices.",
+            "sent5": "By signing the contract, she made a commitment to work at the company for at least a year."
         },
         {
             "definition": "To carry out or perform a task",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Please commit to completing the project by Friday.",
+            "sent2": "He commits to exercising every morning to stay healthy.",
+            "sent3": "The robot was programmed to commit to cleaning the entire house.",
+            "sent4": "She had to commit to studying hard for her upcoming exams.",
+            "sent5": "The chef will commit to preparing a delicious meal for the guests."
         },
         {
             "definition": "To engage in a romantic relationship",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "They decided to commit to being in a relationship together.",
+            "sent2": "She was ready to commit to her partner for a lifetime.",
+            "sent3": "The couple made a pact to commit to each other no matter what.",
+            "sent4": "He wanted to commit to building a future with his girlfriend.",
+            "sent5": "Their decision to commit to each other brought them closer than ever."
         },
         {
             "definition": "To entrust someone or something to another's care",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I commit my pet fish to your care while I'm away.",
+            "sent2": "She had to commit her important documents to the safekeeping of the bank.",
+            "sent3": "He decided to commit his favorite book to his best friend for safekeeping.",
+            "sent4": "The parents commit their children to the care of the babysitter for the evening.",
+            "sent5": "The museum will commit the valuable artifact to the expert for restoration."
         },
         {
             "definition": "To perpetrate a crime",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The suspect was caught red-handed trying to commit a robbery.",
+            "sent2": "He was arrested for attempting to commit a fraud scheme.",
+            "sent3": "The movie character planned to commit a heist in the final scene.",
+            "sent4": "She was shocked to discover her neighbor was trying to commit a burglary.",
+            "sent5": "The criminal mastermind was known for his ability to commit elaborate crimes without getting caught."
         }
     ]
 }

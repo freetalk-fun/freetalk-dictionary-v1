@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Lack of success",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Her many failures in school made her feel discouraged.",
+            "sent2": "The team's failures in winning games led to disappointment.",
+            "sent3": "His failures in baking were so frequent, he joked about opening a burnt bakery.",
+            "sent4": "The failures in his career were like roadblocks on the path to success.",
+            "sent5": "The failures of the experiment were evident in the scattered test tubes and papers."
         },
         {
             "definition": "Person or thing that fails",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "She considered herself a failure after losing the competition.",
+            "sent2": "The broken machine was a failure and needed repair.",
+            "sent3": "The cake's collapse turned it into a sweet failure.",
+            "sent4": "He felt like a failure when he couldn't fix the leaky faucet.",
+            "sent5": "The old car was a constant reminder of his past failures in maintenance."
         },
         {
             "definition": "Act of failing",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The failure of the plan was evident from the start.",
+            "sent2": "His repeated failure to meet deadlines caused frustration.",
+            "sent3": "The failure of the magician's trick left the audience puzzled.",
+            "sent4": "The failure of the bridge's support led to its collapse.",
+            "sent5": "The failure of the experiment was a setback in their research."
         }
     ]
 }

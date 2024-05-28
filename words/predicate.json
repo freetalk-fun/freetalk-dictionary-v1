@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To affirm or assert (something) about the subject of a sentence.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She will predicate her decision on the weather forecast.",
+            "sent2": "The teacher asked the students to predicate their answers on the text they read.",
+            "sent3": "The cat seemed to predicate its nap time on the sunbeam's location.",
+            "sent4": "His success seemed to predicate on his dedication and hard work.",
+            "sent5": "The outcome will predicate on the team's cooperation and effort."
         },
         {
             "definition": "The part of a sentence or clause containing a verb and stating something about the subject.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "In the sentence, the predicate is 'jumped over the fence'.",
+            "sent2": "The predicate of the statement 'She sings beautifully' is 'sings beautifully'.",
+            "sent3": "The predicate of the story was the unexpected twist at the end.",
+            "sent4": "His success story had a strong predicate that captured the audience's attention.",
+            "sent5": "The predicate of the play revealed the true intentions of the main character."
         }
     ]
 }

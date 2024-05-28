@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A large flat-bottomed boat for transporting goods, typically on canals and rivers.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The barges carried heavy cargo down the river.",
+            "sent2": "The company used barges to transport goods along the canal.",
+            "sent3": "The barges on the river seemed to have a race, bumping into each other playfully.",
+            "sent4": "The barges glided on the water like giant floating trays.",
+            "sent5": "The image of the barges slowly moving down the river stayed in his mind."
         },
         {
             "definition": "To move forcefully or roughly.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He barges through the crowd to catch the bus.",
+            "sent2": "She barges into the room without knocking.",
+            "sent3": "The cat barges into the room, knocking over a vase in its haste.",
+            "sent4": "The wind barges through the open window, scattering papers around the office.",
+            "sent5": "The football player barges past the defenders to score a goal."
         },
         {
             "definition": "To intrude or interrupt rudely.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Please don't barge into our conversation like that.",
+            "sent2": "He always barges in without waiting for an invitation.",
+            "sent3": "The dog barges into the room, chasing a squirrel.",
+            "sent4": "The loud music barges into the peaceful atmosphere of the library.",
+            "sent5": "The unexpected noise barges into her thoughts, disrupting her concentration."
         }
     ]
 }

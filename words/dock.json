@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A structure extending alongshore or out from the shore into a body of water, to which boats may be moored.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The dock was busy with boats coming and going.",
+            "sent2": "The fishermen tied their boat to the dock before unloading their catch.",
+            "sent3": "The seagull perched on the dock, eyeing the fish below.",
+            "sent4": "The dock stretched like a welcoming arm into the calm waters.",
+            "sent5": "Children played by the dock, watching the gentle waves lap against the wooden planks."
         },
         {
             "definition": "To remove or deduct a part of.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She had to dock his pay for being late to work.",
+            "sent2": "The teacher had to dock points from the student's assignment for not following instructions.",
+            "sent3": "The chef had to dock some ingredients from the recipe to make it work.",
+            "sent4": "The tailor had to dock the fabric to make the dress fit perfectly.",
+            "sent5": "The manager had to dock the budget to accommodate unexpected expenses."
         },
         {
             "definition": "A place for the repair of ships.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The dock was bustling with activity as ships were being repaired.",
+            "sent2": "The sailors were relieved to reach the dock after a storm damaged their ship.",
+            "sent3": "The dock became a temporary home for the crew while their ship was being repaired.",
+            "sent4": "The dock echoed with the sounds of hammers and saws as repairs were underway.",
+            "sent5": "The dockyard workers skillfully repaired the ship, ensuring it was seaworthy once again."
         }
     ]
 }

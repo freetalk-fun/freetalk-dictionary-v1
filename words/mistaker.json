@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "One who makes a mistake.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The mistaker realized their error and apologized.",
+            "sent2": "The teacher pointed out the mistaker in the math problem.",
+            "sent3": "The mistaker accidentally put salt instead of sugar in the cake.",
+            "sent4": "Being a mistaker is like walking through a maze blindfolded.",
+            "sent5": "The little boy learned to ride a bike, but he was still a mistaker at times."
         },
         {
             "definition": "To make a mistake.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I mistakered the date of the meeting and missed it.",
+            "sent2": "She mistakered the recipe and ended up with a burnt dish.",
+            "sent3": "The cat mistakered the vase for a toy and knocked it over.",
+            "sent4": "His words mistakered her heart, leaving her feeling hurt.",
+            "sent5": "The detective mistakered the suspect's alibi and solved the case."
         }
     ]
 }

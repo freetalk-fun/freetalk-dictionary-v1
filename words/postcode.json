@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A code of letters and digits used to identify a specific area for mail delivery.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The postcode on the letter helped the mail carrier deliver it to the right house.",
+            "sent2": "I always double-check the postcode before sending a package to avoid any delays.",
+            "sent3": "The postcode on the envelope played hide-and-seek with the postman.",
+            "sent4": "Her postcode was like a secret key that unlocked the door to her home.",
+            "sent5": "The postcode acted as a map, guiding the letter to its destination."
         },
         {
             "definition": "To assign a postcode to a specific address.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The post office will postcode the new neighborhood next week.",
+            "sent2": "Remember to postcode each letter before dropping them off at the mailbox.",
+            "sent3": "He decided to postcode his friend's treehouse for fun.",
+            "sent4": "She will postcode the packages with care to ensure they reach the right recipients.",
+            "sent5": "The company will postcode all the buildings in the area for efficient mail delivery."
         }
     ]
 }

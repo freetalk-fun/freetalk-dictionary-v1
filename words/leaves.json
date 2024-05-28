@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "The plural form of the word 'leaf', referring to the green, flat structures on a plant.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The tree's branches were covered in vibrant green leaves.",
+            "sent2": "She collected colorful leaves in the park during autumn.",
+            "sent3": "The mischievous squirrel used leaves to create a tiny bed in the tree.",
+            "sent4": "The leaves danced in the wind, creating a beautiful natural mosaic.",
+            "sent5": "The leaves rustled softly as the gentle breeze passed through the forest."
         },
         {
             "definition": "To go away from a place.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "After the party, she quickly leaves the room.",
+            "sent2": "The train leaves the station at 9 o'clock sharp.",
+            "sent3": "The magician leaves the stage, leaving the audience in awe.",
+            "sent4": "As the sun sets, the day leaves, making way for the night.",
+            "sent5": "The bird leaves its nest early in the morning to find food."
         },
         {
             "definition": "To allow someone or something to remain behind.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She leaves her keys on the table for her sister.",
+            "sent2": "The teacher leaves the students to work on the project independently.",
+            "sent3": "The chef leaves the cake in the oven to bake to perfection.",
+            "sent4": "The parent leaves a note for the children before going to work.",
+            "sent5": "The gardener leaves the plants outside to soak up the sunlight."
         }
     ]
 }

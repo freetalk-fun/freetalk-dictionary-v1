@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To prohibit or forbid something",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The school decided to ban cellphones during class hours.",
+            "sent2": "The government may ban smoking in public places for health reasons.",
+            "sent3": "It would be funny if they tried to ban bananas just because they are yellow.",
+            "sent4": "The strict teacher would ban any talking in her classroom.",
+            "sent5": "The sign clearly stated, 'No Entry - Ban on Unauthorized Personnel.'"
         },
         {
             "definition": "An official or legal prohibition on something",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The new law imposed a ban on plastic bags to protect the environment.",
+            "sent2": "The ban on fireworks ensured everyone's safety during the event.",
+            "sent3": "The ban on loud music after 10 pm was a relief for the neighbors.",
+            "sent4": "The ban on outside food in the cinema was strictly enforced.",
+            "sent5": "The ban on single-use plastics aimed to reduce pollution in the oceans."
         }
     ]
 }

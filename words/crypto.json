@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Hidden or secret",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The treasure map led us to a crypto cave filled with hidden gems.",
+            "sent2": "She kept her diary in a crypto drawer to ensure her thoughts remained private.",
+            "sent3": "The detective found a crypto message written in invisible ink.",
+            "sent4": "The magician's tricks were so crypto that no one could figure them out.",
+            "sent5": "The mysterious man had a crypto past that no one knew about."
         },
         {
             "definition": "Cryptocurrency",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Investing in crypto can be risky but rewarding.",
+            "sent2": "He bought some crypto to diversify his investment portfolio.",
+            "sent3": "The thief tried to steal crypto from the digital wallet but failed.",
+            "sent4": "The rise of crypto has revolutionized the financial industry.",
+            "sent5": "She became a millionaire by trading crypto currencies."
         },
         {
             "definition": "Cryptography",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The spy used advanced crypto techniques to encode his messages.",
+            "sent2": "Studying crypto helps in understanding secure communication methods.",
+            "sent3": "The students were fascinated by the history of crypto and its evolution.",
+            "sent4": "The art of crypto has been crucial in protecting sensitive information.",
+            "sent5": "The government agency hired experts in crypto to enhance their data security."
         }
     ]
 }

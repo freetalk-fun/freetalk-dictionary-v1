@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A person or thing that is single or individual.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "She preferred to work alone, as she enjoyed being a singletons in her projects.",
+            "sent2": "The cat was a singletons in the household, receiving all the attention from its owner.",
+            "sent3": "The singletons tree in the garden always seemed to stand out among the others.",
+            "sent4": "In a world full of noise, he found solace in being a singletons, like a quiet island in a sea of chaos.",
+            "sent5": "The singletons star in the sky shone brightly, outshining all the others."
         },
         {
             "definition": "A set with only one element.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The set containing only the number 5 was a singletons in the collection.",
+            "sent2": "Among all the groups, the singletons stood out with its uniqueness.",
+            "sent3": "The singletons cup on the shelf seemed lonely without its matching pair.",
+            "sent4": "Her voice was like a singletons note in a symphony, distinct and clear.",
+            "sent5": "The singletons flower in the garden bloomed beautifully, attracting all the bees."
         },
         {
             "definition": "A design pattern that restricts the instantiation of a class to one object.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The software developer implemented the singletons pattern to ensure only one instance of the class existed.",
+            "sent2": "Using the singletons design pattern helped maintain consistency in the application.",
+            "sent3": "The singletons rule in the coding guidelines prevented unnecessary duplication of objects.",
+            "sent4": "The singletons concept acted like a gatekeeper, allowing only one entry at a time.",
+            "sent5": "Implementing the singletons pattern was like having a vigilant guard at the door, ensuring no duplicates slipped through."
         }
     ]
 }

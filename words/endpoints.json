@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A point at which something ends or terminates.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The endpoints of the race were marked with colorful flags.",
+            "sent2": "The road's endpoints were clearly visible in the distance.",
+            "sent3": "The cat thought the toy mouse was the endpoint of its hunt.",
+            "sent4": "The old tree served as the endpoint of the forest trail.",
+            "sent5": "The treasure map led to a mysterious endpoint deep in the jungle."
         },
         {
             "definition": "The points at which a line or curve ends.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "She carefully plotted the endpoints of the graph on the chart.",
+            "sent2": "The artist focused on highlighting the endpoints of the brush strokes.",
+            "sent3": "The cake decorator added colorful sprinkles at the endpoints of the design.",
+            "sent4": "The rainbow seemed to touch the endpoints of the horizon.",
+            "sent5": "The endpoints of the rainbow shimmered in the sunlight."
         }
     ]
 }

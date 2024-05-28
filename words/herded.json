@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To gather and move a group of animals in a particular direction.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The farmer herded the cows into the barn for milking.",
+            "sent2": "The shepherd herded the sheep into the pen before the storm.",
+            "sent3": "The ducks herded together to form a quacking parade.",
+            "sent4": "The children herded like little ducklings behind their teacher.",
+            "sent5": "The border collie herded the scattered sheep with precision."
         },
         {
             "definition": "To gather and move a group of people in a particular direction.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The tour guide herded the tourists onto the bus for the next stop.",
+            "sent2": "The teacher herded the students into the classroom after recess.",
+            "sent3": "The fans herded towards the stage for a glimpse of their favorite singer.",
+            "sent4": "The security guard herded the crowd towards the exit after the event.",
+            "sent5": "The event staff herded the attendees towards the registration desk."
         }
     ]
 }

@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A container for honey.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The honeypot was filled with sweet honey.",
+            "sent2": "The beekeeper placed the honeypot near the beehive.",
+            "sent3": "The bear thought the honeypot was a gift just for him.",
+            "sent4": "The honeypot gleamed in the sunlight, tempting all who passed by.",
+            "sent5": "The children were fascinated by the honeypot's golden contents."
         },
         {
             "definition": "A trap set to detect, deflect, or counteract unauthorized access to information systems.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The cybersecurity expert set up a honeypot to catch hackers.",
+            "sent2": "The honeypot alerted the IT team to a potential security breach.",
+            "sent3": "The hacker fell right into the honeypot, thinking it was an easy target.",
+            "sent4": "The honeypot functioned like a digital spider web, trapping intruders.",
+            "sent5": "The honeypot's purpose was to deceive and protect the network from threats."
         },
         {
             "definition": "An attractive or enticing person or thing used to lure others.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The undercover agent posed as a honeypot to gather information.",
+            "sent2": "The honeypot successfully persuaded the suspect to reveal their secrets.",
+            "sent3": "The honeypot's charm was irresistible to those seeking information.",
+            "sent4": "She used her charisma as a honeypot to extract valuable intel.",
+            "sent5": "The honeypot's allure was a powerful tool in the agent's mission."
         }
     ]
 }

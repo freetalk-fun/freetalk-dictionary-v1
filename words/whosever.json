@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Belonging to or associated with whichever person.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The red umbrella is whosever.",
+            "sent2": "Whosever book is on the table, please take it.",
+            "sent3": "The mysterious package was addressed to whosever had the secret code.",
+            "sent4": "In the crowded room, whosever voice stood out like a beacon.",
+            "sent5": "The treasure map led to whosever brave enough to follow it."
         },
         {
             "definition": "Used to introduce a question about which person owns or is responsible for something.",
-            "pos": "preposition"
+            "pos": "preposition",
+            "sent1": "Whosever is the owner of the lost dog?",
+            "sent2": "I wonder whosever left their keys in the door.",
+            "sent3": "Whosever forgot to turn off the lights will have to pay the electricity bill.",
+            "sent4": "The detective searched for clues to uncover whosever committed the crime.",
+            "sent5": "The teacher asked whosever had the answer to raise their hand."
         }
     ]
 }

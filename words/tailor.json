@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A person whose occupation is making or altering garments.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The tailor fixed the torn sleeve on my jacket.",
+            "sent2": "I need to take my dress to the tailor for alterations.",
+            "sent3": "The tailor joked that he could sew a dress blindfolded.",
+            "sent4": "She tailored the suit to fit him perfectly, like a glove.",
+            "sent5": "The tailor's shop was filled with colorful fabrics and sewing machines."
         },
         {
             "definition": "To make or adapt (something) for a particular purpose or person.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I will tailor the presentation to suit the audience's interests.",
+            "sent2": "She tailored the lesson plan to meet the students' needs.",
+            "sent3": "He decided to tailor his workout routine to focus on cardio.",
+            "sent4": "The chef tailored the recipe to accommodate dietary restrictions.",
+            "sent5": "They tailored the event to cater to a diverse range of preferences."
         },
         {
             "definition": "To fit or provide (something) with a specific feature or quality.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The company will tailor the product to meet customer demands.",
+            "sent2": "She tailored her resume to highlight her relevant skills.",
+            "sent3": "He tried to tailor his speech to appeal to a younger audience.",
+            "sent4": "The designer tailored the dress with intricate lace details.",
+            "sent5": "They tailored the software to be user-friendly for all ages."
         }
     ]
 }

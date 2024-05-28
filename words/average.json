@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A typical amount, rate, or level of something",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The average amount of rainfall in this region is 20 inches per year.",
+            "sent2": "She scored an average of 85% on her math tests this semester.",
+            "sent3": "It's not exciting, but eating oatmeal for breakfast every day is pretty average.",
+            "sent4": "His performance in the game was below average compared to his usual skill level.",
+            "sent5": "The average height of the students in the class was around 5 feet."
         },
         {
             "definition": "A number expressing the central or typical value in a set of data",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The average of 5, 10, and 15 is 10.",
+            "sent2": "In statistics, the mean is another term for average.",
+            "sent3": "The average of the ages of the siblings was used to determine who would go first.",
+            "sent4": "Her kindness and generosity make her the average of a good friend.",
+            "sent5": "The average of the test scores showed a steady improvement over the semester."
         },
         {
             "definition": "To calculate the average of a set of numbers",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Let's average the scores of the students to see how they performed.",
+            "sent2": "She decided to average the temperatures recorded over the week.",
+            "sent3": "I can average the prices of the items to see which one is the best deal.",
+            "sent4": "He will average the distances traveled to estimate the total distance covered.",
+            "sent5": "The teacher asked the students to average their quiz scores for the semester."
         }
     ]
 }

@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A person or thing that takes the place of another.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "During the play, the actor was the replacer for the lead role.",
+            "sent2": "The robot was designed as a replacer for human workers in dangerous environments.",
+            "sent3": "The cake was a replacer for the missing dessert at the party.",
+            "sent4": "Her laughter was a replacer for the music in the room.",
+            "sent5": "The new student became a replacer for the one who moved away, filling the empty desk."
         },
         {
             "definition": "A substance used to replace another in a chemical reaction.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The chemist added the replacer to the solution to observe the reaction.",
+            "sent2": "In the experiment, the scientist used a replacer to test the hypothesis.",
+            "sent3": "The potion contained a mysterious replacer that changed the color of the liquid.",
+            "sent4": "The missing ingredient acted as a replacer, altering the final product.",
+            "sent5": "The student carefully measured the replacer before adding it to the mixture."
         },
         {
             "definition": "A player who substitutes for another in a sports game.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The coach signaled for the replacer to enter the field and join the team.",
+            "sent2": "The injured player was replaced by a skilled replacer to continue the match.",
+            "sent3": "The unexpected rain made the game more exciting as the replacer slipped on the wet field.",
+            "sent4": "The young athlete proved to be a valuable replacer, scoring the winning goal.",
+            "sent5": "The coach praised the replacer for their quick reflexes and teamwork."
         }
     ]
 }

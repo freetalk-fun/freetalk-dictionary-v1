@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Notice or perceive (something) and register it as being significant.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He observes the birds chirping in the morning.",
+            "sent2": "She observes the beautiful sunset every evening.",
+            "sent3": "The detective observes the suspect's nervous behavior.",
+            "sent4": "She observes the world with a keen eye for detail.",
+            "sent5": "The scientist carefully observes the experiment to gather data."
         },
         {
             "definition": "Celebrate or solemnize (a holiday or occasion) in a particular way.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "They observe Christmas by decorating the tree.",
+            "sent2": "We observe Independence Day with fireworks.",
+            "sent3": "The family observes Thanksgiving with a big feast.",
+            "sent4": "She observes her birthday with a special cake.",
+            "sent5": "The community observes New Year's Eve with a countdown."
         },
         {
             "definition": "Follow (a custom, rule, or law) in a particular way.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He observes the speed limit while driving.",
+            "sent2": "She observes the tradition of wearing red on Chinese New Year.",
+            "sent3": "The student observes the school rules diligently.",
+            "sent4": "The team observes the coach's instructions during the game.",
+            "sent5": "The citizens observe the law by paying their taxes on time."
         }
     ]
 }

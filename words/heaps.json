@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A great deal; a lot",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "She had heaps of fun at the party.",
+            "sent2": "There were heaps of toys in the playroom.",
+            "sent3": "He brought heaps of snacks to the picnic.",
+            "sent4": "The student had heaps of questions about the assignment.",
+            "sent5": "The garden was filled with heaps of colorful flowers."
         },
         {
             "definition": "Piles or stacks of things",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The garage was full of heaps of old boxes.",
+            "sent2": "She organized the books into neat heaps on the shelves.",
+            "sent3": "The cat knocked over the heaps of laundry in the basket.",
+            "sent4": "The museum displayed heaps of ancient artifacts.",
+            "sent5": "The hiker saw heaps of rocks at the mountain's peak."
         },
         {
             "definition": "To pile up in a heap",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He heaps the leaves in the backyard every fall.",
+            "sent2": "The workers heap the sand into mounds for construction.",
+            "sent3": "She accidentally heaps the clothes on the chair instead of folding them.",
+            "sent4": "The chef heaps the ingredients together to make a delicious stew.",
+            "sent5": "The snow begins to heap on the ground during a heavy storm."
         }
     ]
 }

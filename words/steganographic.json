@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Concealing messages within other non-secret text or data.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The steganographic technique was used to hide a secret message within a digital image.",
+            "sent2": "Steganographic tools are often employed by spies to send covert messages.",
+            "sent3": "The detective found the steganographic message hidden in the book, revealing the secret code.",
+            "sent4": "Her smile was like a steganographic message, hiding her true feelings behind a mask of happiness.",
+            "sent5": "The steganographic method made the hidden message nearly impossible to detect."
         },
         {
             "definition": "The practice of hiding secret information within a non-secret medium.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Using steganographic techniques, the spy embedded the confidential data within the innocent-looking file.",
+            "sent2": "The art of steganographic communication has a long history in espionage.",
+            "sent3": "The steganographic puzzle was so cleverly crafted that only the most astute codebreakers could decipher it.",
+            "sent4": "Her eyes held a steganographic secret, revealing her true emotions to those who knew her well.",
+            "sent5": "The steganographic process allowed the hidden information to remain undetected by prying eyes."
         }
     ]
 }

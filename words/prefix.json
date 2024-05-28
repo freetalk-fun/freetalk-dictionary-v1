@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A word, letter, or number placed before another.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "In the word 'unhappy', 'un-' is a prefix.",
+            "sent2": "The prefix 'pre-' means before.",
+            "sent3": "I always remember a prefix as the little word that comes before the big word.",
+            "sent4": "Adding a prefix is like putting a tiny hat on a word.",
+            "sent5": "The prefix 're-' can make a word mean 'again'."
         },
         {
             "definition": "To add a prefix to a word.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Remember to prefix your username with 'Mr'.",
+            "sent2": "I will prefix the title with 'Dr.' before your name.",
+            "sent3": "I like to prefix my passwords with my favorite number.",
+            "sent4": "She decided to prefix her email with a smiley face.",
+            "sent5": "You can prefix the word 'happy' with 'un-' to make 'unhappy'."
         }
     ]
 }

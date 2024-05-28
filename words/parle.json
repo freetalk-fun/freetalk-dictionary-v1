@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Speak",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She parles with kindness to everyone.",
+            "sent2": "He parles with confidence during presentations.",
+            "sent3": "The cat parles with the birds in the garden.",
+            "sent4": "The wind parles softly through the trees.",
+            "sent5": "The teacher parles clearly to help students understand."
         },
         {
             "definition": "Conversation",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Their parle was filled with laughter and joy.",
+            "sent2": "I enjoy a good parle with friends over coffee.",
+            "sent3": "The parle between the two dogs sounded like music.",
+            "sent4": "The parle of the leaves in the wind was soothing.",
+            "sent5": "The parle at the party was lively and engaging."
         },
         {
             "definition": "Talk",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Their parle about the movie lasted for hours.",
+            "sent2": "The parle at the meeting was productive.",
+            "sent3": "The parle of the toys in the playroom was amusing.",
+            "sent4": "The parle of the river with the rocks was constant.",
+            "sent5": "The parle of the birds in the morning was cheerful."
         }
     ]
 }

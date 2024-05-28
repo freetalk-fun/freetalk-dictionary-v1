@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A person or organization that certifies something.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The certifier at the school verified that the students completed their training.",
+            "sent2": "The certifier stamped the document to show it was official.",
+            "sent3": "The certifier at the bakery confirmed that the cakes were delicious.",
+            "sent4": "The certifier of quality ensured that the products met the highest standards.",
+            "sent5": "The certifier's signature on the contract made it legally binding."
         },
         {
             "definition": "To confirm or attest to the accuracy or truth of something.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She will certifier the results of the experiment before publishing them.",
+            "sent2": "The expert will certifier the authenticity of the painting.",
+            "sent3": "He jokingly said he would certifier that the cat was the best dancer.",
+            "sent4": "The applause from the audience certifiered the success of the performance.",
+            "sent5": "The bright smile on her face certifiered her happiness."
         }
     ]
 }

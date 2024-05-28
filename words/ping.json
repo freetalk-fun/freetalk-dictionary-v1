@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A high-pitched, short, sharp sound.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The tiny bell made a soft ping when it was struck.",
+            "sent2": "I heard a ping as the metal spoon hit the glass.",
+            "sent3": "The ping of the microwave signaled that my popcorn was ready.",
+            "sent4": "The ping of the pinball machine echoed through the arcade.",
+            "sent5": "The ping of the wind chimes filled the garden with music."
         },
         {
             "definition": "To make a high-pitched, short, sharp sound.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I accidentally poked the balloon, causing it to ping loudly.",
+            "sent2": "The metal ruler will ping if you flick it with your finger.",
+            "sent3": "The spoon pinged against the bowl, making a musical noise.",
+            "sent4": "The glass bottle pinged as it rolled off the table and hit the floor.",
+            "sent5": "The raindrops pinged against the window during the storm."
         },
         {
             "definition": "To send a quick, short message to a computer or network device to check for a response.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I will ping the server to see if it is responding to requests.",
+            "sent2": "The IT technician needs to ping the network to troubleshoot the issue.",
+            "sent3": "I decided to ping my friend online to ask about the party.",
+            "sent4": "The program will automatically ping the devices to ensure connectivity.",
+            "sent5": "The system administrator will ping the devices to monitor network health."
         }
     ]
 }

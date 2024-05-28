@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Required or necessary for a particular purpose",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "Having the requisite skills is important for success.",
+            "sent2": "Studying is a requisite part of learning new things.",
+            "sent3": "Wearing a superhero cape to a job interview is not requisite.",
+            "sent4": "Patience is the requisite ingredient for a successful relationship.",
+            "sent5": "The requisite tools for gardening include a shovel and gloves."
         },
         {
             "definition": "Something that is necessary or essential",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Food and water are requisites for survival.",
+            "sent2": "A good night's sleep is a requisite for a productive day.",
+            "sent3": "Bringing a beach umbrella to a snowy mountain is not a requisite.",
+            "sent4": "Laughter is the requisite for a joyful atmosphere.",
+            "sent5": "The requisite for a successful party is good music and tasty snacks."
         }
     ]
 }

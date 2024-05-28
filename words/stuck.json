@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Unable to move from a particular position or place.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The toy car was stuck under the bed.",
+            "sent2": "The door was stuck shut and wouldn't open.",
+            "sent3": "The cat got stuck in a box and couldn't find its way out.",
+            "sent4": "Her thoughts were stuck in the past, unable to move forward.",
+            "sent5": "The glue was so strong that it kept the pieces stuck together forever."
         },
         {
             "definition": "Caught or fixed in a particular position or situation.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The kite was stuck in the tree branches.",
+            "sent2": "She felt stuck in a boring routine.",
+            "sent3": "The key got stuck in the lock and wouldn't turn.",
+            "sent4": "His mind was stuck on the same idea, unable to think of anything else.",
+            "sent5": "The ship was stuck in the ice, unable to move forward."
         },
         {
             "definition": "To be unable to progress or move forward.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The wheel of the bike got stuck in the mud.",
+            "sent2": "I was stuck in traffic for hours.",
+            "sent3": "He got stuck in a tricky situation but managed to find a way out.",
+            "sent4": "Her career seemed stuck, with no opportunities for growth.",
+            "sent5": "The ball got stuck in the tree, and no one could reach it."
         }
     ]
 }

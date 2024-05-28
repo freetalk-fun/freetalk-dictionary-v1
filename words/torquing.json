@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To twist or turn with force",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She was torquing the lid off the jar with all her strength.",
+            "sent2": "He torqued the screwdriver to tighten the loose screw.",
+            "sent3": "The robot started torquing its body in a dance-like motion.",
+            "sent4": "The tornado was torquing through the town, causing destruction.",
+            "sent5": "The wrestler torqued his opponent's arm to gain the upper hand."
         },
         {
             "definition": "The measure of a force's tendency to rotate an object around an axis",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The engineer calculated the torquing force needed to rotate the wheel.",
+            "sent2": "The torque of the motor helped spin the propeller of the plane.",
+            "sent3": "The torquing of the merry-go-round made the children giggle.",
+            "sent4": "The torquing of the Earth's axis affects the changing seasons.",
+            "sent5": "The torquing of the wrench loosened the stubborn bolt."
         },
         {
             "definition": "The act of applying torque to tighten or loosen a bolt",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "He used a wrench for the torquing of the bolt on the machine.",
+            "sent2": "The mechanic's precise torquing ensured the car's parts were secure.",
+            "sent3": "The torquing of the screw made a satisfying clicking sound.",
+            "sent4": "She demonstrated the proper torquing technique during the workshop.",
+            "sent5": "The torquing of the nut required a specific amount of force."
         }
     ]
 }

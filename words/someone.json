@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "An unspecified person",
-            "pos": "pronoun"
+            "pos": "pronoun",
+            "sent1": "If someone wants to join us, they are welcome to.",
+            "sent2": "Can someone please pass me the salt?",
+            "sent3": "Someone mysterious left a note on the doorstep.",
+            "sent4": "In the dark alley, someone's presence sent shivers down my spine.",
+            "sent5": "The sound of footsteps echoed, signaling someone's approach."
         },
         {
             "definition": "A person of importance or authority",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The mayor is someone who leads the town.",
+            "sent2": "It's essential to listen to someone with experience.",
+            "sent3": "At the event, someone important arrived in a grand limousine.",
+            "sent4": "In the meeting, his words carried the weight of someone in charge.",
+            "sent5": "The CEO's presence commanded respect as someone at the top."
         },
         {
             "definition": "A person who is not named or specified",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I saw someone waiting at the bus stop earlier.",
+            "sent2": "There's someone at the door, but I can't see who it is.",
+            "sent3": "In the story, someone mysterious lurked in the shadows.",
+            "sent4": "The painting depicted someone faceless, representing anonymity.",
+            "sent5": "The silhouette in the distance could be someone familiar but distant."
         }
     ]
 }

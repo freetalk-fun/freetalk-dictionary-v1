@@ -3,19 +3,39 @@
     "meanings": [
         {
             "definition": "Sell",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I will vend my old toys at the garage sale.",
+            "sent2": "She vends handmade jewelry at the craft fair.",
+            "sent3": "The cat tried to vend its meows for treats.",
+            "sent4": "The sun vends its warmth to all living creatures.",
+            "sent5": "In the market, vendors vend various goods to customers."
         },
         {
             "definition": "Sale",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "After the successful vend, they celebrated with a party.",
+            "sent2": "The vend of the house brought joy to the family.",
+            "sent3": "The unexpected vend of ice cream in winter surprised everyone.",
+            "sent4": "The vend of tickets for the concert was swift.",
+            "sent5": "The vend of the rare painting fetched a high price at the auction."
         },
         {
             "definition": "Seller",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The street vendor is a friendly seller of fruits.",
+            "sent2": "The online seller vends products worldwide.",
+            "sent3": "The seller tried to vend a broken clock as new.",
+            "sent4": "The seller's smile was as bright as the sun.",
+            "sent5": "The seller's honesty made customers trust him."
         },
         {
             "definition": "Vending machine",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The vending machine vends snacks and drinks.",
+            "sent2": "I inserted coins into the vending machine to vend a soda.",
+            "sent3": "The vending machine decided to vend two items by mistake.",
+            "sent4": "The vending machine's buttons light up when it vends.",
+            "sent5": "The vending machine hums softly as it vends products."
         }
     ]
 }

@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "The act of representing something, typically on a smaller scale.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "In art class, the students learned about modeling by creating clay figures.",
+            "sent2": "The architect used modeling to design a miniature version of the building.",
+            "sent3": "The children had fun modeling animals out of playdough.",
+            "sent4": "Her detailed modeling of the landscape brought the painting to life.",
+            "sent5": "The scientist's precise modeling of the molecule structure was impressive."
         },
         {
             "definition": "The process of creating a mathematical representation of a system.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Mathematicians use modeling to simulate real-world scenarios.",
+            "sent2": "The engineer employed modeling to analyze the flow of water in the pipes.",
+            "sent3": "The students giggled as they tried modeling complex equations on the board.",
+            "sent4": "The computer program's accurate modeling of the weather patterns helped predict storms.",
+            "sent5": "The teacher explained the concept of modeling using simple shapes and numbers."
         },
         {
             "definition": "The act of serving as a role model for others.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The athlete's dedication to training made him a great modeling for young athletes.",
+            "sent2": "She embraced the responsibility of modeling positive behavior for her siblings.",
+            "sent3": "The comedian joked about accidentally modeling bad habits for his fans.",
+            "sent4": "The teacher's kindness and patience served as a modeling for the students.",
+            "sent5": "The celebrity understood the importance of modeling good values to her followers."
         }
     ]
 }

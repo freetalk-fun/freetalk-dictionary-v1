@@ -3,19 +3,39 @@
     "meanings": [
         {
             "definition": "A person sent out to obtain information.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The scout went to gather details about the enemy.",
+            "sent2": "The scout found out where the treasure was hidden.",
+            "sent3": "The scout discovered that the cookies were missing from the jar.",
+            "sent4": "The scout's keen eyes spotted the rare bird in the forest.",
+            "sent5": "The scout's job is to bring back news from the other side of the river."
         },
         {
             "definition": "To explore an area in order to obtain information.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "We will scout the forest for a suitable camping spot.",
+            "sent2": "The team decided to scout the neighborhood for potential locations.",
+            "sent3": "Let's scout the kitchen for any hidden snacks.",
+            "sent4": "The detective will scout the crime scene for clues.",
+            "sent5": "They plan to scout the mountain for a new hiking trail."
         },
         {
             "definition": "A member of the Boy Scouts or Girl Scouts organization.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The scout helped an elderly person cross the street.",
+            "sent2": "Every scout in the troop earned a merit badge.",
+            "sent3": "The scout tied a knot that even the instructor couldn't undo.",
+            "sent4": "The scout camped under the stars during the summer jamboree.",
+            "sent5": "The scout's uniform was neatly pressed for the ceremony."
         },
         {
             "definition": "To search for talented individuals in a specific field.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The talent agent will scout for new actors at the audition.",
+            "sent2": "They plan to scout for skilled musicians at the concert.",
+            "sent3": "The coach will scout for potential players at the tryouts.",
+            "sent4": "The company will scout for innovative designers at the expo.",
+            "sent5": "The recruiter will scout for bright minds at the job fair."
         }
     ]
 }

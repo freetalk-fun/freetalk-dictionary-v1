@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Identify the nature of (a problem or illness) by examination.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The doctor is diagnosing the patient's fever.",
+            "sent2": "She is diagnosing the issue with the computer.",
+            "sent3": "The detective was diagnosing the mysterious case with his magnifying glass.",
+            "sent4": "The mechanic is diagnosing the car's strange noise.",
+            "sent5": "The scientist is diagnosing the unknown substance in the lab."
         },
         {
             "definition": "Investigate and analyze the cause or nature of (a problem or illness).",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The team is diagnosing the reason for the project's delay.",
+            "sent2": "He is diagnosing the source of the leak in the pipe.",
+            "sent3": "The students were diagnosing the missing homework like detectives.",
+            "sent4": "The IT specialist is diagnosing the network issue.",
+            "sent5": "The chef is diagnosing the bland taste of the soup."
         }
     ]
 }

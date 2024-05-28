@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A small, slow-moving caterpillar that moves by contracting and expanding its body in a looping motion.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The inchworm crawled along the leaf carefully.",
+            "sent2": "I saw an inchworm on the branch outside.",
+            "sent3": "The inchworm tried to measure the leaf but got lost in the process.",
+            "sent4": "Her progress in the project was as slow as an inchworm's crawl.",
+            "sent5": "The children were fascinated by the inchworm's unique way of moving."
         },
         {
             "definition": "To move or progress slowly and steadily, resembling the movement of an inchworm.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He would inchworm his way through the obstacle course.",
+            "sent2": "The snail inchwormed its way across the garden path.",
+            "sent3": "She decided to inchworm her way through the crowded room to avoid bumping into people.",
+            "sent4": "Time seemed to inchworm forward as he waited for the test results.",
+            "sent5": "The old car inchwormed along the road, barely making any progress."
         }
     ]
 }

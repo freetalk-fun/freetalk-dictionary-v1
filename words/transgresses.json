@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Violates a law, command, moral code, etc.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He transgresses the rules by cheating on the test.",
+            "sent2": "She always transgresses the speed limit while driving.",
+            "sent3": "The mischievous cat transgresses the 'no pets on the furniture' rule.",
+            "sent4": "His behavior transgresses the boundaries of common decency.",
+            "sent5": "The graffiti artist transgresses the property lines with their art."
         },
         {
             "definition": "Goes beyond the limits of what is considered acceptable.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The movie's transgresses scenes made some viewers uncomfortable.",
+            "sent2": "Her outfit was deemed transgresses for the formal event.",
+            "sent3": "The cake's transgresses decorations raised eyebrows at the party.",
+            "sent4": "His ideas are often transgresses in the conservative community.",
+            "sent5": "The experiment's results were so transgresses that they defied explanation."
         }
     ]
 }

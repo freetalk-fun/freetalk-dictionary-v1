@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "past tense of tell",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Yesterday, she telt me a funny story.",
+            "sent2": "He telt his friends about the exciting adventure.",
+            "sent3": "The cat telt the dog a secret, making them both laugh.",
+            "sent4": "Her eyes telt a story of sadness and longing.",
+            "sent5": "The old book telt tales of ancient times and faraway lands."
         },
         {
             "definition": "informed or notified",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "She was telt about the change in plans.",
+            "sent2": "The students were telt about the upcoming test.",
+            "sent3": "The telt students were excited for the surprise party.",
+            "sent4": "His expression telt me that he already knew the news.",
+            "sent5": "The telt passengers quickly boarded the train before it departed."
         },
         {
             "definition": "counted or calculated",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The telt number of apples in the basket was ten.",
+            "sent2": "She telt the total cost of the items in her shopping cart.",
+            "sent3": "The telt coins in the jar were enough to buy a treat.",
+            "sent4": "His careful telt steps led him to the hidden treasure.",
+            "sent5": "The telt distance between the two towns was longer than expected."
         }
     ]
 }

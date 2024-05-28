@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A disagreeable odor.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The fum from the garbage made me hold my nose.",
+            "sent2": "The kitchen was filled with a strong fum after burning the dinner.",
+            "sent3": "The fum from the skunk's spray lingered in the air, causing everyone to wrinkle their noses.",
+            "sent4": "The fum of failure hung heavy in the room, stifling any sense of accomplishment.",
+            "sent5": "The fum of rotten eggs was so overpowering that it stayed in my memory for days."
         },
         {
             "definition": "To give off a disagreeable odor.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The old shoes fummed up the entire room with their stench.",
+            "sent2": "The garbage began to fum as it sat in the hot sun.",
+            "sent3": "The socks fummed so badly that they seemed to have a life of their own.",
+            "sent4": "The neglected fridge fummed out a foul smell that could be detected from the hallway.",
+            "sent5": "The flower wilted and started to fum, signaling its decay."
         },
         {
             "definition": "To express disapproval or contempt.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She fummed at the rude comment made by her classmate.",
+            "sent2": "The teacher fummed at the students for not completing their homework.",
+            "sent3": "He fummed loudly when he saw the messy state of his room.",
+            "sent4": "The judge fummed at the defendant's lack of remorse.",
+            "sent5": "The boss fummed at the employees for their constant tardiness."
         }
     ]
 }

@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A large seagoing vessel.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The ships sailed across the ocean.",
+            "sent2": "The harbor was filled with majestic ships.",
+            "sent3": "The tiny toy ship floated in the bathtub.",
+            "sent4": "The ships on the horizon looked like floating cities.",
+            "sent5": "The pirate ship had tattered sails and a skull flag."
         },
         {
             "definition": "To send by ship.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "They ships goods to other countries.",
+            "sent2": "She ships packages to customers worldwide.",
+            "sent3": "He ships his homemade jam to friends as gifts.",
+            "sent4": "The company ships its products using reliable carriers.",
+            "sent5": "The online store ships orders promptly for customer satisfaction."
         },
         {
             "definition": "To engage in the business of shipping goods.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The company ships products to retailers.",
+            "sent2": "She ships items for international trade.",
+            "sent3": "He ships goods from the warehouse to stores.",
+            "sent4": "The shipping company ships cargo worldwide.",
+            "sent5": "The online platform ships orders efficiently to customers."
         }
     ]
 }

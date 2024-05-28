@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Past tense of understand.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She quickly understood the math problem.",
+            "sent2": "I finally understood the instructions after reading them a few times.",
+            "sent3": "The cat understood that the laser pointer was a fun toy.",
+            "sent4": "His silence understood more than any words could express.",
+            "sent5": "The concept finally clicked, and I understood it completely."
         },
         {
             "definition": "Accepted as true or valid without further explanation.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The understood fact was that the sun rises in the east.",
+            "sent2": "It is an understood rule that you must wear a helmet while biking.",
+            "sent3": "The understood agreement was that everyone would bring a dish to the potluck.",
+            "sent4": "Her smile was an understood signal that everything was okay.",
+            "sent5": "The understood tradition was to exchange gifts on Christmas Eve."
         },
         {
             "definition": "Implicitly known or assumed.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The understood meaning behind his words was clear to everyone.",
+            "sent2": "It was understood that she would always be there for her friends.",
+            "sent3": "The understood consequence of not studying was failing the test.",
+            "sent4": "The understood hierarchy in the office made promotions predictable.",
+            "sent5": "The understood danger of the situation made everyone cautious."
         }
     ]
 }

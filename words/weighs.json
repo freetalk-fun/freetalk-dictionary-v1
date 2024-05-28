@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To have a specified weight.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The apple weighs one pound.",
+            "sent2": "She weighs herself on the scale every morning.",
+            "sent3": "The cat weighs the pros and cons before making a decision.",
+            "sent4": "His words weigh heavily on her heart.",
+            "sent5": "The responsibility of caring for a pet weighs on her mind constantly."
         },
         {
             "definition": "To measure the weight of something.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The butcher weighs the meat before packaging it.",
+            "sent2": "Can you weigh this suitcase for me?",
+            "sent3": "The scientist weighs the importance of each variable in the experiment.",
+            "sent4": "The judge weighs the evidence presented in court.",
+            "sent5": "The jeweler weighs the gold to determine its value."
         },
         {
             "definition": "To consider carefully.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He weighs his options before making a decision.",
+            "sent2": "She weighs the consequences of her actions.",
+            "sent3": "The comedian weighs his words to avoid offending anyone.",
+            "sent4": "The teacher weighs the impact of each lesson on the students.",
+            "sent5": "The politician weighs the public opinion before announcing a new policy."
         }
     ]
 }

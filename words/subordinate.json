@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Lower in rank or position",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The assistant manager is a subordinate employee.",
+            "sent2": "The captain is not subordinate to the sergeant.",
+            "sent3": "The tiny ant felt subordinate to the mighty elephant.",
+            "sent4": "In the game of chess, pawns are the subordinate pieces.",
+            "sent5": "The dim candle seemed subordinate to the bright chandelier."
         },
         {
             "definition": "To treat as less important or inferior",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Do not subordinate your needs for others all the time.",
+            "sent2": "It is unfair to subordinate one person's feelings to another's.",
+            "sent3": "She jokingly said she would subordinate her cat's demands to her own.",
+            "sent4": "Sometimes, we unintentionally subordinate our own happiness for others.",
+            "sent5": "He always tries to subordinate his desires to his responsibilities."
         },
         {
             "definition": "A person under the authority or control of another",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The manager's subordinate completed the report.",
+            "sent2": "The soldier followed the orders of his military subordinate.",
+            "sent3": "The cat acted as if the dog was its subordinate in the house.",
+            "sent4": "In the company, the CEO's subordinate handled daily operations.",
+            "sent5": "The teacher's subordinate helped organize the classroom activities."
         }
     ]
 }

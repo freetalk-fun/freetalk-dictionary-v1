@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "An act of delivering a speech or discourse to an audience.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "During the lecture, the professor explained the topic in detail.",
+            "sent2": "The lecture at the conference was informative and engaging.",
+            "sent3": "The lecture about dinosaurs made the kids excited to learn more.",
+            "sent4": "Her lecture on environmental conservation was like a beacon of knowledge.",
+            "sent5": "The lecture on space exploration left a lasting impression on the students."
         },
         {
             "definition": "To give a formal talk to a group of people.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She enjoys lecturing about history to the students.",
+            "sent2": "The professor will be lecturing on economics next week.",
+            "sent3": "He was lecturing so passionately that he almost forgot the time.",
+            "sent4": "The expert was lecturing as if sharing secrets of the trade.",
+            "sent5": "Lecturing on art history, she captured the audience's attention effortlessly."
         },
         {
             "definition": "To scold or reprimand someone in a long-winded manner.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The teacher was lecturing the students for not completing their homework.",
+            "sent2": "She lectured her brother for leaving the door unlocked.",
+            "sent3": "The cat seemed to be lecturing the dog for making a mess.",
+            "sent4": "He felt like he was lecturing a brick wall when talking to his stubborn friend.",
+            "sent5": "The boss was lecturing the employees about punctuality in the workplace."
         }
     ]
 }

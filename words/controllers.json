@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A person or thing that directs or regulates something.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The traffic controllers guided the cars safely through the intersection.",
+            "sent2": "The TV remote is a controller that changes channels.",
+            "sent3": "The game controllers had a mind of their own, making the characters move in funny ways.",
+            "sent4": "She was the controller of the office, ensuring everything ran smoothly like a well-oiled machine.",
+            "sent5": "The thermostat acted as the controller of the room temperature, adjusting it automatically."
         },
         {
             "definition": "A device or mechanism that operates or regulates a machine or system.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The temperature controller on the oven kept the heat at the right level for baking.",
+            "sent2": "The speed controller on the fan allowed for adjusting the airflow.",
+            "sent3": "The robot's arm controller seemed to have a mind of its own, moving in unexpected ways.",
+            "sent4": "The keycard acted as the controller of access to the secure room, granting entry to authorized personnel only.",
+            "sent5": "The volume controller on the speaker made the music louder or softer with a simple turn."
         },
         {
             "definition": "A person in charge of a financial or administrative department.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The financial controller managed the company's budget and expenses.",
+            "sent2": "The administrative controller oversaw the office operations and staff.",
+            "sent3": "The office controller joked that she had to 'control' her urge to buy more office supplies.",
+            "sent4": "She was the controller of the company's finances, ensuring all transactions were recorded accurately.",
+            "sent5": "The controller of the department kept a close eye on the expenses, making sure they stayed within budget."
         }
     ]
 }

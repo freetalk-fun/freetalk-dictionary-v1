@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Present participle of lie (to make an untrue statement with intent to deceive)",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She was caught lying about her grades.",
+            "sent2": "He always tells the truth, never lying to anyone.",
+            "sent3": "The little boy tried lying about eating the cookies, but the crumbs gave him away.",
+            "sent4": "Her web of lies was slowly unraveling, exposing her deceitful lying.",
+            "sent5": "The detective knew he was lying when his eyes darted around nervously."
         },
         {
             "definition": "Adjective: telling or containing lies",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The lying politician lost the trust of the people.",
+            "sent2": "She could not believe his lying words.",
+            "sent3": "The lying cat pretended innocence after knocking over the vase.",
+            "sent4": "The lying advertisement promised results that were too good to be true.",
+            "sent5": "His lying behavior was evident in the inconsistencies of his story."
         },
         {
             "definition": "Adverb: in a horizontal position or direction",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "She was lying on the grass, enjoying the sunshine.",
+            "sent2": "The books were lying neatly on the shelf.",
+            "sent3": "The cat was lying lazily in the sunbeam, purring contentedly.",
+            "sent4": "The fallen leaves were lying undisturbed on the forest floor.",
+            "sent5": "The keys were lying forgotten on the table."
         }
     ]
 }

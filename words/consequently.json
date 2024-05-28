@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "As a result or effect of something else.",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "She forgot her umbrella and consequently got soaked in the rain.",
+            "sent2": "He missed the bus and consequently arrived late to work.",
+            "sent3": "The cat knocked over the vase, and consequently, the dog got blamed for it.",
+            "sent4": "The broken lock on the door consequently led to a burglary.",
+            "sent5": "The leak in the roof consequently caused water damage to the ceiling."
         },
         {
             "definition": "Therefore; thus.",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "She didn't study for the test; consequently, she failed.",
+            "sent2": "He didn't have enough money; consequently, he couldn't buy the new shoes.",
+            "sent3": "The bakery ran out of bread; consequently, the customers had to go elsewhere.",
+            "sent4": "The car ran out of gas; consequently, they had to walk home.",
+            "sent5": "The power outage lasted for hours; consequently, the food in the fridge spoiled."
         }
     ]
 }

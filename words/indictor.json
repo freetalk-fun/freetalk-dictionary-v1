@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A person or thing that indicates or shows something.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The compass was a reliable indictor of which way was north.",
+            "sent2": "The traffic light is an important indictor for drivers to know when to stop or go.",
+            "sent3": "The barking dog was an unexpected indictor of the mailman's arrival.",
+            "sent4": "Her smile was like a bright indictor of her happiness.",
+            "sent5": "The dark clouds were a clear indictor of an approaching storm."
         },
         {
             "definition": "A device or instrument used to provide a signal or warning.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The smoke alarm is a crucial indictor of a fire in the house.",
+            "sent2": "The speedometer in the car is an important indictor of how fast you are driving.",
+            "sent3": "The ringing phone served as an indictor of an incoming call.",
+            "sent4": "The lighthouse beam acted as a guiding indictor for ships in the night.",
+            "sent5": "The low battery icon on the phone was a clear indictor to recharge it."
         },
         {
             "definition": "A person who brings a formal accusation or charge against someone in a court of law.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The prosecutor acted as the main indictor in the criminal trial.",
+            "sent2": "The witness was an important indictor in the case against the suspect.",
+            "sent3": "The clumsy lawyer became an accidental indictor in the courtroom drama.",
+            "sent4": "Her pointed finger was an indictor of blame towards the defendant.",
+            "sent5": "The judge's gavel served as a powerful indictor of order in the courtroom."
         }
     ]
 }

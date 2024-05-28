@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A person or thing that indicates or signals something.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The smoke alarm is an indictors of a fire in the house.",
+            "sent2": "The compass is a reliable indictors of direction when hiking.",
+            "sent3": "The barking dog acted as an indictors of the mailman's arrival.",
+            "sent4": "Her sudden silence was an indictors of her anger brewing beneath the surface.",
+            "sent5": "The dark clouds were a clear indictors of an approaching storm."
         },
         {
             "definition": "A device or mechanism that shows or reveals a particular condition or trend.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The thermometer is an important indictors of the temperature in the room.",
+            "sent2": "The speedometer in the car is a useful indictors of how fast you are driving.",
+            "sent3": "The blinking red light served as an indictors of the machine needing maintenance.",
+            "sent4": "The stock market can be an unpredictable indictors of economic stability.",
+            "sent5": "The traffic light is a crucial indictors for drivers to know when to stop or go."
         }
     ]
 }

@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Sufficient to meet a need or satisfy a desire.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "She had enough time to finish her homework before dinner.",
+            "sent2": "He had enough money to buy a new toy.",
+            "sent3": "The cake had enough frosting to make it delicious.",
+            "sent4": "Her smile was enough to brighten up the room.",
+            "sent5": "The sun provided enough light for the plants to grow."
         },
         {
             "definition": "In a quantity or degree that satisfies a requirement or need.",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "He ran fast enough to catch the bus.",
+            "sent2": "She spoke loud enough for everyone to hear.",
+            "sent3": "The cat jumped high enough to surprise the dog.",
+            "sent4": "The river flowed fast enough to carry the boat downstream.",
+            "sent5": "The wind blew hard enough to knock over the trash cans."
         },
         {
             "definition": "To a degree or extent that satisfies a condition or requirement.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She worked hard enough to earn a promotion.",
+            "sent2": "He studied long enough to pass the test.",
+            "sent3": "The dog barked loud enough to wake up the neighbors.",
+            "sent4": "The flowers bloomed beautifully enough to attract butterflies.",
+            "sent5": "The chef seasoned the dish perfectly enough to impress the guests."
         }
     ]
 }

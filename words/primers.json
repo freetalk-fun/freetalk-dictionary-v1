@@ -3,19 +3,39 @@
     "meanings": [
         {
             "definition": "A substance used as a preparatory coat on a surface before painting.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The painters applied primers to the walls before adding color.",
+            "sent2": "I bought some primers to use before painting my new desk.",
+            "sent3": "The primers were so sticky that they accidentally glued the paint cans shut.",
+            "sent4": "The primers acted like a shield, protecting the wall from the harsh paint.",
+            "sent5": "The primers made the wall smooth and ready for a fresh coat of paint."
         },
         {
             "definition": "A book that provides basic instruction or information.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The students used primers to learn about simple math concepts.",
+            "sent2": "I found a helpful primer on gardening at the library.",
+            "sent3": "The primer was so interesting that it made learning feel like a fun adventure.",
+            "sent4": "The primer was a key that unlocked a world of knowledge for the readers.",
+            "sent5": "The primer explained complex ideas in a way that was easy to understand."
         },
         {
             "definition": "A small charge used to ignite the main charge in a firearm.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The soldier carefully inserted the primer into the gun before firing.",
+            "sent2": "Hunters always carry extra primers for their rifles.",
+            "sent3": "The primer popped like a tiny firecracker, surprising everyone around.",
+            "sent4": "The primer sparked the beginning of the shooting competition.",
+            "sent5": "The primer's job was crucial in starting the gun's firing process."
         },
         {
             "definition": "A tool used to ignite a combustible mixture in an internal combustion engine.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The mechanic replaced the old primer in the engine with a new one.",
+            "sent2": "Drivers should always check the primers in their vehicles for safety.",
+            "sent3": "The primer made the engine roar to life like a sleeping dragon waking up.",
+            "sent4": "The primer was like a magic wand, bringing the engine to action with a touch.",
+            "sent5": "The primer's spark was the first step in starting the car's engine."
         }
     ]
 }

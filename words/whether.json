@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Expressing a doubt or choice between alternatives.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "I am unsure whether to wear the red shirt or the blue shirt.",
+            "sent2": "She couldn't decide whether to have pizza or pasta for dinner.",
+            "sent3": "The cat looked unsure whether to jump on the couch or the bed.",
+            "sent4": "The fog made it difficult to see whether the figure in the distance was a person or a tree.",
+            "sent5": "The detective pondered whether the suspect was telling the truth or lying."
         },
         {
             "definition": "Introducing a direct question or indirect question.",
-            "pos": "conjunction"
+            "pos": "conjunction",
+            "sent1": "I wonder whether you will come to the party.",
+            "sent2": "He asked whether she had seen his missing keys.",
+            "sent3": "The teacher inquired whether the students had completed their homework.",
+            "sent4": "She pondered whether it was worth going out in the rain.",
+            "sent5": "The child asked whether they could have ice cream for dessert."
         }
     ]
 }

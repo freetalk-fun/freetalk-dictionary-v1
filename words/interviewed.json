@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To have a formal meeting with someone to ask them questions and find out if they are suitable for a job or course",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Yesterday, I interviewed a candidate for the open position.",
+            "sent2": "The HR manager interviewed several applicants for the job.",
+            "sent3": "The job interviewer accidentally asked the candidate a silly question.",
+            "sent4": "The questions in the interview probed deep into the candidate's skills.",
+            "sent5": "The interview process helped the company choose the best candidate."
         },
         {
             "definition": "To have a conversation with someone in order to get information for a newspaper article, television show, etc.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The journalist interviewed the celebrity for the magazine feature.",
+            "sent2": "The reporter interviewed witnesses to gather more details about the incident.",
+            "sent3": "During the interview, the journalist discovered a surprising fact.",
+            "sent4": "The TV host interviewed the author about her latest book.",
+            "sent5": "The interview revealed new insights into the topic."
         }
     ]
 }

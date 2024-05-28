@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Found or proved guilty",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The criminal was convicted of the crime.",
+            "sent2": "The jury convicted the thief after hearing all the evidence.",
+            "sent3": "The mischievous cat was convicted of stealing treats from the pantry.",
+            "sent4": "His conscience convicted him of his wrongdoing.",
+            "sent5": "The judge's gavel striking down convicted the defendant."
         },
         {
             "definition": "Declared to be guilty",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The convicted man awaited his sentencing.",
+            "sent2": "The convicted felon served time in prison.",
+            "sent3": "The convicted student had to do extra homework as punishment.",
+            "sent4": "Her guilty expression was convicted of her involvement.",
+            "sent5": "The convicted individual showed remorse for their actions."
         },
         {
             "definition": "Having been convicted",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The lawyer represented the convicted client in court.",
+            "sent2": "The convicted individuals shared a cell in the prison.",
+            "sent3": "The convicted driver had to attend traffic school.",
+            "sent4": "The convicted party faced consequences for their actions.",
+            "sent5": "The convicted person sought redemption for their past mistakes."
         }
     ]
 }

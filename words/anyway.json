@@ -3,23 +3,48 @@
     "meanings": [
         {
             "definition": "In any case",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "I didn't want to go to the party, but I went anyway.",
+            "sent2": "She was tired, but she went to work anyway.",
+            "sent3": "Even though it was raining, he decided to go for a walk anyway.",
+            "sent4": "The cat ignored the toy, but played with the box anyway.",
+            "sent5": "Despite feeling nervous, she gave the speech anyway."
         },
         {
             "definition": "Regardless",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "He was late, but he joined the meeting anyway.",
+            "sent2": "She knew it was risky, but she tried it anyway.",
+            "sent3": "The dog barked at the mailman, but wagged its tail anyway.",
+            "sent4": "The child dropped the ice cream, but smiled anyway.",
+            "sent5": "Despite the mistake, she continued painting anyway."
         },
         {
             "definition": "Nevertheless",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "It was a long journey, but she arrived nevertheless.",
+            "sent2": "He was scared, but he faced his fear nevertheless.",
+            "sent3": "The cake looked burnt, but tasted delicious nevertheless.",
+            "sent4": "The team was losing, but they fought hard nevertheless.",
+            "sent5": "Despite the setback, she persisted nevertheless."
         },
         {
             "definition": "In any manner or respect",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "You can wear the dress anyway you like.",
+            "sent2": "He can solve the puzzle anyway he wants.",
+            "sent3": "The artist painted the landscape anyway she imagined.",
+            "sent4": "The chef can cook the dish anyway he prefers.",
+            "sent5": "You can decorate the room anyway you please."
         },
         {
             "definition": "Used to indicate that a statement explains or supports a previous statement",
-            "pos": "conjunction"
+            "pos": "conjunction",
+            "sent1": "She didn't like the movie, anyway it was too long.",
+            "sent2": "He didn't want to go out, anyway he had work to do.",
+            "sent3": "The store was closed, anyway she found what she needed online.",
+            "sent4": "He didn't have the key, anyway he managed to open the door.",
+            "sent5": "She didn't have the recipe, anyway she improvised and it turned out great."
         }
     ]
 }

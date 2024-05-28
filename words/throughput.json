@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "The amount of work done in a certain period of time",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The factory's throughput increased after implementing new machinery.",
+            "sent2": "The school measures its throughput by counting the number of completed assignments.",
+            "sent3": "The chef's impressive throughput in the kitchen amazed everyone.",
+            "sent4": "Her creativity had a throughput that surpassed all expectations.",
+            "sent5": "The athlete's high throughput in training sessions led to improved performance."
         },
         {
             "definition": "The rate at which something is processed or transferred",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The internet speed determines the data throughput of a connection.",
+            "sent2": "The technician monitored the network's throughput to ensure smooth operation.",
+            "sent3": "The magician's trick had a throughput that left the audience in awe.",
+            "sent4": "The river's strong current symbolized a high throughput of water.",
+            "sent5": "The conveyor belt's throughput was crucial for the efficiency of the production line."
         },
         {
             "definition": "The capacity of a system to handle a certain amount of work",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The server's throughput was tested to determine its maximum capacity.",
+            "sent2": "The airport's throughput was impressive during the holiday season.",
+            "sent3": "The superhero's super speed gave him a remarkable throughput in saving lives.",
+            "sent4": "The library's throughput of book loans increased with the new online catalog system.",
+            "sent5": "The car wash's high throughput of vehicles was a result of efficient teamwork."
         }
     ]
 }

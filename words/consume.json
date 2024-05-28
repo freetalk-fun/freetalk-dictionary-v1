@@ -3,19 +3,39 @@
     "meanings": [
         {
             "definition": "To eat or drink something",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I consume a delicious apple every morning for breakfast.",
+            "sent2": "It is important to consume a balanced diet for good health.",
+            "sent3": "After a long day, I consume a juicy watermelon to refresh myself.",
+            "sent4": "Her hunger was so intense that she seemed to consume the entire meal in seconds.",
+            "sent5": "The hungry bear would consume anything edible in its path."
         },
         {
             "definition": "To use up or deplete a resource",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The factory's production process consumes a lot of energy.",
+            "sent2": "We must be mindful not to consume all the natural resources too quickly.",
+            "sent3": "The marathon runner seemed to consume all the water stations along the route.",
+            "sent4": "The wildfire rapidly consumed the forest, leaving behind ashes.",
+            "sent5": "The growing population consumes more food each year."
         },
         {
             "definition": "To completely destroy or engulf by fire",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The flames quickly consumed the old wooden house.",
+            "sent2": "The wildfire consumed acres of land in a matter of hours.",
+            "sent3": "The campfire consumed the marshmallows, turning them golden brown.",
+            "sent4": "The dragon's fiery breath consumed the entire village.",
+            "sent5": "The fire danced as it consumed everything in its path."
         },
         {
             "definition": "To absorb or take in mentally or emotionally",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She was consumed by the thrilling plot of the book.",
+            "sent2": "The artist was consumed by inspiration, creating masterpiece after masterpiece.",
+            "sent3": "His mind was consumed by thoughts of the upcoming exam.",
+            "sent4": "The beauty of the sunset consumed her senses, leaving her in awe.",
+            "sent5": "The haunting melody consumed the audience, evoking deep emotions."
         }
     ]
 }

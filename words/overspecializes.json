@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To focus too narrowly on a particular area or subject.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He overspecializes in math and forgets about other subjects.",
+            "sent2": "She overspecializes in painting, but she also enjoys sculpting.",
+            "sent3": "The detective overspecializes in solving only murder cases, ignoring other crimes.",
+            "sent4": "The chef overspecializes in making pasta dishes, neglecting other culinary skills.",
+            "sent5": "The scientist overspecializes in studying one type of plant, missing out on the diversity of nature."
         },
         {
             "definition": "To become too specialized in a particular field or skill.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The athlete overspecializes in sprinting and struggles in longer races.",
+            "sent2": "As a doctor, he overspecializes in cardiology, but he can still treat general health issues.",
+            "sent3": "The artist overspecializes in using oil paints, missing out on the beauty of watercolors.",
+            "sent4": "The musician overspecializes in playing the guitar, limiting his ability to learn other instruments.",
+            "sent5": "The mechanic overspecializes in fixing engines, overlooking the importance of brakes and suspension systems."
         }
     ]
 }

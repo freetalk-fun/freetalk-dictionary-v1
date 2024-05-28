@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A person who testifies or provides evidence.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The attester in court shared what they saw.",
+            "sent2": "The attester signed a document confirming the events.",
+            "sent3": "The attester's testimony made everyone laugh in the courtroom.",
+            "sent4": "Her honesty was an attester to her character.",
+            "sent5": "The attester's words were like a beacon of truth in the trial."
         },
         {
             "definition": "To affirm or certify the truth of something.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I will attester to the accuracy of the report.",
+            "sent2": "She will attester that the information is correct.",
+            "sent3": "He loves to attester to his friends' jokes.",
+            "sent4": "Her smile attestered her happiness.",
+            "sent5": "The bright colors attestered the beauty of the painting."
         },
         {
             "definition": "To serve as evidence or proof of something.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The fingerprints attestered his presence at the scene.",
+            "sent2": "The contract will attester to the agreement between the parties.",
+            "sent3": "The overflowing sink attestered to the forgetfulness of the chef.",
+            "sent4": "The old photo attestered to the history of the building.",
+            "sent5": "The footprints attestered the path taken by the hiker."
         }
     ]
 }

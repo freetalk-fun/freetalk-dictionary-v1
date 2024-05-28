@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A mass of undissolved matter present in a fluid, such as blood or lymph.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The doctor found embolies in the patient's blood sample.",
+            "sent2": "The embolies in the river water caused a blockage in the pipe.",
+            "sent3": "The embolies in the pond made the fish swim around them like a maze.",
+            "sent4": "Her thoughts were like embolies, clogging up her mind and preventing clear thinking.",
+            "sent5": "The embolies in the jar looked like tiny pebbles floating in the liquid."
         },
         {
             "definition": "To obstruct a blood vessel by an embolus.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The clot embolies the artery, causing a heart attack.",
+            "sent2": "If left untreated, the embolies can lead to serious health complications.",
+            "sent3": "The embolies in the bloodstream decided to take a detour and block the wrong vessel.",
+            "sent4": "His fear embolies his thoughts, preventing him from making a decision.",
+            "sent5": "The embolies slowly but surely closed off the blood flow, causing numbness in his arm."
         }
     ]
 }

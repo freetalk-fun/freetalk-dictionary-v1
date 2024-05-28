@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Gaths: a plural form of gath, a Hebrew measure of weight",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The merchant measured the spices using gaths.",
+            "sent2": "The farmer sold his wheat by the gaths.",
+            "sent3": "The chef mistakenly used gaths instead of grams in the recipe.",
+            "sent4": "Her love for him weighed more than a thousand gaths.",
+            "sent5": "The treasure chest was filled with gaths of gold."
         },
         {
             "definition": "Gaths: third person singular present of gath, to go or move",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She gaths to the market every morning.",
+            "sent2": "The train gaths swiftly along the tracks.",
+            "sent3": "The cat gaths lazily across the room.",
+            "sent4": "Time gaths forward, never looking back.",
+            "sent5": "The river gaths peacefully towards the sea."
         }
     ]
 }

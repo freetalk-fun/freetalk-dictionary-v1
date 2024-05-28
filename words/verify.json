@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Confirm the truth or accuracy of something.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I need to verify if the answer is correct.",
+            "sent2": "Please verify your identity before entering the building.",
+            "sent3": "The detective had to verify the alibi of the suspect.",
+            "sent4": "Her smile verified her happiness.",
+            "sent5": "The scientist used a special tool to verify the experiment results."
         },
         {
             "definition": "Prove to be true or accurate.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He will verify his theory with more evidence.",
+            "sent2": "The fingerprints on the weapon verified his guilt.",
+            "sent3": "The magic potion verified its effectiveness by turning the frog into a prince.",
+            "sent4": "The old map verified the existence of hidden treasure.",
+            "sent5": "The witness's testimony verified the suspect's alibi."
         },
         {
             "definition": "Demonstrate the truth or accuracy of something.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The experiment will verify the hypothesis.",
+            "sent2": "The data will verify the scientist's claims.",
+            "sent3": "The talking parrot verified its intelligence by solving puzzles.",
+            "sent4": "The rainbow verified the passing rain shower.",
+            "sent5": "The certificate will verify your completion of the course."
         }
     ]
 }

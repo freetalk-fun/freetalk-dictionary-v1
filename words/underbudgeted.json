@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Not allocated enough money in a budget.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The underbudgeted project struggled to meet its financial goals.",
+            "sent2": "The underbudgeted department had to cut back on essential services.",
+            "sent3": "The underbudgeted party ran out of snacks before the guests arrived.",
+            "sent4": "Her underbudgeted wardrobe lacked the variety she desired.",
+            "sent5": "The underbudgeted car repair left the vehicle in a sorry state."
         },
         {
             "definition": "To have spent less money than was originally planned.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "They underbudgeted for the event and had to make last-minute changes.",
+            "sent2": "She underbudgeted her monthly expenses and had to dip into savings.",
+            "sent3": "The company underbudgeted the marketing campaign, resulting in low visibility.",
+            "sent4": "He underbudgeted his time for the project, causing delays.",
+            "sent5": "The team underbudgeted the resources, leading to a shortage during production."
         }
     ]
 }

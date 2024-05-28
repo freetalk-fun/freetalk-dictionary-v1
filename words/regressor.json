@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A person or thing that regresses.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The child was a regressor, often reverting to old habits when feeling anxious.",
+            "sent2": "The scientist believed the toy to be a regressor, causing adults to act like children.",
+            "sent3": "The cat, a regressor in training, decided to climb the curtains for the first time in years.",
+            "sent4": "The old house served as a regressor, transporting visitors back to a time long forgotten.",
+            "sent5": "The regressor, a mirror reflecting the past, haunted the protagonist's dreams."
         },
         {
             "definition": "A variable in a statistical model that is used to predict the dependent variable.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The temperature was a regressor in predicting ice cream sales during summer.",
+            "sent2": "The stock price proved to be a reliable regressor for predicting market trends.",
+            "sent3": "The number of umbrellas sold became an unexpected regressor in forecasting sunny days.",
+            "sent4": "The color of the sky acted as a regressor, foretelling the arrival of a storm.",
+            "sent5": "The regressor, a key to unlocking future patterns, guided the researchers in their analysis."
         }
     ]
 }

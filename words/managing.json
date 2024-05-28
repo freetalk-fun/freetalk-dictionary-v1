@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To be in charge of controlling or organizing something",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She is managing the project efficiently.",
+            "sent2": "He has experience in managing large teams.",
+            "sent3": "The cat is managing to balance on the narrow ledge.",
+            "sent4": "The sun manages to shine through the thick clouds.",
+            "sent5": "Managing the garden requires daily attention and care."
         },
         {
             "definition": "To succeed in dealing with a difficult situation",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "After a lot of effort, they are managing to fix the broken machine.",
+            "sent2": "Despite the challenges, she is managing to stay positive.",
+            "sent3": "The clumsy waiter is managing not to spill any drinks.",
+            "sent4": "The team is managing to navigate through the maze of problems.",
+            "sent5": "Managing the stormy weather, the captain steers the ship safely."
         },
         {
             "definition": "The act of controlling or organizing something",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Her managing of the event was flawless.",
+            "sent2": "The managing of resources is crucial for the project's success.",
+            "sent3": "The managing of the circus animals is a challenging task.",
+            "sent4": "In the business world, effective managing is key to growth.",
+            "sent5": "The managing of time is essential for productivity."
         }
     ]
 }

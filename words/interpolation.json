@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "The act of inserting something between other things.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "She practiced interpolation by placing a flower between the pages of her book.",
+            "sent2": "The artist used interpolation to add a small tree between the two larger ones in the painting.",
+            "sent3": "During the meeting, his interpolation of jokes lightened the mood.",
+            "sent4": "Her interpolation of new ideas into the project brought a fresh perspective.",
+            "sent5": "The magician's interpolation of a dove into his hat amazed the audience."
         },
         {
             "definition": "The process of estimating values between two known values.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "In math class, we learned about interpolation to find the missing data points.",
+            "sent2": "The scientist used interpolation to predict the temperature at noon based on the morning and afternoon readings.",
+            "sent3": "His interpolation of the missing numbers in the sequence was surprisingly accurate.",
+            "sent4": "The detective's interpolation of the suspect's whereabouts led to a breakthrough in the case.",
+            "sent5": "The weather forecaster's interpolation of rainfall amounts helped farmers plan their harvest."
         },
         {
             "definition": "The insertion of words into a text or conversation.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The comedian's interpolation of witty remarks kept the audience entertained.",
+            "sent2": "Her interpolation of a quote from Shakespeare added depth to her speech.",
+            "sent3": "His interpolation of a funny anecdote made everyone burst into laughter.",
+            "sent4": "The writer's interpolation of a new character changed the direction of the story.",
+            "sent5": "The teacher's interpolation of a relevant example clarified the concept for the students."
         }
     ]
 }

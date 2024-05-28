@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Obtain or secure (something desired or beneficial)",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She will gain new knowledge from reading books.",
+            "sent2": "He works hard to gain the trust of his colleagues.",
+            "sent3": "The squirrel tried to gain access to the bird feeder.",
+            "sent4": "The detective hoped to gain insight into the case.",
+            "sent5": "With practice, you can gain confidence in your abilities."
         },
         {
             "definition": "Increase in amount, size, or value",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Eating healthy food can help you gain strength.",
+            "sent2": "The company aims to gain market share this year.",
+            "sent3": "The balloon started to gain altitude unexpectedly.",
+            "sent4": "The plant will gain height as it grows taller.",
+            "sent5": "Regular exercise can help you gain muscle mass."
         },
         {
             "definition": "Advantage or profit",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Saving money is a financial gain for the future.",
+            "sent2": "The team celebrated their recent gain in points.",
+            "sent3": "The unexpected discount was a gain for the shopper.",
+            "sent4": "She considered the promotion a gain in her career.",
+            "sent5": "Investing wisely can lead to a gain in wealth over time."
         }
     ]
 }

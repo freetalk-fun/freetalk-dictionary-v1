@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To program (a computer) incorrectly.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I accidentally misprogrammed the robot to walk backwards.",
+            "sent2": "Be careful not to misprogram the security system when setting it up.",
+            "sent3": "The misprogrammed vending machine kept giving out the wrong snacks.",
+            "sent4": "Her mind seemed to misprogram her actions, leading to confusion.",
+            "sent5": "The misprogrammed GPS led us in circles for hours."
         },
         {
             "definition": "A program that has been programmed incorrectly.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The misprogram caused the computer to crash unexpectedly.",
+            "sent2": "It took hours to fix the misprogram in the software.",
+            "sent3": "The misprogram in the game made all the characters move in strange ways.",
+            "sent4": "The misprogram in the robot's code made it malfunction during the demonstration.",
+            "sent5": "The misprogram in the system caused chaos in the entire network."
         }
     ]
 }

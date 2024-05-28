@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To catch or trap in a snare.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The rabbit was snared by the hunter.",
+            "sent2": "The clever fox snared the unsuspecting mouse.",
+            "sent3": "The mischievous raccoon snared the shiny object in its paws.",
+            "sent4": "Her words snared his attention, holding him captive.",
+            "sent5": "The spider skillfully snared its prey in the intricate web."
         },
         {
             "definition": "Caught or trapped in a snare.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The snared rabbit struggled to break free.",
+            "sent2": "The bird's wing was injured, leaving it snared in the bushes.",
+            "sent3": "The snared deer looked around, trying to find a way out.",
+            "sent4": "She felt snared in a web of lies, unable to escape.",
+            "sent5": "The snared squirrel waited patiently for help to arrive."
         }
     ]
 }

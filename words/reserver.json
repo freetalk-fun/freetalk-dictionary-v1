@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A person who reserves something.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The reserver of the last cookie was Sally.",
+            "sent2": "The reserver of the best seat in the house arrived early.",
+            "sent3": "The reserver of the biggest slice of cake always makes sure to share with others.",
+            "sent4": "She was the reserver of secrets, always keeping them safe.",
+            "sent5": "The reserver of the final ticket made sure everyone had a chance to attend the show."
         },
         {
             "definition": "To keep back or save for future use.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Please reserver some snacks for the road trip.",
+            "sent2": "I will reserver some money for emergencies.",
+            "sent3": "He decided to reserver his energy for the big game.",
+            "sent4": "She tried to reserver her excitement for the surprise party.",
+            "sent5": "The squirrel would reserver nuts for the winter months."
         },
         {
             "definition": "A book in which reservations are recorded.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The hotel reserver showed all the available rooms.",
+            "sent2": "The restaurant reserver listed the upcoming reservations.",
+            "sent3": "The library reserver was filled with names for the popular books.",
+            "sent4": "The travel agency reserver kept track of all the booked flights.",
+            "sent5": "The theater reserver displayed the reserved seats for the performance."
         }
     ]
 }

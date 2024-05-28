@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Loaned again",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She reloaned the book to her friend after finishing it.",
+            "sent2": "The library reloaned the DVD to the patron for another week.",
+            "sent3": "He reloaned his umbrella to his sister, hoping she wouldn't lose it this time.",
+            "sent4": "The teacher reloaned her favorite pen to the student, trusting him to take care of it.",
+            "sent5": "The kind neighbor reloaned her lawnmower to the young couple, knowing they couldn't afford to buy one."
         },
         {
             "definition": "Borrowed again",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The reloaned book had a new cover after being returned to the library.",
+            "sent2": "She was excited to receive the reloaned dress from her friend for the party.",
+            "sent3": "The reloaned bicycle had a shiny new bell attached to it.",
+            "sent4": "The reloaned car had a full tank of gas, ready for the road trip.",
+            "sent5": "The reloaned tools were neatly organized in the toolbox, waiting to be used again."
         }
     ]
 }

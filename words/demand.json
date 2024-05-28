@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "An insistent and peremptory request, made as if by right.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The customer made a demand for a refund after receiving a faulty product.",
+            "sent2": "There was a high demand for tickets to the concert.",
+            "sent3": "The cat made a demand for more treats by meowing loudly.",
+            "sent4": "The demand for justice echoed through the courtroom.",
+            "sent5": "The demand for change grew stronger with each passing day."
         },
         {
             "definition": "The desire to purchase goods and services.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The demand for new smartphones is increasing among teenagers.",
+            "sent2": "Consumer demand drives the economy.",
+            "sent3": "The demand for ice cream on a hot day is always high.",
+            "sent4": "Her demand for designer handbags knows no bounds.",
+            "sent5": "The demand for rare collectibles never seems to diminish."
         },
         {
             "definition": "To ask authoritatively or brusquely.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The teacher will demand respect from the students.",
+            "sent2": "The boss demanded that the report be completed by the end of the day.",
+            "sent3": "I demand to speak to the manager immediately!",
+            "sent4": "The storm clouds demanded attention as they rolled in ominously.",
+            "sent5": "The roaring lion demanded silence from the jungle."
         }
     ]
 }

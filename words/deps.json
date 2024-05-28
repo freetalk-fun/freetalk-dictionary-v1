@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Short for 'departments'",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The school has different deps like math and science.",
+            "sent2": "The deps in the company include HR and finance.",
+            "sent3": "I got lost in the deps of the store looking for the right aisle.",
+            "sent4": "The deps of the hospital function like different organs in a body.",
+            "sent5": "The colorful signs above each dep made it easy to navigate."
         },
         {
             "definition": "Short for 'deputies'",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The sheriff's deps helped maintain law and order in the town.",
+            "sent2": "The deputies arrived at the scene of the crime quickly.",
+            "sent3": "The clumsy dep accidentally spilled coffee on his uniform.",
+            "sent4": "The deputies worked together like a well-oiled machine.",
+            "sent5": "The dep's badge gleamed in the sunlight as he patrolled the streets."
         },
         {
             "definition": "Short for 'dependencies'",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The software has many deps that need to be installed for it to work properly.",
+            "sent2": "The project's success is reliant on resolving all its dependencies.",
+            "sent3": "My phone's battery life is a dep for me to stay connected.",
+            "sent4": "The team's performance is directly linked to resolving their dependencies.",
+            "sent5": "Understanding the dependencies is crucial for completing the task on time."
         }
     ]
 }

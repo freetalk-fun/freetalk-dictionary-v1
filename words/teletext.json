@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A television information retrieval service using text-based pages.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I read the news on teletext every morning.",
+            "sent2": "The teletext on my TV provides weather updates.",
+            "sent3": "The teletext made me chuckle with its quirky font choices.",
+            "sent4": "Her mind was like a teletext, displaying information clearly and quickly.",
+            "sent5": "The teletext displayed breaking news in bold letters."
         },
         {
             "definition": "To broadcast or receive information through teletext.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "They teletexted the latest sports scores to viewers.",
+            "sent2": "I will teletext the announcement to all employees.",
+            "sent3": "He tried to teletext a secret message to his friend across the room.",
+            "sent4": "The information teletexted to me was unexpected.",
+            "sent5": "She quickly teletexted the urgent update to the team."
         }
     ]
 }

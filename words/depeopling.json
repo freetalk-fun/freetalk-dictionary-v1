@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To remove people from (a place)",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The government is depeopling the village for a new project.",
+            "sent2": "The company is depeopling the office building for renovations.",
+            "sent3": "The magician depeopled the stage in a blink of an eye!",
+            "sent4": "The storm depeopled the beach as people sought shelter.",
+            "sent5": "The wildfire depeopled the entire town, leaving it deserted."
         },
         {
             "definition": "The act of reducing the population of a place",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The depeopling of the city led to economic challenges.",
+            "sent2": "The depeopling of the island was caused by a lack of resources.",
+            "sent3": "The depeopling of the zoo made the animals feel lonely.",
+            "sent4": "The depeopling of the school resulted in smaller class sizes.",
+            "sent5": "The depeopling of the neighborhood changed its atmosphere drastically."
         }
     ]
 }

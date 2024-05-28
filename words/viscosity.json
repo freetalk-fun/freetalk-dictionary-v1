@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "The state of being thick, sticky, and semifluid in consistency.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The viscosity of the honey made it difficult to pour.",
+            "sent2": "The viscosity of the mud caused the wheels to get stuck.",
+            "sent3": "The viscosity of the slime made it a challenge to clean up.",
+            "sent4": "The viscosity of the glue held the pieces together tightly.",
+            "sent5": "The viscosity of the syrup made it flow slowly like molasses."
         },
         {
             "definition": "The property of a fluid that resists the force tending to cause the fluid to flow.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The high viscosity of the oil prevented it from spilling easily.",
+            "sent2": "The low viscosity of water allows it to flow freely.",
+            "sent3": "The viscosity of the shampoo made it hard to squeeze out of the bottle.",
+            "sent4": "The viscosity of the lava created a slow-moving river of molten rock.",
+            "sent5": "The viscosity of the paint affected how smoothly it spread on the canvas."
         }
     ]
 }

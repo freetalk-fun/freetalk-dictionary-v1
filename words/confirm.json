@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Establish the truth or correctness of (something previously believed or suspected).",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She needed to confirm if her guess was right.",
+            "sent2": "Please confirm your attendance at the meeting.",
+            "sent3": "The detective confirmed the suspect's alibi with evidence.",
+            "sent4": "His smile confirmed his happiness.",
+            "sent5": "The loud applause confirmed the success of the performance."
         },
         {
             "definition": "Make (a plan, arrangement, or agreement) definite or official.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Let's confirm the date for the party.",
+            "sent2": "The contract needs to be confirmed by both parties.",
+            "sent3": "The handshake confirmed their deal.",
+            "sent4": "The signature on the document confirmed the agreement.",
+            "sent5": "The email confirmed the flight reservation."
         },
         {
             "definition": "Administer the religious rite of confirmation to (someone).",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The priest will confirm the children this Sunday.",
+            "sent2": "The bishop confirmed the young adults in the church.",
+            "sent3": "The ceremony confirmed their commitment to the faith.",
+            "sent4": "The ritual confirmed their membership in the church.",
+            "sent5": "The event confirmed their spiritual journey."
         }
     ]
 }

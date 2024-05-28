@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To make a written or printed copy of spoken material",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She transcribed the teacher's words into her notebook.",
+            "sent2": "The secretary transcribed the meeting minutes for everyone to read.",
+            "sent3": "He transcribed the joke he heard at the party to share with his friends.",
+            "sent4": "The artist transcribed the beauty of the sunset onto the canvas.",
+            "sent5": "The historian meticulously transcribed the ancient manuscript for future generations to study."
         },
         {
             "definition": "To convert (data) into a coded form",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The scientist transcribed the experimental results into a digital format.",
+            "sent2": "The encryption software transcribed the sensitive information for security purposes.",
+            "sent3": "The spy transcribed the secret message into a complex code to protect it.",
+            "sent4": "The computer program transcribed the data into binary for processing.",
+            "sent5": "The translator transcribed the document into a secure code for transmission."
         },
         {
             "definition": "To write out in another alphabet or language",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She transcribed the poem from English to French for the international audience.",
+            "sent2": "The linguist transcribed the ancient text into modern Mandarin for analysis.",
+            "sent3": "He transcribed the recipe into Spanish to share with his friends from abroad.",
+            "sent4": "The student transcribed the passage into Latin as part of a language exercise.",
+            "sent5": "The interpreter transcribed the speech into sign language for the deaf audience."
         }
     ]
 }

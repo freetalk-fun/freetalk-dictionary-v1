@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Capable of being executed or carried out.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The plan was executable, so we decided to proceed with it.",
+            "sent2": "The instructions were clear and executable, making the task easy to complete.",
+            "sent3": "His idea to build a treehouse in one day was certainly executable, but quite ambitious.",
+            "sent4": "Her vision for the project was so executable that it inspired everyone to work harder.",
+            "sent5": "The recipe was so executable that even beginners could follow it successfully."
         },
         {
             "definition": "A file that can be run or executed by a computer.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I downloaded the executable and installed it on my computer.",
+            "sent2": "The software developer created an executable that simplified the task.",
+            "sent3": "The executable seemed to have a mind of its own, opening and closing randomly.",
+            "sent4": "The executable functioned like a well-oiled machine, performing tasks seamlessly.",
+            "sent5": "The executable contained all the necessary code to run the program smoothly."
         }
     ]
 }

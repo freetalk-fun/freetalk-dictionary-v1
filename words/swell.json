@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To increase in size or volume",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The balloon began to swell as more air was blown into it.",
+            "sent2": "The river tends to swell after heavy rainfall.",
+            "sent3": "The cake batter started to swell over the edges of the pan.",
+            "sent4": "Her heart swelled with pride as she watched her child perform on stage.",
+            "sent5": "The crowd's cheers seemed to swell louder with each passing moment."
         },
         {
             "definition": "A gentle movement of the sea",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The sailors enjoyed the calm swell of the ocean beneath them.",
+            "sent2": "The rhythmic swell of the waves was soothing to listen to.",
+            "sent3": "The gentle swell of the sea rocked the boat gently back and forth.",
+            "sent4": "The swell of the tide carried the small boat out to sea.",
+            "sent5": "The swell of the ocean seemed to dance under the moonlight."
         },
         {
             "definition": "Excellent or very good",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "She received a swell gift for her birthday.",
+            "sent2": "The team did a swell job on their project presentation.",
+            "sent3": "He always wears swell outfits to parties.",
+            "sent4": "The movie received swell reviews from critics.",
+            "sent5": "The weather was so swell that they decided to have a picnic in the park."
         }
     ]
 }

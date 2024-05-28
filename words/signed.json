@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To write one's name on a document as a way of showing that one agrees with or accepts its contents.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She signed the contract to confirm her agreement.",
+            "sent2": "He always signs his name neatly on official papers.",
+            "sent3": "The cat 'signed' the adoption papers with a paw print.",
+            "sent4": "His smile 'signed' the letter with warmth and sincerity.",
+            "sent5": "The signature 'signed' the deal, sealing their partnership."
         },
         {
             "definition": "Having a signature or mark indicating who wrote or created something.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The painting had a signed corner, proving its authenticity.",
+            "sent2": "The book was a signed copy by the author.",
+            "sent3": "The cake 'signed' with a chocolate drizzle was a hit at the party.",
+            "sent4": "The sunset sky 'signed' the end of a perfect day.",
+            "sent5": "The signed photograph was a prized possession for the fan."
         },
         {
             "definition": "Showing evidence of a particular quality or characteristic.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "Her signed artwork displayed her unique style.",
+            "sent2": "The document had signed proof of its authenticity.",
+            "sent3": "The cake 'signed' with colorful sprinkles was a festive treat.",
+            "sent4": "The stars 'signed' the night sky with their twinkling beauty.",
+            "sent5": "The signed badge identified him as a trusted employee."
         }
     ]
 }

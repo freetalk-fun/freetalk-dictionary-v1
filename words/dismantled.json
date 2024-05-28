@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Take (a machine or structure) to pieces.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The mechanic dismantled the old car to fix it.",
+            "sent2": "He dismantled the bookshelf to move it to another room.",
+            "sent3": "The children dismantled the sandcastle to build a new one.",
+            "sent4": "She dismantled her argument piece by piece during the debate.",
+            "sent5": "The detective dismantled the case, revealing the truth."
         },
         {
             "definition": "Cause (a system or organization) to fail.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The economic crisis dismantled the company's plans for expansion.",
+            "sent2": "The scandal dismantled the politician's career.",
+            "sent3": "The prank dismantled the serious atmosphere in the room.",
+            "sent4": "The storm dismantled the outdoor event, forcing everyone inside.",
+            "sent5": "The virus dismantled the computer network, causing chaos."
         }
     ]
 }

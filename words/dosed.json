@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A quantity of medicine taken or prescribed at one time.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "After feeling unwell, she took a small dosed of medicine.",
+            "sent2": "The doctor prescribed a dosed of cough syrup for the patient.",
+            "sent3": "The dosed of medicine tasted surprisingly good.",
+            "sent4": "His laughter was like a dosed of happiness in the room.",
+            "sent5": "The dosed of medicine was carefully measured to ensure effectiveness."
         },
         {
             "definition": "To administer a dose of medicine to.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The nurse dosed the patient with the prescribed medicine.",
+            "sent2": "He carefully dosed out the medication to each individual.",
+            "sent3": "She playfully dosed her friend with a pretend potion.",
+            "sent4": "The chef dosed the soup with just the right amount of seasoning.",
+            "sent5": "The gardener dosed the plants with fertilizer to help them grow."
         },
         {
             "definition": "To treat with a dose of medicine.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The doctor dosed the patient to alleviate the symptoms.",
+            "sent2": "She dosed her pet with the prescribed medication.",
+            "sent3": "He dosed himself with the remedy to feel better.",
+            "sent4": "The pharmacist dosed the medicine according to the prescription.",
+            "sent5": "The mother dosed her child with the cough syrup before bedtime."
         }
     ]
 }

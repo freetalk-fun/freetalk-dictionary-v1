@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A large vehicle for transporting goods by road.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The lorry carried boxes of fruits to the market.",
+            "sent2": "The delivery company uses a lorry to transport packages.",
+            "sent3": "The lorry driver honked loudly to get the attention of the pedestrians.",
+            "sent4": "The lorry rumbled down the street like a giant metal beast.",
+            "sent5": "The shiny red lorry stood out among the other vehicles on the highway."
         },
         {
             "definition": "To transport goods by lorry.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "They lorry goods from the warehouse to the store every day.",
+            "sent2": "We need to lorry the equipment to the construction site.",
+            "sent3": "He decided to lorry the furniture instead of hiring a moving company.",
+            "sent4": "She will lorry the supplies to the event in her own vehicle.",
+            "sent5": "The company will lorry the products to different locations for distribution."
         }
     ]
 }

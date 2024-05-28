@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A connecting word or phrase that links the subject of a sentence with a subject complement.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "In the sentence 'She is a doctor,' the word 'is' acts as a copula.",
+            "sent2": "The copula 'are' connects 'they' with 'students' in the sentence 'They are students.'",
+            "sent3": "The copula 'seems' in 'The cat seems happy' is like a bridge between the cat and happiness.",
+            "sent4": "Her smile was a copula, joining her joy with the room's brightness.",
+            "sent5": "The copula 'became' transformed the frog into a prince in the fairy tale."
         },
         {
             "definition": "A verb that connects the subject of a sentence with a subject complement.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The copula 'appears' in 'He appears tired' links 'he' to 'tired'.",
+            "sent2": "In 'The cake tastes delicious,' 'tastes' is the copula connecting 'cake' to 'delicious'.",
+            "sent3": "The copula 'feels' in 'The chair feels comfy' must have a soft seat too!",
+            "sent4": "His laughter became a copula, uniting the room in joy.",
+            "sent5": "The copula 'remains' held the memories together like a glue."
         },
         {
             "definition": "A word that serves as a link between the subject and predicate of a sentence.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The copula 'became' in 'She became a teacher' connects 'she' to 'teacher'.",
+            "sent2": "In 'The flowers smell sweet,' 'smell' acts as the copula linking 'flowers' to 'sweet'.",
+            "sent3": "The copula 'looks' in 'The sky looks blue' must be checking its reflection!",
+            "sent4": "His music was a copula, binding hearts in harmony.",
+            "sent5": "The copula 'turns' transformed the caterpillar into a butterfly in the story."
         }
     ]
 }

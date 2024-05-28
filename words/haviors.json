@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Behavior: the way in which one acts or conducts oneself",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Her haviors at the party were polite and friendly.",
+            "sent2": "The teacher praised the student's good haviors in class.",
+            "sent3": "The puppy's playful haviors always bring a smile to our faces.",
+            "sent4": "The haviors of the waves crashing against the shore were mesmerizing.",
+            "sent5": "His haviors during the interview left a lasting impression on the panel."
         },
         {
             "definition": "Misbehavior: improper or unacceptable behavior",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The child's constant misbehaviors in school worried the parents.",
+            "sent2": "The principal addressed the student's misbehavior in a meeting.",
+            "sent3": "Despite his misbehavior, he always had a twinkle in his eye.",
+            "sent4": "The misbehaviors of the characters added humor to the play.",
+            "sent5": "Her misbehavior at the party caused quite a stir among the guests."
         },
         {
             "definition": "Behavioral: relating to behavior or actions",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The psychologist studied the behavioral patterns of the patients.",
+            "sent2": "The behavioral changes in the patient were noted by the doctor.",
+            "sent3": "The behavioral training for the puppies was a fun experience.",
+            "sent4": "His behavioral response to stress was to take deep breaths.",
+            "sent5": "The behavioral therapy sessions helped improve his interactions with others."
         }
     ]
 }

@@ -3,19 +3,39 @@
     "meanings": [
         {
             "definition": "The location where someone lives or receives mail.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "My friend's address is 123 Main Street.",
+            "sent2": "I need to send a letter to her address.",
+            "sent3": "The cat's address is the cozy corner of the couch.",
+            "sent4": "In the bustling city, the park's address is a peaceful oasis.",
+            "sent5": "The address on the envelope was written in elegant cursive."
         },
         {
             "definition": "A formal speech or piece of writing.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The president's address was inspiring.",
+            "sent2": "I listened to the mayor's address at the event.",
+            "sent3": "The dog's address to the squirrels was met with silence.",
+            "sent4": "Her eyes held an address that spoke volumes.",
+            "sent5": "The address in the book moved me to tears."
         },
         {
             "definition": "To speak to or write to someone.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I will address the issue with my boss tomorrow.",
+            "sent2": "She addressed the crowd with confidence.",
+            "sent3": "The cat addressed the mouse with a friendly meow.",
+            "sent4": "His words addressed my heart directly.",
+            "sent5": "She addressed the audience with a powerful message."
         },
         {
             "definition": "To deal with or tackle a problem or issue.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "We need to address the environmental concerns in our community.",
+            "sent2": "The team addressed the challenges head-on.",
+            "sent3": "The robot addressed the malfunction by rebooting.",
+            "sent4": "She addressed the difficult situation with grace.",
+            "sent5": "Addressing the issue early can prevent further complications."
         }
     ]
 }

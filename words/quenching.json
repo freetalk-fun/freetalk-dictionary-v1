@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Satisfying one's thirst by drinking.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "After playing outside, I quench my thirst with a glass of water.",
+            "sent2": "It is important to quench your thirst regularly to stay healthy.",
+            "sent3": "I always quench my thirst with a big gulp of lemonade after a long walk.",
+            "sent4": "Her thirst for knowledge was quenched by reading books all day.",
+            "sent5": "The refreshing drink quenched my thirst instantly."
         },
         {
             "definition": "Extinguishing a fire or flame.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The firefighters worked hard to quench the fire in the building.",
+            "sent2": "Using water to quench the flames is a common firefighting technique.",
+            "sent3": "The fire alarm went off, and everyone rushed to quench the small kitchen fire.",
+            "sent4": "His quick thinking helped to quench the fire before it spread further.",
+            "sent5": "The fire extinguisher was used to quench the flames effectively."
         },
         {
             "definition": "Cooling a hot metal rapidly by immersion in water or oil.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The blacksmith demonstrated quenching the red-hot metal in a bucket of water.",
+            "sent2": "Quenching is essential in the metalworking process to achieve the desired hardness.",
+            "sent3": "The loud sizzle echoed in the workshop as the blacksmith performed the quenching process.",
+            "sent4": "The sudden quenching of the metal created a cloud of steam in the air.",
+            "sent5": "The quenching of the metal transformed its properties instantly."
         }
     ]
 }

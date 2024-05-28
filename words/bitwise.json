@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Involving or manipulating individual bits within a computer's memory or storage.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The programmer used a bitwise operation to optimize the code.",
+            "sent2": "It is important to understand bitwise operations when working with computers.",
+            "sent3": "The computer tried to be bitwise, but ended up mixing up all the bits!",
+            "sent4": "Her attention to detail was bitwise, carefully examining each individual bit.",
+            "sent5": "The bitwise approach allowed for precise control over the data."
         },
         {
             "definition": "A bitwise operation is a binary operation that operates on one or more bit patterns or binary numerals at the level of their individual bits.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The software engineer implemented a bitwise operation to improve performance.",
+            "sent2": "Understanding bitwise operations is essential in computer science.",
+            "sent3": "The bitwise operation and the binary numerals had a bit of a disagreement.",
+            "sent4": "The team's collaboration was like a bitwise operation, each member contributing a crucial bit.",
+            "sent5": "The elegance of the bitwise operation simplified complex data manipulation."
         }
     ]
 }

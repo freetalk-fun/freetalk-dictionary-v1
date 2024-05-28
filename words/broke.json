@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "past tense of break",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Yesterday, I accidentally broke my favorite mug.",
+            "sent2": "The glass shattered when it broke against the floor.",
+            "sent3": "I broke the record for the fastest time, but not on purpose!",
+            "sent4": "Her heart broke into a million pieces when she heard the news.",
+            "sent5": "The silence was broken by a loud crash in the distance."
         },
         {
             "definition": "lacking money or resources",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "After the shopping spree, I was left broke.",
+            "sent2": "She couldn't afford the concert tickets because she was broke.",
+            "sent3": "His piggy bank was broke, so he couldn't buy any candy.",
+            "sent4": "The car broke down, leaving them broke and stranded.",
+            "sent5": "The broke student had to get creative with cheap meals."
         }
     ]
 }

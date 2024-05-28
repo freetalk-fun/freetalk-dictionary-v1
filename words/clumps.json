@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A clustered mass or lump",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The child found colorful clumps of flowers in the garden.",
+            "sent2": "The scientist studied the clumps of cells under the microscope.",
+            "sent3": "The clumps of cotton candy at the fair looked like fluffy clouds.",
+            "sent4": "The clumps of stars in the night sky formed beautiful constellations.",
+            "sent5": "The hiker stumbled upon clumps of mushrooms along the trail."
         },
         {
             "definition": "To gather or be gathered into a cluster or mass",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The students clumps together to discuss the project.",
+            "sent2": "The bees clumps around the hive to protect the queen.",
+            "sent3": "The children clumps around the teacher during storytime.",
+            "sent4": "The clouds clumps together before a storm.",
+            "sent5": "The ants clumps around the sugar cube to carry it to their nest."
         }
     ]
 }

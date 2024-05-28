@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "The land along the edge of a body of water.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The sandy shore was a perfect spot for a picnic.",
+            "sent2": "The children played happily on the shore of the lake.",
+            "sent3": "The shore looked like a giant sandy playground for the seagulls.",
+            "sent4": "The sun set behind the shore, painting the sky in hues of orange and pink.",
+            "sent5": "The waves crashed against the shore, creating a soothing sound."
         },
         {
             "definition": "To support or hold up something.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I used a stick to shore up the wobbly table.",
+            "sent2": "The pillars were needed to shore the weight of the roof.",
+            "sent3": "The idea of using duct tape to shore up the bridge seemed ridiculous.",
+            "sent4": "Her encouraging words helped shore up my confidence before the presentation.",
+            "sent5": "The additional evidence shored up the prosecutor's case against the suspect."
         },
         {
             "definition": "To move or push something towards the edge of a body of water.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The strong wind helped shore the boat towards the dock.",
+            "sent2": "He tried to shore the logs closer to the river for easier transport.",
+            "sent3": "The playful otters seemed to enjoy shoring the pebbles into the water.",
+            "sent4": "The crowd cheered as the team shored the boat to victory in the race.",
+            "sent5": "She used a long stick to shore the fallen leaves into the stream."
         }
     ]
 }

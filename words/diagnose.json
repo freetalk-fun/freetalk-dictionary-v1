@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To identify or determine the nature of a medical condition or problem.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The doctor will diagnose your illness by asking you questions and examining you.",
+            "sent2": "The specialist will diagnose the disease based on the test results.",
+            "sent3": "I tried to diagnose my computer's issue by talking to it, but it didn't respond.",
+            "sent4": "Her keen observation skills allowed her to diagnose the problem in the project quickly.",
+            "sent5": "The detective was able to diagnose the crime scene with precision."
         },
         {
             "definition": "To analyze or identify the cause or nature of a problem or situation.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The mechanic will diagnose the car's strange noise to find the source of the problem.",
+            "sent2": "The IT specialist needs to diagnose the network issue to restore connectivity.",
+            "sent3": "I tried to diagnose why my plant was wilting by giving it a pep talk.",
+            "sent4": "The teacher could diagnose the root of the student's confusion and provide guidance.",
+            "sent5": "The scientist was able to diagnose the experiment's failure through careful examination."
         }
     ]
 }

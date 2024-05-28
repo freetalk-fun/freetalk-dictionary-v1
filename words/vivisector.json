@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A person who performs vivisection.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The vivisector carefully studied the animal's organs.",
+            "sent2": "The vivisector in the lab wore protective gear.",
+            "sent3": "The vivisector accidentally spilled his coffee on the lab rat.",
+            "sent4": "The vivisector of knowledge dissected the book's contents.",
+            "sent5": "The vivisector's scalpel revealed the mysteries of biology."
         },
         {
             "definition": "To perform vivisection on an animal.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Scientists vivisect animals to understand their anatomy.",
+            "sent2": "The researcher decided to vivisect the frog for the experiment.",
+            "sent3": "Please don't vivisect the cake before the party!",
+            "sent4": "The artist vivisected the canvas to create a masterpiece.",
+            "sent5": "The chef vivisected the recipe to perfect the dish."
         }
     ]
 }

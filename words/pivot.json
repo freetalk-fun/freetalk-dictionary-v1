@@ -3,19 +3,39 @@
     "meanings": [
         {
             "definition": "The central point, pin, or shaft on which a mechanism turns or oscillates.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The door swung open smoothly on its pivot.",
+            "sent2": "The pivot of the wheel allowed it to spin freely.",
+            "sent3": "The lazy Susan was so wobbly, it couldn't pivot properly.",
+            "sent4": "His career seemed stuck until a new opportunity acted as a pivot.",
+            "sent5": "The pivot of the seesaw made it easy for the children to play."
         },
         {
             "definition": "A person or thing on which something depends or turns; the central or crucial factor.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "She was the pivot of the team, holding everyone together.",
+            "sent2": "The success of the project hinged on that one pivot.",
+            "sent3": "The missing ingredient was the pivot in the recipe.",
+            "sent4": "His positive attitude acted as a pivot in turning the situation around.",
+            "sent5": "The pivot of the story revealed the unexpected twist."
         },
         {
             "definition": "To turn on or as if on a pivot.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He had to pivot the chair to face the window.",
+            "sent2": "The dancer pivoted gracefully on one foot.",
+            "sent3": "She tried to pivot the conversation towards a lighter topic.",
+            "sent4": "The company had to pivot its strategy to adapt to the changing market.",
+            "sent5": "The basketball player had to pivot quickly to avoid the defender."
         },
         {
             "definition": "To depend or hinge on something.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "His decision to invest would pivot on the financial forecast.",
+            "sent2": "The success of the event pivoted on her presentation.",
+            "sent3": "The entire plan would pivot on whether the weather cooperated.",
+            "sent4": "Her mood seemed to pivot on the outcome of the meeting.",
+            "sent5": "The team's victory would pivot on their ability to work together."
         }
     ]
 }

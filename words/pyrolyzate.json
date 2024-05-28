@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A substance produced by pyrolysis.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The scientist studied the pyrolyzate under a microscope.",
+            "sent2": "The factory released pyrolyzate into the air during the production process.",
+            "sent3": "The pyrolyzate seemed to dance in the flames as it was formed.",
+            "sent4": "The dark clouds billowed like pyrolyzate rising from a fire.",
+            "sent5": "The smell of the pyrolyzate lingered in the room long after the experiment."
         },
         {
             "definition": "To produce a pyrolyzate through heating.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The chemist will pyrolyzate the organic material to extract useful compounds.",
+            "sent2": "If you heat the plastic, it will pyrolyzate and release harmful fumes.",
+            "sent3": "The chef accidentally pyrolyzated the sugar, creating a burnt mess in the pan.",
+            "sent4": "The intense heat caused the wood to pyrolyzate, leaving behind only ash.",
+            "sent5": "The campfire slowly pyrolyzated the logs, turning them into glowing embers."
         }
     ]
 }

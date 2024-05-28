@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A line that marks the date on which something was written or issued.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The dateline on the letter showed it was written last week.",
+            "sent2": "The newspaper article had a dateline from New York.",
+            "sent3": "I couldn't believe the dateline on the ancient scroll was still visible.",
+            "sent4": "The fading dateline on the document hinted at its age.",
+            "sent5": "The clear dateline on the package ensured timely delivery."
         },
         {
             "definition": "A line at the beginning of a news article that states the date and place of origin.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The dateline at the top of the article indicated it was from London.",
+            "sent2": "Every news story should have a proper dateline for clarity.",
+            "sent3": "The dateline on the gossip column made me chuckle.",
+            "sent4": "The dateline of the breaking news was like a beacon for readers.",
+            "sent5": "The missing dateline left readers puzzled about the article's source."
         }
     ]
 }

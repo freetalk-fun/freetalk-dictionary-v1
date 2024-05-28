@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Represented on a map",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The mapped route helped us find our way easily.",
+            "sent2": "The mapped area showed all the important landmarks.",
+            "sent3": "The mapped locations made the adventure feel like a treasure hunt.",
+            "sent4": "Her mapped out plan for the trip was detailed and precise.",
+            "sent5": "The mapped boundaries of the park were clear and easy to follow."
         },
         {
             "definition": "Showed the way",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She mapped out the path through the forest for us.",
+            "sent2": "The stars mapped the sailors' course across the ocean.",
+            "sent3": "The GPS device mapped our journey with amusing sound effects.",
+            "sent4": "His intuition mapped the best route to avoid traffic.",
+            "sent5": "The ancient map mapped the way to hidden treasure with intricate details."
         },
         {
             "definition": "Matched with a corresponding element",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The mapped data perfectly aligned with the research findings.",
+            "sent2": "The mapped colors on the chart matched the legend.",
+            "sent3": "The puzzle pieces mapped together seamlessly, creating a beautiful picture.",
+            "sent4": "Her outfit mapped with the color scheme of the event.",
+            "sent5": "The mapped coordinates matched the location of the buried treasure."
         }
     ]
 }

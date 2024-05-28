@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To summon (a person) with a subpoena.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The lawyer subpoenaed the witness to testify in court.",
+            "sent2": "The judge subpoenaed the defendant to appear in the courtroom.",
+            "sent3": "The detective subpoenaed the suspect to provide information about the case.",
+            "sent4": "The teacher subpoenaed the student's attention during the lesson.",
+            "sent5": "The captain subpoenaed the crew to assemble on deck for an important announcement."
         },
         {
             "definition": "To issue a subpoena for (evidence or documents).",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The prosecutor subpoenaed the crucial documents for the trial.",
+            "sent2": "The committee subpoenaed the financial records for review.",
+            "sent3": "The librarian subpoenaed the overdue books from the forgetful patron.",
+            "sent4": "The manager subpoenaed the inventory list to check for missing items.",
+            "sent5": "The inspector subpoenaed the inspection report for further analysis."
         }
     ]
 }

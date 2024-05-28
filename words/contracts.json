@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A written or spoken agreement between two or more parties that is enforceable by law.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The contracts were signed by both parties.",
+            "sent2": "The lawyer reviewed the contract before signing it.",
+            "sent3": "The contract between the two friends stated they would share their toys.",
+            "sent4": "Their contract was as solid as a brick wall, binding them together legally.",
+            "sent5": "The contract was like a promise written in stone, unbreakable and clear."
         },
         {
             "definition": "To enter into a formal and legally binding agreement.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She contracts with the company to provide her services.",
+            "sent2": "They will contract with the vendor for the event.",
+            "sent3": "He contracts to mow the lawn every Saturday, rain or shine.",
+            "sent4": "The team contracted to finish the project by the end of the month.",
+            "sent5": "The artist contracted to paint a mural on the building's wall."
         },
         {
             "definition": "To decrease in size, number, or range.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The balloon contracts as the air inside cools down.",
+            "sent2": "The population of the town contracts during the winter months.",
+            "sent3": "His excitement contracts when he realizes he forgot his keys.",
+            "sent4": "The market contracts as demand for the product decreases.",
+            "sent5": "Her smile contracts into a frown as she hears the bad news."
         }
     ]
 }

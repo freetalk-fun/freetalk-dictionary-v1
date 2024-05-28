@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Most special or unique",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "My mom made the specialest cake for my birthday.",
+            "sent2": "This is the specialest gift I have ever received.",
+            "sent3": "The cat wearing a tiny hat looked like the specialest feline in the world.",
+            "sent4": "The specialest star in the sky shone brighter than all the others combined.",
+            "sent5": "The specialest flower in the garden had petals that sparkled like diamonds."
         },
         {
             "definition": "The most special or unique person or thing",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "She is the specialest student in our class.",
+            "sent2": "The specialest moment of the party was when the cake caught on fire.",
+            "sent3": "The specialest cupcake in the bakery was shaped like a unicorn.",
+            "sent4": "The specialest book on the shelf had a cover made of gold.",
+            "sent5": "The specialest toy in the store was a robot that could dance."
         }
     ]
 }

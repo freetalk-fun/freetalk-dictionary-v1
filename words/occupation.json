@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A person's job or profession.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Her occupation is a teacher at the local school.",
+            "sent2": "My father's occupation is a firefighter.",
+            "sent3": "His occupation as a clown brings joy to many children.",
+            "sent4": "The occupation of a chef requires creativity and skill.",
+            "sent5": "Finding the right occupation can lead to a fulfilling life."
         },
         {
             "definition": "The act of occupying or taking possession of a place.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The occupation of the empty house was swift and efficient.",
+            "sent2": "The soldiers' occupation of the enemy's territory was strategic.",
+            "sent3": "The occupation of the park by squirrels was unexpected.",
+            "sent4": "The occupation of the top bunk bed was a point of contention among siblings.",
+            "sent5": "The occupation of the throne symbolized the king's power."
         },
         {
             "definition": "The control or possession of a territory by military force.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The enemy's occupation of the city was met with resistance.",
+            "sent2": "The country's occupation of the border region was a strategic move.",
+            "sent3": "The occupation of the fort by the opposing army led to a standoff.",
+            "sent4": "The occupation of the island by pirates was a constant threat.",
+            "sent5": "The occupation of the castle by the invaders was a turning point in the war."
         }
     ]
 }

@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A separate unit or self-contained component of a larger system.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The math module helped me solve complex problems.",
+            "sent2": "The engine module of the car needed to be replaced.",
+            "sent3": "I accidentally dropped the module, and now it won't work.",
+            "sent4": "Her creativity is like a colorful module in the dull office environment.",
+            "sent5": "The module is like a puzzle piece that fits perfectly into the system."
         },
         {
             "definition": "A standardized unit of measurement used in determining the size and layout of a building.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The architect used a module to plan the dimensions of the house.",
+            "sent2": "Each module of the building was carefully measured for accuracy.",
+            "sent3": "The module measurement made the construction workers' job easier.",
+            "sent4": "The module acted as a ruler for the construction project.",
+            "sent5": "The module measurement ensured uniformity in the building design."
         },
         {
             "definition": "A self-contained unit of a spacecraft or other vehicle.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The astronauts checked the module before the space mission.",
+            "sent2": "The module detached from the spacecraft for exploration.",
+            "sent3": "The module in the spaceship contained essential supplies for the crew.",
+            "sent4": "The module floated gracefully in the zero-gravity environment.",
+            "sent5": "The module served as a mini home for the astronauts during the journey."
         }
     ]
 }

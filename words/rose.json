@@ -3,23 +3,48 @@
     "meanings": [
         {
             "definition": "A type of flower with a sweet fragrance",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The rose bloomed beautifully in the garden.",
+            "sent2": "She picked a rose to give to her mother.",
+            "sent3": "The bee buzzed around the rose, looking for nectar.",
+            "sent4": "Her cheeks turned as pink as a rose when she received the bouquet.",
+            "sent5": "The rose's scent filled the room, making everyone smile."
         },
         {
             "definition": "Past tense of the verb 'rise'",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Yesterday, she rose early to catch the sunrise.",
+            "sent2": "He rose from his seat to greet the guests.",
+            "sent3": "The bread dough rose quickly in the warm kitchen.",
+            "sent4": "The hot air balloon rose gracefully into the sky.",
+            "sent5": "The sun rose over the horizon, painting the sky with colors."
         },
         {
             "definition": "A pink or red color",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Her dress was a beautiful shade of rose.",
+            "sent2": "The sunset painted the sky in hues of rose and gold.",
+            "sent3": "The artist mixed red and white to create a lovely rose color.",
+            "sent4": "The cheeks of the child turned a rosy shade of rose.",
+            "sent5": "The room was decorated in soft rose tones, creating a warm atmosphere."
         },
         {
             "definition": "A curved or curled decoration",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The cake was adorned with a delicate rose made of icing.",
+            "sent2": "She wore a hairpin with a small rose design.",
+            "sent3": "The invitation had a rose embossed on the corner.",
+            "sent4": "The curtain tie-backs were shaped like a rose.",
+            "sent5": "The necklace had a rose pendant hanging from it."
         },
         {
             "definition": "A sudden increase in price or value",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The stock market experienced a significant rose in prices.",
+            "sent2": "There was a rose in demand for the limited edition item.",
+            "sent3": "The antique vase saw a sudden rose in its appraisal value.",
+            "sent4": "The rare stamp collection had a surprising rose in auction bids.",
+            "sent5": "The real estate market saw a sudden rose in property values in the area."
         }
     ]
 }

@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A regular oval shape, traced by a point moving in a plane so that the sum of its distances from two other points (the foci) is constant.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The artist drew a beautiful ellipse on the canvas.",
+            "sent2": "The satellite's orbit around the Earth is an ellipse.",
+            "sent3": "The mischievous squirrel thought the ellipse was a perfect shape for hiding nuts.",
+            "sent4": "Her smile formed an ellipse of happiness on her face.",
+            "sent5": "The elliptical shape of the racetrack made it challenging for the runners."
         },
         {
             "definition": "A closed plane curve resulting from the intersection of a circular cone and a plane cutting completely through it.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The mathematician explained the properties of an ellipse to the students.",
+            "sent2": "The eclipse created a mysterious ellipse in the sky.",
+            "sent3": "The chef accidentally created an ellipse-shaped cake that looked like a cone.",
+            "sent4": "The ellipse of light shining through the window resembled a cone's shadow.",
+            "sent5": "The spaceship's trajectory formed a perfect ellipse around the planet."
         }
     ]
 }

@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Cut roughly or clumsily",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He hacks at the wood with a dull axe.",
+            "sent2": "She hacks away at the overgrown bushes in the garden.",
+            "sent3": "The chef hacks the vegetables with enthusiasm for the stew.",
+            "sent4": "The sculptor hacks away at the marble to reveal the hidden beauty within.",
+            "sent5": "The lumberjack hacks through the thick tree trunk with determination."
         },
         {
             "definition": "Gain unauthorized access to data in a system",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The hacker hacks into the company's database to steal information.",
+            "sent2": "They tried to hack the password to access the confidential files.",
+            "sent3": "The sneaky spy hacks into the mainframe to gather secret intel.",
+            "sent4": "The cybercriminal hacks through the firewall to breach the network.",
+            "sent5": "The tech-savvy individual hacks into the wifi network to get free internet access."
         },
         {
             "definition": "A clever solution to a tricky problem",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Her quick thinking was a brilliant hacks to fix the issue.",
+            "sent2": "The student's creative hacks impressed the teacher.",
+            "sent3": "The makeshift hacks saved the day in a pinch.",
+            "sent4": "His innovative hacks turned the project around completely.",
+            "sent5": "The team brainstormed different hacks to overcome the obstacle."
         }
     ]
 }

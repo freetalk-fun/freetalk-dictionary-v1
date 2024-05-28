@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To lower or sink briefly",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She dips her toes in the cool water.",
+            "sent2": "The bird dips its beak into the pond for a drink.",
+            "sent3": "The cat dips its paw into the fishbowl, trying to catch a fish.",
+            "sent4": "The sun dips below the horizon, signaling the end of the day.",
+            "sent5": "He dips his brush into the paint, ready to create a masterpiece."
         },
         {
             "definition": "A thick sauce in which pieces of food are dunked",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I love to eat chips with a delicious cheese dip.",
+            "sent2": "The party platter included a variety of dips for the guests.",
+            "sent3": "The dip was so tasty, it disappeared within minutes.",
+            "sent4": "The spicy dip added a kick to the bland chips.",
+            "sent5": "The creamy dip was the perfect accompaniment to the crunchy vegetables."
         },
         {
             "definition": "A decrease in a particular quantity or value",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "There was a dip in the temperature as the evening approached.",
+            "sent2": "The stock market experienced a dip in prices this week.",
+            "sent3": "The sudden dip in sales surprised the store owner.",
+            "sent4": "The dip in attendance at the event was unexpected.",
+            "sent5": "The dip in the road caused the car to bump along the uneven surface."
         }
     ]
 }

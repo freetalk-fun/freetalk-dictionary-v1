@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A word, phrase, number, or other sequence of characters which reads the same backward as forward.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Mom is a palindrome because she reads the same both ways.",
+            "sent2": "The word 'level' is a palindrome as it reads the same forwards and backwards.",
+            "sent3": "Racecar is a palindrome, just like 'radar'!",
+            "sent4": "The number 1221 is a palindrome, like a mirror image.",
+            "sent5": "A palindrome is like a secret code that reveals itself when reversed."
         },
         {
             "definition": "A word, phrase, or sequence that reads the same backward as forward.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Dad enjoys reading palindrome sentences aloud.",
+            "sent2": "The term 'civic' is a classic example of a palindrome.",
+            "sent3": "Anna found joy in discovering new palindromes in books.",
+            "sent4": "The palindrome 'madam' is easy to remember.",
+            "sent5": "In a palindrome, the end is the beginning, like a circle of words."
         }
     ]
 }

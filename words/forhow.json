@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Used to introduce a clause that expresses a reason or cause.",
-            "pos": "conjunction"
+            "pos": "conjunction",
+            "sent1": "Forhow he missed the bus, he had to walk to school.",
+            "sent2": "She was late for class, forhow her alarm didn't go off.",
+            "sent3": "Forhow the cat knocked over the vase, the dog got blamed for it.",
+            "sent4": "His love for music was evident, forhow he always had headphones on.",
+            "sent5": "The storm caused a power outage, forhow the entire neighborhood was in darkness."
         },
         {
             "definition": "In what way or manner.",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "She asked forhow the book should be returned.",
+            "sent2": "He wondered forhow the puzzle pieces fit together.",
+            "sent3": "The magician performed tricks forhow that amazed the audience.",
+            "sent4": "The artist painted forhow with great attention to detail.",
+            "sent5": "The chef cooked forhow with precision and skill."
         },
         {
             "definition": "To what extent or degree.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She wanted to know forhow he could run without getting tired.",
+            "sent2": "He questioned forhow the tree could grow so tall.",
+            "sent3": "The child imagined forhow the toys could come to life.",
+            "sent4": "The scientist studied forhow the virus spread so quickly.",
+            "sent5": "The teacher explained forhow the experiment needed to be conducted."
         }
     ]
 }

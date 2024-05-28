@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A list or catalog of items, especially in alphabetical or numerical order.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The library uses indexes to help people find books easily.",
+            "sent2": "She referred to the indexes at the back of the book to locate the information.",
+            "sent3": "The indexes in the recipe book made it look like a secret code.",
+            "sent4": "His messy desk was like a jungle of indexes waiting to be explored.",
+            "sent5": "The indexes in the map were color-coded for easy navigation."
         },
         {
             "definition": "A sign or indicator.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The arrow on the signpost indexes the direction to the beach.",
+            "sent2": "The indexes on the dashboard showed the fuel level and speed.",
+            "sent3": "The indexes on the weather vane spun wildly in the storm.",
+            "sent4": "Her smile was an index of her happiness.",
+            "sent5": "The indexes on the compass pointed north with precision."
         },
         {
             "definition": "A statistical measure of changes in a representative group of individual data points.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The stock market index tracks the performance of various companies.",
+            "sent2": "Economists use indexes to analyze trends in the economy.",
+            "sent3": "The index of student grades showed a surprising improvement.",
+            "sent4": "Her laughter was an index of her joyous mood.",
+            "sent5": "The index of inflation indicated a rise in prices."
         }
     ]
 }

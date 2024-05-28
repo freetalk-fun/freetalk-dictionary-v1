@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A small creature with a soft, slimy body and a spiral shell, moving slowly on a single muscular foot.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The snail crawled along the ground.",
+            "sent2": "I found a snail in the garden.",
+            "sent3": "The snail waved hello with its tentacles.",
+            "sent4": "Her progress was as slow as a snail's pace.",
+            "sent5": "The snail's shell gleamed in the sunlight."
         },
         {
             "definition": "To move slowly or at a snail's pace.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I snail my way through the crowded street.",
+            "sent2": "Don't snail when you're in a hurry.",
+            "sent3": "He decided to snail to the finish line for fun.",
+            "sent4": "Time seemed to snail by as he waited.",
+            "sent5": "The car snails along the winding road."
         }
     ]
 }

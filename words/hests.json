@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A command or order.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The general gave hests to his soldiers before the battle.",
+            "sent2": "The teacher's hests were clear and easy to follow.",
+            "sent3": "The cat meowed, giving hests to its owner to open the door.",
+            "sent4": "The CEO's hests were like a powerful wave, guiding the company's direction.",
+            "sent5": "The king's hests echoed through the castle, ensuring everyone knew what to do."
         },
         {
             "definition": "To command or order.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She hests her dog to sit before giving it a treat.",
+            "sent2": "The coach hests the players to give their best effort in the game.",
+            "sent3": "The child hests his toys to line up for a pretend parade.",
+            "sent4": "The conductor hests the musicians to start playing the symphony.",
+            "sent5": "The captain hests the crew to prepare for the storm ahead."
         }
     ]
 }

@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A detective",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The gumshoes solved the mystery by finding clues.",
+            "sent2": "The gumshoes were known for their sharp investigative skills.",
+            "sent3": "The gumshoes discovered the missing cat hiding in the bushes.",
+            "sent4": "The gumshoes were like modern-day sherlocks, uncovering the truth.",
+            "sent5": "The gumshoes always wore their signature trench coats and hats."
         },
         {
             "definition": "To investigate or follow someone secretly",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The spies gumshoed the suspect to gather information.",
+            "sent2": "She gumshoes around the city to gather evidence for the case.",
+            "sent3": "The kids decided to gumshoes on their teacher for fun.",
+            "sent4": "He gumshoes through the crowd, trying to keep a low profile.",
+            "sent5": "The detective gumshoes quietly behind the suspect, unnoticed."
         }
     ]
 }

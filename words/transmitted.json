@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To send or pass on (a message, information, etc.)",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She transmitted the news to her friend over the phone.",
+            "sent2": "The radio transmitted the weather report to all the listeners.",
+            "sent3": "He transmitted the secret code to his team using hand signals.",
+            "sent4": "The teacher transmitted knowledge to her students like a beacon of light.",
+            "sent5": "The internet transmitted the data across the globe in seconds."
         },
         {
             "definition": "To spread or pass on (a disease, infection, etc.)",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The mosquito transmitted the virus to the unsuspecting victim.",
+            "sent2": "Coughing and sneezing can transmit germs to others easily.",
+            "sent3": "The flu bug transmitted itself from one person to another in the crowded room.",
+            "sent4": "Fear transmitted through the crowd like wildfire, causing panic.",
+            "sent5": "The contaminated water transmitted illness to the entire village."
         },
         {
             "definition": "To broadcast or relay (a signal, sound, etc.)",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The radio tower transmitted the music to all the nearby cars.",
+            "sent2": "The satellite transmitted the live feed of the event to viewers worldwide.",
+            "sent3": "The loudspeaker transmitted the announcement across the entire campus.",
+            "sent4": "The lighthouse transmitted its warning signal to ships in the dark night.",
+            "sent5": "The megaphone transmitted the coach's instructions to the players on the field."
         }
     ]
 }

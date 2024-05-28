@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A total amount resulting from the addition of two or more numbers.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The sums of 5 and 3 is 8.",
+            "sent2": "She added the sums of 10 and 15 to get 25.",
+            "sent3": "The teacher's sums of the students' scores were impressive.",
+            "sent4": "The sums of hard work and dedication lead to success.",
+            "sent5": "The colorful candies were counted, and the sums were delightful."
         },
         {
             "definition": "To calculate the total of two or more numbers.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He sums the prices of the items in his cart.",
+            "sent2": "I need to sums the expenses for this month.",
+            "sent3": "She sums up the grocery bill quickly.",
+            "sent4": "The accountant sums the company's profits diligently.",
+            "sent5": "Sally sums the scores of the game accurately."
         },
         {
             "definition": "A brief and general statement of the main points of something.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The summary provides sums of the key information.",
+            "sent2": "Can you give me the sums of the meeting highlights?",
+            "sent3": "The sums of the story were shared with excitement.",
+            "sent4": "His speech ended with the sums of his achievements.",
+            "sent5": "The book's back cover gives sums of the plot to entice readers."
         }
     ]
 }

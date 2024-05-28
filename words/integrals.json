@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Essential or necessary parts of a whole",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Understanding the integrals of a system helps identify its key components.",
+            "sent2": "The integrals of a story are its main characters and plot points.",
+            "sent3": "The recipe's integrals, like flour and sugar, are crucial for a delicious cake.",
+            "sent4": "In a puzzle, each piece is like an integral that completes the picture.",
+            "sent5": "The integrals of a successful team include trust and communication."
         },
         {
             "definition": "The result of a mathematical operation that represents the area under a curve",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Calculating integrals in calculus involves finding areas under curves.",
+            "sent2": "The integrals of a function can help determine its total area.",
+            "sent3": "The mathematician happily solved the integrals, shading the regions under the graph.",
+            "sent4": "In calculus class, students learn to find integrals to measure enclosed spaces.",
+            "sent5": "The integral of a curve can reveal interesting insights about its shape."
         },
         {
             "definition": "Combining or coordinating parts into a whole",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The integrals approach in project management ensures all tasks are interconnected.",
+            "sent2": "An integrals strategy is vital for assembling a cohesive presentation.",
+            "sent3": "The integrals mindset of the team leader helped merge diverse ideas into a unified plan.",
+            "sent4": "The integrals design of the building seamlessly blended modern and traditional styles.",
+            "sent5": "The integrals nature of the orchestra's performance showcased their harmonious collaboration."
         }
     ]
 }

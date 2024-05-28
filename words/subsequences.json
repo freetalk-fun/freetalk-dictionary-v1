@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A sequence that can be derived from another sequence by deleting some or all of the elements",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "In math class, we learned about subsequences and how they are related to the main sequence.",
+            "sent2": "The book explained that subsequences are like smaller parts taken from a bigger list.",
+            "sent3": "The chef created a funny dish where the subsequences of ingredients were served in reverse order.",
+            "sent4": "Her memories played out like subsequences of a movie, each scene a fragment of the whole story.",
+            "sent5": "The detective carefully examined the subsequences of events to piece together the crime timeline."
         },
         {
             "definition": "A sequence of elements that occur in the same order as in a given sequence",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The song's subsequences of notes formed a beautiful melody that captivated the audience.",
+            "sent2": "The instructions must be followed in the exact subsequences listed to complete the experiment successfully.",
+            "sent3": "The children giggled as they tried to recite the subsequences of the alphabet backwards.",
+            "sent4": "The runner's breath matched the subsequences of her footsteps, creating a rhythmic pattern.",
+            "sent5": "The artist carefully arranged the subsequences of colors to create a stunning painting."
         }
     ]
 }

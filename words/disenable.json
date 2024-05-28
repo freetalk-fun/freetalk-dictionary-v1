@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To make unable or incapable.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Lack of proper tools can disenable a person from fixing the broken chair.",
+            "sent2": "Wearing a blindfold can disenable someone from seeing clearly.",
+            "sent3": "Trying to read with sunglasses on can disenable your eyes from focusing properly.",
+            "sent4": "The thick fog disenabled the driver from seeing the road ahead.",
+            "sent5": "A sudden power outage disenabled the entire building, leaving everyone in darkness."
         },
         {
             "definition": "To prevent from functioning properly.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Leaving the batteries in the rain can disenable the remote control.",
+            "sent2": "A clogged drain can disenable the sink from draining water effectively.",
+            "sent3": "Using a broken pen can disenable you from writing smoothly.",
+            "sent4": "A virus can disenable a computer from operating normally.",
+            "sent5": "A loose connection can disenable the lights from turning on."
         }
     ]
 }

@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Not fully saturated; containing less than the maximum amount of a substance.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The lemonade was undersaturated with sugar, making it less sweet than expected.",
+            "sent2": "The soil in the garden was undersaturated with water, so the plants wilted.",
+            "sent3": "The party was undersaturated with guests, making it feel like a private gathering.",
+            "sent4": "Her painting was undersaturated with color, giving it a dull appearance.",
+            "sent5": "The undersaturated market lacked competition, allowing the small business to thrive."
         },
         {
             "definition": "To cause a solution to become undersaturated by removing some of the solute.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She accidentally undersaturated the soup by adding too much water.",
+            "sent2": "The chemist knew how to undersaturate the solution to achieve the desired concentration.",
+            "sent3": "The magician undersaturated the potion, resulting in unexpected effects.",
+            "sent4": "The chef undersaturated the sauce, altering its taste completely.",
+            "sent5": "The scientist undersaturated the mixture, causing a surprising chemical reaction."
         }
     ]
 }

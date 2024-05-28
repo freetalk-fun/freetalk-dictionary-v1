@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To mistakenly identify someone or something.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She misidentifies her friend in the crowd.",
+            "sent2": "The detective misidentifies the suspect in the lineup.",
+            "sent3": "The robot misidentifies a banana as a phone.",
+            "sent4": "The child misidentifies the shadows as monsters.",
+            "sent5": "He misidentifies the actor in the movie as his neighbor."
         },
         {
             "definition": "To incorrectly recognize or classify.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The cashier misidentifies the fruit at the checkout.",
+            "sent2": "The scientist misidentifies the species of bird in the forest.",
+            "sent3": "The computer misidentifies a cat as a dog in the image.",
+            "sent4": "The student misidentifies the math problem as addition instead of subtraction.",
+            "sent5": "She misidentifies the car model as a different brand."
         }
     ]
 }

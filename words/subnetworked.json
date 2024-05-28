@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A network that is a part of a larger network.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The subnetworked computers in our office are connected to the main network.",
+            "sent2": "The subnetworked printers in the building are all linked to the central server.",
+            "sent3": "The subnetworked devices had a party and invited the main network to join in!",
+            "sent4": "The subnetworked classrooms are like small islands in the vast ocean of the school network.",
+            "sent5": "The subnetworked area is like a cozy neighborhood within the bustling city of the main network."
         },
         {
             "definition": "To connect multiple smaller networks together to form a larger network.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "We need to subnetworked the different departments to improve communication.",
+            "sent2": "The IT team will subnetworked the servers for better data sharing.",
+            "sent3": "The company decided to subnetworked all its branches to streamline operations.",
+            "sent4": "She managed to subnetworked the various systems seamlessly.",
+            "sent5": "The project manager will subnetworked the teams for a more efficient workflow."
         }
     ]
 }

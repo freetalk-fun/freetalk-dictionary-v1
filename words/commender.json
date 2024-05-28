@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A person who gives orders or instructions.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The commender told everyone to line up for the activity.",
+            "sent2": "The teacher is the commender in the classroom, guiding the students.",
+            "sent3": "The commender asked the class to do jumping jacks for homework, which made everyone laugh.",
+            "sent4": "As the commender of the ship, Captain Smith steered through the storm with confidence.",
+            "sent5": "The commender's voice echoed through the hallways, commanding attention from all."
         },
         {
             "definition": "To give orders or instructions.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Please commender the team to start working on the project immediately.",
+            "sent2": "The coach will commender the players to focus on defense during practice.",
+            "sent3": "I commendered my dog to fetch the ball, but he brought back a sock instead!",
+            "sent4": "The CEO commendered the employees to meet the deadline, pushing them to work harder.",
+            "sent5": "The general commendered his troops to charge forward, leading them into battle."
         },
         {
             "definition": "To entrust or give responsibility to someone.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I commender my sister to take care of my plants while I'm away.",
+            "sent2": "The manager commendered the new intern with an important project.",
+            "sent3": "She commendered her best friend to keep her secret, but it somehow got out.",
+            "sent4": "The professor commendered the students to conduct their own research for the assignment.",
+            "sent5": "The king commendered his loyal knight to protect the kingdom from any threats."
         }
     ]
 }

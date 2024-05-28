@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "As a result",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "She studied hard, hence she passed the test.",
+            "sent2": "He forgot his umbrella, hence he got wet in the rain.",
+            "sent3": "Tom ate too much cake, hence he felt sick afterwards.",
+            "sent4": "The team practiced diligently, hence they won the championship.",
+            "sent5": "The sun was shining brightly, hence the flowers bloomed beautifully."
         },
         {
             "definition": "From this place",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "She left the party early, hence she missed the surprise.",
+            "sent2": "The cat jumped off the table, hence it landed on the floor.",
+            "sent3": "The bird flew away, hence it disappeared into the sky.",
+            "sent4": "The squirrel climbed the tree, hence it reached the top branch.",
+            "sent5": "The book fell off the shelf, hence it landed on the carpet."
         },
         {
             "definition": "Therefore",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "He didn't study for the exam, hence he failed.",
+            "sent2": "She loves to read, hence she has a large collection of books.",
+            "sent3": "The store was closed, hence they had to find another place to shop.",
+            "sent4": "The road was blocked, hence they had to take a detour.",
+            "sent5": "The cake was delicious, hence everyone asked for the recipe."
         }
     ]
 }

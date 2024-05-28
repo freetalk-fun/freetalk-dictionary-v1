@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Operated again",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The doctor reoperated on the patient to fix the issue.",
+            "sent2": "After the initial surgery, the patient needed to be reoperated on.",
+            "sent3": "The surgeon accidentally left a sponge inside the patient, so they had to be reoperated on to remove it.",
+            "sent4": "The mechanic reoperated on the engine, but it still wouldn't start.",
+            "sent5": "The farmer reoperated on the irrigation system to ensure all crops received water."
         },
         {
             "definition": "Subjected to a second operation",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The reoperated patient recovered quickly from the second surgery.",
+            "sent2": "The reoperated knee felt much better after the additional procedure.",
+            "sent3": "The reoperated car seemed to run smoother after the mechanic's second attempt.",
+            "sent4": "The reoperated machine performed flawlessly after the technician's adjustments.",
+            "sent5": "The reoperated computer system showed significant improvements in speed and efficiency."
         }
     ]
 }

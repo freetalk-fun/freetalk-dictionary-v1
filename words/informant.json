@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "a person who provides information",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The informant told the police about the crime.",
+            "sent2": "The informant shared valuable details with the detective.",
+            "sent3": "The informant's tip led to the capture of the thief.",
+            "sent4": "She was like an informant, revealing secrets to her friends.",
+            "sent5": "The informant's identity remained a mystery to everyone."
         },
         {
             "definition": "providing information or knowledge",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The informant report was very helpful.",
+            "sent2": "The detective found the informant details useful.",
+            "sent3": "The informant cat seemed to know everything about the neighborhood.",
+            "sent4": "Her smile was as informative as an informant's report.",
+            "sent5": "The informant book contained all the answers we needed."
         }
     ]
 }

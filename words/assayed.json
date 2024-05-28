@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To examine or analyze",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The scientist assayed the sample under the microscope.",
+            "sent2": "She assayed the data to draw meaningful conclusions.",
+            "sent3": "The detective assayed the evidence to solve the mystery.",
+            "sent4": "She assayed the painting, looking for hidden details.",
+            "sent5": "He assayed the situation carefully before making a decision."
         },
         {
             "definition": "To attempt or try",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He assayed to climb the tree but couldn't reach the top.",
+            "sent2": "She assayed to bake a cake for the first time.",
+            "sent3": "The cat assayed to catch the elusive mouse.",
+            "sent4": "He assayed to learn a new language over the summer.",
+            "sent5": "She assayed to run a marathon despite never training."
         },
         {
             "definition": "A test or analysis of a substance",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The assay of the soil revealed high levels of nutrients.",
+            "sent2": "The lab conducted an assay on the water sample.",
+            "sent3": "The chef performed an assay on the ingredients for freshness.",
+            "sent4": "The doctor ordered an assay to check the patient's blood sugar levels.",
+            "sent5": "The assay of the metal confirmed its purity."
         }
     ]
 }

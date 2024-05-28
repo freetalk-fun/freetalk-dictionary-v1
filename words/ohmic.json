@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Of or relating to electrical resistance",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The wire's ohmic properties made it difficult for electricity to flow through.",
+            "sent2": "The circuit's ohmic resistance caused a decrease in current flow.",
+            "sent3": "The light bulb seemed to have a playful ohmic resistance to turning on.",
+            "sent4": "Her stubbornness was like an ohmic barrier, resisting any change in her opinion.",
+            "sent5": "The ohmic nature of the material made it a poor conductor of electricity."
         },
         {
             "definition": "Having a linear relationship between voltage and current",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The ohmic behavior of the resistor allowed for easy calculation of current.",
+            "sent2": "The ohmic devices in the circuit ensured a predictable flow of electricity.",
+            "sent3": "The ohmic relationship between voltage and current was as clear as day.",
+            "sent4": "His dedication to his work was ohmic, steadily increasing with each task completed.",
+            "sent5": "Understanding the ohmic connection between voltage and current is crucial in electronics."
         }
     ]
 }

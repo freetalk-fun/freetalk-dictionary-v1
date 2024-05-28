@@ -3,19 +3,39 @@
     "meanings": [
         {
             "definition": "A separate unit or self-contained component of a larger system.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The different modules of the toy train can be connected together.",
+            "sent2": "The computer program is made up of various modules that work together.",
+            "sent3": "The puzzle pieces are like modules that fit perfectly to complete the picture.",
+            "sent4": "In the game, each level acts as a module that must be completed before moving on.",
+            "sent5": "The modules of the building blocks can be rearranged to create different structures."
         },
         {
             "definition": "A standardized unit of measurement used in building construction.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The architect used specific modules to ensure accurate dimensions in the design.",
+            "sent2": "The construction workers followed the set modules to build the walls of the house.",
+            "sent3": "The modules for measuring length helped the carpenter cut the wood accurately.",
+            "sent4": "Each brick was placed according to the modular measurements to maintain uniformity.",
+            "sent5": "The modules of the ruler made it easy to measure the length of the table."
         },
         {
             "definition": "A set of related courses or subjects offered as part of a curriculum.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The university offers different modules in psychology for students to choose from.",
+            "sent2": "Completing all the modules in the program is necessary to obtain the certificate.",
+            "sent3": "The modules on marine biology include a field trip to observe sea creatures.",
+            "sent4": "Each module in the course covers a specific topic to enhance learning.",
+            "sent5": "Studying the modules on history helped the students understand the past events better."
         },
         {
             "definition": "A detachable part of a spacecraft or vehicle.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The astronaut carefully removed the damaged module from the spaceship.",
+            "sent2": "The space station consists of multiple modules for different purposes.",
+            "sent3": "The detachable module can be used for transporting supplies to the space station.",
+            "sent4": "The module was securely attached to the rover before it landed on Mars.",
+            "sent5": "The crew worked together to repair the module before the next space mission."
         }
     ]
 }

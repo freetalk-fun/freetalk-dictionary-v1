@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "past tense of fight",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Yesterday, she fought with her brother over a toy.",
+            "sent2": "The soldiers fought bravely in the war.",
+            "sent3": "The cat fought playfully with a ball of yarn.",
+            "sent4": "The flames fought against the firefighters' efforts to extinguish them.",
+            "sent5": "The wind and rain fought fiercely against the trees."
         },
         {
             "definition": "engaged in battle or conflict",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The two fought armies clashed on the battlefield.",
+            "sent2": "The fought nations finally signed a peace treaty.",
+            "sent3": "The students had a fought debate about the topic.",
+            "sent4": "The siblings had a fought rivalry over who could run faster.",
+            "sent5": "The neighbors had a fought disagreement about the property line."
         },
         {
             "definition": "struggled or contended with someone or something",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She fought against the strong currents while swimming.",
+            "sent2": "The boxer fought hard to win the match.",
+            "sent3": "The toddler fought with the zipper on his jacket.",
+            "sent4": "The hiker fought through the dense forest to reach the summit.",
+            "sent5": "The team fought together to overcome the challenges they faced."
         }
     ]
 }

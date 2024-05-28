@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A group of binary digits or bits operated on as a unit.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The computer processed the bytes quickly.",
+            "sent2": "She saved the file, which contained several bytes of data.",
+            "sent3": "The bytes in the system had a party and danced around the circuits.",
+            "sent4": "His mind was a maze of interconnected bytes, each holding a different memory.",
+            "sent5": "The bytes glowed brightly on the screen, revealing the hidden information."
         },
         {
             "definition": "A unit of digital information equivalent to eight bits.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The image file was only a few kilobytes in size, just a few bytes.",
+            "sent2": "The email attachment was too large, exceeding several megabytes of data, thousands of bytes.",
+            "sent3": "The bytes in the computer were on strike, demanding better working conditions.",
+            "sent4": "Her words were like bytes of wisdom, small but powerful in impact.",
+            "sent5": "The bytes of music filled the room, creating a symphony of sound."
         }
     ]
 }

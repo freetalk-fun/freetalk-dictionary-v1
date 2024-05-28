@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Fails a test or course.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She always flunks her math tests.",
+            "sent2": "He flunks his exams when he doesn't study.",
+            "sent3": "The student who flunks the test gets extra help.",
+            "sent4": "His lack of preparation flunks him every time.",
+            "sent5": "The thought of failing flunks her motivation to study."
         },
         {
             "definition": "Receives a failing grade.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He flunks every quiz he takes.",
+            "sent2": "She flunks the class if she misses too many assignments.",
+            "sent3": "The student who flunks the test gets a stern look from the teacher.",
+            "sent4": "His carelessness flunks him in every subject.",
+            "sent5": "The fear of flunking makes him study harder."
         },
         {
             "definition": "Fails to meet expectations or standards.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The flunks project did not impress the teacher.",
+            "sent2": "She received a flunks grade for her sloppy work.",
+            "sent3": "His flunks attempt at cooking left everyone hungry.",
+            "sent4": "The flunks performance disappointed the audience.",
+            "sent5": "The flunks attempt at humor fell flat."
         }
     ]
 }

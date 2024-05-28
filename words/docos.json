@@ -2,12 +2,22 @@
     "term": "docos",
     "meanings": [
         {
-            "definition": "A prefix meaning \"twenty\" or \"twenty-two\"",
-            "pos": "noun"
+            "definition": "A prefix meaning 'twenty' or 'twenty-two'",
+            "pos": "noun",
+            "sent1": "There are docos students in the classroom.",
+            "sent2": "The book has docos pages in it.",
+            "sent3": "I counted docos apples in the basket.",
+            "sent4": "The necklace had docos shiny beads on it.",
+            "sent5": "She wore a dress with docos colorful flowers on it."
         },
         {
             "definition": "A prefix denoting a chemical compound containing twenty carbon atoms",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The scientist studied docos compounds in the lab.",
+            "sent2": "The medication contains docos elements for healing.",
+            "sent3": "The chef added docos spices to the dish.",
+            "sent4": "The air freshener emitted a docos pleasant scent.",
+            "sent5": "The plant absorbed docos nutrients from the soil."
         }
     ]
 }

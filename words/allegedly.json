@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "According to what has been alleged.",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "She allegedly saw a ghost in the old house.",
+            "sent2": "The suspect allegedly stole the cookies from the jar.",
+            "sent3": "The cat allegedly danced on the roof at midnight.",
+            "sent4": "The rumor allegedly spread like wildfire through the town.",
+            "sent5": "The treasure map allegedly led to a hidden cave filled with gold."
         },
         {
             "definition": "Asserted but not proven.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The allegedly haunted house scared the children.",
+            "sent2": "The allegedly haunted house turned out to be just a prank.",
+            "sent3": "The allegedly magical potion made the wizard sneeze glitter.",
+            "sent4": "The allegedly cursed ring brought misfortune to its owners.",
+            "sent5": "The allegedly haunted forest whispered secrets to those who dared to enter."
         }
     ]
 }

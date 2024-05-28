@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A sign or indication",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The dark clouds were an indices of an approaching storm.",
+            "sent2": "The arrow pointing left was an indices for turning left.",
+            "sent3": "Seeing the cat waiting by the door was an amusing indices that it wanted to go outside.",
+            "sent4": "Her raised eyebrow served as an indices of her skepticism.",
+            "sent5": "The loud thunder was a vivid indices of the storm's intensity."
         },
         {
             "definition": "A statistical measure of change or performance",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The stock market indices showed a decrease in value.",
+            "sent2": "The economic indices indicated a positive growth trend.",
+            "sent3": "The indices for customer satisfaction reached an all-time high, much to everyone's amusement.",
+            "sent4": "Her test scores served as an indices of her hard work paying off.",
+            "sent5": "The rising temperature was a striking indices of climate change."
         },
         {
             "definition": "A list or system of items for reference or comparison",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The book's indices made it easy to find specific topics.",
+            "sent2": "The indices at the end of the report listed all references used.",
+            "sent3": "The indices of available snacks in the vending machine provided some amusing choices.",
+            "sent4": "His collection of stamps served as an indices of his travels around the world.",
+            "sent5": "The map's indices made navigation through the city much simpler."
         }
     ]
 }

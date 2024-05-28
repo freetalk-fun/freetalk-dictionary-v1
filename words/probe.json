@@ -3,19 +3,39 @@
     "meanings": [
         {
             "definition": "A blunt-ended surgical instrument used for exploring a wound or body cavity.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The doctor used a probe to carefully check the wound.",
+            "sent2": "The nurse sterilized the probe before using it on the patient.",
+            "sent3": "The probe looked like a small stick with a rounded end.",
+            "sent4": "The probe delved into the wound, revealing the extent of the injury.",
+            "sent5": "The probe's gentle touch helped the doctor find the source of pain."
         },
         {
             "definition": "To investigate or examine thoroughly.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Scientists probe the ocean depths to discover new species.",
+            "sent2": "The detective decided to probe further into the mysterious case.",
+            "sent3": "The curious child liked to probe into every corner of the house.",
+            "sent4": "Her questions probed deep into the heart of the matter.",
+            "sent5": "The researchers probed the data for any hidden patterns."
         },
         {
             "definition": "A spacecraft or satellite sent to explore outer space.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The probe sent back images of distant planets.",
+            "sent2": "Scientists launched a probe to study the composition of a comet.",
+            "sent3": "The space probe traveled through the galaxy at incredible speeds.",
+            "sent4": "The probe's mission was to gather data about the asteroid belt.",
+            "sent5": "The space agency monitored the probe's signals from Earth."
         },
         {
             "definition": "To physically explore or examine with a probe.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The archaeologist used a small brush to carefully probe the ancient artifact.",
+            "sent2": "She gently probed the soil with a metal detector to find hidden treasures.",
+            "sent3": "The curious cat liked to probe its nose into every nook and cranny.",
+            "sent4": "His words probed her emotions, revealing hidden feelings.",
+            "sent5": "The explorer probed the cave walls with a flashlight, searching for clues."
         }
     ]
 }

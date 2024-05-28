@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Satisfies a thirst or desire.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Drinking water quenches your thirst after playing outside.",
+            "sent2": "After a long run, a cold glass of water quenches your thirst.",
+            "sent3": "The delicious ice cream quenches your craving for something sweet.",
+            "sent4": "Her kind words quenched the loneliness in his heart.",
+            "sent5": "The rain quenches the dry earth, bringing life to the plants."
         },
         {
             "definition": "Extinguishes or puts out (a fire).",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Using a fire extinguisher quenches the flames quickly.",
+            "sent2": "The firefighter quenches the fire with water to save the building.",
+            "sent3": "The superhero's ice powers quench the fiery dragon's flames.",
+            "sent4": "The heavy rain quenched the forest fire, saving the trees.",
+            "sent5": "The blanket quenches the small fire before it spreads."
         },
         {
             "definition": "Cools or cools down (something hot).",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Blowing on the hot soup quenches its temperature.",
+            "sent2": "Adding ice quenches the heat of the scorching pavement.",
+            "sent3": "The fan quenches the heat of the room, making it comfortable.",
+            "sent4": "The cold breeze quenches the heat of the summer day.",
+            "sent5": "Dipping your feet in the cool water quenches the burning sensation."
         }
     ]
 }

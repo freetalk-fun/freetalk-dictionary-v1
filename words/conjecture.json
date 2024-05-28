@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "An opinion or conclusion based on incomplete information",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Her conjecture about the weather was that it would rain today.",
+            "sent2": "The scientist's conjecture about the experiment outcome was proven wrong.",
+            "sent3": "Tom's conjecture about the surprise party was way off!",
+            "sent4": "The detective's conjecture about the case led to a breakthrough.",
+            "sent5": "Despite her conjecture, the answer remained elusive."
         },
         {
             "definition": "To form an opinion or theory without sufficient evidence",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I often conjecture about what the future holds for me.",
+            "sent2": "She tends to conjecture about people's motives without knowing the full story.",
+            "sent3": "The children conjecture wildly about the origins of the mysterious noise.",
+            "sent4": "His mind began to conjecture about the endless possibilities ahead.",
+            "sent5": "As the storm approached, they could only conjecture about its intensity."
         }
     ]
 }

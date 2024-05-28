@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A person or thing that identifies.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The dog's barking served as an identifier for the lost child.",
+            "sent2": "The teacher asked the students to write their name as an identifier on the test paper.",
+            "sent3": "The clever identifier, a bright red hat, made it easy to spot him in the crowd.",
+            "sent4": "Her infectious laughter was an identifier of her presence in the room.",
+            "sent5": "The unique birthmark on his arm was a clear identifier for the investigators."
         },
         {
             "definition": "A code or number used to identify something.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The barcode on the product served as an identifier for the cashier.",
+            "sent2": "Please enter your student identifier to access the online portal.",
+            "sent3": "The secret agent's identifier code was '007', adding a touch of humor to his missions.",
+            "sent4": "The serial number on the device acted as an identifier in the investigation.",
+            "sent5": "The license plate number was the key identifier in tracking down the stolen car."
         }
     ]
 }

@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To predict or foreshadow a future event",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Grandpa's achy knee augurs rain.",
+            "sent2": "The weather vane augurs a storm approaching.",
+            "sent3": "The cat's purring augurs a mouse hunt.",
+            "sent4": "The distant thunder augurs a coming downpour.",
+            "sent5": "The dark clouds augur a heavy rainfall."
         },
         {
             "definition": "A person who predicts the future",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The village augurs foretold a bountiful harvest.",
+            "sent2": "The wise old augur warned of impending danger.",
+            "sent3": "The young augur amused the children with tales of dragons.",
+            "sent4": "The royal augur was consulted before every major decision.",
+            "sent5": "The mysterious augur was sought after for her accurate predictions."
         },
         {
             "definition": "A sign or omen of what is to come",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The black cat crossing your path augurs bad luck.",
+            "sent2": "The rainbow after the storm augurs a brighter future.",
+            "sent3": "The broken mirror augurs seven years of misfortune.",
+            "sent4": "The shooting star augurs a wish coming true.",
+            "sent5": "The blooming flowers augur the arrival of spring."
         }
     ]
 }

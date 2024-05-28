@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Demodulates: to extract the original information from a modulated carrier signal.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The device demodulates the radio signal to reveal the hidden message.",
+            "sent2": "The technician demodulates the encrypted data to understand its content.",
+            "sent3": "The clever spy demodulates the secret transmission to uncover the mystery.",
+            "sent4": "Her intuition demodulates the underlying emotions in his words.",
+            "sent5": "The software demodulates the audio signal with remarkable accuracy."
         },
         {
             "definition": "Demodulates: the process of converting a modulated signal back to its original form.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The machine demodulates the distorted signal to restore its clarity.",
+            "sent2": "The engineer demodulates the distorted image to its original state.",
+            "sent3": "The magician demodulates the twisted reality to its true form.",
+            "sent4": "His wisdom demodulates the complex problem into simple solutions.",
+            "sent5": "The algorithm demodulates the encrypted message effortlessly."
         }
     ]
 }

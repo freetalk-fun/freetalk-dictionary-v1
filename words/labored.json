@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Worked hard or with difficulty",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "She labored to finish her homework before bedtime.",
+            "sent2": "He walked laboredly up the steep hill.",
+            "sent3": "The squirrel labored to carry the oversized acorn up the tree.",
+            "sent4": "The old car labored up the hill, struggling with each turn of the wheel.",
+            "sent5": "The ant labored tirelessly to move the large crumb to its nest."
         },
         {
             "definition": "Showing signs of effort or strain",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "Her labored breathing indicated she had been running for a while.",
+            "sent2": "The labored expression on his face revealed his discomfort.",
+            "sent3": "The cat's labored attempt to catch the laser pointer amused the children.",
+            "sent4": "The labored engine of the old truck sputtered to life.",
+            "sent5": "The labored movements of the injured bird touched the hearts of onlookers."
         },
         {
             "definition": "To work hard or with difficulty",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "They labored all day in the fields to harvest the crops.",
+            "sent2": "She labored over her painting, adding intricate details.",
+            "sent3": "The chef labored in the kitchen to create a masterpiece for the guests.",
+            "sent4": "The workers labored to build the bridge before the deadline.",
+            "sent5": "He labored through the night to finish the project on time."
         }
     ]
 }

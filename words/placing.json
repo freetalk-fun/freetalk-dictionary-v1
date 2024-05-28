@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To put in a particular position or location.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She is placing the book on the shelf.",
+            "sent2": "I enjoy placing flowers in a vase.",
+            "sent3": "Placing the toy on the dog's head made him look silly.",
+            "sent4": "The artist is placing colors on the canvas like a master.",
+            "sent5": "Placing the key in the lock, she turned it with a click."
         },
         {
             "definition": "The act of putting something in a particular position or location.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "His placing of the chair by the window was perfect.",
+            "sent2": "The placing of the cups on the table was meticulous.",
+            "sent3": "The placing of the hat on the cat's head was a funny sight.",
+            "sent4": "The placing of the stars in the night sky is a beautiful mystery.",
+            "sent5": "The careful placing of the puzzle pieces led to a complete picture."
         }
     ]
 }

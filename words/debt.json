@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Something that is owed or due",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "She had a debt to her friend for borrowing a book.",
+            "sent2": "He couldn't ignore the debt he owed to his family for their support.",
+            "sent3": "The debt of gratitude she felt towards her mentor was immense.",
+            "sent4": "The debt of kindness he received from strangers warmed his heart.",
+            "sent5": "The debt of loyalty between the two friends was unbreakable."
         },
         {
             "definition": "An obligation to pay or repay",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "His debt to the bank needed to be settled by the end of the month.",
+            "sent2": "The debt he incurred from his credit card purchases was becoming overwhelming.",
+            "sent3": "The debt of chores he owed his siblings piled up quickly.",
+            "sent4": "The debt of time he promised to his friend was finally repaid.",
+            "sent5": "The debt of honesty in their relationship was crucial to maintain trust."
         },
         {
             "definition": "The state of owing money",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Her debt from student loans was a heavy burden on her finances.",
+            "sent2": "The country's national debt continued to rise each year.",
+            "sent3": "The debt of sleep he accumulated from late nights was catching up to him.",
+            "sent4": "The debt of apologies he owed his colleagues was long overdue.",
+            "sent5": "The debt of responsibility for the project fell on his shoulders."
         }
     ]
 }

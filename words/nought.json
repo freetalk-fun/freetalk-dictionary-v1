@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Zero",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I have nought apples in my bag.",
+            "sent2": "The temperature dropped to nought degrees last night.",
+            "sent3": "When I checked my pockets, I found nought but lint.",
+            "sent4": "The abandoned house stood silent and empty, a nought of life within.",
+            "sent5": "The student's test score of nought was a stark reminder to study harder."
         },
         {
             "definition": "Nothing",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "There is nought left in the cookie jar.",
+            "sent2": "She searched the room but found nought of interest.",
+            "sent3": "The magician waved his wand, and nought remained in the hat.",
+            "sent4": "In the vast desert, there was nought but sand for miles.",
+            "sent5": "The explorer's map showed nought beyond the uncharted territory."
         }
     ]
 }

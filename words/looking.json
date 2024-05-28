@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "The act of directing one's gaze in a particular direction.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "She turned her head, and her looking was towards the beautiful sunset.",
+            "sent2": "The child was looking at the colorful balloons in awe.",
+            "sent3": "The cat's looking at the mouse was so intense, it seemed like a staring contest.",
+            "sent4": "His looking through the telescope revealed a galaxy of stars.",
+            "sent5": "The detective's looking for clues was meticulous and thorough."
         },
         {
             "definition": "Appearing to be or giving the impression of being.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The shiny new car had a sleek and modern looking design.",
+            "sent2": "The old house had a spooky looking exterior.",
+            "sent3": "The cake, though burnt, had a delicious looking frosting.",
+            "sent4": "The storm clouds were ominous looking, signaling bad weather ahead.",
+            "sent5": "The puppy's sad looking eyes melted everyone's hearts."
         },
         {
             "definition": "Having a particular appearance or expression.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The friendly looking cashier greeted customers with a smile.",
+            "sent2": "The mysterious looking package arrived at the doorstep.",
+            "sent3": "The tired looking student yawned during the boring lecture.",
+            "sent4": "The exotic looking bird chirped melodiously in the tree.",
+            "sent5": "The elegant looking gown shimmered under the spotlight."
         }
     ]
 }

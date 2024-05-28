@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "The foot of an animal having claws",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The kitten's paws were soft and fluffy.",
+            "sent2": "The dog used its paws to dig in the dirt.",
+            "sent3": "The squirrel's paws were busy collecting nuts for the winter.",
+            "sent4": "The bear's massive paws left deep imprints in the snow.",
+            "sent5": "The rabbit's paws hopped quickly across the grass."
         },
         {
             "definition": "To touch or strike with a paw",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The cat paws at the yarn playfully.",
+            "sent2": "The lion paws at its prey before attacking.",
+            "sent3": "The raccoon paws at the garbage can looking for food.",
+            "sent4": "The tiger paws at the water, ready to catch a fish.",
+            "sent5": "The bear paws gently at the riverbank, searching for salmon."
         },
         {
             "definition": "To handle or manipulate clumsily",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She paws at the keys on the piano, trying to play a tune.",
+            "sent2": "The toddler paws at the puzzle pieces, trying to fit them together.",
+            "sent3": "The chef paws at the dough, trying to knead it properly.",
+            "sent4": "The mechanic paws at the engine, trying to locate the issue.",
+            "sent5": "The artist paws at the paintbrushes, searching for the right one."
         }
     ]
 }

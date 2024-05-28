@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Able or likely to change or be changed",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The weather in our city is very variable, sometimes hot and sometimes cold.",
+            "sent2": "Her mood was variable, one moment happy and the next moment sad.",
+            "sent3": "The variable cat kept changing its mind about going outside or staying in.",
+            "sent4": "His opinion on the matter was as variable as the wind, constantly shifting.",
+            "sent5": "The teacher's variable teaching style kept the students engaged and interested."
         },
         {
             "definition": "A symbol representing a quantity that can assume any one of a set of values",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "In math class, we learned about using a variable like 'x' to represent an unknown number.",
+            "sent2": "The scientist used the variable 'y' to represent the dependent quantity in the experiment.",
+            "sent3": "The variable 'z' decided the outcome of the equation, making it a mystery until solved.",
+            "sent4": "The variable 'n' in the equation acted like a chameleon, taking on different values.",
+            "sent5": "The student struggled to understand the concept of a variable in algebra, but eventually grasped it."
         }
     ]
 }

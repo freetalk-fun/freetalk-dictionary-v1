@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A member of the clergy attached to a private chapel, institution, ship, branch of the armed forces, etc.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The chaplain led the prayer service in the chapel.",
+            "sent2": "The chaplain provided comfort to the soldiers on the ship.",
+            "sent3": "The chaplain's hat flew off during the windy prayer.",
+            "sent4": "The chaplain's words were a beacon of hope in the storm.",
+            "sent5": "The chaplain's presence brought peace to the troubled hearts."
         },
         {
             "definition": "A person who performs religious services and pastoral care in a non-religious setting, such as a hospital or prison.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The hospital chaplain offered solace to the patients.",
+            "sent2": "The chaplain's words brought comfort to the inmates.",
+            "sent3": "The chaplain's singing made the hospital room feel like a concert hall.",
+            "sent4": "The chaplain's advice was a lighthouse in the sea of despair.",
+            "sent5": "The chaplain's smile was a ray of sunshine in the gloomy prison."
         }
     ]
 }

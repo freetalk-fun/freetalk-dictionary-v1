@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To choose or select one person or thing from a group",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She singled out the best student for the award.",
+            "sent2": "The teacher singled out the student who answered all the questions correctly.",
+            "sent3": "At the party, everyone was surprised when she singled out the quietest person to lead the dance.",
+            "sent4": "In the sea of faces, he singled out his best friend with a wave.",
+            "sent5": "The spotlight singled out the lead singer on stage."
         },
         {
             "definition": "To focus on or pay attention to one person or thing",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "During the presentation, she singled on the important details.",
+            "sent2": "The coach singled on the star player's performance during the game.",
+            "sent3": "In the noisy room, he singled on the soft melody playing in the background.",
+            "sent4": "Her eyes singled on the beautiful painting hanging on the wall.",
+            "sent5": "The detective singled on the suspicious behavior of the suspect."
         },
         {
             "definition": "To separate or distinguish one person or thing from others",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The judge singled the winner from the rest of the contestants.",
+            "sent2": "The software can single specific data points from the overall dataset.",
+            "sent3": "The magician's trick was to single the chosen card from the deck.",
+            "sent4": "The unique scent of the flower singled it out from the other blooms.",
+            "sent5": "The detective was able to single the culprit based on the footprint evidence."
         }
     ]
 }

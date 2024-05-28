@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "One who enciphers information.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The encipherer protected the secret code.",
+            "sent2": "The encipherer carefully encoded the message.",
+            "sent3": "The encipherer's job was to keep the information safe.",
+            "sent4": "The encipherer was like a guardian of hidden knowledge.",
+            "sent5": "The encipherer's role was crucial in safeguarding the data."
         },
         {
             "definition": "To encode or convert information into a coded form.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She will encipherer the document for security.",
+            "sent2": "He encipherer the message before sending it.",
+            "sent3": "Why don't you encipherer the text for fun?",
+            "sent4": "Her skills allowed her to encipherer the data swiftly.",
+            "sent5": "The software can encipherer the files automatically."
         }
     ]
 }

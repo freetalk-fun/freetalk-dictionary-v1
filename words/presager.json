@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A person or thing that presages or foreshadows a future event.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The old man's arrival at the village was seen as a presager of good fortune.",
+            "sent2": "The black cat crossing your path is often considered a presager of bad luck.",
+            "sent3": "The presager of rain turned out to be a mischievous squirrel with an umbrella.",
+            "sent4": "The sudden drop in temperature was a presager of the impending snowstorm.",
+            "sent5": "The howling of the wolves served as a chilling presager of danger ahead."
         },
         {
             "definition": "To serve as a sign or warning of something to come.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The dark clouds presagered a heavy rainstorm approaching.",
+            "sent2": "The distant thunder presagered the arrival of a summer storm.",
+            "sent3": "The creaking door presagered the unexpected visit of a friendly neighbor.",
+            "sent4": "The eerie silence in the forest presagered the presence of a hidden danger.",
+            "sent5": "The sudden gust of wind presagered the change in weather to come."
         }
     ]
 }

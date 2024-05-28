@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A bundle of items wrapped or boxed together for carrying or shipping.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I received two packages in the mail today.",
+            "sent2": "The delivery person dropped off several packages at our doorstep.",
+            "sent3": "The packages were so heavy that I almost dropped them!",
+            "sent4": "Her love for him was like a package that she carried with her everywhere.",
+            "sent5": "The packages were neatly stacked, ready to be shipped out."
         },
         {
             "definition": "A software or data file that is bundled together for distribution and installation.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I downloaded the software package for my new computer.",
+            "sent2": "The email contained multiple software packages for us to install.",
+            "sent3": "The software package was so easy to use, even my grandma could do it!",
+            "sent4": "The data package was like a treasure chest full of valuable information.",
+            "sent5": "The software packages were updated regularly to ensure security."
         },
         {
             "definition": "A set of proposals or measures offered as a single unit.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The government presented a new economic packages to stimulate growth.",
+            "sent2": "The company's new policy package included benefits for all employees.",
+            "sent3": "The proposal package was so well-received that it got approved immediately.",
+            "sent4": "Her plan was like a carefully crafted package, ready to be unwrapped.",
+            "sent5": "The packages of measures were designed to address various issues simultaneously."
         }
     ]
 }

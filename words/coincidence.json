@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A situation in which events happen at the same time by chance.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "It was a coincidence that we both wore the same color shirt today.",
+            "sent2": "The meeting was scheduled for the same time by coincidence.",
+            "sent3": "By coincidence, we both ordered the same dish at the restaurant.",
+            "sent4": "The timing of their arrival was a perfect coincidence with the start of the party.",
+            "sent5": "The coincidence of finding a four-leaf clover brought them good luck."
         },
         {
             "definition": "A remarkable concurrence of events or circumstances without apparent causal connection.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The coincidence of winning the lottery twice is unbelievable.",
+            "sent2": "It was a strange coincidence that they both had the same dream.",
+            "sent3": "In a strange coincidence, they both chose the same vacation destination without consulting each other.",
+            "sent4": "The coincidence of their paths crossing again after so many years was like fate.",
+            "sent5": "The remarkable coincidence of their birthdays being on the same day amazed everyone."
         }
     ]
 }

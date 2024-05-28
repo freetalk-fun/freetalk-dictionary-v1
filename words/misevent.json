@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "An unfortunate event or occurrence.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The car accident was a terrible misevent.",
+            "sent2": "The sudden storm was a shocking misevent.",
+            "sent3": "The birthday cake falling on the floor was a small misevent.",
+            "sent4": "Losing the final game felt like a huge misevent.",
+            "sent5": "The power outage during the party was a memorable misevent."
         },
         {
             "definition": "To experience an unfortunate event or occurrence.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She hoped to never misevent such a tragedy again.",
+            "sent2": "They fear they will misevent another financial crisis.",
+            "sent3": "He tends to misevent minor mishaps into major disasters.",
+            "sent4": "Miseventing setbacks can lead to valuable life lessons.",
+            "sent5": "Trying to avoid miseventing is a common human struggle."
         }
     ]
 }

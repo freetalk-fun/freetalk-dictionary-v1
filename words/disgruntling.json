@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To make discontented or dissatisfied.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The long wait in line was disgruntling the customers.",
+            "sent2": "The noisy neighbors were disgruntling the peaceful atmosphere of the neighborhood.",
+            "sent3": "The constant rain disgruntled the picnic plans.",
+            "sent4": "The never-ending traffic jam disgruntled the commuters.",
+            "sent5": "The lack of communication from the management disgruntled the employees."
         },
         {
             "definition": "Causing discontent or dissatisfaction.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The disgruntling noise from the construction site was unbearable.",
+            "sent2": "The service at the restaurant was disgruntling due to the slow wait times.",
+            "sent3": "The disgruntling weather made the outdoor event challenging.",
+            "sent4": "The disgruntling feedback from the customers was a wake-up call for the company.",
+            "sent5": "The disgruntling news about the project delay disappointed the team."
         }
     ]
 }

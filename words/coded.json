@@ -3,19 +3,39 @@
     "meanings": [
         {
             "definition": "Converted into a code",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She coded the message to keep it safe.",
+            "sent2": "The software developer coded the new program efficiently.",
+            "sent3": "He coded the treasure map so only he could understand it.",
+            "sent4": "Her emotions were coded in a way that only he could decipher.",
+            "sent5": "The ancient language was coded with intricate symbols."
         },
         {
             "definition": "Encoded for security purposes",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The coded document was kept in a secure safe.",
+            "sent2": "The coded message could only be read by authorized personnel.",
+            "sent3": "The coded lock required a special key to open.",
+            "sent4": "Her coded diary entries were meant for her eyes only.",
+            "sent5": "The coded information was protected from unauthorized access."
         },
         {
             "definition": "Hidden or secret messages",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The spy intercepted a coded transmission.",
+            "sent2": "The detective deciphered the coded message.",
+            "sent3": "The coded letter contained vital information.",
+            "sent4": "The coded signal alerted the team to proceed with caution.",
+            "sent5": "The coded communication was crucial for the mission's success."
         },
         {
             "definition": "Written in a coded language",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The coded manuscript was a mystery to all but a few scholars.",
+            "sent2": "The coded text required a special decoder to understand.",
+            "sent3": "The coded script was like a puzzle waiting to be solved.",
+            "sent4": "Her coded notes were like a secret codebook.",
+            "sent5": "The coded language was a barrier to those unfamiliar with it."
         }
     ]
 }

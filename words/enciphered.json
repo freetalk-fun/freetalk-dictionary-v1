@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Convert (a message or piece of text) into a coded form by using a cipher.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She enciphered the secret message to keep it safe.",
+            "sent2": "The spy enciphered the confidential document before sending it.",
+            "sent3": "The detective enciphered the clue to solve the mystery.",
+            "sent4": "Her love for him was enciphered in every letter she wrote.",
+            "sent5": "The ancient map was enciphered with hidden symbols."
         },
         {
             "definition": "To encode or encrypt a message using a cipher.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He enciphered the password to protect his online account.",
+            "sent2": "The computer program enciphered the data for security reasons.",
+            "sent3": "The magician enciphered his tricks to baffle the audience.",
+            "sent4": "The artist enciphered his emotions into the painting.",
+            "sent5": "The treasure map was enciphered with cryptic clues."
         }
     ]
 }

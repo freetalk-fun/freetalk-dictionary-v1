@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "In the time following a particular event or date.",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "She has been happy since the party.",
+            "sent2": "I have been waiting for you since morning.",
+            "sent3": "Since the concert, he has been humming the tunes.",
+            "sent4": "Her smile has been bright since the good news.",
+            "sent5": "The flowers have bloomed beautifully since the rain."
         },
         {
             "definition": "Because; as a result of.",
-            "pos": "conjunction"
+            "pos": "conjunction",
+            "sent1": "He couldn't sleep well since he drank coffee late.",
+            "sent2": "She is tired since she worked all day.",
+            "sent3": "Since the dog barked, the cat ran away.",
+            "sent4": "The road was closed since the storm hit.",
+            "sent5": "Since the alarm rang, everyone woke up in a hurry."
         },
         {
             "definition": "From the time when.",
-            "pos": "preposition"
+            "pos": "preposition",
+            "sent1": "He has been my friend since kindergarten.",
+            "sent2": "She has been practicing piano since she was five.",
+            "sent3": "Since the movie started, I couldn't stop laughing.",
+            "sent4": "The tree has been growing since it was planted.",
+            "sent5": "Since the book was published, it has been popular."
         }
     ]
 }

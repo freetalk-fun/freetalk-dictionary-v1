@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To predict or foreshadow something",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The dark clouds presaged a storm approaching.",
+            "sent2": "Her sudden silence presaged bad news.",
+            "sent3": "The cat's yawn presaged the chaos that followed.",
+            "sent4": "The distant thunder presaged the coming tempest.",
+            "sent5": "The old man's cough presaged the onset of winter."
         },
         {
             "definition": "A sign or warning of a future event",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The black cat crossing their path was seen as a presaged of bad luck.",
+            "sent2": "The sudden drop in temperature was a presaged of the coming snowstorm.",
+            "sent3": "Finding a four-leaf clover was considered a lucky presaged.",
+            "sent4": "The broken mirror was a presaged of the misfortune that followed.",
+            "sent5": "The owl's hoot outside the window was a spooky presaged of the night ahead."
         }
     ]
 }

@@ -3,23 +3,48 @@
     "meanings": [
         {
             "definition": "To examine or inspect something",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I am checking my homework for mistakes.",
+            "sent2": "She is checking the ingredients before baking the cake.",
+            "sent3": "The detective was checking the crime scene for clues.",
+            "sent4": "The teacher was checking each student's work meticulously.",
+            "sent5": "He was checking the map to find the correct route."
         },
         {
             "definition": "To verify or confirm something",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I am checking the schedule to see if the meeting is confirmed.",
+            "sent2": "Please check the weather forecast before planning the picnic.",
+            "sent3": "He kept checking his watch to make sure he wouldn't be late.",
+            "sent4": "She checked her phone to confirm the time of the movie.",
+            "sent5": "They are checking the tickets to verify their authenticity."
         },
         {
             "definition": "To stop or control something",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The police officer is checking the traffic to prevent accidents.",
+            "sent2": "He checked his speed to control the car on the slippery road.",
+            "sent3": "She was checking her emotions to avoid getting upset.",
+            "sent4": "The doctor checked the patient's fever to control the infection.",
+            "sent5": "They are checking the fire to stop it from spreading."
         },
         {
             "definition": "A process of inspecting or verifying something",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The checking of passports at the airport was thorough.",
+            "sent2": "The checking of IDs is necessary for security purposes.",
+            "sent3": "The constant checking of the equipment ensures its proper functioning.",
+            "sent4": "The checking of the documents revealed discrepancies.",
+            "sent5": "Regular checking of the inventory prevents shortages."
         },
         {
             "definition": "A mark or symbol used to indicate correctness or completion",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The teacher put a checking mark on the correct answers.",
+            "sent2": "He received a checking symbol for finishing the task on time.",
+            "sent3": "The checking on the ballot paper showed the vote was valid.",
+            "sent4": "The checking on the exam paper indicated the student's progress.",
+            "sent5": "The checking on the form confirmed all the required fields were filled."
         }
     ]
 }

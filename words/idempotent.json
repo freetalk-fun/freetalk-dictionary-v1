@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "(of an element) unchanged when multiplied by itself.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The idempotent number remained the same even after being multiplied by itself.",
+            "sent2": "The idempotent property of the number made it easy to calculate.",
+            "sent3": "The idempotent cookie recipe never changed no matter how many times I baked it.",
+            "sent4": "Her love for him was idempotent, growing stronger with each passing day.",
+            "sent5": "The idempotent rock formation stood unchanged for centuries."
         },
         {
             "definition": "(of a function) producing the same result when applied multiple times.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The idempotent function always gave the same output when used repeatedly.",
+            "sent2": "The idempotent algorithm simplified the process by avoiding unnecessary calculations.",
+            "sent3": "The idempotent printer kept printing the same document over and over by mistake.",
+            "sent4": "His words were idempotent, leaving a lasting impact on everyone who heard them.",
+            "sent5": "The idempotent clock struck the same hour again and again."
         }
     ]
 }

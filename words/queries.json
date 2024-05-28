@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A question, especially one addressed to an official or organization.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "She had many queries about the new policy.",
+            "sent2": "He submitted his queries to the customer service department.",
+            "sent3": "The cat's queries about the closed door were met with silence.",
+            "sent4": "Her queries into the mysterious disappearance led to surprising revelations.",
+            "sent5": "The teacher's queries challenged the students to think critically."
         },
         {
             "definition": "A doubt about the truth or validity of something.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "His queries about the experiment's results were valid.",
+            "sent2": "The scientist's queries raised important concerns.",
+            "sent3": "The detective's queries about the suspect's alibi were crucial.",
+            "sent4": "Her queries about the company's financial statements uncovered discrepancies.",
+            "sent5": "The student's queries about the historical event sparked further research."
         },
         {
             "definition": "A request for information.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The customer's queries about the product were promptly answered.",
+            "sent2": "She sent her queries to the IT support team.",
+            "sent3": "The robot's queries for data were relentless.",
+            "sent4": "His queries for feedback helped improve the project.",
+            "sent5": "The journalist's queries revealed new details about the scandal."
         }
     ]
 }

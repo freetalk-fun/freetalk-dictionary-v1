@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To remove an amount of money from a financial account.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I debited $20 from my bank account to pay for groceries.",
+            "sent2": "The bank debited the monthly fee from my account.",
+            "sent3": "I accidentally debited too much money and now I can't buy anything.",
+            "sent4": "Her expenses debited her savings like a hungry monster.",
+            "sent5": "The ATM debited the exact amount I needed for the concert ticket."
         },
         {
             "definition": "To record a decrease in the balance of a financial account.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The accountant debited the recent transaction in the ledger.",
+            "sent2": "Every purchase debited the total amount in the account.",
+            "sent3": "The debited balance made me realize I need to save more.",
+            "sent4": "His constant spending debited his financial stability.",
+            "sent5": "The debited amount reflected the accurate spending for the month."
         }
     ]
 }

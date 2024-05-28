@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A feeling or intuition of a future event, especially something bad.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The dark clouds in the sky gave me a sense of boding about the upcoming storm.",
+            "sent2": "Her sudden silence was a clear boding of the bad news she was about to deliver.",
+            "sent3": "The cat's loud meow was a boding of the chaos that would soon ensue in the house.",
+            "sent4": "The eerie silence in the forest was a boding of the mysterious events that would unfold.",
+            "sent5": "The howling wind outside was a boding that sent shivers down my spine."
         },
         {
             "definition": "To be an omen or sign of something to come.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The sudden drop in temperature boding a change in weather.",
+            "sent2": "The black cat crossing our path boding bad luck for the day.",
+            "sent3": "The flickering streetlight boding a power outage later in the night.",
+            "sent4": "The distant thunder boding an approaching storm.",
+            "sent5": "The old clock striking midnight boding the end of the day."
         }
     ]
 }

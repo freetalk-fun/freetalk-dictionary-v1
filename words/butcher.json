@@ -3,19 +3,39 @@
     "meanings": [
         {
             "definition": "A person who slaughters animals for food.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The butcher at the farm is skilled at preparing meat.",
+            "sent2": "I bought some fresh sausages from the local butcher.",
+            "sent3": "The butcher accidentally cut his finger while sharpening his knife.",
+            "sent4": "The butcher of the family, Uncle Bob, always grills the best steaks.",
+            "sent5": "The butcher's shop was filled with the aroma of smoked ham."
         },
         {
             "definition": "To slaughter animals for food.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Farmers butcher animals to provide meat for their families.",
+            "sent2": "The chef will butcher the chicken before cooking it.",
+            "sent3": "I tried to butcher the fish, but it ended up in pieces everywhere.",
+            "sent4": "The hunters butchered the deer swiftly and efficiently.",
+            "sent5": "The butchered pig was divided into different cuts for sale."
         },
         {
             "definition": "To kill someone brutally or indiscriminately.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The villain planned to butcher his enemies in revenge.",
+            "sent2": "The serial killer would butcher his victims without remorse.",
+            "sent3": "The horror movie depicted a crazed killer who liked to butcher his victims.",
+            "sent4": "The dictator's regime butchered innocent civilians in the name of power.",
+            "sent5": "The gang members decided to butcher their rival gang in a violent showdown."
         },
         {
             "definition": "To ruin or bungle something.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I accidentally butchered the cake I was baking.",
+            "sent2": "The comedian butchered his jokes during the performance.",
+            "sent3": "The student managed to butcher the presentation with wrong information.",
+            "sent4": "The team's poor strategy butchered their chances of winning the game.",
+            "sent5": "The writer felt like he butchered the ending of his novel."
         }
     ]
 }

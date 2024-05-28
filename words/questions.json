@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A sentence worded or expressed so as to elicit information.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "She asked many questions during the class.",
+            "sent2": "The teacher always encourages students to ask questions.",
+            "sent3": "The curious cat had so many questions about the new toy.",
+            "sent4": "His questions were like keys unlocking hidden knowledge.",
+            "sent5": "The questions in her mind buzzed like busy bees."
         },
         {
             "definition": "A matter requiring resolution or discussion.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The budget questions were discussed at the meeting.",
+            "sent2": "The team had important questions to address before the project.",
+            "sent3": "The mystery of the missing cookie sparked many questions.",
+            "sent4": "The questions hanging in the air needed urgent attention.",
+            "sent5": "The unanswered questions lingered like a shadow over the room."
         },
         {
             "definition": "Doubt or uncertainty about a matter.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "She had questions about the accuracy of the data.",
+            "sent2": "His questions about the plan made him hesitant.",
+            "sent3": "The questions in his mind created a cloud of doubt.",
+            "sent4": "Her questions cast a shadow of uncertainty over the decision.",
+            "sent5": "The questions whispered doubts in his ears."
         }
     ]
 }

@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Conveys thoughts or feelings in words or actions.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She expresses her happiness through a big smile.",
+            "sent2": "He expresses his gratitude by saying thank you.",
+            "sent3": "The puppy expresses excitement by wagging its tail.",
+            "sent4": "The colorful painting expresses a sense of joy and freedom.",
+            "sent5": "Her song expresses the beauty of nature in a melodic way."
         },
         {
             "definition": "Sends or communicates something.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The email expresses the details of the upcoming event.",
+            "sent2": "He expresses his love through heartfelt letters.",
+            "sent3": "The text message expresses urgency with its tone.",
+            "sent4": "The signal tower expresses information to passing ships.",
+            "sent5": "Her gesture expresses warmth and welcome to visitors."
         },
         {
             "definition": "Shows or reveals something.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "His expression expresses surprise at the unexpected news.",
+            "sent2": "The map expresses the location of hidden treasure.",
+            "sent3": "The weather forecast expresses a prediction of rain.",
+            "sent4": "The artist's brushstroke expresses emotion on the canvas.",
+            "sent5": "The sunset expresses a breathtaking display of colors in the sky."
         }
     ]
 }

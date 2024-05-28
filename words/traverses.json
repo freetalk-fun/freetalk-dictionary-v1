@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To travel across or through",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The hiker traverses the mountain with determination.",
+            "sent2": "The explorer traverses the desert in search of hidden treasures.",
+            "sent3": "The squirrel traverses the backyard, collecting acorns for its winter stash.",
+            "sent4": "Her gaze traverses the room, landing on the old photograph hanging on the wall.",
+            "sent5": "The river traverses the valley, shaping the landscape over centuries."
         },
         {
             "definition": "A route or path that crosses over or through something",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The map shows the various traverses through the dense forest.",
+            "sent2": "The bridge provides a safe traverse over the roaring river below.",
+            "sent3": "The children turned the playground into an exciting traverse of obstacles.",
+            "sent4": "The traverse through the snow-covered mountains was challenging but rewarding.",
+            "sent5": "The traverse across the canyon offered breathtaking views of the sunset."
         },
         {
             "definition": "To move back and forth or sideways across something",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The cat traverses the room, chasing after a toy mouse.",
+            "sent2": "The dancer gracefully traverses the stage, captivating the audience.",
+            "sent3": "The bee traverses the garden, pollinating flowers along the way.",
+            "sent4": "The pendulum traverses its arc, marking the passage of time.",
+            "sent5": "The car traverses the winding road, navigating each turn with precision."
         }
     ]
 }

@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A set of keys.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "My mom keeps her house keyset in a drawer.",
+            "sent2": "The janitor carries a keyset to open all the doors in the building.",
+            "sent3": "The keyset jingled merrily as the janitor walked down the hallway.",
+            "sent4": "The keyset to success is hard work and determination.",
+            "sent5": "The shiny keyset sparkled under the bright lights."
         },
         {
             "definition": "A set of values used as keys in a data structure.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The programmer stored the keyset for the database in a secure location.",
+            "sent2": "The keyset for the encryption algorithm must be kept confidential.",
+            "sent3": "The keyset of numbers unlocked the secret code.",
+            "sent4": "In the digital world, the keyset is like a secret code to access information.",
+            "sent5": "The keyset of values must match the corresponding data entries."
         },
         {
             "definition": "A set of keys on a keyboard.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Pressing the keyset on the keyboard types letters on the screen.",
+            "sent2": "The keyset includes letters, numbers, and special characters.",
+            "sent3": "The cat walked across the keyboard and accidentally pressed the keyset.",
+            "sent4": "The keyset on the keyboard is like a musical instrument for typing.",
+            "sent5": "Learning to use the keyset efficiently can improve typing speed."
         }
     ]
 }

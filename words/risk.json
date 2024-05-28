@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A situation involving exposure to danger or harm.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Walking alone at night can be a risk.",
+            "sent2": "Taking a risk by skydiving can be thrilling.",
+            "sent3": "Eating spicy food before a long car ride is a risky move.",
+            "sent4": "Investing all your money in one stock is like playing a risky game.",
+            "sent5": "The risk of getting sunburned is high without sunscreen."
         },
         {
             "definition": "The possibility of loss or injury.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Not wearing a helmet while biking increases the risk of head injury.",
+            "sent2": "Insurance helps protect against financial risks.",
+            "sent3": "Eating ice cream before dinner is a risk I'm willing to take.",
+            "sent4": "Choosing to drive without a seatbelt is a risky decision.",
+            "sent5": "The risk of losing your keys is higher when you're in a rush."
         },
         {
             "definition": "To expose someone or something to a situation involving danger or harm.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I wouldn't want to risk my health by smoking.",
+            "sent2": "She decided to risk her savings on a new business venture.",
+            "sent3": "He likes to risk it all in poker games.",
+            "sent4": "Don't risk your safety by ignoring warning signs.",
+            "sent5": "They chose to risk the storm to save the stranded hikers."
         }
     ]
 }

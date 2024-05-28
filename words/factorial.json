@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "The product of an integer and all the integers below it.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "In math class, we learned how to calculate the factorial of a number.",
+            "sent2": "She calculated the factorial of 5 by multiplying 5 by 4 by 3 by 2 by 1.",
+            "sent3": "The factorial of the number of cupcakes she ate was the total number of cupcake crumbs on her plate.",
+            "sent4": "The factorial of his mistakes seemed to grow with each wrong decision he made.",
+            "sent5": "The factorial of a number is found by multiplying all the smaller numbers together."
         },
         {
             "definition": "A function that multiplies a given number by all the integers below it.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The factorial function is commonly used in computer programming.",
+            "sent2": "To find the factorial of 4, you would multiply 4 by 3 by 2 by 1.",
+            "sent3": "The factorial of the number of times he checked his phone was the total notifications he received.",
+            "sent4": "Her determination acted like a factorial, multiplying her efforts to achieve success.",
+            "sent5": "Understanding the factorial function is essential in solving certain mathematical problems."
         }
     ]
 }

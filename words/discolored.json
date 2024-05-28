@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Change in color, especially to a less attractive or less pleasant one.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The discolored patch on the wall stood out from the rest of the paint.",
+            "sent2": "The discolored leaves on the tree signaled the arrival of autumn.",
+            "sent3": "The discolored balloon looked like it had lost its sparkle.",
+            "sent4": "Her discolored mood matched the gloomy weather outside.",
+            "sent5": "The discolored sky at sunset painted a beautiful but melancholic scene."
         },
         {
             "definition": "To become stained or tainted in color.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The white shirt discolored after being washed with dark clothes.",
+            "sent2": "The old photograph discolored over time, losing its original brightness.",
+            "sent3": "The once vibrant painting discolored as the artist experimented with new techniques.",
+            "sent4": "The water in the vase discolored as the flower petals started to wilt.",
+            "sent5": "The metal gate discolored from exposure to the elements, turning a rusty brown."
         }
     ]
 }

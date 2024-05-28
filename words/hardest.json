@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Most difficult",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "Math is the hardest subject for me.",
+            "sent2": "Running a marathon is one of the hardest challenges.",
+            "sent3": "Trying to juggle while standing on one foot is the hardest thing ever!",
+            "sent4": "Finding a needle in a haystack is as hard as the hardest puzzle.",
+            "sent5": "The hardest part of climbing a mountain is the final stretch."
         },
         {
             "definition": "Superlative form of hard",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "This rock is the hardest one in the collection.",
+            "sent2": "The hardest material known to man is diamond.",
+            "sent3": "He tried to break the hardest nut with his bare hands!",
+            "sent4": "Her heart was the hardest, like a diamond in the rough.",
+            "sent5": "The hardest substance on Earth is incredibly tough to break."
         },
         {
             "definition": "To the greatest degree",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She tried her hardest to finish the race.",
+            "sent2": "They worked their hardest to complete the project on time.",
+            "sent3": "The squirrel chattered its hardest to warn the others.",
+            "sent4": "The wind blew its hardest during the storm.",
+            "sent5": "The sun shone its hardest on the hottest day of the year."
         }
     ]
 }

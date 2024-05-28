@@ -3,19 +3,39 @@
     "meanings": [
         {
             "definition": "A solid object with six square faces of equal size.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The ice tray makes small cubes for our drinks.",
+            "sent2": "She counted the cubes on each side of the block.",
+            "sent3": "The playful kitten bats at the falling cubes.",
+            "sent4": "His mind was a jumble of colorful cubes, each representing a different idea.",
+            "sent5": "The child stacked the colorful cubes into a tall tower."
         },
         {
             "definition": "To cut into small cubes.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She carefully cubes the cheese for the salad.",
+            "sent2": "The chef cubes the vegetables before adding them to the stir-fry.",
+            "sent3": "He cubes the paper into tiny squares for his art project.",
+            "sent4": "The sculptor cubes the clay to create intricate patterns.",
+            "sent5": "The gardener cubes the soil to prepare for planting."
         },
         {
             "definition": "A small cube-shaped piece of food.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "She popped a cube of cheese into her mouth.",
+            "sent2": "The recipe calls for adding two cubes of sugar to the tea.",
+            "sent3": "The toddler happily munches on the soft cubes of fruit.",
+            "sent4": "The waiter served a platter of assorted cheese cubes.",
+            "sent5": "The party snacks included bite-sized cubes of ham."
         },
         {
             "definition": "A number raised to the third power.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The math problem required finding the cubes of the given numbers.",
+            "sent2": "He calculated the cubes of the first ten natural numbers.",
+            "sent3": "The student struggled with understanding the concept of cubes in math class.",
+            "sent4": "The scientist used cubes to represent volume in the experiment.",
+            "sent5": "The architect used cubes to design the building's structure."
         }
     ]
 }

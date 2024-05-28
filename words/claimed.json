@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Asserted ownership or right to something",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The man's claim to the lost wallet was disputed by others.",
+            "sent2": "She made a claim for the prize she believed was rightfully hers.",
+            "sent3": "The cat's claim to the sunny spot by the window was challenged by the dog.",
+            "sent4": "The tree's claim to the largest amount of sunlight in the garden was undeniable.",
+            "sent5": "The explorer's claim to discovering the hidden treasure was met with skepticism."
         },
         {
             "definition": "Stated as a fact without evidence",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The self-proclaimed expert made a claimed connection between the two events.",
+            "sent2": "The claimed benefits of the new product seemed too good to be true.",
+            "sent3": "The claimed magical powers of the old wand were put to the test.",
+            "sent4": "The claimed haunted house turned out to be just an old, creaky building.",
+            "sent5": "The claimed UFO sighting was dismissed as a hoax by most people."
         },
         {
             "definition": "Demanded as a right or due",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The claimed compensation for the damaged goods was finally received.",
+            "sent2": "The claimed refund for the faulty product was processed quickly.",
+            "sent3": "The claimed extra break time was granted to the hardworking employees.",
+            "sent4": "The claimed top spot in the competition was fiercely contested by all participants.",
+            "sent5": "The claimed victory in the debate was celebrated with cheers and applause."
         }
     ]
 }

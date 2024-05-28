@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Extreme tiredness resulting from mental or physical exertion.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "After a long day of hiking, I felt overwhelming fatigue in my legs.",
+            "sent2": "She experienced fatigue after staying up late studying for her exams.",
+            "sent3": "The fatigue in my body made me feel like a sleepy bear ready for hibernation.",
+            "sent4": "The fatigue weighed on her like a heavy blanket, making every step a struggle.",
+            "sent5": "The fatigue was like a dark cloud hanging over her, draining her energy with each passing moment."
         },
         {
             "definition": "Cause to feel tired or exhausted.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The long hike really fatigued my muscles.",
+            "sent2": "Staying up all night can fatigue your mind and body.",
+            "sent3": "I playfully tried to fatigue my friend by challenging them to a race.",
+            "sent4": "The constant demands of work can fatigue even the most energetic person.",
+            "sent5": "The intense workout routine fatigued her to the point of collapse."
         },
         {
             "definition": "The temporary loss of power to respond.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The soldier experienced cognitive fatigue after hours of intense combat.",
+            "sent2": "The computer system suffered from fatigue, causing delays in processing information.",
+            "sent3": "The car's engine showed signs of fatigue, struggling to start on cold mornings.",
+            "sent4": "The fatigue in the electrical grid led to a temporary power outage in the city.",
+            "sent5": "The fatigue in the communication network resulted in dropped calls and slow internet speeds."
         }
     ]
 }

@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Blood: the red liquid that circulates in the arteries and veins of humans and other vertebrate animals, carrying oxygen to and carbon dioxide from the tissues of the body.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The doctor checked my bluid to make sure I was healthy.",
+            "sent2": "She felt weak after losing a lot of bluid during the accident.",
+            "sent3": "The bluid on the bandage made her feel queasy.",
+            "sent4": "The bluid rushed through his veins like a river of life.",
+            "sent5": "The bluid donation saved the patient's life."
         },
         {
             "definition": "Blood: a person's family background or ancestry.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Her bluid is a mix of different cultures and traditions.",
+            "sent2": "He was proud of his Scottish bluid and heritage.",
+            "sent3": "Their bluid ties go back generations in this small town.",
+            "sent4": "The bluid of their ancestors flows strong in their veins.",
+            "sent5": "She felt a deep connection to her bluid and roots."
         },
         {
             "definition": "Blood: violence involving bloodshed.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The movie was full of bluid and gore, not suitable for kids.",
+            "sent2": "The bluid spilled on the battlefield painted a grim picture of war.",
+            "sent3": "The bluid in the horror movie looked so fake, it was almost comical.",
+            "sent4": "The bluidshed in the battle was a stark reminder of the cost of conflict.",
+            "sent5": "The bluid on his hands symbolized the dark deeds he had done."
         }
     ]
 }

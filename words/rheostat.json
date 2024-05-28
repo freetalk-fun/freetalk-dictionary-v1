@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A device used to regulate the flow of electric current by varying the resistance.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The electrician adjusted the rheostat to control the brightness of the light.",
+            "sent2": "The scientist installed the rheostat in the circuit to manage the current.",
+            "sent3": "The mischievous student secretly turned the rheostat, making the room dim unexpectedly.",
+            "sent4": "Her fingers moved the rheostat like a conductor leading an orchestra, changing the intensity of the current.",
+            "sent5": "The rheostat acted as a gatekeeper, allowing only a specific amount of electricity to pass through."
         },
         {
             "definition": "To adjust the resistance of a circuit using a rheostat.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He rheostated the circuit to decrease the power consumption.",
+            "sent2": "She rheostated the device to fine-tune its performance.",
+            "sent3": "The kids playfully rheostated the circuit, causing the lights to flicker.",
+            "sent4": "The engineer rheostated the system, bringing stability to the electrical flow.",
+            "sent5": "Rheostating the circuit was like turning a dial to find the perfect balance of resistance."
         }
     ]
 }

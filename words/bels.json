@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A loud, resonant sound or noise.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The church bells chimed loudly, creating a beautiful bels.",
+            "sent2": "I heard the distant bels of a train passing by.",
+            "sent3": "The bels of the alarm clock woke me up from a deep sleep.",
+            "sent4": "The bels of laughter filled the room, making everyone smile.",
+            "sent5": "The thunderstorm produced bels that echoed through the valley."
         },
         {
             "definition": "To ring or make a loud, resonant sound.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The doorbell bels when someone arrives at the house.",
+            "sent2": "The wind bels through the trees on a stormy night.",
+            "sent3": "I bels the bell at the store to get the cashier's attention.",
+            "sent4": "Her voice bels with authority when she gives commands.",
+            "sent5": "The phone bels loudly, startling me from my thoughts."
         },
         {
             "definition": "A unit of sound level.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The concert was so loud, it reached 100 bels on the sound meter.",
+            "sent2": "The teacher explained that a whisper is about 20 bels.",
+            "sent3": "The bels on the stereo were turned up too high, causing a disturbance.",
+            "sent4": "The bels of the music festival could be heard from miles away.",
+            "sent5": "The sound engineer adjusted the bels to ensure a balanced audio output."
         }
     ]
 }

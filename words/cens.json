@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Express severe disapproval of (someone or something), typically in a formal statement.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She censured his behavior at the meeting.",
+            "sent2": "The teacher censured the student for cheating on the test.",
+            "sent3": "The cat censured the dog for stealing its toy.",
+            "sent4": "The judge censured the defendant's actions as unacceptable.",
+            "sent5": "The boss censured the employee for repeatedly being late to work."
         },
         {
             "definition": "An expression of disapproval.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "His frown was a clear cens of his dissatisfaction.",
+            "sent2": "The public's silence was a powerful cens of the proposal.",
+            "sent3": "The child's pout was a cute little cens of her dislike for vegetables.",
+            "sent4": "The dark clouds seemed like a looming cens over the outdoor event.",
+            "sent5": "The raised eyebrows were a visible cens of the audience's shock."
         },
         {
             "definition": "The process of officially examining and verifying accounts and records.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The accountant conducted a thorough cens of the company's financial statements.",
+            "sent2": "The annual cens revealed discrepancies in the budget report.",
+            "sent3": "The cens of the inventory turned into a treasure hunt for missing items.",
+            "sent4": "The auditor's job is like a detective's, performing a cens on financial clues.",
+            "sent5": "The meticulous cens uncovered errors in the tax documents."
         }
     ]
 }

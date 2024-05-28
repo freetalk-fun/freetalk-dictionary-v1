@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A person chosen or appointed to act or speak on behalf of others.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The student council president is a representative of the student body.",
+            "sent2": "The company hired a representative to negotiate with the union.",
+            "sent3": "The talking parrot jokingly claimed to be the representative of all birds.",
+            "sent4": "The lighthouse stood tall, a representative of safety and guidance for sailors.",
+            "sent5": "The statue in the town square serves as a representative of freedom and democracy."
         },
         {
             "definition": "Typical of a particular group or class.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "Her behavior was representative of the kindness found in our community.",
+            "sent2": "The traditional dress was representative of their cultural heritage.",
+            "sent3": "The clown's serious expression was not representative of his usual antics.",
+            "sent4": "The old oak tree was representative of strength and resilience.",
+            "sent5": "The colorful mural was representative of the artist's unique style."
         },
         {
             "definition": "Serving as a symbol or example of something.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The historic building is a representative landmark of the city.",
+            "sent2": "The red rose is representative of love and passion.",
+            "sent3": "The broken clock humorously became representative of the concept of 'time flies'.",
+            "sent4": "The lone wolf is often seen as representative of independence and solitude.",
+            "sent5": "The bright star in the sky was a representative beacon of hope for the lost travelers."
         }
     ]
 }

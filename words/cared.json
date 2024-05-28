@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "felt concern or interest",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Her caring for others made her happy.",
+            "sent2": "The teacher's care for her students was evident.",
+            "sent3": "The puppy's care for its toy was adorable to watch.",
+            "sent4": "The garden's care for the flowers was like a gentle hug.",
+            "sent5": "The mother's care for her child was unwavering."
         },
         {
             "definition": "showed concern or interest",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He cared for his sick friend by bringing soup.",
+            "sent2": "She cared about the environment and recycled diligently.",
+            "sent3": "The cat cared for its owner by purring loudly.",
+            "sent4": "The tree cared for the birds by providing shade and shelter.",
+            "sent5": "The nurse cared for the patient with kindness and compassion."
         },
         {
             "definition": "was concerned or interested",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She cared about the outcome of the game.",
+            "sent2": "He cared to learn more about the topic.",
+            "sent3": "The detective cared to solve the mystery quickly.",
+            "sent4": "The scientist cared to find a cure for the disease.",
+            "sent5": "The student cared to excel in her studies."
         }
     ]
 }

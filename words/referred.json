@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "past tense of refer",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Yesterday, she referred to a book for her research project.",
+            "sent2": "He referred to his notes during the presentation.",
+            "sent3": "The cat referred to the mouse as its new friend.",
+            "sent4": "The old man referred to the ancient ruins as a window to the past.",
+            "sent5": "The teacher referred to the map to explain the geography lesson."
         },
         {
             "definition": "directed to a source for information or decision",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The referred document provided valuable insights.",
+            "sent2": "She always follows the referred guidelines for her work.",
+            "sent3": "The referred website was full of interesting facts.",
+            "sent4": "The referred expert helped solve the complex issue.",
+            "sent5": "The referred book was a trusted source of information."
         },
         {
             "definition": "mentioned or alluded to",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "In the meeting, they referred to the upcoming changes.",
+            "sent2": "She referred to her favorite movie in the conversation.",
+            "sent3": "The comedian referred to a funny incident from his childhood.",
+            "sent4": "The author referred to a famous quote in his book.",
+            "sent5": "The student referred to a historical event during the debate."
         }
     ]
 }

@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A small computer on a single integrated circuit.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The microcontroller controls the temperature in the room.",
+            "sent2": "I programmed the microcontroller to turn on the lights at sunset.",
+            "sent3": "The microcontroller decided it was too cold and turned up the heat.",
+            "sent4": "Like a tiny brain, the microcontroller processes information and makes decisions.",
+            "sent5": "The microcontroller hummed softly as it worked tirelessly to regulate the airflow."
         },
         {
             "definition": "A device that contains a processor, memory, and input/output peripherals on a single chip.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The microcontroller in the robot coordinates its movements.",
+            "sent2": "We installed a new microcontroller to improve the performance of the device.",
+            "sent3": "The microcontroller beeped happily when the task was completed.",
+            "sent4": "The microcontroller acts as the brain of the electronic system, controlling all functions.",
+            "sent5": "With precision and speed, the microcontroller managed multiple tasks simultaneously."
         }
     ]
 }

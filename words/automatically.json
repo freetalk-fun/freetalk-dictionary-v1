@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Without conscious thought or intention.",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "The doors opened automatically when someone approached.",
+            "sent2": "The computer program automatically saves your work every few minutes.",
+            "sent3": "The robot vacuum cleaner decided to clean the house automatically while everyone was out.",
+            "sent4": "The sprinklers turned on automatically as if they had a mind of their own.",
+            "sent5": "The lights in the room dimmed automatically as the sun set."
         },
         {
             "definition": "In a mechanical manner.",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "The gears shifted automatically as the car accelerated.",
+            "sent2": "The factory machines operate automatically once they are set up.",
+            "sent3": "The toy robot moved around the room automatically, amusing the children.",
+            "sent4": "The clock's hands moved automatically, ticking away the seconds.",
+            "sent5": "The garage door closed automatically with a loud clank."
         },
         {
             "definition": "In a way that is done without human intervention.",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "The thermostat adjusts the temperature automatically based on the time of day.",
+            "sent2": "The irrigation system waters the plants automatically according to a schedule.",
+            "sent3": "The self-driving car navigated the busy streets automatically, impressing the passengers.",
+            "sent4": "The security camera panned automatically to follow any movement in the area.",
+            "sent5": "The coffee machine brewed a fresh cup automatically at the set time."
         }
     ]
 }

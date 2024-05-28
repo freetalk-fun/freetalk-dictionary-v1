@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Suggest or imply in addition to the literal or primary meaning.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The color red connotes danger.",
+            "sent2": "Her smile connotes happiness.",
+            "sent3": "The cat's purring connotes contentment.",
+            "sent4": "The dark clouds connotes an impending storm.",
+            "sent5": "The old house connotes history and stories."
         },
         {
             "definition": "Imply or suggest (an idea or feeling) in addition to the literal or primary meaning.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "His silence connotes disapproval.",
+            "sent2": "The music connotes a sense of nostalgia.",
+            "sent3": "The empty playground connotes a sense of loneliness.",
+            "sent4": "The broken mirror connotes bad luck.",
+            "sent5": "The smell of fresh bread connotes warmth and comfort."
         }
     ]
 }

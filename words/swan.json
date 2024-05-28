@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A large waterbird with a long neck and usually white plumage.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The swan glided across the lake with elegance.",
+            "sent2": "I saw a beautiful swan swimming in the pond.",
+            "sent3": "The swan seemed to be showing off its graceful moves to the ducks.",
+            "sent4": "Her dress flowed behind her like the wings of a swan.",
+            "sent5": "The swan's feathers shimmered in the sunlight, creating a stunning sight."
         },
         {
             "definition": "To move gracefully or majestically.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She swanned around the room, captivating everyone with her grace.",
+            "sent2": "The ballerina swanned across the stage, mesmerizing the audience.",
+            "sent3": "The cat tried to swan around the house but ended up knocking things over.",
+            "sent4": "He swanned into the meeting, exuding confidence and charm.",
+            "sent5": "The leaves swanned down from the tree, dancing in the wind."
         }
     ]
 }

@@ -3,23 +3,48 @@
     "meanings": [
         {
             "definition": "A musical note",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I sang the high 'mi' in the choir.",
+            "sent2": "The pianist played the 'mi' perfectly.",
+            "sent3": "The 'mi' note danced along with the melody.",
+            "sent4": "The 'mi' note soared above the rest of the music.",
+            "sent5": "The 'mi' note echoed through the concert hall."
         },
         {
-            "definition": "A prefix meaning \"one million\"",
-            "pos": "noun"
+            "definition": "A prefix meaning 'one million'",
+            "pos": "noun",
+            "sent1": "The company made a profit of 'mi' dollars.",
+            "sent2": "The population of the city reached 'mi' people.",
+            "sent3": "I dream of having 'mi' dollars in my bank account.",
+            "sent4": "His wealth was beyond 'mi' dollars.",
+            "sent5": "The treasure chest was filled with 'mi' gold coins."
         },
         {
             "definition": "A unit of length equal to 1,760 yards or 5,280 feet",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The race was just 'mi' long.",
+            "sent2": "She ran a marathon of 26.2 'mi'.",
+            "sent3": "I walked a 'mi' to get to the store.",
+            "sent4": "The road stretched for 'mi' into the distance.",
+            "sent5": "The hikers trekked through the 'mi' of wilderness."
         },
         {
-            "definition": "A prefix meaning \"half\"",
-            "pos": "noun"
+            "definition": "A prefix meaning 'half'",
+            "pos": "noun",
+            "sent1": "She cut the apple in 'mi'.",
+            "sent2": "The recipe called for 'mi' a cup of sugar.",
+            "sent3": "He only ate 'mi' of the cake.",
+            "sent4": "The glass was filled to 'mi' capacity.",
+            "sent5": "The moon was only 'mi' full in the sky."
         },
         {
-            "definition": "A prefix meaning \"less than\"",
-            "pos": "noun"
+            "definition": "A prefix meaning 'less than'",
+            "pos": "noun",
+            "sent1": "The temperature was 'mi' zero degrees.",
+            "sent2": "Her score was 'mi' the passing grade.",
+            "sent3": "I have 'mi' ten dollars left in my wallet.",
+            "sent4": "The time left was 'mi' a minute.",
+            "sent5": "The distance to the finish line was 'mi' a mile."
         }
     ]
 }

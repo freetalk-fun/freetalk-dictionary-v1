@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A small molecule that can elicit an immune response only when attached to a large carrier such as a protein.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The hapten joined with the protein to trigger the immune response.",
+            "sent2": "Scientists studied how the hapten interacts with the carrier protein.",
+            "sent3": "The hapten and the protein had a unique dance that made the immune system react.",
+            "sent4": "Like a key fitting into a lock, the hapten connected perfectly with the carrier.",
+            "sent5": "The hapten acted like a tiny puzzle piece that completed the immune response picture."
         },
         {
             "definition": "A molecule that can bind to antibodies but cannot induce an immune response by itself.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The antibodies recognized the hapten and attached to it.",
+            "sent2": "Researchers identified the specific binding sites of the hapten on the antibodies.",
+            "sent3": "The hapten tried to start a party with the antibodies, but no one showed up.",
+            "sent4": "In the antibody world, the hapten was like a guest who couldn't liven up the party.",
+            "sent5": "The hapten was like a magnet for antibodies, but it couldn't spark any immune reactions on its own."
         }
     ]
 }

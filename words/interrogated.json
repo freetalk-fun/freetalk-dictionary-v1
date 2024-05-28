@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To ask questions of (someone) in a thorough and often forceful way to get information",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The detective interrogated the suspect about the crime.",
+            "sent2": "The police officer interrogated the witness to gather more details.",
+            "sent3": "The curious cat interrogated the new toy with its paws.",
+            "sent4": "The journalist interrogated the politician's statements for inconsistencies.",
+            "sent5": "The teacher interrogated the students to ensure they understood the lesson."
         },
         {
             "definition": "To question (someone) in a thorough and often forceful way to get information",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The prosecutor interrogated the defendant during the trial.",
+            "sent2": "The investigator interrogated the suspect to uncover the truth.",
+            "sent3": "The toddler interrogated their parent with a series of 'whys'.",
+            "sent4": "The scientist interrogated the data to find patterns and correlations.",
+            "sent5": "The manager interrogated the employee about their absence from work."
         }
     ]
 }

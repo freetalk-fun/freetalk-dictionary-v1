@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Relating to or affected by celiac disease.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The celiac patient needed to follow a strict gluten-free diet.",
+            "sent2": "The doctor explained that a celiac diet excludes gluten.",
+            "sent3": "The celiac cat refused to eat any food with gluten.",
+            "sent4": "Her celiac condition made her body react strongly to gluten.",
+            "sent5": "The celiac symptoms were triggered by even the smallest amount of gluten."
         },
         {
             "definition": "A person who has celiac disease.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The celiac visited a nutritionist for dietary advice.",
+            "sent2": "My friend is a celiac and cannot eat wheat products.",
+            "sent3": "The celiac at the party brought their own gluten-free snacks.",
+            "sent4": "As a celiac, he always checks food labels for gluten content.",
+            "sent5": "The celiac's health improved after switching to a gluten-free lifestyle."
         },
         {
             "definition": "An autoimmune disorder affecting the small intestine.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The doctor diagnosed her with celiac after running tests.",
+            "sent2": "Celiac damages the small intestine's ability to absorb nutrients.",
+            "sent3": "The celiac's small intestine was sensitive to gluten.",
+            "sent4": "Living with celiac means being cautious about food choices.",
+            "sent5": "The celiac's immune system mistakenly attacks the small intestine."
         }
     ]
 }

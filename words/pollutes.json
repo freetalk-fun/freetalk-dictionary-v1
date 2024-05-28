@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Contaminate with harmful substances.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Throwing trash in the river pollutes the water.",
+            "sent2": "The factory's smokestacks pollute the air with chemicals.",
+            "sent3": "Littering in the park pollutes the natural beauty of the area.",
+            "sent4": "Gossip can pollute relationships like a toxic spill.",
+            "sent5": "The oil spill pollutes the ocean, harming marine life."
         },
         {
             "definition": "Make dirty or impure.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Leaving dirty dishes in the sink pollutes the kitchen.",
+            "sent2": "Walking with muddy shoes can pollute the clean floor.",
+            "sent3": "Adding ketchup to ice cream would pollute its taste.",
+            "sent4": "A single lie can pollute the purity of truth.",
+            "sent5": "The graffiti on the wall pollutes the neighborhood's appearance."
         },
         {
             "definition": "Cause harm or damage to the environment.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Using plastic bags pollutes the planet with waste.",
+            "sent2": "Deforestation can pollute the balance of nature.",
+            "sent3": "Overwatering plants can pollute the soil with excess moisture.",
+            "sent4": "Neglecting recycling can pollute the Earth's resources.",
+            "sent5": "The construction project pollutes the habitat of local wildlife."
         }
     ]
 }

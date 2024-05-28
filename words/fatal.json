@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Causing or capable of causing death",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The doctor warned that the snake's bite was fatal.",
+            "sent2": "The police officer investigated the fatal car crash.",
+            "sent3": "The cat's fatal pounce on the toy mouse made everyone laugh.",
+            "sent4": "The storm's fatal winds tore through the town with destructive force.",
+            "sent5": "The fatal poison spread quickly through the plant, wilting its leaves."
         },
         {
             "definition": "Resulting in failure or disaster",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "Ignoring the warning signs proved to be a fatal mistake.",
+            "sent2": "The team's lack of communication led to a fatal error in the game.",
+            "sent3": "The chef's fatal attempt at a new recipe left the kitchen in chaos.",
+            "sent4": "The fatal decision to cut corners resulted in a project failure.",
+            "sent5": "The fatal flaw in the plan caused it to crumble before it even began."
         },
         {
             "definition": "Leading to ruin or destruction",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The leak in the dam posed a fatal threat to the village below.",
+            "sent2": "The company's fatal financial decisions led to bankruptcy.",
+            "sent3": "The fatal combination of ingredients caused the potion to explode.",
+            "sent4": "The fatal mistake in the blueprint caused the building to collapse.",
+            "sent5": "The fatal crack in the foundation weakened the entire structure."
         }
     ]
 }

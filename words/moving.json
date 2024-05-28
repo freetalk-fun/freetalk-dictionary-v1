@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Changing place or position",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The moving truck arrived at our new house.",
+            "sent2": "The playground is a moving place for children.",
+            "sent3": "The moving penguin made everyone laugh.",
+            "sent4": "Her moving story touched the hearts of many.",
+            "sent5": "The moving clouds painted a beautiful picture in the sky."
         },
         {
             "definition": "Causing strong feelings or emotions",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The movie's ending was so moving, it made me cry.",
+            "sent2": "Her speech was incredibly moving and inspiring.",
+            "sent3": "The moving music brought tears to my eyes.",
+            "sent4": "The sunset was a moving sight to behold.",
+            "sent5": "The painting had a moving effect on everyone who saw it."
         },
         {
             "definition": "In motion",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "The car was moving slowly in traffic.",
+            "sent2": "The leaves were moving gently in the breeze.",
+            "sent3": "The cat was moving stealthily towards its prey.",
+            "sent4": "Time keeps moving forward, never looking back.",
+            "sent5": "The river was moving swiftly downstream."
         }
     ]
 }

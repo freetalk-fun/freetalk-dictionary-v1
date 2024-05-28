@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "In front of; ahead of in place or time.",
-            "pos": "preposition"
+            "pos": "preposition",
+            "sent1": "The cat sat before the door.",
+            "sent2": "She always eats breakfast before school.",
+            "sent3": "The squirrel hid its acorn before the storm.",
+            "sent4": "The stars appeared before the night engulfed the sky.",
+            "sent5": "The rainbow stretched before us, vibrant and beautiful."
         },
         {
             "definition": "In advance; earlier.",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "He finished his homework before dinner.",
+            "sent2": "Please let me know before you leave.",
+            "sent3": "The alarm clock rang before the sun rose.",
+            "sent4": "The runner crossed the finish line before anyone else.",
+            "sent5": "The flowers bloomed before the first frost arrived."
         },
         {
             "definition": "In the past; previously.",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "She had visited that museum before.",
+            "sent2": "The old man reminisced about days before the war.",
+            "sent3": "The magician had performed the trick before, but no one noticed.",
+            "sent4": "The melody played before in her dreams, haunting yet comforting.",
+            "sent5": "The ruins stood before us, a testament to a time long gone."
         }
     ]
 }

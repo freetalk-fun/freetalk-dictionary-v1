@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Send a document or image electronically using a fax machine.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I will be telefaxing the contract to the client tomorrow.",
+            "sent2": "She telefaxed the report to the main office for review.",
+            "sent3": "Telefaxing the invitation made sure everyone got a copy in time for the party.",
+            "sent4": "His quick telefaxing of the information saved the day.",
+            "sent5": "Telefaxing the map ensured they wouldn't get lost on the trip."
         },
         {
             "definition": "The act of transmitting a document or image via fax.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The telefaxing of the signed agreement was successful.",
+            "sent2": "We received the telefaxing of the proposal this morning.",
+            "sent3": "The telefaxing of the funny picture made everyone laugh.",
+            "sent4": "The telefaxing of the urgent message was a relief.",
+            "sent5": "The telefaxing of the diagram clarified the instructions."
         },
         {
             "definition": "The technology or process of sending faxes.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Learning about telefaxing has been interesting.",
+            "sent2": "The office upgraded their telefaxing system for better efficiency.",
+            "sent3": "The telefaxing technology has come a long way since its inception.",
+            "sent4": "Telefaxing has revolutionized how documents are shared.",
+            "sent5": "The new telefaxing process is much faster than before."
         }
     ]
 }

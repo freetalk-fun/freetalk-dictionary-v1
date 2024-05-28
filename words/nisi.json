@@ -3,19 +3,39 @@
     "meanings": [
         {
             "definition": "Unless",
-            "pos": "conjunction"
+            "pos": "conjunction",
+            "sent1": "You can go outside, nisi it's raining.",
+            "sent2": "I will attend the party, nisi I have other plans.",
+            "sent3": "She wanted to bake cookies, nisi the oven broke.",
+            "sent4": "His team will win the game, nisi they make too many mistakes.",
+            "sent5": "Nisi you study hard, you won't pass the test."
         },
         {
             "definition": "Except",
-            "pos": "conjunction"
+            "pos": "conjunction",
+            "sent1": "Everyone is coming to the meeting, nisi John.",
+            "sent2": "I like all fruits, nisi bananas.",
+            "sent3": "The store had all items, nisi the one I needed.",
+            "sent4": "The park is open to all, nisi on Mondays.",
+            "sent5": "Nisi for the noise, the room was silent."
         },
         {
             "definition": "Without",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "She walked out nisi saying a word.",
+            "sent2": "He managed to finish the race nisi stopping.",
+            "sent3": "The magician made the rabbit disappear nisi a trace.",
+            "sent4": "The cat sneaked into the room nisi being noticed.",
+            "sent5": "The flower bloomed beautifully nisi any sunlight."
         },
         {
             "definition": "If not",
-            "pos": "conjunction"
+            "pos": "conjunction",
+            "sent1": "Please call me, nisi I'll be worried.",
+            "sent2": "I need to leave now, nisi I'll miss the bus.",
+            "sent3": "He must finish the project today, nisi he'll be late.",
+            "sent4": "She should eat something, nisi she'll feel weak.",
+            "sent5": "Nisi you hurry, we'll be late for the movie."
         }
     ]
 }

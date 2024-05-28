@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A large crowd of people, especially one that is disorderly and intent on causing trouble or violence.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The mob gathered outside the store, shouting and pushing.",
+            "sent2": "The mob at the concert was so loud and rowdy.",
+            "sent3": "The mob of kids ran around the playground, laughing and playing.",
+            "sent4": "The mob of storm clouds gathered ominously in the sky.",
+            "sent5": "The mob of protesters marched through the streets, demanding change."
         },
         {
             "definition": "A group of people who share a common interest or purpose, typically one that is unruly or disorganized.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The book club turned into a mob of avid readers discussing their favorite novels.",
+            "sent2": "The mob of gamers stayed up all night playing online together.",
+            "sent3": "The mob of friends planned a surprise party for their buddy.",
+            "sent4": "The mob of fans cheered wildly at the sports game.",
+            "sent5": "The mob of volunteers worked tirelessly to clean up the park."
         },
         {
             "definition": "To crowd around (someone) in an unruly and excitable way.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The excited fans mobbed the celebrity as soon as they saw him.",
+            "sent2": "The paparazzi mobbed the actress as she left the restaurant.",
+            "sent3": "The kids mobbed the ice cream truck when it arrived in the neighborhood.",
+            "sent4": "The reporters mobbed the politician with questions at the press conference.",
+            "sent5": "The shoppers mobbed the store during the big sale."
         }
     ]
 }

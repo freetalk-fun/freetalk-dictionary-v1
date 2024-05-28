@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A playing card with a single spot on it, ranked as the highest card in its suit in most card games.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "In the game, I drew an aces and won the round.",
+            "sent2": "She laid down her aces, winning the hand.",
+            "sent3": "The aces in the deck seemed to have a lucky charm.",
+            "sent4": "His strategy was like holding all the aces in a game of cards.",
+            "sent5": "The aces in the deck gleamed under the bright lights of the casino."
         },
         {
             "definition": "To perform very well or excellently in a particular activity or endeavor.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He aces every test he takes.",
+            "sent2": "She aces her piano recitals effortlessly.",
+            "sent3": "The cat aces the art of napping in the sun.",
+            "sent4": "She aces the dance routine with grace and precision.",
+            "sent5": "He aces the job interview, impressing the panel with his skills."
         },
         {
             "definition": "To score a perfect grade or achieve a perfect result in a test or examination.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She aces every math test without fail.",
+            "sent2": "He aces the spelling bee competition every year.",
+            "sent3": "The student aces the history exam, surprising everyone.",
+            "sent4": "She aces the driving test on her first attempt.",
+            "sent5": "He aces the science project presentation, leaving the class in awe."
         }
     ]
 }

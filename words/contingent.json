@@ -3,19 +3,39 @@
     "meanings": [
         {
             "definition": "Dependent on something else",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The success of the project was contingent on the weather cooperating.",
+            "sent2": "Her happiness was contingent upon receiving good news.",
+            "sent3": "The cat's purring was contingent on being petted.",
+            "sent4": "The plant's growth was contingent on receiving enough sunlight.",
+            "sent5": "His approval was contingent on meeting all the requirements."
         },
         {
             "definition": "A group of people with a common characteristic or shared interest",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The book club is a contingent of avid readers.",
+            "sent2": "The contingent of volunteers arrived early to help set up.",
+            "sent3": "The contingent of hikers shared stories around the campfire.",
+            "sent4": "The contingent of students cheered loudly at the game.",
+            "sent5": "The contingent of artists showcased their work at the gallery."
         },
         {
             "definition": "A group of soldiers or police officers",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The military contingent marched in perfect formation.",
+            "sent2": "The police contingent arrived at the scene to control the crowd.",
+            "sent3": "The contingent of soldiers trained rigorously for the mission.",
+            "sent4": "The contingent of officers patrolled the neighborhood to ensure safety.",
+            "sent5": "The contingent of troops stood ready for deployment."
         },
         {
             "definition": "A future event or circumstance that is possible but cannot be predicted with certainty",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The contingency of rain forced them to move the party indoors.",
+            "sent2": "They had a contingency plan in case the main speaker couldn't make it.",
+            "sent3": "The contingency of a power outage led them to buy extra candles.",
+            "sent4": "Having a contingency for emergencies is always a good idea.",
+            "sent5": "The contingency of a delayed flight made them arrive at the airport early."
         }
     ]
 }

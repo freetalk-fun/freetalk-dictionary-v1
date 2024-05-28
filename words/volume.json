@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "The amount of space that a substance or object occupies.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The box had a large volume, taking up most of the shelf.",
+            "sent2": "The swimming pool has a capacity of 50,000 gallons, which is its volume.",
+            "sent3": "The tiny mouse tried to fit into the large volume of the shoebox for a nap.",
+            "sent4": "Her laughter filled the room, increasing the volume of joy in the air.",
+            "sent5": "The volume of water in the glass was just enough to quench his thirst."
         },
         {
             "definition": "The loudness or intensity of sound.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The concert was so loud that the volume made my ears ring.",
+            "sent2": "She adjusted the volume on the radio to hear the music better.",
+            "sent3": "The cat meowed at full volume, demanding attention from its owner.",
+            "sent4": "The volume of the thunder during the storm was deafening.",
+            "sent5": "The volume of the singer's voice filled the auditorium with emotion."
         },
         {
             "definition": "A book forming part of a work or series.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The third volume of the series was the most exciting one yet.",
+            "sent2": "She borrowed the latest volume of the encyclopedia from the library.",
+            "sent3": "The volume on the shelf seemed to be whispering to the other books.",
+            "sent4": "His life story was like an open volume, waiting to be read by others.",
+            "sent5": "The volume on ancient civilizations was filled with fascinating facts."
         }
     ]
 }

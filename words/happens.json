@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Take place",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The party happens on Saturday.",
+            "sent2": "Rain happens often in spring.",
+            "sent3": "It happens that I forget my keys.",
+            "sent4": "Laughter happens like a melody.",
+            "sent5": "The sunrise happens every morning."
         },
         {
             "definition": "Occur",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Accidents happen unexpectedly.",
+            "sent2": "Good things happen when you least expect them.",
+            "sent3": "It happens that I see a shooting star.",
+            "sent4": "Hope happens in the darkest moments.",
+            "sent5": "Magic happens in fairy tales."
         },
         {
             "definition": "Transpire",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The truth always transpires eventually.",
+            "sent2": "Unexpected events transpire in movies.",
+            "sent3": "It happens that secrets transpire at parties.",
+            "sent4": "Love transpires through small gestures.",
+            "sent5": "Mysteries transpire in old mansions."
         }
     ]
 }

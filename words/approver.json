@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A person who approves or agrees to something.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The approver signed the document to show their agreement.",
+            "sent2": "The approver gave their approval for the project to proceed.",
+            "sent3": "The approver nodded in approval as the plan was presented.",
+            "sent4": "She was the final approver, the one whose decision sealed the deal.",
+            "sent5": "The approver's stamp of approval was the last step before implementation."
         },
         {
             "definition": "An official who authorizes or sanctions something.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The approver at the city council meeting gave the green light for the new park.",
+            "sent2": "The approver's signature was required before the funds could be released.",
+            "sent3": "The approver's job was to make sure everything was in order before granting permission.",
+            "sent4": "As the approver, he held the power to allow or deny the request.",
+            "sent5": "The approver's role was crucial in ensuring compliance with regulations."
         }
     ]
 }

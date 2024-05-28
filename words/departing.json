@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To leave a place",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She was departing from the party early.",
+            "sent2": "The train will be departing from the station in five minutes.",
+            "sent3": "The cat was departing from the room as soon as the vacuum cleaner turned on.",
+            "sent4": "His departing footsteps echoed in the empty hallway.",
+            "sent5": "The departing ship left a trail of waves behind."
         },
         {
             "definition": "The act of leaving",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The departing of the guests signaled the end of the event.",
+            "sent2": "His abrupt departing surprised everyone at the meeting.",
+            "sent3": "The departing of the sun marked the beginning of a new day.",
+            "sent4": "The departing of the birds in the evening sky was a beautiful sight.",
+            "sent5": "The departing of the bus left the bus stop empty."
         },
         {
             "definition": "Going away from a place",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The departing train whistle could be heard from afar.",
+            "sent2": "The departing flight was delayed due to bad weather.",
+            "sent3": "The departing students were excited for their summer break.",
+            "sent4": "The departing clouds revealed a clear blue sky.",
+            "sent5": "The departing car left a trail of dust behind."
         }
     ]
 }

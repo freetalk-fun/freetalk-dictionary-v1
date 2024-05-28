@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To carry or convey from one place to another.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The truck transports goods to the store.",
+            "sent2": "She transports her books in a backpack.",
+            "sent3": "The squirrel transports acorns to its nest.",
+            "sent4": "The river transports debris downstream.",
+            "sent5": "The wind transports pollen from flower to flower."
         },
         {
             "definition": "A vehicle used for transporting people or goods.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The bus is a common transport for commuters.",
+            "sent2": "The ship is a large transport for cargo.",
+            "sent3": "The hot air balloon is a unique transport for tourists.",
+            "sent4": "The train is a reliable transport for long distances.",
+            "sent5": "The bicycle is an eco-friendly transport for short trips."
         },
         {
             "definition": "The act or process of transporting.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The transport of goods is essential for trade.",
+            "sent2": "Air transport is faster than sea transport.",
+            "sent3": "The transport of ideas can lead to innovation.",
+            "sent4": "Public transport helps reduce traffic congestion.",
+            "sent5": "Space transport requires advanced technology."
         }
     ]
 }

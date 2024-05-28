@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Connect to (a computer or server) using the Telnet protocol.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I telnetted into the server to check my emails.",
+            "sent2": "She telnetted to the computer to troubleshoot the issue.",
+            "sent3": "The cat telnetted into the laptop and accidentally sent an email.",
+            "sent4": "His thoughts telnetted to a distant memory, bringing a smile to his face.",
+            "sent5": "The idea of telnetting into the mainframe felt like exploring a hidden world."
         },
         {
             "definition": "Accessed or logged into (a computer or server) using Telnet.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "They telnetted into the system to retrieve the data.",
+            "sent2": "We telnetted into the network to perform maintenance tasks.",
+            "sent3": "The robot telnetted into the database and got confused by all the information.",
+            "sent4": "Her mind telnetted into the past, reliving old memories.",
+            "sent5": "The hacker telnetted into the secure server, bypassing all defenses."
         }
     ]
 }

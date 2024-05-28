@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Warn (someone) in advance of a danger or problem.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I forewarned my friend about the storm approaching.",
+            "sent2": "The weatherman forewarned the residents of the hurricane.",
+            "sent3": "The squirrel forewarned the other animals about the approaching hawk.",
+            "sent4": "The teacher forewarned the students about the difficult test ahead.",
+            "sent5": "The wise old owl forewarned the young birds about the dangers of the forest."
         },
         {
             "definition": "Having been warned in advance.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "She felt forewarned about the potential risks of the journey.",
+            "sent2": "The forewarned hikers brought extra supplies for the long hike.",
+            "sent3": "The forewarned campers were prepared for the sudden rainstorm.",
+            "sent4": "The forewarned driver avoided the traffic jam by taking a different route.",
+            "sent5": "The forewarned students studied extra hard for the challenging exam."
         }
     ]
 }

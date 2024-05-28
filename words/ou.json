@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Used to express a sense of surprise or disbelief.",
-            "pos": "interjection"
+            "pos": "interjection",
+            "sent1": "Oh, ou! I can't believe it!",
+            "sent2": "Wow, ou! That's amazing!",
+            "sent3": "Haha, ou! You really got me there!",
+            "sent4": "Surprise, ou! The unexpected happened!",
+            "sent5": "Oh, ou! What a shock!"
         },
         {
             "definition": "A unit of resistance equal to one volt per ampere.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The circuit had a high ou, making it difficult for the current to flow.",
+            "sent2": "The technician measured the ou of the electrical component.",
+            "sent3": "The ou in the wire seemed to be causing trouble.",
+            "sent4": "The ou in the system acted like a barrier to the electricity.",
+            "sent5": "The precise ou value was crucial for the experiment."
         }
     ]
 }

@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "The natural home or environment of an animal, plant, or other organism.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The forest is the habitat of many animals.",
+            "sent2": "The desert is a harsh habitat for cacti.",
+            "sent3": "The zookeeper joked that the penguins wanted a warmer habitat.",
+            "sent4": "The coral reef is a bustling underwater habitat.",
+            "sent5": "The rainforest habitat teems with life."
         },
         {
             "definition": "A place or type of place where a person or thing is normally found.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The library is his favorite habitat for studying.",
+            "sent2": "The kitchen is the habitat of delicious smells.",
+            "sent3": "The lost sock's habitat seems to be the dryer.",
+            "sent4": "The internet has become a habitat for social interaction.",
+            "sent5": "The playground is a habitat for children's laughter."
         }
     ]
 }

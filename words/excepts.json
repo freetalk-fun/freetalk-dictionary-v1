@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To exclude or leave out",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She always excepts me from her plans.",
+            "sent2": "The teacher excepts late assignments with a penalty.",
+            "sent3": "The cat excepts the dog from its nap spot.",
+            "sent4": "The chef excepts salt from the recipe to make it healthier.",
+            "sent5": "The security guard excepts visitors without proper identification."
         },
         {
             "definition": "With the exclusion of",
-            "pos": "preposition"
+            "pos": "preposition",
+            "sent1": "Everyone is invited to the party excepts John.",
+            "sent2": "The park is open every day excepts Mondays.",
+            "sent3": "The team won every game excepts the final one.",
+            "sent4": "The garden is full of flowers excepts one lonely tulip.",
+            "sent5": "The store sells all fruits excepts bananas."
         }
     ]
 }

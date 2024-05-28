@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Exhausted or fatigued",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "After playing outside all day, the kids were pooped and ready for bed.",
+            "sent2": "She felt pooped after running a marathon.",
+            "sent3": "The puppy looked pooped after chasing its tail for hours.",
+            "sent4": "The old car sputtered to a stop, pooped out from the long journey.",
+            "sent5": "The students were pooped after studying for their exams all night."
         },
         {
             "definition": "To defecate",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The dog pooped in the backyard.",
+            "sent2": "Please clean up after your dog if it pooped on the sidewalk.",
+            "sent3": "I accidentally stepped in dog poop after it pooped on the grass.",
+            "sent4": "The bird pooped on the car windshield as it flew by.",
+            "sent5": "The baby pooped right after eating."
         },
         {
             "definition": "To break down or fail, as in a machine or system",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The old computer pooped and wouldn't turn on anymore.",
+            "sent2": "The engine pooped out in the middle of the highway.",
+            "sent3": "The blender pooped while trying to crush ice.",
+            "sent4": "The plan pooped when the main speaker didn't show up.",
+            "sent5": "The flashlight pooped just when we needed it most."
         }
     ]
 }

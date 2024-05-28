@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A consequence, effect, or outcome of something.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The result of eating too much cake was a stomachache.",
+            "sent2": "The test result showed that she had studied well.",
+            "sent3": "As a result of his clumsiness, he tripped over his own feet.",
+            "sent4": "The result of their teamwork was a successful project completion.",
+            "sent5": "The doctor explained the test result in simple terms to the patient."
         },
         {
             "definition": "To arise or occur as a consequence of something.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "His laziness will result in him failing the class.",
+            "sent2": "Skipping breakfast can result in feeling tired later in the day.",
+            "sent3": "She knew that procrastinating would result in a last-minute rush.",
+            "sent4": "The heavy rain resulted in flooding in the low-lying areas.",
+            "sent5": "Not following the instructions can result in a failed experiment."
         },
         {
             "definition": "To end in a particular way.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The negotiations resulted in a mutually beneficial agreement.",
+            "sent2": "The game resulted in a tie after a thrilling overtime period.",
+            "sent3": "His attempt to fix the car resulted in more damage than before.",
+            "sent4": "The party resulted in everyone having a great time and making new friends.",
+            "sent5": "The project resulted in a beautiful piece of artwork that amazed everyone."
         }
     ]
 }

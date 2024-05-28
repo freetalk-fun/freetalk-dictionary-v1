@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To send or deliver (something) to the wrong recipient or location.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The mail carrier mispatched the package to the neighbor's house.",
+            "sent2": "I hope I don't mispatch this important document to the wrong department.",
+            "sent3": "The mispatched letter ended up in the wrong mailbox, causing confusion.",
+            "sent4": "Her message got mispatched, landing in the spam folder instead of the inbox.",
+            "sent5": "The mispatched delivery led to a mix-up that took days to resolve."
         },
         {
             "definition": "Incorrectly matched or paired.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The mispatched socks had different patterns on each foot.",
+            "sent2": "She realized the mispatched colors of the puzzle pieces didn't fit together.",
+            "sent3": "The mispatched outfits made them stand out at the party in a unique way.",
+            "sent4": "The mispatched puzzle pieces created a beautiful, unexpected design.",
+            "sent5": "The mispatched furniture gave the room a quirky and eclectic vibe."
         }
     ]
 }

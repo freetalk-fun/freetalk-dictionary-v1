@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Pressure or tension exerted on a material object",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The heavy box put a lot of stress on the table.",
+            "sent2": "The bridge collapsed under the stress of the strong winds.",
+            "sent3": "The stress of the books on the shelf made it lean to one side.",
+            "sent4": "The stress on the rope caused it to snap suddenly.",
+            "sent5": "The stress of the water against the dam was immense."
         },
         {
             "definition": "A state of mental or emotional strain or tension resulting from adverse or demanding circumstances",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "She felt a lot of stress before her big exam.",
+            "sent2": "The stress of the situation made him anxious.",
+            "sent3": "The stress of waiting for the results was unbearable.",
+            "sent4": "The stress of the argument lingered in the air.",
+            "sent5": "The stress of the deadline weighed heavily on her mind."
         },
         {
             "definition": "Emphasize (a particular syllable, word, or phrase) when speaking or reading",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Remember to stress the important points in your speech.",
+            "sent2": "She tends to stress certain words when she talks.",
+            "sent3": "He would stress the punchline of the joke for effect.",
+            "sent4": "The teacher asked the students to stress the vowels in the word.",
+            "sent5": "It's important to stress the key details in your presentation."
         }
     ]
 }

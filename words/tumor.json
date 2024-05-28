@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A swelling or growth in the body, typically benign or non-cancerous.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The doctor found a small tumor in my leg.",
+            "sent2": "She had a tumor removed from her arm last week.",
+            "sent3": "The tiny tumor in the plant made it look like it had a little bump.",
+            "sent4": "The tumor of books on her desk seemed to multiply overnight.",
+            "sent5": "The tumor on the tree trunk was covered in moss, making it blend in."
         },
         {
             "definition": "An abnormal mass of tissue in the body, often caused by uncontrolled cell growth.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The MRI revealed a large tumor in his brain.",
+            "sent2": "The biopsy confirmed that it was a cancerous tumor.",
+            "sent3": "The tumor in the fridge turned out to be a forgotten sandwich.",
+            "sent4": "Her laughter spread through the room like a tumor, infecting everyone.",
+            "sent5": "The tumor of lies he told eventually caught up with him."
         }
     ]
 }

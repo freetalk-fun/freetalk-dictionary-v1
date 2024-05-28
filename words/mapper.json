@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "One who creates maps.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The mapper drew a detailed map of the neighborhood.",
+            "sent2": "The talented mapper used various tools to create a map of the city.",
+            "sent3": "The mapper accidentally made a map of their living room instead of the city.",
+            "sent4": "Her mind worked like a skilled mapper, charting out the best route to take.",
+            "sent5": "The mapper's map was so accurate that everyone marveled at its precision."
         },
         {
             "definition": "A tool or software used for creating maps.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The explorer relied on a reliable mapper to navigate through the dense forest.",
+            "sent2": "The new version of the mapper software included advanced features for better map creation.",
+            "sent3": "The mapper tool decided to take a break and refused to draw any more maps.",
+            "sent4": "The mapper software was a beacon of light in the sea of confusing data.",
+            "sent5": "Using the mapper, she was able to plot out the perfect route for her road trip."
         }
     ]
 }

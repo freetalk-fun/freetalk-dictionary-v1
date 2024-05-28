@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Having greater length than usual or expected.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The snake was longer than the stick.",
+            "sent2": "The river is longer than the stream.",
+            "sent3": "The cat's tail seemed longer after it puffed up in fear.",
+            "sent4": "The road to success may be longer than you think.",
+            "sent5": "The shadow grew longer as the sun set."
         },
         {
             "definition": "For a greater amount of time.",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "She waited longer for the bus than usual.",
+            "sent2": "He stayed longer at the party than expected.",
+            "sent3": "The cake took longer to bake than the recipe said.",
+            "sent4": "Time seems to stretch longer when you're bored.",
+            "sent5": "The days feel longer in winter than in summer."
         },
         {
             "definition": "To a greater extent in time or space.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "They decided to longer their vacation by a week.",
+            "sent2": "The company plans to longer their business to other cities.",
+            "sent3": "I wish I could longer the weekend by a day.",
+            "sent4": "The tree branches longered towards the sky.",
+            "sent5": "The river longered through the valley, creating a beautiful landscape."
         }
     ]
 }

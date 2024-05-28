@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Defeated in a vote by having a smaller number of votes.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The outvoted team graciously accepted the loss.",
+            "sent2": "The outvoted candidate congratulated the winner.",
+            "sent3": "The outvoted group decided to celebrate their effort instead.",
+            "sent4": "The outvoted proposal quietly faded into the background.",
+            "sent5": "The outvoted idea lingered in the minds of the participants."
         },
         {
             "definition": "To defeat in a vote by having a larger number of votes.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She outvoted her friends to choose the movie they would watch.",
+            "sent2": "The committee outvoted the suggestion for a new policy.",
+            "sent3": "The siblings playfully outvoted each other on where to go for dinner.",
+            "sent4": "His determination outvoted any doubts he had about the project.",
+            "sent5": "The loud cheers outvoted the disappointed sighs in the room."
         }
     ]
 }

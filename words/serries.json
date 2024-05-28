@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A series of things placed one after another",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The serries of books on the shelf looked neat and organized.",
+            "sent2": "I enjoyed watching the serries of cars drive by on the road.",
+            "sent3": "The serries of ducks waddling in a line made me chuckle.",
+            "sent4": "Her paintings formed a colorful serries that brightened the room.",
+            "sent5": "The serries of colorful flags fluttered in the wind, creating a festive atmosphere."
         },
         {
             "definition": "To arrange in a series or succession",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She carefully serries the cups on the shelf to keep them organized.",
+            "sent2": "The librarian will serries the books on the shelves by genre.",
+            "sent3": "He serries his socks by color, making it easier to find a pair.",
+            "sent4": "The chef will serries the ingredients before starting to cook.",
+            "sent5": "The students will serries their desks in rows for the exam."
         }
     ]
 }

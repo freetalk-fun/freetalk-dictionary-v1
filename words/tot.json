@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A small child",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The tot played happily in the sandbox.",
+            "sent2": "The mother held her tot's hand as they crossed the street.",
+            "sent3": "The tot giggled uncontrollably when tickled by their older sibling.",
+            "sent4": "The tot's innocence was like a ray of sunshine in the room.",
+            "sent5": "The tot's laughter filled the house with joy."
         },
         {
             "definition": "A small amount of something, especially a drink",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "She poured a tot of whiskey into the glass.",
+            "sent2": "The bartender measured out a tot of rum for the cocktail.",
+            "sent3": "He added a tot of milk to his coffee, making it creamy.",
+            "sent4": "The tot of perfume was just enough to create a pleasant scent.",
+            "sent5": "A tot of honey sweetened the tea perfectly."
         },
         {
             "definition": "To total or add up to a certain amount",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The numbers will tot to fifty when you add them up.",
+            "sent2": "She watched the cashier tot up the grocery bill.",
+            "sent3": "The coins began to tot up in the piggy bank, getting heavier.",
+            "sent4": "The hours would tot to a full day of hard work.",
+            "sent5": "The points would tot up to victory for the team."
         }
     ]
 }

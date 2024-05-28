@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A thought that is mistaken or incorrect.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Her misthought led to confusion.",
+            "sent2": "The misthought caused him to make a wrong decision.",
+            "sent3": "His misthought about the meeting time made everyone laugh.",
+            "sent4": "The misthought hung over her like a dark cloud.",
+            "sent5": "The teacher used his misthought as a learning opportunity for the class."
         },
         {
             "definition": "To have a mistaken or incorrect thought.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She misthought the directions and got lost.",
+            "sent2": "He often misthought the intentions of others.",
+            "sent3": "They misthought the date of the party and missed it.",
+            "sent4": "The witness misthought what he saw in the dim light.",
+            "sent5": "The detective carefully examined each clue to avoid misthought."
         }
     ]
 }

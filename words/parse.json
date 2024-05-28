@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Analyze (a sentence) into its parts and describe their syntactic roles.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I need to parse this complex sentence to understand its structure.",
+            "sent2": "It is important to parse the data carefully before drawing any conclusions.",
+            "sent3": "Trying to parse this jumbled sentence feels like solving a puzzle.",
+            "sent4": "She could parse the emotions in his voice just by listening.",
+            "sent5": "The detective's ability to parse the evidence was crucial in solving the case."
         },
         {
             "definition": "To examine closely or analyze critically.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Let's parse this argument to see if it holds up under scrutiny.",
+            "sent2": "He likes to parse every detail before making a decision.",
+            "sent3": "I can't help but parse every word he says for hidden meanings.",
+            "sent4": "She could parse the subtle differences in the paintings with ease.",
+            "sent5": "The scientist needed to parse the data meticulously to find the pattern."
         },
         {
             "definition": "To break down (a sentence) into its component parts.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I will parse this sentence to identify the subject and predicate.",
+            "sent2": "It's easier to parse a sentence when you understand its structure.",
+            "sent3": "Trying to parse this long sentence feels like untangling a knot.",
+            "sent4": "She could parse the sentence into clauses effortlessly.",
+            "sent5": "The teacher asked the students to parse the paragraph for key information."
         }
     ]
 }

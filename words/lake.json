@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A large body of water surrounded by land.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The sparkling lake reflected the blue sky above.",
+            "sent2": "We went fishing at the lake on a sunny day.",
+            "sent3": "The ducks waddled around the lake, looking for snacks.",
+            "sent4": "Her eyes were as deep and mysterious as a tranquil lake.",
+            "sent5": "The lake shimmered like a mirror in the sunlight."
         },
         {
             "definition": "To form a lake.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "After the heavy rain, the valley began to lake.",
+            "sent2": "The dam was built to lake the river and create a reservoir.",
+            "sent3": "If we don't fix the leak, the bathtub will lake all over the floor.",
+            "sent4": "The chef accidentally added too much water, causing the soup to lake in the pot.",
+            "sent5": "The children used sand to lake miniature lakes in the backyard."
         }
     ]
 }

@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Subjected to or containing high pressure.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The pressurized cabin kept the astronauts safe in space.",
+            "sent2": "The pressurized canister held the carbon dioxide gas.",
+            "sent3": "The pressurized balloon made a loud pop when it burst.",
+            "sent4": "The pressurized water hose sprayed with great force.",
+            "sent5": "The pressurized tire exploded with a loud bang."
         },
         {
             "definition": "To apply pressure to (something).",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He pressurized the pump to inflate the basketball.",
+            "sent2": "The mechanic pressurized the air conditioning system.",
+            "sent3": "She pressurized the ketchup bottle to get the last drop out.",
+            "sent4": "The chef pressurized the pastry bag to decorate the cake.",
+            "sent5": "The hiker pressurized the water filter to purify the stream water."
         },
         {
             "definition": "To make (someone) feel stressed or anxious.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The upcoming exam pressurized the students.",
+            "sent2": "The tight deadline pressurized the employees to finish the project.",
+            "sent3": "The unexpected guest arrival pressurized the host to prepare quickly.",
+            "sent4": "The intense competition pressurized the athletes to perform their best.",
+            "sent5": "The financial difficulties pressurized the family to make tough decisions."
         }
     ]
 }

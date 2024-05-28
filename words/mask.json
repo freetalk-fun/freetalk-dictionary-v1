@@ -3,19 +3,39 @@
     "meanings": [
         {
             "definition": "A covering for all or part of the face, worn as a disguise, or to amuse or terrify others.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "During Halloween, she wore a spooky mask to scare her friends.",
+            "sent2": "The superhero's mask hid his true identity from the villains.",
+            "sent3": "At the costume party, his mask made everyone laugh.",
+            "sent4": "Behind her cheerful mask, she hid her sadness.",
+            "sent5": "The mask with a big smile made the children happy."
         },
         {
             "definition": "A protective covering for the face or head.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The doctor wore a mask to keep germs away.",
+            "sent2": "The firefighter's mask protected him from the smoke.",
+            "sent3": "The ski mask kept his face warm in the cold snow.",
+            "sent4": "Her mask shielded her from the harsh sunlight.",
+            "sent5": "The goalie's mask saved his face from the hockey puck."
         },
         {
             "definition": "Something that conceals or disguises one's true identity or feelings.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Her smile was just a mask to hide her sadness.",
+            "sent2": "His tough guy mask was just a front for his sensitive side.",
+            "sent3": "The comedian's mask of humor covered his true loneliness.",
+            "sent4": "The politician's mask of confidence hid his nervousness.",
+            "sent5": "The mask of indifference couldn't hide her excitement."
         },
         {
             "definition": "To cover or conceal with a mask.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He tried to mask his disappointment with a fake smile.",
+            "sent2": "She used makeup to mask the blemishes on her skin.",
+            "sent3": "The loud music masked the sound of their conversation.",
+            "sent4": "The strong perfume masked the odor of the garbage.",
+            "sent5": "The bright colors masked the old paint on the walls."
         }
     ]
 }

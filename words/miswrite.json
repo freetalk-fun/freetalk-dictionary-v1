@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To write or spell incorrectly.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I always miswrite my name on official documents.",
+            "sent2": "Please be careful not to miswrite the address on the envelope.",
+            "sent3": "I miswrite so often that my friends find it amusing.",
+            "sent4": "Her mind was a jumbled mess, causing her to miswrite everything she touched.",
+            "sent5": "The student's tendency to miswrite made studying for the spelling test challenging."
         },
         {
             "definition": "An error in writing or spelling.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The miswrite in the report changed the entire meaning of the paragraph.",
+            "sent2": "She noticed a miswrite in the newspaper article and pointed it out to the editor.",
+            "sent3": "The miswrite in the menu made the dish sound much more interesting than it actually was.",
+            "sent4": "The miswrite on the sign led many drivers astray.",
+            "sent5": "The miswrite on the exam caused confusion among the students."
         }
     ]
 }

@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To be unsuccessful in achieving a goal or purpose.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She failed to finish her homework on time.",
+            "sent2": "The team failed to win the championship.",
+            "sent3": "The cake failed to rise in the oven, making it flat.",
+            "sent4": "His attempt to climb the mountain failed miserably.",
+            "sent5": "The engine failed just before the race, causing disappointment."
         },
         {
             "definition": "Not meeting expectations or requirements.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The failed project left everyone disappointed.",
+            "sent2": "Her failed attempt at baking a cake was evident.",
+            "sent3": "The failed magic trick made the audience chuckle.",
+            "sent4": "The failed interview left him feeling discouraged.",
+            "sent5": "The failed plan resulted in chaos and confusion."
         },
         {
             "definition": "To stop functioning properly.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The old car failed to start in the cold weather.",
+            "sent2": "The light bulb failed and needed to be replaced.",
+            "sent3": "The clock failed to chime at the right time, causing confusion.",
+            "sent4": "The computer failed to boot up, frustrating the user.",
+            "sent5": "The phone failed to charge overnight, leading to a dead battery."
         }
     ]
 }

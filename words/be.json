@@ -3,23 +3,48 @@
     "meanings": [
         {
             "definition": "exist",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I am happy to be here.",
+            "sent2": "It is important to be kind to others.",
+            "sent3": "It would be funny if cats could talk.",
+            "sent4": "In the forest, the trees seem to be whispering secrets.",
+            "sent5": "To truly be yourself is a wonderful thing."
         },
         {
             "definition": "occur",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Accidents can be dangerous.",
+            "sent2": "It will be dark soon.",
+            "sent3": "It might be strange if it rains indoors.",
+            "sent4": "The idea seemed to be floating in the air.",
+            "sent5": "The magic show will be amazing."
         },
         {
             "definition": "belong",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The book must be on the shelf.",
+            "sent2": "The key should be in the drawer.",
+            "sent3": "It could be funny if the hat belonged to a cat.",
+            "sent4": "The puzzle piece seemed to be missing.",
+            "sent5": "The treasure map will be exciting to follow."
         },
         {
             "definition": "equal",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "All shapes can be equal in size.",
+            "sent2": "The two sides of the scale should be equal.",
+            "sent3": "It would be strange if all colors were equal.",
+            "sent4": "In the mirror, the reflections appear to be equal.",
+            "sent5": "The competition will be fair and equal for everyone."
         },
         {
             "definition": "represent",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The flag can be a symbol of a country.",
+            "sent2": "Numbers can be used to represent quantities.",
+            "sent3": "It might be funny if emojis could represent feelings.",
+            "sent4": "The painting seems to be representing a story.",
+            "sent5": "The logo will be designed to represent the brand."
         }
     ]
 }

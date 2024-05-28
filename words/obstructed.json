@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Blocked or closed off",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The path was obstructed by fallen branches.",
+            "sent2": "The view of the mountains was obstructed by thick fog.",
+            "sent3": "The squirrel's path to the acorns was obstructed by a playful puppy.",
+            "sent4": "Her tears obstructed her vision, blurring the words on the page.",
+            "sent5": "The detective found the key evidence hidden behind the obstructed door."
         },
         {
             "definition": "Hindered or impeded",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The fallen tree obstructed the road, causing a traffic jam.",
+            "sent2": "The construction noise obstructed her concentration during the exam.",
+            "sent3": "The mischievous cat obstructed the dog's attempts to fetch the ball.",
+            "sent4": "His fear of failure obstructed his path to success.",
+            "sent5": "The heavy rain obstructed their plans for a picnic in the park."
         },
         {
             "definition": "Prevented from progressing or moving forward",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The car was obstructed in the snow, unable to move forward.",
+            "sent2": "The project was obstructed by budget constraints, delaying its completion.",
+            "sent3": "The sleepy cat obstructed the progress of the knitting project by lying on the yarn.",
+            "sent4": "Her doubts obstructed her journey towards self-discovery.",
+            "sent5": "The thick fog obstructed the ship's path, causing a delay in arrival."
         }
     ]
 }

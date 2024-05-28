@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "improperly fed",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The misfed puppy looked thin and weak.",
+            "sent2": "The misfed plants wilted in the hot sun.",
+            "sent3": "The misfed cat tried to steal food from the table.",
+            "sent4": "The misfed car sputtered and stalled on the highway.",
+            "sent5": "The misfed birds chirped sadly in their cage."
         },
         {
             "definition": "fed incorrectly",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She misfed the fish by giving them too much food.",
+            "sent2": "The farmer misfed the cows by forgetting to feed them.",
+            "sent3": "He misfed the baby by mixing up the formula.",
+            "sent4": "The chef misfed the customers by serving undercooked meat.",
+            "sent5": "They misfed the machine, causing it to malfunction."
         }
     ]
 }

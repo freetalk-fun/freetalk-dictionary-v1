@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "The act of teaching or providing knowledge or information.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The teacher gave clear instruction on how to solve the math problem.",
+            "sent2": "Following the instruction manual, he assembled the toy easily.",
+            "sent3": "The robot followed the instruction perfectly and danced around the room.",
+            "sent4": "Her eyes were like an instruction manual, guiding him through the steps.",
+            "sent5": "The instruction was like a bright light in the darkness of confusion."
         },
         {
             "definition": "A direction or order.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "He followed the instruction to turn left at the traffic light.",
+            "sent2": "The boss's instruction was to complete the report by Friday.",
+            "sent3": "The cat seemed to ignore my instruction to stay off the couch.",
+            "sent4": "The instruction to stop was like a sudden brake in his plans.",
+            "sent5": "Her instruction was as clear as a bell ringing in the quiet room."
         },
         {
             "definition": "The information given to a computer to perform a task.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The programmer wrote the instruction for the software to update automatically.",
+            "sent2": "The computer received the instruction to print the document.",
+            "sent3": "The instruction seemed to confuse the computer, causing it to freeze.",
+            "sent4": "The instruction was like a key unlocking the computer's potential.",
+            "sent5": "His instruction to the computer was as precise as a surgeon's scalpel."
         }
     ]
 }

@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "An account given of a particular matter, especially in the form of an official document, after thorough investigation or consideration.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The teacher asked the students to write reports on their science experiments.",
+            "sent2": "The news reports on the weather are broadcast every evening.",
+            "sent3": "The cat's report on the missing toy mouse was quite detailed.",
+            "sent4": "The reports of alien sightings in the area were causing quite a stir.",
+            "sent5": "The reports of the treasure hidden in the old house intrigued the explorers."
         },
         {
             "definition": "To give a spoken or written account of something that one has observed, heard, done, or investigated.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She reports the news on the radio every morning.",
+            "sent2": "He reports any suspicious activity to the police immediately.",
+            "sent3": "The parrot reports back everything it hears in the house.",
+            "sent4": "The detective reports finding a clue at the crime scene.",
+            "sent5": "The journalist reports live from the scene of the protest."
         }
     ]
 }

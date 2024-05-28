@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To transfer data or files from a server or computer to a local device.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I will download the new game onto my phone.",
+            "sent2": "She downloads music from the internet every day.",
+            "sent3": "The computer decided to download a surprise update in the middle of the night.",
+            "sent4": "His words seemed to download directly into her heart, leaving a lasting impact.",
+            "sent5": "The download progress bar slowly filled up as the movie transferred to the tablet."
         },
         {
             "definition": "The act of downloading data or files from the internet.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The download completed quickly due to the fast internet connection.",
+            "sent2": "Every download brings new information to our fingertips.",
+            "sent3": "The download sat patiently in the queue, waiting for its turn.",
+            "sent4": "Her mind was a constant download of interesting facts and trivia.",
+            "sent5": "The download symbol on the screen indicated a successful transfer of data."
         },
         {
             "definition": "A file or data that has been downloaded.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The download was saved in the 'Downloads' folder.",
+            "sent2": "He opened the download to view the contents.",
+            "sent3": "The download seemed to have a mind of its own, appearing in unexpected places.",
+            "sent4": "The download was like a treasure chest of information waiting to be explored.",
+            "sent5": "She eagerly clicked on the download to see what awaited her inside."
         }
     ]
 }

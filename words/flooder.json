@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A person or thing that floods.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "During the storm, the flooder caused the streets to fill with water.",
+            "sent2": "The burst pipe turned into a flooder, causing chaos in the basement.",
+            "sent3": "The mischievous kids turned on the hose, creating a flooder in the backyard.",
+            "sent4": "Her tears were like a flooder, overwhelming her with emotion.",
+            "sent5": "The overflowing river turned into a powerful flooder, sweeping away everything in its path."
         },
         {
             "definition": "A program or device that sends a large amount of data or messages to a computer network in order to disrupt or overload it.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The hacker used a flooder to crash the website by sending too much traffic.",
+            "sent2": "The IT team had to block the flooder to protect the network from crashing.",
+            "sent3": "The computer virus disguised as a flooder caused chaos in the system.",
+            "sent4": "The spam emails acted like a flooder, clogging up the inbox with unwanted messages.",
+            "sent5": "The cyber attack unleashed a powerful flooder, overwhelming the network's defenses."
         }
     ]
 }

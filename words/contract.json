@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A written or spoken agreement between two or more parties.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The contract stated that both parties agreed to the terms.",
+            "sent2": "She signed a contract to work for the company.",
+            "sent3": "The contract between the friends was sealed with a handshake.",
+            "sent4": "Their contract was as solid as a rock, binding them together.",
+            "sent5": "The contract was like a promise set in stone, unbreakable."
         },
         {
             "definition": "To decrease in size, number, or range.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The balloon started to contract as the air escaped.",
+            "sent2": "He watched the fabric contract as it dried in the sun.",
+            "sent3": "The room seemed to contract as more furniture was added.",
+            "sent4": "Her heart seemed to contract with each sad story she heard.",
+            "sent5": "The city's population began to contract due to the economic downturn."
         },
         {
             "definition": "To acquire or incur a disease or infectious agent.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He was worried he might contract a cold from his sneezing coworker.",
+            "sent2": "She managed to contract the flu despite getting a flu shot.",
+            "sent3": "The cat seemed to contract a case of the sneezes after playing outside.",
+            "sent4": "The virus was able to contract rapidly within the crowded school.",
+            "sent5": "The bacteria could easily contract in unsanitary conditions."
         }
     ]
 }

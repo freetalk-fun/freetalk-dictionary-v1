@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A series of events that are regularly repeated in the same order.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The washing machine goes through a cycle to clean the clothes.",
+            "sent2": "The water cycle involves evaporation, condensation, and precipitation.",
+            "sent3": "I missed the bus because I was stuck in a never-ending cycle of snoozing my alarm.",
+            "sent4": "Life is like a cycle, with ups and downs that we must navigate.",
+            "sent5": "The cycle of seasons changing reminds us of the passage of time."
         },
         {
             "definition": "A complete set or series.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "She completed the cycle of exercises at the gym.",
+            "sent2": "The moon goes through different phases in a cycle every month.",
+            "sent3": "I finished reading the entire cycle of books in just one weekend.",
+            "sent4": "The cycle of day and night is a fundamental part of Earth's rhythm.",
+            "sent5": "The cycle of the traffic lights helped regulate the flow of cars."
         },
         {
             "definition": "To move in or follow a cycle.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The wheels cycle as the bicycle moves forward.",
+            "sent2": "We cycle around the park every Sunday for exercise.",
+            "sent3": "I cycle through my playlist to find the perfect song for this moment.",
+            "sent4": "Thoughts cycle through my mind like a never-ending loop.",
+            "sent5": "The dancers cycle gracefully across the stage in perfect harmony."
         }
     ]
 }

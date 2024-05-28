@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "The presence of excessive voltage in an electrical circuit.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The overvoltages in the circuit caused the light bulbs to flicker.",
+            "sent2": "Electricians use special equipment to detect overvoltages in circuits.",
+            "sent3": "The mischievous squirrel must have caused the overvoltages by chewing on the wires.",
+            "sent4": "The overvoltages surged through the circuit like a powerful wave.",
+            "sent5": "The overvoltages were like a storm brewing in the calm circuit."
         },
         {
             "definition": "To subject to an excessive voltage.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Be careful not to overvoltages the sensitive equipment during testing.",
+            "sent2": "The technician accidentally overvoltages the device, causing it to malfunction.",
+            "sent3": "The playful robot seemed to enjoy being overvoltages by the scientist.",
+            "sent4": "The power surge overvoltages the entire system, leading to a shutdown.",
+            "sent5": "The experiment went wrong when the scientist decided to overvoltages the machine."
         }
     ]
 }

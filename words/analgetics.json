@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A substance that relieves pain.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The doctor prescribed analgetics for my headache.",
+            "sent2": "Analgetics are commonly used after surgery to manage pain.",
+            "sent3": "I told a joke so bad that even analgetics couldn't relieve the pain of hearing it.",
+            "sent4": "Her kind words acted as analgetics for my troubled heart.",
+            "sent5": "The analgetics kicked in just in time to ease the throbbing pain."
         },
         {
             "definition": "Relating to or causing analgesia.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The analgetics effect of the medication was noticeable within minutes.",
+            "sent2": "The analgetics properties of the cream helped numb the area.",
+            "sent3": "The cat's purring had an analgetics effect on my stress levels.",
+            "sent4": "The music had an analgetics quality that soothed the listeners.",
+            "sent5": "The analgetics nature of the tea brought comfort to the patient."
         }
     ]
 }

@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A large number of things that are put one on top of another",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The pileup of books on the shelf was starting to lean.",
+            "sent2": "The kids created a pileup of blocks in the playroom.",
+            "sent3": "I accidentally caused a pileup of laundry on the floor.",
+            "sent4": "The pileup of dishes in the sink seemed never-ending.",
+            "sent5": "The pileup of leaves in the yard needed to be cleared before winter."
         },
         {
             "definition": "A situation in which a number of vehicles crash into each other",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The highway was closed due to a massive car pileup.",
+            "sent2": "The foggy conditions led to a dangerous pileup on the freeway.",
+            "sent3": "The pileup on the racetrack caused chaos among the drivers.",
+            "sent4": "The sudden snowstorm resulted in a pileup of cars on the road.",
+            "sent5": "The loud noise signaled another pileup at the intersection."
         },
         {
             "definition": "To accumulate or increase in quantity",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The dishes started to pileup in the sink.",
+            "sent2": "If you don't clean regularly, dust will pileup on the furniture.",
+            "sent3": "I tend to let my emails pileup in my inbox.",
+            "sent4": "The paperwork began to pileup on my desk.",
+            "sent5": "Problems can pileup if you don't address them promptly."
         }
     ]
 }

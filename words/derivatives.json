@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Something that is based on another source",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The story she wrote was a derivative of a famous novel.",
+            "sent2": "Investors often trade derivatives to manage risk in the stock market.",
+            "sent3": "The cake she baked was a derivative of her grandmother's recipe.",
+            "sent4": "His artwork was a beautiful derivative of nature's colors.",
+            "sent5": "The movie was a derivative of the classic book, bringing it to life on screen."
         },
         {
             "definition": "A financial contract whose value is based on the performance of an underlying asset",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "He invested in derivatives to diversify his portfolio.",
+            "sent2": "Traders use derivatives to speculate on future market movements.",
+            "sent3": "The success of his investment in derivatives made him smile.",
+            "sent4": "The value of the derivative soared with the rise in oil prices.",
+            "sent5": "Understanding the risks of derivatives is crucial for financial planning."
         },
         {
             "definition": "A chemical compound that is derived from another compound",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The new medicine is a derivative of natural plant extracts.",
+            "sent2": "Scientists study derivatives to develop new drugs for various illnesses.",
+            "sent3": "The chef used a derivative of lemon in the salad dressing.",
+            "sent4": "The fragrance was a delightful derivative of fresh flowers.",
+            "sent5": "Her skincare products contain derivatives known for their nourishing properties."
         }
     ]
 }

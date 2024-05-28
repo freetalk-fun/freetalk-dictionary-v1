@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Moving or capable of moving quickly",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The cheetah is the fastest animal on land.",
+            "sent2": "She ran the fastest in the race and won a gold medal.",
+            "sent3": "The fastest squirrel in the park always beats the others to the acorns.",
+            "sent4": "His fastest reflexes kicked in when he dodged the flying ball.",
+            "sent5": "The fastest car in the world can reach incredible speeds."
         },
         {
             "definition": "In a quick manner",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "He completed the puzzle fastest among all the players.",
+            "sent2": "She typed the fastest in the office, finishing her work early.",
+            "sent3": "The chef chopped the vegetables fastest when preparing the meal.",
+            "sent4": "Time flew by fastest when they were having fun together.",
+            "sent5": "The train arrived fastest when there were no delays on the tracks."
         },
         {
             "definition": "To abstain from food for a period of time",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "During Ramadan, Muslims fast from dawn to dusk.",
+            "sent2": "She decided to fast for a day to cleanse her body.",
+            "sent3": "The doctor advised him to fast before the blood test.",
+            "sent4": "He chose to fast as a way to practice self-discipline.",
+            "sent5": "Fasting for religious reasons is a common practice in many cultures."
         }
     ]
 }

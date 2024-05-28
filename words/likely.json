@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Probable or expected to happen",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "It is likely to rain tomorrow.",
+            "sent2": "She is a likely candidate for the job.",
+            "sent3": "The cat is likely plotting something mischievous.",
+            "sent4": "His excuse for being late was as likely as a fish riding a bicycle.",
+            "sent5": "The teacher's smile made the answer likely to be correct."
         },
         {
             "definition": "Having a high probability of occurring",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "Winning the lottery is not very likely.",
+            "sent2": "The team with the star player is likely to win.",
+            "sent3": "The idea of a penguin flying is as likely as a unicorn dancing.",
+            "sent4": "Her prediction was as likely as finding a needle in a haystack.",
+            "sent5": "The sun rising in the west is as likely as him admitting he was wrong."
         },
         {
             "definition": "In all probability; probably",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "She will likely arrive late to the party.",
+            "sent2": "He will likely forget his keys again.",
+            "sent3": "The cat will likely take a nap in the sunbeam.",
+            "sent4": "The flowers will likely bloom in the spring.",
+            "sent5": "The bus will likely be crowded during rush hour."
         }
     ]
 }

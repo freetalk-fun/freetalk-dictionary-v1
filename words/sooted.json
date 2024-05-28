@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Covered with soot.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The chimney sweep's face was sooted from a long day's work.",
+            "sent2": "The fireplace was sooted from burning wood all night.",
+            "sent3": "The cat's playful antics left the room sooted with paw prints.",
+            "sent4": "The old book was sooted with age, its pages yellowed and fragile.",
+            "sent5": "The abandoned factory was sooted with memories of a bygone era."
         },
         {
             "definition": "To cover with soot.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She accidentally sooted her hands while cleaning the fireplace.",
+            "sent2": "The fire sooted the walls of the cave with its dark residue.",
+            "sent3": "The mischievous child sooted the mirror with fingerprints.",
+            "sent4": "The explosion sooted the sky with billowing smoke.",
+            "sent5": "The artist deliberately sooted the canvas to create a dramatic effect."
         }
     ]
 }

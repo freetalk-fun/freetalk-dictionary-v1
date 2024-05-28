@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To use technical or specialized language",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The professor jargonized the lecture, making it hard to follow.",
+            "sent2": "She always jargonized her explanations, confusing her classmates.",
+            "sent3": "The manual was jargonized to the point where even experts struggled to comprehend it.",
+            "sent4": "The lawyer jargonized the contract, turning a simple agreement into a maze of words.",
+            "sent5": "The scientist jargonized the research findings, leaving the audience bewildered."
         },
         {
             "definition": "Made difficult to understand by the use of jargon",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The jargonized document left the readers scratching their heads.",
+            "sent2": "The jargonized report was a challenge for anyone without a technical background.",
+            "sent3": "The jargonized presentation led to more questions than answers.",
+            "sent4": "The jargonized language in the manual made it nearly impossible for beginners to use.",
+            "sent5": "The jargonized terms in the article created a barrier for entry to new readers."
         }
     ]
 }

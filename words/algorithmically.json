@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "In a manner that follows a set of rules or procedures for solving a problem or completing a task.",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "She solved the puzzle algorithmically by following the step-by-step instructions.",
+            "sent2": "The computer program ran algorithmically to find the shortest path.",
+            "sent3": "The robot tried to dance algorithmically, but it ended up doing the robot dance instead.",
+            "sent4": "Her mind worked algorithmically, processing each piece of information methodically.",
+            "sent5": "The students learned how to code algorithmically, breaking down complex problems into smaller steps."
         },
         {
             "definition": "Using algorithms to process data or perform calculations.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The algorithmically designed software efficiently sorted the data.",
+            "sent2": "The algorithmically generated results were accurate and reliable.",
+            "sent3": "The cat tried to chase the algorithmically moving laser pointer around the room.",
+            "sent4": "His mind was like an algorithmically structured machine, always calculating the next move.",
+            "sent5": "The algorithmically driven car navigated through the city with precision and speed."
         }
     ]
 }

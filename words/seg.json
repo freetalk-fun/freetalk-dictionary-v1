@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To cut or divide into segments.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She will seg the cake into equal pieces for everyone.",
+            "sent2": "The chef will seg the vegetables before cooking.",
+            "sent3": "He tried to seg the conversation into manageable parts.",
+            "sent4": "The artist will seg the canvas to create a unique pattern.",
+            "sent5": "The teacher asked the students to seg the story into key events."
         },
         {
             "definition": "A segment or section.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The orange is just one seg of the whole fruit.",
+            "sent2": "The book is divided into several segs for easy reading.",
+            "sent3": "The puzzle is missing a crucial seg to complete it.",
+            "sent4": "The map shows each seg of the hiking trail clearly.",
+            "sent5": "The necklace is made up of many colorful segs."
         },
         {
             "definition": "A short, informal segment of a television or radio program.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The comedian's seg was the funniest part of the show.",
+            "sent2": "The news anchor introduced the next seg with excitement.",
+            "sent3": "The weatherman's seg included a funny blooper.",
+            "sent4": "The radio host's seg featured a special guest interview.",
+            "sent5": "The cooking show's seg taught viewers a new recipe."
         }
     ]
 }

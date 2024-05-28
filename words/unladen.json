@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Not carrying a load.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The unladen truck moved swiftly down the road.",
+            "sent2": "The horse trotted happily with its unladen saddle.",
+            "sent3": "The unladen backpack felt surprisingly light on my shoulders.",
+            "sent4": "Her unladen heart soared with joy.",
+            "sent5": "The unladen balloon floated gracefully in the sky."
         },
         {
             "definition": "To remove a load from.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Please unladen the heavy boxes from the truck.",
+            "sent2": "He unladened the burden from his shoulders.",
+            "sent3": "She decided to unladen her worries before going to bed.",
+            "sent4": "The hiker unladened his backpack after reaching the summit.",
+            "sent5": "The workers unladen the cargo from the ship efficiently."
         }
     ]
 }

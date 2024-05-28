@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "The quality of being equal in measure or length.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The isometry of the two sides of the rectangle ensured they were of the same length.",
+            "sent2": "In geometry, an isometry is when two shapes have the same size and shape.",
+            "sent3": "The isometry of the twins' heights made it hard for people to tell them apart.",
+            "sent4": "The isometry of the two buildings made them look like mirror images of each other.",
+            "sent5": "The isometry of the puzzle pieces made it easy to fit them together perfectly."
         },
         {
             "definition": "A transformation that preserves distances between points in a geometric figure.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The isometry of the translation kept the points in the same relative positions.",
+            "sent2": "Using an isometry, the shape was moved without changing the distances between its points.",
+            "sent3": "The isometry of the map made it look like the city was closer than it actually was.",
+            "sent4": "The isometry of the dance routine made it seem like the dancers were moving in sync effortlessly.",
+            "sent5": "The isometry of the reflection in the mirror made it hard to distinguish the original from the image."
         },
         {
             "definition": "A one-to-one correspondence between the points of one geometric figure and the points of another figure, preserving distances.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The isometry between the two shapes allowed for a perfect match of their points.",
+            "sent2": "An isometry ensures that each point in one figure corresponds to exactly one point in another figure.",
+            "sent3": "The isometry between the two jigsaw puzzles made it challenging to figure out which piece belonged where.",
+            "sent4": "The isometry between the two stories was evident in how every detail matched perfectly.",
+            "sent5": "The isometry between the two paintings created a seamless transition from one artwork to the other."
         }
     ]
 }

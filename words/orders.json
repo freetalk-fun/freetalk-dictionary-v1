@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "The arrangement or disposition of people or things in relation to each other.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The orders of the books on the shelf were by size.",
+            "sent2": "She followed the orders of the teacher and lined up alphabetically.",
+            "sent3": "The orders of the toys in the playroom seemed to change every day.",
+            "sent4": "The orders of the flowers in the garden created a beautiful pattern.",
+            "sent5": "The orders of the chairs in the waiting room made it look neat and organized."
         },
         {
             "definition": "A request for something to be made, supplied, or served.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "He placed an order for a pizza with extra cheese.",
+            "sent2": "The customer's order for a new phone was processed quickly.",
+            "sent3": "The order for a unicorn at the zoo made everyone laugh.",
+            "sent4": "Her order for a million dollars was unfortunately not fulfilled.",
+            "sent5": "The order for a rainbow cake made the birthday party extra special."
         },
         {
             "definition": "A command given by a superior.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The general issued orders for the troops to advance.",
+            "sent2": "Following the doctor's orders, she took her medicine every day.",
+            "sent3": "The order from the principal to wear pajamas to school was unexpected.",
+            "sent4": "The order from the king to build a castle was carried out diligently.",
+            "sent5": "The order from the captain to set sail filled the sailors with excitement."
         }
     ]
 }

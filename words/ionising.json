@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To convert (an atom, molecule, or substance) into an ion.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The experiment showed how heating the gas was ionising it.",
+            "sent2": "The radiation was ionising the particles in the chamber.",
+            "sent3": "The mad scientist's machine was ionising everything in sight!",
+            "sent4": "Her words seemed to ionise the tension in the room.",
+            "sent5": "The storm's energy felt like ionising electricity in the air."
         },
         {
             "definition": "Capable of producing ions, especially by removing electrons from atoms.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The ionising radiation affected the nearby materials.",
+            "sent2": "The sun's rays have ionising properties that can be harmful.",
+            "sent3": "The ionising superhero could control the ions around him.",
+            "sent4": "Her smile had an ionising effect on everyone around her.",
+            "sent5": "The ionising power of the machine was truly remarkable."
         }
     ]
 }

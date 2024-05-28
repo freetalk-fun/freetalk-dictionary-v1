@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To spell incorrectly.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She often misspelled words in her homework.",
+            "sent2": "He realized he had misspelled his name on the test.",
+            "sent3": "The cat misspelled 'meow' as 'mew'.",
+            "sent4": "Her laughter misspelled joy across the room.",
+            "sent5": "The raindrops misspelled a message on the window."
         },
         {
             "definition": "Incorrectly spelled.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The misspelled word confused the students.",
+            "sent2": "She received a note with a misspelled address.",
+            "sent3": "The cake looked delicious but had a misspelled 'Happy Birthday'.",
+            "sent4": "His misspelled name on the trophy felt like a scar.",
+            "sent5": "The misspelled sign led them astray."
         }
     ]
 }

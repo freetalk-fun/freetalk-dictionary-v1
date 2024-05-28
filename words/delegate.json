@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A person designated to act for or represent another.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The delegate attended the meeting on behalf of the manager.",
+            "sent2": "The delegate from the company spoke eloquently at the conference.",
+            "sent3": "The delegate wore a funny hat to the event, representing their team.",
+            "sent4": "She was the delegate of change, bringing new ideas to the table.",
+            "sent5": "The delegate's badge shone brightly, signifying their role."
         },
         {
             "definition": "To entrust a task or responsibility to another.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I will delegate the project to my colleague while I'm away.",
+            "sent2": "It's important to delegate tasks effectively in a team setting.",
+            "sent3": "She decided to delegate the cooking duties to her cat, which was a disaster.",
+            "sent4": "The manager had to delegate the decision-making process to his team.",
+            "sent5": "He learned to delegate responsibilities to others to reduce his workload."
         },
         {
             "definition": "To authorize someone to act on one's behalf.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I will delegate my assistant to sign the documents for me.",
+            "sent2": "The CEO delegated the power to make financial decisions to the CFO.",
+            "sent3": "She had to delegate her shopping to her dog, who came back with toys instead of groceries.",
+            "sent4": "The captain delegated the responsibility of navigation to the first mate.",
+            "sent5": "He had to delegate the task of organizing the event to his sister."
         }
     ]
 }

@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To look quickly or furtively",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She peeks at her friend's surprise gift.",
+            "sent2": "He always peeks through the window before entering.",
+            "sent3": "The mischievous cat peeks around the corner playfully.",
+            "sent4": "The sun peeks through the clouds after a rainy day.",
+            "sent5": "The child peeks under the bed to find his lost toy."
         },
         {
             "definition": "A quick or furtive look",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "She caught a quick peek at the secret document.",
+            "sent2": "He took a peek at the answer key during the test.",
+            "sent3": "The squirrel stole a peek at the picnic basket.",
+            "sent4": "The moon gave a peek through the night clouds.",
+            "sent5": "The detective got a peek at the suspect's hidden stash."
         }
     ]
 }

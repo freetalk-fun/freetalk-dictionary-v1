@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Have a mutual relationship or connection",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I believe that exercise and good health correlate positively.",
+            "sent2": "Scientists study how diet and exercise correlate to overall well-being.",
+            "sent3": "It's funny how my mood and the weather seem to correlate every time.",
+            "sent4": "The rise in temperature seems to correlate with the increase in ice cream sales.",
+            "sent5": "The teacher used a graph to correlate the number of hours studied with test scores."
         },
         {
             "definition": "A variable that has a statistically significant relationship with another variable",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "In the study, they found a strong correlate between sleep and memory retention.",
+            "sent2": "The researchers identified a new correlate in their data analysis.",
+            "sent3": "The correlate between coffee consumption and productivity surprised everyone.",
+            "sent4": "The number of hours slept was a key correlate in predicting performance.",
+            "sent5": "The correlate between rainfall and crop yield was crucial for the farmers."
         },
         {
             "definition": "To show a connection or relationship between two things",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The study aims to correlate the effects of stress on heart health.",
+            "sent2": "Researchers often correlate data to draw meaningful conclusions.",
+            "sent3": "I tried to correlate my love for pizza with my workout routine.",
+            "sent4": "Her success seemed to correlate with her positive attitude towards challenges.",
+            "sent5": "The detective was able to correlate the suspect's alibi with the crime scene evidence."
         }
     ]
 }

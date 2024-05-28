@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "The loud rumbling or crashing noise heard during a thunderstorm.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The thunders from the storm scared the little dog.",
+            "sent2": "The thunders in the distance signaled the approaching storm.",
+            "sent3": "The thunders outside made the windows rattle.",
+            "sent4": "The thunders of applause filled the concert hall.",
+            "sent5": "The thunders echoed through the valley, shaking the ground."
         },
         {
             "definition": "To make a loud, rumbling noise like thunder.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The old truck thunders down the road, shaking everything around.",
+            "sent2": "The waterfall thunders over the rocks, creating a beautiful sound.",
+            "sent3": "The chef thunders orders in the busy kitchen.",
+            "sent4": "The stampede of horses thunders across the open field.",
+            "sent5": "The lion's roar thunders through the jungle, announcing its presence."
         },
         {
             "definition": "To speak loudly or forcefully.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The teacher thunders instructions to the students during the drill.",
+            "sent2": "The politician thunders against corruption in his passionate speech.",
+            "sent3": "The coach thunders encouragement to the team from the sidelines.",
+            "sent4": "The preacher's voice thunders across the congregation, inspiring awe.",
+            "sent5": "The general thunders commands to his troops, leading them into battle."
         }
     ]
 }

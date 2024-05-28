@@ -3,19 +3,39 @@
     "meanings": [
         {
             "definition": "The action of functioning or being active",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The operation of the machine was smooth and efficient.",
+            "sent2": "The operation of the clock is to tell time accurately.",
+            "sent3": "The operation of the squirrels gathering acorns was quite a sight.",
+            "sent4": "The operation of the heart is like a well-oiled machine.",
+            "sent5": "The operation of the traffic lights keeps the flow of cars organized."
         },
         {
             "definition": "A planned activity or procedure",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The surgical operation on the patient went well.",
+            "sent2": "The operation to clean up the park will take place next week.",
+            "sent3": "The operation to bake a cake turned into a messy flour fight.",
+            "sent4": "The operation to fix the leaky roof was a race against time.",
+            "sent5": "The operation to rescue the cat stuck in the tree was a success."
         },
         {
             "definition": "A business or organization",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The operation of the company runs smoothly with dedicated employees.",
+            "sent2": "The operation of the store involves managing inventory and sales.",
+            "sent3": "The operation of the bakery is a sweet success.",
+            "sent4": "The operation of the charity helps many in need.",
+            "sent5": "The operation of the restaurant ensures customers are satisfied."
         },
         {
             "definition": "A military campaign or mission",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The military operation was carried out with precision and strategy.",
+            "sent2": "The operation to rescue hostages was a success.",
+            "sent3": "The operation to capture the flag turned into a playful competition.",
+            "sent4": "The operation to defend the fort was a heroic effort.",
+            "sent5": "The operation to secure the border was crucial for national security."
         }
     ]
 }

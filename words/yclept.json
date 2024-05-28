@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Named",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The cat yclept Whiskers is very playful.",
+            "sent2": "The book yclept 'The Adventures of Tom Sawyer' is a classic.",
+            "sent3": "The tree yclept 'Bob' always seems to be waving in the wind.",
+            "sent4": "The mountain yclept 'Majestic Peak' loomed in the distance.",
+            "sent5": "The castle yclept 'Dragon's Lair' looked imposing against the dark sky."
         },
         {
             "definition": "Called",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She yclept her new invention 'The Handy Helper'.",
+            "sent2": "The famous singer yclept himself 'The King of Pop'.",
+            "sent3": "The mischievous raccoon yclept the shiny object 'Treasure'.",
+            "sent4": "The ancient ruins yclept to explorers from all over the world.",
+            "sent5": "The mysterious island yclept 'Lost Paradise' beckoned to adventurers."
         }
     ]
 }

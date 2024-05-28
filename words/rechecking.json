@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To check again for accuracy or correctness.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I will be rechecking my answers to make sure they are correct.",
+            "sent2": "She always rechecks her work before submitting it.",
+            "sent3": "The detective kept rechecking the evidence to solve the case.",
+            "sent4": "Rechecking the map, he realized he had taken the wrong turn.",
+            "sent5": "Rechecking is important to avoid mistakes."
         },
         {
             "definition": "The act of verifying or confirming something by checking it again.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The rechecking of the data revealed a mistake in the calculations.",
+            "sent2": "After the initial check, the rechecking process was necessary for accuracy.",
+            "sent3": "The constant rechecking of the inventory made the employee feel like a robot.",
+            "sent4": "The rechecking of the document was like a security measure for accuracy.",
+            "sent5": "The rechecking of the facts clarified any doubts."
         }
     ]
 }

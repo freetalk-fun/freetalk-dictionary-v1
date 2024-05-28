@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To sell more of (something) than can be supplied or than exists",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The store oversold their limited edition sneakers, leaving many customers disappointed.",
+            "sent2": "The company had to issue refunds after they oversold their concert tickets.",
+            "sent3": "The bakery oversold their famous cupcakes, causing a frenzy among dessert lovers.",
+            "sent4": "The real estate agent oversold the benefits of the house, leading to buyer's remorse.",
+            "sent5": "The online retailer oversold the product's features, resulting in negative reviews."
         },
         {
             "definition": "The act of selling more of (something) than can be supplied or than exists",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The oversale of the limited edition sneakers caused chaos at the store.",
+            "sent2": "The oversale of concert tickets led to confusion among attendees.",
+            "sent3": "The oversale of cupcakes at the bake sale left no treats for latecomers.",
+            "sent4": "The oversale of the house's features made the buyer skeptical of the listing.",
+            "sent5": "The oversale of the product's benefits resulted in a high return rate."
         }
     ]
 }

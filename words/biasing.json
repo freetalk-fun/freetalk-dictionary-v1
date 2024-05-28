@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To cause to hold or exhibit a particular bias; to influence in a particular direction.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She was biasing the results of the experiment to favor her hypothesis.",
+            "sent2": "The news article was biasing the readers towards a specific political view.",
+            "sent3": "The magician was biasing the audience's perception with his clever tricks.",
+            "sent4": "The artist was biasing the colors in the painting to create a dramatic effect.",
+            "sent5": "The coach was biasing the team's strategy to focus on defense."
         },
         {
             "definition": "The act of giving a bias to; the act of influencing in a particular direction.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The biasing of the survey questions led to skewed results.",
+            "sent2": "Her subtle biasing of the conversation towards her own achievements was noticeable.",
+            "sent3": "The biasing of the scale made her weigh lighter than she actually was.",
+            "sent4": "The biasing of the jury members affected the outcome of the trial.",
+            "sent5": "The biasing of the compass needle caused navigation errors."
         }
     ]
 }

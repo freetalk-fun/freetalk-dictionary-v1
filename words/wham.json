@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A loud, sudden, and emphatic noise or impact.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The wham of the door slamming shut startled me.",
+            "sent2": "I heard a loud wham as the hammer hit the nail.",
+            "sent3": "The wham of the thunder made the dog jump.",
+            "sent4": "The wham of the news hitting her was like a punch to the gut.",
+            "sent5": "The wham of the gavel silenced the courtroom instantly."
         },
         {
             "definition": "To strike or hit with great force.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He whammed the ball out of the park with a powerful swing.",
+            "sent2": "She whammed the door shut in frustration.",
+            "sent3": "The chef whammed the dough to make it flat.",
+            "sent4": "The boxer whammed his opponent with a strong punch.",
+            "sent5": "The carpenter whammed the nail into the wood with precision."
         },
         {
             "definition": "Suddenly or forcefully.",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "She arrived wham at the party, surprising everyone.",
+            "sent2": "The car skidded to a stop wham in front of the house.",
+            "sent3": "The magician pulled a rabbit out of the hat wham!",
+            "sent4": "The storm hit the town wham, causing chaos.",
+            "sent5": "The idea struck him wham in the middle of the night."
         }
     ]
 }

@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A small valley",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The little stream flowed through the del.",
+            "sent2": "We hiked through the beautiful del and enjoyed the scenery.",
+            "sent3": "The animals in the del were having a party, and we were not invited.",
+            "sent4": "The del looked like a green ribbon winding through the hills.",
+            "sent5": "The del was so peaceful, with birds chirping and flowers blooming."
         },
         {
             "definition": "To delete or remove",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Please del the unnecessary files from the computer.",
+            "sent2": "I accidentally del the wrong paragraph in my essay.",
+            "sent3": "When I del the cookies from the jar, my brother was disappointed.",
+            "sent4": "She had to del the toxic people from her life to find happiness.",
+            "sent5": "The magician seemed to del the rabbit out of thin air."
         },
         {
             "definition": "A suffix denoting something that has been deleted or removed",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The document had the del suffix indicating it was revised.",
+            "sent2": "The email attachment had a .del file extension.",
+            "sent3": "The cake recipe had a del at the end, probably a mistake.",
+            "sent4": "The book title had a mysterious del at the end, intriguing readers.",
+            "sent5": "The software update included a del to improve performance."
         }
     ]
 }

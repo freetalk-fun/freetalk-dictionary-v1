@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Used to indicate obligation or duty.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "You should clean your room before guests come over.",
+            "sent2": "I should study for my exam tomorrow.",
+            "sent3": "If you want to find your missing sock, you should check under the bed.",
+            "sent4": "The sun should rise in the east every morning.",
+            "sent5": "It should rain soon, according to the weather forecast."
         },
         {
             "definition": "Used to give advice or make a suggestion.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I think you should try the new restaurant in town.",
+            "sent2": "You should wear a coat, it's cold outside.",
+            "sent3": "Maybe you should take a break and relax for a bit.",
+            "sent4": "You should treat yourself to a nice dessert after dinner.",
+            "sent5": "You should listen to your friend's advice, they usually know best."
         },
         {
             "definition": "Used to express probability or expectation.",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "It should be sunny tomorrow for our picnic.",
+            "sent2": "The package should arrive by Friday.",
+            "sent3": "If you water the plants regularly, they should grow well.",
+            "sent4": "She should be home by now, she left early.",
+            "sent5": "The bus should be here any minute, so be ready to board."
         }
     ]
 }

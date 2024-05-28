@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A file used for swapping data between memory and storage.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I had to create swapfiles to help my computer run faster.",
+            "sent2": "The operating system automatically manages the swapfiles to optimize performance.",
+            "sent3": "The swapfiles were like messengers shuttling information between memory and storage.",
+            "sent4": "In the digital world, swapfiles act as bridges connecting memory and storage.",
+            "sent5": "The swapfiles were like busy bees, constantly moving data back and forth."
         },
         {
             "definition": "To exchange or trade files with another user.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "We agreed to swapfiles to share our photos.",
+            "sent2": "I often swapfiles with my friends to get new music.",
+            "sent3": "Let's swapfiles and see what interesting things we find!",
+            "sent4": "She loves to swapfiles with others to discover new content.",
+            "sent5": "Swapping files is a great way to collaborate and learn from each other."
         }
     ]
 }

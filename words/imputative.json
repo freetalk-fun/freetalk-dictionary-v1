@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Attributing or ascribing something to someone or something else.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She imputatively blamed her brother for breaking the vase.",
+            "sent2": "The detective imputatively linked the fingerprints to the suspect.",
+            "sent3": "The teacher imputatively assigned the wrong student as the class monitor.",
+            "sent4": "The gossip imputatively connected the missing necklace to the new neighbor.",
+            "sent5": "The judge imputatively assigned the guilt to the wrong person."
         },
         {
             "definition": "Believed to be true or exist based on evidence or reasoning.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The imputative theory was widely accepted by the scientific community.",
+            "sent2": "Her imputative decision was based on the facts presented to her.",
+            "sent3": "The imputative weather forecast predicted a sunny day, but it rained instead.",
+            "sent4": "His imputative explanation of the situation left everyone puzzled.",
+            "sent5": "The imputative conclusion drawn from the data was later proven incorrect."
         }
     ]
 }

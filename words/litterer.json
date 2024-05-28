@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A person who leaves trash in public places.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The litterer left a mess in the park.",
+            "sent2": "The city fined the litterer for dumping garbage on the street.",
+            "sent3": "The litterer's trail of trash made the park look like a dump.",
+            "sent4": "She was a litterer, painting the streets with her discarded wrappers.",
+            "sent5": "The litterer's actions polluted the environment and harmed wildlife."
         },
         {
             "definition": "To leave trash in public places.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Please do not litterer in the park.",
+            "sent2": "He was caught littering on the beach and was given a warning.",
+            "sent3": "The wind seemed to litterer the papers all over the street.",
+            "sent4": "Her careless actions litterer the once pristine park with garbage.",
+            "sent5": "Littering is harmful to the environment and should be avoided at all costs."
         }
     ]
 }

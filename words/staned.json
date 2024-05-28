@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Past tense of stain.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Yesterday, I staned my shirt with spaghetti sauce.",
+            "sent2": "She staned the carpet with red wine.",
+            "sent3": "The mischievous puppy staned the sofa with muddy paw prints.",
+            "sent4": "The artist staned the canvas with vibrant colors, creating a masterpiece.",
+            "sent5": "The ink staned the paper, leaving a permanent mark."
         },
         {
             "definition": "Covered with stains.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The staned tablecloth had many food spills on it.",
+            "sent2": "The old house had staned walls from years of neglect.",
+            "sent3": "Despite being staned, the antique vase still held its beauty.",
+            "sent4": "The staned glass window distorted the view outside.",
+            "sent5": "The staned shirt looked unwearable after the paint accident."
         },
         {
             "definition": "To mark with spots or blotches of different shades or colors.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The artist staned the canvas with various hues to create a unique painting.",
+            "sent2": "The spilled coffee staned the white tablecloth with brown splotches.",
+            "sent3": "The children staned the sidewalk with colorful chalk drawings.",
+            "sent4": "The storm clouds staned the sky with dark shadows.",
+            "sent5": "The graffiti staned the clean wall, causing frustration for the building owner."
         }
     ]
 }

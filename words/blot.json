@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A spot or stain, especially of ink or paint.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The ink left a blot on the paper.",
+            "sent2": "She accidentally spilled paint, creating a blot on the canvas.",
+            "sent3": "The blot on his shirt made it look like a colorful design.",
+            "sent4": "The blot of ink on the document seemed to symbolize a hidden message.",
+            "sent5": "The blot on the wall stood out like a tiny, dark island in a sea of white."
         },
         {
             "definition": "To remove or obliterate something unwanted.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He used a tissue to blot the spilled juice from the table.",
+            "sent2": "She carefully blotted out the mistake in her notebook.",
+            "sent3": "The magician blotted away the image, leaving the audience amazed.",
+            "sent4": "Time seemed to blot out the memories of that painful day.",
+            "sent5": "The eraser worked like magic to blot away the pencil marks."
         },
         {
             "definition": "To soak up or absorb liquid.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The sponge can blot up the spilled water quickly.",
+            "sent2": "The paper towel was used to blot the excess oil from the pizza.",
+            "sent3": "The thirsty plant seemed to blot up all the water in the vase.",
+            "sent4": "The desert sand seemed to blot up the raindrops in seconds.",
+            "sent5": "The towel was so absorbent, it could blot up a whole glass of spilled milk."
         }
     ]
 }

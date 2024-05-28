@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A business organization",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Many firms in our town sell delicious cakes.",
+            "sent2": "Local firms provide jobs for people in the community.",
+            "sent3": "The firm down the street makes the best ice cream in town.",
+            "sent4": "Her family's firm is a well-known bakery with a long history.",
+            "sent5": "The firm's logo is a colorful butterfly, symbolizing growth and transformation."
         },
         {
             "definition": "To make or become more solid or secure",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He firms his grip on the handle before lifting the heavy box.",
+            "sent2": "The construction workers firm the foundation of the new building.",
+            "sent3": "The chef firmed up the custard by chilling it in the fridge.",
+            "sent4": "The friendship between the two neighbors firmed over years of shared experiences.",
+            "sent5": "The athlete's determination firmed his resolve to win the race."
         },
         {
             "definition": "To make a decision or opinion stronger",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She firmly believes that hard work pays off in the end.",
+            "sent2": "The team firmed their commitment to winning the championship.",
+            "sent3": "His resolve firmed when he saw the positive results of his efforts.",
+            "sent4": "The evidence presented in court firmed the prosecutor's case against the suspect.",
+            "sent5": "The support from her friends firmed her decision to pursue her dream career."
         }
     ]
 }

@@ -3,19 +3,39 @@
     "meanings": [
         {
             "definition": "A fabric mesh woven from string or wire",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The fisherman caught many fish in his net.",
+            "sent2": "The basketball hoop has a net to catch the ball.",
+            "sent3": "The butterfly got tangled in the net and couldn't escape.",
+            "sent4": "The spider spun a delicate net to catch its prey.",
+            "sent5": "The soccer goal has a white net that ripples in the wind."
         },
         {
             "definition": "Remaining after all deductions have been made",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "After paying all the bills, she had a net income of $500.",
+            "sent2": "The net weight of the package was 10 pounds.",
+            "sent3": "He was left with a net profit of $100 after selling his old bike.",
+            "sent4": "The net result of the experiment was a success.",
+            "sent5": "The net amount in his bank account was enough to buy a new phone."
         },
         {
             "definition": "A structure consisting of a framework covered with a mesh",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The soccer goal is a net attached to two poles.",
+            "sent2": "The hammock was made of a strong net that could hold two people.",
+            "sent3": "The trampoline had a safety net around it to prevent falls.",
+            "sent4": "The circus performer climbed the net to reach the top of the tent.",
+            "sent5": "The cargo was secured with a net to keep it from shifting during transport."
         },
         {
             "definition": "To catch or ensnare in a net",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The fisherman tried to net the elusive trout in the river.",
+            "sent2": "She managed to net a great deal on her online purchase.",
+            "sent3": "The detective was able to net the criminal after a long chase.",
+            "sent4": "The spider deftly netted the fly that landed on its web.",
+            "sent5": "The basketball player attempted to net a three-point shot from the corner."
         }
     ]
 }

@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Greatest in amount, quantity, or degree.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "She is the most talented singer in the group.",
+            "sent2": "The tallest building in the city is the most impressive.",
+            "sent3": "The most colorful bird in the forest caught everyone's attention.",
+            "sent4": "His most prized possession was a small, worn-out teddy bear.",
+            "sent5": "The most delicious cake I've ever tasted melted in my mouth."
         },
         {
             "definition": "The majority of.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The most of the students preferred pizza for lunch.",
+            "sent2": "She ate the most of the cookies at the party.",
+            "sent3": "The most of the toys were scattered around the room.",
+            "sent4": "He had the most of the marbles in his collection.",
+            "sent5": "The most of the day was spent playing in the park."
         },
         {
             "definition": "To the greatest extent.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She most enjoys reading mystery novels in her free time.",
+            "sent2": "They most appreciate the help they received during the project.",
+            "sent3": "He most dances when he thinks no one is watching.",
+            "sent4": "The flowers most bloom in the spring season.",
+            "sent5": "I most cherish the memories of our family vacation."
         }
     ]
 }

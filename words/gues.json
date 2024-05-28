@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Estimate or suppose (a number, amount, or value) as a guess.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I gues the number of candies in the jar.",
+            "sent2": "Can you gues how many balloons are in the room?",
+            "sent3": "She guesed the weight of the pumpkin and won a prize.",
+            "sent4": "His gues was like a shot in the dark, but surprisingly accurate.",
+            "sent5": "The detective's gues led to the discovery of the hidden treasure."
         },
         {
             "definition": "An estimate or opinion.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "My gues is that the movie will start at 7 pm.",
+            "sent2": "What's your gues on the outcome of the game?",
+            "sent3": "His gues about the weather turned out to be completely wrong.",
+            "sent4": "Her gues about the stock market was way off the mark.",
+            "sent5": "The teacher's gues about the student's performance was surprisingly accurate."
         },
         {
             "definition": "To form an estimate or conjecture.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I guesed the answer to the riddle.",
+            "sent2": "They guesed the distance to the nearest town.",
+            "sent3": "He guesed the ending of the movie halfway through.",
+            "sent4": "She guesed the correct path through the maze.",
+            "sent5": "The scientist guesed the outcome of the experiment based on previous data."
         }
     ]
 }

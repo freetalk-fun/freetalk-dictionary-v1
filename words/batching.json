@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "The act of grouping items together for processing or treatment.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "In the factory, the batching of raw materials is done efficiently.",
+            "sent2": "The batching of medications in the pharmacy ensures accuracy and safety.",
+            "sent3": "The chef's unique batching of ingredients created a surprisingly delicious dish.",
+            "sent4": "Her batching of tasks helped her stay organized and focused throughout the day.",
+            "sent5": "The batching of laundry made the chore much more manageable."
         },
         {
             "definition": "A quantity of goods produced at one time.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The bakery displayed a fresh batch of cookies in the window.",
+            "sent2": "The farmer harvested a large batch of corn from the field.",
+            "sent3": "The store offered a special discount on the last batch of shoes.",
+            "sent4": "The delivery truck carried a batch of new furniture for the showroom.",
+            "sent5": "The factory produced a large batch of toys for the holiday season."
         },
         {
             "definition": "To group items together for processing or treatment.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She is batching the documents for scanning and filing.",
+            "sent2": "The team will batch the orders to streamline the shipping process.",
+            "sent3": "He jokingly suggested batching all the office supplies by color.",
+            "sent4": "The software program allows users to batch photos for editing.",
+            "sent5": "The gardener decided to batch the different types of seeds for planting."
         }
     ]
 }

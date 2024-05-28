@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "past tense of fly",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Yesterday, the bird flew high in the sky.",
+            "sent2": "The butterfly flew gracefully from flower to flower.",
+            "sent3": "The superhero flew faster than a speeding car.",
+            "sent4": "Her dreams flew like colorful kites in the wind.",
+            "sent5": "The paper airplane flew straight and true across the room."
         },
         {
             "definition": "moved quickly through the air",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The kite flew above the park on a windy day.",
+            "sent2": "The baseball flew over the fence for a home run.",
+            "sent3": "The leaves flew around in a whirlwind dance.",
+            "sent4": "Time flew by as they laughed and talked.",
+            "sent5": "The flag flew proudly in the breeze on Independence Day."
         },
         {
             "definition": "traveled by aircraft",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "They took a flew trip to visit their relatives.",
+            "sent2": "The flew passengers enjoyed a smooth flight.",
+            "sent3": "The flew crew made sure everyone was comfortable.",
+            "sent4": "The flew journey offered stunning views from above.",
+            "sent5": "The flew plane landed safely at the airport."
         }
     ]
 }

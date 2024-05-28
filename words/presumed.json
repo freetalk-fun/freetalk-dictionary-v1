@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To suppose that something is true without having evidence to confirm it.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She presumed the package contained her new book.",
+            "sent2": "He presumed the store would be closed on Sundays.",
+            "sent3": "The cat presumed the empty box was a perfect napping spot.",
+            "sent4": "The detective presumed the suspect's innocence until proven guilty.",
+            "sent5": "The scientist presumed the theory to be accurate without further testing."
         },
         {
             "definition": "To take for granted or assume something to be true.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "They presumed the sun would rise every morning.",
+            "sent2": "I presumed you would be at the meeting.",
+            "sent3": "The child presumed the cookie jar was always full.",
+            "sent4": "The traveler presumed the hotel room would have a view of the ocean.",
+            "sent5": "The student presumed the answer to be correct without double-checking."
         },
         {
             "definition": "To believe something to be the case based on probability.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The weather forecast presumed rain for the weekend.",
+            "sent2": "She presumed the train would be delayed due to the storm.",
+            "sent3": "The gambler presumed his lucky streak would continue.",
+            "sent4": "The farmer presumed a good harvest after a season of heavy rain.",
+            "sent5": "The teacher presumed most students would pass the exam with proper preparation."
         }
     ]
 }

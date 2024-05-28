@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A part or element of a larger whole.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The engine is a crucial component of the car.",
+            "sent2": "The wheels are an important component of a bicycle.",
+            "sent3": "The missing component of the recipe was the secret ingredient.",
+            "sent4": "Her smile was a key component in brightening up the room.",
+            "sent5": "The sunlight streaming through the window was a vital component of the morning."
         },
         {
             "definition": "A constituent part or aspect of something.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The flour is a necessary component for baking a cake.",
+            "sent2": "The characters are a vital component of a good story.",
+            "sent3": "The unexpected plot twist became a surprising component of the movie.",
+            "sent4": "His dedication was a fundamental component in achieving success.",
+            "sent5": "The melody played by the violin was a beautiful component of the symphony."
         }
     ]
 }

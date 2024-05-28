@@ -3,19 +3,21 @@
     "meanings": [
         {
             "definition": "A large cup for hot liquids, usually cylindrical in shape with a handle.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "She drank tea from a colorful mug.",
+            "sent2": "He bought a new mug for his morning coffee.",
+            "sent3": "The mug slipped from her hand and broke.",
+            "sent4": "The mug of hot cocoa warmed her hands on a cold day.",
+            "sent5": "The souvenir mug reminded him of his trip to Paris."
         },
         {
             "definition": "To attack or rob someone in a public place.",
-            "pos": "verb"
-        },
-        {
-            "definition": "A person's face.",
-            "pos": "noun"
-        },
-        {
-            "definition": "To make faces, especially silly or exaggerated ones.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The thief mugs unsuspecting victims in crowded areas.",
+            "sent2": "He was mugged while walking home late at night.",
+            "sent3": "The comedian joked about mugging his friend for a snack.",
+            "sent4": "The dark alley was known for muggings late at night.",
+            "sent5": "She learned self-defense to protect herself from being mugged."
         }
     ]
 }

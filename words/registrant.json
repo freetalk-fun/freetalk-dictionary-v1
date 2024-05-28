@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A person who registers or is registered.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The registrant filled out the form with their personal information.",
+            "sent2": "The registrant signed up for the event online.",
+            "sent3": "The registrant accidentally wrote their name in the wrong box on the form.",
+            "sent4": "As a registrant, you are like a member of a club with exclusive access.",
+            "sent5": "The registrant's name was the first on the list, standing out among the others."
         },
         {
             "definition": "An individual whose name is listed on an official register.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The registrant's name was highlighted in the register.",
+            "sent2": "The registrant's details were updated in the official list.",
+            "sent3": "The registrant's name was accidentally misspelled on the register.",
+            "sent4": "Being a registrant is like being part of an important guest list.",
+            "sent5": "The registrant's name stood out on the register, making them easily recognizable."
         }
     ]
 }

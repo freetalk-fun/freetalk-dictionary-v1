@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A thing that can be seen and touched.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The shiny object caught my eye.",
+            "sent2": "She placed the object on the table.",
+            "sent3": "The object seemed to wink at me from the shelf.",
+            "sent4": "His smile was an object of pure joy.",
+            "sent5": "The object felt cold and smooth in my hand."
         },
         {
             "definition": "A goal or purpose.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Her main object is to finish the project on time.",
+            "sent2": "The object of the game is to score the most points.",
+            "sent3": "His object is to make everyone laugh with his jokes.",
+            "sent4": "The object of life is to find happiness.",
+            "sent5": "The object of the meeting is to discuss the new proposal."
         },
         {
             "definition": "To express disagreement or disapproval.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I object to the new rule at school.",
+            "sent2": "She objects to the idea of moving to a new city.",
+            "sent3": "He always objects when it's time to clean his room.",
+            "sent4": "The crowd began to object loudly to the decision.",
+            "sent5": "I object to the way he treats his employees."
         }
     ]
 }

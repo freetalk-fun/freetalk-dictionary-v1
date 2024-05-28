@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A large, densely packed crowd of people or animals.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The throng of fans cheered loudly at the concert.",
+            "sent2": "The city square was filled with a throng of protesters.",
+            "sent3": "The throng of ducks waddled noisily across the park.",
+            "sent4": "The throng of shoppers surged into the store like a tidal wave.",
+            "sent5": "The throng of students rushed out of the school gates at the end of the day."
         },
         {
             "definition": "To gather or move in a large, densely packed group.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "People thronged around the street performer to watch his magic tricks.",
+            "sent2": "The excited children thronged around the ice cream truck.",
+            "sent3": "The tourists thronged to the famous landmark for selfies.",
+            "sent4": "The bees thronged around the hive entrance, buzzing with activity.",
+            "sent5": "The birds thronged together on the power lines, chirping happily."
         },
         {
             "definition": "To fill or be present in large numbers.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The aroma of freshly baked cookies thronged the kitchen.",
+            "sent2": "The memories of childhood thronged her mind as she visited the old playground.",
+            "sent3": "The colorful flowers thronged the garden, creating a beautiful display.",
+            "sent4": "The stars thronged the night sky, twinkling like diamonds.",
+            "sent5": "The sounds of laughter and chatter thronged the bustling marketplace."
         }
     ]
 }

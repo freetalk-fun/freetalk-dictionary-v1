@@ -3,23 +3,48 @@
     "meanings": [
         {
             "definition": "From",
-            "pos": "preposition"
+            "pos": "preposition",
+            "sent1": "She walked de the hill to reach the village.",
+            "sent2": "The letter is de my grandmother.",
+            "sent3": "He accidentally dropped de his pocket.",
+            "sent4": "The river flowed de the mountains.",
+            "sent5": "The bird flew de the tree to its nest."
         },
         {
             "definition": "Down",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "The cat jumped de from the table.",
+            "sent2": "The rain poured de all night.",
+            "sent3": "The balloon slowly floated de to the ground.",
+            "sent4": "The leaves fell de from the tree.",
+            "sent5": "She slid de the slide with joy."
         },
         {
             "definition": "Without",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "He couldn't sleep de his favorite teddy bear.",
+            "sent2": "She completed the puzzle de any help.",
+            "sent3": "The magician performed the trick de using any props.",
+            "sent4": "The child ran de looking back.",
+            "sent5": "The student answered the question de hesitation."
         },
         {
             "definition": "Removal of",
-            "pos": "preposition"
+            "pos": "preposition",
+            "sent1": "The doctor advised de the bandage carefully.",
+            "sent2": "She cleaned the stain de the carpet.",
+            "sent3": "He peeled de the sticker from the book.",
+            "sent4": "The chef removed the bones de the fish.",
+            "sent5": "The painter erased the mistake de the canvas."
         },
         {
             "definition": "Reversal of",
-            "pos": "preposition"
+            "pos": "preposition",
+            "sent1": "The car made a U-turn de the traffic light.",
+            "sent2": "She undid the knot de the rope.",
+            "sent3": "He turned de his decision to quit.",
+            "sent4": "The clock hands moved de their usual direction.",
+            "sent5": "The river changed course de the dam."
         }
     ]
 }

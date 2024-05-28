@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A message sent by telegraph",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I received a telegram from my friend inviting me to a party.",
+            "sent2": "Back in the old days, people used to send important news through telegrams.",
+            "sent3": "The telegram from my grandma made me smile with joy.",
+            "sent4": "Her eyes lit up as if she had received a telegram full of good news.",
+            "sent5": "The telegram arrived with such urgency that I knew it carried important information."
         },
         {
             "definition": "To send a message by telegraph",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I will telegram you the details of the meeting tomorrow.",
+            "sent2": "In the past, people would telegram urgent messages to each other.",
+            "sent3": "I decided to telegram my friend a funny joke to brighten their day.",
+            "sent4": "Her words telegrammed a sense of urgency that made me act quickly.",
+            "sent5": "The way he telegrammed his emotions through the wire was truly touching."
         }
     ]
 }

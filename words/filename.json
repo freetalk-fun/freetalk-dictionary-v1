@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "The name assigned to a file in a computer system.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I saved the document with the filename 'report.doc'.",
+            "sent2": "Make sure to include the correct filename when attaching the file to an email.",
+            "sent3": "The filename of the picture was so long that it made me laugh.",
+            "sent4": "Her filename was like a secret code that only she could decipher.",
+            "sent5": "The filename 'important_notes.txt' reminded me of the crucial information within."
         },
         {
             "definition": "A string of characters that identifies a file stored on a computer.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The filename 'image.jpg' was easy to recognize.",
+            "sent2": "When downloading a file, always check the filename for accuracy.",
+            "sent3": "I accidentally renamed the filename to 'confused.doc'.",
+            "sent4": "The filename acted as a key to unlock the contents of the file.",
+            "sent5": "The filename 'top_secret.pdf' hinted at classified information within."
         }
     ]
 }

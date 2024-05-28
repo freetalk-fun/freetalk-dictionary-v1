@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A gesture, action, or sound used to convey information or instructions.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "She gave me a thumbs-up as a signal to start.",
+            "sent2": "The traffic light turned red, signaling us to stop.",
+            "sent3": "His loud sneeze was a signal for everyone to say 'bless you'.",
+            "sent4": "The sudden silence in the room signaled that something was wrong.",
+            "sent5": "The ringing bell signaled the end of the school day."
         },
         {
             "definition": "An event or act that serves as a sign or indication.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The dark clouds were a signal of an approaching storm.",
+            "sent2": "His smile was a signal of his happiness.",
+            "sent3": "The broken umbrella was a signal that it was time to buy a new one.",
+            "sent4": "The cheers from the crowd were a signal of their support.",
+            "sent5": "The early morning chirping of birds was a signal of the new day."
         },
         {
             "definition": "A device or means of communication, such as a flag or light, used to transmit information.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The lighthouse emits signals to guide ships safely to shore.",
+            "sent2": "The flag on the ship was a signal of distress.",
+            "sent3": "The smoke signals from the campfire were a creative way to communicate.",
+            "sent4": "The flashing lights on the police car were signals for other drivers to move aside.",
+            "sent5": "The radio waves carry signals to our phones for communication."
         }
     ]
 }

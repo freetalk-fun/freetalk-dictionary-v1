@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "An individual feature, fact, or item.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "She carefully examined the tiny details of the painting.",
+            "sent2": "The detective noticed all the important details of the crime scene.",
+            "sent3": "The cat's obsession with the smallest details of the toy mouse was amusing.",
+            "sent4": "The artist's attention to detail in the painting was like a magnifying glass on a leaf.",
+            "sent5": "The intricate details of the snowflake were mesmerizing."
         },
         {
             "definition": "To describe item by item; list.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He meticulously details each step of the recipe in his cooking show.",
+            "sent2": "The historian details the events leading up to the war in his book.",
+            "sent3": "The comedian humorously details the struggles of daily life in his stand-up routine.",
+            "sent4": "She details her emotions like a painter adding layers of color to a canvas.",
+            "sent5": "The teacher details the assignment requirements to ensure clarity for the students."
         }
     ]
 }

@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Connected or joined incorrectly or improperly.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The misconnected wires caused the device to malfunction.",
+            "sent2": "The misconnected puzzle pieces didn't fit together.",
+            "sent3": "The misconnected shoelaces made the shoes look like a mess.",
+            "sent4": "Her misconnected thoughts led to a confusing decision.",
+            "sent5": "The misconnected train tracks caused a major delay."
         },
         {
             "definition": "To connect or join incorrectly or improperly.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He misconnected the cables and the TV wouldn't turn on.",
+            "sent2": "She misconnected the pipes and caused a leak in the kitchen.",
+            "sent3": "The robot misconnected its circuits and started dancing randomly.",
+            "sent4": "The detective misconnected the clues and accused the wrong person.",
+            "sent5": "The magician misconnected the rings and amazed the audience with his trick."
         }
     ]
 }

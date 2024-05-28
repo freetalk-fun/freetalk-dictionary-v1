@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Having a narrow opening or gap",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The cat's eyes were slitted against the bright sunlight.",
+            "sent2": "The slitted window allowed a small amount of air to flow into the room.",
+            "sent3": "The slitted envelope made it difficult to slide the letter inside.",
+            "sent4": "Her slitted smile hinted at a hidden agenda.",
+            "sent5": "The slitted opening in the fence was barely wide enough for the cat to squeeze through."
         },
         {
             "definition": "To make a narrow opening or gap in",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She carefully slitted the fabric to create a stylish fringe.",
+            "sent2": "The thief slitted the bag to steal its contents without being noticed.",
+            "sent3": "He slitted the cake with precision, dividing it into equal slices.",
+            "sent4": "The artist slitted the canvas, revealing a hidden painting underneath.",
+            "sent5": "The chef slitted the pepper to remove the seeds before cooking."
         },
         {
             "definition": "A narrow opening or gap",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The spy peered through the slitted blinds to observe the target.",
+            "sent2": "A slitted in the wall allowed a faint beam of light to enter the dark room.",
+            "sent3": "The costume had a slitted at the back for easy movement.",
+            "sent4": "The old door had a slitted near the bottom, letting in a draft.",
+            "sent5": "The ancient map revealed a hidden slitted leading to a secret chamber."
         }
     ]
 }

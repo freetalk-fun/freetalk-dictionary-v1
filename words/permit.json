@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To allow or give permission for something to happen.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Mom will permit you to go to the park with your friends.",
+            "sent2": "Please permit me to enter the building.",
+            "sent3": "The cat will only permit you to pet her when she's in a good mood.",
+            "sent4": "The teacher will permit extra time for the students to complete the test.",
+            "sent5": "The sign will permit parking for only 30 minutes."
         },
         {
             "definition": "An official document or license that allows someone to do something.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Make sure to carry your permit while fishing in the lake.",
+            "sent2": "The construction worker showed his permit to enter the site.",
+            "sent3": "The permit to drive a car must be renewed annually.",
+            "sent4": "The permit to access the restricted area was carefully checked by security.",
+            "sent5": "The permit to sell food at the event was displayed prominently."
         }
     ]
 }

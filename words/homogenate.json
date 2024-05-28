@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A substance that has been homogenized.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The scientist studied the homogenate under the microscope.",
+            "sent2": "The homogenate was used in the experiment to ensure consistent results.",
+            "sent3": "The chef accidentally spilled the homogenate, creating a messy situation in the kitchen.",
+            "sent4": "The homogenate of flavors in the dish created a harmonious blend of tastes.",
+            "sent5": "The homogenate of colors in the painting made it visually appealing."
         },
         {
             "definition": "To make a homogenate.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The blender will homogenate the ingredients into a smooth mixture.",
+            "sent2": "She needed to homogenate the solution before conducting the experiment.",
+            "sent3": "The machine homogenated the materials with impressive speed.",
+            "sent4": "His speech homogenated the diverse audience into a unified group.",
+            "sent5": "The artist homogenated various styles to create a unique masterpiece."
         }
     ]
 }

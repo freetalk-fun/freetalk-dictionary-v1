@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A unit of time equal to 60 seconds.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I waited for a minute before the bus arrived.",
+            "sent2": "She finished the race in just under a minute.",
+            "sent3": "It took him a minute to realize he was wearing mismatched socks.",
+            "sent4": "The minute felt like an eternity as she waited for the test results.",
+            "sent5": "The minute hand on the clock moved slowly towards the hour."
         },
         {
             "definition": "Extremely small or insignificant.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The spider was so minute that it was barely visible.",
+            "sent2": "His contribution was minute compared to the overall project.",
+            "sent3": "The minute crack on the window caused a draft in the room.",
+            "sent4": "In the vast universe, our problems seem minute.",
+            "sent5": "The minute details in the painting added depth to the artwork."
         },
         {
             "definition": "To pay close attention to detail.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She decided to minute every aspect of the meeting for accuracy.",
+            "sent2": "He would minute the changes in the contract meticulously.",
+            "sent3": "The detective had to minute the suspect's behavior for clues.",
+            "sent4": "As a historian, he would minute the events of the past.",
+            "sent5": "The artist would minute the features of the landscape in his sketch."
         }
     ]
 }

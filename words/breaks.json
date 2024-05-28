@@ -3,19 +3,39 @@
     "meanings": [
         {
             "definition": "To separate into pieces",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She breaks the cookie into two halves.",
+            "sent2": "The hammer breaks the glass vase.",
+            "sent3": "He breaks the chocolate bar to share with his friends.",
+            "sent4": "The earthquake breaks the ground, causing a deep crack.",
+            "sent5": "The strong wind breaks the tree branches, scattering leaves everywhere."
         },
         {
             "definition": "A pause or interruption in an activity",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "During the movie, there is a short breaks for commercials.",
+            "sent2": "After a long day of work, she takes breaks to relax.",
+            "sent3": "The cat takes breaks between chasing the laser pointer.",
+            "sent4": "The breaks in the rain allow the sun to peek through the clouds.",
+            "sent5": "The breaks in the music create suspense before the chorus."
         },
         {
             "definition": "A chance or opportunity to do something",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "He finally gets the breaks he needs to showcase his talent.",
+            "sent2": "She waits for the perfect breaks to ask for a promotion.",
+            "sent3": "Winning the lottery was the lucky breaks they were hoping for.",
+            "sent4": "The unexpected breaks in the schedule give them time to explore the city.",
+            "sent5": "The breaks in traffic allow him to cross the busy street safely."
         },
         {
             "definition": "To fail to follow a rule or law",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He breaks the speed limit while driving on the highway.",
+            "sent2": "She breaks the school rule by using her phone in class.",
+            "sent3": "The naughty puppy breaks the no chewing rule and destroys the shoe.",
+            "sent4": "The criminal breaks the law by stealing from the store.",
+            "sent5": "The student breaks the test rules by looking at someone else's paper."
         }
     ]
 }

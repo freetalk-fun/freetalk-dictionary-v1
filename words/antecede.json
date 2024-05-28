@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To come before in time",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The sunrise will antecede the sunset today.",
+            "sent2": "In history, the invention of the wheel anteceded the discovery of fire.",
+            "sent3": "The early bird always antecedes the lazy cat in waking up.",
+            "sent4": "The sound of thunder antecedes the flash of lightning during a storm.",
+            "sent5": "The alarm clock's ring antecedes the start of a new day."
         },
         {
             "definition": "To precede in order",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Please let the appetizer antecede the main course.",
+            "sent2": "The introduction should antecede the main body of the essay.",
+            "sent3": "The warm-up exercises always antecede the intense workout.",
+            "sent4": "The opening act will antecede the main performance at the concert.",
+            "sent5": "The first step should antecede the rest of the process."
         },
         {
             "definition": "To go before in rank or importance",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "In the military, the general will antecede the colonel in authority.",
+            "sent2": "Experience should antecede ambition in making important decisions.",
+            "sent3": "The safety of the passengers should always antecede the speed of the journey.",
+            "sent4": "Quality should antecede quantity in this particular case.",
+            "sent5": "The health of the employees should antecede profit margins for the company."
         }
     ]
 }

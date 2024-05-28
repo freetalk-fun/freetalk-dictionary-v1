@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Make (someone) appear guilty of a crime or wrongdoing.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The witness's testimony could incriminate the suspect.",
+            "sent2": "The fingerprints found at the scene incriminate the accused.",
+            "sent3": "The detective jokingly said, 'I hope the cookie crumbs don't incriminate you!'",
+            "sent4": "The security footage incriminated the thief beyond doubt.",
+            "sent5": "The incriminating letter left no doubt about the culprit's identity."
         },
         {
             "definition": "Show evidence of involvement in a crime.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The deleted emails could incriminate the suspect.",
+            "sent2": "His alibi did not hold up under the incriminating evidence.",
+            "sent3": "The spilled coffee seemed to incriminate the clumsy coworker.",
+            "sent4": "The mysterious footprints incriminated the intruder in the break-in.",
+            "sent5": "The incriminating video footage revealed the suspect's actions clearly."
         }
     ]
 }

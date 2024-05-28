@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A place or location",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "My favorite sted to relax is by the lake.",
+            "sent2": "The park is a beautiful sted for a picnic.",
+            "sent3": "I accidentally left my keys at the wrong sted again!",
+            "sent4": "Her heart was a lonely sted, filled with memories.",
+            "sent5": "The old house became a haunted sted in my dreams."
         },
         {
             "definition": "In place of or instead of",
-            "pos": "preposition"
+            "pos": "preposition",
+            "sent1": "I will have tea sted of coffee this morning.",
+            "sent2": "She chose to walk sted of taking the bus.",
+            "sent3": "He wore his hat sted of his cap, looking quite silly.",
+            "sent4": "The cat decided to nap on the bed sted of the couch.",
+            "sent5": "The teacher asked for a drawing sted of a written assignment."
         }
     ]
 }

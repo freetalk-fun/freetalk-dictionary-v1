@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A person who buys and sells goods or assets for others.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The broker helped me find a buyer for my old car.",
+            "sent2": "The broker at the market assists customers in making purchases.",
+            "sent3": "The broker joked that he could sell ice to an Eskimo.",
+            "sent4": "She was a broker of rare antiques, always finding the perfect buyer.",
+            "sent5": "The broker's job is to match sellers with interested buyers."
         },
         {
             "definition": "To arrange or negotiate (a deal or transaction).",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I will broker a deal between the two parties.",
+            "sent2": "He brokers agreements between companies to ensure fair terms.",
+            "sent3": "She managed to broker a discount on the car by negotiating skillfully.",
+            "sent4": "The lawyer helped broker a settlement between the feuding neighbors.",
+            "sent5": "The real estate agent worked hard to broker a successful sale of the property."
         },
         {
             "definition": "A person who acts as an intermediary in negotiations.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The broker facilitated communication between the two conflicting parties.",
+            "sent2": "As a broker, he ensures that both sides reach a fair agreement.",
+            "sent3": "The broker playfully suggested a compromise that pleased everyone.",
+            "sent4": "She was known as the broker of peace in the community.",
+            "sent5": "The broker's role is to bridge the gap between opposing views."
         }
     ]
 }

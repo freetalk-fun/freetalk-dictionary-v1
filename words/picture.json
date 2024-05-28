@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A visual representation or image produced by painting, drawing, photography, etc.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I hung a picture of my family on the wall.",
+            "sent2": "She took a picture of the beautiful sunset.",
+            "sent3": "I tried to draw a picture of a cat, but it ended up looking like a potato with whiskers.",
+            "sent4": "Her words painted a picture of a peaceful meadow in my mind.",
+            "sent5": "The picture of the rainbow was so vivid, it felt like I could touch it."
         },
         {
             "definition": "A mental image or impression.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The scary movie painted a picture of monsters in my mind.",
+            "sent2": "His description of the beach created a beautiful picture in my head.",
+            "sent3": "I tried to picture a flying elephant, but my brain said, 'No way!'",
+            "sent4": "The memory of her laughter painted a picture of joy in my heart.",
+            "sent5": "The picture of the haunted house was so real, I could almost hear the creaking doors."
         },
         {
             "definition": "To represent or depict in a visual form.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She will picture the scene in her next painting.",
+            "sent2": "He pictures himself as a famous actor in the future.",
+            "sent3": "I tried to picture my dog wearing sunglasses, and it made me giggle.",
+            "sent4": "Her words painted a picture of a magical world in my imagination.",
+            "sent5": "The artist pictured a serene landscape with vibrant colors in her mind before starting to paint."
         }
     ]
 }

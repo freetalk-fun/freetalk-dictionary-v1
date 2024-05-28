@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Fadged (verb): to manipulate or falsify",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She fadged the numbers to make it look like she had more sales.",
+            "sent2": "He always fadged his resume to make himself seem more qualified.",
+            "sent3": "The magician fadged the cards to trick the audience.",
+            "sent4": "The student fadged his essay to avoid getting caught for plagiarism.",
+            "sent5": "The detective knew the suspect had fadged the evidence to cover up the crime."
         },
         {
             "definition": "Fadged (adjective): worn out or exhausted",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "After a long day of work, she felt fadged and just wanted to relax.",
+            "sent2": "The old car looked fadged with rust and peeling paint.",
+            "sent3": "The tired puppy looked fadged after playing all day in the park.",
+            "sent4": "The marathon runner crossed the finish line looking fadged but triumphant.",
+            "sent5": "The fadged book had been read so many times, the pages were falling out."
         },
         {
             "definition": "Fadged (adverb): in a tired or worn-out manner",
-            "pos": "adverb"
+            "pos": "adverb",
+            "sent1": "She walked fadged to the finish line, exhausted from the race.",
+            "sent2": "The old man moved fadged, with slow and deliberate steps.",
+            "sent3": "The cat yawned fadged after a long nap in the sun.",
+            "sent4": "The wind blew fadged through the trees, rustling the leaves.",
+            "sent5": "The children played all day and returned home fadged, ready for bed."
         }
     ]
 }

@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A melody or sequence of notes that is pleasing to the ear.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The radio played a catchy tune that made everyone dance.",
+            "sent2": "She hummed a familiar tune while walking down the street.",
+            "sent3": "The birds outside seemed to chirp in perfect tune with the music.",
+            "sent4": "Her laughter was like a joyful tune in the quiet room.",
+            "sent5": "The lullaby sung by the mother was a soothing tune for the baby."
         },
         {
             "definition": "To adjust a musical instrument to the correct pitch.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He needed to tune his guitar before the performance.",
+            "sent2": "The pianist carefully tuned the piano before the concert.",
+            "sent3": "Trying to tune the violin without experience was a comical disaster.",
+            "sent4": "Her voice seemed to tune the atmosphere, making it more harmonious.",
+            "sent5": "The mechanic had to tune the engine to make the car run smoothly."
         },
         {
             "definition": "To adjust or adapt something to a particular purpose or situation.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She had to tune her speech to suit the audience's preferences.",
+            "sent2": "The chef needed to tune the recipe to make it healthier.",
+            "sent3": "His attempt to tune the old computer for gaming was amusingly futile.",
+            "sent4": "The team had to tune their strategy to win the match.",
+            "sent5": "The artist had to tune the colors of the painting to create the right mood."
         }
     ]
 }

@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A person sent out to obtain information.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The scouts reported back with valuable information about the enemy's movements.",
+            "sent2": "The scouts in the forest found a hidden trail leading to a secret cave.",
+            "sent3": "The scouts discovered that the squirrels were having a secret meeting in the park.",
+            "sent4": "The scouts' keen eyes were like detectives uncovering hidden clues in the field.",
+            "sent5": "The scouts' job is to gather facts and details like little detectives on a mission."
         },
         {
             "definition": "A member of the Boy Scouts or Girl Scouts.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The scouts helped an elderly lady cross the street safely.",
+            "sent2": "The scouts went camping in the mountains during their summer break.",
+            "sent3": "The scouts' cookie-selling skills were so good, they sold out in a day.",
+            "sent4": "The scouts' kindness shone brightly in the community like a guiding light.",
+            "sent5": "The scouts' motto is to always be prepared for any adventure that comes their way."
         },
         {
             "definition": "To explore an area in order to obtain information.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The team scouts the forest for signs of wildlife before setting up camp.",
+            "sent2": "The explorer scouts the unknown territory, mapping out new paths.",
+            "sent3": "The detective scouts the crime scene for any overlooked clues.",
+            "sent4": "The scientist scouts the ocean floor for rare species of fish.",
+            "sent5": "The astronaut scouts the uncharted planets for signs of alien life."
         }
     ]
 }

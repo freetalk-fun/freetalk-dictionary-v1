@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A small, soft-bodied larva of a fly, typically found in decaying matter.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The magg wriggled in the rotting apple.",
+            "sent2": "The farmer discovered magg in the compost pile.",
+            "sent3": "The chef accidentally added magg to the soup, creating a comical scene.",
+            "sent4": "The corruption in the system spread like magg in a neglected wound.",
+            "sent5": "The smell of decay was overwhelming, filled with the presence of magg."
         },
         {
             "definition": "To be covered in or infested with maggots.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The trash bin magg quickly, attracting flies.",
+            "sent2": "After days in the sun, the meat began to magg.",
+            "sent3": "The picnic leftovers were left out too long and started to magg.",
+            "sent4": "Neglecting the hygiene of the kitchen can cause it to magg with pests.",
+            "sent5": "The abandoned house magg with insects, a sign of neglect."
         },
         {
             "definition": "To waste away or become corrupt.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Leaving food out can cause it to magg and spoil.",
+            "sent2": "Over time, the old documents began to magg and fall apart.",
+            "sent3": "The once beautiful garden began to magg due to neglect.",
+            "sent4": "The company's reputation started to magg after the scandal.",
+            "sent5": "Neglecting self-care can cause one's health to slowly magg away."
         }
     ]
 }

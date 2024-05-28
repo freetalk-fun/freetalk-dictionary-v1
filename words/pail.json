@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A bucket typically having a handle, used for carrying liquids.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I carried water from the well in a pail.",
+            "sent2": "The farmer filled the pail with fresh milk from the cow.",
+            "sent3": "The mischievous kitten jumped into the pail and got all wet.",
+            "sent4": "Her laughter spilled over the room like water from a pail.",
+            "sent5": "The pail gleamed in the sunlight, reflecting the clear water inside."
         },
         {
             "definition": "To bail out water from a boat or ship.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The sailor had to pail out the water to keep the boat afloat.",
+            "sent2": "During the storm, they had to pail water out of the leaking ship.",
+            "sent3": "He joked that he felt like a human pail, constantly emptying water.",
+            "sent4": "Her efforts to pail out the situation were in vain.",
+            "sent5": "The crew worked together to pail out the flooded boat, saving it from sinking."
         }
     ]
 }

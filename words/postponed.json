@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Delayed to a later time.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The postponed meeting will now take place next week.",
+            "sent2": "The game was postponed due to bad weather.",
+            "sent3": "The postponed picnic made everyone sad, but we had a fun indoor party instead.",
+            "sent4": "Her postponed dreams of traveling the world finally came true.",
+            "sent5": "The postponed flight left passengers feeling frustrated and anxious."
         },
         {
             "definition": "Put off until a later time.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She postponed her dentist appointment until next month.",
+            "sent2": "The construction work was postponed until the following week.",
+            "sent3": "He postponed doing his homework by playing video games instead.",
+            "sent4": "The decision to postpone the project led to a rush to meet the deadline later.",
+            "sent5": "The team postponed the celebration until they won the championship."
         }
     ]
 }

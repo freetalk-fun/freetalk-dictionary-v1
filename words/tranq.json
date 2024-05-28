@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A tranquilizer.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The vet gave the dog a tranq to help it relax before the surgery.",
+            "sent2": "The doctor prescribed a tranq to help with the patient's anxiety.",
+            "sent3": "The zookeeper accidentally dropped the tranq dart in the lion's water bowl!",
+            "sent4": "The calming music acted like a tranq on my nerves, soothing me instantly.",
+            "sent5": "The tranquilizer dart hit the target, releasing the powerful tranq into the animal's system."
         },
         {
             "definition": "To administer a tranquilizer to.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The vet needed to tranq the wild bear before it could be safely relocated.",
+            "sent2": "She had to tranq her anxious cat before taking it to the vet.",
+            "sent3": "The zookeeper carefully aimed to tranq the elephant without causing harm.",
+            "sent4": "The tranquilizer gun was used to tranq the escaped tiger in the city.",
+            "sent5": "He had to tranq the agitated horse to calm it down for the veterinarian's examination."
         }
     ]
 }

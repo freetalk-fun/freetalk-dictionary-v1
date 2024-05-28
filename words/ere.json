@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Before",
-            "pos": "preposition"
+            "pos": "preposition",
+            "sent1": "We must finish our homework ere dinner time.",
+            "sent2": "The sun sets ere the night falls.",
+            "sent3": "Let's leave ere the rain starts pouring.",
+            "sent4": "The birds chirp ere the dawn breaks.",
+            "sent5": "He always arrives ere the meeting begins."
         },
         {
             "definition": "Until",
-            "pos": "conjunction"
+            "pos": "conjunction",
+            "sent1": "I will wait ere you return.",
+            "sent2": "She will study ere she understands the lesson.",
+            "sent3": "I will keep singing ere my voice gives out.",
+            "sent4": "He will keep running ere he reaches the finish line.",
+            "sent5": "They will play ere the sun sets."
         },
         {
             "definition": "In front of",
-            "pos": "preposition"
+            "pos": "preposition",
+            "sent1": "The cat sat ere the fireplace.",
+            "sent2": "She stood ere the mirror, fixing her hair.",
+            "sent3": "The dog lay ere the door, waiting to be let in.",
+            "sent4": "The flowers bloomed ere the garden gate.",
+            "sent5": "The children played ere the school building."
         }
     ]
 }

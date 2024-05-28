@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A plan for carrying out a process or procedure.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "My teacher gave me a schedule for completing my homework assignments.",
+            "sent2": "The schedule for the school day is posted on the bulletin board.",
+            "sent3": "I forgot my schedule at home, so I didn't know which class to go to next!",
+            "sent4": "Her daily schedule is like a well-organized puzzle, fitting all the pieces perfectly.",
+            "sent5": "Following a schedule helps me stay on track and get things done efficiently."
         },
         {
             "definition": "A list of planned events or activities showing the times or dates when they are intended to happen.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The concert schedule listed all the upcoming performances.",
+            "sent2": "I checked the schedule to see when the movie was playing.",
+            "sent3": "The schedule for the party had to be changed due to bad weather.",
+            "sent4": "The schedule of events for the festival was packed with exciting activities.",
+            "sent5": "Having a clear schedule helps avoid conflicts and confusion about plans."
         },
         {
             "definition": "To arrange or plan events or activities to take place at a particular time.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I need to schedule a meeting with my boss to discuss my project.",
+            "sent2": "She schedules her workouts in the morning to start the day off right.",
+            "sent3": "I accidentally scheduled two appointments at the same time!",
+            "sent4": "The team captain schedules regular practice sessions to improve performance.",
+            "sent5": "Remember to schedule some time for relaxation and self-care in your busy day."
         }
     ]
 }

@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A range of frequencies within a signal that are allowed to pass through a filter.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The bandpass of the radio receiver was set to pick up only the music station.",
+            "sent2": "The technician adjusted the bandpass to focus on the desired frequency range.",
+            "sent3": "I tried to listen to the news on my old radio, but the bandpass seemed to only catch static!",
+            "sent4": "Her mind was like a bandpass, filtering out distractions and focusing on the task at hand.",
+            "sent5": "The bandpass of the amplifier highlighted the bass notes, making the music richer."
         },
         {
             "definition": "To filter a signal to only allow a specific range of frequencies to pass through.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The engineer needed to bandpass the audio signal for better clarity.",
+            "sent2": "She used the software to bandpass the noise from the recording.",
+            "sent3": "The cat seemed to bandpass out the sound of the vacuum cleaner with a loud purr.",
+            "sent4": "His focus bandpassed out all distractions, allowing him to finish the project on time.",
+            "sent5": "The bandpassing of the internet connection improved the streaming quality significantly."
         }
     ]
 }

@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A small insect",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I saw many bugs crawling on the ground.",
+            "sent2": "The bugs in the garden are colorful.",
+            "sent3": "The bugs seemed to be having a party on the flower.",
+            "sent4": "The bugs buzzed around like tiny helicopters.",
+            "sent5": "The bugs with wings looked like miniature airplanes."
         },
         {
             "definition": "A defect or problem in a computer program",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The software engineer fixed the bugs in the code.",
+            "sent2": "Finding bugs in the program can be challenging.",
+            "sent3": "The bugs in the system were causing chaos in the office.",
+            "sent4": "The bugs in the code multiplied like digital gremlins.",
+            "sent5": "The bugs in the software made the computer crash repeatedly."
         },
         {
             "definition": "To annoy or bother someone",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Stop it, you're really bugs me with your constant questions.",
+            "sent2": "Her little brother bugs her by following her around.",
+            "sent3": "The way he sings off-key bugs everyone in the room.",
+            "sent4": "The sound of the dripping faucet bugs me like a persistent drumbeat.",
+            "sent5": "The way he chews loudly bugs me more than anything else."
         }
     ]
 }

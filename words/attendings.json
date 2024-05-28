@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Attendings: plural form of attending, meaning those who are present or in attendance",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "During the meeting, the attendings shared their thoughts on the project.",
+            "sent2": "The attendings at the conference listened attentively to the speaker.",
+            "sent3": "The attendings at the party were the first to hit the dance floor.",
+            "sent4": "The attendings in the audience nodded in agreement with the speaker.",
+            "sent5": "The hospital's attendings always provide valuable insights during rounds."
         },
         {
             "definition": "Attendings: present participial form of attend, meaning to be present at an event or gathering",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She enjoys attending concerts and music festivals.",
+            "sent2": "We will be attending the wedding ceremony next weekend.",
+            "sent3": "The cat surprised us by attending the family dinner.",
+            "sent4": "The stars attending the award show shone brightly on the red carpet.",
+            "sent5": "He was attending the important business meeting when the phone rang."
         }
     ]
 }

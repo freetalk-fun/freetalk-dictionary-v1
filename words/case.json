@@ -3,19 +3,39 @@
     "meanings": [
         {
             "definition": "An instance of a particular situation or scenario.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "In this case, the student forgot to bring their homework to school.",
+            "sent2": "Let me give you another case where the team won the championship.",
+            "sent3": "It was a funny case when the cat got stuck in the tree and refused to come down.",
+            "sent4": "Her smile was a case of pure joy that brightened up the room.",
+            "sent5": "The case of the missing keys remained unsolved for days."
         },
         {
             "definition": "A container designed to hold or protect something.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Please hand me the pencil case from the desk.",
+            "sent2": "The phone case protected the device from getting scratched.",
+            "sent3": "The lunch case opened up to reveal a delicious sandwich inside.",
+            "sent4": "Her heart was a fragile case, easily broken by harsh words.",
+            "sent5": "The jewelry case displayed sparkling diamonds and pearls."
         },
         {
             "definition": "A legal action or lawsuit.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The lawyer prepared a strong case for the trial.",
+            "sent2": "The judge dismissed the case due to lack of evidence.",
+            "sent3": "It was a strange case where the defendant turned out to be innocent.",
+            "sent4": "The case between the two companies dragged on for months.",
+            "sent5": "The case of the stolen car was finally solved by the detective."
         },
         {
             "definition": "A grammatical category indicating the relationship of a noun to a verb or preposition.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "In this case, the noun 'dog' is the subject of the sentence.",
+            "sent2": "The genitive case shows possession, like 'the dog's bone'.",
+            "sent3": "It was a tricky case to determine the correct prepositional phrase.",
+            "sent4": "The accusative case marks the direct object in a sentence.",
+            "sent5": "The dative case indicates the indirect object receiving the action."
         }
     ]
 }

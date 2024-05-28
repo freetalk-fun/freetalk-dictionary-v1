@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A long journey involving travel by sea or space.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The family embarked on a voyage across the ocean.",
+            "sent2": "The pirates set sail on a dangerous voyage to find hidden treasure.",
+            "sent3": "The penguins went on a voyage to explore the icy waters, but got lost in a sea of fish.",
+            "sent4": "Her voyage through the galaxy of books led her to discover new worlds of imagination.",
+            "sent5": "The voyage to the moon was filled with wonder and excitement."
         },
         {
             "definition": "To travel or journey, especially by sea.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "They decided to voyage to the tropical island for their vacation.",
+            "sent2": "The explorers voyaged across the vast ocean in search of new lands.",
+            "sent3": "The cat tried to voyage across the bathtub but quickly changed its mind.",
+            "sent4": "Her dreams voyaged to distant lands while she slept peacefully.",
+            "sent5": "The paper boat voyaged down the stream, carried by the gentle current."
         }
     ]
 }

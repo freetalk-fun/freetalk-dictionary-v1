@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A person who attests or gives testimony.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The attestant in court confidently shared what they witnessed.",
+            "sent2": "The witness was an attestant to the crime.",
+            "sent3": "The attestant at the trial accidentally spilled their coffee on the stand.",
+            "sent4": "Her expression was an attestant to her disbelief.",
+            "sent5": "The attestant's words echoed in the courtroom, leaving a lasting impact."
         },
         {
             "definition": "Serving as evidence or proof.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The signed document was an attestant of their agreement.",
+            "sent2": "The fingerprints on the weapon were attestant of his presence at the scene.",
+            "sent3": "The overflowing trash can was an attestant of a busy day at the office.",
+            "sent4": "The dark clouds were an attestant of the impending storm.",
+            "sent5": "The broken window was a clear attestant of a break-in."
         }
     ]
 }

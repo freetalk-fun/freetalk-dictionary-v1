@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A small piece of paper, fabric, plastic, or similar material attached to an object and inscribed with information.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The labeled on the jar showed the expiry date.",
+            "sent2": "She read the labeled on the shirt to check the size.",
+            "sent3": "The labeled on the lost toy helped reunite it with its owner.",
+            "sent4": "The labeled on the map guided them through the forest.",
+            "sent5": "The labeled on the plant indicated its species."
         },
         {
             "definition": "To attach a label to something.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He carefully labeled each box with its contents.",
+            "sent2": "Remember to labeled the folders for easy organization.",
+            "sent3": "She labeled her friend as the 'Queen of Puns' for her witty jokes.",
+            "sent4": "The chef labeled the spice as 'extra hot' to warn customers.",
+            "sent5": "The students labeled their experiment bottles to avoid mix-ups."
         },
         {
             "definition": "To describe or categorize someone or something in a particular way.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The teacher labeled the project as 'outstanding'.",
+            "sent2": "It's not fair to labeled people based on their appearance.",
+            "sent3": "He jokingly labeled himself as the 'King of Snacks' for his love of chips.",
+            "sent4": "The media often labels celebrities with catchy nicknames.",
+            "sent5": "She labeled the bookshelves to know where each genre is placed."
         }
     ]
 }

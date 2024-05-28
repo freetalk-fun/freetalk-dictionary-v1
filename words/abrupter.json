@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Characterized by sudden or unexpected changes",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The storm was abrupter than we anticipated, catching us off guard.",
+            "sent2": "Her abrupter decision to leave the party surprised everyone.",
+            "sent3": "The abrupter weather changes made the picnic a chaotic adventure.",
+            "sent4": "The abrupter shifts in his mood were like a rollercoaster ride.",
+            "sent5": "The abrupter shifts in temperature made it hard to dress appropriately."
         },
         {
             "definition": "Someone or something that causes sudden or unexpected changes",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The new manager was an abrupter in the office, shaking things up.",
+            "sent2": "The arrival of the package was the abrupter of our peaceful evening.",
+            "sent3": "The mischievous puppy was the abrupter of calm in the house.",
+            "sent4": "The magician was an abrupter of reality, making the audience gasp.",
+            "sent5": "The unexpected guest was the abrupter of the quiet family dinner."
         },
         {
             "definition": "To make something sudden or unexpected",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She decided to abruptly change her hair color, abruptlying her appearance.",
+            "sent2": "The magician abruptlyed the rabbit out of the hat, surprising the audience.",
+            "sent3": "He abruptlyed the meeting by announcing a surprise team-building activity.",
+            "sent4": "The chef abruptlyed the dish with a unique ingredient, delighting the diners.",
+            "sent5": "The thunderstorm abruptlyed our plans for a picnic in the park."
         }
     ]
 }

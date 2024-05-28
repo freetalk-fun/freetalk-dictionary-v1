@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A radio or television broadcast of news.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I watched the newscast on TV last night.",
+            "sent2": "The newscast provided updates on the weather and traffic.",
+            "sent3": "The newscast made me laugh with its funny weather report.",
+            "sent4": "The newscast was a beacon of information in a sea of uncertainty.",
+            "sent5": "The newscast painted a vivid picture of the day's events."
         },
         {
             "definition": "To broadcast news.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The radio station will newscast the latest headlines at noon.",
+            "sent2": "They newscast important announcements to the public.",
+            "sent3": "I newscasted the neighborhood gossip to my friends.",
+            "sent4": "Her voice newscasted across the room, capturing everyone's attention.",
+            "sent5": "The loudspeaker newscasts the emergency instructions clearly."
         }
     ]
 }

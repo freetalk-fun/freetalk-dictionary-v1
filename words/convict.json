@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A person found guilty of a criminal offense and serving a sentence of imprisonment.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The convict wore a striped uniform in prison.",
+            "sent2": "The judge sentenced the convict to five years in jail.",
+            "sent3": "The convict tried to escape by digging a tunnel with a spoon.",
+            "sent4": "Her criminal record made her feel like a convict in society.",
+            "sent5": "The convict's regret for his actions was evident in his eyes."
         },
         {
             "definition": "To declare guilty of an offense in a court of law.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The jury will convict the suspect based on the evidence.",
+            "sent2": "The prosecutor aimed to convict the defendant of the crime.",
+            "sent3": "The lawyer's argument was so convincing that it could easily convict the accused.",
+            "sent4": "The truth will convict the liar in due time.",
+            "sent5": "The judge's decision to convict the criminal was just and fair."
         },
         {
             "definition": "To prove or show to be guilty.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The fingerprints found at the scene helped convict the thief.",
+            "sent2": "The video footage was crucial to convicting the suspect.",
+            "sent3": "The detective's keen observation skills could easily convict the culprit.",
+            "sent4": "His own words would eventually convict him of the crime.",
+            "sent5": "The evidence presented in court was enough to convict the perpetrator."
         }
     ]
 }

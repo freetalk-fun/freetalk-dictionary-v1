@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Declare invalid",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The judge annuls the contract due to a mistake.",
+            "sent2": "The court annuls the marriage after discovering fraud.",
+            "sent3": "The magician annuls the spell with a wave of his wand.",
+            "sent4": "The storm annuls all plans for the outdoor event.",
+            "sent5": "The teacher annuls the test results and decides on a retest."
         },
         {
             "definition": "Cancel",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She annuls her subscription to the magazine.",
+            "sent2": "The airline annuls the flight due to bad weather.",
+            "sent3": "The chef annuls the order for lack of ingredients.",
+            "sent4": "The noise from the party annuls any chance of sleep.",
+            "sent5": "The company annuls the contract with the unreliable supplier."
         },
         {
             "definition": "Revoke",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The government annuls the driver's license for reckless driving.",
+            "sent2": "The school annuls the scholarship for failing grades.",
+            "sent3": "The referee annuls the goal due to a foul.",
+            "sent4": "The judge annuls the bail for violating the terms.",
+            "sent5": "The company annuls the permit for environmental violations."
         }
     ]
 }

@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Requests for something to be done or provided.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The teacher's demands for homework were clear and fair.",
+            "sent2": "The demands of the job included answering phone calls and emails.",
+            "sent3": "The demands of the picky eater made it challenging to cook dinner.",
+            "sent4": "The demands of the project weighed heavily on the team's shoulders.",
+            "sent5": "The demands of the marathon race pushed the runners to their limits."
         },
         {
             "definition": "Requires as necessary.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She demands a lot of patience when teaching young children.",
+            "sent2": "The job demands attention to detail and strong organizational skills.",
+            "sent3": "The recipe demands precise measurements to turn out perfectly.",
+            "sent4": "His new role demands quick decision-making under pressure.",
+            "sent5": "The challenging hike demands physical endurance and mental toughness."
         },
         {
             "definition": "Commands or orders.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The general demands respect from all soldiers under his command.",
+            "sent2": "The coach demands discipline and dedication from the team.",
+            "sent3": "The toddler demands to be carried everywhere like a little king.",
+            "sent4": "The CEO demands excellence in all aspects of the company's operations.",
+            "sent5": "The judge demands silence in the courtroom during proceedings."
         }
     ]
 }

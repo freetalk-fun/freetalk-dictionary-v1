@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To require beforehand",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Studying prerequires focus and dedication.",
+            "sent2": "Completing the assignment prerequires careful planning.",
+            "sent3": "Forgetting your textbook at home prerequires some creative problem-solving.",
+            "sent4": "Success prerequires laying a strong foundation.",
+            "sent5": "Prerequiring effort leads to great results."
         },
         {
             "definition": "Something that is required beforehand",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Patience is a prerequire for learning new skills.",
+            "sent2": "A valid ID is a prerequire for entering the building.",
+            "sent3": "Bringing snacks to the movie theater is a funny prerequirement.",
+            "sent4": "Trust is the prerequire to a strong relationship.",
+            "sent5": "Understanding the basics is a prerequire for advanced topics."
         }
     ]
 }

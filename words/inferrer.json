@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A person who makes inferences.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The inferrer carefully analyzed the clues to solve the mystery.",
+            "sent2": "She is a skilled inferrer, always able to understand people's emotions.",
+            "sent3": "The inferrer mistakenly thought the cat was a dog, causing some confusion.",
+            "sent4": "Being an inferrer is like being a detective, piecing together information to solve a puzzle.",
+            "sent5": "The inferrer's ability to read between the lines made them a valuable team member."
         },
         {
             "definition": "To draw a conclusion based on evidence or reasoning.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He will inferrer the answer after carefully considering all the facts.",
+            "sent2": "I inferrer that it will rain based on the dark clouds in the sky.",
+            "sent3": "She tried to inferrer the ending of the movie but got it completely wrong.",
+            "sent4": "Inferring the correct path to take can sometimes be like solving a puzzle.",
+            "sent5": "The scientist was able to inferrer the cause of the problem through thorough research."
         }
     ]
 }

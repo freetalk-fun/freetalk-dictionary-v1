@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Containing or resembling spam",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The email looked spammy with all those flashy ads.",
+            "sent2": "The website had a spammy feel with pop-ups everywhere.",
+            "sent3": "I couldn't trust the spammy website with all its strange links.",
+            "sent4": "The spammy design of the flyer made it hard to take seriously.",
+            "sent5": "The spammy smell of the canned meat lingered in the room."
         },
         {
             "definition": "Sending unsolicited messages or advertisements",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Receiving spammy emails can be annoying.",
+            "sent2": "The company sent out spammy messages to everyone.",
+            "sent3": "The mailbox was full of spammy flyers for weight loss products.",
+            "sent4": "The spammy texts flooded her phone every day.",
+            "sent5": "The spammy calls interrupted his peaceful evening."
         },
         {
             "definition": "Excessive or unwanted content on the internet",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The website was full of spammy links to clickbait articles.",
+            "sent2": "Avoid clicking on spammy websites to protect your computer.",
+            "sent3": "The spammy pop-ups made it hard to read the actual content.",
+            "sent4": "Her social media feed was cluttered with spammy posts.",
+            "sent5": "The spammy ads kept popping up no matter where she clicked."
         }
     ]
 }

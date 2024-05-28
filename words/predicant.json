@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A person who makes a prediction.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The predicant said it would rain tomorrow.",
+            "sent2": "The predicant accurately predicted the outcome of the game.",
+            "sent3": "The predicant jokingly claimed to foresee the future.",
+            "sent4": "She was like a predicant, foreseeing the events before they happened.",
+            "sent5": "The predicant's predictions were always spot on."
         },
         {
             "definition": "Capable of being predicted or foretold.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The weather patterns were quite predicant.",
+            "sent2": "The scientist studied the predicant behavior of the chemical reaction.",
+            "sent3": "It was a predicant decision to bring an umbrella on a cloudy day.",
+            "sent4": "The outcome was as predicant as the rising sun.",
+            "sent5": "Her actions were so predicant, you could almost see them coming."
         }
     ]
 }

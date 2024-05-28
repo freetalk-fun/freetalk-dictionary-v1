@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A response to a question or problem.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "She gave the correct answer to the math problem.",
+            "sent2": "The teacher asked a question, and the student raised her hand to give the answer.",
+            "sent3": "The answer to the riddle was so obvious that everyone laughed.",
+            "sent4": "His smile was the answer to her bad day.",
+            "sent5": "The answer echoed in the empty room, filling it with certainty."
         },
         {
             "definition": "To respond to a question or problem.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He will answer the phone when it rings.",
+            "sent2": "Please answer the door when someone knocks.",
+            "sent3": "The cat will answer if you call its name.",
+            "sent4": "Her hard work will answer all doubts about her abilities.",
+            "sent5": "The flowers in bloom answer the call of spring."
         },
         {
             "definition": "A solution to a question or problem.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The key to the puzzle was the final answer.",
+            "sent2": "After much thought, she finally found the answer to the mystery.",
+            "sent3": "The answer to the traffic jam was taking a different route.",
+            "sent4": "Laughter is often the answer to a bad day.",
+            "sent5": "The answer to the equation was revealed after hours of work."
         }
     ]
 }

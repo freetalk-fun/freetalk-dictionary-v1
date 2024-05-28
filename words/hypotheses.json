@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A supposition or proposed explanation made on the basis of limited evidence as a starting point for further investigation.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Scientists test different hypotheses to find out more about the world.",
+            "sent2": "In science class, we learned how to form hypotheses before conducting experiments.",
+            "sent3": "The idea that aliens built the pyramids is an amusing hypothesis.",
+            "sent4": "Her hypothesis that eating carrots improves vision was proven wrong.",
+            "sent5": "The detective had many hypotheses about who committed the crime."
         },
         {
             "definition": "A proposition made as a basis for reasoning, without any assumption of its truth.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The philosopher presented several hypotheses to challenge existing beliefs.",
+            "sent2": "In philosophy, hypotheses are used to explore different possibilities.",
+            "sent3": "It's amusing to think about wild hypotheses without any evidence.",
+            "sent4": "His hypothesis that all swans are white was shattered when he saw a black swan.",
+            "sent5": "The hypothesis that cats have nine lives is just a myth."
         }
     ]
 }

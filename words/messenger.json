@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "One who carries messages or performs errands.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The messenger brought a letter to the king.",
+            "sent2": "The messenger delivered the package to the customer.",
+            "sent3": "The messenger ran through the town, delivering news to everyone.",
+            "sent4": "The messenger of peace spread goodwill wherever he went.",
+            "sent5": "The messenger's swift feet ensured the message reached its destination on time."
         },
         {
             "definition": "A person who delivers messages or information.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The messenger handed the note to the teacher.",
+            "sent2": "The messenger informed the team about the meeting.",
+            "sent3": "The messenger always had the latest gossip to share.",
+            "sent4": "The messenger's words were like a soothing balm to her ears.",
+            "sent5": "The messenger's presence always brought a sense of urgency to the situation."
         },
         {
             "definition": "A program or system that delivers messages between users.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The messenger app notified her of new messages.",
+            "sent2": "The messenger system allowed instant communication between friends.",
+            "sent3": "The messenger software made chatting with friends fun and easy.",
+            "sent4": "The messenger platform connected people across the globe.",
+            "sent5": "The messenger service ensured messages reached their recipients promptly."
         }
     ]
 }

@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Involve as a necessary consequence.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Not studying for the test will entail a low grade.",
+            "sent2": "Eating too much candy may entail a stomach ache.",
+            "sent3": "Forgetting your umbrella might entail getting wet in the rain.",
+            "sent4": "Skipping breakfast can entail feeling hungry later in the day.",
+            "sent5": "Procrastinating often entails rushing to finish tasks at the last minute."
         },
         {
             "definition": "Restrict the inheritance of (property) to a specified line of heirs.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The will entails that the house goes to the eldest son.",
+            "sent2": "The trust fund is set up to entail the money to future generations.",
+            "sent3": "The ancient tradition may entail passing down the family heirloom to the next generation.",
+            "sent4": "The legal document will entail the distribution of assets among the designated beneficiaries.",
+            "sent5": "The royal decree entails that the crown jewels are to be inherited by the rightful heir."
         },
         {
             "definition": "A restriction or limitation.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The rules of the game serve as an entail to fair play.",
+            "sent2": "The contract includes an entail on the use of company resources.",
+            "sent3": "The entail on screen time for kids is often a topic of debate among parents.",
+            "sent4": "The entail on the number of guests at the event caused some inconvenience.",
+            "sent5": "The entail on the speed limit ensures safety on the roads."
         }
     ]
 }

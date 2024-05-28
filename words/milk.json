@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A white liquid produced by female mammals to nourish their young.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The baby drank the milk from its mother.",
+            "sent2": "I poured milk over my cereal for breakfast.",
+            "sent3": "The mischievous kitten knocked over the milk jug.",
+            "sent4": "Her kindness was like a soothing milk to my soul.",
+            "sent5": "The milk was so fresh, it tasted like a cloud in a glass."
         },
         {
             "definition": "To draw milk from (a cow or other mammal).",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The farmer milks the cows every morning.",
+            "sent2": "She learned how to milk a goat at the farm.",
+            "sent3": "He tried to milk the cat, but it didn't work.",
+            "sent4": "The con artist tried to milk money from unsuspecting victims.",
+            "sent5": "The magician seemed to milk coins out of thin air."
         },
         {
             "definition": "To exploit or defraud (someone), especially by taking money from them.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The scammer tried to milk the elderly couple out of their savings.",
+            "sent2": "She realized too late that he was trying to milk her for all she had.",
+            "sent3": "The salesman attempted to milk the customer by selling fake products.",
+            "sent4": "The corrupt politician was known to milk public funds for personal gain.",
+            "sent5": "The greedy businessman would milk any opportunity for profit."
         }
     ]
 }

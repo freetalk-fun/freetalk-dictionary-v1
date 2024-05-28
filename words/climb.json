@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To move upward, especially by using the hands and feet.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I climb the stairs to reach the top floor.",
+            "sent2": "She loves to climb trees in the park.",
+            "sent3": "The cat tried to climb the curtains but failed miserably.",
+            "sent4": "His determination helped him climb the ladder of success.",
+            "sent5": "The hiker had to climb the steep mountain to see the breathtaking view."
         },
         {
             "definition": "To ascend or rise gradually.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The hot air balloon slowly began to climb into the sky.",
+            "sent2": "Plants need sunlight to climb towards the light.",
+            "sent3": "The price of the house continued to climb, much to the buyer's dismay.",
+            "sent4": "Her spirits started to climb as she received positive feedback.",
+            "sent5": "The airplane engines roared as it started to climb higher into the clouds."
         },
         {
             "definition": "An upward slope or inclination.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The climb to the top of the hill was challenging but rewarding.",
+            "sent2": "The mountain trail had a steep climb that tested the hiker's endurance.",
+            "sent3": "The roller coaster's sudden climb made everyone scream with excitement.",
+            "sent4": "The climb in temperature signaled the start of summer.",
+            "sent5": "The climb on the graph showed a steady increase in sales."
         }
     ]
 }

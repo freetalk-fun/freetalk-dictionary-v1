@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Four",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "I have quatres apples in my basket.",
+            "sent2": "There are quatres seasons in a year.",
+            "sent3": "The quatres corners of the square were perfectly aligned.",
+            "sent4": "The quatres legs of the table provided stability.",
+            "sent5": "She wore a dress with quatres pockets."
         },
         {
             "definition": "A card game for four players",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Let's play a game of quatres tonight.",
+            "sent2": "The family gathered around to play quatres.",
+            "sent3": "During the party, they decided to play a round of quatres.",
+            "sent4": "He always wins at quatres due to his strategic skills.",
+            "sent5": "The children enjoyed learning how to play quatres together."
         },
         {
             "definition": "A French word for 'four'",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "In French, 'quatres' means four.",
+            "sent2": "She counted 'un, deux, trois, quatres' in French.",
+            "sent3": "The chef added quatres eggs to the recipe.",
+            "sent4": "The team consisted of quatres members.",
+            "sent5": "The clock struck quatres, indicating it was time to leave."
         }
     ]
 }

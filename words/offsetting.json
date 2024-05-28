@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To counterbalance or compensate for something",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She tried offsetting her carbon footprint by planting trees.",
+            "sent2": "The company decided to offset their expenses by increasing sales.",
+            "sent3": "The cat tried offsetting its weight by sitting on the other side of the scale.",
+            "sent4": "His kindness was like offsetting the negativity in the room.",
+            "sent5": "The bright colors offsetting against the dark background created a striking contrast."
         },
         {
             "definition": "A position or amount that counteracts or balances another position or amount",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The financial offsetting helped maintain the budget balance.",
+            "sent2": "The offsetting of power between the two teams made the game exciting.",
+            "sent3": "The offsetting of flavors in the dish created a unique taste.",
+            "sent4": "The offsetting of opinions in the meeting led to a productive discussion.",
+            "sent5": "The offsetting of forces in physics is crucial for equilibrium."
         }
     ]
 }

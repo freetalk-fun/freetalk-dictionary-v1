@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A flat, typically round piece of metal with an official stamp, used as money.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I found some shiny coins in my piggy bank.",
+            "sent2": "The cashier handed me my change in coins.",
+            "sent3": "The magician pulled a coin from behind my ear.",
+            "sent4": "Her smile was like a coin, bright and valuable.",
+            "sent5": "The sound of coins jingling in his pocket was music to his ears."
         },
         {
             "definition": "To make (metal) into coins.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The blacksmith coins the metal into perfect circles.",
+            "sent2": "She carefully coins the silver into unique shapes.",
+            "sent3": "He tried to coin a new word, but it didn't catch on.",
+            "sent4": "Her laughter seemed to coin the air around her.",
+            "sent5": "The artist's hands deftly coin the metal into intricate designs."
         },
         {
             "definition": "To make (money) by stamping metal.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The mint coins currency for the country.",
+            "sent2": "They coin commemorative coins for special events.",
+            "sent3": "He tried to coin his own currency, but it was illegal.",
+            "sent4": "Her success seemed to coin her wealth effortlessly.",
+            "sent5": "The company decided to coin a new marketing strategy to increase sales."
         }
     ]
 }

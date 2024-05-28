@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "The digit 0.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "In math, we use zeroes to represent nothing.",
+            "sent2": "The phone number had several zeroes in it.",
+            "sent3": "The calculator was sad because it couldn't find any zeroes to play with.",
+            "sent4": "The field was covered in snow, creating a landscape of white zeroes.",
+            "sent5": "The teacher drew a big zero on the board to show the concept clearly."
         },
         {
             "definition": "To adjust to zero.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I had to zeroes the scale before weighing the ingredients.",
+            "sent2": "Make sure to zeroes the thermostat to the right temperature.",
+            "sent3": "The chef accidentally zeroes the oven too low, causing the cake to take forever to bake.",
+            "sent4": "She zeroes the volume on the TV, making it completely silent.",
+            "sent5": "Before starting the experiment, remember to zeroes the measuring cup accurately."
         },
         {
             "definition": "To aim or concentrate on something.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "During the game, the player zeroes on the target to score a goal.",
+            "sent2": "She zeroes her attention on the book, blocking out all distractions.",
+            "sent3": "The detective zeroes in on the suspect, ready to solve the case.",
+            "sent4": "His mind zeroes on the task at hand, determined to finish it quickly.",
+            "sent5": "The artist zeroes on the details of the painting, making it come to life."
         }
     ]
 }

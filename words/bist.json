@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Second person singular form of the verb 'to be'.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "You bist happy today.",
+            "sent2": "Yesterday, you bist at the park.",
+            "sent3": "When you bist sleepy, you yawn a lot.",
+            "sent4": "In the play, the actor bist a brave knight.",
+            "sent5": "If you bist kind, others will appreciate you."
         },
         {
             "definition": "Past tense of the verb 'to be'.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She bist very excited yesterday.",
+            "sent2": "Last week, they bist at the concert.",
+            "sent3": "The cat bist very curious about the new toy.",
+            "sent4": "The old house bist once a grand mansion.",
+            "sent5": "The stars bist bright in the night sky."
         }
     ]
 }

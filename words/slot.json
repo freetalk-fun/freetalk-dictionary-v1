@@ -3,19 +3,39 @@
     "meanings": [
         {
             "definition": "A narrow opening or groove",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The coin got stuck in the slot of the vending machine.",
+            "sent2": "She slid the paper into the slot of the mailbox.",
+            "sent3": "The key perfectly fit into the slot of the door lock.",
+            "sent4": "The sunlight streamed through the slot in the curtains.",
+            "sent5": "The cat squeezed through the narrow slot in the fence."
         },
         {
             "definition": "A time assigned for a specific task or activity",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "His lunch break was scheduled in the afternoon slot.",
+            "sent2": "The meeting was set for the morning slot.",
+            "sent3": "She managed to squeeze a quick nap into her lunch slot.",
+            "sent4": "The movie premiere was in the prime time slot on TV.",
+            "sent5": "The dentist appointment filled the last available slot for the day."
         },
         {
             "definition": "A position in a list or schedule",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Her name was in the first slot on the sign-up sheet.",
+            "sent2": "The team secured a top slot in the competition rankings.",
+            "sent3": "He accidentally double-booked himself in two slots.",
+            "sent4": "The concert tickets sold out quickly, leaving no slots available.",
+            "sent5": "The presentation was moved to a later slot in the agenda."
         },
         {
             "definition": "To fit into or assign to a slot",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She managed to slot all the puzzle pieces together.",
+            "sent2": "He slotted the book neatly onto the shelf.",
+            "sent3": "The teacher slotted the students into groups for the project.",
+            "sent4": "The mechanic expertly slotted the new part into place.",
+            "sent5": "He carefully slotted the key into the lock and turned it."
         }
     ]
 }

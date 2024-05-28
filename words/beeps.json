@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A short, high-pitched sound typically made by electronic devices.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The beeps from the microwave signaled that the food was ready.",
+            "sent2": "I heard beeps coming from the computer when it started up.",
+            "sent3": "The beeps from the alarm clock woke me up in the morning.",
+            "sent4": "The beeps of the car horn startled the pedestrians.",
+            "sent5": "The beeps of the smoke detector warned us of a fire."
         },
         {
             "definition": "To emit a short, high-pitched sound.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The machine beeps when it finishes the cycle.",
+            "sent2": "She beeps the car horn to get the attention of the driver ahead.",
+            "sent3": "The bird beeps happily in the tree outside my window.",
+            "sent4": "The watch beeps every hour to remind me of the time.",
+            "sent5": "The phone beeps to notify me of a new message."
         },
         {
             "definition": "The act of emitting a short, high-pitched sound.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The constant beeps of the hospital machines filled the room.",
+            "sent2": "His beeps during the game annoyed the other players.",
+            "sent3": "The beeps of the toy robot entertained the children for hours.",
+            "sent4": "The beeps of the backing truck guided the driver safely.",
+            "sent5": "The beeps of the heart monitor reassured the patient's family."
         }
     ]
 }

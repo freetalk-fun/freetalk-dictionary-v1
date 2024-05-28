@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Of a color intermediate between black and white.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The sky turned gray before the storm.",
+            "sent2": "The cat's fur was a soft gray color.",
+            "sent3": "The gray clouds made the day feel gloomy.",
+            "sent4": "Her mood was as gray as the overcast sky.",
+            "sent5": "The old man's gray beard was long and wispy."
         },
         {
             "definition": "Dull and nondescript; lacking in interest or excitement.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The presentation was so gray that everyone fell asleep.",
+            "sent2": "The gray movie failed to capture the audience's attention.",
+            "sent3": "The gray wall paint made the room feel boring.",
+            "sent4": "His jokes were as gray as the dull sky outside.",
+            "sent5": "The gray textbook was a snooze fest to read."
         },
         {
             "definition": "To become gray in color.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Over time, his hair began to gray at the temples.",
+            "sent2": "The old photograph had started to gray around the edges.",
+            "sent3": "The paint on the fence started to gray with age.",
+            "sent4": "The sky began to gray as the sun set.",
+            "sent5": "The fabric will gray over time with exposure to sunlight."
         }
     ]
 }

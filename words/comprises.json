@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Consist of",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The zoo comprises many different animals.",
+            "sent2": "A rainbow comprises various colors like red, orange, yellow, green, blue, indigo, and violet.",
+            "sent3": "The puzzle comprises pieces that fit together perfectly.",
+            "sent4": "Her smile comprises warmth and kindness.",
+            "sent5": "The team comprises players with different skills and strengths."
         },
         {
             "definition": "Include",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "A healthy diet comprises fruits, vegetables, grains, and proteins.",
+            "sent2": "The package comprises a gift and a card for the recipient.",
+            "sent3": "His collection comprises rare stamps from around the world.",
+            "sent4": "The book comprises exciting adventures and unexpected twists.",
+            "sent5": "The playlist comprises songs from various genres and eras."
         },
         {
             "definition": "Contain",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The box comprises all the tools needed for the project.",
+            "sent2": "The jar comprises delicious cookies baked by grandma.",
+            "sent3": "The backpack comprises snacks for the hiking trip.",
+            "sent4": "The basket comprises fresh fruits from the orchard.",
+            "sent5": "The drawer comprises colorful pencils and markers for drawing."
         }
     ]
 }

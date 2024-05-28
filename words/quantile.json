@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Each of two or more values of a variable that divide a frequency distribution into equal groups.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "In statistics, a quantile helps us divide data into equal parts for analysis.",
+            "sent2": "The 25th quantile is also known as the first quartile.",
+            "sent3": "I asked the math teacher if a quantile is like a slice of cake for numbers.",
+            "sent4": "The quantile acts as a gatekeeper, separating data into distinct sections.",
+            "sent5": "Visualizing a quantile as a ruler that measures data chunks can be helpful."
         },
         {
             "definition": "A point or value that marks the boundary of a quantile.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The quantile at 75% indicates the upper boundary of a data segment.",
+            "sent2": "Researchers use the quantile to pinpoint specific data points in their analysis.",
+            "sent3": "I imagined the quantile as a flag marking the end of a data range.",
+            "sent4": "The quantile acts like a beacon, guiding us to crucial data thresholds.",
+            "sent5": "Think of the quantile as a signpost showing where one data set ends and another begins."
         }
     ]
 }

@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A compound of silicon with a more electropositive element.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The scientist studied the properties of the silicide in the lab.",
+            "sent2": "Silicides are commonly used in the semiconductor industry.",
+            "sent3": "The silicide and its electron dance made for a fascinating chemistry show.",
+            "sent4": "The silicide acted like a bridge between silicon and the other element.",
+            "sent5": "The shiny silicide sparkled under the microscope."
         },
         {
             "definition": "To treat or combine with silicon or a silicide.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The technician will silicide the metal to enhance its properties.",
+            "sent2": "It is important to silicide the surface before applying the protective coating.",
+            "sent3": "The chef decided to silicide the pan for a unique cooking experiment.",
+            "sent4": "She silicided the solution with precision, creating a perfect mixture.",
+            "sent5": "The artist carefully silicided the clay to achieve a specific texture."
         }
     ]
 }

@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "The side of a right triangle opposite the right angle.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "In a right triangle, the hypothenuse is the longest side.",
+            "sent2": "The carpenter measured the hypothenuse of the triangle to ensure it was a right angle.",
+            "sent3": "The hypothenuse of the triangle was feeling left out because it wasn't a right angle.",
+            "sent4": "Her smile formed a perfect hypothenuse across her face, radiating joy.",
+            "sent5": "The hypothenuse stretched elegantly from one corner to the other, defining the triangle's shape."
         },
         {
             "definition": "To find the length of the hypotenuse, use the Pythagorean theorem.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "You can hypothenuse the length of the triangle using the Pythagorean theorem.",
+            "sent2": "She hypothenused the hypotenuse of the triangle with precision.",
+            "sent3": "The detective hypothenused the mystery of the missing hypotenuse.",
+            "sent4": "His words seemed to hypothenuse the situation, bringing clarity to the confusion.",
+            "sent5": "The scientist hypothenused the data to reveal the hidden hypotenuse of the experiment."
         }
     ]
 }

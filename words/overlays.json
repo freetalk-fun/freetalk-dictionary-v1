@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Cover with a layer of material.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She overlays the cake with chocolate frosting.",
+            "sent2": "The painter overlays the canvas with vibrant colors.",
+            "sent3": "The chef accidentally overlays the salad with too much dressing.",
+            "sent4": "The snow overlays the town like a soft blanket.",
+            "sent5": "The fog overlays the landscape, creating a mysterious atmosphere."
         },
         {
             "definition": "An additional layer on top of something.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The architect added overlays of glass to the building's facade.",
+            "sent2": "The cake had multiple overlays of icing for decoration.",
+            "sent3": "The student's notebook had colorful overlays of sticky notes.",
+            "sent4": "The clouds acted as natural overlays in the sky.",
+            "sent5": "The artist used overlays of paint to create depth in the artwork."
         },
         {
             "definition": "A transparent sheet placed over a document for protection or enhancement.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "She placed an overlay on the map to protect it from spills.",
+            "sent2": "The presentation slides had overlays to highlight key points.",
+            "sent3": "The teacher used an overlay to emphasize the important details.",
+            "sent4": "The overlay on the photograph enhanced its clarity.",
+            "sent5": "The overlay on the screen reduced glare and improved visibility."
         }
     ]
 }

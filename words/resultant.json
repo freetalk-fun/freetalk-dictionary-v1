@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Occurring or produced as a consequence of something.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The resultant effect of the rain was a flooded street.",
+            "sent2": "The team's victory was the resultant outcome of their hard work.",
+            "sent3": "The resultant mess in the kitchen made everyone laugh.",
+            "sent4": "Her laughter was the resultant sound of the funny joke.",
+            "sent5": "The resultant smell of fresh cookies filled the room with warmth."
         },
         {
             "definition": "A force or velocity that is the sum of two or more other forces or velocities.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The boat's speed was determined by the resultant of the currents.",
+            "sent2": "The resultant of the two opposing forces caused the object to move.",
+            "sent3": "The resultant of the race was a tie between the two competitors.",
+            "sent4": "The resultant of their collaboration was a masterpiece of art.",
+            "sent5": "The resultant of the collision sent the car spinning out of control."
         }
     ]
 }

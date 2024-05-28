@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A system for transmitting facsimile messages over telephone lines.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "We sent the important document through telefaxes to the office.",
+            "sent2": "The telefaxes machine at work is used to send and receive messages.",
+            "sent3": "The telefaxes made it easy to quickly share the information with others.",
+            "sent4": "The telefaxes connected us instantly, bridging the distance between us.",
+            "sent5": "Using telefaxes, we can send copies of documents across long distances."
         },
         {
             "definition": "To transmit a facsimile message using a telefax machine.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She telefaxes the contract to the client for their signature.",
+            "sent2": "We will telefaxes the report to the head office tomorrow.",
+            "sent3": "He telefaxes the sketches to his team, making collaboration easier.",
+            "sent4": "Telefaxes the form to complete the registration process quickly.",
+            "sent5": "Telefaxes the letter to ensure it reaches on time."
         }
     ]
 }

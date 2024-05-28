@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "The whole amount; the entire sum or quantity.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The totals of all the numbers is 50.",
+            "sent2": "She calculated the totals of her expenses for the month.",
+            "sent3": "The cat knocked over the jar, spilling the totals of the coins everywhere.",
+            "sent4": "His dedication to his work was the totals of his success.",
+            "sent5": "The teacher emphasized the importance of understanding the totals of the lesson."
         },
         {
             "definition": "To amount to; to add up to.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The cost of the items totals to $100.",
+            "sent2": "When you totals all the scores, you get the final result.",
+            "sent3": "The joke he told totals to a good laugh from the audience.",
+            "sent4": "Her kindness totals to a warm and welcoming atmosphere.",
+            "sent5": "The effort he puts in totals to great achievements."
         },
         {
             "definition": "To bring to a total; to sum up.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Please totals the numbers on the list.",
+            "sent2": "He totals the expenses before submitting the report.",
+            "sent3": "The magician totals his tricks to create a spectacular show.",
+            "sent4": "Her love and care totals up to a happy family.",
+            "sent5": "The artist totals up the colors to create a beautiful painting."
         }
     ]
 }

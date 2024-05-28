@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Represented as a series of bits",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The computer displayed a bitmapped image on the screen.",
+            "sent2": "The bitmapped graphic looked pixelated when enlarged.",
+            "sent3": "I tried to draw a bitmapped picture, but it ended up looking like a bunch of squares.",
+            "sent4": "Her mind was like a bitmapped memory, storing information in binary form.",
+            "sent5": "The bitmapped representation of the data made it easy to understand."
         },
         {
             "definition": "A digital image or font that is composed of a grid of pixels",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The website used bitmapped images for its logos.",
+            "sent2": "The bitmapped font was clear and easy to read on the screen.",
+            "sent3": "I printed out the bitmapped picture and it came out pixelated.",
+            "sent4": "The bitmapped image reminded me of old video game graphics.",
+            "sent5": "The bitmapped photo captured every detail of the scene."
         },
         {
             "definition": "To convert an image or font into a series of bits",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She bitmapped the logo to make it compatible with the software.",
+            "sent2": "The program can easily bitmapped any image you upload.",
+            "sent3": "I decided to bitmapped the text to save storage space.",
+            "sent4": "He bitmapped the photograph, turning it into a digital file.",
+            "sent5": "The artist will bitmapped the design before printing it."
         }
     ]
 }

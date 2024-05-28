@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A group of ships sailing together, especially for military purposes.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The fleet of warships patrolled the coast to protect the country.",
+            "sent2": "The naval fleet set sail for a training exercise in the open sea.",
+            "sent3": "The pirate fleet decided to have a race to see who was the fastest on the water.",
+            "sent4": "The fleet of ships moved like a school of fish, swiftly and in unison.",
+            "sent5": "The sight of the massive fleet on the horizon was both impressive and intimidating."
         },
         {
             "definition": "Moving swiftly.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The cheetah is known for its fleet speed, making it the fastest land animal.",
+            "sent2": "The athlete's fleet movements on the track earned them a gold medal.",
+            "sent3": "The squirrel's fleet escape up the tree left the dog barking in frustration.",
+            "sent4": "The wind carried the kite fleet across the sky with grace and speed.",
+            "sent5": "The car's fleet acceleration caught the attention of everyone at the race."
         },
         {
             "definition": "A group of vehicles or aircraft operating together.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The delivery fleet of trucks ensured packages reached customers on time.",
+            "sent2": "The airline's fleet of planes flew passengers to various destinations around the world.",
+            "sent3": "The taxi fleet decided to have a parade through the city to celebrate their success.",
+            "sent4": "The fleet of drones hovered in the sky, ready to capture aerial footage.",
+            "sent5": "The school bus fleet lined up neatly in the parking lot, waiting for the students to board."
         }
     ]
 }

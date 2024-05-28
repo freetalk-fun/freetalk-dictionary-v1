@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Extremely angry or annoyed",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "She was so infuriated by the rude comment.",
+            "sent2": "The customer was infuriated by the long wait.",
+            "sent3": "The cat's refusal to come inside infuriated its owner.",
+            "sent4": "The constant noise from the construction site infuriated the residents.",
+            "sent5": "His infuriated expression scared everyone in the room."
         },
         {
             "definition": "To make someone extremely angry or annoyed",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The loud music infuriated the neighbors.",
+            "sent2": "Her constant interruptions infuriated him during the meeting.",
+            "sent3": "The mischievous prank infuriated his friends but made him laugh.",
+            "sent4": "The unfair treatment infuriated the employees, leading to a strike.",
+            "sent5": "The broken promise infuriated her beyond words."
         }
     ]
 }

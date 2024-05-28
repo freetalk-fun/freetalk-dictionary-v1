@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A long, slender, soft-bodied invertebrate animal.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The worm wriggled in the dirt.",
+            "sent2": "I saw a worm crawling on the sidewalk.",
+            "sent3": "Why did the bird chase the worm?",
+            "sent4": "Her hair was like a golden worm flowing down her back.",
+            "sent5": "The fisherman baited his hook with a juicy worm."
         },
         {
             "definition": "To move or progress slowly and laboriously.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The line at the store seemed to worm on forever.",
+            "sent2": "I had to worm my way through the crowded room.",
+            "sent3": "He tried to worm out of doing his chores.",
+            "sent4": "Time seemed to worm its way through the day.",
+            "sent5": "The roots of the tree wormed their way through the cracks in the sidewalk."
         },
         {
             "definition": "A computer program that replicates itself and spreads to other computers.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The worm infected many computers in the network.",
+            "sent2": "Be careful not to click on suspicious links to avoid a worm attack.",
+            "sent3": "The IT team worked tirelessly to remove the pesky worm.",
+            "sent4": "The computer virus spread like a digital worm through the system.",
+            "sent5": "The worm caused chaos by spreading rapidly across the internet."
         }
     ]
 }

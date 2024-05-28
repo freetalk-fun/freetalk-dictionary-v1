@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A person or thing that constructs or builds something.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The constructor of the new house worked diligently to finish on time.",
+            "sent2": "The toy constructor carefully assembled the model airplane.",
+            "sent3": "The constructor and his team built a house out of chocolate bars for a fun challenge.",
+            "sent4": "Her mind was a constructor of dreams, shaping them with care and precision.",
+            "sent5": "The constructor's hammer echoed through the empty halls as the building took shape."
         },
         {
             "definition": "A member function of a class that initializes objects of a class.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "In the programming class, we learned how to create a constructor for our objects.",
+            "sent2": "The constructor in the code sets the initial values of the variables.",
+            "sent3": "The constructor function decided to throw a party to initialize the objects in style.",
+            "sent4": "The constructor method acted like a magician, bringing life to the inanimate objects.",
+            "sent5": "With a wave of the constructor's wand, the objects sprang to life in the virtual world."
         }
     ]
 }

@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "An area of low-lying, uncultivated ground where water collects; a bog or marsh.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The explorer got stuck in the swamp during his adventure.",
+            "sent2": "The swamp was home to many frogs and insects.",
+            "sent3": "The picnic near the swamp turned into a muddy mess.",
+            "sent4": "Her mind felt like a swamp of confusing thoughts.",
+            "sent5": "The swamp's eerie silence was broken only by the croaking of frogs."
         },
         {
             "definition": "To overwhelm or flood with water.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Heavy rain can quickly swamp a small boat.",
+            "sent2": "The storm threatened to swamp the entire town.",
+            "sent3": "The overflowing sink managed to swamp the kitchen floor.",
+            "sent4": "Emotions can sometimes swamp our ability to think clearly.",
+            "sent5": "The sudden wave of sadness seemed to swamp her heart."
         },
         {
             "definition": "To be overwhelmed or flooded with water.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The city streets can swamp with water after a heavy rain.",
+            "sent2": "During the hurricane, the coastal areas were swamped by the rising tides.",
+            "sent3": "The unexpected news seemed to swamp her with emotions.",
+            "sent4": "Her inbox was swamped with unread emails.",
+            "sent5": "The small boat was swamped by the giant wave."
         }
     ]
 }

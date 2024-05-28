@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To become or make greater in size, amount, intensity, or degree.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She will increase her speed to win the race.",
+            "sent2": "The company plans to increase its production next month.",
+            "sent3": "The magician tried to increase the number of rabbits in his hat.",
+            "sent4": "His determination to succeed will increase as the challenges grow.",
+            "sent5": "The sun's warmth seemed to increase with each passing minute."
         },
         {
             "definition": "The act or process of becoming greater in size, amount, intensity, or degree.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The increase in prices affected everyone's budget.",
+            "sent2": "We observed a steady increase in the number of visitors to the museum.",
+            "sent3": "The sudden increase in cake consumption at the party surprised the host.",
+            "sent4": "The increase in laughter filled the room with joy.",
+            "sent5": "The increase in knowledge opened new doors for the students."
         }
     ]
 }

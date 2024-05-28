@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A person or thing that typifies.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The typifier of kindness in our school is Mrs. Smith.",
+            "sent2": "The typifier of bravery is often seen in heroes.",
+            "sent3": "The typifier of clumsiness, the cat, knocked over the vase again.",
+            "sent4": "The typifier of loyalty, the dog, never leaves its owner's side.",
+            "sent5": "The typifier of intelligence, the owl, is known for its wisdom."
         },
         {
             "definition": "To serve as a typical example of.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Her actions typify the spirit of generosity.",
+            "sent2": "His behavior typifies the values of our community.",
+            "sent3": "The way he always forgets his keys typifies his absent-mindedness.",
+            "sent4": "The old house typifies the charm of the historic neighborhood.",
+            "sent5": "The colorful flowers typify the beauty of spring."
         }
     ]
 }

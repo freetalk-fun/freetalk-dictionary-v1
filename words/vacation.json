@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A period of time devoted to pleasure, rest, or relaxation.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "During my vacation, I relaxed on the beach and read a book.",
+            "sent2": "I can't wait for our family vacation to the mountains next month.",
+            "sent3": "The vacation was so relaxing that I fell asleep under the palm tree.",
+            "sent4": "Her vacation felt like a warm hug after a long winter.",
+            "sent5": "The vacation was a dream come true, filled with laughter and joy."
         },
         {
             "definition": "The act of leaving something empty or unoccupied.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "After the guests left, the house was left in a state of vacation.",
+            "sent2": "The vacation of the office building caused some concerns among the employees.",
+            "sent3": "The sudden vacation of the parking lot left many spaces empty.",
+            "sent4": "The vacation of the classroom made it feel eerie and quiet.",
+            "sent5": "The vacation of the store shelves made it difficult to find what I needed."
         },
         {
             "definition": "To take a vacation or time off from work or school.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I plan to vacation in Hawaii next summer.",
+            "sent2": "She decided to vacation for a week to recharge her energy.",
+            "sent3": "We should vacation together and explore new places.",
+            "sent4": "He loves to vacation in the countryside to escape the city noise.",
+            "sent5": "Vacationing allows us to unwind and destress from our daily routines."
         }
     ]
 }

@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Give money to (someone) in return for goods or services.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I will pay for the groceries at the store.",
+            "sent2": "She always pays the mechanic after he fixes her car.",
+            "sent3": "I forgot my wallet, so I couldn't pay for the ice cream.",
+            "sent4": "He had to pay a hefty sum for breaking the antique vase.",
+            "sent5": "The customer must pay the cashier before leaving the shop."
         },
         {
             "definition": "Give (someone) what is due for work done, services rendered, or debts incurred.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The company will pay you for your hard work.",
+            "sent2": "He pays his employees every two weeks.",
+            "sent3": "I will pay you with cookies for helping me with my homework.",
+            "sent4": "She always pays her dues on time.",
+            "sent5": "The landlord must pay the repairman for fixing the leaky faucet."
         },
         {
             "definition": "Suffer a loss or penalty as a result of an action.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "If you don't study, you will pay the consequences.",
+            "sent2": "He paid dearly for his reckless behavior.",
+            "sent3": "I forgot my umbrella, so I had to pay the price and got soaked in the rain.",
+            "sent4": "She paid the penalty for arriving late to the meeting.",
+            "sent5": "The team paid the price for underestimating their opponents."
         }
     ]
 }

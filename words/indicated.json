@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Pointed out or shown",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She indicated the correct path by pointing ahead.",
+            "sent2": "The map clearly indicated the location of the treasure.",
+            "sent3": "The detective indicated the suspect with a dramatic gesture.",
+            "sent4": "His frown indicated his displeasure with the situation.",
+            "sent5": "The flashing arrow indicated the direction to follow."
         },
         {
             "definition": "Suggested or implied",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The indicated route was the safest one to take.",
+            "sent2": "Her smile was an indicated sign of her happiness.",
+            "sent3": "The indicated answer was written between the lines.",
+            "sent4": "His silence indicated his agreement with the decision.",
+            "sent5": "The indicated message was hidden in the code."
         },
         {
             "definition": "Displayed or signaled",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The traffic lights indicated it was safe to cross.",
+            "sent2": "The alarm indicated a fire in the building.",
+            "sent3": "The flashing neon sign indicated a sale at the store.",
+            "sent4": "The compass needle indicated north with a steady point.",
+            "sent5": "The smoke indicated a problem in the engine."
         }
     ]
 }

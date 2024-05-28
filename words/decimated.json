@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To destroy a large proportion of something",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The wildfire decimated the forest, leaving only a few trees standing.",
+            "sent2": "The plague decimated the population of the village, causing great sorrow.",
+            "sent3": "The hungry caterpillars decimated the farmer's cabbage patch, much to the dismay of the farmer.",
+            "sent4": "The economic crisis decimated the company's profits, leading to layoffs.",
+            "sent5": "The tornado decimated the small town, leaving behind a path of destruction."
         },
         {
             "definition": "To reduce something drastically in number or size",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The drought decimated the crops, resulting in a poor harvest.",
+            "sent2": "The war decimated the city's buildings, changing its skyline forever.",
+            "sent3": "The strict diet decimated his favorite foods, making him crave them even more.",
+            "sent4": "The flood decimated the bridge, cutting off access to the other side.",
+            "sent5": "The virus decimated the team's chances of winning, causing key players to be sidelined."
         }
     ]
 }

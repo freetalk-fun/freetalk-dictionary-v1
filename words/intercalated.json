@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Inserted between other elements",
-            "pos": "preposition"
+            "pos": "preposition",
+            "sent1": "The book was intercalated between two others on the shelf.",
+            "sent2": "The paperclip was intercalated among the stack of papers.",
+            "sent3": "The cat intercalated itself between the cushions of the couch.",
+            "sent4": "The sun intercalated its rays through the branches of the trees.",
+            "sent5": "The key was intercalated perfectly into the lock."
         },
         {
             "definition": "Inserted into the calendar",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She intercalated her friend's birthday into her planner.",
+            "sent2": "The meeting was intercalated into the busy schedule.",
+            "sent3": "The surprise party intercalated a fun twist into the week.",
+            "sent4": "The holiday intercalated joy into their lives.",
+            "sent5": "He intercalated the important date into his memory."
         },
         {
             "definition": "Inserted into a crystal lattice",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The impurity was intercalated into the crystal lattice.",
+            "sent2": "The new molecule was intercalated within the structure.",
+            "sent3": "The tiny gemstone intercalated itself into the necklace.",
+            "sent4": "The color was intercalated into the fabric, creating a unique pattern.",
+            "sent5": "The artist intercalated a special gem into the design."
         }
     ]
 }

@@ -3,19 +3,39 @@
     "meanings": [
         {
             "definition": "To look at or examine closely",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She decided to scan the document for any errors.",
+            "sent2": "I will scan the map to find the best route.",
+            "sent3": "He tried to scan the book with his eyes closed, which was quite amusing.",
+            "sent4": "Her eyes scanned the room like a hawk searching for prey.",
+            "sent5": "The detective scanned the crime scene for any clues."
         },
         {
             "definition": "To analyze or search through quickly",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The teacher will scan the students' essays for plagiarism.",
+            "sent2": "I need to scan through the report before the meeting.",
+            "sent3": "He tried to scan the entire library in just five minutes, which was impossible.",
+            "sent4": "Her mind scanned through memories like flipping through a photo album.",
+            "sent5": "The computer program can scan thousands of files in seconds."
         },
         {
             "definition": "A quick look or examination",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "She gave a quick scan of the room before entering.",
+            "sent2": "I took a scan of the menu to decide what to order.",
+            "sent3": "His scan of the test questions made him realize he forgot to study.",
+            "sent4": "Her scan of the newspaper headlines revealed shocking news.",
+            "sent5": "The security guard did a quick scan of everyone entering the building."
         },
         {
             "definition": "An image or copy obtained by scanning",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "She saved the scan of the document on her computer.",
+            "sent2": "I need to make a scan of this photo for the presentation.",
+            "sent3": "His scan of the painting turned out blurry, much to his disappointment.",
+            "sent4": "The scan of the barcode revealed the product details.",
+            "sent5": "The scan of the fingerprint matched the suspect's identity."
         }
     ]
 }

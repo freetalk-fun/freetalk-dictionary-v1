@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To spend time doing nothing",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She was idling by the window, watching the birds outside.",
+            "sent2": "The car engine was idling while waiting for the traffic light to change.",
+            "sent3": "He found himself idling away the afternoon, lost in daydreams.",
+            "sent4": "The computer was idling like a lazy cat, refusing to respond to any commands.",
+            "sent5": "The student was idling in class, not paying attention to the lesson."
         },
         {
             "definition": "The state of not working or being active",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The idling of the factory machinery signaled the end of the workday.",
+            "sent2": "The idling of the engine indicated a temporary pause in the journey.",
+            "sent3": "The idling of the clock seemed to mock his procrastination.",
+            "sent4": "The idling of the river's flow mirrored his stagnant thoughts.",
+            "sent5": "The idling of the computer fan filled the room with a quiet hum."
         }
     ]
 }

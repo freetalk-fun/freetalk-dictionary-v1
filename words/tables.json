@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A piece of furniture with a flat top and one or more legs.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The tables in the dining room are made of wood.",
+            "sent2": "She placed the vase on the table in the living room.",
+            "sent3": "The tables in the classroom always seem to have interesting stories to tell.",
+            "sent4": "His mind was a table, neatly organizing thoughts into different categories.",
+            "sent5": "The sturdy tables in the library stood the test of time."
         },
         {
             "definition": "A set of data arranged in rows and columns for reference or analysis.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The student used the tables in the textbook to solve the math problem.",
+            "sent2": "The spreadsheet contained detailed tables of sales figures for the month.",
+            "sent3": "The tables of information on the website were like a treasure trove for researchers.",
+            "sent4": "Her memory was like a table, neatly storing facts and figures for easy retrieval.",
+            "sent5": "The tables in the report made it easy to compare the data visually."
         },
         {
             "definition": "To postpone consideration of.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Let's tables the discussion about the budget until next week.",
+            "sent2": "The team decided to tables the decision until they had more information.",
+            "sent3": "He tables the idea of going on a vacation until he saved enough money.",
+            "sent4": "She tables her excitement about the party until she received the official invitation.",
+            "sent5": "The company chose to tables the project due to budget constraints."
         }
     ]
 }

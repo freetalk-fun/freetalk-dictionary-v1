@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Charred: to burn slightly",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She chars the marshmallows over the campfire.",
+            "sent2": "The toast was accidentally chars on one side.",
+            "sent3": "The chef playfully chars the edges of the steak for extra flavor.",
+            "sent4": "The sun chars the grass, turning it a golden brown.",
+            "sent5": "The candle chars the paper, leaving a black mark."
         },
         {
             "definition": "Char: a charred substance",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The firefighter found some chars in the burnt building.",
+            "sent2": "The chars on the wood indicated a previous fire.",
+            "sent3": "The artist used the chars from the fire as inspiration for a painting.",
+            "sent4": "The chars from the bonfire glowed in the darkness.",
+            "sent5": "The chars on the pan were difficult to clean."
         },
         {
             "definition": "Char: to cook over an open flame",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "They char the meat on the grill for a smoky flavor.",
+            "sent2": "The chef likes to char vegetables for a crispy texture.",
+            "sent3": "The friends char hot dogs over the bonfire during the camping trip.",
+            "sent4": "The flames char the marshmallows to a perfect golden brown.",
+            "sent5": "The cook will char the steak to the customer's preference."
         }
     ]
 }

@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To give out or deliver something to a number of people.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The teacher is distributing the worksheets to the students.",
+            "sent2": "The postman is distributing letters to different houses.",
+            "sent3": "The squirrel is distributing nuts to its friends in the forest.",
+            "sent4": "The wind is distributing the seeds across the field.",
+            "sent5": "The volunteer is distributing food to the homeless in the park."
         },
         {
             "definition": "To spread or scatter something over an area.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The farmer is distributing seeds in the field.",
+            "sent2": "The chef is distributing herbs evenly over the pizza.",
+            "sent3": "The kids are distributing sand all over the playground.",
+            "sent4": "The artist is distributing colors on the canvas with a brush.",
+            "sent5": "The gardener is distributing fertilizer in the garden for healthy plants."
         },
         {
             "definition": "The act of dividing or sharing something among a group of people.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The distributing of candies among the children was fair.",
+            "sent2": "The distributing of tasks among the team members was efficient.",
+            "sent3": "The distributing of prizes at the event brought smiles to everyone.",
+            "sent4": "The distributing of responsibilities in the family made everyone feel included.",
+            "sent5": "The distributing of resources in the community helped everyone thrive."
         }
     ]
 }

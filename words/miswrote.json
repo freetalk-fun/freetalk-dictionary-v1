@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Miswrote: wrote or spelled incorrectly",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She miswrote the address on the envelope.",
+            "sent2": "He often miswrote words in his essays due to rushing.",
+            "sent3": "The teacher chuckled when she saw how he miswrote the math problem.",
+            "sent4": "Her tired mind miswrote the lyrics of the song, creating a funny mix-up.",
+            "sent5": "The miswrote sign on the door led to confusion among the guests."
         },
         {
             "definition": "Miswrote: past tense of miswrite",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Yesterday, she miswrote the recipe for the cake.",
+            "sent2": "He miswrote the note, causing confusion for the recipient.",
+            "sent3": "The miswrote message made her friend laugh at the misunderstanding.",
+            "sent4": "His miswrote entry in the diary changed the course of events.",
+            "sent5": "The miswrote password locked him out of his own account."
         }
     ]
 }

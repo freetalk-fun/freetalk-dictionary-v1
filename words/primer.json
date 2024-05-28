@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A book that covers the basic elements of a subject.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The teacher used a primer to introduce the students to new concepts.",
+            "sent2": "I borrowed a primer from the library to learn about gardening.",
+            "sent3": "The primer on dinosaurs made learning about them so much fun!",
+            "sent4": "Her primer on time management was like a guiding light in the chaos of schedules.",
+            "sent5": "The primer on space exploration painted a vivid picture of the universe."
         },
         {
             "definition": "A substance used as a preparatory coat on a surface before painting.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The painter applied a primer to the wall before adding color.",
+            "sent2": "Make sure to use a primer before painting to ensure better adhesion.",
+            "sent3": "The primer smelled like fresh paint and possibilities.",
+            "sent4": "The primer acted as a shield, protecting the wall from the paint's effects.",
+            "sent5": "The primer created a smooth canvas for the artist's masterpiece."
         },
         {
             "definition": "An explosive charge used to ignite a larger charge.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The soldier carefully placed the primer to set off the explosion.",
+            "sent2": "The demolition expert inserted the primer to trigger the blast.",
+            "sent3": "The primer sparked excitement among the spectators before the big bang.",
+            "sent4": "The primer's tiny flame led to a spectacular fireworks display.",
+            "sent5": "The primer's role was crucial in starting the chain reaction."
         }
     ]
 }

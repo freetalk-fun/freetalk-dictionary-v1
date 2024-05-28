@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "The point or place where something begins, arises, or is derived.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The origin of the river is a small spring in the mountains.",
+            "sent2": "She traced the origin of the rumor back to a misunderstanding.",
+            "sent3": "The detective followed the origin of the mysterious sound to a mischievous cat.",
+            "sent4": "The origin of his success can be found in his hard work and determination.",
+            "sent5": "The origin of the ancient artifact was shrouded in mystery."
         },
         {
             "definition": "The source or cause of something.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The origin of the problem lies in poor communication.",
+            "sent2": "They discovered the origin of the strange smell coming from the kitchen.",
+            "sent3": "The comedian joked that the origin of his bad luck was a broken mirror.",
+            "sent4": "The origin of the conflict can be traced back to a misunderstanding.",
+            "sent5": "The origin of the fire was determined to be faulty wiring."
         },
         {
             "definition": "The beginning of a person's existence or the beginning of something's existence.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The origin of the baby's laughter brought joy to the whole family.",
+            "sent2": "In the legend, the origin of the magical sword was a gift from the gods.",
+            "sent3": "The scientist studied the origin of life on Earth.",
+            "sent4": "The origin of the universe is a topic of great debate among scientists.",
+            "sent5": "The origin of the tradition dates back centuries."
         }
     ]
 }

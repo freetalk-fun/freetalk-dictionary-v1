@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To insert or introduce between other elements",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I had to interpolate additional data points to complete the graph.",
+            "sent2": "The software can interpolate missing values based on the existing data.",
+            "sent3": "Trying to interpolate a joke into a serious conversation can be awkward.",
+            "sent4": "She interpolated her personal experiences into the historical narrative.",
+            "sent5": "The artist's ability to interpolate emotions into their paintings is truly remarkable."
         },
         {
             "definition": "To estimate a value within known values",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "You can interpolate the missing temperature readings using this formula.",
+            "sent2": "The scientist used the data points to interpolate the population size.",
+            "sent3": "It's like trying to interpolate the number of jellybeans in a jar without counting.",
+            "sent4": "She could interpolate the mood of the room just by observing people's expressions.",
+            "sent5": "The detective was able to interpolate the time of the crime based on the evidence."
         },
         {
             "definition": "To alter or corrupt (a text) by inserting new or foreign matter",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The forger tried to interpolate fake signatures into the document.",
+            "sent2": "It is unethical to interpolate false information into a research paper.",
+            "sent3": "He thought he could interpolate his own ideas into the original text.",
+            "sent4": "The hacker attempted to interpolate malicious code into the system.",
+            "sent5": "The author refused to let anyone interpolate her novel with additional chapters."
         }
     ]
 }

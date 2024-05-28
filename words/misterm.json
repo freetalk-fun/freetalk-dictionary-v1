@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To misunderstand or misinterpret.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I often misterm instructions, so I ask for clarification.",
+            "sent2": "Please do not misterm my intentions; I am here to help.",
+            "sent3": "It's easy to misterm sarcasm in text messages.",
+            "sent4": "She tends to misterm my silence as anger.",
+            "sent5": "The students misterm the assignment deadline and submitted their work late."
         },
         {
             "definition": "A mistake or error in understanding or interpretation.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Making a misterm in the calculation led to the wrong answer.",
+            "sent2": "The professor clarified the misterm in the textbook during the lecture.",
+            "sent3": "The little misterm in the recipe made the dish taste strange.",
+            "sent4": "His misterm about the meeting time caused him to arrive late.",
+            "sent5": "The misterm in the map led them to the wrong location."
         }
     ]
 }

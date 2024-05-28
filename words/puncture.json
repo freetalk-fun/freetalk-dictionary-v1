@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A small hole or wound caused by a sharp object.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The doctor cleaned the puncture on my arm.",
+            "sent2": "The nail left a puncture in the tire.",
+            "sent3": "The cat's playful puncture on the toy made it unusable.",
+            "sent4": "Her words felt like a puncture to his heart.",
+            "sent5": "The puncture in the balloon caused it to deflate quickly."
         },
         {
             "definition": "To make a small hole or wound in something.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Please be careful not to puncture the packaging with scissors.",
+            "sent2": "He punctured the paper with a pencil.",
+            "sent3": "The chef punctured the egg yolk, creating a perfect sunny-side-up egg.",
+            "sent4": "His joke punctured the tension in the room.",
+            "sent5": "The needle punctured the fabric easily."
         },
         {
             "definition": "To pierce or penetrate with a sharp object.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The thorn punctured his skin.",
+            "sent2": "She punctured the balloon with a pin.",
+            "sent3": "The spy punctured the enemy's disguise with a keen eye.",
+            "sent4": "His words punctured her confidence.",
+            "sent5": "The arrow punctured the target with precision."
         }
     ]
 }

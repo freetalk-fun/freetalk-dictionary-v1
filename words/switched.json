@@ -3,19 +3,39 @@
     "meanings": [
         {
             "definition": "Changed or exchanged",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She switched her blue pen for a red one.",
+            "sent2": "He switched seats with his friend in class.",
+            "sent3": "The magician switched the rabbit for a dove!",
+            "sent4": "Her mood switched from happy to sad in an instant.",
+            "sent5": "The weather switched suddenly from sunny to stormy."
         },
         {
             "definition": "Turned on or off",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The switched light illuminated the room.",
+            "sent2": "The switched fan provided a cool breeze.",
+            "sent3": "The switched TV seemed to have a mind of its own.",
+            "sent4": "The switched stove was a safety hazard.",
+            "sent5": "The switched alarm woke everyone up in a panic."
         },
         {
             "definition": "Shifted or transferred",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He switched the books from one shelf to another.",
+            "sent2": "The team switched their strategy for the next game.",
+            "sent3": "The cat switched its attention from the toy to a bug.",
+            "sent4": "The focus switched from one speaker to another.",
+            "sent5": "The power switched hands as the new leader emerged."
         },
         {
             "definition": "Swapped or replaced",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "They switched their old phones for the latest models.",
+            "sent2": "She switched her regular coffee with a latte today.",
+            "sent3": "The kids switched their Halloween candies with each other.",
+            "sent4": "The worn-out tires were switched for new ones.",
+            "sent5": "The actors switched roles for the final performance."
         }
     ]
 }

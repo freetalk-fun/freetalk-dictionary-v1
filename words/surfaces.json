@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "The outside part or uppermost layer of something.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The table's surfaces were clean and shiny.",
+            "sent2": "I like to draw on flat surfaces like paper or whiteboards.",
+            "sent3": "The cat loves to nap on warm surfaces like the windowsill.",
+            "sent4": "Her smile was like a bright surface that lit up the room.",
+            "sent5": "The mirror's surface reflected her image back at her."
         },
         {
             "definition": "To come to the surface of water or land.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The bubbles surfaces quickly in the fizzy drink.",
+            "sent2": "When the fish surfaces, you can see their colorful scales.",
+            "sent3": "The idea of a sunken treasure chest surfaces in many pirate stories.",
+            "sent4": "Her emotions surfaced when she saw the surprise party.",
+            "sent5": "The truth always surfaces eventually, no matter how deep it's buried."
         },
         {
             "definition": "To treat the surface of something in order to make it smooth or shiny.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She surfaces the wooden table to remove any rough spots.",
+            "sent2": "The car was surfaces to give it a glossy finish.",
+            "sent3": "He surfaces the cake with a layer of frosting.",
+            "sent4": "The jeweler surfaces the diamond to make it sparkle.",
+            "sent5": "After she surfaces the floor, it looks brand new."
         }
     ]
 }

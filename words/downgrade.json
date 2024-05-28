@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To lower in importance or value.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I had to downgrade my favorite toy to make room for the new one.",
+            "sent2": "The company decided to downgrade their product due to poor sales.",
+            "sent3": "When my little brother broke my toy, I had to downgrade it to a 'fixer-upper'.",
+            "sent4": "Her careless actions caused her reputation to downgrade rapidly.",
+            "sent5": "The storm's damage would downgrade the once beautiful garden to a mess."
         },
         {
             "definition": "A situation in which something is made less important or valuable.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The downgrade of the old building led to its demolition.",
+            "sent2": "The downgrade of the currency affected the economy negatively.",
+            "sent3": "The downgrade of the movie's rating made it a comedy instead of a drama.",
+            "sent4": "The downgrade of the antique vase made it less desirable to collectors.",
+            "sent5": "The downgrade of the software caused frustration among users."
         },
         {
             "definition": "To assign a lower security rating to a financial asset.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The bank had to downgrade the bond due to market fluctuations.",
+            "sent2": "Investors were concerned when the agency decided to downgrade the stock.",
+            "sent3": "The decision to downgrade the security rating left many investors worried.",
+            "sent4": "The company's financial troubles forced them to downgrade their assets.",
+            "sent5": "The analyst's report recommended to downgrade the investment for better risk management."
         }
     ]
 }

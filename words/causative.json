@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Making something happen or exist; causing something",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Her loud music was causative of the neighbors complaining.",
+            "sent2": "The storm causative the tree to fall down.",
+            "sent3": "His constant jokes were causative of everyone's laughter.",
+            "sent4": "The teacher's encouragement was causative in boosting the student's confidence.",
+            "sent5": "The chef's secret ingredient was causative in making the dish unforgettable."
         },
         {
             "definition": "A word or construction that indicates a cause or reason for something happening",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "In the sentence, 'because' is a causative that shows the reason.",
+            "sent2": "The detective searched for the causative behind the crime.",
+            "sent3": "The missing piece of the puzzle turned out to be the causative.",
+            "sent4": "The scientist was determined to find the causative of the mysterious phenomenon.",
+            "sent5": "Understanding the causatives in a story helps in analyzing its plot."
         },
         {
             "definition": "Having the power to cause something to happen",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The strong winds were causative in knocking over the fence.",
+            "sent2": "The medicine had a causative effect on reducing the fever.",
+            "sent3": "His charismatic personality was causative of his popularity.",
+            "sent4": "The artist's creativity was causative in producing beautiful paintings.",
+            "sent5": "The bright light was causative of the room feeling warm and inviting."
         }
     ]
 }

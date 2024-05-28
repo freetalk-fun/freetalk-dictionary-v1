@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "An electronic device used to measure and display voltage signals.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The technician used the oscilloscope to check the voltage of the circuit.",
+            "sent2": "I need to buy a new oscilloscope for my electronics lab.",
+            "sent3": "The oscilloscope and the multimeter had a race to see who could measure faster.",
+            "sent4": "Her eyes were like an oscilloscope, scanning the room for any signs of movement.",
+            "sent5": "The oscilloscope hummed softly as it displayed the electrical signals."
         },
         {
             "definition": "To observe or analyze electrical waveforms using an oscilloscope.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He will oscilloscope the circuit to identify any irregularities.",
+            "sent2": "I like to oscilloscope different waveforms to understand their patterns.",
+            "sent3": "The detective decided to oscilloscope the suspect's alibi for inconsistencies.",
+            "sent4": "She could oscilloscope the emotions of others just by looking at their expressions.",
+            "sent5": "As she oscilloscoped the data, patterns began to emerge."
         }
     ]
 }

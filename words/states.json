@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A nation or territory considered as an organized political community under one government.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The United States is a country made up of fifty states.",
+            "sent2": "She visited several states during her road trip.",
+            "sent3": "The state of confusion in the classroom was evident.",
+            "sent4": "His mind was a turbulent state of emotions.",
+            "sent5": "The peaceful state of the park was a welcome escape from the city."
         },
         {
             "definition": "Express something definitely or clearly in speech or writing.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He states his opinion on the matter clearly.",
+            "sent2": "The witness states that he saw the crime happen.",
+            "sent3": "She states her case with confidence and poise.",
+            "sent4": "The artist's work states a powerful message about society.",
+            "sent5": "The sign states the rules clearly for all to see."
         },
         {
             "definition": "Declare definitely or specifically.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The contract states the terms of the agreement.",
+            "sent2": "She states her intentions to pursue further studies.",
+            "sent3": "He states his love for pizza in every conversation.",
+            "sent4": "The law states that all citizens must pay taxes.",
+            "sent5": "The recipe clearly states the ingredients needed for the dish."
         }
     ]
 }

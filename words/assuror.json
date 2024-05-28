@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "One who provides assurance or guarantees.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The assuror promised to fix the broken toy.",
+            "sent2": "The assuror assured the customer that the product was of high quality.",
+            "sent3": "The assuror confidently stated that the job would be done on time.",
+            "sent4": "She acted as an assuror, ensuring that the event would be a success.",
+            "sent5": "The assuror's guarantee gave the client peace of mind."
         },
         {
             "definition": "To give assurance or make a guarantee.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He will assuror his support for the project.",
+            "sent2": "She assurors her friends that she will be there for them.",
+            "sent3": "The company assurors a full refund if the customer is not satisfied.",
+            "sent4": "The teacher assurors the students that they will succeed with hard work.",
+            "sent5": "They assuror their commitment to excellence in every task."
         }
     ]
 }

@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A straight direct route or path",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The bee followed the beelines to reach the flower quickly.",
+            "sent2": "The hiker took the beelines through the forest to get to the campsite.",
+            "sent3": "The squirrel made beelines across the branches to gather nuts efficiently.",
+            "sent4": "The river carved its beelines through the valley, creating a path for the water.",
+            "sent5": "The student drew beelines on the map to show the shortest way to the library."
         },
         {
             "definition": "To move swiftly and directly towards a destination",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The athlete beelines towards the finish line with determination.",
+            "sent2": "The cat beelines to the food bowl as soon as it hears the sound of kibble.",
+            "sent3": "The children beelines to the playground, eager to play on the swings.",
+            "sent4": "The car beelines through the traffic, trying to reach the airport on time.",
+            "sent5": "The bee beelines back to the hive after collecting nectar from flowers."
         }
     ]
 }

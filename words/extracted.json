@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Remove or take out (something) from a place.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I extracted the toy from the box.",
+            "sent2": "The dentist extracted my tooth.",
+            "sent3": "She extracted the last cookie from the jar.",
+            "sent4": "He extracted the truth from the suspect.",
+            "sent5": "The archaeologist carefully extracted the ancient artifact from the ground."
         },
         {
             "definition": "Obtain (a substance or resource) from a material.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "They extracted oil from the ground.",
+            "sent2": "The company extracted copper from the ore.",
+            "sent3": "He extracted the key information from the report.",
+            "sent4": "She extracted valuable lessons from her mistakes.",
+            "sent5": "The chef skillfully extracted flavors from the herbs for the dish."
         }
     ]
 }

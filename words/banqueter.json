@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A person who attends banquets.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The banqueter enjoyed the delicious food at the banquet.",
+            "sent2": "The banqueter sat at the table with other guests during the banquet.",
+            "sent3": "The banqueter accidentally spilled sauce on their fancy outfit at the banquet.",
+            "sent4": "The banqueter's appetite was a bottomless pit at the banquet.",
+            "sent5": "The banqueter's laughter filled the banquet hall with joy."
         },
         {
             "definition": "To attend or participate in banquets.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She will banqueter at the event next week.",
+            "sent2": "They banquetered at the fancy hotel last night.",
+            "sent3": "He banquetered with enthusiasm, trying every dish at the feast.",
+            "sent4": "The family banquetered together, celebrating a special occasion.",
+            "sent5": "The guests banquetered merrily, enjoying the festive atmosphere."
         }
     ]
 }

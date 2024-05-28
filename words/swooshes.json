@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Swooshes (verb): moves with a rushing sound",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The wind swooshes through the trees.",
+            "sent2": "The basketball swooshes through the net.",
+            "sent3": "The broom swooshes as it sweeps the floor.",
+            "sent4": "Her cape swooshes behind her as she runs.",
+            "sent5": "The rocket swooshes into space, leaving a trail of fire."
         },
         {
             "definition": "Swooshes (noun): the sound of something moving quickly through the air",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The swooshes of the cars passing by filled the street.",
+            "sent2": "The swooshes of the waves crashing against the shore were calming.",
+            "sent3": "The swooshes of the leaves rustling in the wind sounded like whispers.",
+            "sent4": "The swooshes of the airplane taking off echoed through the airport.",
+            "sent5": "The swooshes of the skater's movements on the ice were mesmerizing."
         }
     ]
 }

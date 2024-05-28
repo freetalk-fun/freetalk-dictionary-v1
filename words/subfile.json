@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A file that is a part of a larger file.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I found the subfile containing only the pictures from the vacation.",
+            "sent2": "The subfile was stored within the main document for easy access.",
+            "sent3": "The subfile with all the dessert recipes made my mouth water.",
+            "sent4": "Her creativity was a subfile in the larger book of her life.",
+            "sent5": "The subfile of memories was filled with laughter and joy."
         },
         {
             "definition": "To file under a main file.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Please subfile the report under the correct category.",
+            "sent2": "I will subfile the documents alphabetically for better organization.",
+            "sent3": "He tried to subfile the papers, but they kept slipping out of order.",
+            "sent4": "She subfiled her thoughts neatly in her mind for future reference.",
+            "sent5": "The librarian had to subfile the new books on the crowded shelf."
         }
     ]
 }

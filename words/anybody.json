@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "Any person",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Anybody can join the club.",
+            "sent2": "I don't know anybody who lives in that house.",
+            "sent3": "Anybody can be a superhero in their own story.",
+            "sent4": "In a world full of possibilities, anybody can make a difference.",
+            "sent5": "The park is open to anybody who wants to play."
         },
         {
             "definition": "Any one at all",
-            "pos": "pronoun"
+            "pos": "pronoun",
+            "sent1": "Is anybody coming to the party?",
+            "sent2": "I can't see anybody on the street.",
+            "sent3": "If anybody finds my lost sock, please let me know!",
+            "sent4": "In a crowd of faces, anybody could be a friend waiting to happen.",
+            "sent5": "Anybody can win the game if they try their best."
         }
     ]
 }

@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "The total number or quantity of something.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The amounts of apples in the basket were impressive.",
+            "sent2": "She counted the amounts of candies in the jar.",
+            "sent3": "The amounts of toys in the room made it look like a toy store.",
+            "sent4": "The amounts of stars in the sky were like diamonds scattered on velvet.",
+            "sent5": "The amounts of books on the shelf created a colorful display."
         },
         {
             "definition": "To add up to a particular total.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The coins amounts to ten dollars in total.",
+            "sent2": "His savings amounts to a significant sum.",
+            "sent3": "The laughter in the room amounts to a joyful atmosphere.",
+            "sent4": "Her dedication amounts to success in her career.",
+            "sent5": "The ingredients amounts to a delicious meal when combined."
         }
     ]
 }

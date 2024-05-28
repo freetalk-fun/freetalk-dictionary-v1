@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A person handling payments and receipts in a store or business.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The cashier at the grocery store scanned my items.",
+            "sent2": "The cashier gave me my change with a smile.",
+            "sent3": "The cashier accidentally gave me extra money, making me double-check my receipt.",
+            "sent4": "Her eyes sparkled with efficiency, like a cashier counting money effortlessly.",
+            "sent5": "I always remember the cashier's friendly face when I shop there."
         },
         {
             "definition": "To dismiss someone from a position of employment, especially for theft or dishonesty.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The manager had to cashier the employee for stealing from the company.",
+            "sent2": "They decided to cashier the accountant due to financial irregularities.",
+            "sent3": "The company had to cashier the receptionist for constantly lying to customers.",
+            "sent4": "The decision to cashier the cashier was made after a thorough investigation.",
+            "sent5": "The CEO had no choice but to cashier the executive for embezzlement."
         }
     ]
 }

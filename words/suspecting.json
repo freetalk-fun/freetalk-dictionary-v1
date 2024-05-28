@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "To believe or suppose to be guilty, true, or likely",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "I am suspecting that my brother ate the last cookie.",
+            "sent2": "She is always suspecting others of wrongdoing.",
+            "sent3": "I was suspecting the cat of plotting against me.",
+            "sent4": "The dark clouds in the sky made me suspecting a storm was coming.",
+            "sent5": "The detective was suspecting the butler in the murder mystery."
         },
         {
             "definition": "To have doubts or suspicions about someone or something",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He is suspecting that the new student is not who they claim to be.",
+            "sent2": "After finding the door unlocked, she started suspecting a break-in.",
+            "sent3": "I am suspecting that the dog is secretly a superhero.",
+            "sent4": "The old house creaked, making me suspecting ghosts were present.",
+            "sent5": "The teacher was suspecting cheating during the exam."
         }
     ]
 }

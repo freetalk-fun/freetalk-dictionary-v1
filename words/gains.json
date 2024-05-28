@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Obtain or secure (something desired or beneficial)",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She gains knowledge from reading books.",
+            "sent2": "He gains strength by exercising regularly.",
+            "sent3": "The cat gains a new toy by playing hide and seek.",
+            "sent4": "The sun gains power as it rises in the sky.",
+            "sent5": "The student gains confidence with each correct answer."
         },
         {
             "definition": "Increase in amount, size, or value",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The plant gains height as it grows taller.",
+            "sent2": "His savings account gains interest over time.",
+            "sent3": "The balloon gains size as more air is blown into it.",
+            "sent4": "Her smile gains brightness when she sees her friends.",
+            "sent5": "The river gains speed as it flows downhill."
         },
         {
             "definition": "Advantage or profit",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Eating healthy food provides gains for your body.",
+            "sent2": "The company's gains increased after the new product launch.",
+            "sent3": "The cat's playful antics are gains for the family's entertainment.",
+            "sent4": "Kindness towards others brings gains of happiness.",
+            "sent5": "The athlete's hard work resulted in gains of medals and trophies."
         }
     ]
 }

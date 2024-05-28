@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A person who uses computers to gain unauthorized access to data.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Some hackers try to break into computer systems.",
+            "sent2": "Hackers can be very skilled at finding security loopholes.",
+            "sent3": "The hackers thought they could outsmart the security measures.",
+            "sent4": "The hackers were like digital detectives searching for clues.",
+            "sent5": "Beware of hackers trying to steal your information!"
         },
         {
             "definition": "A person who is skilled in programming and computer systems.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Many hackers enjoy solving complex coding problems.",
+            "sent2": "Skilled hackers can create innovative software solutions.",
+            "sent3": "The hackers collaborated on a project to improve cybersecurity.",
+            "sent4": "The hackers' knowledge of technology was truly impressive.",
+            "sent5": "The young hacker showed exceptional talent in computer science."
         },
         {
             "definition": "To gain unauthorized access to data or computer systems.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Hackers often use sophisticated techniques to breach security.",
+            "sent2": "It is illegal to hackers into someone else's computer.",
+            "sent3": "The hackers attempted to hack into the main server.",
+            "sent4": "She tried to hackers her way into the encrypted files.",
+            "sent5": "The hackers managed to hack the system within minutes."
         }
     ]
 }

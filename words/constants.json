@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A situation or state of affairs that does not change.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "In math class, we learned about the constants in equations that stay the same.",
+            "sent2": "Scientists rely on constants in their experiments to ensure consistent results.",
+            "sent3": "The comedy show had a hilarious skit about a character who was a constant in every scene.",
+            "sent4": "Her love for reading was a constant in her life, like a guiding light.",
+            "sent5": "The sound of the ticking clock became a constant in the quiet room."
         },
         {
             "definition": "A quantity or value that does not change.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The speed of light is considered a constant in physics.",
+            "sent2": "Engineers use specific constants when designing structures to maintain stability.",
+            "sent3": "The recipe called for a constant amount of sugar, no more, no less.",
+            "sent4": "His dedication to his work was a constant that his colleagues admired.",
+            "sent5": "The teacher emphasized the importance of memorizing mathematical constants for the exam."
         },
         {
             "definition": "A fixed value or number.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The value of pi is a well-known constant in mathematics.",
+            "sent2": "The temperature remained a constant throughout the day, neither rising nor falling.",
+            "sent3": "The old clock chimed a constant number of times every hour.",
+            "sent4": "Her unwavering loyalty was a constant in a world of changing relationships.",
+            "sent5": "The color of the sky was a constant blue, without a cloud in sight."
         }
     ]
 }

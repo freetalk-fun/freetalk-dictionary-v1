@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A person who has authority, control, or power over others.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The kind lord helped the villagers in need.",
+            "sent2": "The lord of the manor made important decisions for the estate.",
+            "sent3": "The lord of the house declared a ban on broccoli at dinner.",
+            "sent4": "She felt like the lord of her own destiny, making choices freely.",
+            "sent5": "The lord of the jungle ruled with strength and wisdom."
         },
         {
             "definition": "A title given to a nobleman in the United Kingdom.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The young lord inherited the title from his father.",
+            "sent2": "The lord greeted the guests at the royal ball with grace.",
+            "sent3": "The lord accidentally spilled tea on his fancy attire.",
+            "sent4": "She felt like a lord in the grand castle, surrounded by luxury.",
+            "sent5": "The lord's portrait hung proudly in the great hall."
         },
         {
             "definition": "Used in exclamations to express surprise or for emphasis.",
-            "pos": "interjection"
+            "pos": "interjection",
+            "sent1": "Oh lord, I forgot my lunch at home!",
+            "sent2": "Well, lord, that was unexpected!",
+            "sent3": "Hey lord, did you see that squirrel steal a cookie?",
+            "sent4": "Goodness gracious, lord, that cake is huge!",
+            "sent5": "Oh lord, the fireworks display was spectacular!"
         }
     ]
 }

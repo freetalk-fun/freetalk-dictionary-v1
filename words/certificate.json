@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A document serving as evidence or as a guarantee.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I received a certificate for completing the course.",
+            "sent2": "She proudly displayed her academic certificate on the wall.",
+            "sent3": "The cat had a certificate of bravery for catching a mouse.",
+            "sent4": "His smile was like a certificate of happiness that brightened the room.",
+            "sent5": "The golden certificate shimmered in the sunlight, symbolizing achievement."
         },
         {
             "definition": "To provide with a certificate.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The school will certificate all students upon graduation.",
+            "sent2": "He will certificate the employees after they finish the training.",
+            "sent3": "The magician decided to certificate the rabbit for its disappearing act.",
+            "sent4": "Her laughter certificateed the room with joy.",
+            "sent5": "The chef certificateed each dish with a sprinkle of fresh herbs."
         },
         {
             "definition": "To attest or authorize officially.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The notary will certificate the document as valid.",
+            "sent2": "The government agency will certificate the company's compliance.",
+            "sent3": "The robot tried to certificate its own software, causing chaos.",
+            "sent4": "Her signature certificateed the contract with legal authority.",
+            "sent5": "The judge's gavel certificateed the verdict, bringing closure to the case."
         }
     ]
 }

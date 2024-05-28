@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A vehicle with two wheels typically pulled by a horse or ox.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The farmer loaded the hay onto the cart.",
+            "sent2": "She pushed the cart filled with groceries.",
+            "sent3": "The cart and the horse seemed to be having a conversation.",
+            "sent4": "His ideas were like a cart, carrying the weight of the project.",
+            "sent5": "The cart rattled along the bumpy road, making a rhythmic sound."
         },
         {
             "definition": "A small wheeled vehicle typically pushed by hand.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The children played with a toy cart in the sandbox.",
+            "sent2": "He used a cart to transport his tools around the garden.",
+            "sent3": "The cart rolled down the hill, surprising the squirrel.",
+            "sent4": "Her laughter was like a cart, spreading joy wherever she went.",
+            "sent5": "The cart squeaked as it moved, announcing its presence."
         },
         {
             "definition": "To transport or convey in a cart.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "They carted away the old furniture to make space for the new.",
+            "sent2": "He carted the boxes to the storage room.",
+            "sent3": "She carted her books to the library in a colorful cart.",
+            "sent4": "The memories carted in his mind were precious.",
+            "sent5": "The workers carted the bricks to the construction site efficiently."
         }
     ]
 }

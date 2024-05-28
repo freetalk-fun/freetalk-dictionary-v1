@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A shallow, wide, open container used for cooking.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "Mom placed the cake in the pan to bake.",
+            "sent2": "The chef grabbed a pan to fry the eggs.",
+            "sent3": "The pan on the stove looked like a shiny mirror.",
+            "sent4": "Her eyes widened as she saw her reflection in the pan.",
+            "sent5": "The sizzle of the bacon in the pan filled the kitchen with a delicious aroma."
         },
         {
             "definition": "To move a camera horizontally to follow a moving subject.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The cameraman had to pan quickly to capture the running athlete.",
+            "sent2": "During the movie scene, the camera panned smoothly across the beautiful landscape.",
+            "sent3": "As the cat chased the laser pointer, the camera panned to keep up with the action.",
+            "sent4": "The camera panned from left to right, revealing the stunning sunset.",
+            "sent5": "The documentary used a slow pan to show the vastness of the desert."
         },
         {
             "definition": "To criticize severely.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The teacher would often pan the students for not completing their homework.",
+            "sent2": "The movie critic decided to pan the new film for its poor acting.",
+            "sent3": "Despite his harsh words, his friends knew he didn't really mean to pan their efforts.",
+            "sent4": "The judge's decision to pan the defendant's actions shocked the courtroom.",
+            "sent5": "The journalist chose to pan the politician's speech for its lack of substance."
         }
     ]
 }

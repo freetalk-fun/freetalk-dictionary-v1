@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A narrow passage or opening",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The mouse squeezed through the styme in the wall.",
+            "sent2": "The hikers found a hidden styme leading to a beautiful meadow.",
+            "sent3": "The styme in the fence was so small that only the cat could fit through.",
+            "sent4": "The styme in the rocks was like a secret doorway to another world.",
+            "sent5": "The styme in the tree trunk was so tiny, it seemed like a magical portal."
         },
         {
             "definition": "To obstruct or block",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Please don't styme the path with fallen branches.",
+            "sent2": "The fallen tree stymed the road, causing a traffic jam.",
+            "sent3": "The mischievous squirrel tried to styme the doorway with acorns.",
+            "sent4": "Her fear stymed her ability to speak during the presentation.",
+            "sent5": "The heavy snowfall stymed our progress up the mountain."
         },
         {
             "definition": "To confine or restrict movement",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The narrow hallway stymed the flow of people trying to exit.",
+            "sent2": "The locked gate stymed the escape of the runaway horse.",
+            "sent3": "The magician used invisible ropes to styme the volunteer's movements.",
+            "sent4": "Her anxiety stymed her from exploring new places.",
+            "sent5": "The dense fog stymed their ability to see more than a few feet ahead."
         }
     ]
 }

@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Think carefully about (something), typically before making a decision.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She considers her options before choosing.",
+            "sent2": "He considers the consequences of his actions.",
+            "sent3": "The cat considers whether to chase the mouse or take a nap.",
+            "sent4": "The student considers the assignment like a puzzle to solve.",
+            "sent5": "The detective considers every clue to solve the mystery."
         },
         {
             "definition": "Regard or treat (someone or something) in a specified way.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "He considers his dog as a loyal companion.",
+            "sent2": "She considers her garden a peaceful retreat.",
+            "sent3": "The child considers the broccoli on his plate with suspicion.",
+            "sent4": "The artist considers the canvas as a blank space for creation.",
+            "sent5": "The teacher considers each student's progress with care."
         },
         {
             "definition": "Take into account when making a judgment or decision.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The chef considers the dietary restrictions of the guests.",
+            "sent2": "She considers the weather forecast before planning the picnic.",
+            "sent3": "The robot considers the obstacles in its path before moving.",
+            "sent4": "The captain considers the wind direction for sailing smoothly.",
+            "sent5": "He considers the feedback from customers to improve the product."
         }
     ]
 }

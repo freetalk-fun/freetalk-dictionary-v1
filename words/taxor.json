@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A person or entity that imposes a financial charge on others.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The taxor collected money from everyone in the town.",
+            "sent2": "The government is the main taxor in our country.",
+            "sent3": "The taxor decided to charge extra for late payments.",
+            "sent4": "The taxor's presence loomed over the citizens like a dark cloud.",
+            "sent5": "Beware of the taxor, for it will demand its due without fail."
         },
         {
             "definition": "To impose a financial charge on someone or something.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She will taxor all businesses equally.",
+            "sent2": "The company decided to taxor its customers for using their services.",
+            "sent3": "He taxored his friends for borrowing his tools.",
+            "sent4": "The government taxors its citizens to fund public services.",
+            "sent5": "The landlord taxors the tenants for water usage every month."
         }
     ]
 }

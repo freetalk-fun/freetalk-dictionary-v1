@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "Cease to be valid.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "My library card expires next week.",
+            "sent2": "The coupon expires at midnight.",
+            "sent3": "I better use this coupon before it expires and becomes useless.",
+            "sent4": "His patience finally expires after waiting for hours.",
+            "sent5": "The warranty expires after one year, so make sure to get it fixed before then."
         },
         {
             "definition": "Come to an end.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The movie's runtime expires in two hours.",
+            "sent2": "The lease on the apartment expires next month.",
+            "sent3": "The party will be fun until it expires at midnight.",
+            "sent4": "The day expires with a beautiful sunset.",
+            "sent5": "The deadline for the project expires tomorrow, so we need to finish it today."
         },
         {
             "definition": "To die.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The flower expires after blooming for a week.",
+            "sent2": "The old tree finally expires after a long life.",
+            "sent3": "The battery in my remote control seems to expire quickly.",
+            "sent4": "The candle slowly expires, flickering its last light.",
+            "sent5": "The fire in the fireplace expires, leaving behind glowing embers."
         }
     ]
 }

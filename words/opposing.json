@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "To act against or provide resistance to something.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She was opposing the new rule at the meeting.",
+            "sent2": "The two teams were opposing each other in the final match.",
+            "sent3": "The cat was playfully opposing the vacuum cleaner.",
+            "sent4": "The waves opposing the shore reminded him of a never-ending battle.",
+            "sent5": "His loud voice opposing the silence made everyone turn their heads."
         },
         {
             "definition": "In a position facing or across from something.",
-            "pos": "preposition"
+            "pos": "preposition",
+            "sent1": "The two friends sat opposing each other at the table.",
+            "sent2": "The house was built opposing the park, offering a beautiful view.",
+            "sent3": "The cat sat opposing the mirror, looking confused.",
+            "sent4": "The mountains stood opposing the setting sun, casting long shadows.",
+            "sent5": "The two cars parked opposing each other on the street."
         },
         {
             "definition": "Contrasting or conflicting with something.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The opposing viewpoints led to a heated debate.",
+            "sent2": "Her dress was of an opposing color to the rest of the room.",
+            "sent3": "The opposing flavors of sweet and salty created a unique dish.",
+            "sent4": "The opposing forces of good and evil clashed in the story.",
+            "sent5": "The opposing political parties had very different ideas about the issue."
         }
     ]
 }

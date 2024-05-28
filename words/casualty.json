@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A person killed or injured in a war or accident.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The soldier was a casualty of the battle.",
+            "sent2": "The car crash resulted in multiple casualties.",
+            "sent3": "The clumsy chef was a casualty of the kitchen, always burning himself.",
+            "sent4": "In the game of chess, the pawn is often a casualty in the strategy.",
+            "sent5": "The casualty of the storm was evident in the fallen trees and damaged houses."
         },
         {
             "definition": "An accident or disaster resulting in death or injury.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The earthquake was a major casualty for the town.",
+            "sent2": "The hurricane caused many casualties along the coast.",
+            "sent3": "The picnic turned into a casualty when it started raining unexpectedly.",
+            "sent4": "The casualty of the fire was the loss of valuable documents.",
+            "sent5": "The casualty of the race was the runner who tripped and fell."
         },
         {
             "definition": "A person or thing that is harmed or destroyed.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The fragile vase was a casualty of the clumsy cat.",
+            "sent2": "The environment is often a casualty of industrial development.",
+            "sent3": "The casualty of the party was the cake that fell on the floor.",
+            "sent4": "In the battle of nature versus technology, the casualty is usually nature.",
+            "sent5": "The casualty of the argument was their friendship, now strained."
         }
     ]
 }

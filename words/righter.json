@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A person who corrects or improves something.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The righter fixed the spelling mistakes in the report.",
+            "sent2": "The teacher is the righter of our homework assignments.",
+            "sent3": "The righter made sure the painting was perfect before the exhibition.",
+            "sent4": "She was like a righter of wrongs, always seeking justice.",
+            "sent5": "The righter's keen eye for detail helped improve the project significantly."
         },
         {
             "definition": "More correct or accurate.",
-            "pos": "adjective"
+            "pos": "adjective",
+            "sent1": "The righter answer to the math problem was 25.",
+            "sent2": "Her guess was righter than mine in the game.",
+            "sent3": "The righter solution saved us a lot of time and effort.",
+            "sent4": "His prediction was righter than anyone else's.",
+            "sent5": "The righter measurements ensured the perfect fit for the dress."
         },
         {
             "definition": "To make something more correct or accurate.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "She rightered the crooked picture on the wall.",
+            "sent2": "He righters his essays before submitting them.",
+            "sent3": "The chef rightered the seasoning in the soup with a pinch of salt.",
+            "sent4": "The editor rightered the grammar errors in the manuscript.",
+            "sent5": "They rightered the course of the ship to avoid the storm."
         }
     ]
 }

@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A person who journeys to a sacred place for religious reasons.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The pilgrims traveled to the holy city to pray.",
+            "sent2": "The pilgrims visited the temple to worship.",
+            "sent3": "The pilgrims sang hymns as they walked to the church.",
+            "sent4": "The pilgrims' devotion shone brightly on their faces.",
+            "sent5": "The pilgrims' faith guided them on their spiritual journey."
         },
         {
             "definition": "A group of people who travel together for a specific purpose.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The school pilgrims went on a field trip to the museum.",
+            "sent2": "The team of pilgrims set out on a mission to help others.",
+            "sent3": "The family pilgrims packed snacks for their road trip.",
+            "sent4": "The band of pilgrims marched in unison towards their goal.",
+            "sent5": "The group of pilgrims shared stories around the campfire."
         },
         {
             "definition": "To journey as a pilgrim.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "They decided to pilgrim to the ancient shrine.",
+            "sent2": "She will pilgrim to the sacred site next month.",
+            "sent3": "Let's pilgrim together to the historic cathedral.",
+            "sent4": "He pilgrims annually to the mountain for reflection.",
+            "sent5": "The group plans to pilgrim across the country for charity."
         }
     ]
 }

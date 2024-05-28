@@ -3,11 +3,21 @@
     "meanings": [
         {
             "definition": "A placeholder name for a variable or function in computer programming.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "In the code, the programmer used 'foo' to represent a temporary value.",
+            "sent2": "The software engineer explained that 'foo' is commonly used in programming as a placeholder.",
+            "sent3": "During the coding workshop, everyone laughed when the instructor kept saying 'foo'.",
+            "sent4": "The concept of 'foo' in programming is like a blank canvas waiting to be filled with data.",
+            "sent5": "Remember, 'foo' is like a blank sheet of paper where you can write any value."
         },
         {
             "definition": "A nonsense word used in slang or humorous contexts.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "The comedian's joke was so funny that he just made up the word 'foo'.",
+            "sent2": "Kids often create their own secret language with silly words like 'foo'.",
+            "sent3": "At the party, they played a game where you had to say 'foo' every time you sneezed.",
+            "sent4": "In the world of make-believe, 'foo' is the magic word that makes things disappear.",
+            "sent5": "The word 'foo' is like a sprinkle of fun in a boring conversation."
         }
     ]
 }

@@ -3,15 +3,30 @@
     "meanings": [
         {
             "definition": "A condiment made from tomatoes, vinegar, sugar, and spices.",
-            "pos": "noun"
+            "pos": "noun",
+            "sent1": "I put catchup on my burger for extra flavor.",
+            "sent2": "The catchup added a tangy kick to the fries.",
+            "sent3": "The catchup spilled on the table, creating a colorful mess.",
+            "sent4": "Her catchup recipe was a secret passed down for generations.",
+            "sent5": "The catchup bottle was almost empty, so I had to shake it vigorously."
         },
         {
             "definition": "To bring something to a successful conclusion.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "Let's catchup on our project to finish it on time.",
+            "sent2": "She worked hard to catchup on her missed assignments.",
+            "sent3": "The team's effort to catchup paid off with a big win.",
+            "sent4": "He tried to catchup with the latest technology trends.",
+            "sent5": "The students needed to catchup on the lesson before the test."
         },
         {
             "definition": "To reach or overtake someone or something in a race or competition.",
-            "pos": "verb"
+            "pos": "verb",
+            "sent1": "The athlete sprinted to catchup with the leader.",
+            "sent2": "In the final lap, she managed to catchup and take the lead.",
+            "sent3": "The tortoise used a clever strategy to catchup with the hare.",
+            "sent4": "The company aimed to catchup with its competitors in market share.",
+            "sent5": "With determination, he was able to catchup and win the race."
         }
     ]
 }
