@@ -1,36 +1,30 @@
 # The Freetalk Dictionary - V1
 
-This is V1 of a dictionary data set generated with the help of my friends, "Josh Ogden-Davis" & "chadGPT".
-I'm using it to build an English language learning application.
+Welcome to version 1 of the Freetalk Dictionary, created with help from Josh Ogden-Davis and "chadGPT". This dataset powers an English language learning app—and there’s much more to come!
 
-Tons more stuff to come in followup versions! Stay tuned!
+**Pull requests are welcome!**
 
-PRs welcome!
+## 🤠 Usage
 
-## 🤠 How you can use it?
-
-- ✅ Free to use for personal or research projects.
-- 💼 Commercial use requires a license — [See COMMERCIAL.md](./COMMERCIAL.md)
-- 📜 Licensed under CC BY-NC 4.0 — [LICENSE](./LICENSE)
-
+- ✅ Free for personal or research use
+- 💼 Commercial use requires a license
+- 📜 Licensed under [CC BY-NC 4.0](./LICENSE)
 
 ## 👩‍🔬 Personal & Research Projects
 
-Would love to hear what you got cookin'!
-Let's connect and "talk shop"?
-erondpowell@gmail.com
+Working on something cool? Let’s connect and talk shop!
 
-## 📩 Business Inquiries Welcome
+## 📩 Commercial Use
 
-If you're building a commercial product and want to use this dataset, let’s talk!
-We offer flexible, tiered commercial licenses, API services based on usage and distribution size. 
-And maybe custom stuff too!
+Building a commercial product? Contact us for flexible licensing, API access, and custom solutions.
+
+## 🏔️ Investment Opportunities
+
+We're building an English language learning platform that takes learners from zero to fluent, with no steps skipped... *which, oddly doesn't exist!*
+If you’re an investor with expertise in the education or ESL space, we’d love to hear from you!
+
+
+## Contact
 
 - Email: erondpowell@gmail.com
-- Subject: “Dictionary Dataset Licensing”
-
-## 🏔️ Open to Investment!
-
-Our goal is to build an English language learning platform that takes students from zero to fluent, with no steps skipped... *Which, oddly doesn't exist!*
-
-Investors with expertise in the (ideally *language*) education industry, feel free to reach out! erondpowell@gmail.com
+- Subject: "The Freetalk Dictionary"
