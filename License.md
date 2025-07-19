@@ -1,0 +1,32 @@
+Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
+
+You are free to:
+- Share — copy and redistribute the material in any medium or format
+- Adapt — remix, transform, and build upon the material
+
+Under the following terms:
+- Attribution — You must give appropriate credit, provide a link to the license, and indicate if changes were made.
+- NonCommercial — You may not use the material for commercial purposes without permission.
+
+# Commercial Licensing
+
+This dataset is free for:
+- Personal projects
+- Academic research
+
+## Commercial Use
+
+Commercial use is not permitted under the CC BY-NC 4.0 license.
+
+This includes, but is not limited to:
+
+- Integrating the dataset into paid products, websites, web apps, APIs, printed content, video games, language learning apps / products, or mobile apps.
+- Using the data for training commercial AI/ML models.
+- Redistributing the dataset as part of a commercial bundle or service.
+
+If you are interested in a commercial license, please contact: erondpowell@gmail.com
+
+Pricing varies depending on usage and distribution volume.
+We can provide (code & content) development as well as consulting services.
+
+Full license: https://creativecommons.org/licenses/by-nc/4.0/
